@@ -24,10 +24,10 @@ related_reaction:
 
 **Layer:** Consequence — cognitive surrender
 
-**Cause:** [[public/platform_mechanisms/attention_harvesting_public|Attention Harvesting]] · [[public/ai_specific/ai_dependency_public|AI Dependency]]
+**Cause:** [[terms/platform_mechanisms/attention_harvesting_public|Attention Harvesting]] · [[terms/ai_specific/ai_dependency_public|AI Dependency]]
 **Mechanism:** *—*
-**Consequence:** [[public/students/deskilling_public|Deskilling]]
-**Reaction:** [[public/appropriated_counter_force/digital_detox_public|Digital Detox]]
+**Consequence:** [[terms/students/deskilling_public|Deskilling]]
+**Reaction:** [[terms/appropriated_counter_force/digital_detox_public|Digital Detox]]
 
 **Public entry:** this document
 **Deep analysis:** *not yet created*
@@ -54,12 +54,12 @@ The concept builds on research into automation bias — the documented tendency 
 Verification takes time and effort. When a system is usually right, checking every output is inefficient. Cognitive surrender is often rational in the short term.
 
 **The Friction**
-[[public/platform_mechanisms/attention_harvesting_public|Attention Harvesting]] — the systematic extraction of attention — creates conditions for cognitive surrender by fragmenting focus and rewarding passive consumption. [[public/ai_specific/ai_dependency_public|AI Dependency]] deepens it: when the tool is always available, the habit of reasoning without it fades.
+[[terms/platform_mechanisms/attention_harvesting_public|Attention Harvesting]] — the systematic extraction of attention — creates conditions for cognitive surrender by fragmenting focus and rewarding passive consumption. [[terms/ai_specific/ai_dependency_public|AI Dependency]] deepens it: when the tool is always available, the habit of reasoning without it fades.
 
 **Why This Matters**
 Once you see cognitive surrender as a systemic condition rather than a personal failure, you stop asking "why didn't I check?" and start asking what conditions make not-checking the path of least resistance — and who benefits from that.
 
-**See also:** [[public/platform_mechanisms/attention_harvesting_public|Attention Harvesting]] · [[public/ai_specific/ai_dependency_public|AI Dependency]] · [[public/students/deskilling_public|Deskilling]]
+**See also:** [[terms/platform_mechanisms/attention_harvesting_public|Attention Harvesting]] · [[terms/ai_specific/ai_dependency_public|AI Dependency]] · [[terms/students/deskilling_public|Deskilling]]
 
 `#behaviour-relationships` `#power` `#framing` `#digital-alertness`
 

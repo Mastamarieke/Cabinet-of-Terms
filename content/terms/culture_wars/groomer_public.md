@@ -25,10 +25,10 @@ related_reaction:
 
 **Layer:** Mechanism — Semantic capture: safety term weaponised as political label
 
-**Cause:** [[public/platform_mechanisms/attention_economy_public|Attention Economy]] · [[public/platform_mechanisms/recommender_systems_public|Recommender Systems]]
-**Mechanism:** [[public/platform_mechanisms/ragebaiting_public|Ragebaiting]]
+**Cause:** [[terms/platform_mechanisms/attention_economy_public|Attention Economy]] · [[terms/platform_mechanisms/recommender_systems_public|Recommender Systems]]
+**Mechanism:** [[terms/platform_mechanisms/ragebaiting_public|Ragebaiting]]
 **Consequence:** *—*
-**Reaction:** [[public/culture_wars/deplatforming_public|Deplatforming]]
+**Reaction:** [[terms/culture_wars/deplatforming_public|Deplatforming]]
 
 **Public entry:** this document
 **Deep analysis:** *not yet created*
@@ -60,7 +60,7 @@ Semantic capture is the mechanism: the authority of the original term is borrowe
 **Why This Matters**
 Once you see Groomer as semantic capture, you see how the weaponisation of protective language is itself a form of harm.
 
-**See also:** [[public/culture_wars/dehumanization_public|Dehumanization]] · [[public/platform_mechanisms/ragebaiting_public|Ragebaiting]]
+**See also:** [[terms/culture_wars/dehumanization_public|Dehumanization]] · [[terms/platform_mechanisms/ragebaiting_public|Ragebaiting]]
 
 `#culture-wars-political-language` `#power` `#framing` `#digital-alertness`
 

@@ -26,10 +26,10 @@ related_reaction:
 
 **Layer:** Consequence — Compulsive consumption of negative news
 
-**Cause:** [[public/platform_mechanisms/attention_harvesting_public|Attention Harvesting]] · [[public/platform_mechanisms/recommender_systems_public|Recommender Systems]]
-**Mechanism:** [[public/platform_mechanisms/dopamine_feedback_loops_public|Dopamine Feedback Loops]] · [[public/platform_mechanisms/ragebaiting_public|Ragebaiting]]
-**Consequence:** [[public/behaviour_relationships/cognitive_surrender_public|Cognitive Surrender]]
-**Reaction:** [[public/appropriated_counter_force/digital_detox_public|Digital Detox]]
+**Cause:** [[terms/platform_mechanisms/attention_harvesting_public|Attention Harvesting]] · [[terms/platform_mechanisms/recommender_systems_public|Recommender Systems]]
+**Mechanism:** [[terms/platform_mechanisms/dopamine_feedback_loops_public|Dopamine Feedback Loops]] · [[terms/platform_mechanisms/ragebaiting_public|Ragebaiting]]
+**Consequence:** [[terms/behaviour_relationships/cognitive_surrender_public|Cognitive Surrender]]
+**Reaction:** [[terms/appropriated_counter_force/digital_detox_public|Digital Detox]]
 
 **Public entry:** this document
 **Deep analysis:** *not yet created*
@@ -56,12 +56,12 @@ The term was coined by Karen Ho on Twitter in 2020 during the COVID-19 pandemic 
 The drive to stay informed during crises is real and legitimate. Doomscrolling begins as vigilance — the need to know what is happening — and becomes compulsion.
 
 **The Friction**
-[[public/platform_mechanisms/recommender_systems_public|Recommender Systems]] — optimising for engagement — amplify anxiety-producing content because it drives more engagement than neutral content. [[public/platform_mechanisms/ragebaiting_public|Ragebaiting]] — deliberate provocation of anger — uses the same mechanism. Research documents that users continue doomscrolling despite knowing it causes harm — the behavioural paradox: awareness is insufficient to interrupt the loop.
+[[terms/platform_mechanisms/recommender_systems_public|Recommender Systems]] — optimising for engagement — amplify anxiety-producing content because it drives more engagement than neutral content. [[terms/platform_mechanisms/ragebaiting_public|Ragebaiting]] — deliberate provocation of anger — uses the same mechanism. Research documents that users continue doomscrolling despite knowing it causes harm — the behavioural paradox: awareness is insufficient to interrupt the loop.
 
 **Why This Matters**
 Once you see doomscrolling as a consequence of platform design rather than personal weakness, you see that the inability to stop is not a failure of willpower — it is the mechanism working as intended.
 
-**See also:** [[public/platform_mechanisms/attention_harvesting_public|Attention Harvesting]] · [[public/platform_mechanisms/recommender_systems_public|Recommender Systems]] · [[public/appropriated_counter_force/digital_detox_public|Digital Detox]]
+**See also:** [[terms/platform_mechanisms/attention_harvesting_public|Attention Harvesting]] · [[terms/platform_mechanisms/recommender_systems_public|Recommender Systems]] · [[terms/appropriated_counter_force/digital_detox_public|Digital Detox]]
 
 `#behaviour-relationships` `#power` `#framing` `#digital-alertness`
 

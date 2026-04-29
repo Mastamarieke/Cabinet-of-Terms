@@ -26,9 +26,9 @@ related_reaction:
 
 **Layer:** Mechanism — Life as an editorial product
 
-**Cause:** [[public/platform_mechanisms/attention_economy_public|Attention Economy]] · [[public/society_power/surveillance_capitalism_public|Surveillance Capitalism]]
-**Mechanism:** [[public/beauty_self_image/highlight_reel_public|Highlight Reel]] · [[public/students/personal_branding_public|Personal Branding]]
-**Consequence:** [[public/beauty_self_image/comparison_culture_public|Comparison Culture]]
+**Cause:** [[terms/platform_mechanisms/attention_economy_public|Attention Economy]] · [[terms/society_power/surveillance_capitalism_public|Surveillance Capitalism]]
+**Mechanism:** [[terms/beauty_self_image/highlight_reel_public|Highlight Reel]] · [[terms/students/personal_branding_public|Personal Branding]]
+**Consequence:** [[terms/beauty_self_image/comparison_culture_public|Comparison Culture]]
 **Reaction:** *—*
 
 **Public entry:** this document
@@ -56,12 +56,12 @@ The flat lay took forty minutes. The caption took twenty. The life it represents
 Thoughtful self-presentation is valuable: clarity about what matters and the ability to communicate meaningfully are genuine skills.
 
 **The Friction**
-[[public/beauty_self_image/highlight_reel_public|Highlight Reel]] is the content output; Curated Life is the broader identity practice. The labour of curation is invisible in the output. [[public/students/personal_branding_public|Personal Branding]] provides the commercial rationale.
+[[terms/beauty_self_image/highlight_reel_public|Highlight Reel]] is the content output; Curated Life is the broader identity practice. The labour of curation is invisible in the output. [[terms/students/personal_branding_public|Personal Branding]] provides the commercial rationale.
 
 **Why This Matters**
 Once you see the Curated Life as a platform labour category rather than self-expression, you see that the editorial practice applied to personal life produces value primarily for the platforms that distribute it.
 
-**See also:** [[public/beauty_self_image/highlight_reel_public|Highlight Reel]] · [[public/students/personal_branding_public|Personal Branding]] · [[public/beauty_self_image/comparison_culture_public|Comparison Culture]]
+**See also:** [[terms/beauty_self_image/highlight_reel_public|Highlight Reel]] · [[terms/students/personal_branding_public|Personal Branding]] · [[terms/beauty_self_image/comparison_culture_public|Comparison Culture]]
 
 `#beauty-influencers-self-image` `#power` `#framing` `#digital-alertness`
 

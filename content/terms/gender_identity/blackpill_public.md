@@ -26,10 +26,10 @@ related_reaction:
 
 **Layer:** Mechanism — the deterministic worldview that attractiveness is fate
 
-**Cause:** [[public/gender_identity/manosphere_public|manosphere]] · [[public/gender_identity/smv_public|SMV]]
-**Mechanism:** [[public/gender_identity/incel_public|incel]]
+**Cause:** [[terms/gender_identity/manosphere_public|manosphere]] · [[terms/gender_identity/smv_public|SMV]]
+**Mechanism:** [[terms/gender_identity/incel_public|incel]]
 **Consequence:** [[radicalisation]] · [[dehumanization]]
-**Reaction:** [[public/culture_wars/deplatforming_public|deplatforming]]
+**Reaction:** [[terms/culture_wars/deplatforming_public|deplatforming]]
 
 **Public entry:** this document
 **Deep analysis:** *in production*
@@ -53,15 +53,15 @@ Emerging from the manosphere in the 2010s, the blackpill evolved from the red pi
 > Blackpill is the deterministic worldview that attractiveness is fate — nothing you do can change your position in the hierarchy.
 
 **The Appeal**
-For someone exhausted by self-improvement, blackpill offers relief. [[public/gender_identity/smv_public|SMV]] — Sexual Market Value, the idea that attractiveness can be quantified — tells you the game is rigged from the start. [[public/gender_identity/incel_public|Incel]] — involuntary celibacy as identity — gives you a community that understands. The pain is not your fault; it's biology. The appeal is powerful because hope is exhausting.
+For someone exhausted by self-improvement, blackpill offers relief. [[terms/gender_identity/smv_public|SMV]] — Sexual Market Value, the idea that attractiveness can be quantified — tells you the game is rigged from the start. [[terms/gender_identity/incel_public|Incel]] — involuntary celibacy as identity — gives you a community that understands. The pain is not your fault; it's biology. The appeal is powerful because hope is exhausting.
 
 **The Friction**
-But the relief that absolves you also traps you. If nothing can change, nothing matters. [[public/platform_mechanisms/recommender_systems_public|Recommender Systems]] — algorithms that feed you more of what keeps you watching — turn the ecosystem into a pipeline. A man searching for confidence gets routed toward [[public/gender_identity/manosphere_public|Manosphere]] content, where women are framed as shallow — then toward blackpill fatalism, where despair is framed as clarity. The path feels like truth. It is design.
+But the relief that absolves you also traps you. If nothing can change, nothing matters. [[terms/platform_mechanisms/recommender_systems_public|Recommender Systems]] — algorithms that feed you more of what keeps you watching — turn the ecosystem into a pipeline. A man searching for confidence gets routed toward [[terms/gender_identity/manosphere_public|Manosphere]] content, where women are framed as shallow — then toward blackpill fatalism, where despair is framed as clarity. The path feels like truth. It is design.
 
 **Why This Matters**
 Once you see blackpill as a mechanism rather than a truth, you see how the same platforms that sell self-help also sell despair. The hierarchy is not biological reality — it is a product that profits from people who believe it is.
 
-**See also:** [[public/gender_identity/manosphere_public|manosphere]] · [[public/gender_identity/incel_public|incel]] · [[public/gender_identity/smv_public|smv-sexual-market-value]] · [[public/gender_identity/red_pill_public|red-pill]]
+**See also:** [[terms/gender_identity/manosphere_public|manosphere]] · [[terms/gender_identity/incel_public|incel]] · [[terms/gender_identity/smv_public|smv-sexual-market-value]] · [[terms/gender_identity/red_pill_public|red-pill]]
 
 `#gender-identity` `#power` `#framing` `#digital-alertness`
 

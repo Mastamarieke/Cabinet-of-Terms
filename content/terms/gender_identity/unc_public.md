@@ -25,8 +25,8 @@ related_reaction:
 
 **Layer:** Mechanism — Unwanted parent or boring adult; outside the subcultural ingroup
 
-**Cause:** [[public/platform_mechanisms/attention_economy_public|Attention Economy]] · [[public/society_power/surveillance_capitalism_public|Surveillance Capitalism]]
-**Mechanism:** [[public/gender_identity/manosphere_public|Manosphere]]
+**Cause:** [[terms/platform_mechanisms/attention_economy_public|Attention Economy]] · [[terms/society_power/surveillance_capitalism_public|Surveillance Capitalism]]
+**Mechanism:** [[terms/gender_identity/manosphere_public|Manosphere]]
 **Consequence:** *—*
 
 **Public entry:** this document
@@ -59,7 +59,7 @@ The term functions as a dismissal mechanism: it preemptively categorises older p
 **Why This Matters**
 Once you see UNC as a boundary enforcement mechanism rather than harmless slang, you see how subcultural language can preemptively close conversations — and how platforms benefit from audiences sorted into age-defined silos.
 
-**See also:** [[public/gender_identity/npc_public|NPC]] · [[public/gender_identity/manosphere_public|Manosphere]]
+**See also:** [[terms/gender_identity/npc_public|NPC]] · [[terms/gender_identity/manosphere_public|Manosphere]]
 
 `#gender-identity` `#power` `#framing` `#digital-alertness`
 

@@ -26,8 +26,8 @@ related_reaction:
 
 **Layer:** Mechanism — Market that only exists due to destruction
 
-**Cause:** [[public/society_power/technofeudalism_public|Technofeudalism]] · [[public/society_power/surveillance_capitalism_public|Surveillance Capitalism]]
-**Mechanism:** [[public/society_power/military_industrial_complex_public|Military-Industrial Complex]] · [[public/society_power/digital_military_industrial_complex_public|Digital-Military-Industrial Complex]]
+**Cause:** [[terms/society_power/technofeudalism_public|Technofeudalism]] · [[terms/society_power/surveillance_capitalism_public|Surveillance Capitalism]]
+**Mechanism:** [[terms/society_power/military_industrial_complex_public|Military-Industrial Complex]] · [[terms/society_power/digital_military_industrial_complex_public|Digital-Military-Industrial Complex]]
 **Consequence:** *—*
 **Reaction:** *—*
 
@@ -56,12 +56,12 @@ The concept describes the documented relationship between military destruction a
 Reconstruction is necessary after destruction. Private sector capacity to rebuild is real and valuable.
 
 **The Friction**
-[[public/society_power/military_industrial_complex_public|Military-Industrial Complex]] creates the destruction; the Reconstruction Economy profits from the aftermath. The same contractors often participate in both. [[public/society_power/revolving_door_public|Revolving Door]] personnel move between defence, government, and reconstruction contracts.
+[[terms/society_power/military_industrial_complex_public|Military-Industrial Complex]] creates the destruction; the Reconstruction Economy profits from the aftermath. The same contractors often participate in both. [[terms/society_power/revolving_door_public|Revolving Door]] personnel move between defence, government, and reconstruction contracts.
 
 **Why This Matters**
 Once you see the Reconstruction Economy as a structural incentive, you see that the profitability of rebuilding affects decisions about destroying.
 
-**See also:** [[public/society_power/military_industrial_complex_public|Military-Industrial Complex]] · [[public/society_power/revolving_door_public|Revolving Door]] · [[public/society_power/technofeudalism_public|Technofeudalism]]
+**See also:** [[terms/society_power/military_industrial_complex_public|Military-Industrial Complex]] · [[terms/society_power/revolving_door_public|Revolving Door]] · [[terms/society_power/technofeudalism_public|Technofeudalism]]
 
 `#society-power` `#power` `#framing` `#digital-alertness`
 

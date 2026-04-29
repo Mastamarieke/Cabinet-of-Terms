@@ -26,10 +26,10 @@ related_reaction:
 
 **Layer:** Cause — Extension for the digital age; Big Tech and Pentagon
 
-**Cause:** [[public/society_power/surveillance_capitalism_public|Surveillance Capitalism]] · [[public/society_power/technofeudalism_public|Technofeudalism]]
-**Mechanism:** [[public/society_power/military_industrial_complex_public|Military-Industrial Complex]] · [[public/society_power/dual_use_technology_public|Dual-Use Technology]]
+**Cause:** [[terms/society_power/surveillance_capitalism_public|Surveillance Capitalism]] · [[terms/society_power/technofeudalism_public|Technofeudalism]]
+**Mechanism:** [[terms/society_power/military_industrial_complex_public|Military-Industrial Complex]] · [[terms/society_power/dual_use_technology_public|Dual-Use Technology]]
 **Consequence:** *—*
-**Reaction:** [[public/design_philosophy/unblackboxing_public|Unblackboxing]]
+**Reaction:** [[terms/design_philosophy/unblackboxing_public|Unblackboxing]]
 
 **Public entry:** this document
 **Deep analysis:** *not yet created*
@@ -56,12 +56,12 @@ The concept emerged from journalism documenting relationships between tech compa
 Technological capability has genuine national security applications. The partnership between tech and defence produces real capabilities.
 
 **The Friction**
-[[public/society_power/dual_use_technology_public|Dual-Use Technology]] is the mechanism: civilian and military applications share the same infrastructure. Consumer data collected for advertising has targeting applications. AI models trained on civilian data are deployed in military contexts.
+[[terms/society_power/dual_use_technology_public|Dual-Use Technology]] is the mechanism: civilian and military applications share the same infrastructure. Consumer data collected for advertising has targeting applications. AI models trained on civilian data are deployed in military contexts.
 
 **Why This Matters**
 Once you see the Digital-Military-Industrial Complex as a structural entanglement, you see that every interaction with major tech platforms occurs within a military-commercial nexus.
 
-**See also:** [[public/society_power/military_industrial_complex_public|Military-Industrial Complex]] · [[public/society_power/dual_use_technology_public|Dual-Use Technology]] · [[public/society_power/revolving_door_public|Revolving Door]]
+**See also:** [[terms/society_power/military_industrial_complex_public|Military-Industrial Complex]] · [[terms/society_power/dual_use_technology_public|Dual-Use Technology]] · [[terms/society_power/revolving_door_public|Revolving Door]]
 
 `#society-power` `#power` `#framing` `#digital-alertness`
 

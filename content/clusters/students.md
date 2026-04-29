@@ -13,7 +13,7 @@ Terms relevant to students in higher education, particularly in creative discipl
 
 ## Public Entries
 
-[[public/students/deskilling_public|Deskilling]] · [[public/students/hustle_culture_public|Hustle Culture]] · [[public/students/creator_economy_public|Creator Economy]] · [[public/students/filter_bubble_public|Filter Bubble]] · [[public/students/echo_chamber_public|Echo Chamber]] · [[public/students/deepfake_public|Deepfake]] · [[public/students/imposter_syndrome_public|Imposter Syndrome]] · [[public/students/personal_branding_public|Personal Branding]] · [[public/students/doom_spending_public|Doom Spending]]
+[[terms/students/deskilling_public|Deskilling]] · [[terms/students/hustle_culture_public|Hustle Culture]] · [[terms/students/creator_economy_public|Creator Economy]] · [[terms/students/filter_bubble_public|Filter Bubble]] · [[terms/students/echo_chamber_public|Echo Chamber]] · [[terms/students/deepfake_public|Deepfake]] · [[terms/students/imposter_syndrome_public|Imposter Syndrome]] · [[terms/students/personal_branding_public|Personal Branding]] · [[terms/students/doom_spending_public|Doom Spending]]
 
 ---
 

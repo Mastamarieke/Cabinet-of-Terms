@@ -25,8 +25,8 @@ related_reaction:
 
 **Layer:** Mechanism — Maintaining minimal presence to keep someone interested
 
-**Cause:** [[public/platform_mechanisms/attention_economy_public|Attention Economy]] · [[public/platform_mechanisms/gamification_creep_public|Gamification Creep]]
-**Mechanism:** [[public/platform_mechanisms/dopamine_feedback_loops_public|Dopamine Feedback Loops]]
+**Cause:** [[terms/platform_mechanisms/attention_economy_public|Attention Economy]] · [[terms/platform_mechanisms/gamification_creep_public|Gamification Creep]]
+**Mechanism:** [[terms/platform_mechanisms/dopamine_feedback_loops_public|Dopamine Feedback Loops]]
 **Consequence:** *—*
 **Reaction:** *—*
 
@@ -55,12 +55,12 @@ The term emerged in dating culture discourse around 2017, as dating apps made it
 Keeping options open is a rational strategy in a platform environment that continuously surfaces new alternatives. Breadcrumbing preserves a connection at minimal cost.
 
 **The Friction**
-[[public/platform_mechanisms/dopamine_feedback_loops_public|Dopamine Feedback Loops]] — variable reward schedules — operate at the relational level: intermittent attention is more compelling than consistent attention, and the breadcrumber exploits this. The platform architecture that enables low-cost contact also makes it easy to be a source of intermittent reward for someone else.
+[[terms/platform_mechanisms/dopamine_feedback_loops_public|Dopamine Feedback Loops]] — variable reward schedules — operate at the relational level: intermittent attention is more compelling than consistent attention, and the breadcrumber exploits this. The platform architecture that enables low-cost contact also makes it easy to be a source of intermittent reward for someone else.
 
 **Why This Matters**
 Once you see breadcrumbing as a relational pattern shaped by platform economics rather than individual cruelty, you see that the cost structure of digital contact has changed what counts as maintaining a relationship.
 
-**See also:** [[public/platform_mechanisms/dopamine_feedback_loops_public|Dopamine Feedback Loops]] · [[public/behaviour_relationships/orbiting_public|Orbiting]] · [[public/behaviour_relationships/ghosting_public|Ghosting]]
+**See also:** [[terms/platform_mechanisms/dopamine_feedback_loops_public|Dopamine Feedback Loops]] · [[terms/behaviour_relationships/orbiting_public|Orbiting]] · [[terms/behaviour_relationships/ghosting_public|Ghosting]]
 
 `#behaviour-relationships` `#power` `#framing` `#digital-alertness`
 

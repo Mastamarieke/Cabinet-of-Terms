@@ -24,10 +24,10 @@ related_reaction:
 
 **Layer:** Mechanism — attention harvesting
 
-**Cause:** [[public/society_power/surveillance_capitalism_public|Surveillance Capitalism]] · [[public/platform_mechanisms/attention_economy_public|Attention Economy]]
-**Mechanism:** [[public/platform_mechanisms/recommender_systems_public|Recommender Systems]]
-**Consequence:** [[public/behaviour_relationships/cognitive_surrender_public|Cognitive Surrender]]
-**Reaction:** [[public/appropriated_counter_force/digital_detox_public|Digital Detox]]
+**Cause:** [[terms/society_power/surveillance_capitalism_public|Surveillance Capitalism]] · [[terms/platform_mechanisms/attention_economy_public|Attention Economy]]
+**Mechanism:** [[terms/platform_mechanisms/recommender_systems_public|Recommender Systems]]
+**Consequence:** [[terms/behaviour_relationships/cognitive_surrender_public|Cognitive Surrender]]
+**Reaction:** [[terms/appropriated_counter_force/digital_detox_public|Digital Detox]]
 
 **Public entry:** this document
 **Deep analysis:** *not yet created*
@@ -54,12 +54,12 @@ The term circulates in technology criticism and platform studies. It gained trac
 Platforms offer genuine value: connection, entertainment, information, creativity. The same mechanisms that harvest attention also make the experience feel rewarding.
 
 **The Friction**
-[[public/platform_mechanisms/recommender_systems_public|Recommender Systems]] — algorithms that learn from engagement to surface more of what keeps you watching — are the technical infrastructure. YouTube's own data indicates approximately 70% of viewing is driven by recommendations, not user choice. The design goal is not your satisfaction — it is your return.
+[[terms/platform_mechanisms/recommender_systems_public|Recommender Systems]] — algorithms that learn from engagement to surface more of what keeps you watching — are the technical infrastructure. YouTube's own data indicates approximately 70% of viewing is driven by recommendations, not user choice. The design goal is not your satisfaction — it is your return.
 
 **Why This Matters**
 Once you see attention harvesting as a design intention rather than a side effect, you stop asking "why can't I stop scrolling?" and start asking who benefits from the answer to that question.
 
-**See also:** [[public/platform_mechanisms/attention_economy_public|Attention Economy]] · [[public/platform_mechanisms/recommender_systems_public|Recommender Systems]] · [[public/behaviour_relationships/cognitive_surrender_public|Cognitive Surrender]] · [[public/appropriated_counter_force/digital_detox_public|Digital Detox]]
+**See also:** [[terms/platform_mechanisms/attention_economy_public|Attention Economy]] · [[terms/platform_mechanisms/recommender_systems_public|Recommender Systems]] · [[terms/behaviour_relationships/cognitive_surrender_public|Cognitive Surrender]] · [[terms/appropriated_counter_force/digital_detox_public|Digital Detox]]
 
 `#platform-mechanisms-economics` `#power` `#framing` `#digital-alertness`
 

@@ -25,9 +25,9 @@ related_reaction:
 
 **Layer:** Mechanism — Meaningless digital communication as social ritual
 
-**Cause:** [[public/platform_mechanisms/attention_economy_public|Attention Economy]] · [[public/platform_mechanisms/gamification_creep_public|Gamification Creep]]
-**Mechanism:** [[public/platform_mechanisms/dopamine_feedback_loops_public|Dopamine Feedback Loops]]
-**Consequence:** [[public/behaviour_relationships/cognitive_surrender_public|Cognitive Surrender]]
+**Cause:** [[terms/platform_mechanisms/attention_economy_public|Attention Economy]] · [[terms/platform_mechanisms/gamification_creep_public|Gamification Creep]]
+**Mechanism:** [[terms/platform_mechanisms/dopamine_feedback_loops_public|Dopamine Feedback Loops]]
+**Consequence:** [[terms/behaviour_relationships/cognitive_surrender_public|Cognitive Surrender]]
 **Reaction:** *—*
 
 **Public entry:** this document
@@ -55,12 +55,12 @@ Phatic communication is a linguistic concept from Malinowski (1923). Applied to 
 Maintaining social relationships requires effort. Phatic interaction reduces that effort: a like signals presence and care with minimal investment. The social function is real.
 
 **The Friction**
-[[public/platform_mechanisms/gamification_creep_public|Gamification Creep]] — game logic entering social interaction — converts relationship maintenance into a metric. The like is counted, ranked, and fed back into [[public/platform_mechanisms/recommender_systems_public|Recommender Systems]]. Platforms profit from phatic interaction because it generates engagement data without requiring content. The social bond is maintained by the user; the data is harvested by the platform.
+[[terms/platform_mechanisms/gamification_creep_public|Gamification Creep]] — game logic entering social interaction — converts relationship maintenance into a metric. The like is counted, ranked, and fed back into [[terms/platform_mechanisms/recommender_systems_public|Recommender Systems]]. Platforms profit from phatic interaction because it generates engagement data without requiring content. The social bond is maintained by the user; the data is harvested by the platform.
 
 **Why This Matters**
 Once you see phatic interaction as an engagement mechanism rather than a social act, you see that the like is not primarily communication — it is data production. The relationship maintenance is real; the harvest is silent.
 
-**See also:** [[public/platform_mechanisms/dopamine_feedback_loops_public|Dopamine Feedback Loops]] · [[public/platform_mechanisms/gamification_creep_public|Gamification Creep]] · [[public/behaviour_relationships/cognitive_surrender_public|Cognitive Surrender]]
+**See also:** [[terms/platform_mechanisms/dopamine_feedback_loops_public|Dopamine Feedback Loops]] · [[terms/platform_mechanisms/gamification_creep_public|Gamification Creep]] · [[terms/behaviour_relationships/cognitive_surrender_public|Cognitive Surrender]]
 
 `#behaviour-relationships` `#power` `#framing` `#digital-alertness`
 

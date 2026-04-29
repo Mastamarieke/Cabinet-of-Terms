@@ -26,10 +26,10 @@ related_reaction:
 
 **Layer:** Mechanism — Producing convincing falsehoods; term conceals absence of consciousness
 
-**Cause:** [[public/platform_mechanisms/ai_as_a_utility_public|AI as a Utility]] · [[public/society_power/surveillance_capitalism_public|Surveillance Capitalism]]
-**Mechanism:** [[public/ai_specific/sycophancy_ai_public|Sycophancy (AI)]]
-**Consequence:** [[public/behaviour_relationships/cognitive_surrender_public|Cognitive Surrender]] · [[public/students/deskilling_public|Deskilling]]
-**Reaction:** [[public/ai_specific/ai_literacy_public|AI Literacy]]
+**Cause:** [[terms/platform_mechanisms/ai_as_a_utility_public|AI as a Utility]] · [[terms/society_power/surveillance_capitalism_public|Surveillance Capitalism]]
+**Mechanism:** [[terms/ai_specific/sycophancy_ai_public|Sycophancy (AI)]]
+**Consequence:** [[terms/behaviour_relationships/cognitive_surrender_public|Cognitive Surrender]] · [[terms/students/deskilling_public|Deskilling]]
+**Reaction:** [[terms/ai_specific/ai_literacy_public|AI Literacy]]
 
 **Public entry:** this document
 **Deep analysis:** *not yet created*
@@ -56,12 +56,12 @@ The term was adopted from psychology to describe a specific failure mode of larg
 Language models are genuinely useful precisely because they produce fluent, confident text. The same capability that makes them helpful makes them capable of hallucinating without signalling uncertainty.
 
 **The Friction**
-The term "hallucination" implies a mind that is misperceiving — but language models have no perception, no beliefs, and no concept of truth. The word makes a technical failure sound like a cognitive experience. [[public/behaviour_relationships/cognitive_surrender_public|Cognitive Surrender]] — accepting what systems say without evaluation — is the human consequence. The model cannot know it is wrong. You can.
+The term "hallucination" implies a mind that is misperceiving — but language models have no perception, no beliefs, and no concept of truth. The word makes a technical failure sound like a cognitive experience. [[terms/behaviour_relationships/cognitive_surrender_public|Cognitive Surrender]] — accepting what systems say without evaluation — is the human consequence. The model cannot know it is wrong. You can.
 
 **Why This Matters**
 Once you see hallucination as a structural property of language models rather than an occasional error, you see that verification is not optional — it is the price of using the tool. The model produces what fits statistically, not what is true.
 
-**See also:** [[public/ai_specific/sycophancy_ai_public|Sycophancy (AI)]] · [[public/behaviour_relationships/cognitive_surrender_public|Cognitive Surrender]] · [[public/ai_specific/ai_literacy_public|AI Literacy]]
+**See also:** [[terms/ai_specific/sycophancy_ai_public|Sycophancy (AI)]] · [[terms/behaviour_relationships/cognitive_surrender_public|Cognitive Surrender]] · [[terms/ai_specific/ai_literacy_public|AI Literacy]]
 
 `#ai-specific-terms` `#power` `#framing` `#digital-alertness`
 

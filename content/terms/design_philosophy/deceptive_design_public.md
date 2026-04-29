@@ -26,10 +26,10 @@ related_reaction:
 
 **Layer:** Mechanism — Academically preferred term for dark patterns; legally stronger
 
-**Cause:** [[public/platform_mechanisms/attention_economy_public|Attention Economy]] · [[public/society_power/surveillance_capitalism_public|Surveillance Capitalism]]
-**Mechanism:** [[public/platform_mechanisms/dark_patterns_public|Dark Patterns]] · [[public/platform_mechanisms/nudging_public|Nudging]]
-**Consequence:** [[public/behaviour_relationships/cognitive_surrender_public|Cognitive Surrender]]
-**Reaction:** [[public/design_philosophy/fair_patterns_public|Fair Patterns]]
+**Cause:** [[terms/platform_mechanisms/attention_economy_public|Attention Economy]] · [[terms/society_power/surveillance_capitalism_public|Surveillance Capitalism]]
+**Mechanism:** [[terms/platform_mechanisms/dark_patterns_public|Dark Patterns]] · [[terms/platform_mechanisms/nudging_public|Nudging]]
+**Consequence:** [[terms/behaviour_relationships/cognitive_surrender_public|Cognitive Surrender]]
+**Reaction:** [[terms/design_philosophy/fair_patterns_public|Fair Patterns]]
 
 **Public entry:** this document
 **Deep analysis:** *not yet created*
@@ -56,12 +56,12 @@ The EU's Digital Services Act (2022) and consumer protection frameworks adopted 
 The terminological precision matters: naming something "deceptive" rather than "dark" assigns responsibility and enables legal remedy.
 
 **The Friction**
-[[public/platform_mechanisms/dark_patterns_public|Dark Patterns]] — the informal term — remains more widely recognised in public discourse. The regulatory term has not yet shifted popular vocabulary. [[public/design_philosophy/fair_patterns_public|Fair Patterns]] — the direct structural counterpart — operationalises the alternative.
+[[terms/platform_mechanisms/dark_patterns_public|Dark Patterns]] — the informal term — remains more widely recognised in public discourse. The regulatory term has not yet shifted popular vocabulary. [[terms/design_philosophy/fair_patterns_public|Fair Patterns]] — the direct structural counterpart — operationalises the alternative.
 
 **Why This Matters**
 Once you see Deceptive Design as a legal category rather than a design criticism, you see that the naming of practices as deceptive is not academic — it is the precondition for enforcement.
 
-**See also:** [[public/platform_mechanisms/dark_patterns_public|Dark Patterns]] · [[public/design_philosophy/fair_patterns_public|Fair Patterns]] · [[public/platform_mechanisms/nudging_public|Nudging]]
+**See also:** [[terms/platform_mechanisms/dark_patterns_public|Dark Patterns]] · [[terms/design_philosophy/fair_patterns_public|Fair Patterns]] · [[terms/platform_mechanisms/nudging_public|Nudging]]
 
 `#design-philosophy-counter-force` `#power` `#framing` `#digital-alertness`
 

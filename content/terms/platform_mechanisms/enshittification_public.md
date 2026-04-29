@@ -26,10 +26,10 @@ related_reaction:
 
 **Layer:** Mechanism — Doctorow; platforms structurally deteriorate for users
 
-**Cause:** [[public/society_power/surveillance_capitalism_public|Surveillance Capitalism]] · [[public/society_power/technofeudalism_public|Technofeudalism]]
-**Mechanism:** [[public/platform_mechanisms/recommender_systems_public|Recommender Systems]] · [[public/privacy_compliance/vendor_lock_in_public|Vendor Lock-in]]
-**Consequence:** [[public/behaviour_relationships/cognitive_surrender_public|Cognitive Surrender]]
-**Reaction:** [[public/design_philosophy/unblackboxing_public|Unblackboxing]]
+**Cause:** [[terms/society_power/surveillance_capitalism_public|Surveillance Capitalism]] · [[terms/society_power/technofeudalism_public|Technofeudalism]]
+**Mechanism:** [[terms/platform_mechanisms/recommender_systems_public|Recommender Systems]] · [[terms/privacy_compliance/vendor_lock_in_public|Vendor Lock-in]]
+**Consequence:** [[terms/behaviour_relationships/cognitive_surrender_public|Cognitive Surrender]]
+**Reaction:** [[terms/design_philosophy/unblackboxing_public|Unblackboxing]]
 
 **Public entry:** this document
 **Deep analysis:** *not yet created*
@@ -56,12 +56,12 @@ Cory Doctorow introduced the term in 2022 to describe the documented lifecycle o
 Platforms are genuinely good in their early phases — they need users before they can monetise them.
 
 **The Friction**
-[[public/privacy_compliance/vendor_lock_in_public|Vendor Lock-in]] — the condition where switching costs prevent exit — is what makes enshittification possible. Once users, data, and social networks are locked in, the platform can degrade without losing the audience. [[public/society_power/technofeudalism_public|Technofeudalism]] — platform owners extracting rent from those who cannot leave — is the structural context.
+[[terms/privacy_compliance/vendor_lock_in_public|Vendor Lock-in]] — the condition where switching costs prevent exit — is what makes enshittification possible. Once users, data, and social networks are locked in, the platform can degrade without losing the audience. [[terms/society_power/technofeudalism_public|Technofeudalism]] — platform owners extracting rent from those who cannot leave — is the structural context.
 
 **Why This Matters**
 Once you see enshittification as a predictable cycle rather than a series of bad decisions, you see that platform decline is not accidental — it is the business model working as intended.
 
-**See also:** [[public/society_power/technofeudalism_public|Technofeudalism]] · [[public/privacy_compliance/vendor_lock_in_public|Vendor Lock-in]] · [[public/society_power/surveillance_capitalism_public|Surveillance Capitalism]]
+**See also:** [[terms/society_power/technofeudalism_public|Technofeudalism]] · [[terms/privacy_compliance/vendor_lock_in_public|Vendor Lock-in]] · [[terms/society_power/surveillance_capitalism_public|Surveillance Capitalism]]
 
 `#platform-mechanisms-economics` `#power` `#framing` `#digital-alertness`
 

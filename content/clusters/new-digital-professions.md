@@ -13,7 +13,7 @@ Professions that emerge from digital transformation.
 
 ## Public Entries
 
-[[public/digital_professions/de_installer_public|De-installer]] · [[public/digital_professions/content_moderator_public|Content Moderator]] · [[public/digital_professions/ghost_worker_public|Ghost Worker]] · [[public/digital_professions/fact_checker_public|Fact Checker]] · [[public/digital_professions/digital_coach_public|Digital Coach]] · [[public/digital_professions/prompt_engineer_public|Prompt Engineer]] · [[public/digital_professions/red_teamer_public|Red Teamer]] · [[public/digital_professions/vibe_coder_public|Vibe Coder]]
+[[terms/digital_professions/de_installer_public|De-installer]] · [[terms/digital_professions/content_moderator_public|Content Moderator]] · [[terms/digital_professions/ghost_worker_public|Ghost Worker]] · [[terms/digital_professions/fact_checker_public|Fact Checker]] · [[terms/digital_professions/digital_coach_public|Digital Coach]] · [[terms/digital_professions/prompt_engineer_public|Prompt Engineer]] · [[terms/digital_professions/red_teamer_public|Red Teamer]] · [[terms/digital_professions/vibe_coder_public|Vibe Coder]]
 
 ---
 

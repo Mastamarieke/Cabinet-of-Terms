@@ -26,9 +26,9 @@ related_reaction:
 
 **Layer:** Mechanism — Platforms as employer, content as labour product
 
-**Cause:** [[public/platform_mechanisms/attention_economy_public|Attention Economy]] · [[public/society_power/surveillance_capitalism_public|Surveillance Capitalism]]
-**Mechanism:** [[public/students/personal_branding_public|Personal Branding]] · [[public/students/hustle_culture_public|Hustle Culture]]
-**Consequence:** [[public/students/deskilling_public|Deskilling]]
+**Cause:** [[terms/platform_mechanisms/attention_economy_public|Attention Economy]] · [[terms/society_power/surveillance_capitalism_public|Surveillance Capitalism]]
+**Mechanism:** [[terms/students/personal_branding_public|Personal Branding]] · [[terms/students/hustle_culture_public|Hustle Culture]]
+**Consequence:** [[terms/students/deskilling_public|Deskilling]]
 **Reaction:** *—*
 
 **Public entry:** this document
@@ -56,12 +56,12 @@ The term gained currency from 2019 onward as platforms — YouTube, TikTok, Subs
 The Creator Economy offers genuine opportunities: direct audience relationships, independence from traditional employment, and the possibility of income from creative work.
 
 **The Friction**
-[[public/society_power/technofeudalism_public|Technofeudalism]] — platform owners extracting rent from those who cannot leave — is the structural context. Creators own their content but not the distribution infrastructure. Platform algorithm changes can eliminate income overnight. Most creators earn below minimum wage; a small fraction capture most revenue. [[public/students/hustle_culture_public|Hustle Culture]] is the ideological fuel: the precarity is framed as entrepreneurial risk.
+[[terms/society_power/technofeudalism_public|Technofeudalism]] — platform owners extracting rent from those who cannot leave — is the structural context. Creators own their content but not the distribution infrastructure. Platform algorithm changes can eliminate income overnight. Most creators earn below minimum wage; a small fraction capture most revenue. [[terms/students/hustle_culture_public|Hustle Culture]] is the ideological fuel: the precarity is framed as entrepreneurial risk.
 
 **Why This Matters**
 Once you see the Creator Economy as a labour market with unusual power asymmetries rather than a democratised creative opportunity, you see that the platform is always the employer — just one that does not pay benefits, sick leave, or severance.
 
-**See also:** [[public/students/personal_branding_public|Personal Branding]] · [[public/students/hustle_culture_public|Hustle Culture]] · [[public/society_power/technofeudalism_public|Technofeudalism]]
+**See also:** [[terms/students/personal_branding_public|Personal Branding]] · [[terms/students/hustle_culture_public|Hustle Culture]] · [[terms/society_power/technofeudalism_public|Technofeudalism]]
 
 `#students` `#power` `#framing` `#digital-alertness`
 

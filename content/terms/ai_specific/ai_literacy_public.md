@@ -25,8 +25,8 @@ related_reaction:
 
 **Layer:** Reaction — Understanding how AI works, not just using it
 
-**Cause:** [[public/platform_mechanisms/ai_as_a_utility_public|AI as a Utility]] · [[public/society_power/surveillance_capitalism_public|Surveillance Capitalism]]
-**Mechanism:** [[public/design_philosophy/unblackboxing_public|Unblackboxing]]
+**Cause:** [[terms/platform_mechanisms/ai_as_a_utility_public|AI as a Utility]] · [[terms/society_power/surveillance_capitalism_public|Surveillance Capitalism]]
+**Mechanism:** [[terms/design_philosophy/unblackboxing_public|Unblackboxing]]
 **Consequence:** *—*
 **Reaction:** *—*
 
@@ -55,12 +55,12 @@ AI literacy emerged as a policy and educational concept from around 2018 onward,
 Literacy frameworks have a strong track record: media literacy, data literacy, and financial literacy all produce measurable improvements in critical engagement. AI literacy extends this tradition to a consequential new domain.
 
 **The Friction**
-The term is frequently deployed by the same companies building AI systems — framing literacy as individual responsibility rather than platform obligation. [[public/design_philosophy/unblackboxing_public|Unblackboxing]] — making hidden mechanisms visible — is the structural version of what AI literacy claims to achieve individually. The question is whether literacy education can keep pace with the rate of AI deployment.
+The term is frequently deployed by the same companies building AI systems — framing literacy as individual responsibility rather than platform obligation. [[terms/design_philosophy/unblackboxing_public|Unblackboxing]] — making hidden mechanisms visible — is the structural version of what AI literacy claims to achieve individually. The question is whether literacy education can keep pace with the rate of AI deployment.
 
 **Why This Matters**
 Once you see AI literacy as a contested political concept rather than a neutral educational goal, you see that the question of what counts as "literate" shapes what questions get asked — and who gets to answer them.
 
-**See also:** [[public/design_philosophy/unblackboxing_public|Unblackboxing]] · [[public/ai_specific/ai_hallucination_public|AI Hallucination]] · [[public/ai_specific/sycophancy_ai_public|Sycophancy (AI)]] · [[public/ai_specific/ai_dependency_public|AI Dependency]]
+**See also:** [[terms/design_philosophy/unblackboxing_public|Unblackboxing]] · [[terms/ai_specific/ai_hallucination_public|AI Hallucination]] · [[terms/ai_specific/sycophancy_ai_public|Sycophancy (AI)]] · [[terms/ai_specific/ai_dependency_public|AI Dependency]]
 
 `#ai-specific-terms` `#power` `#framing` `#digital-alertness`
 

@@ -26,10 +26,10 @@ related_reaction:
 
 **Layer:** Mechanism — System that scores citizen behaviour and rewards or punishes it
 
-**Cause:** [[public/society_power/surveillance_capitalism_public|Surveillance Capitalism]] · [[public/society_power/technofeudalism_public|Technofeudalism]]
-**Mechanism:** [[public/platform_mechanisms/biometric_surveillance_public|Biometric Surveillance]] · [[public/society_power/cybernetic_governance_public|Cybernetic Governance]]
+**Cause:** [[terms/society_power/surveillance_capitalism_public|Surveillance Capitalism]] · [[terms/society_power/technofeudalism_public|Technofeudalism]]
+**Mechanism:** [[terms/platform_mechanisms/biometric_surveillance_public|Biometric Surveillance]] · [[terms/society_power/cybernetic_governance_public|Cybernetic Governance]]
 **Consequence:** *—*
-**Reaction:** [[public/design_philosophy/unblackboxing_public|Unblackboxing]]
+**Reaction:** [[terms/design_philosophy/unblackboxing_public|Unblackboxing]]
 
 **Public entry:** this document
 **Deep analysis:** *not yet created*
@@ -56,12 +56,12 @@ China's Social Credit System was announced in 2014. Western coverage has often c
 Scoring systems can increase accountability and reduce information asymmetries that enable fraud.
 
 **The Friction**
-[[public/platform_mechanisms/biometric_surveillance_public|Biometric Surveillance]] provides the data infrastructure. The Western framing of Chinese social credit as uniquely dystopian obscures how similar scoring logic operates in Western financial and employment systems with equivalent consequences and less accountability.
+[[terms/platform_mechanisms/biometric_surveillance_public|Biometric Surveillance]] provides the data infrastructure. The Western framing of Chinese social credit as uniquely dystopian obscures how similar scoring logic operates in Western financial and employment systems with equivalent consequences and less accountability.
 
 **Why This Matters**
 Once you see Social Credit Systems as a governance logic rather than a Chinese peculiarity, you see that behavioural scoring with material consequences is a global infrastructure — and that its legitimacy depends on who controls it and who is accountable for its errors.
 
-**See also:** [[public/society_power/cybernetic_governance_public|Cybernetic Governance]] · [[public/platform_mechanisms/biometric_surveillance_public|Biometric Surveillance]] · [[public/privacy_compliance/algorithmic_violence_public|Algorithmic Violence]]
+**See also:** [[terms/society_power/cybernetic_governance_public|Cybernetic Governance]] · [[terms/platform_mechanisms/biometric_surveillance_public|Biometric Surveillance]] · [[terms/privacy_compliance/algorithmic_violence_public|Algorithmic Violence]]
 
 `#society-power` `#power` `#framing` `#digital-alertness`
 

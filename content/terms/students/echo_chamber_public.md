@@ -25,10 +25,10 @@ related_reaction:
 
 **Layer:** Consequence — Environment where only confirmation circulates
 
-**Cause:** [[public/platform_mechanisms/recommender_systems_public|Recommender Systems]] · [[public/platform_mechanisms/attention_economy_public|Attention Economy]]
-**Mechanism:** [[public/students/filter_bubble_public|Filter Bubble]]
-**Consequence:** [[public/behaviour_relationships/cognitive_surrender_public|Cognitive Surrender]]
-**Reaction:** [[public/design_philosophy/unblackboxing_public|Unblackboxing]]
+**Cause:** [[terms/platform_mechanisms/recommender_systems_public|Recommender Systems]] · [[terms/platform_mechanisms/attention_economy_public|Attention Economy]]
+**Mechanism:** [[terms/students/filter_bubble_public|Filter Bubble]]
+**Consequence:** [[terms/behaviour_relationships/cognitive_surrender_public|Cognitive Surrender]]
+**Reaction:** [[terms/design_philosophy/unblackboxing_public|Unblackboxing]]
 
 **Public entry:** this document
 **Deep analysis:** *not yet created*
@@ -55,12 +55,12 @@ The term predates digital media but became central to platform discourse in the 
 Communities of shared values provide genuine belonging, mutual support, and the ability to develop ideas without constant challenge. Not all echo chambers are pathological.
 
 **The Friction**
-[[public/students/filter_bubble_public|Filter Bubble]] is the algorithmic mechanism; echo chamber is the social result. The distinction matters: research shows that algorithmic filter bubbles may be less powerful than social selection — people actively choose communities that confirm their views. The platform provides the infrastructure; the enclosure is partly self-produced.
+[[terms/students/filter_bubble_public|Filter Bubble]] is the algorithmic mechanism; echo chamber is the social result. The distinction matters: research shows that algorithmic filter bubbles may be less powerful than social selection — people actively choose communities that confirm their views. The platform provides the infrastructure; the enclosure is partly self-produced.
 
 **Why This Matters**
 Once you see echo chambers as partly self-constructed rather than purely algorithmic, you see that the solution is not only technical — it requires the willingness to encounter genuine disagreement, which is socially and psychologically costly.
 
-**See also:** [[public/students/filter_bubble_public|Filter Bubble]] · [[public/platform_mechanisms/recommender_systems_public|Recommender Systems]] · [[public/behaviour_relationships/cognitive_surrender_public|Cognitive Surrender]]
+**See also:** [[terms/students/filter_bubble_public|Filter Bubble]] · [[terms/platform_mechanisms/recommender_systems_public|Recommender Systems]] · [[terms/behaviour_relationships/cognitive_surrender_public|Cognitive Surrender]]
 
 `#students` `#power` `#framing` `#digital-alertness`
 

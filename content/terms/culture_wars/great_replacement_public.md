@@ -26,10 +26,10 @@ related_reaction:
 
 **Layer:** Mechanism — Conspiracy theory; from niche to mainstream via platforms
 
-**Cause:** [[public/platform_mechanisms/recommender_systems_public|Recommender Systems]] · [[public/platform_mechanisms/attention_economy_public|Attention Economy]]
-**Mechanism:** [[public/culture_wars/dehumanization_public|Dehumanization]] · [[public/platform_mechanisms/microtargeting_public|Microtargeting]]
+**Cause:** [[terms/platform_mechanisms/recommender_systems_public|Recommender Systems]] · [[terms/platform_mechanisms/attention_economy_public|Attention Economy]]
+**Mechanism:** [[terms/culture_wars/dehumanization_public|Dehumanization]] · [[terms/platform_mechanisms/microtargeting_public|Microtargeting]]
 **Consequence:** *—*
-**Reaction:** [[public/culture_wars/deplatforming_public|Deplatforming]]
+**Reaction:** [[terms/culture_wars/deplatforming_public|Deplatforming]]
 
 **Public entry:** this document
 **Deep analysis:** *not yet created*
@@ -56,12 +56,12 @@ French author Renaud Camus published *Le Grand Remplacement* in 2011. The theory
 The theory addresses real anxieties about demographic and cultural change. Its adoption by mainstream political figures has made it discussable in previously marginal contexts.
 
 **The Friction**
-[[public/platform_mechanisms/recommender_systems_public|Recommender Systems]] are documented as a pathway for Great Replacement content reaching mainstream audiences. [[public/culture_wars/dehumanization_public|Dehumanization]] is the mechanism: the theory frames immigrants as agents of a deliberate attack.
+[[terms/platform_mechanisms/recommender_systems_public|Recommender Systems]] are documented as a pathway for Great Replacement content reaching mainstream audiences. [[terms/culture_wars/dehumanization_public|Dehumanization]] is the mechanism: the theory frames immigrants as agents of a deliberate attack.
 
 **Why This Matters**
 Once you see the Great Replacement as a conspiracy theory with documented connections to political violence, you see that its mainstreaming is not a sign of changing public opinion but of changed distribution infrastructure.
 
-**See also:** [[public/culture_wars/dehumanization_public|Dehumanization]] · [[public/platform_mechanisms/recommender_systems_public|Recommender Systems]] · [[public/culture_wars/deep_state_public|Deep State]]
+**See also:** [[terms/culture_wars/dehumanization_public|Dehumanization]] · [[terms/platform_mechanisms/recommender_systems_public|Recommender Systems]] · [[terms/culture_wars/deep_state_public|Deep State]]
 
 `#culture-wars-political-language` `#power` `#framing` `#digital-alertness`
 

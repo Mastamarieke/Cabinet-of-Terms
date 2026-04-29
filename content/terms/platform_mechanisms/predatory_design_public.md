@@ -27,10 +27,10 @@ related_reaction:
 
 **Layer:** Mechanism — Design choices aimed at maximising play time and spending
 
-**Cause:** [[public/platform_mechanisms/attention_economy_public|Attention Economy]] · [[public/society_power/surveillance_capitalism_public|Surveillance Capitalism]]
-**Mechanism:** [[public/platform_mechanisms/dark_patterns_public|Dark Patterns]] · [[public/platform_mechanisms/gamification_creep_public|Gamification Creep]] · [[public/platform_mechanisms/dopamine_feedback_loops_public|Dopamine Feedback Loops]]
-**Consequence:** [[public/behaviour_relationships/cognitive_surrender_public|Cognitive Surrender]]
-**Reaction:** [[public/design_philosophy/unblackboxing_public|Unblackboxing]]
+**Cause:** [[terms/platform_mechanisms/attention_economy_public|Attention Economy]] · [[terms/society_power/surveillance_capitalism_public|Surveillance Capitalism]]
+**Mechanism:** [[terms/platform_mechanisms/dark_patterns_public|Dark Patterns]] · [[terms/platform_mechanisms/gamification_creep_public|Gamification Creep]] · [[terms/platform_mechanisms/dopamine_feedback_loops_public|Dopamine Feedback Loops]]
+**Consequence:** [[terms/behaviour_relationships/cognitive_surrender_public|Cognitive Surrender]]
+**Reaction:** [[terms/design_philosophy/unblackboxing_public|Unblackboxing]]
 
 **Public entry:** this document
 **Deep analysis:** *not yet created*
@@ -57,12 +57,12 @@ The term is most associated with gaming — free-to-play mobile games that use l
 Free-to-play games are accessible to everyone. The base experience is often genuinely enjoyable.
 
 **The Friction**
-[[public/platform_mechanisms/dark_patterns_public|Dark Patterns]] — interface design that misleads users — and [[public/platform_mechanisms/gamification_creep_public|Gamification Creep]] — game logic entering non-game contexts — combine in predatory design. Loot boxes apply gambling mechanics to children. Artificial scarcity creates urgency. Social features create obligation. The design targets the psychological architecture of its most vulnerable users.
+[[terms/platform_mechanisms/dark_patterns_public|Dark Patterns]] — interface design that misleads users — and [[terms/platform_mechanisms/gamification_creep_public|Gamification Creep]] — game logic entering non-game contexts — combine in predatory design. Loot boxes apply gambling mechanics to children. Artificial scarcity creates urgency. Social features create obligation. The design targets the psychological architecture of its most vulnerable users.
 
 **Why This Matters**
 Once you see predatory design as a deliberate strategy rather than a series of aggressive business decisions, you see that the vulnerability being exploited was mapped, measured, and monetised.
 
-**See also:** [[public/platform_mechanisms/dark_patterns_public|Dark Patterns]] · [[public/platform_mechanisms/gamification_creep_public|Gamification Creep]] · [[public/platform_mechanisms/dopamine_feedback_loops_public|Dopamine Feedback Loops]]
+**See also:** [[terms/platform_mechanisms/dark_patterns_public|Dark Patterns]] · [[terms/platform_mechanisms/gamification_creep_public|Gamification Creep]] · [[terms/platform_mechanisms/dopamine_feedback_loops_public|Dopamine Feedback Loops]]
 
 `#platform-mechanisms-economics` `#power` `#framing` `#digital-alertness`
 

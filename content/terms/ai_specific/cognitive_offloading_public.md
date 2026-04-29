@@ -27,10 +27,10 @@ related_reaction:
 
 **Layer:** Mechanism — transferring cognitive work to tools; what disappears in the process?
 
-**Cause:** [[public/platform_mechanisms/ai_as_a_utility_public|AI as a Utility]] · [[public/society_power/surveillance_capitalism_public|Surveillance Capitalism]]
-**Mechanism:** [[public/ai_specific/ai_dependency_public|AI Dependency]] · [[public/platform_mechanisms/attention_harvesting_public|Attention Harvesting]]
-**Consequence:** [[public/students/deskilling_public|Deskilling]] · [[public/behaviour_relationships/cognitive_surrender_public|Cognitive Surrender]]
-**Reaction:** [[public/appropriated_counter_force/digital_detox_public|Digital Detox]]
+**Cause:** [[terms/platform_mechanisms/ai_as_a_utility_public|AI as a Utility]] · [[terms/society_power/surveillance_capitalism_public|Surveillance Capitalism]]
+**Mechanism:** [[terms/ai_specific/ai_dependency_public|AI Dependency]] · [[terms/platform_mechanisms/attention_harvesting_public|Attention Harvesting]]
+**Consequence:** [[terms/students/deskilling_public|Deskilling]] · [[terms/behaviour_relationships/cognitive_surrender_public|Cognitive Surrender]]
+**Reaction:** [[terms/appropriated_counter_force/digital_detox_public|Digital Detox]]
 
 **Public entry:** this document
 **Deep analysis:** *not yet created*
@@ -57,12 +57,12 @@ Cognitive offloading is a documented human strategy with deep historical roots �
 Offloading works. Navigation apps are more reliable than memory. Calendars are more accurate than recall. AI tools draft, calculate, and summarise faster than unaided cognition. The efficiency gain is real — and frees attention for tasks that genuinely require it.
 
 **The Friction**
-The question is what happens to the capacities that are offloaded. [[public/students/deskilling_public|Deskilling]] — the gradual loss of capacity through disuse — accumulates below the threshold of awareness. [[public/behaviour_relationships/cognitive_surrender_public|Cognitive Surrender]] — accepting what digital systems say without evaluation — is the identity consequence: not just outsourcing a task, but outsourcing the judgment that the task required. [[public/ai_specific/ai_dependency_public|AI Dependency]] deepens the pattern: when the tool is always available, the habit of reasoning without it fades.
+The question is what happens to the capacities that are offloaded. [[terms/students/deskilling_public|Deskilling]] — the gradual loss of capacity through disuse — accumulates below the threshold of awareness. [[terms/behaviour_relationships/cognitive_surrender_public|Cognitive Surrender]] — accepting what digital systems say without evaluation — is the identity consequence: not just outsourcing a task, but outsourcing the judgment that the task required. [[terms/ai_specific/ai_dependency_public|AI Dependency]] deepens the pattern: when the tool is always available, the habit of reasoning without it fades.
 
 **Why This Matters**
 Once you see cognitive offloading as a structural pattern rather than a series of individual choices, you stop asking "is it bad to use this?" and start asking "what am I still practising, and what have I quietly stopped?" The answer determines what remains when the tool is unavailable — or wrong.
 
-**See also:** [[public/students/deskilling_public|Deskilling]] · [[public/behaviour_relationships/cognitive_surrender_public|Cognitive Surrender]] · [[public/ai_specific/ai_dependency_public|AI Dependency]] · [[public/platform_mechanisms/ai_as_a_utility_public|AI as a Utility]]
+**See also:** [[terms/students/deskilling_public|Deskilling]] · [[terms/behaviour_relationships/cognitive_surrender_public|Cognitive Surrender]] · [[terms/ai_specific/ai_dependency_public|AI Dependency]] · [[terms/platform_mechanisms/ai_as_a_utility_public|AI as a Utility]]
 
 `#ai-specific-terms` `#power` `#framing` `#digital-alertness`
 

@@ -13,7 +13,7 @@ Methodological and philosophical instruments for ethical and critical design.
 
 ## Public Entries
 
-[[public/design_philosophy/vsd_value_sensitive_design_public|VSD (Value Sensitive Design)]] · [[public/design_philosophy/calm_technology_public|Calm Technology]] · [[public/design_philosophy/deceptive_design_public|Deceptive Design]] · [[public/design_philosophy/fair_patterns_public|Fair Patterns]] · [[public/design_philosophy/detective_design_public|Detective Design]] · [[public/design_philosophy/de_bugging_public|De-bugging]] · [[public/design_philosophy/unblackboxing_public|Unblackboxing]]
+[[terms/design_philosophy/vsd_value_sensitive_design_public|VSD (Value Sensitive Design)]] · [[terms/design_philosophy/calm_technology_public|Calm Technology]] · [[terms/design_philosophy/deceptive_design_public|Deceptive Design]] · [[terms/design_philosophy/fair_patterns_public|Fair Patterns]] · [[terms/design_philosophy/detective_design_public|Detective Design]] · [[terms/design_philosophy/de_bugging_public|De-bugging]] · [[terms/design_philosophy/unblackboxing_public|Unblackboxing]]
 
 ---
 

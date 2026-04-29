@@ -24,7 +24,7 @@ related_reaction:
 
 **Layer:** Reaction — unblackboxing
 
-**Cause:** [[public/society_power/surveillance_capitalism_public|Surveillance Capitalism]] · [[public/society_power/technofeudalism_public|Technofeudalism]]
+**Cause:** [[terms/society_power/surveillance_capitalism_public|Surveillance Capitalism]] · [[terms/society_power/technofeudalism_public|Technofeudalism]]
 **Mechanism:** *—*
 **Consequence:** *—*
 **Reaction:** *—*
@@ -54,12 +54,12 @@ The concept draws on science and technology studies — particularly Bruno Latou
 Most systems work well enough that understanding their internals is unnecessary. Blackboxing is a feature, not just a bug: it reduces cognitive load and enables use at scale.
 
 **The Friction**
-When the hidden mechanism causes harm — when the algorithm amplifies outrage, when the AI hallucinates confidently, when the platform design exploits psychology — opacity protects the system, not the user. [[public/society_power/surveillance_capitalism_public|Surveillance Capitalism]] depends on users not asking how the extraction works.
+When the hidden mechanism causes harm — when the algorithm amplifies outrage, when the AI hallucinates confidently, when the platform design exploits psychology — opacity protects the system, not the user. [[terms/society_power/surveillance_capitalism_public|Surveillance Capitalism]] depends on users not asking how the extraction works.
 
 **Why This Matters**
 Unblackboxing is the analytical foundation of this vault. Every term here is an attempt to open a box — to ask what a word does rather than just what it means, and whose interests it serves when you accept it without question.
 
-**See also:** [[public/society_power/surveillance_capitalism_public|Surveillance Capitalism]] · [[public/society_power/technofeudalism_public|Technofeudalism]] · [[public/platform_mechanisms/attention_harvesting_public|Attention Harvesting]]
+**See also:** [[terms/society_power/surveillance_capitalism_public|Surveillance Capitalism]] · [[terms/society_power/technofeudalism_public|Technofeudalism]] · [[terms/platform_mechanisms/attention_harvesting_public|Attention Harvesting]]
 
 `#design-philosophy-counter-force` `#power` `#framing` `#digital-alertness`
 

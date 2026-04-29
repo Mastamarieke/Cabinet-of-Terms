@@ -26,10 +26,10 @@ related_reaction:
 
 **Layer:** Mechanism — Highly specific audience targeting based on data
 
-**Cause:** [[public/society_power/surveillance_capitalism_public|Surveillance Capitalism]] · [[public/platform_mechanisms/attention_economy_public|Attention Economy]]
-**Mechanism:** [[public/platform_mechanisms/recommender_systems_public|Recommender Systems]] · [[public/platform_mechanisms/bot_farms_public|Bot Farms]]
-**Consequence:** [[public/behaviour_relationships/cognitive_surrender_public|Cognitive Surrender]]
-**Reaction:** [[public/design_philosophy/unblackboxing_public|Unblackboxing]]
+**Cause:** [[terms/society_power/surveillance_capitalism_public|Surveillance Capitalism]] · [[terms/platform_mechanisms/attention_economy_public|Attention Economy]]
+**Mechanism:** [[terms/platform_mechanisms/recommender_systems_public|Recommender Systems]] · [[terms/platform_mechanisms/bot_farms_public|Bot Farms]]
+**Consequence:** [[terms/behaviour_relationships/cognitive_surrender_public|Cognitive Surrender]]
+**Reaction:** [[terms/design_philosophy/unblackboxing_public|Unblackboxing]]
 
 **Public entry:** this document
 **Deep analysis:** *not yet created*
@@ -56,12 +56,12 @@ Microtargeting emerged from direct mail marketing in the 1990s and moved to digi
 Relevant advertising and personalised content are genuinely useful. Microtargeting enables small organisations to reach exactly the right audience efficiently.
 
 **The Friction**
-The same precision that makes advertising relevant makes political manipulation invisible. A message shown to one segment is not seen, fact-checked, or contested by others. [[public/society_power/surveillance_capitalism_public|Surveillance Capitalism]] — the extraction of behavioural data for prediction products — provides the raw material. The audience does not know what message others are receiving.
+The same precision that makes advertising relevant makes political manipulation invisible. A message shown to one segment is not seen, fact-checked, or contested by others. [[terms/society_power/surveillance_capitalism_public|Surveillance Capitalism]] — the extraction of behavioural data for prediction products — provides the raw material. The audience does not know what message others are receiving.
 
 **Why This Matters**
 Once you see microtargeting as an infrastructure of personalised reality, you see that public discourse is not shared — different people are receiving different versions of the same conversation, calibrated for maximum effect.
 
-**See also:** [[public/society_power/surveillance_capitalism_public|Surveillance Capitalism]] · [[public/platform_mechanisms/recommender_systems_public|Recommender Systems]] · [[public/platform_mechanisms/bot_farms_public|Bot Farms]]
+**See also:** [[terms/society_power/surveillance_capitalism_public|Surveillance Capitalism]] · [[terms/platform_mechanisms/recommender_systems_public|Recommender Systems]] · [[terms/platform_mechanisms/bot_farms_public|Bot Farms]]
 
 `#platform-mechanisms-economics` `#power` `#framing` `#digital-alertness`
 

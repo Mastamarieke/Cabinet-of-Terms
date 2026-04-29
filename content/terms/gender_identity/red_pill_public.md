@@ -24,10 +24,10 @@ related_reaction:
 
 **Layer:** Mechanism — red pill
 
-**Cause:** [[public/gender_identity/manosphere_public|Manosphere]]
-**Mechanism:** [[public/gender_identity/smv_public|SMV]] · [[public/gender_identity/blackpill_public|Blackpill]]
-**Consequence:** [[public/gender_identity/incel_public|Incel]] · [[public/gender_identity/mgtow_public|MGTOW]] · [[public/gender_identity/blackpill_public|Blackpill]]
-**Reaction:** [[public/culture_wars/deplatforming_public|Deplatforming]]
+**Cause:** [[terms/gender_identity/manosphere_public|Manosphere]]
+**Mechanism:** [[terms/gender_identity/smv_public|SMV]] · [[terms/gender_identity/blackpill_public|Blackpill]]
+**Consequence:** [[terms/gender_identity/incel_public|Incel]] · [[terms/gender_identity/mgtow_public|MGTOW]] · [[terms/gender_identity/blackpill_public|Blackpill]]
+**Reaction:** [[terms/culture_wars/deplatforming_public|Deplatforming]]
 
 **Public entry:** this document
 **Deep analysis:** *not yet created*
@@ -54,12 +54,12 @@ The Wachowskis' film introduced the metaphor. It was adopted by men's rights com
 The metaphor is powerful because it flatters the recipient: you are among the few who see clearly. The community that offers the red pill also offers belonging, vocabulary, and the comfort of certainty after confusion.
 
 **The Friction**
-The metaphor forecloses questioning by design. If accepting the red pill means seeing reality, then rejecting it means choosing illusion. [[public/gender_identity/blackpill_public|Blackpill]] — the deterministic extension — follows the same logic to its conclusion: not just awakening, but irreversible knowledge. The Wachowskis, who created the metaphor, have explicitly distanced themselves from this use.
+The metaphor forecloses questioning by design. If accepting the red pill means seeing reality, then rejecting it means choosing illusion. [[terms/gender_identity/blackpill_public|Blackpill]] — the deterministic extension — follows the same logic to its conclusion: not just awakening, but irreversible knowledge. The Wachowskis, who created the metaphor, have explicitly distanced themselves from this use.
 
 **Why This Matters**
 Once you see red pill as a rhetorical mechanism rather than a revelation, you see how the metaphor does its work: it makes ideology feel like perception, and makes questioning feel like cowardice.
 
-**See also:** [[public/gender_identity/manosphere_public|Manosphere]] · [[public/gender_identity/blackpill_public|Blackpill]] · [[public/gender_identity/incel_public|Incel]]
+**See also:** [[terms/gender_identity/manosphere_public|Manosphere]] · [[terms/gender_identity/blackpill_public|Blackpill]] · [[terms/gender_identity/incel_public|Incel]]
 
 `#gender-identity` `#power` `#framing` `#digital-alertness`
 

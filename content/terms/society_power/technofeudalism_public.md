@@ -24,10 +24,10 @@ related_reaction:
 
 **Layer:** Cause — technofeudalism
 
-**Cause:** [[public/society_power/surveillance_capitalism_public|Surveillance Capitalism]]
-**Mechanism:** [[public/privacy_compliance/vendor_lock_in_public|Vendor Lock-in]]
-**Consequence:** [[public/ai_specific/ai_dependency_public|AI Dependency]]
-**Reaction:** [[public/appropriated_counter_force/digital_detox_public|Digital Detox]]
+**Cause:** [[terms/society_power/surveillance_capitalism_public|Surveillance Capitalism]]
+**Mechanism:** [[terms/privacy_compliance/vendor_lock_in_public|Vendor Lock-in]]
+**Consequence:** [[terms/ai_specific/ai_dependency_public|AI Dependency]]
+**Reaction:** [[terms/appropriated_counter_force/digital_detox_public|Digital Detox]]
 
 **Public entry:** this document
 **Deep analysis:** *not yet created*
@@ -54,12 +54,12 @@ Yanis Varoufakis developed the term in *Technofeudalism: What Killed Capitalism*
 Platform infrastructure is genuinely useful. Amazon enables small sellers to reach global markets. Google provides search to everyone. The feudal analogy feels extreme until you try to leave.
 
 **The Friction**
-[[public/privacy_compliance/vendor_lock_in_public|Vendor Lock-in]] — private companies managing public infrastructure with no viable exit — is the operational mechanism. Unlike feudal lords, platform owners face no obligation to their "serfs." Terms of service can change unilaterally. Accounts can be removed. Infrastructure can be withdrawn.
+[[terms/privacy_compliance/vendor_lock_in_public|Vendor Lock-in]] — private companies managing public infrastructure with no viable exit — is the operational mechanism. Unlike feudal lords, platform owners face no obligation to their "serfs." Terms of service can change unilaterally. Accounts can be removed. Infrastructure can be withdrawn.
 
 **Why This Matters**
 Once you see technofeudalism as an economic structure rather than a metaphor, you see that the question of platform regulation is not about competition policy — it is about who owns the infrastructure of economic and social life.
 
-**See also:** [[public/society_power/surveillance_capitalism_public|Surveillance Capitalism]] · [[public/privacy_compliance/vendor_lock_in_public|Vendor Lock-in]] · [[public/platform_mechanisms/attention_economy_public|Attention Economy]]
+**See also:** [[terms/society_power/surveillance_capitalism_public|Surveillance Capitalism]] · [[terms/privacy_compliance/vendor_lock_in_public|Vendor Lock-in]] · [[terms/platform_mechanisms/attention_economy_public|Attention Economy]]
 
 `#society-power` `#power` `#framing` `#digital-alertness`
 

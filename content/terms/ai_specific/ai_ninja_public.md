@@ -26,10 +26,10 @@ related_reaction:
 
 **Layer:** Mechanism — Romanticisation of technical AI skill as identity
 
-**Cause:** [[public/platform_mechanisms/attention_economy_public|Attention Economy]] · [[public/society_power/surveillance_capitalism_public|Surveillance Capitalism]]
-**Mechanism:** [[public/platform_mechanisms/ai_as_a_utility_public|AI as a Utility]]
-**Consequence:** [[public/ai_specific/ai_dependency_public|AI Dependency]] · [[public/students/deskilling_public|Deskilling]]
-**Reaction:** [[public/ai_specific/ai_literacy_public|AI Literacy]]
+**Cause:** [[terms/platform_mechanisms/attention_economy_public|Attention Economy]] · [[terms/society_power/surveillance_capitalism_public|Surveillance Capitalism]]
+**Mechanism:** [[terms/platform_mechanisms/ai_as_a_utility_public|AI as a Utility]]
+**Consequence:** [[terms/ai_specific/ai_dependency_public|AI Dependency]] · [[terms/students/deskilling_public|Deskilling]]
+**Reaction:** [[terms/ai_specific/ai_literacy_public|AI Literacy]]
 
 **Public entry:** this document
 **Deep analysis:** *not yet created*
@@ -56,12 +56,12 @@ The term emerged alongside prompt engineering culture in 2022–2023. As AI tool
 Skill development is real. Some users do produce better outputs through more sophisticated prompting. The mastery identity provides motivation and community.
 
 **The Friction**
-The AI-ninja identity inverts the dependency relationship: what is structural reliance becomes personal power. [[public/ai_specific/ai_dependency_public|AI Dependency]] — structural reliance without critical reflection — is reframed as expertise. The "ninja" metaphor suggests that the tool amplifies the user's skill; the reality is that the user has become highly skilled at operating a specific tool they cannot function without.
+The AI-ninja identity inverts the dependency relationship: what is structural reliance becomes personal power. [[terms/ai_specific/ai_dependency_public|AI Dependency]] — structural reliance without critical reflection — is reframed as expertise. The "ninja" metaphor suggests that the tool amplifies the user's skill; the reality is that the user has become highly skilled at operating a specific tool they cannot function without.
 
 **Why This Matters**
 Once you see AI-ninja as an identity that romanticises dependency, you see how the discourse of mastery can make structural reliance feel like empowerment — and how that feeling serves the platforms that benefit from deep user investment.
 
-**See also:** [[public/ai_specific/ai_dependency_public|AI Dependency]] · [[public/ai_specific/ai_literacy_public|AI Literacy]] · [[public/platform_mechanisms/ai_as_a_utility_public|AI as a Utility]]
+**See also:** [[terms/ai_specific/ai_dependency_public|AI Dependency]] · [[terms/ai_specific/ai_literacy_public|AI Literacy]] · [[terms/platform_mechanisms/ai_as_a_utility_public|AI as a Utility]]
 
 `#ai-specific-terms` `#power` `#framing` `#digital-alertness`
 

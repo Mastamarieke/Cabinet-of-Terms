@@ -25,10 +25,10 @@ related_reaction:
 
 **Layer:** Mechanism — Synthetically generated video or audio of real persons
 
-**Cause:** [[public/platform_mechanisms/synthetic_generation_public|Synthetic Generation]] · [[public/platform_mechanisms/attention_economy_public|Attention Economy]]
-**Mechanism:** [[public/platform_mechanisms/ai_slop_public|AI Slop]]
+**Cause:** [[terms/platform_mechanisms/synthetic_generation_public|Synthetic Generation]] · [[terms/platform_mechanisms/attention_economy_public|Attention Economy]]
+**Mechanism:** [[terms/platform_mechanisms/ai_slop_public|AI Slop]]
 **Consequence:** *—*
-**Reaction:** [[public/ai_specific/ai_literacy_public|AI Literacy]]
+**Reaction:** [[terms/ai_specific/ai_literacy_public|AI Literacy]]
 
 **Public entry:** this document
 **Deep analysis:** *not yet created*
@@ -55,12 +55,12 @@ The term emerged in 2017 from a Reddit user who used deep learning to generate n
 Deepfake technology enables legitimate creative applications: historical reconstructions, dubbing, accessibility tools, satire. The capability itself is neutral.
 
 **The Friction**
-[[public/platform_mechanisms/synthetic_generation_public|Synthetic Generation]] — AI production of realistic content — is the mechanism. The harm of deepfakes is not primarily individual incidents but the epistemic environment they create: once convincing fakes are possible, the authenticity of all video and audio becomes uncertain. Detection is always lagging production.
+[[terms/platform_mechanisms/synthetic_generation_public|Synthetic Generation]] — AI production of realistic content — is the mechanism. The harm of deepfakes is not primarily individual incidents but the epistemic environment they create: once convincing fakes are possible, the authenticity of all video and audio becomes uncertain. Detection is always lagging production.
 
 **Why This Matters**
 Once you see deepfakes as an epistemic infrastructure problem rather than a content moderation challenge, you see that the question is not "is this video real?" but "what does it mean to navigate a world where that question cannot be reliably answered?"
 
-**See also:** [[public/platform_mechanisms/synthetic_generation_public|Synthetic Generation]] · [[public/platform_mechanisms/ai_slop_public|AI Slop]] · [[public/ai_specific/ai_literacy_public|AI Literacy]]
+**See also:** [[terms/platform_mechanisms/synthetic_generation_public|Synthetic Generation]] · [[terms/platform_mechanisms/ai_slop_public|AI Slop]] · [[terms/ai_specific/ai_literacy_public|AI Literacy]]
 
 `#students` `#power` `#framing` `#digital-alertness`
 

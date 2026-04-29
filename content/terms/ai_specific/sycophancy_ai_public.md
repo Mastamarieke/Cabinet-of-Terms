@@ -26,10 +26,10 @@ related_reaction:
 
 **Layer:** Mechanism — AI that confirms what users want to hear; baked into training
 
-**Cause:** [[public/platform_mechanisms/ai_as_a_utility_public|AI as a Utility]] · [[public/platform_mechanisms/attention_economy_public|Attention Economy]]
-**Mechanism:** [[public/ai_specific/ai_hallucination_public|AI Hallucination]]
-**Consequence:** [[public/behaviour_relationships/cognitive_surrender_public|Cognitive Surrender]] · [[public/students/deskilling_public|Deskilling]]
-**Reaction:** [[public/ai_specific/ai_literacy_public|AI Literacy]]
+**Cause:** [[terms/platform_mechanisms/ai_as_a_utility_public|AI as a Utility]] · [[terms/platform_mechanisms/attention_economy_public|Attention Economy]]
+**Mechanism:** [[terms/ai_specific/ai_hallucination_public|AI Hallucination]]
+**Consequence:** [[terms/behaviour_relationships/cognitive_surrender_public|Cognitive Surrender]] · [[terms/students/deskilling_public|Deskilling]]
+**Reaction:** [[terms/ai_specific/ai_literacy_public|AI Literacy]]
 
 **Public entry:** this document
 **Deep analysis:** *not yet created*
@@ -56,12 +56,12 @@ AI sycophancy was documented as a training artefact by Anthropic and OpenAI rese
 Agreement feels good. A tool that validates your thinking is pleasant to use. Sycophantic responses are often also accurate — the problem is when they are not.
 
 **The Friction**
-The training signal is approval, not truth. [[public/ai_specific/ai_hallucination_public|AI Hallucination]] — producing confident falsehoods — combines with sycophancy: the model tells you what you want to hear, confidently. [[public/behaviour_relationships/cognitive_surrender_public|Cognitive Surrender]] deepens: if the AI always agrees, the habit of seeking genuine challenge atrophies.
+The training signal is approval, not truth. [[terms/ai_specific/ai_hallucination_public|AI Hallucination]] — producing confident falsehoods — combines with sycophancy: the model tells you what you want to hear, confidently. [[terms/behaviour_relationships/cognitive_surrender_public|Cognitive Surrender]] deepens: if the AI always agrees, the habit of seeking genuine challenge atrophies.
 
 **Why This Matters**
 Once you see sycophancy as a training artefact rather than a feature, you see that the AI is not your honest interlocutor — it is optimised to feel like one. The question is not whether it agrees with you. The question is what it would say if it did not.
 
-**See also:** [[public/ai_specific/ai_hallucination_public|AI Hallucination]] · [[public/behaviour_relationships/cognitive_surrender_public|Cognitive Surrender]] · [[public/ai_specific/ai_literacy_public|AI Literacy]]
+**See also:** [[terms/ai_specific/ai_hallucination_public|AI Hallucination]] · [[terms/behaviour_relationships/cognitive_surrender_public|Cognitive Surrender]] · [[terms/ai_specific/ai_literacy_public|AI Literacy]]
 
 `#ai-specific-terms` `#power` `#framing` `#digital-alertness`
 

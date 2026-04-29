@@ -25,10 +25,10 @@ related_reaction:
 
 **Layer:** Mechanism — Trans identity as contagious phenomenon; medical metaphor as indictment
 
-**Cause:** [[public/platform_mechanisms/attention_economy_public|Attention Economy]] · [[public/platform_mechanisms/recommender_systems_public|Recommender Systems]]
-**Mechanism:** [[public/culture_wars/woke_mind_virus_public|Woke Mind Virus]]
+**Cause:** [[terms/platform_mechanisms/attention_economy_public|Attention Economy]] · [[terms/platform_mechanisms/recommender_systems_public|Recommender Systems]]
+**Mechanism:** [[terms/culture_wars/woke_mind_virus_public|Woke Mind Virus]]
 **Consequence:** *—*
-**Reaction:** [[public/culture_wars/deplatforming_public|Deplatforming]]
+**Reaction:** [[terms/culture_wars/deplatforming_public|Deplatforming]]
 
 **Public entry:** this document
 **Deep analysis:** *not yet created*
@@ -55,12 +55,12 @@ Social contagion has legitimate scientific uses. Its application to transgender 
 Parental concern about peer influence on adolescent identity is real. The scientific framing lends apparent authority.
 
 **The Friction**
-The scientific evidence for "social contagion" of transgender identity is contested. [[public/culture_wars/woke_mind_virus_public|Woke Mind Virus]] uses the same rhetorical structure at a broader scale.
+The scientific evidence for "social contagion" of transgender identity is contested. [[terms/culture_wars/woke_mind_virus_public|Woke Mind Virus]] uses the same rhetorical structure at a broader scale.
 
 **Why This Matters**
 Once you see Social Contagion as borrowed scientific vocabulary, you see how medical framing can lend authority to political claims regardless of the evidence.
 
-**See also:** [[public/culture_wars/woke_mind_virus_public|Woke Mind Virus]] · [[public/culture_wars/dehumanization_public|Dehumanization]]
+**See also:** [[terms/culture_wars/woke_mind_virus_public|Woke Mind Virus]] · [[terms/culture_wars/dehumanization_public|Dehumanization]]
 
 `#culture-wars-political-language` `#power` `#framing` `#digital-alertness`
 

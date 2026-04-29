@@ -25,10 +25,10 @@ related_reaction:
 
 **Layer:** Cause — Bentham via Foucault; surveillance that makes itself redundant
 
-**Cause:** [[public/society_power/surveillance_capitalism_public|Surveillance Capitalism]]
-**Mechanism:** [[public/society_power/cybernetic_governance_public|Cybernetic Governance]] · [[public/platform_mechanisms/biometric_surveillance_public|Biometric Surveillance]]
-**Consequence:** [[public/behaviour_relationships/cognitive_surrender_public|Cognitive Surrender]]
-**Reaction:** [[public/design_philosophy/unblackboxing_public|Unblackboxing]]
+**Cause:** [[terms/society_power/surveillance_capitalism_public|Surveillance Capitalism]]
+**Mechanism:** [[terms/society_power/cybernetic_governance_public|Cybernetic Governance]] · [[terms/platform_mechanisms/biometric_surveillance_public|Biometric Surveillance]]
+**Consequence:** [[terms/behaviour_relationships/cognitive_surrender_public|Cognitive Surrender]]
+**Reaction:** [[terms/design_philosophy/unblackboxing_public|Unblackboxing]]
 
 **Public entry:** this document
 **Deep analysis:** *not yet created*
@@ -55,12 +55,12 @@ Jeremy Bentham designed the Panopticon in 1791. Michel Foucault analysed it in *
 Foucault's analysis is foundational for understanding how power operates in digital environments. The Panopticon is a precise model for social media self-presentation: you perform for an audience you cannot fully see.
 
 **The Friction**
-[[public/society_power/surveillance_capitalism_public|Surveillance Capitalism]] is the Panopticon extended to commercial contexts. [[public/behaviour_relationships/cognitive_surrender_public|Cognitive Surrender]] is the contemporary form of panoptic self-regulation: internalising the judgments of algorithms whose criteria are unknown.
+[[terms/society_power/surveillance_capitalism_public|Surveillance Capitalism]] is the Panopticon extended to commercial contexts. [[terms/behaviour_relationships/cognitive_surrender_public|Cognitive Surrender]] is the contemporary form of panoptic self-regulation: internalising the judgments of algorithms whose criteria are unknown.
 
 **Why This Matters**
 Once you see the Panopticon as a working model of digital social life, you see that self-censorship and self-presentation are not personal anxieties — they are designed effects.
 
-**See also:** [[public/society_power/surveillance_capitalism_public|Surveillance Capitalism]] · [[public/society_power/cybernetic_governance_public|Cybernetic Governance]] · [[public/behaviour_relationships/cognitive_surrender_public|Cognitive Surrender]]
+**See also:** [[terms/society_power/surveillance_capitalism_public|Surveillance Capitalism]] · [[terms/society_power/cybernetic_governance_public|Cybernetic Governance]] · [[terms/behaviour_relationships/cognitive_surrender_public|Cognitive Surrender]]
 
 `#society-power` `#power` `#framing` `#digital-alertness`
 

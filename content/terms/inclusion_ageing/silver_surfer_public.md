@@ -26,8 +26,8 @@ related_reaction:
 
 **Layer:** Mechanism — Positively loaded term for older people online; also patronising
 
-**Cause:** [[public/platform_mechanisms/attention_economy_public|Attention Economy]] · [[public/society_power/technofeudalism_public|Technofeudalism]]
-**Mechanism:** [[public/inclusion_ageing/ageism_digital_public|Ageism (Digital)]] · [[public/inclusion_ageing/digital_ageing_public|Digital Ageing]]
+**Cause:** [[terms/platform_mechanisms/attention_economy_public|Attention Economy]] · [[terms/society_power/technofeudalism_public|Technofeudalism]]
+**Mechanism:** [[terms/inclusion_ageing/ageism_digital_public|Ageism (Digital)]] · [[terms/inclusion_ageing/digital_ageing_public|Digital Ageing]]
 **Consequence:** *—*
 **Reaction:** *—*
 
@@ -56,12 +56,12 @@ Silver Surfer entered popular vocabulary in the late 1990s and early 2000s as in
 The term counters deficit narratives about older adults and technology. It positions older internet users as competent and active rather than struggling.
 
 **The Friction**
-The term's positivity is patronising in the same way that "surprisingly good for his age" is patronising. It marks older internet use as noteworthy — implicitly positioning it as the exception rather than the norm. [[public/inclusion_ageing/ageism_digital_public|Ageism (Digital)]] operates subtly here: celebrating older adults for doing what younger adults do unremarkably is a form of othering.
+The term's positivity is patronising in the same way that "surprisingly good for his age" is patronising. It marks older internet use as noteworthy — implicitly positioning it as the exception rather than the norm. [[terms/inclusion_ageing/ageism_digital_public|Ageism (Digital)]] operates subtly here: celebrating older adults for doing what younger adults do unremarkably is a form of othering.
 
 **Why This Matters**
 Once you see Silver Surfer as a term that reveals ageist assumptions while appearing to challenge them, you see how well-intentioned positive framing can still reproduce the hierarchy it claims to resist.
 
-**See also:** [[public/inclusion_ageing/ageism_digital_public|Ageism (Digital)]] · [[public/inclusion_ageing/digital_ageing_public|Digital Ageing]] · [[public/inclusion_ageing/digital_exclusion_public|Digital Exclusion]]
+**See also:** [[terms/inclusion_ageing/ageism_digital_public|Ageism (Digital)]] · [[terms/inclusion_ageing/digital_ageing_public|Digital Ageing]] · [[terms/inclusion_ageing/digital_exclusion_public|Digital Exclusion]]
 
 `#inclusion-accessibility-ageing` `#power` `#framing` `#digital-alertness`
 

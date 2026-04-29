@@ -13,7 +13,7 @@ Concepts specific to the rise of large language models and generative AI — fro
 
 ## Public Entries
 
-[[public/ai_specific/ai_hallucination_public|AI Hallucination]] · [[public/ai_specific/sycophancy_ai_public|Sycophancy (AI)]] · [[public/ai_specific/ai_ninja_public|AI-ninja]] · [[public/ai_specific/ai_literacy_public|AI Literacy]] · [[public/ai_specific/ai_dependency_public|AI Dependency]] · [[public/ai_specific/cognitive_offloading_public|Cognitive Offloading]] · [[public/ai_specific/slopification_public|Slopification]]
+[[terms/ai_specific/ai_hallucination_public|AI Hallucination]] · [[terms/ai_specific/sycophancy_ai_public|Sycophancy (AI)]] · [[terms/ai_specific/ai_ninja_public|AI-ninja]] · [[terms/ai_specific/ai_literacy_public|AI Literacy]] · [[terms/ai_specific/ai_dependency_public|AI Dependency]] · [[terms/ai_specific/cognitive_offloading_public|Cognitive Offloading]] · [[terms/ai_specific/slopification_public|Slopification]]
 
 ---
 

@@ -27,10 +27,10 @@ related_reaction:
 
 **Layer:** Reaction — Designing from the margin improves for everyone
 
-**Cause:** [[public/society_power/technofeudalism_public|Technofeudalism]] · [[public/society_power/surveillance_capitalism_public|Surveillance Capitalism]]
-**Mechanism:** [[public/inclusion_ageing/accessibility_public|Accessibility]] · [[public/inclusion_ageing/universal_design_public|Universal Design]]
+**Cause:** [[terms/society_power/technofeudalism_public|Technofeudalism]] · [[terms/society_power/surveillance_capitalism_public|Surveillance Capitalism]]
+**Mechanism:** [[terms/inclusion_ageing/accessibility_public|Accessibility]] · [[terms/inclusion_ageing/universal_design_public|Universal Design]]
 **Consequence:** *—*
-**Reaction:** [[public/design_philosophy/unblackboxing_public|Unblackboxing]] · [[public/design_philosophy/vsd_value_sensitive_design_public|VSD]]
+**Reaction:** [[terms/design_philosophy/unblackboxing_public|Unblackboxing]] · [[terms/design_philosophy/vsd_value_sensitive_design_public|VSD]]
 
 **Public entry:** this document
 **Deep analysis:** *not yet created*
@@ -57,12 +57,12 @@ Inclusive Design developed from Universal Design but with a distinct emphasis: n
 Inclusive Design produces demonstrably better products: OXO kitchen tools designed for arthritis users became bestsellers because they were more comfortable for everyone. The business case is documented.
 
 **The Friction**
-Inclusive Design requires genuine involvement of excluded users in the design process — not testing with them after decisions are made. Without this, "inclusive design" becomes a branding claim. [[public/inclusion_ageing/digital_exclusion_public|Digital Exclusion]] is the consequence when inclusion is claimed but not practised.
+Inclusive Design requires genuine involvement of excluded users in the design process — not testing with them after decisions are made. Without this, "inclusive design" becomes a branding claim. [[terms/inclusion_ageing/digital_exclusion_public|Digital Exclusion]] is the consequence when inclusion is claimed but not practised.
 
 **Why This Matters**
 Once you see Inclusive Design as a process rather than a product quality, you see that the question is not whether the result is accessible — it is who was in the room when it was designed.
 
-**See also:** [[public/inclusion_ageing/accessibility_public|Accessibility]] · [[public/inclusion_ageing/universal_design_public|Universal Design]] · [[public/inclusion_ageing/digital_exclusion_public|Digital Exclusion]]
+**See also:** [[terms/inclusion_ageing/accessibility_public|Accessibility]] · [[terms/inclusion_ageing/universal_design_public|Universal Design]] · [[terms/inclusion_ageing/digital_exclusion_public|Digital Exclusion]]
 
 `#inclusion-accessibility-ageing` `#power` `#framing` `#digital-alertness`
 

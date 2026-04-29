@@ -25,10 +25,10 @@ related_reaction:
 
 **Layer:** Mechanism — Usable for both civilian and military purposes; boundary structurally porous
 
-**Cause:** [[public/society_power/surveillance_capitalism_public|Surveillance Capitalism]] · [[public/society_power/technofeudalism_public|Technofeudalism]]
-**Mechanism:** [[public/society_power/digital_military_industrial_complex_public|Digital-Military-Industrial Complex]]
+**Cause:** [[terms/society_power/surveillance_capitalism_public|Surveillance Capitalism]] · [[terms/society_power/technofeudalism_public|Technofeudalism]]
+**Mechanism:** [[terms/society_power/digital_military_industrial_complex_public|Digital-Military-Industrial Complex]]
 **Consequence:** *—*
-**Reaction:** [[public/design_philosophy/unblackboxing_public|Unblackboxing]]
+**Reaction:** [[terms/design_philosophy/unblackboxing_public|Unblackboxing]]
 
 **Public entry:** this document
 **Deep analysis:** *not yet created*
@@ -55,12 +55,12 @@ Dual-Use Technology is a concept in arms control and export regulation. GPS, enc
 Much foundational technology — the internet, GPS, advanced materials — originated in military research and has produced enormous civilian benefit.
 
 **The Friction**
-[[public/society_power/digital_military_industrial_complex_public|Digital-Military-Industrial Complex]] is the institutional expression. The boundary between civilian and military use is not a design choice — it is structurally absent.
+[[terms/society_power/digital_military_industrial_complex_public|Digital-Military-Industrial Complex]] is the institutional expression. The boundary between civilian and military use is not a design choice — it is structurally absent.
 
 **Why This Matters**
 Once you see Dual-Use Technology as a structural condition, you see that the civilian technology stack and the military technology stack are not separate — and that the former is continuously being absorbed by the latter.
 
-**See also:** [[public/society_power/digital_military_industrial_complex_public|Digital-Military-Industrial Complex]] · [[public/society_power/military_industrial_complex_public|Military-Industrial Complex]]
+**See also:** [[terms/society_power/digital_military_industrial_complex_public|Digital-Military-Industrial Complex]] · [[terms/society_power/military_industrial_complex_public|Military-Industrial Complex]]
 
 `#society-power` `#power` `#framing` `#digital-alertness`
 

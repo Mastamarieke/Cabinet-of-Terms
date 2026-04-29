@@ -24,10 +24,10 @@ related_reaction:
 
 **Layer:** Mechanism — hypergamy
 
-**Cause:** [[public/gender_identity/manosphere_public|Manosphere]] · [[public/gender_identity/smv_public|SMV]]
-**Mechanism:** [[public/gender_identity/blackpill_public|Blackpill]] · [[public/gender_identity/incel_public|Incel]]
-**Consequence:** [[public/gender_identity/mgtow_public|MGTOW]] · [[public/gender_identity/incel_public|Incel]]
-**Reaction:** [[public/culture_wars/deplatforming_public|Deplatforming]]
+**Cause:** [[terms/gender_identity/manosphere_public|Manosphere]] · [[terms/gender_identity/smv_public|SMV]]
+**Mechanism:** [[terms/gender_identity/blackpill_public|Blackpill]] · [[terms/gender_identity/incel_public|Incel]]
+**Consequence:** [[terms/gender_identity/mgtow_public|MGTOW]] · [[terms/gender_identity/incel_public|Incel]]
+**Reaction:** [[terms/culture_wars/deplatforming_public|Deplatforming]]
 
 **Public entry:** this document
 **Deep analysis:** *not yet created*
@@ -54,12 +54,12 @@ Hypergamy is a sociological term from the 19th century describing the practice o
 The term offers an explanation that removes personal responsibility from rejection. If women are biologically programmed to date up, then failure to attract them is systemic, not individual.
 
 **The Friction**
-[[public/gender_identity/manosphere_public|Manosphere]] — the online ecosystem converting male frustration into ideology — deploys hypergamy not as a sociological observation but as an axiom. It is not tested; it is assumed. Every rejection confirms it. [[public/gender_identity/blackpill_public|Blackpill]] — the deterministic worldview that attractiveness is fate — uses hypergamy as its central evidence.
+[[terms/gender_identity/manosphere_public|Manosphere]] — the online ecosystem converting male frustration into ideology — deploys hypergamy not as a sociological observation but as an axiom. It is not tested; it is assumed. Every rejection confirms it. [[terms/gender_identity/blackpill_public|Blackpill]] — the deterministic worldview that attractiveness is fate — uses hypergamy as its central evidence.
 
 **Why This Matters**
 Once you see hypergamy as a rhetorical move rather than an empirical finding, you see how the term functions: it converts a varied social pattern into an immutable law, and that law into a justification for contempt.
 
-**See also:** [[public/gender_identity/manosphere_public|Manosphere]] · [[public/gender_identity/smv_public|SMV]] · [[public/gender_identity/blackpill_public|Blackpill]] · [[public/gender_identity/incel_public|Incel]]
+**See also:** [[terms/gender_identity/manosphere_public|Manosphere]] · [[terms/gender_identity/smv_public|SMV]] · [[terms/gender_identity/blackpill_public|Blackpill]] · [[terms/gender_identity/incel_public|Incel]]
 
 `#gender-identity` `#power` `#framing` `#digital-alertness`
 

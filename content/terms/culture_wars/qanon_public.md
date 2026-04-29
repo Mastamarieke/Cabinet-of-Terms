@@ -26,10 +26,10 @@ related_reaction:
 
 **Layer:** Consequence — Conspiracy theory; deep state as central architecture
 
-**Cause:** [[public/platform_mechanisms/recommender_systems_public|Recommender Systems]] · [[public/platform_mechanisms/attention_economy_public|Attention Economy]]
-**Mechanism:** [[public/culture_wars/deep_state_public|Deep State]] · [[public/culture_wars/great_replacement_public|Great Replacement]]
+**Cause:** [[terms/platform_mechanisms/recommender_systems_public|Recommender Systems]] · [[terms/platform_mechanisms/attention_economy_public|Attention Economy]]
+**Mechanism:** [[terms/culture_wars/deep_state_public|Deep State]] · [[terms/culture_wars/great_replacement_public|Great Replacement]]
 **Consequence:** *—*
-**Reaction:** [[public/culture_wars/deplatforming_public|Deplatforming]]
+**Reaction:** [[terms/culture_wars/deplatforming_public|Deplatforming]]
 
 **Public entry:** this document
 **Deep analysis:** *not yet created*
@@ -56,12 +56,12 @@ QAnon began on 4chan in October 2017. By 2021, QAnon beliefs had been documented
 QAnon offers community, a coherent explanatory framework for confusing events, and the appeal of special knowledge.
 
 **The Friction**
-[[public/platform_mechanisms/recommender_systems_public|Recommender Systems]] accelerated QAnon's spread: the theory is designed to generate engagement through mystery, revelation, and community. [[public/culture_wars/deep_state_public|Deep State]] is its central structural concept.
+[[terms/platform_mechanisms/recommender_systems_public|Recommender Systems]] accelerated QAnon's spread: the theory is designed to generate engagement through mystery, revelation, and community. [[terms/culture_wars/deep_state_public|Deep State]] is its central structural concept.
 
 **Why This Matters**
 Once you see QAnon as a platform-amplified conspiracy architecture, you see that the distribution infrastructure that allowed it to reach mainstream audiences is still operational.
 
-**See also:** [[public/culture_wars/deep_state_public|Deep State]] · [[public/culture_wars/conspirituality_public|Conspirituality]] · [[public/platform_mechanisms/recommender_systems_public|Recommender Systems]]
+**See also:** [[terms/culture_wars/deep_state_public|Deep State]] · [[terms/culture_wars/conspirituality_public|Conspirituality]] · [[terms/platform_mechanisms/recommender_systems_public|Recommender Systems]]
 
 `#culture-wars-political-language` `#power` `#framing` `#digital-alertness`
 

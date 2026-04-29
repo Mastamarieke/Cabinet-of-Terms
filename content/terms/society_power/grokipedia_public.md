@@ -26,10 +26,10 @@ related_reaction:
 
 **Layer:** Mechanism — xAI/Musk; AI encyclopedia positioned as Wikipedia alternative; documented ideological bias
 
-**Cause:** [[public/society_power/surveillance_capitalism_public|Surveillance Capitalism]] · [[public/society_power/muskism_public|Muskism]]
-**Mechanism:** [[public/platform_mechanisms/synthetic_generation_public|Synthetic Generation]] · [[public/ai_specific/sycophancy_ai_public|Sycophancy (AI)]]
-**Consequence:** [[public/students/filter_bubble_public|Filter Bubble]]
-**Reaction:** [[public/design_philosophy/unblackboxing_public|Unblackboxing]]
+**Cause:** [[terms/society_power/surveillance_capitalism_public|Surveillance Capitalism]] · [[terms/society_power/muskism_public|Muskism]]
+**Mechanism:** [[terms/platform_mechanisms/synthetic_generation_public|Synthetic Generation]] · [[terms/ai_specific/sycophancy_ai_public|Sycophancy (AI)]]
+**Consequence:** [[terms/students/filter_bubble_public|Filter Bubble]]
+**Reaction:** [[terms/design_philosophy/unblackboxing_public|Unblackboxing]]
 
 **Public entry:** this document
 **Deep analysis:** *not yet created*
@@ -56,12 +56,12 @@ xAI launched Grok in 2023. By 2025, Grok was producing encyclopaedic content on 
 An AI-powered encyclopedia that synthesises current information is genuinely useful. The format is familiar and legible.
 
 **The Friction**
-[[public/ai_specific/sycophancy_ai_public|Sycophancy (AI)]] combined with an owner's documented political positions creates conditions for systematic ideological bias presented as neutral information. [[public/platform_mechanisms/synthetic_generation_public|Synthetic Generation]] at scale makes the bias difficult to detect without systematic analysis.
+[[terms/ai_specific/sycophancy_ai_public|Sycophancy (AI)]] combined with an owner's documented political positions creates conditions for systematic ideological bias presented as neutral information. [[terms/platform_mechanisms/synthetic_generation_public|Synthetic Generation]] at scale makes the bias difficult to detect without systematic analysis.
 
 **Why This Matters**
 Once you see Grokipedia as an ideological instrument using encyclopaedic authority, you see that the format of neutrality and the content of partisanship are deliberately combined.
 
-**See also:** [[public/society_power/muskism_public|Muskism]] · [[public/ai_specific/sycophancy_ai_public|Sycophancy (AI)]] · [[public/platform_mechanisms/synthetic_generation_public|Synthetic Generation]]
+**See also:** [[terms/society_power/muskism_public|Muskism]] · [[terms/ai_specific/sycophancy_ai_public|Sycophancy (AI)]] · [[terms/platform_mechanisms/synthetic_generation_public|Synthetic Generation]]
 
 `#society-power` `#power` `#framing` `#digital-alertness`
 

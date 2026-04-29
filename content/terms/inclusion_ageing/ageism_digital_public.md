@@ -29,10 +29,10 @@ related_reaction:
 
 **Layer:** Mechanism — Age discrimination in interface design, policy, and language
 
-**Cause:** [[public/society_power/technofeudalism_public|Technofeudalism]] · [[public/society_power/surveillance_capitalism_public|Surveillance Capitalism]]
-**Mechanism:** [[public/inclusion_ageing/digital_ageing_public|Digital Ageing]] · [[public/inclusion_ageing/digital_divide_public|Digital Divide]]
-**Consequence:** [[public/inclusion_ageing/tech_abandonment_public|Tech Abandonment]] · [[public/inclusion_ageing/technostress_public|Technostress]] · [[public/inclusion_ageing/digital_exclusion_public|Digital Exclusion]]
-**Reaction:** [[public/inclusion_ageing/universal_design_public|Universal Design]] · [[public/inclusion_ageing/inclusive_design_public|Inclusive Design]]
+**Cause:** [[terms/society_power/technofeudalism_public|Technofeudalism]] · [[terms/society_power/surveillance_capitalism_public|Surveillance Capitalism]]
+**Mechanism:** [[terms/inclusion_ageing/digital_ageing_public|Digital Ageing]] · [[terms/inclusion_ageing/digital_divide_public|Digital Divide]]
+**Consequence:** [[terms/inclusion_ageing/tech_abandonment_public|Tech Abandonment]] · [[terms/inclusion_ageing/technostress_public|Technostress]] · [[terms/inclusion_ageing/digital_exclusion_public|Digital Exclusion]]
+**Reaction:** [[terms/inclusion_ageing/universal_design_public|Universal Design]] · [[terms/inclusion_ageing/inclusive_design_public|Inclusive Design]]
 
 **Public entry:** this document
 **Deep analysis:** *not yet created*
@@ -59,12 +59,12 @@ Robert Butler coined "ageism" in 1969 by analogy with racism and sexism. Applied
 Identifying Digital Ageism as a specific form of discrimination enables targeted interventions and legal challenges.
 
 **The Friction**
-Digital Ageism is often unintentional: design teams skew young, user testing pools skew young, and the result is interfaces optimised for younger users without deliberate exclusion of older ones. The effect is structural exclusion without discriminatory intent. [[public/inclusion_ageing/tech_abandonment_public|Tech Abandonment]] is the documented consequence: older users giving up on technology that was not designed for them.
+Digital Ageism is often unintentional: design teams skew young, user testing pools skew young, and the result is interfaces optimised for younger users without deliberate exclusion of older ones. The effect is structural exclusion without discriminatory intent. [[terms/inclusion_ageing/tech_abandonment_public|Tech Abandonment]] is the documented consequence: older users giving up on technology that was not designed for them.
 
 **Why This Matters**
 Once you see Digital Ageism as a structural feature of technology development rather than individual prejudice, you see that the solution is not sensitivity training — it is changing who is in the room when technology is designed and tested.
 
-**See also:** [[public/inclusion_ageing/digital_ageing_public|Digital Ageing]] · [[public/inclusion_ageing/tech_abandonment_public|Tech Abandonment]] · [[public/inclusion_ageing/digital_exclusion_public|Digital Exclusion]] · [[public/inclusion_ageing/universal_design_public|Universal Design]]
+**See also:** [[terms/inclusion_ageing/digital_ageing_public|Digital Ageing]] · [[terms/inclusion_ageing/tech_abandonment_public|Tech Abandonment]] · [[terms/inclusion_ageing/digital_exclusion_public|Digital Exclusion]] · [[terms/inclusion_ageing/universal_design_public|Universal Design]]
 
 `#inclusion-accessibility-ageing` `#power` `#framing` `#digital-alertness`
 

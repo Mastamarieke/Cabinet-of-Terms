@@ -26,10 +26,10 @@ related_reaction:
 
 **Layer:** Mechanism — Dehumanisation; historical origin in genocide discourse
 
-**Cause:** [[public/platform_mechanisms/attention_economy_public|Attention Economy]] · [[public/platform_mechanisms/recommender_systems_public|Recommender Systems]]
-**Mechanism:** [[public/culture_wars/dehumanization_public|Dehumanization]] · [[public/platform_mechanisms/ragebaiting_public|Ragebaiting]]
+**Cause:** [[terms/platform_mechanisms/attention_economy_public|Attention Economy]] · [[terms/platform_mechanisms/recommender_systems_public|Recommender Systems]]
+**Mechanism:** [[terms/culture_wars/dehumanization_public|Dehumanization]] · [[terms/platform_mechanisms/ragebaiting_public|Ragebaiting]]
 **Consequence:** *—*
-**Reaction:** [[public/culture_wars/deplatforming_public|Deplatforming]]
+**Reaction:** [[terms/culture_wars/deplatforming_public|Deplatforming]]
 
 **Public entry:** this document
 **Deep analysis:** *not yet created*
@@ -56,12 +56,12 @@ The term has documented use in genocide discourse — Nazi propaganda, Rwandan r
 There is no legitimate appeal — the term has no benign use case.
 
 **The Friction**
-[[public/culture_wars/dehumanization_public|Dehumanization]] describes the psychological process. Subhuman is the linguistic expression. Research on hate speech documents that dehumanising language precedes and enables violence.
+[[terms/culture_wars/dehumanization_public|Dehumanization]] describes the psychological process. Subhuman is the linguistic expression. Research on hate speech documents that dehumanising language precedes and enables violence.
 
 **Why This Matters**
 Once you see Subhuman as a historical term with documented consequences, you see that its presence in digital discourse is not a new phenomenon but a continuation of a documented pattern.
 
-**See also:** [[public/culture_wars/dehumanization_public|Dehumanization]] · [[public/culture_wars/great_replacement_public|Great Replacement]]
+**See also:** [[terms/culture_wars/dehumanization_public|Dehumanization]] · [[terms/culture_wars/great_replacement_public|Great Replacement]]
 
 `#culture-wars-political-language` `#power` `#framing` `#digital-alertness`
 

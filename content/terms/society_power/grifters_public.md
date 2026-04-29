@@ -26,10 +26,10 @@ related_reaction:
 
 **Layer:** Mechanism — Con artists with an ideological veneer
 
-**Cause:** [[public/platform_mechanisms/attention_economy_public|Attention Economy]] · [[public/society_power/surveillance_capitalism_public|Surveillance Capitalism]]
-**Mechanism:** [[public/society_power/financial_fabulism_public|Financial Fabulism]] · [[public/platform_mechanisms/ragebaiting_public|Ragebaiting]]
+**Cause:** [[terms/platform_mechanisms/attention_economy_public|Attention Economy]] · [[terms/society_power/surveillance_capitalism_public|Surveillance Capitalism]]
+**Mechanism:** [[terms/society_power/financial_fabulism_public|Financial Fabulism]] · [[terms/platform_mechanisms/ragebaiting_public|Ragebaiting]]
 **Consequence:** *—*
-**Reaction:** [[public/design_philosophy/unblackboxing_public|Unblackboxing]]
+**Reaction:** [[terms/design_philosophy/unblackboxing_public|Unblackboxing]]
 
 **Public entry:** this document
 **Deep analysis:** *not yet created*
@@ -56,12 +56,12 @@ Grifter entered contemporary political vocabulary around 2016–2018 to describe
 Grifters often address real concerns and genuine anxieties. The content is not always false; the motivation for producing it is financial rather than principled.
 
 **The Friction**
-[[public/platform_mechanisms/ragebaiting_public|Ragebaiting]] is the mechanism: outrage generates engagement, engagement generates audience, audience generates revenue. [[public/society_power/financial_fabulism_public|Financial Fabulism]] is the financial structure: the grift requires continuous escalation to maintain audience engagement.
+[[terms/platform_mechanisms/ragebaiting_public|Ragebaiting]] is the mechanism: outrage generates engagement, engagement generates audience, audience generates revenue. [[terms/society_power/financial_fabulism_public|Financial Fabulism]] is the financial structure: the grift requires continuous escalation to maintain audience engagement.
 
 **Why This Matters**
 Once you see Grifters as a platform-enabled business model, you see that the system rewards the performance of conviction regardless of its authenticity — and that audiences cannot reliably distinguish genuine from performed belief.
 
-**See also:** [[public/platform_mechanisms/ragebaiting_public|Ragebaiting]] · [[public/society_power/financial_fabulism_public|Financial Fabulism]] · [[public/society_power/muskism_public|Muskism]]
+**See also:** [[terms/platform_mechanisms/ragebaiting_public|Ragebaiting]] · [[terms/society_power/financial_fabulism_public|Financial Fabulism]] · [[terms/society_power/muskism_public|Muskism]]
 
 `#society-power` `#power` `#framing` `#digital-alertness`
 

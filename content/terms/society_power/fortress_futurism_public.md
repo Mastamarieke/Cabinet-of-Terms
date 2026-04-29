@@ -25,10 +25,10 @@ related_reaction:
 
 **Layer:** Mechanism — Technology as fortress; origin in apartheid South Africa
 
-**Cause:** [[public/society_power/technofeudalism_public|Technofeudalism]] · [[public/society_power/surveillance_capitalism_public|Surveillance Capitalism]]
-**Mechanism:** [[public/society_power/muskism_public|Muskism]]
-**Consequence:** [[public/society_power/broligarchy_public|Broligarchy]]
-**Reaction:** [[public/design_philosophy/unblackboxing_public|Unblackboxing]]
+**Cause:** [[terms/society_power/technofeudalism_public|Technofeudalism]] · [[terms/society_power/surveillance_capitalism_public|Surveillance Capitalism]]
+**Mechanism:** [[terms/society_power/muskism_public|Muskism]]
+**Consequence:** [[terms/society_power/broligarchy_public|Broligarchy]]
+**Reaction:** [[terms/design_philosophy/unblackboxing_public|Unblackboxing]]
 
 **Public entry:** this document
 **Deep analysis:** *not yet created*
@@ -55,12 +55,12 @@ Douglas Rushkoff documented the concept in *Survival of the Richest* (2022), des
 Concern about civilisational risk is not irrational. Planning for disruption is responsible. The futurism component is genuine.
 
 **The Friction**
-[[public/society_power/muskism_public|Muskism]] exemplifies the programme: infrastructure ownership as protection, information control as security, political access as gate-keeping. The fortress component is the key: who is inside, who is outside, and who decides.
+[[terms/society_power/muskism_public|Muskism]] exemplifies the programme: infrastructure ownership as protection, information control as security, political access as gate-keeping. The fortress component is the key: who is inside, who is outside, and who decides.
 
 **Why This Matters**
 Once you see Fortress Futurism as an ideology rather than risk management, you see that the futures being built are not for everyone — and that the exclusion is a feature, not a limitation.
 
-**See also:** [[public/society_power/muskism_public|Muskism]] · [[public/society_power/broligarchy_public|Broligarchy]] · [[public/society_power/technofeudalism_public|Technofeudalism]]
+**See also:** [[terms/society_power/muskism_public|Muskism]] · [[terms/society_power/broligarchy_public|Broligarchy]] · [[terms/society_power/technofeudalism_public|Technofeudalism]]
 
 `#society-power` `#power` `#framing` `#digital-alertness`
 

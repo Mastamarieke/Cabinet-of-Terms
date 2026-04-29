@@ -24,10 +24,10 @@ related_reaction:
 
 **Layer:** Cause — attention economy
 
-**Cause:** [[public/society_power/surveillance_capitalism_public|Surveillance Capitalism]]
-**Mechanism:** [[public/platform_mechanisms/attention_harvesting_public|Attention Harvesting]] · [[public/platform_mechanisms/recommender_systems_public|Recommender Systems]]
-**Consequence:** [[public/behaviour_relationships/cognitive_surrender_public|Cognitive Surrender]]
-**Reaction:** [[public/appropriated_counter_force/digital_detox_public|Digital Detox]]
+**Cause:** [[terms/society_power/surveillance_capitalism_public|Surveillance Capitalism]]
+**Mechanism:** [[terms/platform_mechanisms/attention_harvesting_public|Attention Harvesting]] · [[terms/platform_mechanisms/recommender_systems_public|Recommender Systems]]
+**Consequence:** [[terms/behaviour_relationships/cognitive_surrender_public|Cognitive Surrender]]
+**Reaction:** [[terms/appropriated_counter_force/digital_detox_public|Digital Detox]]
 
 **Public entry:** this document
 **Deep analysis:** *not yet created*
@@ -54,12 +54,12 @@ Herbert Simon identified the attention economy concept in 1971: in an informatio
 Platforms that operate on attention economics offer free services, vast content, and genuine connection. The economic model is mostly invisible to users.
 
 **The Friction**
-[[public/platform_mechanisms/attention_harvesting_public|Attention Harvesting]] — the systematic process of extracting human attention — is the operational mechanism. The revenue model requires maximising time-on-platform, which requires maximising engagement, which rewards content that provokes strong reactions. The result is not neutral: anger, anxiety, and outrage perform better than calm.
+[[terms/platform_mechanisms/attention_harvesting_public|Attention Harvesting]] — the systematic process of extracting human attention — is the operational mechanism. The revenue model requires maximising time-on-platform, which requires maximising engagement, which rewards content that provokes strong reactions. The result is not neutral: anger, anxiety, and outrage perform better than calm.
 
 **Why This Matters**
 Once you see the attention economy as an economic structure rather than a neutral platform feature, you see that every design decision — infinite scroll, notifications, autoplay — is a business decision. The product is your attention. You are not the customer.
 
-**See also:** [[public/platform_mechanisms/attention_harvesting_public|Attention Harvesting]] · [[public/society_power/surveillance_capitalism_public|Surveillance Capitalism]] · [[public/behaviour_relationships/cognitive_surrender_public|Cognitive Surrender]]
+**See also:** [[terms/platform_mechanisms/attention_harvesting_public|Attention Harvesting]] · [[terms/society_power/surveillance_capitalism_public|Surveillance Capitalism]] · [[terms/behaviour_relationships/cognitive_surrender_public|Cognitive Surrender]]
 
 `#platform-mechanisms-economics` `#power` `#framing` `#digital-alertness`
 

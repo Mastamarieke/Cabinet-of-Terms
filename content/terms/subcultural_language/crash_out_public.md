@@ -25,8 +25,8 @@ related_reaction:
 
 **Layer:** Mechanism — Public loss of control as performative moment
 
-**Cause:** [[public/platform_mechanisms/attention_economy_public|Attention Economy]] · [[public/platform_mechanisms/dopamine_feedback_loops_public|Dopamine Feedback Loops]]
-**Mechanism:** [[public/platform_mechanisms/ragebaiting_public|Ragebaiting]]
+**Cause:** [[terms/platform_mechanisms/attention_economy_public|Attention Economy]] · [[terms/platform_mechanisms/dopamine_feedback_loops_public|Dopamine Feedback Loops]]
+**Mechanism:** [[terms/platform_mechanisms/ragebaiting_public|Ragebaiting]]
 **Consequence:** *—*
 **Reaction:** *—*
 
@@ -55,12 +55,12 @@ Crash-out entered subcultural vocabulary through Black American internet culture
 Authentic emotion generates genuine connection. Watching someone break down publicly satisfies curiosity, empathy, and the voyeuristic pull of unguarded moments.
 
 **The Friction**
-[[public/platform_mechanisms/ragebaiting_public|Ragebaiting]] — deliberate provocation for engagement — and crash-outs share the same platform logic: high emotional intensity drives engagement regardless of authenticity. [[public/platform_mechanisms/dopamine_feedback_loops_public|Dopamine Feedback Loops]] reward both genuine and performed emotional content equally. The platform cannot distinguish; the audience often cannot either.
+[[terms/platform_mechanisms/ragebaiting_public|Ragebaiting]] — deliberate provocation for engagement — and crash-outs share the same platform logic: high emotional intensity drives engagement regardless of authenticity. [[terms/platform_mechanisms/dopamine_feedback_loops_public|Dopamine Feedback Loops]] reward both genuine and performed emotional content equally. The platform cannot distinguish; the audience often cannot either.
 
 **Why This Matters**
 Once you see crash-outs as a content category rather than simply private moments made public, you see how the platform economy has created incentives to perform the most private and vulnerable experiences — and how that performance changes what those experiences are.
 
-**See also:** [[public/platform_mechanisms/ragebaiting_public|Ragebaiting]] · [[public/platform_mechanisms/dopamine_feedback_loops_public|Dopamine Feedback Loops]]
+**See also:** [[terms/platform_mechanisms/ragebaiting_public|Ragebaiting]] · [[terms/platform_mechanisms/dopamine_feedback_loops_public|Dopamine Feedback Loops]]
 
 `#subcultural-vocabulary-platform-language` `#power` `#framing` `#digital-alertness`
 

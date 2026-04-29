@@ -28,10 +28,10 @@ related_reaction:
 
 **Layer:** Consequence — Growing older in a digital society; not a choice but a condition
 
-**Cause:** [[public/society_power/technofeudalism_public|Technofeudalism]] · [[public/society_power/surveillance_capitalism_public|Surveillance Capitalism]]
-**Mechanism:** [[public/inclusion_ageing/ageism_digital_public|Ageism (Digital)]] · [[public/inclusion_ageing/digital_divide_public|Digital Divide]]
-**Consequence:** [[public/inclusion_ageing/tech_abandonment_public|Tech Abandonment]] · [[public/inclusion_ageing/technostress_public|Technostress]]
-**Reaction:** [[public/inclusion_ageing/universal_design_public|Universal Design]] · [[public/inclusion_ageing/inclusive_design_public|Inclusive Design]]
+**Cause:** [[terms/society_power/technofeudalism_public|Technofeudalism]] · [[terms/society_power/surveillance_capitalism_public|Surveillance Capitalism]]
+**Mechanism:** [[terms/inclusion_ageing/ageism_digital_public|Ageism (Digital)]] · [[terms/inclusion_ageing/digital_divide_public|Digital Divide]]
+**Consequence:** [[terms/inclusion_ageing/tech_abandonment_public|Tech Abandonment]] · [[terms/inclusion_ageing/technostress_public|Technostress]]
+**Reaction:** [[terms/inclusion_ageing/universal_design_public|Universal Design]] · [[terms/inclusion_ageing/inclusive_design_public|Inclusive Design]]
 
 **Public entry:** this document
 **Deep analysis:** *not yet created*
@@ -58,12 +58,12 @@ Digital Ageing emerged as a research and policy concept in the 2010s as the gap 
 Framing this as Digital Ageing rather than "older people struggling with technology" shifts the locus of responsibility: the challenge is not individual incapacity but structural mismatch.
 
 **The Friction**
-[[public/inclusion_ageing/ageism_digital_public|Ageism (Digital)]] is embedded in design: interfaces are tested with younger users, designed for faster interaction, and updated at a pace that requires continuous relearning. [[public/inclusion_ageing/tech_abandonment_public|Tech Abandonment]] is the documented consequence — not because older people cannot learn, but because the cost of continuous relearning accumulates.
+[[terms/inclusion_ageing/ageism_digital_public|Ageism (Digital)]] is embedded in design: interfaces are tested with younger users, designed for faster interaction, and updated at a pace that requires continuous relearning. [[terms/inclusion_ageing/tech_abandonment_public|Tech Abandonment]] is the documented consequence — not because older people cannot learn, but because the cost of continuous relearning accumulates.
 
 **Why This Matters**
 Once you see Digital Ageing as a structural condition rather than individual limitation, you see that the question is not how to help older people catch up — it is why digital systems are designed in ways that require catching up.
 
-**See also:** [[public/inclusion_ageing/ageism_digital_public|Ageism (Digital)]] · [[public/inclusion_ageing/tech_abandonment_public|Tech Abandonment]] · [[public/inclusion_ageing/digital_exclusion_public|Digital Exclusion]]
+**See also:** [[terms/inclusion_ageing/ageism_digital_public|Ageism (Digital)]] · [[terms/inclusion_ageing/tech_abandonment_public|Tech Abandonment]] · [[terms/inclusion_ageing/digital_exclusion_public|Digital Exclusion]]
 
 `#inclusion-accessibility-ageing` `#power` `#framing` `#digital-alertness`
 

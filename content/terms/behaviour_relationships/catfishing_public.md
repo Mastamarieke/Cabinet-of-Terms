@@ -25,8 +25,8 @@ related_reaction:
 
 **Layer:** Mechanism — Assuming a false identity online
 
-**Cause:** [[public/platform_mechanisms/attention_economy_public|Attention Economy]] · [[public/society_power/surveillance_capitalism_public|Surveillance Capitalism]]
-**Mechanism:** [[public/platform_mechanisms/microtargeting_public|Microtargeting]]
+**Cause:** [[terms/platform_mechanisms/attention_economy_public|Attention Economy]] · [[terms/society_power/surveillance_capitalism_public|Surveillance Capitalism]]
+**Mechanism:** [[terms/platform_mechanisms/microtargeting_public|Microtargeting]]
 **Consequence:** *—*
 **Reaction:** *—*
 
@@ -55,12 +55,12 @@ The term entered mainstream use after Nev Schulman's 2010 documentary documented
 There is no legitimate appeal from the victim's perspective, but catfishing often exploits real needs: loneliness, desire for connection, the wish to be seen.
 
 **The Friction**
-Platforms that do not verify identity make catfishing structurally easy. [[public/platform_mechanisms/microtargeting_public|Microtargeting]] logic — understanding what specific individuals respond to — can be applied maliciously: a skilled catfish learns what the target wants and provides it. The harm is not just deception but the exploitation of genuine vulnerability.
+Platforms that do not verify identity make catfishing structurally easy. [[terms/platform_mechanisms/microtargeting_public|Microtargeting]] logic — understanding what specific individuals respond to — can be applied maliciously: a skilled catfish learns what the target wants and provides it. The harm is not just deception but the exploitation of genuine vulnerability.
 
 **Why This Matters**
 Once you see catfishing as a structural consequence of unverified identity platforms rather than individual pathology, you see that the question is not just about bad actors — it is about what architectures enable.
 
-**See also:** [[public/platform_mechanisms/microtargeting_public|Microtargeting]] · [[public/platform_mechanisms/attention_economy_public|Attention Economy]]
+**See also:** [[terms/platform_mechanisms/microtargeting_public|Microtargeting]] · [[terms/platform_mechanisms/attention_economy_public|Attention Economy]]
 
 `#behaviour-relationships` `#power` `#framing` `#digital-alertness`
 

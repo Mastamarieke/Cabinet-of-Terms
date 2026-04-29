@@ -25,10 +25,10 @@ related_reaction:
 
 **Layer:** Consequence — Algorithmic enclosure of like-minded people
 
-**Cause:** [[public/platform_mechanisms/recommender_systems_public|Recommender Systems]] · [[public/platform_mechanisms/attention_economy_public|Attention Economy]]
-**Mechanism:** [[public/students/echo_chamber_public|Echo Chamber]]
-**Consequence:** [[public/behaviour_relationships/cognitive_surrender_public|Cognitive Surrender]]
-**Reaction:** [[public/design_philosophy/unblackboxing_public|Unblackboxing]]
+**Cause:** [[terms/platform_mechanisms/recommender_systems_public|Recommender Systems]] · [[terms/platform_mechanisms/attention_economy_public|Attention Economy]]
+**Mechanism:** [[terms/students/echo_chamber_public|Echo Chamber]]
+**Consequence:** [[terms/behaviour_relationships/cognitive_surrender_public|Cognitive Surrender]]
+**Reaction:** [[terms/design_philosophy/unblackboxing_public|Unblackboxing]]
 
 **Public entry:** this document
 **Deep analysis:** *not yet created*
@@ -55,12 +55,12 @@ Eli Pariser coined the term in his 2011 book *The Filter Bubble*, documenting ho
 Personalisation is genuinely useful: relevant content is more valuable than irrelevant content. The algorithm learns what you engage with and serves more of it.
 
 **The Friction**
-[[public/platform_mechanisms/recommender_systems_public|Recommender Systems]] — optimising for engagement — learn that content confirming existing beliefs generates more engagement than content challenging them. The bubble is not visible from inside: you see a curated version of the world that appears complete. [[public/students/echo_chamber_public|Echo Chamber]] is the social version of the same phenomenon.
+[[terms/platform_mechanisms/recommender_systems_public|Recommender Systems]] — optimising for engagement — learn that content confirming existing beliefs generates more engagement than content challenging them. The bubble is not visible from inside: you see a curated version of the world that appears complete. [[terms/students/echo_chamber_public|Echo Chamber]] is the social version of the same phenomenon.
 
 **Why This Matters**
 Once you see the filter bubble as an infrastructure condition rather than a personal choice, you see that exiting it requires deliberate effort against the grain of every design incentive.
 
-**See also:** [[public/students/echo_chamber_public|Echo Chamber]] · [[public/platform_mechanisms/recommender_systems_public|Recommender Systems]] · [[public/behaviour_relationships/cognitive_surrender_public|Cognitive Surrender]]
+**See also:** [[terms/students/echo_chamber_public|Echo Chamber]] · [[terms/platform_mechanisms/recommender_systems_public|Recommender Systems]] · [[terms/behaviour_relationships/cognitive_surrender_public|Cognitive Surrender]]
 
 `#students` `#power` `#framing` `#digital-alertness`
 

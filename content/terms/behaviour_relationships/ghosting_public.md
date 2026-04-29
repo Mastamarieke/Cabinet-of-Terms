@@ -25,8 +25,8 @@ related_reaction:
 
 **Layer:** Consequence — Ignoring someone without explanation
 
-**Cause:** [[public/platform_mechanisms/attention_economy_public|Attention Economy]] · [[public/platform_mechanisms/recommender_systems_public|Recommender Systems]]
-**Mechanism:** [[public/platform_mechanisms/gamification_creep_public|Gamification Creep]]
+**Cause:** [[terms/platform_mechanisms/attention_economy_public|Attention Economy]] · [[terms/platform_mechanisms/recommender_systems_public|Recommender Systems]]
+**Mechanism:** [[terms/platform_mechanisms/gamification_creep_public|Gamification Creep]]
 **Consequence:** *—*
 **Reaction:** *—*
 
@@ -55,12 +55,12 @@ The term entered mainstream use around 2015 as dating app culture expanded. It d
 Ending a relationship is uncomfortable. Ghosting eliminates the discomfort of confrontation. In contexts of genuine threat or unwanted contact, it is a protective strategy.
 
 **The Friction**
-Platform design reduces the friction of disappearance and simultaneously increases the availability of alternatives — [[public/platform_mechanisms/recommender_systems_public|Recommender Systems]] continuously surface new people, new options, new feeds. The architecture that makes connection effortless makes disconnection equally effortless. The social norm of explanation — which required relational effort — has eroded.
+Platform design reduces the friction of disappearance and simultaneously increases the availability of alternatives — [[terms/platform_mechanisms/recommender_systems_public|Recommender Systems]] continuously surface new people, new options, new feeds. The architecture that makes connection effortless makes disconnection equally effortless. The social norm of explanation — which required relational effort — has eroded.
 
 **Why This Matters**
 Once you see ghosting as a relational pattern shaped by platform architecture rather than individual character, you see that the question is not "why do people ghost?" but "what design conditions make ghosting the path of least resistance?"
 
-**See also:** [[public/platform_mechanisms/attention_economy_public|Attention Economy]] · [[public/platform_mechanisms/gamification_creep_public|Gamification Creep]]
+**See also:** [[terms/platform_mechanisms/attention_economy_public|Attention Economy]] · [[terms/platform_mechanisms/gamification_creep_public|Gamification Creep]]
 
 `#behaviour-relationships` `#power` `#framing` `#digital-alertness`
 

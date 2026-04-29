@@ -25,8 +25,8 @@ related_reaction:
 
 **Layer:** Reaction — Deliberately consuming less; promoted through media
 
-**Cause:** [[public/platform_mechanisms/attention_harvesting_public|Attention Harvesting]] · [[public/society_power/surveillance_capitalism_public|Surveillance Capitalism]]
-**Mechanism:** [[public/appropriated_counter_force/digital_detox_public|Digital Detox]]
+**Cause:** [[terms/platform_mechanisms/attention_harvesting_public|Attention Harvesting]] · [[terms/society_power/surveillance_capitalism_public|Surveillance Capitalism]]
+**Mechanism:** [[terms/appropriated_counter_force/digital_detox_public|Digital Detox]]
 **Consequence:** *—*
 **Reaction:** *—*
 
@@ -55,12 +55,12 @@ The Slow Media Manifesto was published by Benedikt Köhler, Sabria David, and J�
 The desire for depth over breadth is real. Long-form journalism, books, and carefully curated sources offer genuine alternatives to the scroll.
 
 **The Friction**
-[[public/appropriated_counter_force/digital_detox_public|Digital Detox]] — the broader pattern of resistance absorbed by platform logic — applies here directly. Slow Media content is shared on fast platforms. The manifesto spread via Twitter. The counter-movement generates engagement for the system it opposes. [[public/platform_mechanisms/attention_harvesting_public|Attention Harvesting]] does not pause for slow consumers.
+[[terms/appropriated_counter_force/digital_detox_public|Digital Detox]] — the broader pattern of resistance absorbed by platform logic — applies here directly. Slow Media content is shared on fast platforms. The manifesto spread via Twitter. The counter-movement generates engagement for the system it opposes. [[terms/platform_mechanisms/attention_harvesting_public|Attention Harvesting]] does not pause for slow consumers.
 
 **Why This Matters**
 Once you see Slow Media as a lifestyle product rather than a structural intervention, you see that individual consumption choices do not change the architecture that produces the problem.
 
-**See also:** [[public/appropriated_counter_force/digital_detox_public|Digital Detox]] · [[public/platform_mechanisms/attention_harvesting_public|Attention Harvesting]] · [[public/appropriated_counter_force/unplugging_public|Unplugging]]
+**See also:** [[terms/appropriated_counter_force/digital_detox_public|Digital Detox]] · [[terms/platform_mechanisms/attention_harvesting_public|Attention Harvesting]] · [[terms/appropriated_counter_force/unplugging_public|Unplugging]]
 
 `#appropriated-counter-force` `#power` `#framing` `#digital-alertness`
 

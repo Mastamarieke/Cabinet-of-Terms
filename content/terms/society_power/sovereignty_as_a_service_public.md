@@ -26,10 +26,10 @@ related_reaction:
 
 **Layer:** Mechanism — State sovereignty outsourced to private tech infrastructure
 
-**Cause:** [[public/society_power/technofeudalism_public|Technofeudalism]] · [[public/society_power/surveillance_capitalism_public|Surveillance Capitalism]]
-**Mechanism:** [[public/privacy_compliance/vendor_lock_in_public|Vendor Lock-in]] · [[public/society_power/cybernetic_governance_public|Cybernetic Governance]]
+**Cause:** [[terms/society_power/technofeudalism_public|Technofeudalism]] · [[terms/society_power/surveillance_capitalism_public|Surveillance Capitalism]]
+**Mechanism:** [[terms/privacy_compliance/vendor_lock_in_public|Vendor Lock-in]] · [[terms/society_power/cybernetic_governance_public|Cybernetic Governance]]
 **Consequence:** *—*
-**Reaction:** [[public/design_philosophy/unblackboxing_public|Unblackboxing]]
+**Reaction:** [[terms/design_philosophy/unblackboxing_public|Unblackboxing]]
 
 **Public entry:** this document
 **Deep analysis:** *not yet created*
@@ -56,12 +56,12 @@ A documented trend: governments outsourcing critical infrastructure — tax syst
 Private sector technology is often more capable, faster, and cheaper than in-house government development. The efficiency gains are real.
 
 **The Friction**
-[[public/privacy_compliance/vendor_lock_in_public|Vendor Lock-in]] — structural dependency with no viable exit — is the consequence. [[public/society_power/technofeudalism_public|Technofeudalism]] is the political-economic structure: the state becomes a tenant on private infrastructure, subject to the landlord's terms.
+[[terms/privacy_compliance/vendor_lock_in_public|Vendor Lock-in]] — structural dependency with no viable exit — is the consequence. [[terms/society_power/technofeudalism_public|Technofeudalism]] is the political-economic structure: the state becomes a tenant on private infrastructure, subject to the landlord's terms.
 
 **Why This Matters**
 Once you see Sovereignty as a Service as a structural condition, you see that the state's ability to govern depends on private commercial relationships that can be altered unilaterally by the vendor.
 
-**See also:** [[public/privacy_compliance/vendor_lock_in_public|Vendor Lock-in]] · [[public/society_power/technofeudalism_public|Technofeudalism]] · [[public/society_power/cybernetic_governance_public|Cybernetic Governance]]
+**See also:** [[terms/privacy_compliance/vendor_lock_in_public|Vendor Lock-in]] · [[terms/society_power/technofeudalism_public|Technofeudalism]] · [[terms/society_power/cybernetic_governance_public|Cybernetic Governance]]
 
 `#society-power` `#power` `#framing` `#digital-alertness`
 

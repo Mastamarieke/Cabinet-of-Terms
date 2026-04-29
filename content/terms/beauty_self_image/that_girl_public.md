@@ -27,10 +27,10 @@ related_reaction:
 
 **Layer:** Mechanism — TikTok archetype; early rising, healthy eating as aesthetic
 
-**Cause:** [[public/platform_mechanisms/attention_economy_public|Attention Economy]] · [[public/society_power/surveillance_capitalism_public|Surveillance Capitalism]]
-**Mechanism:** [[public/platform_mechanisms/recommender_systems_public|Recommender Systems]] · [[public/beauty_self_image/fitfluencer_public|Fitfluencer]]
-**Consequence:** [[public/beauty_self_image/comparison_culture_public|Comparison Culture]] · [[public/beauty_self_image/toxic_positivity_public|Toxic Positivity]]
-**Reaction:** [[public/beauty_self_image/deinfluencing_public|Deinfluencing]]
+**Cause:** [[terms/platform_mechanisms/attention_economy_public|Attention Economy]] · [[terms/society_power/surveillance_capitalism_public|Surveillance Capitalism]]
+**Mechanism:** [[terms/platform_mechanisms/recommender_systems_public|Recommender Systems]] · [[terms/beauty_self_image/fitfluencer_public|Fitfluencer]]
+**Consequence:** [[terms/beauty_self_image/comparison_culture_public|Comparison Culture]] · [[terms/beauty_self_image/toxic_positivity_public|Toxic Positivity]]
+**Reaction:** [[terms/beauty_self_image/deinfluencing_public|Deinfluencing]]
 
 **Public entry:** this document
 **Deep analysis:** *not yet created*
@@ -57,12 +57,12 @@ The "That Girl" aesthetic emerged on TikTok around 2021. It features early morni
 The values embedded in That Girl content — health, structure, intention — are genuinely good. The aesthetic makes the work of self-improvement look achievable and beautiful.
 
 **The Friction**
-[[public/beauty_self_image/comparison_culture_public|Comparison Culture]] is the structural consequence: the archetype exists to be compared to. [[public/beauty_self_image/toxic_positivity_public|Toxic Positivity]] — the compulsion toward positivity as a norm — saturates the aesthetic: every morning is glowing, every meal is nourishing, every emotion is managed.
+[[terms/beauty_self_image/comparison_culture_public|Comparison Culture]] is the structural consequence: the archetype exists to be compared to. [[terms/beauty_self_image/toxic_positivity_public|Toxic Positivity]] — the compulsion toward positivity as a norm — saturates the aesthetic: every morning is glowing, every meal is nourishing, every emotion is managed.
 
 **Why This Matters**
 Once you see That Girl as a content format rather than a lifestyle, you see that the aspiration it sells is inseparable from the engagement it generates — and that the gap between the archetype and everyday life is the engine of the content economy.
 
-**See also:** [[public/beauty_self_image/comparison_culture_public|Comparison Culture]] · [[public/beauty_self_image/highlight_reel_public|Highlight Reel]] · [[public/beauty_self_image/toxic_positivity_public|Toxic Positivity]]
+**See also:** [[terms/beauty_self_image/comparison_culture_public|Comparison Culture]] · [[terms/beauty_self_image/highlight_reel_public|Highlight Reel]] · [[terms/beauty_self_image/toxic_positivity_public|Toxic Positivity]]
 
 `#beauty-influencers-self-image` `#power` `#framing` `#digital-alertness`
 

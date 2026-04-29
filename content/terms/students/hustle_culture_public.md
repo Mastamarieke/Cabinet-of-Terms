@@ -27,9 +27,9 @@ related_reaction:
 
 **Layer:** Mechanism — Always being busy as identity and norm
 
-**Cause:** [[public/platform_mechanisms/attention_economy_public|Attention Economy]] · [[public/society_power/surveillance_capitalism_public|Surveillance Capitalism]]
-**Mechanism:** [[public/students/personal_branding_public|Personal Branding]] · [[public/platform_mechanisms/gamification_creep_public|Gamification Creep]]
-**Consequence:** [[public/students/imposter_syndrome_public|Imposter Syndrome]] · [[public/students/doom_spending_public|Doom Spending]]
+**Cause:** [[terms/platform_mechanisms/attention_economy_public|Attention Economy]] · [[terms/society_power/surveillance_capitalism_public|Surveillance Capitalism]]
+**Mechanism:** [[terms/students/personal_branding_public|Personal Branding]] · [[terms/platform_mechanisms/gamification_creep_public|Gamification Creep]]
+**Consequence:** [[terms/students/imposter_syndrome_public|Imposter Syndrome]] · [[terms/students/doom_spending_public|Doom Spending]]
 **Reaction:** *—*
 
 **Public entry:** this document
@@ -57,12 +57,12 @@ Hustle Culture has roots in Protestant work ethic discourse but took its current
 The desire to build something meaningful, to work hard toward goals, and to distinguish oneself through effort is real and valuable. Hustle Culture channels genuine ambition.
 
 **The Friction**
-[[public/students/personal_branding_public|Personal Branding]] — treating yourself as a product — is the identity mechanism: you are your output. [[public/platform_mechanisms/gamification_creep_public|Gamification Creep]] turns productivity into a scored competition. Research on burnout consistently documents that Hustle Culture produces diminishing returns — but the platforms that distribute it profit from the aspirational content it generates regardless of outcomes.
+[[terms/students/personal_branding_public|Personal Branding]] — treating yourself as a product — is the identity mechanism: you are your output. [[terms/platform_mechanisms/gamification_creep_public|Gamification Creep]] turns productivity into a scored competition. Research on burnout consistently documents that Hustle Culture produces diminishing returns — but the platforms that distribute it profit from the aspirational content it generates regardless of outcomes.
 
 **Why This Matters**
 Once you see Hustle Culture as an ideology that serves platform engagement rather than individual success, you see that the relentless work ethic it promotes produces content and data for platforms — whether or not it produces results for the worker.
 
-**See also:** [[public/students/personal_branding_public|Personal Branding]] · [[public/students/imposter_syndrome_public|Imposter Syndrome]] · [[public/platform_mechanisms/gamification_creep_public|Gamification Creep]]
+**See also:** [[terms/students/personal_branding_public|Personal Branding]] · [[terms/students/imposter_syndrome_public|Imposter Syndrome]] · [[terms/platform_mechanisms/gamification_creep_public|Gamification Creep]]
 
 `#students` `#power` `#framing` `#digital-alertness`
 

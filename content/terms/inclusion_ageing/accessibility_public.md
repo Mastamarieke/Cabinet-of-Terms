@@ -28,10 +28,10 @@ related_reaction:
 
 **Layer:** Cause — What the term claims, who is still excluded
 
-**Cause:** [[public/society_power/technofeudalism_public|Technofeudalism]] · [[public/society_power/surveillance_capitalism_public|Surveillance Capitalism]]
-**Mechanism:** [[public/inclusion_ageing/universal_design_public|Universal Design]] · [[public/inclusion_ageing/inclusive_design_public|Inclusive Design]]
-**Consequence:** [[public/inclusion_ageing/digital_exclusion_public|Digital Exclusion]] · [[public/inclusion_ageing/digital_divide_public|Digital Divide]]
-**Reaction:** [[public/design_philosophy/vsd_value_sensitive_design_public|VSD]] · [[public/design_philosophy/fair_patterns_public|Fair Patterns]]
+**Cause:** [[terms/society_power/technofeudalism_public|Technofeudalism]] · [[terms/society_power/surveillance_capitalism_public|Surveillance Capitalism]]
+**Mechanism:** [[terms/inclusion_ageing/universal_design_public|Universal Design]] · [[terms/inclusion_ageing/inclusive_design_public|Inclusive Design]]
+**Consequence:** [[terms/inclusion_ageing/digital_exclusion_public|Digital Exclusion]] · [[terms/inclusion_ageing/digital_divide_public|Digital Divide]]
+**Reaction:** [[terms/design_philosophy/vsd_value_sensitive_design_public|VSD]] · [[terms/design_philosophy/fair_patterns_public|Fair Patterns]]
 
 **Public entry:** this document
 **Deep analysis:** *not yet created*
@@ -58,12 +58,12 @@ Accessibility as a formal design and legal category emerged with disability righ
 Accessibility standards are well-documented and the business case is clear: accessible design reaches more users, improves usability for everyone, and reduces legal risk.
 
 **The Friction**
-The gap between compliance and genuine accessibility is structural. Accessibility audits check against WCAG criteria; they do not test whether real users with disabilities can actually complete tasks. [[public/inclusion_ageing/digital_exclusion_public|Digital Exclusion]] is the consequence when compliance substitutes for genuine usability. The term "accessibility" is also used in marketing without corresponding practice — a form of [[public/privacy_compliance/privacy_washing_public|Privacy Washing]] applied to inclusion.
+The gap between compliance and genuine accessibility is structural. Accessibility audits check against WCAG criteria; they do not test whether real users with disabilities can actually complete tasks. [[terms/inclusion_ageing/digital_exclusion_public|Digital Exclusion]] is the consequence when compliance substitutes for genuine usability. The term "accessibility" is also used in marketing without corresponding practice — a form of [[terms/privacy_compliance/privacy_washing_public|Privacy Washing]] applied to inclusion.
 
 **Why This Matters**
 Once you see Accessibility as a contested practice rather than a checkbox, you see that the question is not whether a system is technically compliant — it is whether the people it claims to serve can actually use it.
 
-**See also:** [[public/inclusion_ageing/universal_design_public|Universal Design]] · [[public/inclusion_ageing/inclusive_design_public|Inclusive Design]] · [[public/inclusion_ageing/digital_exclusion_public|Digital Exclusion]]
+**See also:** [[terms/inclusion_ageing/universal_design_public|Universal Design]] · [[terms/inclusion_ageing/inclusive_design_public|Inclusive Design]] · [[terms/inclusion_ageing/digital_exclusion_public|Digital Exclusion]]
 
 `#inclusion-accessibility-ageing` `#power` `#framing` `#digital-alertness`
 

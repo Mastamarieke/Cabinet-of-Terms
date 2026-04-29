@@ -28,10 +28,10 @@ related_reaction:
 
 **Layer:** Consequence — the identity formed when romantic rejection becomes existential resentment
 
-**Cause:** [[public/society_power/surveillance_capitalism_public|surveillance-capitalism]] · [[public/platform_mechanisms/attention_economy_public|attention-economy]] · [[public/gender_identity/manosphere_public|manosphere]]
-**Mechanism:** [[public/gender_identity/blackpill_public|blackpill]] · [[public/gender_identity/smv_public|SMV]]
+**Cause:** [[terms/society_power/surveillance_capitalism_public|surveillance-capitalism]] · [[terms/platform_mechanisms/attention_economy_public|attention-economy]] · [[terms/gender_identity/manosphere_public|manosphere]]
+**Mechanism:** [[terms/gender_identity/blackpill_public|blackpill]] · [[terms/gender_identity/smv_public|SMV]]
 **Consequence:** [[radicalisation]] · [[dehumanization]]
-**Reaction:** [[public/culture_wars/deplatforming_public|deplatforming]]
+**Reaction:** [[terms/culture_wars/deplatforming_public|deplatforming]]
 
 **Public entry:** this document
 **Deep analysis:** *in production*
@@ -55,15 +55,15 @@ Coined in the 1990s as a neutral term for people struggling with loneliness, it 
 > Incel is the identity formed when romantic rejection becomes existential resentment — blaming the world for personal loneliness.
 
 **The Appeal**
-For someone who feels rejected, the incelsphere offers explanation. [[public/gender_identity/blackpill_public|Blackpill]] — the deterministic worldview that attractiveness is fate — removes personal responsibility. [[public/gender_identity/smv_public|SMV]] — Sexual Market Value, the idea that attractiveness can be quantified — gives you a reason. The pain is not your failure; it's the system's design. The appeal is powerful because shame is unbearable.
+For someone who feels rejected, the incelsphere offers explanation. [[terms/gender_identity/blackpill_public|Blackpill]] — the deterministic worldview that attractiveness is fate — removes personal responsibility. [[terms/gender_identity/smv_public|SMV]] — Sexual Market Value, the idea that attractiveness can be quantified — gives you a reason. The pain is not your failure; it's the system's design. The appeal is powerful because shame is unbearable.
 
 **The Friction**
-But the explanation that absolves you also traps you. If attractiveness is fate, nothing can change. [[public/platform_mechanisms/recommender_systems_public|Recommender Systems]] — algorithms that feed you more of what keeps you watching — turn the ecosystem into a pipeline. A man searching for dating advice gets routed toward [[public/gender_identity/manosphere_public|Manosphere]] content, where women are framed as hypergamous predators — then toward [[public/gender_identity/blackpill_public|Blackpill]] fatalism, where hope is framed as weakness. The path feels like truth. It is design.
+But the explanation that absolves you also traps you. If attractiveness is fate, nothing can change. [[terms/platform_mechanisms/recommender_systems_public|Recommender Systems]] — algorithms that feed you more of what keeps you watching — turn the ecosystem into a pipeline. A man searching for dating advice gets routed toward [[terms/gender_identity/manosphere_public|Manosphere]] content, where women are framed as hypergamous predators — then toward [[terms/gender_identity/blackpill_public|Blackpill]] fatalism, where hope is framed as weakness. The path feels like truth. It is design.
 
 **Why This Matters**
 Once you see incel as a consequence rather than a choice, you see how the same platforms that profit from loneliness also profit from the rage it creates. The identity is not accidental — it is engineered.
 
-**See also:** [[public/gender_identity/manosphere_public|manosphere]] · [[public/gender_identity/blackpill_public|blackpill]] · [[public/gender_identity/smv_public|smv-sexual-market-value]] · [[dehumanization]]
+**See also:** [[terms/gender_identity/manosphere_public|manosphere]] · [[terms/gender_identity/blackpill_public|blackpill]] · [[terms/gender_identity/smv_public|smv-sexual-market-value]] · [[dehumanization]]
 
 `#gender-identity` `#power` `#framing` `#digital-alertness`
 

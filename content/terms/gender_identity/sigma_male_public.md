@@ -27,10 +27,10 @@ related_reaction:
 
 **Layer:** Mechanism — alternative outside the hierarchy; loner as status symbol
 
-**Cause:** [[public/society_power/surveillance_capitalism_public|Surveillance Capitalism]] · [[public/platform_mechanisms/attention_economy_public|Attention Economy]]
-**Mechanism:** [[public/gender_identity/smv_public|SMV]] · [[public/gender_identity/manosphere_public|Manosphere]]
-**Consequence:** [[public/gender_identity/mgtow_public|MGTOW]] · [[public/gender_identity/incel_public|Incel]]
-**Reaction:** [[public/culture_wars/deplatforming_public|Deplatforming]]
+**Cause:** [[terms/society_power/surveillance_capitalism_public|Surveillance Capitalism]] · [[terms/platform_mechanisms/attention_economy_public|Attention Economy]]
+**Mechanism:** [[terms/gender_identity/smv_public|SMV]] · [[terms/gender_identity/manosphere_public|Manosphere]]
+**Consequence:** [[terms/gender_identity/mgtow_public|MGTOW]] · [[terms/gender_identity/incel_public|Incel]]
+**Reaction:** [[terms/culture_wars/deplatforming_public|Deplatforming]]
 
 **Public entry:** this document
 **Deep analysis:** *not yet created*
@@ -57,12 +57,12 @@ The term was popularised in a 2010 blog post by Vox Day and spread rapidly throu
 The category resolves a tension in the alpha framework: men who do not fit the dominant, socially gregarious alpha ideal can claim superiority through rejection of the game itself. Introversion, independence, and non-conformity become assets rather than deficits.
 
 **The Friction**
-The category is self-sealing: any criticism of the sigma ideal can be reframed as evidence that the critic is trapped in the hierarchy the sigma transcends. [[public/gender_identity/alpha_male_public|Alpha Male]] — dominance as an identity model — and Sigma Male share the same underlying structure: a ranking system in which the speaker is always near the top. The sigma framework spread primarily through ironic meme culture, but irony provides cover for earnest adoption.
+The category is self-sealing: any criticism of the sigma ideal can be reframed as evidence that the critic is trapped in the hierarchy the sigma transcends. [[terms/gender_identity/alpha_male_public|Alpha Male]] — dominance as an identity model — and Sigma Male share the same underlying structure: a ranking system in which the speaker is always near the top. The sigma framework spread primarily through ironic meme culture, but irony provides cover for earnest adoption.
 
 **Why This Matters**
 Once you see Sigma Male as a status claim rather than a departure from status-seeking, you see how the category reproduces the hierarchy it claims to transcend. The lone wolf is still defined by the pack.
 
-**See also:** [[public/gender_identity/alpha_male_public|Alpha Male]] · [[public/gender_identity/manosphere_public|Manosphere]] · [[public/gender_identity/mgtow_public|MGTOW]] · [[public/gender_identity/smv_public|SMV]]
+**See also:** [[terms/gender_identity/alpha_male_public|Alpha Male]] · [[terms/gender_identity/manosphere_public|Manosphere]] · [[terms/gender_identity/mgtow_public|MGTOW]] · [[terms/gender_identity/smv_public|SMV]]
 
 `#gender-identity` `#power` `#framing` `#digital-alertness`
 

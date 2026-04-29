@@ -25,10 +25,10 @@ related_reaction:
 
 **Layer:** Mechanism — Body signals as data
 
-**Cause:** [[public/society_power/surveillance_capitalism_public|Surveillance Capitalism]] · [[public/platform_mechanisms/attention_economy_public|Attention Economy]]
-**Mechanism:** [[public/platform_mechanisms/microtargeting_public|Microtargeting]]
-**Consequence:** [[public/behaviour_relationships/cognitive_surrender_public|Cognitive Surrender]]
-**Reaction:** [[public/design_philosophy/unblackboxing_public|Unblackboxing]]
+**Cause:** [[terms/society_power/surveillance_capitalism_public|Surveillance Capitalism]] · [[terms/platform_mechanisms/attention_economy_public|Attention Economy]]
+**Mechanism:** [[terms/platform_mechanisms/microtargeting_public|Microtargeting]]
+**Consequence:** [[terms/behaviour_relationships/cognitive_surrender_public|Cognitive Surrender]]
+**Reaction:** [[terms/design_philosophy/unblackboxing_public|Unblackboxing]]
 
 **Public entry:** this document
 **Deep analysis:** *not yet created*
@@ -55,12 +55,12 @@ Biometric identification has military and law enforcement roots. Commercial depl
 Biometric authentication is genuinely more convenient and often more secure than passwords. Fitness tracking provides real health insights.
 
 **The Friction**
-Biometric data is permanently attached to the body — it cannot be changed like a password. [[public/society_power/surveillance_capitalism_public|Surveillance Capitalism]] — the extraction of behavioural data for prediction — extends to the body itself. State and commercial systems increasingly share biometric databases without meaningful consent frameworks.
+Biometric data is permanently attached to the body — it cannot be changed like a password. [[terms/society_power/surveillance_capitalism_public|Surveillance Capitalism]] — the extraction of behavioural data for prediction — extends to the body itself. State and commercial systems increasingly share biometric databases without meaningful consent frameworks.
 
 **Why This Matters**
 Once you see biometric surveillance as infrastructure rather than security feature, you see that the body has become a data point in systems whose purposes extend far beyond the function you consented to.
 
-**See also:** [[public/society_power/surveillance_capitalism_public|Surveillance Capitalism]] · [[public/platform_mechanisms/microtargeting_public|Microtargeting]]
+**See also:** [[terms/society_power/surveillance_capitalism_public|Surveillance Capitalism]] · [[terms/platform_mechanisms/microtargeting_public|Microtargeting]]
 
 `#platform-mechanisms-economics` `#power` `#framing` `#digital-alertness`
 

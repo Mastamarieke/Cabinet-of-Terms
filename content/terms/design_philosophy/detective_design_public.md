@@ -26,8 +26,8 @@ related_reaction:
 
 **Layer:** Reaction — Design that makes manipulation visible
 
-**Cause:** [[public/platform_mechanisms/dark_patterns_public|Dark Patterns]] · [[public/society_power/surveillance_capitalism_public|Surveillance Capitalism]]
-**Mechanism:** [[public/design_philosophy/unblackboxing_public|Unblackboxing]] · [[public/design_philosophy/fair_patterns_public|Fair Patterns]]
+**Cause:** [[terms/platform_mechanisms/dark_patterns_public|Dark Patterns]] · [[terms/society_power/surveillance_capitalism_public|Surveillance Capitalism]]
+**Mechanism:** [[terms/design_philosophy/unblackboxing_public|Unblackboxing]] · [[terms/design_philosophy/fair_patterns_public|Fair Patterns]]
 **Consequence:** *—*
 **Reaction:** *—*
 
@@ -48,7 +48,7 @@ The interface shows you what it is doing. The confirm-shaming button labels itse
 *Detective* — investigative, revealing hidden things. *Design* — intentional structuring of experiences. Detective Design is the practice of designing systems that make their own manipulative mechanisms visible to users.
 
 **Origin**
-Detective Design emerged from critical design and speculative design traditions, applied to digital interfaces by researchers and practitioners concerned with transparency. It extends [[public/design_philosophy/unblackboxing_public|Unblackboxing]] — making hidden mechanisms visible — into a design methodology.
+Detective Design emerged from critical design and speculative design traditions, applied to digital interfaces by researchers and practitioners concerned with transparency. It extends [[terms/design_philosophy/unblackboxing_public|Unblackboxing]] — making hidden mechanisms visible — into a design methodology.
 
 > Detective Design is the practice of building transparency about manipulation into interface design itself — making dark patterns visible rather than invisible.
 
@@ -61,7 +61,7 @@ Detective Design is structurally self-defeating in commercial contexts: a platfo
 **Why This Matters**
 Once you see Detective Design as a design principle rather than a product feature, you see that transparency about manipulation is technically achievable — and that its absence is a choice.
 
-**See also:** [[public/design_philosophy/unblackboxing_public|Unblackboxing]] · [[public/design_philosophy/fair_patterns_public|Fair Patterns]] · [[public/platform_mechanisms/dark_patterns_public|Dark Patterns]]
+**See also:** [[terms/design_philosophy/unblackboxing_public|Unblackboxing]] · [[terms/design_philosophy/fair_patterns_public|Fair Patterns]] · [[terms/platform_mechanisms/dark_patterns_public|Dark Patterns]]
 
 `#design-philosophy-counter-force` `#power` `#framing` `#digital-alertness`
 

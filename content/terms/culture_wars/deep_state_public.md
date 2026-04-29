@@ -25,10 +25,10 @@ related_reaction:
 
 **Layer:** Mechanism — Two definitions: permanent bureaucracy vs secret elite; semantic capture
 
-**Cause:** [[public/platform_mechanisms/attention_economy_public|Attention Economy]] · [[public/platform_mechanisms/recommender_systems_public|Recommender Systems]]
-**Mechanism:** [[public/culture_wars/qanon_public|QAnon]]
+**Cause:** [[terms/platform_mechanisms/attention_economy_public|Attention Economy]] · [[terms/platform_mechanisms/recommender_systems_public|Recommender Systems]]
+**Mechanism:** [[terms/culture_wars/qanon_public|QAnon]]
 **Consequence:** *—*
-**Reaction:** [[public/culture_wars/deplatforming_public|Deplatforming]]
+**Reaction:** [[terms/culture_wars/deplatforming_public|Deplatforming]]
 
 **Public entry:** this document
 **Deep analysis:** *not yet created*
@@ -55,12 +55,12 @@ Deep State as an academic concept describes the permanent civil service apparatu
 The legitimate concern about permanent bureaucratic power is real. Elected governments do face institutional resistance.
 
 **The Friction**
-Semantic capture: the legitimate term is borrowed to give authority to the conspiracy theory version. [[public/culture_wars/qanon_public|QAnon]] uses Deep State as its central explanatory concept.
+Semantic capture: the legitimate term is borrowed to give authority to the conspiracy theory version. [[terms/culture_wars/qanon_public|QAnon]] uses Deep State as its central explanatory concept.
 
 **Why This Matters**
 Once you see Deep State as a semantic capture, you see that the conflation allows conspiracy thinking to borrow the credibility of legitimate political analysis.
 
-**See also:** [[public/culture_wars/qanon_public|QAnon]] · [[public/culture_wars/great_replacement_public|Great Replacement]]
+**See also:** [[terms/culture_wars/qanon_public|QAnon]] · [[terms/culture_wars/great_replacement_public|Great Replacement]]
 
 `#culture-wars-political-language` `#power` `#framing` `#digital-alertness`
 

@@ -25,10 +25,10 @@ related_reaction:
 
 **Layer:** Consequence — Old names remain findable; right to be forgotten affects identity
 
-**Cause:** [[public/society_power/surveillance_capitalism_public|Surveillance Capitalism]] · [[public/platform_mechanisms/recommender_systems_public|Recommender Systems]]
-**Mechanism:** [[public/privacy_compliance/privacy_washing_public|Privacy Washing]]
+**Cause:** [[terms/society_power/surveillance_capitalism_public|Surveillance Capitalism]] · [[terms/platform_mechanisms/recommender_systems_public|Recommender Systems]]
+**Mechanism:** [[terms/privacy_compliance/privacy_washing_public|Privacy Washing]]
 **Consequence:** *—*
-**Reaction:** [[public/culture_wars/deplatforming_public|Deplatforming]]
+**Reaction:** [[terms/culture_wars/deplatforming_public|Deplatforming]]
 
 **Public entry:** this document
 **Deep analysis:** *not yet created*
@@ -55,12 +55,12 @@ Deadnaming entered LGBTQ+ and mainstream discourse in the 2010s. The term descri
 This term has no "appeal" in the standard sense. Its analytical value is in revealing how digital permanence intersects with identity.
 
 **The Friction**
-[[public/privacy_compliance/privacy_washing_public|Privacy Washing]] is relevant: the right to be forgotten is legally established in GDPR but difficult to enforce against search indexes and archives. Deadnaming is partly a technical problem: systems that treat names as permanent identifiers are not designed with identity change in mind.
+[[terms/privacy_compliance/privacy_washing_public|Privacy Washing]] is relevant: the right to be forgotten is legally established in GDPR but difficult to enforce against search indexes and archives. Deadnaming is partly a technical problem: systems that treat names as permanent identifiers are not designed with identity change in mind.
 
 **Why This Matters**
 Once you see deadnaming as a structural infrastructure problem, you see that the design of identity systems has direct consequences for lived safety.
 
-**See also:** [[public/privacy_compliance/privacy_washing_public|Privacy Washing]] · [[public/culture_wars/dehumanization_public|Dehumanization]]
+**See also:** [[terms/privacy_compliance/privacy_washing_public|Privacy Washing]] · [[terms/culture_wars/dehumanization_public|Dehumanization]]
 
 `#culture-wars-political-language` `#power` `#framing` `#digital-alertness`
 

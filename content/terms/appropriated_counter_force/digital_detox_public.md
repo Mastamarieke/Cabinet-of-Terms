@@ -24,8 +24,8 @@ related_reaction:
 
 **Layer:** Reaction — digital detox
 
-**Cause:** [[public/platform_mechanisms/attention_harvesting_public|Attention Harvesting]] · [[public/society_power/surveillance_capitalism_public|Surveillance Capitalism]]
-**Mechanism:** [[public/platform_mechanisms/recommender_systems_public|Recommender Systems]]
+**Cause:** [[terms/platform_mechanisms/attention_harvesting_public|Attention Harvesting]] · [[terms/society_power/surveillance_capitalism_public|Surveillance Capitalism]]
+**Mechanism:** [[terms/platform_mechanisms/recommender_systems_public|Recommender Systems]]
 **Consequence:** *—*
 **Reaction:** *—*
 
@@ -54,12 +54,12 @@ The term emerged around 2012–2013 as smartphone use became ubiquitous. Wellnes
 The desire to disconnect is real. Screen fatigue, anxiety, and the sense of losing time to endless scrolling are documented experiences. Digital detox names that discomfort and offers a temporary exit.
 
 **The Friction**
-The exit is sold back to you by the system you are trying to exit. Detox apps, retreat bookings, and "unplugging" content are themselves platform products optimised for engagement. [[public/platform_mechanisms/attention_harvesting_public|Attention Harvesting]] — the systematic process of extracting human attention for commercial purposes — does not pause during a detox weekend. The infrastructure remains intact.
+The exit is sold back to you by the system you are trying to exit. Detox apps, retreat bookings, and "unplugging" content are themselves platform products optimised for engagement. [[terms/platform_mechanisms/attention_harvesting_public|Attention Harvesting]] — the systematic process of extracting human attention for commercial purposes — does not pause during a detox weekend. The infrastructure remains intact.
 
 **Why This Matters**
 Once you see digital detox as a product rather than a solution, you see how the system absorbs its own critique. The question is not whether to detox — it is why the need for detox keeps being produced.
 
-**See also:** [[public/platform_mechanisms/attention_harvesting_public|Attention Harvesting]] · [[public/society_power/surveillance_capitalism_public|Surveillance Capitalism]]
+**See also:** [[terms/platform_mechanisms/attention_harvesting_public|Attention Harvesting]] · [[terms/society_power/surveillance_capitalism_public|Surveillance Capitalism]]
 
 `#appropriated-counter-force` `#power` `#framing` `#digital-alertness`
 

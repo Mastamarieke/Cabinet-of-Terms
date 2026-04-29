@@ -25,8 +25,8 @@ related_reaction:
 
 **Layer:** Mechanism — Following and liking after ending contact
 
-**Cause:** [[public/platform_mechanisms/attention_economy_public|Attention Economy]] · [[public/platform_mechanisms/recommender_systems_public|Recommender Systems]]
-**Mechanism:** [[public/platform_mechanisms/gamification_creep_public|Gamification Creep]]
+**Cause:** [[terms/platform_mechanisms/attention_economy_public|Attention Economy]] · [[terms/platform_mechanisms/recommender_systems_public|Recommender Systems]]
+**Mechanism:** [[terms/platform_mechanisms/gamification_creep_public|Gamification Creep]]
 **Consequence:** *—*
 **Reaction:** *—*
 
@@ -55,12 +55,12 @@ The term was coined by Anna Iovine in *Man Repeller* in 2018. It named a behavio
 Maintaining peripheral awareness of someone you once cared about requires almost no effort on platforms designed for passive consumption.
 
 **The Friction**
-[[public/platform_mechanisms/recommender_systems_public|Recommender Systems]] surface the orbiting person's content to the orbited — their likes appear, their views are counted. The platform has no concept of ended relationships. [[public/behaviour_relationships/breadcrumbing_public|Breadcrumbing]] sends minimal signals forward; orbiting sends minimal signals backward. Both exploit the low cost of digital contact.
+[[terms/platform_mechanisms/recommender_systems_public|Recommender Systems]] surface the orbiting person's content to the orbited — their likes appear, their views are counted. The platform has no concept of ended relationships. [[terms/behaviour_relationships/breadcrumbing_public|Breadcrumbing]] sends minimal signals forward; orbiting sends minimal signals backward. Both exploit the low cost of digital contact.
 
 **Why This Matters**
 Once you see orbiting as a behaviour enabled by platform architecture rather than a personal decision, you see that ending a relationship no longer means disappearing — it means changing your engagement pattern within a system that has no off switch.
 
-**See also:** [[public/behaviour_relationships/ghosting_public|Ghosting]] · [[public/behaviour_relationships/breadcrumbing_public|Breadcrumbing]] · [[public/platform_mechanisms/recommender_systems_public|Recommender Systems]]
+**See also:** [[terms/behaviour_relationships/ghosting_public|Ghosting]] · [[terms/behaviour_relationships/breadcrumbing_public|Breadcrumbing]] · [[terms/platform_mechanisms/recommender_systems_public|Recommender Systems]]
 
 `#behaviour-relationships` `#power` `#framing` `#digital-alertness`
 

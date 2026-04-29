@@ -28,10 +28,10 @@ related_reaction:
 
 **Layer:** Consequence — People are actively excluded by design or policy
 
-**Cause:** [[public/society_power/technofeudalism_public|Technofeudalism]] · [[public/society_power/surveillance_capitalism_public|Surveillance Capitalism]]
-**Mechanism:** [[public/inclusion_ageing/digital_divide_public|Digital Divide]] · [[public/inclusion_ageing/ageism_digital_public|Ageism (Digital)]]
-**Consequence:** [[public/inclusion_ageing/tech_abandonment_public|Tech Abandonment]] · [[public/inclusion_ageing/technostress_public|Technostress]]
-**Reaction:** [[public/inclusion_ageing/accessibility_public|Accessibility]] · [[public/inclusion_ageing/inclusive_design_public|Inclusive Design]]
+**Cause:** [[terms/society_power/technofeudalism_public|Technofeudalism]] · [[terms/society_power/surveillance_capitalism_public|Surveillance Capitalism]]
+**Mechanism:** [[terms/inclusion_ageing/digital_divide_public|Digital Divide]] · [[terms/inclusion_ageing/ageism_digital_public|Ageism (Digital)]]
+**Consequence:** [[terms/inclusion_ageing/tech_abandonment_public|Tech Abandonment]] · [[terms/inclusion_ageing/technostress_public|Technostress]]
+**Reaction:** [[terms/inclusion_ageing/accessibility_public|Accessibility]] · [[terms/inclusion_ageing/inclusive_design_public|Inclusive Design]]
 
 **Public entry:** this document
 **Deep analysis:** *not yet created*
@@ -58,12 +58,12 @@ Digital Exclusion emerged as a concept in the 2000s as public services moved onl
 Identifying Digital Exclusion as a distinct category enables targeted policy responses: specific programmes for specific excluded groups.
 
 **The Friction**
-[[public/inclusion_ageing/digital_divide_public|Digital Divide]] describes the gap; Digital Exclusion names the process that produces it — and the active role of design and policy in maintaining it. [[public/platform_mechanisms/dark_patterns_public|Dark Patterns]] contribute: interfaces designed for engaged, skilled users actively exclude those who are not.
+[[terms/inclusion_ageing/digital_divide_public|Digital Divide]] describes the gap; Digital Exclusion names the process that produces it — and the active role of design and policy in maintaining it. [[terms/platform_mechanisms/dark_patterns_public|Dark Patterns]] contribute: interfaces designed for engaged, skilled users actively exclude those who are not.
 
 **Why This Matters**
 Once you see Digital Exclusion as an active process rather than a passive gap, you see that every design decision and every policy choice about digital access is also a decision about who is included and who is not.
 
-**See also:** [[public/inclusion_ageing/digital_divide_public|Digital Divide]] · [[public/inclusion_ageing/accessibility_public|Accessibility]] · [[public/inclusion_ageing/ageism_digital_public|Ageism (Digital)]] · [[public/inclusion_ageing/tech_abandonment_public|Tech Abandonment]]
+**See also:** [[terms/inclusion_ageing/digital_divide_public|Digital Divide]] · [[terms/inclusion_ageing/accessibility_public|Accessibility]] · [[terms/inclusion_ageing/ageism_digital_public|Ageism (Digital)]] · [[terms/inclusion_ageing/tech_abandonment_public|Tech Abandonment]]
 
 `#inclusion-accessibility-ageing` `#power` `#framing` `#digital-alertness`
 

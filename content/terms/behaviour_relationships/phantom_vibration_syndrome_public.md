@@ -25,10 +25,10 @@ related_reaction:
 
 **Layer:** Consequence — Feeling vibrations that are not there
 
-**Cause:** [[public/platform_mechanisms/dopamine_feedback_loops_public|Dopamine Feedback Loops]] · [[public/platform_mechanisms/attention_harvesting_public|Attention Harvesting]]
-**Mechanism:** [[public/platform_mechanisms/gamification_creep_public|Gamification Creep]]
-**Consequence:** [[public/behaviour_relationships/cognitive_surrender_public|Cognitive Surrender]]
-**Reaction:** [[public/appropriated_counter_force/digital_detox_public|Digital Detox]]
+**Cause:** [[terms/platform_mechanisms/dopamine_feedback_loops_public|Dopamine Feedback Loops]] · [[terms/platform_mechanisms/attention_harvesting_public|Attention Harvesting]]
+**Mechanism:** [[terms/platform_mechanisms/gamification_creep_public|Gamification Creep]]
+**Consequence:** [[terms/behaviour_relationships/cognitive_surrender_public|Cognitive Surrender]]
+**Reaction:** [[terms/appropriated_counter_force/digital_detox_public|Digital Detox]]
 
 **Public entry:** this document
 **Deep analysis:** *not yet created*
@@ -55,12 +55,12 @@ Phantom Vibration Syndrome was first documented in medical literature in 2003 an
 There is no appeal from the user perspective — but the phenomenon reveals something real: social connection matters, and the anticipation of it has become a physical state.
 
 **The Friction**
-[[public/platform_mechanisms/dopamine_feedback_loops_public|Dopamine Feedback Loops]] — variable reward schedules that sustain compulsive checking — are the mechanism. The phantom vibration is the body anticipating a reward that may arrive. The phone does not need to notify you; your nervous system has learned to generate the expectation autonomously.
+[[terms/platform_mechanisms/dopamine_feedback_loops_public|Dopamine Feedback Loops]] — variable reward schedules that sustain compulsive checking — are the mechanism. The phantom vibration is the body anticipating a reward that may arrive. The phone does not need to notify you; your nervous system has learned to generate the expectation autonomously.
 
 **Why This Matters**
 Once you see phantom vibration syndrome as a documented neurological adaptation to platform design rather than personal weakness, you see that the body itself has been reconfigured by notification architecture — without your conscious participation.
 
-**See also:** [[public/platform_mechanisms/dopamine_feedback_loops_public|Dopamine Feedback Loops]] · [[public/behaviour_relationships/cognitive_surrender_public|Cognitive Surrender]] · [[public/platform_mechanisms/attention_harvesting_public|Attention Harvesting]]
+**See also:** [[terms/platform_mechanisms/dopamine_feedback_loops_public|Dopamine Feedback Loops]] · [[terms/behaviour_relationships/cognitive_surrender_public|Cognitive Surrender]] · [[terms/platform_mechanisms/attention_harvesting_public|Attention Harvesting]]
 
 `#behaviour-relationships` `#power` `#framing` `#digital-alertness`
 

@@ -25,10 +25,10 @@ related_reaction:
 
 **Layer:** Mechanism — Trajectory from yoga/detox to far-right ideology via shared enemies
 
-**Cause:** [[public/platform_mechanisms/recommender_systems_public|Recommender Systems]] · [[public/platform_mechanisms/attention_economy_public|Attention Economy]]
-**Mechanism:** [[public/culture_wars/conspirituality_public|Conspirituality]]
+**Cause:** [[terms/platform_mechanisms/recommender_systems_public|Recommender Systems]] · [[terms/platform_mechanisms/attention_economy_public|Attention Economy]]
+**Mechanism:** [[terms/culture_wars/conspirituality_public|Conspirituality]]
 **Consequence:** *—*
-**Reaction:** [[public/culture_wars/deplatforming_public|Deplatforming]]
+**Reaction:** [[terms/culture_wars/deplatforming_public|Deplatforming]]
 
 **Public entry:** this document
 **Deep analysis:** *not yet created*
@@ -55,12 +55,12 @@ The pipeline was documented by journalists and researchers from around 2018. Res
 Health scepticism and distrust of pharmaceutical companies are responses to genuine failures of medical institutions.
 
 **The Friction**
-[[public/platform_mechanisms/recommender_systems_public|Recommender Systems]] connect anti-establishment health content to anti-establishment political content: the shared enemy makes the journey structurally smooth. [[public/culture_wars/conspirituality_public|Conspirituality]] is the cultural context.
+[[terms/platform_mechanisms/recommender_systems_public|Recommender Systems]] connect anti-establishment health content to anti-establishment political content: the shared enemy makes the journey structurally smooth. [[terms/culture_wars/conspirituality_public|Conspirituality]] is the cultural context.
 
 **Why This Matters**
 Once you see the pipeline as an architectural feature of recommendation systems, you see that the route from wellness to alt-right is built into the infrastructure.
 
-**See also:** [[public/culture_wars/conspirituality_public|Conspirituality]] · [[public/platform_mechanisms/recommender_systems_public|Recommender Systems]] · [[public/appropriated_counter_force/digital_detox_public|Digital Detox]]
+**See also:** [[terms/culture_wars/conspirituality_public|Conspirituality]] · [[terms/platform_mechanisms/recommender_systems_public|Recommender Systems]] · [[terms/appropriated_counter_force/digital_detox_public|Digital Detox]]
 
 `#culture-wars-political-language` `#power` `#framing` `#digital-alertness`
 

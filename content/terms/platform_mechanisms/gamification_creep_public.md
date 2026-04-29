@@ -26,10 +26,10 @@ related_reaction:
 
 **Layer:** Mechanism — Game logic that insidiously enters non-game contexts
 
-**Cause:** [[public/platform_mechanisms/attention_economy_public|Attention Economy]] · [[public/society_power/surveillance_capitalism_public|Surveillance Capitalism]]
-**Mechanism:** [[public/platform_mechanisms/dopamine_feedback_loops_public|Dopamine Feedback Loops]] · [[public/platform_mechanisms/recommender_systems_public|Recommender Systems]]
-**Consequence:** [[public/behaviour_relationships/cognitive_surrender_public|Cognitive Surrender]]
-**Reaction:** [[public/design_philosophy/unblackboxing_public|Unblackboxing]]
+**Cause:** [[terms/platform_mechanisms/attention_economy_public|Attention Economy]] · [[terms/society_power/surveillance_capitalism_public|Surveillance Capitalism]]
+**Mechanism:** [[terms/platform_mechanisms/dopamine_feedback_loops_public|Dopamine Feedback Loops]] · [[terms/platform_mechanisms/recommender_systems_public|Recommender Systems]]
+**Consequence:** [[terms/behaviour_relationships/cognitive_surrender_public|Cognitive Surrender]]
+**Reaction:** [[terms/design_philosophy/unblackboxing_public|Unblackboxing]]
 
 **Public entry:** this document
 **Deep analysis:** *not yet created*
@@ -56,12 +56,12 @@ Gamification as a design strategy emerged in the early 2010s, popularised by con
 Game mechanics work. Streaks maintain habits. Points signal progress. Leaderboards motivate. The engagement is genuine.
 
 **The Friction**
-[[public/platform_mechanisms/dopamine_feedback_loops_public|Dopamine Feedback Loops]] — variable reward schedules that keep users active — are the underlying mechanism. The problem is goal displacement: the streak becomes the goal, not the learning. The points become the goal, not the fitness. The metric replaces the activity it was meant to measure.
+[[terms/platform_mechanisms/dopamine_feedback_loops_public|Dopamine Feedback Loops]] — variable reward schedules that keep users active — are the underlying mechanism. The problem is goal displacement: the streak becomes the goal, not the learning. The points become the goal, not the fitness. The metric replaces the activity it was meant to measure.
 
 **Why This Matters**
 Once you see gamification creep as a design strategy rather than a feature, you see that the goals being optimised are the platform's engagement metrics — not your learning, health, or productivity.
 
-**See also:** [[public/platform_mechanisms/dopamine_feedback_loops_public|Dopamine Feedback Loops]] · [[public/platform_mechanisms/attention_economy_public|Attention Economy]] · [[public/platform_mechanisms/dark_patterns_public|Dark Patterns]]
+**See also:** [[terms/platform_mechanisms/dopamine_feedback_loops_public|Dopamine Feedback Loops]] · [[terms/platform_mechanisms/attention_economy_public|Attention Economy]] · [[terms/platform_mechanisms/dark_patterns_public|Dark Patterns]]
 
 `#platform-mechanisms-economics` `#power` `#framing` `#digital-alertness`
 

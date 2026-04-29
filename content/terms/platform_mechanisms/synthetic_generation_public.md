@@ -26,9 +26,9 @@ related_reaction:
 
 **Layer:** Mechanism — AI-generated content at scale
 
-**Cause:** [[public/platform_mechanisms/attention_economy_public|Attention Economy]] · [[public/society_power/surveillance_capitalism_public|Surveillance Capitalism]]
-**Mechanism:** [[public/platform_mechanisms/ai_slop_public|AI Slop]] · [[public/platform_mechanisms/recommender_systems_public|Recommender Systems]]
-**Consequence:** [[public/platform_mechanisms/age_of_average_public|Age of Average]]
+**Cause:** [[terms/platform_mechanisms/attention_economy_public|Attention Economy]] · [[terms/society_power/surveillance_capitalism_public|Surveillance Capitalism]]
+**Mechanism:** [[terms/platform_mechanisms/ai_slop_public|AI Slop]] · [[terms/platform_mechanisms/recommender_systems_public|Recommender Systems]]
+**Consequence:** [[terms/platform_mechanisms/age_of_average_public|Age of Average]]
 **Reaction:** *—*
 
 **Public entry:** this document
@@ -56,12 +56,12 @@ Generative AI models — GANs, diffusion models, large language models — made 
 Synthetic generation democratises creative production: anyone can generate images, music, or text without specialist skills. It enables accessibility, prototyping, and experimentation.
 
 **The Friction**
-[[public/platform_mechanisms/ai_slop_public|AI Slop]] — mass AI-generated content of low quality — is the consequence at scale. The same capability that enables creative democratisation enables information flooding. [[public/platform_mechanisms/age_of_average_public|Age of Average]] — algorithmic convergence toward what performs at average scale — accelerates as synthetic content floods platforms.
+[[terms/platform_mechanisms/ai_slop_public|AI Slop]] — mass AI-generated content of low quality — is the consequence at scale. The same capability that enables creative democratisation enables information flooding. [[terms/platform_mechanisms/age_of_average_public|Age of Average]] — algorithmic convergence toward what performs at average scale — accelerates as synthetic content floods platforms.
 
 **Why This Matters**
 Once you see synthetic generation as infrastructure rather than a tool, you see that the question of what is "real" online has permanently changed — not because fakes are indistinguishable from originals, but because the volume of synthetic content makes verification a structural challenge rather than an individual one.
 
-**See also:** [[public/platform_mechanisms/ai_slop_public|AI Slop]] · [[public/platform_mechanisms/age_of_average_public|Age of Average]] · [[public/platform_mechanisms/recommender_systems_public|Recommender Systems]]
+**See also:** [[terms/platform_mechanisms/ai_slop_public|AI Slop]] · [[terms/platform_mechanisms/age_of_average_public|Age of Average]] · [[terms/platform_mechanisms/recommender_systems_public|Recommender Systems]]
 
 `#platform-mechanisms-economics` `#power` `#framing` `#digital-alertness`
 

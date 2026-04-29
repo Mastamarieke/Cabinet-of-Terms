@@ -24,10 +24,10 @@ related_reaction:
 
 **Layer:** Mechanism — recommender systems
 
-**Cause:** [[public/society_power/surveillance_capitalism_public|Surveillance Capitalism]] · [[public/platform_mechanisms/attention_economy_public|Attention Economy]]
-**Mechanism:** [[public/platform_mechanisms/attention_harvesting_public|Attention Harvesting]]
+**Cause:** [[terms/society_power/surveillance_capitalism_public|Surveillance Capitalism]] · [[terms/platform_mechanisms/attention_economy_public|Attention Economy]]
+**Mechanism:** [[terms/platform_mechanisms/attention_harvesting_public|Attention Harvesting]]
 **Consequence:** *—*
-**Reaction:** [[public/appropriated_counter_force/digital_detox_public|Digital Detox]]
+**Reaction:** [[terms/appropriated_counter_force/digital_detox_public|Digital Detox]]
 
 **Public entry:** this document
 **Deep analysis:** *not yet created*
@@ -54,12 +54,12 @@ Recommender systems emerged from collaborative filtering research in the 1990s. 
 Discovery. The algorithm surfaces content you would not have found yourself — music, films, ideas, communities. That is real and often valuable.
 
 **The Friction**
-Optimising for engagement does not optimise for satisfaction, accuracy, or wellbeing. Content that provokes strong emotions — anger, fear, outrage — performs better than content that informs calmly. [[public/platform_mechanisms/attention_harvesting_public|Attention Harvesting]] — the systematic extraction of attention for commercial purposes — depends on recommender systems as its primary instrument.
+Optimising for engagement does not optimise for satisfaction, accuracy, or wellbeing. Content that provokes strong emotions — anger, fear, outrage — performs better than content that informs calmly. [[terms/platform_mechanisms/attention_harvesting_public|Attention Harvesting]] — the systematic extraction of attention for commercial purposes — depends on recommender systems as its primary instrument.
 
 **Why This Matters**
 Once you see recommender systems as the infrastructure of attention harvesting, you see that the question "what should I watch next?" has already been answered — by a system with different interests than yours.
 
-**See also:** [[public/platform_mechanisms/attention_harvesting_public|Attention Harvesting]] · [[public/platform_mechanisms/attention_economy_public|Attention Economy]] · [[public/society_power/surveillance_capitalism_public|Surveillance Capitalism]]
+**See also:** [[terms/platform_mechanisms/attention_harvesting_public|Attention Harvesting]] · [[terms/platform_mechanisms/attention_economy_public|Attention Economy]] · [[terms/society_power/surveillance_capitalism_public|Surveillance Capitalism]]
 
 `#platform-mechanisms-economics` `#power` `#framing` `#digital-alertness`
 

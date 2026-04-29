@@ -25,10 +25,10 @@ related_reaction:
 
 **Layer:** Cause — Lanier 2018; Behaviours of Users Modified and Made into an Empire for Rent
 
-**Cause:** [[public/society_power/surveillance_capitalism_public|Surveillance Capitalism]]
-**Mechanism:** [[public/platform_mechanisms/attention_economy_public|Attention Economy]] · [[public/platform_mechanisms/microtargeting_public|Microtargeting]]
-**Consequence:** [[public/behaviour_relationships/cognitive_surrender_public|Cognitive Surrender]]
-**Reaction:** [[public/design_philosophy/unblackboxing_public|Unblackboxing]]
+**Cause:** [[terms/society_power/surveillance_capitalism_public|Surveillance Capitalism]]
+**Mechanism:** [[terms/platform_mechanisms/attention_economy_public|Attention Economy]] · [[terms/platform_mechanisms/microtargeting_public|Microtargeting]]
+**Consequence:** [[terms/behaviour_relationships/cognitive_surrender_public|Cognitive Surrender]]
+**Reaction:** [[terms/design_philosophy/unblackboxing_public|Unblackboxing]]
 
 **Public entry:** this document
 **Deep analysis:** *not yet created*
@@ -55,12 +55,12 @@ Jaron Lanier introduced BUMMER in *Ten Arguments for Deleting Your Social Media 
 The BUMMER model funds platforms that provide genuine value: connection, information, entertainment. The modification is the price.
 
 **The Friction**
-The acronym's power is analytical precision: it names the mechanism — behaviour modification — and the commercial structure — empire for rent — in a single term. [[public/society_power/surveillance_capitalism_public|Surveillance Capitalism]] — Zuboff's broader framework — describes the same structure at a higher level of abstraction. BUMMER is the applied version: this specific platform, this specific mechanism, this specific transaction.
+The acronym's power is analytical precision: it names the mechanism — behaviour modification — and the commercial structure — empire for rent — in a single term. [[terms/society_power/surveillance_capitalism_public|Surveillance Capitalism]] — Zuboff's broader framework — describes the same structure at a higher level of abstraction. BUMMER is the applied version: this specific platform, this specific mechanism, this specific transaction.
 
 **Why This Matters**
 Once you see BUMMER not as a metaphor but as a technical description, you see that the service you use for free is actually a behaviour modification system — and the rent is paid by whoever wants to modify your behaviour.
 
-**See also:** [[public/society_power/surveillance_capitalism_public|Surveillance Capitalism]] · [[public/platform_mechanisms/attention_economy_public|Attention Economy]] · [[public/platform_mechanisms/microtargeting_public|Microtargeting]]
+**See also:** [[terms/society_power/surveillance_capitalism_public|Surveillance Capitalism]] · [[terms/platform_mechanisms/attention_economy_public|Attention Economy]] · [[terms/platform_mechanisms/microtargeting_public|Microtargeting]]
 
 `#platform-mechanisms-economics` `#power` `#framing` `#digital-alertness`
 

@@ -26,10 +26,10 @@ related_reaction:
 
 **Layer:** Consequence — Tech oligarchy as male bonding network
 
-**Cause:** [[public/society_power/technofeudalism_public|Technofeudalism]] · [[public/society_power/surveillance_capitalism_public|Surveillance Capitalism]]
-**Mechanism:** [[public/society_power/muskism_public|Muskism]] · [[public/society_power/founder_mode_public|Founder Mode]]
+**Cause:** [[terms/society_power/technofeudalism_public|Technofeudalism]] · [[terms/society_power/surveillance_capitalism_public|Surveillance Capitalism]]
+**Mechanism:** [[terms/society_power/muskism_public|Muskism]] · [[terms/society_power/founder_mode_public|Founder Mode]]
 **Consequence:** *—*
-**Reaction:** [[public/design_philosophy/unblackboxing_public|Unblackboxing]]
+**Reaction:** [[terms/design_philosophy/unblackboxing_public|Unblackboxing]]
 
 **Public entry:** this document
 **Deep analysis:** *not yet created*
@@ -56,12 +56,12 @@ The term gained currency from 2024, describing the visible consolidation of powe
 Naming the social structure of power makes it more legible and more contestable.
 
 **The Friction**
-[[public/society_power/muskism_public|Muskism]] is the political programme; Broligarchy is the social structure. [[public/society_power/founder_mode_public|Founder Mode]] is the organisational ideology. The "bro" element is not incidental: it describes exclusion mechanisms — informal networks that produce formal consequences.
+[[terms/society_power/muskism_public|Muskism]] is the political programme; Broligarchy is the social structure. [[terms/society_power/founder_mode_public|Founder Mode]] is the organisational ideology. The "bro" element is not incidental: it describes exclusion mechanisms — informal networks that produce formal consequences.
 
 **Why This Matters**
 Once you see Broligarchy as a social structure rather than an accidental demographic pattern, you see that the concentration of power at the top of the tech industry reproduces itself through exclusion.
 
-**See also:** [[public/society_power/muskism_public|Muskism]] · [[public/society_power/technofeudalism_public|Technofeudalism]] · [[public/society_power/technofascism_public|Technofascism]]
+**See also:** [[terms/society_power/muskism_public|Muskism]] · [[terms/society_power/technofeudalism_public|Technofeudalism]] · [[terms/society_power/technofascism_public|Technofascism]]
 
 `#society-power` `#power` `#framing` `#digital-alertness`
 

@@ -25,9 +25,9 @@ related_reaction:
 
 **Layer:** Consequence — Choosing phone over person present
 
-**Cause:** [[public/platform_mechanisms/attention_harvesting_public|Attention Harvesting]] · [[public/platform_mechanisms/dopamine_feedback_loops_public|Dopamine Feedback Loops]]
-**Mechanism:** [[public/platform_mechanisms/gamification_creep_public|Gamification Creep]]
-**Consequence:** [[public/behaviour_relationships/cognitive_surrender_public|Cognitive Surrender]]
+**Cause:** [[terms/platform_mechanisms/attention_harvesting_public|Attention Harvesting]] · [[terms/platform_mechanisms/dopamine_feedback_loops_public|Dopamine Feedback Loops]]
+**Mechanism:** [[terms/platform_mechanisms/gamification_creep_public|Gamification Creep]]
+**Consequence:** [[terms/behaviour_relationships/cognitive_surrender_public|Cognitive Surrender]]
 **Reaction:** *—*
 
 **Public entry:** this document
@@ -55,12 +55,12 @@ The term was coined in 2012 by an Australian advertising campaign and spread rap
 The phone offers a continuous stream of stimulation, connection, and information. The present moment sometimes does not.
 
 **The Friction**
-[[public/platform_mechanisms/attention_harvesting_public|Attention Harvesting]] — the systematic extraction of attention — competes directly with physical co-presence. [[public/platform_mechanisms/dopamine_feedback_loops_public|Dopamine Feedback Loops]] sustain the pull. Research documents that phubbing reduces relationship satisfaction even when both parties are doing it — a collective action problem where everyone loses.
+[[terms/platform_mechanisms/attention_harvesting_public|Attention Harvesting]] — the systematic extraction of attention — competes directly with physical co-presence. [[terms/platform_mechanisms/dopamine_feedback_loops_public|Dopamine Feedback Loops]] sustain the pull. Research documents that phubbing reduces relationship satisfaction even when both parties are doing it — a collective action problem where everyone loses.
 
 **Why This Matters**
 Once you see phubbing as a structural consequence of attention architecture rather than rudeness, you see that the competition for attention is not between people — it is between people and systems designed by professionals to win that competition.
 
-**See also:** [[public/platform_mechanisms/attention_harvesting_public|Attention Harvesting]] · [[public/platform_mechanisms/dopamine_feedback_loops_public|Dopamine Feedback Loops]] · [[public/behaviour_relationships/smombie_public|Smombie]]
+**See also:** [[terms/platform_mechanisms/attention_harvesting_public|Attention Harvesting]] · [[terms/platform_mechanisms/dopamine_feedback_loops_public|Dopamine Feedback Loops]] · [[terms/behaviour_relationships/smombie_public|Smombie]]
 
 `#behaviour-relationships` `#power` `#framing` `#digital-alertness`
 

@@ -25,8 +25,8 @@ related_reaction:
 
 **Layer:** Mechanism — Public punishment via platform metric
 
-**Cause:** [[public/platform_mechanisms/attention_economy_public|Attention Economy]] · [[public/platform_mechanisms/recommender_systems_public|Recommender Systems]]
-**Mechanism:** [[public/platform_mechanisms/ragebaiting_public|Ragebaiting]]
+**Cause:** [[terms/platform_mechanisms/attention_economy_public|Attention Economy]] · [[terms/platform_mechanisms/recommender_systems_public|Recommender Systems]]
+**Mechanism:** [[terms/platform_mechanisms/ragebaiting_public|Ragebaiting]]
 **Consequence:** *—*
 **Reaction:** *—*
 
@@ -55,12 +55,12 @@ The term emerged on Twitter around 2017, when users observed that posts with dis
 The ratio provides a fast, visible signal of community disapproval. It functions as a form of collective accountability without requiring formal mechanisms.
 
 **The Friction**
-[[public/platform_mechanisms/ragebaiting_public|Ragebaiting]] — deliberate provocation for engagement — can be indistinguishable from being ratio'd: both produce high reply counts. [[public/platform_mechanisms/recommender_systems_public|Recommender Systems]] amplify highly-replied posts regardless of whether the replies are supportive or critical — making ratio'd posts more visible, not less.
+[[terms/platform_mechanisms/ragebaiting_public|Ragebaiting]] — deliberate provocation for engagement — can be indistinguishable from being ratio'd: both produce high reply counts. [[terms/platform_mechanisms/recommender_systems_public|Recommender Systems]] amplify highly-replied posts regardless of whether the replies are supportive or critical — making ratio'd posts more visible, not less.
 
 **Why This Matters**
 Once you see the ratio as a metric that the algorithm cannot interpret contextually, you see that public punishment and public praise look identical to the system — and that both generate engagement data.
 
-**See also:** [[public/platform_mechanisms/ragebaiting_public|Ragebaiting]] · [[public/platform_mechanisms/recommender_systems_public|Recommender Systems]]
+**See also:** [[terms/platform_mechanisms/ragebaiting_public|Ragebaiting]] · [[terms/platform_mechanisms/recommender_systems_public|Recommender Systems]]
 
 `#subcultural-vocabulary-platform-language` `#power` `#framing` `#digital-alertness`
 

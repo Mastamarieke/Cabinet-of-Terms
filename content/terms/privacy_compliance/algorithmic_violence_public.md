@@ -25,10 +25,10 @@ related_reaction:
 
 **Layer:** Consequence — Harm caused by automated systems without individual decision
 
-**Cause:** [[public/society_power/surveillance_capitalism_public|Surveillance Capitalism]] · [[public/platform_mechanisms/recommender_systems_public|Recommender Systems]]
-**Mechanism:** [[public/platform_mechanisms/microtargeting_public|Microtargeting]]
+**Cause:** [[terms/society_power/surveillance_capitalism_public|Surveillance Capitalism]] · [[terms/platform_mechanisms/recommender_systems_public|Recommender Systems]]
+**Mechanism:** [[terms/platform_mechanisms/microtargeting_public|Microtargeting]]
 **Consequence:** *—*
-**Reaction:** [[public/design_philosophy/unblackboxing_public|Unblackboxing]]
+**Reaction:** [[terms/design_philosophy/unblackboxing_public|Unblackboxing]]
 
 **Public entry:** this document
 **Deep analysis:** *not yet created*
@@ -55,12 +55,12 @@ The term emerged from critical algorithm studies and digital rights scholarship,
 Automated systems promise consistency, efficiency, and freedom from human bias. The appeal is genuine: human decision-makers are also biased, often more so.
 
 **The Friction**
-[[public/platform_mechanisms/recommender_systems_public|Recommender Systems]] — optimising for engagement — can constitute algorithmic violence when they amplify content that targets, harasses, or endangers specific groups. The harm is structural: no individual chose to harm; the system produces harm as an output. Accountability is diffuse — engineers, managers, and platform owners all contributed, but no one decided.
+[[terms/platform_mechanisms/recommender_systems_public|Recommender Systems]] — optimising for engagement — can constitute algorithmic violence when they amplify content that targets, harasses, or endangers specific groups. The harm is structural: no individual chose to harm; the system produces harm as an output. Accountability is diffuse — engineers, managers, and platform owners all contributed, but no one decided.
 
 **Why This Matters**
 Once you see algorithmic violence as a structural category rather than a system error, you see that the question of accountability cannot be resolved by fixing bugs — it requires asking who benefits from the system's outputs and who bears the costs.
 
-**See also:** [[public/platform_mechanisms/recommender_systems_public|Recommender Systems]] · [[public/platform_mechanisms/microtargeting_public|Microtargeting]] · [[public/design_philosophy/unblackboxing_public|Unblackboxing]]
+**See also:** [[terms/platform_mechanisms/recommender_systems_public|Recommender Systems]] · [[terms/platform_mechanisms/microtargeting_public|Microtargeting]] · [[terms/design_philosophy/unblackboxing_public|Unblackboxing]]
 
 `#privacy-compliance` `#power` `#framing` `#digital-alertness`
 

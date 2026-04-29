@@ -26,10 +26,10 @@ related_reaction:
 
 **Layer:** Mechanism — Interface design that misleads users
 
-**Cause:** [[public/platform_mechanisms/attention_economy_public|Attention Economy]] · [[public/society_power/surveillance_capitalism_public|Surveillance Capitalism]]
-**Mechanism:** [[public/platform_mechanisms/nudging_public|Nudging]] · [[public/platform_mechanisms/gamification_creep_public|Gamification Creep]]
-**Consequence:** [[public/behaviour_relationships/cognitive_surrender_public|Cognitive Surrender]]
-**Reaction:** [[public/design_philosophy/unblackboxing_public|Unblackboxing]]
+**Cause:** [[terms/platform_mechanisms/attention_economy_public|Attention Economy]] · [[terms/society_power/surveillance_capitalism_public|Surveillance Capitalism]]
+**Mechanism:** [[terms/platform_mechanisms/nudging_public|Nudging]] · [[terms/platform_mechanisms/gamification_creep_public|Gamification Creep]]
+**Consequence:** [[terms/behaviour_relationships/cognitive_surrender_public|Cognitive Surrender]]
+**Reaction:** [[terms/design_philosophy/unblackboxing_public|Unblackboxing]]
 
 **Public entry:** this document
 **Deep analysis:** *not yet created*
@@ -56,12 +56,12 @@ UX researcher Harry Brignull coined the term in 2010 and catalogued common examp
 There is no appeal from the user perspective — dark patterns are designed to be invisible until they have already worked.
 
 **The Friction**
-[[public/platform_mechanisms/nudging_public|Nudging]] — steering behaviour through environmental design — becomes a dark pattern when the nudge is deceptive rather than transparent. The line between persuasion and manipulation is structural: does the design serve the user's stated goal or circumvent it?
+[[terms/platform_mechanisms/nudging_public|Nudging]] — steering behaviour through environmental design — becomes a dark pattern when the nudge is deceptive rather than transparent. The line between persuasion and manipulation is structural: does the design serve the user's stated goal or circumvent it?
 
 **Why This Matters**
 Once you see dark patterns as deliberate design rather than bad UX, you stop blaming yourself for clicking the wrong thing and start asking who designed the interface and what they wanted you to do.
 
-**See also:** [[public/platform_mechanisms/nudging_public|Nudging]] · [[public/platform_mechanisms/gamification_creep_public|Gamification Creep]] · [[public/design_philosophy/unblackboxing_public|Unblackboxing]]
+**See also:** [[terms/platform_mechanisms/nudging_public|Nudging]] · [[terms/platform_mechanisms/gamification_creep_public|Gamification Creep]] · [[terms/design_philosophy/unblackboxing_public|Unblackboxing]]
 
 `#platform-mechanisms-economics` `#power` `#framing` `#digital-alertness`
 

@@ -25,10 +25,10 @@ related_reaction:
 
 **Layer:** Mechanism — Governance through algorithms and automated decisions
 
-**Cause:** [[public/society_power/surveillance_capitalism_public|Surveillance Capitalism]] · [[public/society_power/technofeudalism_public|Technofeudalism]]
-**Mechanism:** [[public/privacy_compliance/algorithmic_violence_public|Algorithmic Violence]]
+**Cause:** [[terms/society_power/surveillance_capitalism_public|Surveillance Capitalism]] · [[terms/society_power/technofeudalism_public|Technofeudalism]]
+**Mechanism:** [[terms/privacy_compliance/algorithmic_violence_public|Algorithmic Violence]]
 **Consequence:** *—*
-**Reaction:** [[public/design_philosophy/unblackboxing_public|Unblackboxing]]
+**Reaction:** [[terms/design_philosophy/unblackboxing_public|Unblackboxing]]
 
 **Public entry:** this document
 **Deep analysis:** *not yet created*
@@ -55,12 +55,12 @@ The concept builds on Norbert Wiener's cybernetics (1948). Contemporary cybernet
 Automated governance promises consistency, efficiency, and freedom from human bias. Processing millions of welfare claims by algorithm is faster and cheaper than human review.
 
 **The Friction**
-[[public/privacy_compliance/algorithmic_violence_public|Algorithmic Violence]] is the consequence: automated systems produce harm without individual accountability. The appeal of efficiency conceals the removal of contestability: you cannot argue with an algorithm.
+[[terms/privacy_compliance/algorithmic_violence_public|Algorithmic Violence]] is the consequence: automated systems produce harm without individual accountability. The appeal of efficiency conceals the removal of contestability: you cannot argue with an algorithm.
 
 **Why This Matters**
 Once you see Cybernetic Governance as the replacement of accountability rather than improvement of efficiency, you see that the question is not whether the system is accurate — it is who bears the cost when it is wrong.
 
-**See also:** [[public/privacy_compliance/algorithmic_violence_public|Algorithmic Violence]] · [[public/society_power/surveillance_capitalism_public|Surveillance Capitalism]] · [[public/design_philosophy/unblackboxing_public|Unblackboxing]]
+**See also:** [[terms/privacy_compliance/algorithmic_violence_public|Algorithmic Violence]] · [[terms/society_power/surveillance_capitalism_public|Surveillance Capitalism]] · [[terms/design_philosophy/unblackboxing_public|Unblackboxing]]
 
 `#society-power` `#power` `#framing` `#digital-alertness`
 

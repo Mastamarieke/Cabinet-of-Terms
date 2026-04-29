@@ -26,10 +26,10 @@ related_reaction:
 
 **Layer:** Mechanism — Minimalist beauty as lifestyle and norm
 
-**Cause:** [[public/platform_mechanisms/attention_economy_public|Attention Economy]] · [[public/society_power/surveillance_capitalism_public|Surveillance Capitalism]]
-**Mechanism:** [[public/platform_mechanisms/recommender_systems_public|Recommender Systems]] · [[public/beauty_self_image/that_girl_public|That Girl]]
-**Consequence:** [[public/beauty_self_image/comparison_culture_public|Comparison Culture]]
-**Reaction:** [[public/beauty_self_image/deinfluencing_public|Deinfluencing]]
+**Cause:** [[terms/platform_mechanisms/attention_economy_public|Attention Economy]] · [[terms/society_power/surveillance_capitalism_public|Surveillance Capitalism]]
+**Mechanism:** [[terms/platform_mechanisms/recommender_systems_public|Recommender Systems]] · [[terms/beauty_self_image/that_girl_public|That Girl]]
+**Consequence:** [[terms/beauty_self_image/comparison_culture_public|Comparison Culture]]
+**Reaction:** [[terms/beauty_self_image/deinfluencing_public|Deinfluencing]]
 
 **Public entry:** this document
 **Deep analysis:** *not yet created*
@@ -56,12 +56,12 @@ The Clean Girl Aesthetic emerged on TikTok around 2022, characterised by slicked
 Minimal, "natural" beauty is appealing as a counter to heavily produced aesthetics. The style is genuinely versatile and accessible.
 
 **The Friction**
-The "effortless" appearance requires significant product, time, and labour. [[public/beauty_self_image/comparison_culture_public|Comparison Culture]] amplifies the standard: the feed produces the impression that this is how everyone looks naturally. The aesthetic has been critiqued for centring a specific body type as the baseline "clean."
+The "effortless" appearance requires significant product, time, and labour. [[terms/beauty_self_image/comparison_culture_public|Comparison Culture]] amplifies the standard: the feed produces the impression that this is how everyone looks naturally. The aesthetic has been critiqued for centring a specific body type as the baseline "clean."
 
 **Why This Matters**
 Once you see the Clean Girl Aesthetic as a constructed norm rather than a natural baseline, you see that the labour it hides is also the standard it sets — and that "effortless" is always effortful for someone.
 
-**See also:** [[public/beauty_self_image/comparison_culture_public|Comparison Culture]] · [[public/beauty_self_image/that_girl_public|That Girl]] · [[public/beauty_self_image/beauty_filter_public|Beauty Filter]]
+**See also:** [[terms/beauty_self_image/comparison_culture_public|Comparison Culture]] · [[terms/beauty_self_image/that_girl_public|That Girl]] · [[terms/beauty_self_image/beauty_filter_public|Beauty Filter]]
 
 `#beauty-influencers-self-image` `#power` `#framing` `#digital-alertness`
 

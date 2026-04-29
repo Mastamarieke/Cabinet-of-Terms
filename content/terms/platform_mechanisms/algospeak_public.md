@@ -25,10 +25,10 @@ related_reaction:
 
 **Layer:** Mechanism — Language to circumvent content moderation algorithms
 
-**Cause:** [[public/platform_mechanisms/recommender_systems_public|Recommender Systems]] · [[public/platform_mechanisms/attention_economy_public|Attention Economy]]
-**Mechanism:** [[public/platform_mechanisms/dark_patterns_public|Dark Patterns]]
+**Cause:** [[terms/platform_mechanisms/recommender_systems_public|Recommender Systems]] · [[terms/platform_mechanisms/attention_economy_public|Attention Economy]]
+**Mechanism:** [[terms/platform_mechanisms/dark_patterns_public|Dark Patterns]]
 **Consequence:** *—*
-**Reaction:** [[public/design_philosophy/unblackboxing_public|Unblackboxing]]
+**Reaction:** [[terms/design_philosophy/unblackboxing_public|Unblackboxing]]
 
 **Public entry:** this document
 **Deep analysis:** *not yet created*
@@ -55,12 +55,12 @@ Algospeak emerged on TikTok and spread across platforms as content moderation be
 Algospeak enables people to discuss difficult topics — mental health, sexuality, political repression — in spaces where those topics are suppressed. It is also a form of subcultural creativity and in-group signalling.
 
 **The Friction**
-The same mechanism that protects marginalised speakers also protects harmful content from moderation. [[public/platform_mechanisms/recommender_systems_public|Recommender Systems]] — optimising for engagement — cannot distinguish between the two without context. Algospeak is a symptom of automated moderation's fundamental limitation: it operates on signals, not meaning.
+The same mechanism that protects marginalised speakers also protects harmful content from moderation. [[terms/platform_mechanisms/recommender_systems_public|Recommender Systems]] — optimising for engagement — cannot distinguish between the two without context. Algospeak is a symptom of automated moderation's fundamental limitation: it operates on signals, not meaning.
 
 **Why This Matters**
 Once you see algospeak as a linguistic adaptation to algorithmic power rather than mere slang, you see the underlying dynamic: when automated systems control language, language evolves to circumvent automated systems.
 
-**See also:** [[public/platform_mechanisms/recommender_systems_public|Recommender Systems]] · [[public/platform_mechanisms/dark_patterns_public|Dark Patterns]]
+**See also:** [[terms/platform_mechanisms/recommender_systems_public|Recommender Systems]] · [[terms/platform_mechanisms/dark_patterns_public|Dark Patterns]]
 
 `#platform-mechanisms-economics` `#power` `#framing` `#digital-alertness`
 

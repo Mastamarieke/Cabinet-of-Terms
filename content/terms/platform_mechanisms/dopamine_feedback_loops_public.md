@@ -26,10 +26,10 @@ related_reaction:
 
 **Layer:** Mechanism — Variable reward schedules keep users active
 
-**Cause:** [[public/platform_mechanisms/attention_economy_public|Attention Economy]] · [[public/society_power/surveillance_capitalism_public|Surveillance Capitalism]]
-**Mechanism:** [[public/platform_mechanisms/gamification_creep_public|Gamification Creep]] · [[public/platform_mechanisms/recommender_systems_public|Recommender Systems]]
-**Consequence:** [[public/behaviour_relationships/cognitive_surrender_public|Cognitive Surrender]]
-**Reaction:** [[public/appropriated_counter_force/digital_detox_public|Digital Detox]]
+**Cause:** [[terms/platform_mechanisms/attention_economy_public|Attention Economy]] · [[terms/society_power/surveillance_capitalism_public|Surveillance Capitalism]]
+**Mechanism:** [[terms/platform_mechanisms/gamification_creep_public|Gamification Creep]] · [[terms/platform_mechanisms/recommender_systems_public|Recommender Systems]]
+**Consequence:** [[terms/behaviour_relationships/cognitive_surrender_public|Cognitive Surrender]]
+**Reaction:** [[terms/appropriated_counter_force/digital_detox_public|Digital Detox]]
 
 **Public entry:** this document
 **Deep analysis:** *not yet created*
@@ -56,12 +56,12 @@ The connection between variable reward schedules and compulsive behaviour was es
 The rewards are real: social validation, interesting content, genuine connection. The loop is not purely manufactured.
 
 **The Friction**
-The variable schedule is the key mechanism — rewards that arrive unpredictably are more compelling than predictable ones. [[public/platform_mechanisms/gamification_creep_public|Gamification Creep]] — game logic entering non-game contexts — deploys the same mechanism. The design does not need users to enjoy the experience. It needs them to return.
+The variable schedule is the key mechanism — rewards that arrive unpredictably are more compelling than predictable ones. [[terms/platform_mechanisms/gamification_creep_public|Gamification Creep]] — game logic entering non-game contexts — deploys the same mechanism. The design does not need users to enjoy the experience. It needs them to return.
 
 **Why This Matters**
 Once you see dopamine feedback loops as a deliberate design choice rather than an accidental side effect, you stop asking why you cannot stop and start asking who benefits from the answer.
 
-**See also:** [[public/platform_mechanisms/gamification_creep_public|Gamification Creep]] · [[public/platform_mechanisms/attention_harvesting_public|Attention Harvesting]] · [[public/appropriated_counter_force/digital_detox_public|Digital Detox]]
+**See also:** [[terms/platform_mechanisms/gamification_creep_public|Gamification Creep]] · [[terms/platform_mechanisms/attention_harvesting_public|Attention Harvesting]] · [[terms/appropriated_counter_force/digital_detox_public|Digital Detox]]
 
 `#platform-mechanisms-economics` `#power` `#framing` `#digital-alertness`
 

@@ -25,7 +25,7 @@ related_reaction:
 **Layer:** Mechanism — NASA/EU scale for technological maturity
 
 **Cause:** *—*
-**Mechanism:** [[public/thinking_reasoning/cynefin_framework_public|Cynefin Framework]]
+**Mechanism:** [[terms/thinking_reasoning/cynefin_framework_public|Cynefin Framework]]
 **Consequence:** *—*
 **Reaction:** *—*
 
@@ -59,7 +59,7 @@ TRL was designed for hardware systems with clear performance criteria. Applied t
 **Why This Matters**
 Once you see TRL as a framing instrument rather than a neutral assessment, you see that declaring a technology "ready" is not just a technical judgement — it is a political one that determines who bears the consequences of deployment.
 
-**See also:** [[public/thinking_reasoning/cynefin_framework_public|Cynefin Framework]] · [[public/design_philosophy/unblackboxing_public|Unblackboxing]]
+**See also:** [[terms/thinking_reasoning/cynefin_framework_public|Cynefin Framework]] · [[terms/design_philosophy/unblackboxing_public|Unblackboxing]]
 
 `#thinking-reasoning` `#power` `#framing` `#digital-alertness`
 

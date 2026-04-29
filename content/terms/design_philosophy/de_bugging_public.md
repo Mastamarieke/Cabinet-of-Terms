@@ -26,8 +26,8 @@ related_reaction:
 
 **Layer:** Reaction — Removing errors; as metaphor for critical thinking about technology
 
-**Cause:** [[public/platform_mechanisms/dark_patterns_public|Dark Patterns]] · [[public/ai_specific/ai_hallucination_public|AI Hallucination]]
-**Mechanism:** [[public/design_philosophy/unblackboxing_public|Unblackboxing]] · [[public/design_philosophy/detective_design_public|Detective Design]]
+**Cause:** [[terms/platform_mechanisms/dark_patterns_public|Dark Patterns]] · [[terms/ai_specific/ai_hallucination_public|AI Hallucination]]
+**Mechanism:** [[terms/design_philosophy/unblackboxing_public|Unblackboxing]] · [[terms/design_philosophy/detective_design_public|Detective Design]]
 **Consequence:** *—*
 **Reaction:** *—*
 
@@ -56,12 +56,12 @@ Debugging is a foundational software engineering practice. As a metaphor for cri
 The programming metaphor makes critical analysis feel actionable and learnable — bugs can be found, named, and fixed. It reduces the intimidation of confronting complex systems.
 
 **The Friction**
-The metaphor has limits: social systems do not have clean bug reports. [[public/ai_specific/ai_hallucination_public|AI Hallucination]] — producing confident falsehoods — is not a bug in the traditional sense; it is a structural property of the system. [[public/design_philosophy/unblackboxing_public|Unblackboxing]] addresses the same goal without the fixing-it implication.
+The metaphor has limits: social systems do not have clean bug reports. [[terms/ai_specific/ai_hallucination_public|AI Hallucination]] — producing confident falsehoods — is not a bug in the traditional sense; it is a structural property of the system. [[terms/design_philosophy/unblackboxing_public|Unblackboxing]] addresses the same goal without the fixing-it implication.
 
 **Why This Matters**
 Once you see De-bugging as a critical methodology rather than a technical process, you see that the vocabulary of software engineering can make media literacy more concrete — and that the habit of looking for bugs in systems is the foundational skill of digital alertness.
 
-**See also:** [[public/design_philosophy/unblackboxing_public|Unblackboxing]] · [[public/design_philosophy/detective_design_public|Detective Design]] · [[public/ai_specific/ai_hallucination_public|AI Hallucination]]
+**See also:** [[terms/design_philosophy/unblackboxing_public|Unblackboxing]] · [[terms/design_philosophy/detective_design_public|Detective Design]] · [[terms/ai_specific/ai_hallucination_public|AI Hallucination]]
 
 `#design-philosophy-counter-force` `#power` `#framing` `#digital-alertness`
 

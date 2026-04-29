@@ -25,8 +25,8 @@ related_reaction:
 
 **Layer:** Reaction — Joy of Missing Out; deliberate disconnection as lifestyle
 
-**Cause:** [[public/platform_mechanisms/attention_harvesting_public|Attention Harvesting]] · [[public/platform_mechanisms/fomo_public|FOMO]]
-**Mechanism:** [[public/appropriated_counter_force/digital_detox_public|Digital Detox]]
+**Cause:** [[terms/platform_mechanisms/attention_harvesting_public|Attention Harvesting]] · [[terms/platform_mechanisms/fomo_public|FOMO]]
+**Mechanism:** [[terms/appropriated_counter_force/digital_detox_public|Digital Detox]]
 **Consequence:** *—*
 **Reaction:** *—*
 
@@ -55,12 +55,12 @@ JOMO emerged as a response to FOMO discourse around 2012–2014. Anil Dash is cr
 The desire for genuine rest, solitude, and disconnection is real and legitimate. JOMO names that desire and validates it.
 
 **The Friction**
-JOMO is typically performed on the same platforms it claims to reject — the Instagram post about not being on Instagram is the paradigm case. [[public/appropriated_counter_force/digital_detox_public|Digital Detox]] operates by the same logic: the retreat from platforms is announced on platforms. The counter-movement is absorbed into the engagement economy it claims to resist.
+JOMO is typically performed on the same platforms it claims to reject — the Instagram post about not being on Instagram is the paradigm case. [[terms/appropriated_counter_force/digital_detox_public|Digital Detox]] operates by the same logic: the retreat from platforms is announced on platforms. The counter-movement is absorbed into the engagement economy it claims to resist.
 
 **Why This Matters**
 Once you see JOMO as a platform-distributed lifestyle rather than genuine disconnection, you see how the system absorbs its own critique — and how the performance of resistance generates the same engagement data as the behaviour being resisted.
 
-**See also:** [[public/appropriated_counter_force/digital_detox_public|Digital Detox]] · [[public/platform_mechanisms/attention_harvesting_public|Attention Harvesting]]
+**See also:** [[terms/appropriated_counter_force/digital_detox_public|Digital Detox]] · [[terms/platform_mechanisms/attention_harvesting_public|Attention Harvesting]]
 
 `#behaviour-relationships` `#power` `#framing` `#digital-alertness`
 

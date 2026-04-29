@@ -25,8 +25,8 @@ related_reaction:
 
 **Layer:** Consequence — Fear of Better Options; decision paralysis through abundance
 
-**Cause:** [[public/platform_mechanisms/attention_economy_public|Attention Economy]] · [[public/platform_mechanisms/recommender_systems_public|Recommender Systems]]
-**Mechanism:** [[public/platform_mechanisms/recommender_systems_public|Recommender Systems]]
+**Cause:** [[terms/platform_mechanisms/attention_economy_public|Attention Economy]] · [[terms/platform_mechanisms/recommender_systems_public|Recommender Systems]]
+**Mechanism:** [[terms/platform_mechanisms/recommender_systems_public|Recommender Systems]]
 **Consequence:** *—*
 **Reaction:** *—*
 
@@ -55,12 +55,12 @@ Patrick McGinnis coined FOBO as a companion to FOMO in a 2014 Harvard Business R
 More options should mean better outcomes. The surfacing of alternatives is presented as a service.
 
 **The Friction**
-[[public/platform_mechanisms/recommender_systems_public|Recommender Systems]] continuously surface alternatives. Dating apps, streaming services, and e-commerce platforms are designed to show more options. The architecture that produces FOBO also profits from the continued browsing it generates.
+[[terms/platform_mechanisms/recommender_systems_public|Recommender Systems]] continuously surface alternatives. Dating apps, streaming services, and e-commerce platforms are designed to show more options. The architecture that produces FOBO also profits from the continued browsing it generates.
 
 **Why This Matters**
 Once you see FOBO as a designed condition rather than personal indecisiveness, you see that the platform benefits from your hesitation.
 
-**See also:** [[public/platform_mechanisms/recommender_systems_public|Recommender Systems]] · [[public/beauty_self_image/comparison_culture_public|Comparison Culture]]
+**See also:** [[terms/platform_mechanisms/recommender_systems_public|Recommender Systems]] · [[terms/beauty_self_image/comparison_culture_public|Comparison Culture]]
 
 `#beauty-influencers-self-image` `#power` `#framing` `#digital-alertness`
 

@@ -24,10 +24,10 @@ related_reaction:
 
 **Layer:** Cause — surveillance capitalism
 
-**Cause:** [[public/society_power/technofeudalism_public|Technofeudalism]]
-**Mechanism:** [[public/platform_mechanisms/attention_economy_public|Attention Economy]] · [[public/platform_mechanisms/recommender_systems_public|Recommender Systems]]
-**Consequence:** [[public/behaviour_relationships/cognitive_surrender_public|Cognitive Surrender]]
-**Reaction:** [[public/appropriated_counter_force/digital_detox_public|Digital Detox]]
+**Cause:** [[terms/society_power/technofeudalism_public|Technofeudalism]]
+**Mechanism:** [[terms/platform_mechanisms/attention_economy_public|Attention Economy]] · [[terms/platform_mechanisms/recommender_systems_public|Recommender Systems]]
+**Consequence:** [[terms/behaviour_relationships/cognitive_surrender_public|Cognitive Surrender]]
+**Reaction:** [[terms/appropriated_counter_force/digital_detox_public|Digital Detox]]
 
 **Public entry:** this document
 **Deep analysis:** *not yet created*
@@ -54,12 +54,12 @@ Shoshana Zuboff coined and developed the term in her 2019 book *The Age of Surve
 The services built on surveillance capitalism are often genuinely useful: search, maps, social connection, personalised content. The data extraction is the price, but it is largely invisible.
 
 **The Friction**
-The raw material is not your data — it is your future behaviour. [[public/platform_mechanisms/attention_economy_public|Attention Economy]] logic means the system needs to predict and influence what you will do next. Behavioural modification is not a side effect; it is the product.
+The raw material is not your data — it is your future behaviour. [[terms/platform_mechanisms/attention_economy_public|Attention Economy]] logic means the system needs to predict and influence what you will do next. Behavioural modification is not a side effect; it is the product.
 
 **Why This Matters**
 Once you see surveillance capitalism as an economic logic rather than a privacy problem, you see that regulation focused on data protection misses the point. The issue is not that your data is collected — it is what the collection is for.
 
-**See also:** [[public/platform_mechanisms/attention_economy_public|Attention Economy]] · [[public/platform_mechanisms/recommender_systems_public|Recommender Systems]] · [[public/society_power/technofeudalism_public|Technofeudalism]]
+**See also:** [[terms/platform_mechanisms/attention_economy_public|Attention Economy]] · [[terms/platform_mechanisms/recommender_systems_public|Recommender Systems]] · [[terms/society_power/technofeudalism_public|Technofeudalism]]
 
 `#society-power` `#power` `#framing` `#digital-alertness`
 

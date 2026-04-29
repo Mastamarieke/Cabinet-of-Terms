@@ -25,9 +25,9 @@ related_reaction:
 **Layer:** Mechanism — Actively applying the straw man as a rhetorical technique
 
 **Cause:** *—*
-**Mechanism:** [[public/thinking_reasoning/straw_man_public|Straw Man]]
+**Mechanism:** [[terms/thinking_reasoning/straw_man_public|Straw Man]]
 **Consequence:** *—*
-**Reaction:** [[public/thinking_reasoning/steel_manning_public|Steel Manning]]
+**Reaction:** [[terms/thinking_reasoning/steel_manning_public|Steel Manning]]
 
 **Public entry:** this document
 **Deep analysis:** *not yet created*
@@ -54,12 +54,12 @@ Strawmanning as a named practice emerged from informal logic and media criticism
 Strawmanning is effective: simplified opposition is easier to defeat, and audiences often cannot verify the original position. In high-volume media environments, it compounds through repetition.
 
 **The Friction**
-[[public/platform_mechanisms/ragebaiting_public|Ragebaiting]] — deliberate provocation for engagement — often uses strawmanning as its mechanism: a distorted version of an opposing position provokes more emotional response than the accurate version. [[public/thinking_reasoning/steel_manning_public|Steel Manning]] is the direct counter-practice.
+[[terms/platform_mechanisms/ragebaiting_public|Ragebaiting]] — deliberate provocation for engagement — often uses strawmanning as its mechanism: a distorted version of an opposing position provokes more emotional response than the accurate version. [[terms/thinking_reasoning/steel_manning_public|Steel Manning]] is the direct counter-practice.
 
 **Why This Matters**
 Once you can identify strawmanning in real time, you can ask: what was actually said, and what did this version replace? That question is the starting point for genuine disagreement.
 
-**See also:** [[public/thinking_reasoning/straw_man_public|Straw Man]] · [[public/thinking_reasoning/steel_manning_public|Steel Manning]] · [[public/platform_mechanisms/ragebaiting_public|Ragebaiting]]
+**See also:** [[terms/thinking_reasoning/straw_man_public|Straw Man]] · [[terms/thinking_reasoning/steel_manning_public|Steel Manning]] · [[terms/platform_mechanisms/ragebaiting_public|Ragebaiting]]
 
 `#thinking-reasoning` `#power` `#framing` `#digital-alertness`
 

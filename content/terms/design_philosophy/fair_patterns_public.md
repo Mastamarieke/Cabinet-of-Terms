@@ -26,8 +26,8 @@ related_reaction:
 
 **Layer:** Reaction — Direct counterpart to dark patterns; same structure, opposite intent
 
-**Cause:** [[public/platform_mechanisms/dark_patterns_public|Dark Patterns]] · [[public/society_power/surveillance_capitalism_public|Surveillance Capitalism]]
-**Mechanism:** [[public/design_philosophy/vsd_value_sensitive_design_public|VSD]] · [[public/design_philosophy/deceptive_design_public|Deceptive Design]]
+**Cause:** [[terms/platform_mechanisms/dark_patterns_public|Dark Patterns]] · [[terms/society_power/surveillance_capitalism_public|Surveillance Capitalism]]
+**Mechanism:** [[terms/design_philosophy/vsd_value_sensitive_design_public|VSD]] · [[terms/design_philosophy/deceptive_design_public|Deceptive Design]]
 **Consequence:** *—*
 **Reaction:** *—*
 
@@ -56,12 +56,12 @@ Fair Patterns emerged as a design concept in the mid-2010s as researchers and pr
 Fair Patterns demonstrate that the design mechanisms used for manipulation can be redirected. The same knowledge of cognitive architecture that enables dark patterns enables fair ones.
 
 **The Friction**
-Fair Patterns are commercially disadvantaged in the same way as [[public/design_philosophy/calm_technology_public|Calm Technology]]: they generate less engagement, fewer accidental purchases, and lower conversion rates than their manipulative counterparts. Adoption requires regulatory pressure or genuine value alignment — and [[public/platform_mechanisms/dark_patterns_public|Dark Patterns]] remain the market default.
+Fair Patterns are commercially disadvantaged in the same way as [[terms/design_philosophy/calm_technology_public|Calm Technology]]: they generate less engagement, fewer accidental purchases, and lower conversion rates than their manipulative counterparts. Adoption requires regulatory pressure or genuine value alignment — and [[terms/platform_mechanisms/dark_patterns_public|Dark Patterns]] remain the market default.
 
 **Why This Matters**
 Once you see Fair Patterns as a design practice rather than an ideal, you see that ethical interface design is technically straightforward — the barrier is not knowledge but incentive.
 
-**See also:** [[public/platform_mechanisms/dark_patterns_public|Dark Patterns]] · [[public/design_philosophy/vsd_value_sensitive_design_public|VSD]] · [[public/design_philosophy/deceptive_design_public|Deceptive Design]] · [[public/design_philosophy/calm_technology_public|Calm Technology]]
+**See also:** [[terms/platform_mechanisms/dark_patterns_public|Dark Patterns]] · [[terms/design_philosophy/vsd_value_sensitive_design_public|VSD]] · [[terms/design_philosophy/deceptive_design_public|Deceptive Design]] · [[terms/design_philosophy/calm_technology_public|Calm Technology]]
 
 `#design-philosophy-counter-force` `#power` `#framing` `#digital-alertness`
 

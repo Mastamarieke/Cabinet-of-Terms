@@ -25,8 +25,8 @@ related_reaction:
 
 **Layer:** Mechanism — American law; GDPR protection undermined via American clouds
 
-**Cause:** [[public/society_power/surveillance_capitalism_public|Surveillance Capitalism]] · [[public/privacy_compliance/vendor_lock_in_public|Vendor Lock-in]]
-**Mechanism:** [[public/privacy_compliance/brussels_effect_public|Brussels Effect]]
+**Cause:** [[terms/society_power/surveillance_capitalism_public|Surveillance Capitalism]] · [[terms/privacy_compliance/vendor_lock_in_public|Vendor Lock-in]]
+**Mechanism:** [[terms/privacy_compliance/brussels_effect_public|Brussels Effect]]
 **Consequence:** *—*
 **Reaction:** *—*
 
@@ -55,12 +55,12 @@ The CLOUD Act was passed in 2018 to resolve jurisdictional conflicts between US 
 The CLOUD Act resolves genuine jurisdictional ambiguity and enables lawful access for legitimate law enforcement purposes.
 
 **The Friction**
-[[public/privacy_compliance/vendor_lock_in_public|Vendor Lock-in]] — dependence on US cloud infrastructure — means that European data stored on AWS, Azure, or Google Cloud is potentially accessible under US law regardless of GDPR protections. [[public/privacy_compliance/brussels_effect_public|Brussels Effect]] meets its limit here: EU data protection law applies in EU jurisdictions; US law applies to the companies that own the infrastructure.
+[[terms/privacy_compliance/vendor_lock_in_public|Vendor Lock-in]] — dependence on US cloud infrastructure — means that European data stored on AWS, Azure, or Google Cloud is potentially accessible under US law regardless of GDPR protections. [[terms/privacy_compliance/brussels_effect_public|Brussels Effect]] meets its limit here: EU data protection law applies in EU jurisdictions; US law applies to the companies that own the infrastructure.
 
 **Why This Matters**
 Once you see the CLOUD Act as a sovereignty gap rather than a technical detail, you see that data stored in European data centres on American infrastructure is not protected by European law — and that infrastructure ownership is sovereignty.
 
-**See also:** [[public/privacy_compliance/vendor_lock_in_public|Vendor Lock-in]] · [[public/privacy_compliance/brussels_effect_public|Brussels Effect]] · [[public/society_power/surveillance_capitalism_public|Surveillance Capitalism]]
+**See also:** [[terms/privacy_compliance/vendor_lock_in_public|Vendor Lock-in]] · [[terms/privacy_compliance/brussels_effect_public|Brussels Effect]] · [[terms/society_power/surveillance_capitalism_public|Surveillance Capitalism]]
 
 `#privacy-compliance` `#power` `#framing` `#digital-alertness`
 

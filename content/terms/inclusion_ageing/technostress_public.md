@@ -26,10 +26,10 @@ related_reaction:
 
 **Layer:** Consequence — Stress caused by using or dealing with technology
 
-**Cause:** [[public/platform_mechanisms/attention_economy_public|Attention Economy]] · [[public/society_power/technofeudalism_public|Technofeudalism]]
-**Mechanism:** [[public/inclusion_ageing/ageism_digital_public|Ageism (Digital)]] · [[public/inclusion_ageing/digital_ageing_public|Digital Ageing]]
-**Consequence:** [[public/inclusion_ageing/tech_abandonment_public|Tech Abandonment]]
-**Reaction:** [[public/inclusion_ageing/universal_design_public|Universal Design]]
+**Cause:** [[terms/platform_mechanisms/attention_economy_public|Attention Economy]] · [[terms/society_power/technofeudalism_public|Technofeudalism]]
+**Mechanism:** [[terms/inclusion_ageing/ageism_digital_public|Ageism (Digital)]] · [[terms/inclusion_ageing/digital_ageing_public|Digital Ageing]]
+**Consequence:** [[terms/inclusion_ageing/tech_abandonment_public|Tech Abandonment]]
+**Reaction:** [[terms/inclusion_ageing/universal_design_public|Universal Design]]
 
 **Public entry:** this document
 **Deep analysis:** *not yet created*
@@ -56,12 +56,12 @@ Craig Brod coined Technostress in his 1984 book of the same name, describing the
 Naming Technostress as a clinical concept validates the experience and enables targeted interventions: digital literacy training, support services, and design changes.
 
 **The Friction**
-Technostress is produced by design choices — interfaces that change without warning, error messages that provide no guidance, update cycles that require continuous relearning. [[public/inclusion_ageing/ageism_digital_public|Ageism (Digital)]] is the structural context: older adults bear disproportionate Technostress because systems are not designed for them. The solution is not stress management — it is better design.
+Technostress is produced by design choices — interfaces that change without warning, error messages that provide no guidance, update cycles that require continuous relearning. [[terms/inclusion_ageing/ageism_digital_public|Ageism (Digital)]] is the structural context: older adults bear disproportionate Technostress because systems are not designed for them. The solution is not stress management — it is better design.
 
 **Why This Matters**
 Once you see Technostress as a consequence of design rather than individual limitation, you see that the question is not how to help people cope with technology — it is why technology is designed in ways that require coping.
 
-**See also:** [[public/inclusion_ageing/tech_abandonment_public|Tech Abandonment]] · [[public/inclusion_ageing/ageism_digital_public|Ageism (Digital)]] · [[public/inclusion_ageing/digital_ageing_public|Digital Ageing]] · [[public/inclusion_ageing/digital_exclusion_public|Digital Exclusion]]
+**See also:** [[terms/inclusion_ageing/tech_abandonment_public|Tech Abandonment]] · [[terms/inclusion_ageing/ageism_digital_public|Ageism (Digital)]] · [[terms/inclusion_ageing/digital_ageing_public|Digital Ageing]] · [[terms/inclusion_ageing/digital_exclusion_public|Digital Exclusion]]
 
 `#inclusion-accessibility-ageing` `#power` `#framing` `#digital-alertness`
 

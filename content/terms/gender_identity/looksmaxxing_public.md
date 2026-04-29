@@ -24,10 +24,10 @@ related_reaction:
 
 **Layer:** Mechanism — looksmaxxing
 
-**Cause:** [[public/gender_identity/manosphere_public|Manosphere]] · [[public/gender_identity/smv_public|SMV]]
-**Mechanism:** [[public/gender_identity/blackpill_public|Blackpill]]
-**Consequence:** [[public/gender_identity/blackpill_public|Blackpill]] · [[public/gender_identity/incel_public|Incel]]
-**Reaction:** [[public/culture_wars/deplatforming_public|Deplatforming]]
+**Cause:** [[terms/gender_identity/manosphere_public|Manosphere]] · [[terms/gender_identity/smv_public|SMV]]
+**Mechanism:** [[terms/gender_identity/blackpill_public|Blackpill]]
+**Consequence:** [[terms/gender_identity/blackpill_public|Blackpill]] · [[terms/gender_identity/incel_public|Incel]]
+**Reaction:** [[terms/culture_wars/deplatforming_public|Deplatforming]]
 
 **Public entry:** this document
 **Deep analysis:** *not yet created*
@@ -54,12 +54,12 @@ Emerging from incel and blackpill communities in the 2010s, looksmaxxing develop
 Wanting to look better is not pathological. Skincare routines, fitness, and personal grooming are ordinary practices. Looksmaxxing offers community, vocabulary, and a sense of agency for people who feel invisible.
 
 **The Friction**
-[[public/gender_identity/smv_public|SMV]] — Sexual Market Value, the idea that attractiveness can be scored — provides the logic: if you can be ranked, you can improve your rank. But the framework also sets a ceiling. [[public/gender_identity/blackpill_public|Blackpill]] — the deterministic worldview that attractiveness is fate — is the destination for those who discover the ceiling: if bone structure determines outcome, no amount of maxxing is enough.
+[[terms/gender_identity/smv_public|SMV]] — Sexual Market Value, the idea that attractiveness can be scored — provides the logic: if you can be ranked, you can improve your rank. But the framework also sets a ceiling. [[terms/gender_identity/blackpill_public|Blackpill]] — the deterministic worldview that attractiveness is fate — is the destination for those who discover the ceiling: if bone structure determines outcome, no amount of maxxing is enough.
 
 **Why This Matters**
 Once you see looksmaxxing as a pipeline entry rather than a personal choice, you see how the same communities that encourage self-improvement route toward fatalism. The journey from skincare to bone surgery to blackpill despair is documented and deliberate.
 
-**See also:** [[public/gender_identity/smv_public|SMV]] · [[public/gender_identity/blackpill_public|Blackpill]] · [[public/gender_identity/manosphere_public|Manosphere]] · [[public/gender_identity/incel_public|Incel]]
+**See also:** [[terms/gender_identity/smv_public|SMV]] · [[terms/gender_identity/blackpill_public|Blackpill]] · [[terms/gender_identity/manosphere_public|Manosphere]] · [[terms/gender_identity/incel_public|Incel]]
 
 `#gender-identity` `#power` `#framing` `#digital-alertness`
 

@@ -25,8 +25,8 @@ related_reaction:
 
 **Layer:** Reaction — Weiser & Brown 1995; technology in the background
 
-**Cause:** [[public/platform_mechanisms/attention_harvesting_public|Attention Harvesting]] · [[public/platform_mechanisms/dark_patterns_public|Dark Patterns]]
-**Mechanism:** [[public/design_philosophy/vsd_value_sensitive_design_public|VSD]]
+**Cause:** [[terms/platform_mechanisms/attention_harvesting_public|Attention Harvesting]] · [[terms/platform_mechanisms/dark_patterns_public|Dark Patterns]]
+**Mechanism:** [[terms/design_philosophy/vsd_value_sensitive_design_public|VSD]]
 **Consequence:** *—*
 **Reaction:** *—*
 
@@ -55,12 +55,12 @@ Mark Weiser and John Seely Brown developed Calm Technology at Xerox PARC in 1995
 The alternative to attention-harvesting design is not no technology — it is technology that serves without demanding. Calm Technology provides a design vocabulary for that alternative.
 
 **The Friction**
-Calm Technology is commercially disadvantaged in attention economies: a system that does not compete for attention generates less engagement data and fewer return visits. [[public/platform_mechanisms/attention_harvesting_public|Attention Harvesting]] creates structural incentives against calm design. The principle survives in niche applications — notification management, ambient displays — but has not shaped dominant platform design.
+Calm Technology is commercially disadvantaged in attention economies: a system that does not compete for attention generates less engagement data and fewer return visits. [[terms/platform_mechanisms/attention_harvesting_public|Attention Harvesting]] creates structural incentives against calm design. The principle survives in niche applications — notification management, ambient displays — but has not shaped dominant platform design.
 
 **Why This Matters**
 Once you see Calm Technology as a design principle suppressed by commercial incentives rather than a technical impossibility, you see that the loudness of platforms is a choice — and that the alternative has been articulated for thirty years.
 
-**See also:** [[public/design_philosophy/vsd_value_sensitive_design_public|VSD]] · [[public/platform_mechanisms/attention_harvesting_public|Attention Harvesting]] · [[public/platform_mechanisms/dark_patterns_public|Dark Patterns]]
+**See also:** [[terms/design_philosophy/vsd_value_sensitive_design_public|VSD]] · [[terms/platform_mechanisms/attention_harvesting_public|Attention Harvesting]] · [[terms/platform_mechanisms/dark_patterns_public|Dark Patterns]]
 
 `#design-philosophy-counter-force` `#power` `#framing` `#digital-alertness`
 

@@ -26,8 +26,8 @@ related_reaction:
 
 **Layer:** Mechanism — Showing off status, possessions or body online
 
-**Cause:** [[public/platform_mechanisms/attention_economy_public|Attention Economy]] · [[public/gender_identity/smv_public|SMV]]
-**Mechanism:** [[public/platform_mechanisms/gamification_creep_public|Gamification Creep]] · [[public/platform_mechanisms/dopamine_feedback_loops_public|Dopamine Feedback Loops]]
+**Cause:** [[terms/platform_mechanisms/attention_economy_public|Attention Economy]] · [[terms/gender_identity/smv_public|SMV]]
+**Mechanism:** [[terms/platform_mechanisms/gamification_creep_public|Gamification Creep]] · [[terms/platform_mechanisms/dopamine_feedback_loops_public|Dopamine Feedback Loops]]
 **Consequence:** *—*
 **Reaction:** *—*
 
@@ -56,12 +56,12 @@ The term originates in hip-hop culture and entered mainstream internet vocabular
 Status signalling is a universal human behaviour. Platforms provide infrastructure to perform it at scale and receive measurable feedback — likes, followers, comments — that quantifies social recognition.
 
 **The Friction**
-[[public/platform_mechanisms/gamification_creep_public|Gamification Creep]] — game logic entering social interaction — converts status performance into scored competition. [[public/gender_identity/smv_public|SMV]] — Sexual Market Value logic — provides the underlying framework: possessions and appearance are assets with quantifiable social value. The flex is real; the audience is not always what it appears — follower counts can be purchased, engagement can be manufactured.
+[[terms/platform_mechanisms/gamification_creep_public|Gamification Creep]] — game logic entering social interaction — converts status performance into scored competition. [[terms/gender_identity/smv_public|SMV]] — Sexual Market Value logic — provides the underlying framework: possessions and appearance are assets with quantifiable social value. The flex is real; the audience is not always what it appears — follower counts can be purchased, engagement can be manufactured.
 
 **Why This Matters**
 Once you see flexing as a platform-mediated status performance rather than spontaneous self-expression, you see that the display is shaped by what the algorithm rewards — and that the rewards are designed to sustain engagement, not genuine recognition.
 
-**See also:** [[public/platform_mechanisms/gamification_creep_public|Gamification Creep]] · [[public/platform_mechanisms/attention_economy_public|Attention Economy]] · [[public/gender_identity/smv_public|SMV]]
+**See also:** [[terms/platform_mechanisms/gamification_creep_public|Gamification Creep]] · [[terms/platform_mechanisms/attention_economy_public|Attention Economy]] · [[terms/gender_identity/smv_public|SMV]]
 
 `#behaviour-relationships` `#power` `#framing` `#digital-alertness`
 

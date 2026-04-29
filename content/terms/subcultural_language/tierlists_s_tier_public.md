@@ -25,8 +25,8 @@ related_reaction:
 
 **Layer:** Mechanism — Gamification logic applied to people and culture
 
-**Cause:** [[public/platform_mechanisms/gamification_creep_public|Gamification Creep]] · [[public/platform_mechanisms/attention_economy_public|Attention Economy]]
-**Mechanism:** [[public/gender_identity/smv_public|SMV]]
+**Cause:** [[terms/platform_mechanisms/gamification_creep_public|Gamification Creep]] · [[terms/platform_mechanisms/attention_economy_public|Attention Economy]]
+**Mechanism:** [[terms/gender_identity/smv_public|SMV]]
 **Consequence:** *—*
 **Reaction:** *—*
 
@@ -55,12 +55,12 @@ Tierlists originated in competitive gaming communities in the 1990s–2000s, ran
 Ranking is inherently engaging and shareable. Tierlists generate disagreement — and disagreement generates comments. The format is simple and endlessly applicable.
 
 **The Friction**
-[[public/platform_mechanisms/gamification_creep_public|Gamification Creep]] — game logic entering non-game contexts — is the mechanism. Applied to people, tierlist logic reproduces [[public/gender_identity/smv_public|SMV]] — Sexual Market Value — thinking: human worth as a ranked score. The vocabulary normalises hierarchical evaluation as a natural mode of relating to the world.
+[[terms/platform_mechanisms/gamification_creep_public|Gamification Creep]] — game logic entering non-game contexts — is the mechanism. Applied to people, tierlist logic reproduces [[terms/gender_identity/smv_public|SMV]] — Sexual Market Value — thinking: human worth as a ranked score. The vocabulary normalises hierarchical evaluation as a natural mode of relating to the world.
 
 **Why This Matters**
 Once you see tierlists as a gamification format rather than a neutral ranking exercise, you see how the habit of scoring and ranking — originally a competitive game mechanic — shapes how worth and value are thought about across domains.
 
-**See also:** [[public/platform_mechanisms/gamification_creep_public|Gamification Creep]] · [[public/gender_identity/smv_public|SMV]] · [[public/subcultural_language/aurafarming_public|Aurafarming]]
+**See also:** [[terms/platform_mechanisms/gamification_creep_public|Gamification Creep]] · [[terms/gender_identity/smv_public|SMV]] · [[terms/subcultural_language/aurafarming_public|Aurafarming]]
 
 `#subcultural-vocabulary-platform-language` `#power` `#framing` `#digital-alertness`
 

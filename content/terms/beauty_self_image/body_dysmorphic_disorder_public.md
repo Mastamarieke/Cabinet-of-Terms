@@ -25,8 +25,8 @@ related_reaction:
 
 **Layer:** Consequence — Clinical countervoice; where aesthetic optimisation becomes pathology
 
-**Cause:** [[public/beauty_self_image/beauty_filter_public|Beauty Filter]] · [[public/beauty_self_image/comparison_culture_public|Comparison Culture]]
-**Mechanism:** [[public/gender_identity/looksmaxxing_public|Looksmaxxing]]
+**Cause:** [[terms/beauty_self_image/beauty_filter_public|Beauty Filter]] · [[terms/beauty_self_image/comparison_culture_public|Comparison Culture]]
+**Mechanism:** [[terms/gender_identity/looksmaxxing_public|Looksmaxxing]]
 **Consequence:** *—*
 **Reaction:** *—*
 
@@ -55,12 +55,12 @@ BDD was formally classified in DSM-III-R in 1987. Dermatologists began documenti
 This term has no appeal in the usual sense — it names a harm. Its analytical value is as a countervoice: it names where the aesthetic optimisation logic of platforms ends for the most vulnerable users.
 
 **The Friction**
-[[public/gender_identity/looksmaxxing_public|Looksmaxxing]] and [[public/beauty_self_image/beauty_filter_public|Beauty Filter]] use are platform behaviours that, at scale, move some users toward clinical presentations.
+[[terms/gender_identity/looksmaxxing_public|Looksmaxxing]] and [[terms/beauty_self_image/beauty_filter_public|Beauty Filter]] use are platform behaviours that, at scale, move some users toward clinical presentations.
 
 **Why This Matters**
 Once you see BDD as the clinical consequence of aesthetic optimisation culture, you see that the platforms distributing looksmaxxing content and beauty filters are also distributing the conditions for pathological outcomes.
 
-**See also:** [[public/gender_identity/looksmaxxing_public|Looksmaxxing]] · [[public/beauty_self_image/beauty_filter_public|Beauty Filter]] · [[public/beauty_self_image/comparison_culture_public|Comparison Culture]]
+**See also:** [[terms/gender_identity/looksmaxxing_public|Looksmaxxing]] · [[terms/beauty_self_image/beauty_filter_public|Beauty Filter]] · [[terms/beauty_self_image/comparison_culture_public|Comparison Culture]]
 
 `#beauty-influencers-self-image` `#power` `#framing` `#digital-alertness`
 

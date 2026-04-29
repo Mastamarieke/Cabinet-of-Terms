@@ -26,10 +26,10 @@ related_reaction:
 
 **Layer:** Mechanism — Financial claims that systematically exceed reality
 
-**Cause:** [[public/society_power/surveillance_capitalism_public|Surveillance Capitalism]] · [[public/society_power/technofeudalism_public|Technofeudalism]]
-**Mechanism:** [[public/society_power/muskism_public|Muskism]] · [[public/society_power/memecoin_public|Memecoin]]
+**Cause:** [[terms/society_power/surveillance_capitalism_public|Surveillance Capitalism]] · [[terms/society_power/technofeudalism_public|Technofeudalism]]
+**Mechanism:** [[terms/society_power/muskism_public|Muskism]] · [[terms/society_power/memecoin_public|Memecoin]]
 **Consequence:** *—*
-**Reaction:** [[public/design_philosophy/unblackboxing_public|Unblackboxing]]
+**Reaction:** [[terms/design_philosophy/unblackboxing_public|Unblackboxing]]
 
 **Public entry:** this document
 **Deep analysis:** *not yet created*
@@ -56,12 +56,12 @@ The term describes a pattern documented across cryptocurrency, SPAC valuations, 
 High valuations attract investment, talent, and press attention. The fabulism is functional: it produces the reality it claims to describe.
 
 **The Friction**
-[[public/society_power/memecoin_public|Memecoin]] is Financial Fabulism in its most explicit form. [[public/society_power/muskism_public|Muskism]] deploys it systematically: Tesla's valuation, Twitter's acquisition price, and xAI's fundraising all involved claims that exceeded verifiable fundamentals.
+[[terms/society_power/memecoin_public|Memecoin]] is Financial Fabulism in its most explicit form. [[terms/society_power/muskism_public|Muskism]] deploys it systematically: Tesla's valuation, Twitter's acquisition price, and xAI's fundraising all involved claims that exceeded verifiable fundamentals.
 
 **Why This Matters**
 Once you see Financial Fabulism as a systematic practice rather than individual deception, you see that the fictions are produced by incentive structures — and that the people who believe them pay the real costs.
 
-**See also:** [[public/society_power/muskism_public|Muskism]] · [[public/society_power/memecoin_public|Memecoin]] · [[public/society_power/technofeudalism_public|Technofeudalism]]
+**See also:** [[terms/society_power/muskism_public|Muskism]] · [[terms/society_power/memecoin_public|Memecoin]] · [[terms/society_power/technofeudalism_public|Technofeudalism]]
 
 `#society-power` `#power` `#framing` `#digital-alertness`
 

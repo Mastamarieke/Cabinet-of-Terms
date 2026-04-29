@@ -25,7 +25,7 @@ related_reaction:
 **Layer:** Mechanism — Formulating the strongest possible argument of the opponent
 
 **Cause:** *—*
-**Mechanism:** [[public/thinking_reasoning/straw_man_public|Straw Man]]
+**Mechanism:** [[terms/thinking_reasoning/straw_man_public|Straw Man]]
 **Consequence:** *—*
 **Reaction:** *—*
 
@@ -54,12 +54,12 @@ Steel Manning emerged as a philosophical and rhetorical practice as a deliberate
 Steel Manning produces better arguments: engaging with the strongest version of opposition forces more robust thinking. It also demonstrates intellectual honesty and earns credibility.
 
 **The Friction**
-True Steel Manning requires genuine understanding of opposing positions — not a performance of fairness while still dismissing them. In online discourse, "steel manning" is sometimes used as a rhetorical move: appearing to give the strongest version while still framing it unfavourably. [[public/thinking_reasoning/straw_man_public|Straw Man]] and Steel Manning are in constant tension in public debate.
+True Steel Manning requires genuine understanding of opposing positions — not a performance of fairness while still dismissing them. In online discourse, "steel manning" is sometimes used as a rhetorical move: appearing to give the strongest version while still framing it unfavourably. [[terms/thinking_reasoning/straw_man_public|Straw Man]] and Steel Manning are in constant tension in public debate.
 
 **Why This Matters**
 Steel Manning is a meta-instrument for the vault: every term analysis attempts to take seriously what the term offers — why it spreads, what need it meets — before identifying what it conceals. The Appeal section is a structural steel man.
 
-**See also:** [[public/thinking_reasoning/straw_man_public|Straw Man]] · [[public/thinking_reasoning/strawmanning_public|Strawmanning]]
+**See also:** [[terms/thinking_reasoning/straw_man_public|Straw Man]] · [[terms/thinking_reasoning/strawmanning_public|Strawmanning]]
 
 `#thinking-reasoning` `#power` `#framing` `#digital-alertness`
 

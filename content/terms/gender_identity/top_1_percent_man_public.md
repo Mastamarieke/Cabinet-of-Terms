@@ -27,10 +27,10 @@ related_reaction:
 
 **Layer:** Mechanism — hierarchical aspiration category; sexual market value as yardstick
 
-**Cause:** [[public/society_power/surveillance_capitalism_public|Surveillance Capitalism]] · [[public/platform_mechanisms/attention_economy_public|Attention Economy]]
-**Mechanism:** [[public/gender_identity/smv_public|SMV]] · [[public/gender_identity/manosphere_public|Manosphere]]
-**Consequence:** [[public/gender_identity/incel_public|Incel]] · [[public/gender_identity/blackpill_public|Blackpill]]
-**Reaction:** [[public/culture_wars/deplatforming_public|Deplatforming]]
+**Cause:** [[terms/society_power/surveillance_capitalism_public|Surveillance Capitalism]] · [[terms/platform_mechanisms/attention_economy_public|Attention Economy]]
+**Mechanism:** [[terms/gender_identity/smv_public|SMV]] · [[terms/gender_identity/manosphere_public|Manosphere]]
+**Consequence:** [[terms/gender_identity/incel_public|Incel]] · [[terms/gender_identity/blackpill_public|Blackpill]]
+**Reaction:** [[terms/culture_wars/deplatforming_public|Deplatforming]]
 
 **Public entry:** this document
 **Deep analysis:** *not yet created*
@@ -49,7 +49,7 @@ The goal is not just to be attractive. The goal is to be in the top one percent 
 *Top 1%* — the uppermost percentile of a ranked distribution. *Man* — gendered. In manosphere use, Top 1% Man describes the aspirational apex of sexual market value: the man who is so high-status that his romantic options are effectively unlimited.
 
 **Origin**
-The term circulates in manosphere communities as an aspiration category derived from [[public/gender_identity/smv_public|SMV]] — Sexual Market Value — logic. It gained traction on TikTok and YouTube in the early 2020s through self-improvement content directed at young men.
+The term circulates in manosphere communities as an aspiration category derived from [[terms/gender_identity/smv_public|SMV]] — Sexual Market Value — logic. It gained traction on TikTok and YouTube in the early 2020s through self-improvement content directed at young men.
 
 > Top 1% Man is the aspirational peak of manosphere identity — a man whose status, appearance, and resources place him at the top of an imagined sexual hierarchy.
 
@@ -57,12 +57,12 @@ The term circulates in manosphere communities as an aspiration category derived 
 Self-improvement is real and valuable. Working on fitness, skills, and confidence produces genuine results. The Top 1% framework gives that effort a clear target and a community that tracks progress.
 
 **The Friction**
-[[public/gender_identity/smv_public|SMV]] — Sexual Market Value, the idea that attractiveness can be quantified — is the underlying logic. The top 1% framing makes the goal simultaneously aspirational and structurally impossible: by definition, 99% cannot reach it. [[public/platform_mechanisms/recommender_systems_public|Recommender Systems]] — algorithms that feed you more of what keeps you watching — route men who search for self-improvement toward increasingly extreme content. The goal post moves. The content keeps coming.
+[[terms/gender_identity/smv_public|SMV]] — Sexual Market Value, the idea that attractiveness can be quantified — is the underlying logic. The top 1% framing makes the goal simultaneously aspirational and structurally impossible: by definition, 99% cannot reach it. [[terms/platform_mechanisms/recommender_systems_public|Recommender Systems]] — algorithms that feed you more of what keeps you watching — route men who search for self-improvement toward increasingly extreme content. The goal post moves. The content keeps coming.
 
 **Why This Matters**
 Once you see Top 1% Man as a market category rather than a personal goal, you see how the aspiration is designed to be unreachable — and how unreachable goals produce perpetual engagement with the content that sells them.
 
-**See also:** [[public/gender_identity/smv_public|SMV]] · [[public/gender_identity/manosphere_public|Manosphere]] · [[public/gender_identity/blackpill_public|Blackpill]] · [[public/gender_identity/alpha_male_public|Alpha Male]]
+**See also:** [[terms/gender_identity/smv_public|SMV]] · [[terms/gender_identity/manosphere_public|Manosphere]] · [[terms/gender_identity/blackpill_public|Blackpill]] · [[terms/gender_identity/alpha_male_public|Alpha Male]]
 
 `#gender-identity` `#power` `#framing` `#digital-alertness`
 

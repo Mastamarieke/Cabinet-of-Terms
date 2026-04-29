@@ -25,9 +25,9 @@ related_reaction:
 
 **Layer:** Mechanism — People without their own agency; on automatic pilot
 
-**Cause:** [[public/platform_mechanisms/attention_economy_public|Attention Economy]] · [[public/platform_mechanisms/recommender_systems_public|Recommender Systems]]
-**Mechanism:** [[public/behaviour_relationships/cognitive_surrender_public|Cognitive Surrender]]
-**Consequence:** [[public/students/deskilling_public|Deskilling]]
+**Cause:** [[terms/platform_mechanisms/attention_economy_public|Attention Economy]] · [[terms/platform_mechanisms/recommender_systems_public|Recommender Systems]]
+**Mechanism:** [[terms/behaviour_relationships/cognitive_surrender_public|Cognitive Surrender]]
+**Consequence:** [[terms/students/deskilling_public|Deskilling]]
 
 **Public entry:** this document
 **Deep analysis:** *not yet created*
@@ -54,12 +54,12 @@ Gaming terminology adopted into online political and subcultural discourse aroun
 The critique of conformity and groupthink is legitimate. People do sometimes follow social scripts without reflection. The gaming metaphor makes that observation vivid and accessible.
 
 **The Friction**
-The term is almost always applied to others, never to oneself. It creates an unfalsifiable division: anyone who agrees with you has genuine agency; anyone who disagrees is an NPC following a script. [[public/behaviour_relationships/cognitive_surrender_public|Cognitive Surrender]] — accepting what systems tell you without evaluation — is a real phenomenon, but NPC applies it selectively as a political dismissal rather than an analytical observation.
+The term is almost always applied to others, never to oneself. It creates an unfalsifiable division: anyone who agrees with you has genuine agency; anyone who disagrees is an NPC following a script. [[terms/behaviour_relationships/cognitive_surrender_public|Cognitive Surrender]] — accepting what systems tell you without evaluation — is a real phenomenon, but NPC applies it selectively as a political dismissal rather than an analytical observation.
 
 **Why This Matters**
 Once you see NPC as a rhetorical mechanism rather than a genuine observation about agency, you see how the term immunises its users against disagreement — and how that immunisation is the point.
 
-**See also:** [[public/gender_identity/unc_public|UNC]] · [[public/behaviour_relationships/cognitive_surrender_public|Cognitive Surrender]] · [[public/platform_mechanisms/recommender_systems_public|Recommender Systems]]
+**See also:** [[terms/gender_identity/unc_public|UNC]] · [[terms/behaviour_relationships/cognitive_surrender_public|Cognitive Surrender]] · [[terms/platform_mechanisms/recommender_systems_public|Recommender Systems]]
 
 `#gender-identity` `#power` `#framing` `#digital-alertness`
 

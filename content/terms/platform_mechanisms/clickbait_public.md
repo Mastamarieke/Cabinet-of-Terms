@@ -26,9 +26,9 @@ related_reaction:
 
 **Layer:** Mechanism — Content designed to generate clicks, not to inform
 
-**Cause:** [[public/platform_mechanisms/attention_economy_public|Attention Economy]] · [[public/society_power/surveillance_capitalism_public|Surveillance Capitalism]]
-**Mechanism:** [[public/platform_mechanisms/recommender_systems_public|Recommender Systems]] · [[public/platform_mechanisms/dopamine_feedback_loops_public|Dopamine Feedback Loops]]
-**Consequence:** [[public/platform_mechanisms/ai_slop_public|AI Slop]]
+**Cause:** [[terms/platform_mechanisms/attention_economy_public|Attention Economy]] · [[terms/society_power/surveillance_capitalism_public|Surveillance Capitalism]]
+**Mechanism:** [[terms/platform_mechanisms/recommender_systems_public|Recommender Systems]] · [[terms/platform_mechanisms/dopamine_feedback_loops_public|Dopamine Feedback Loops]]
+**Consequence:** [[terms/platform_mechanisms/ai_slop_public|AI Slop]]
 **Reaction:** *—*
 
 **Public entry:** this document
@@ -56,12 +56,12 @@ The term emerged in the early 2010s as digital publishing shifted to engagement-
 Clickbait headlines often describe something genuinely interesting. The curiosity gap is real.
 
 **The Friction**
-[[public/platform_mechanisms/recommender_systems_public|Recommender Systems]] — optimising for engagement — reward clickbait because it drives clicks regardless of whether the content delivers. The result is a systematic pressure toward sensation over substance. [[public/platform_mechanisms/ai_slop_public|AI Slop]] — mass AI-generated content — accelerates this: headlines can be generated at scale and tested for click performance.
+[[terms/platform_mechanisms/recommender_systems_public|Recommender Systems]] — optimising for engagement — reward clickbait because it drives clicks regardless of whether the content delivers. The result is a systematic pressure toward sensation over substance. [[terms/platform_mechanisms/ai_slop_public|AI Slop]] — mass AI-generated content — accelerates this: headlines can be generated at scale and tested for click performance.
 
 **Why This Matters**
 Once you see clickbait as a structural response to engagement metrics rather than a failure of journalism, you see that the problem is not the headline — it is the incentive system that makes clickbait more profitable than accuracy.
 
-**See also:** [[public/platform_mechanisms/attention_economy_public|Attention Economy]] · [[public/platform_mechanisms/recommender_systems_public|Recommender Systems]] · [[public/platform_mechanisms/ai_slop_public|AI Slop]]
+**See also:** [[terms/platform_mechanisms/attention_economy_public|Attention Economy]] · [[terms/platform_mechanisms/recommender_systems_public|Recommender Systems]] · [[terms/platform_mechanisms/ai_slop_public|AI Slop]]
 
 `#platform-mechanisms-economics` `#power` `#framing` `#digital-alertness`
 

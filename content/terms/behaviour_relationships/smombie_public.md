@@ -25,8 +25,8 @@ related_reaction:
 
 **Layer:** Consequence — Smartphone zombie; walking while staring at screen
 
-**Cause:** [[public/platform_mechanisms/attention_harvesting_public|Attention Harvesting]] · [[public/platform_mechanisms/dopamine_feedback_loops_public|Dopamine Feedback Loops]]
-**Mechanism:** [[public/behaviour_relationships/phubbing_public|Phubbing]]
+**Cause:** [[terms/platform_mechanisms/attention_harvesting_public|Attention Harvesting]] · [[terms/platform_mechanisms/dopamine_feedback_loops_public|Dopamine Feedback Loops]]
+**Mechanism:** [[terms/behaviour_relationships/phubbing_public|Phubbing]]
 **Consequence:** *—*
 **Reaction:** *—*
 
@@ -55,12 +55,12 @@ The term originated in Germany (*Smombie* was named German word of the year in 2
 The phone offers something more immediately rewarding than the physical environment in most moments. The smombie is not disengaged from life — they are intensely engaged with a different layer of it.
 
 **The Friction**
-[[public/platform_mechanisms/attention_harvesting_public|Attention Harvesting]] — the systematic extraction of attention — operates regardless of physical context. The body navigates space; attention is elsewhere. [[public/behaviour_relationships/phubbing_public|Phubbing]] is the interpersonal version; smombie is the public space version. Both are consequences of attention architecture that does not pause for the physical world.
+[[terms/platform_mechanisms/attention_harvesting_public|Attention Harvesting]] — the systematic extraction of attention — operates regardless of physical context. The body navigates space; attention is elsewhere. [[terms/behaviour_relationships/phubbing_public|Phubbing]] is the interpersonal version; smombie is the public space version. Both are consequences of attention architecture that does not pause for the physical world.
 
 **Why This Matters**
 Once you see smombie as a visible symptom of attention capture rather than individual rudeness, you see that the public space consequences of platform design are embodied — written in how people move.
 
-**See also:** [[public/behaviour_relationships/phubbing_public|Phubbing]] · [[public/platform_mechanisms/attention_harvesting_public|Attention Harvesting]] · [[public/platform_mechanisms/dopamine_feedback_loops_public|Dopamine Feedback Loops]]
+**See also:** [[terms/behaviour_relationships/phubbing_public|Phubbing]] · [[terms/platform_mechanisms/attention_harvesting_public|Attention Harvesting]] · [[terms/platform_mechanisms/dopamine_feedback_loops_public|Dopamine Feedback Loops]]
 
 `#behaviour-relationships` `#power` `#framing` `#digital-alertness`
 

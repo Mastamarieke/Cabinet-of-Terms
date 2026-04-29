@@ -26,9 +26,9 @@ related_reaction:
 
 **Layer:** Mechanism — Treating yourself as a brand; also expected of students
 
-**Cause:** [[public/platform_mechanisms/attention_economy_public|Attention Economy]] · [[public/society_power/surveillance_capitalism_public|Surveillance Capitalism]]
-**Mechanism:** [[public/students/hustle_culture_public|Hustle Culture]] · [[public/students/creator_economy_public|Creator Economy]]
-**Consequence:** [[public/students/imposter_syndrome_public|Imposter Syndrome]]
+**Cause:** [[terms/platform_mechanisms/attention_economy_public|Attention Economy]] · [[terms/society_power/surveillance_capitalism_public|Surveillance Capitalism]]
+**Mechanism:** [[terms/students/hustle_culture_public|Hustle Culture]] · [[terms/students/creator_economy_public|Creator Economy]]
+**Consequence:** [[terms/students/imposter_syndrome_public|Imposter Syndrome]]
 **Reaction:** *—*
 
 **Public entry:** this document
@@ -56,12 +56,12 @@ Tom Peters coined "The Brand Called You" in a 1997 *Fast Company* article. The c
 A coherent professional identity helps navigate labour markets. Articulating what you stand for and what you offer is genuinely useful for career development.
 
 **The Friction**
-Brand logic applied to persons converts authentic identity into strategic performance. The gap between the brand and the person — between the LinkedIn profile and the actual experience — produces [[public/students/imposter_syndrome_public|Imposter Syndrome]]. [[public/students/hustle_culture_public|Hustle Culture]] and Personal Branding are mutually reinforcing: the brand requires constant content; the content requires constant activity.
+Brand logic applied to persons converts authentic identity into strategic performance. The gap between the brand and the person — between the LinkedIn profile and the actual experience — produces [[terms/students/imposter_syndrome_public|Imposter Syndrome]]. [[terms/students/hustle_culture_public|Hustle Culture]] and Personal Branding are mutually reinforcing: the brand requires constant content; the content requires constant activity.
 
 **Why This Matters**
 Once you see Personal Branding as a platform labour requirement rather than self-expression, you see that the expectation of self-commodification is not neutral — it benefits the platforms that host and profit from the resulting content.
 
-**See also:** [[public/students/hustle_culture_public|Hustle Culture]] · [[public/students/creator_economy_public|Creator Economy]] · [[public/students/imposter_syndrome_public|Imposter Syndrome]]
+**See also:** [[terms/students/hustle_culture_public|Hustle Culture]] · [[terms/students/creator_economy_public|Creator Economy]] · [[terms/students/imposter_syndrome_public|Imposter Syndrome]]
 
 `#students` `#power` `#framing` `#digital-alertness`
 

@@ -29,10 +29,10 @@ related_reaction:
 
 **Layer:** Cause — the online ecosystem that distributes anti-feminist gender ideology as personal philosophy
 
-**Cause:** [[public/platform_mechanisms/recommender_systems_public|recommender-systems]] · [[public/platform_mechanisms/attention_harvesting_public|attention-harvesting]]
-**Mechanism:** [[public/gender_identity/smv_public|smv-sexual-market-value]] · [[public/gender_identity/blackpill_public|blackpill]] · [[public/gender_identity/podcast_bro_public|podcast-bro]]
-**Consequence:** [[public/gender_identity/incel_public|incel]] · [[public/gender_identity/looksmaxxing_public|looksmaxxing]] · [[public/gender_identity/mgtow_public|mgtow]]
-**Reaction:** [[public/gender_identity/tradwife_public|tradwife]]
+**Cause:** [[terms/platform_mechanisms/recommender_systems_public|recommender-systems]] · [[terms/platform_mechanisms/attention_harvesting_public|attention-harvesting]]
+**Mechanism:** [[terms/gender_identity/smv_public|smv-sexual-market-value]] · [[terms/gender_identity/blackpill_public|blackpill]] · [[terms/gender_identity/podcast_bro_public|podcast-bro]]
+**Consequence:** [[terms/gender_identity/incel_public|incel]] · [[terms/gender_identity/looksmaxxing_public|looksmaxxing]] · [[terms/gender_identity/mgtow_public|mgtow]]
+**Reaction:** [[terms/gender_identity/tradwife_public|tradwife]]
 
 **Public entry:** this document
 **Deep analysis:** *in production*
@@ -61,7 +61,7 @@ The direction it gives them is inward and downward. The framework — sexual mar
 **Why This Matters**
 Once you know the term, you stop seeing individual videos and start seeing a pipeline. The recommendation algorithm is not showing a boy content he searched for — it is showing him the next step in a journey someone else designed. That shift — from personal to structural — is what the term makes visible.
 
-**See also:** [[public/gender_identity/smv_public|smv-sexual-market-value]] · [[public/gender_identity/blackpill_public|blackpill]] · [[public/gender_identity/incel_public|incel]] · [[public/gender_identity/looksmaxxing_public|looksmaxxing]] · [[public/gender_identity/podcast_bro_public|podcast-bro]]
+**See also:** [[terms/gender_identity/smv_public|smv-sexual-market-value]] · [[terms/gender_identity/blackpill_public|blackpill]] · [[terms/gender_identity/incel_public|incel]] · [[terms/gender_identity/looksmaxxing_public|looksmaxxing]] · [[terms/gender_identity/podcast_bro_public|podcast-bro]]
 
 `#gender-identity` `#power` `#framing` `#digital-alertness`
 

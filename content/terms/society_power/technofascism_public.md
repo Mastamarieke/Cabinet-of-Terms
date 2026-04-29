@@ -26,10 +26,10 @@ related_reaction:
 
 **Layer:** Consequence — Coeckelbergh 2026; fusion of Big Tech and authoritarian rule
 
-**Cause:** [[public/society_power/technofeudalism_public|Technofeudalism]] · [[public/society_power/surveillance_capitalism_public|Surveillance Capitalism]]
-**Mechanism:** [[public/society_power/muskism_public|Muskism]] · [[public/society_power/cybernetic_governance_public|Cybernetic Governance]]
+**Cause:** [[terms/society_power/technofeudalism_public|Technofeudalism]] · [[terms/society_power/surveillance_capitalism_public|Surveillance Capitalism]]
+**Mechanism:** [[terms/society_power/muskism_public|Muskism]] · [[terms/society_power/cybernetic_governance_public|Cybernetic Governance]]
 **Consequence:** *—*
-**Reaction:** [[public/design_philosophy/unblackboxing_public|Unblackboxing]]
+**Reaction:** [[terms/design_philosophy/unblackboxing_public|Unblackboxing]]
 
 **Public entry:** this document
 **Deep analysis:** *not yet created*
@@ -56,12 +56,12 @@ Mark Coeckelbergh developed the concept in 2026, arguing that the convergence of
 The term has analytical appeal as a historical comparison that names the seriousness of current trends and provides vocabulary for political formations that existing categories do not capture.
 
 **The Friction**
-The historical comparison is contested: fascism has specific historical characteristics that may not map onto current developments. [[public/society_power/muskism_public|Muskism]] provides the concrete referent. Whether "fascism" is the right label is an active analytical debate.
+The historical comparison is contested: fascism has specific historical characteristics that may not map onto current developments. [[terms/society_power/muskism_public|Muskism]] provides the concrete referent. Whether "fascism" is the right label is an active analytical debate.
 
 **Why This Matters**
 Once you see Technofascism as an analytical concept rather than rhetorical escalation, you see that the question it asks is serious: what political form does the fusion of private infrastructure and authoritarian politics produce?
 
-**See also:** [[public/society_power/muskism_public|Muskism]] · [[public/society_power/cybernetic_governance_public|Cybernetic Governance]] · [[public/society_power/broligarchy_public|Broligarchy]]
+**See also:** [[terms/society_power/muskism_public|Muskism]] · [[terms/society_power/cybernetic_governance_public|Cybernetic Governance]] · [[terms/society_power/broligarchy_public|Broligarchy]]
 
 `#society-power` `#power` `#framing` `#digital-alertness`
 

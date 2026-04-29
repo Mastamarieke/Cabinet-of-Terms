@@ -26,10 +26,10 @@ related_reaction:
 
 **Layer:** Consequence — Older people giving up technology due to complexity or exclusion
 
-**Cause:** [[public/society_power/technofeudalism_public|Technofeudalism]] · [[public/platform_mechanisms/attention_economy_public|Attention Economy]]
-**Mechanism:** [[public/inclusion_ageing/ageism_digital_public|Ageism (Digital)]] · [[public/inclusion_ageing/technostress_public|Technostress]]
-**Consequence:** [[public/inclusion_ageing/digital_exclusion_public|Digital Exclusion]]
-**Reaction:** [[public/inclusion_ageing/universal_design_public|Universal Design]]
+**Cause:** [[terms/society_power/technofeudalism_public|Technofeudalism]] · [[terms/platform_mechanisms/attention_economy_public|Attention Economy]]
+**Mechanism:** [[terms/inclusion_ageing/ageism_digital_public|Ageism (Digital)]] · [[terms/inclusion_ageing/technostress_public|Technostress]]
+**Consequence:** [[terms/inclusion_ageing/digital_exclusion_public|Digital Exclusion]]
+**Reaction:** [[terms/inclusion_ageing/universal_design_public|Universal Design]]
 
 **Public entry:** this document
 **Deep analysis:** *not yet created*
@@ -56,12 +56,12 @@ Tech Abandonment as a concept emerged from research into digital inclusion and o
 Opting out of frustrating technology is a legitimate choice. Tech Abandonment can also reflect a reasonable assessment that the costs of participation outweigh the benefits.
 
 **The Friction**
-When essential services are digital-only, Tech Abandonment is not a free choice — it produces [[public/inclusion_ageing/digital_exclusion_public|Digital Exclusion]] from civic and economic life. [[public/inclusion_ageing/ageism_digital_public|Ageism (Digital)]] is the structural cause: systems designed without older users produce the frustration that leads to abandonment. [[public/inclusion_ageing/technostress_public|Technostress]] is the psychological precursor.
+When essential services are digital-only, Tech Abandonment is not a free choice — it produces [[terms/inclusion_ageing/digital_exclusion_public|Digital Exclusion]] from civic and economic life. [[terms/inclusion_ageing/ageism_digital_public|Ageism (Digital)]] is the structural cause: systems designed without older users produce the frustration that leads to abandonment. [[terms/inclusion_ageing/technostress_public|Technostress]] is the psychological precursor.
 
 **Why This Matters**
 Once you see Tech Abandonment as a rational response to poor design rather than individual incapacity, you see that the question is not how to persuade people to keep trying — it is why the systems are designed in ways that make giving up the rational choice.
 
-**See also:** [[public/inclusion_ageing/digital_exclusion_public|Digital Exclusion]] · [[public/inclusion_ageing/ageism_digital_public|Ageism (Digital)]] · [[public/inclusion_ageing/technostress_public|Technostress]] · [[public/inclusion_ageing/digital_ageing_public|Digital Ageing]]
+**See also:** [[terms/inclusion_ageing/digital_exclusion_public|Digital Exclusion]] · [[terms/inclusion_ageing/ageism_digital_public|Ageism (Digital)]] · [[terms/inclusion_ageing/technostress_public|Technostress]] · [[terms/inclusion_ageing/digital_ageing_public|Digital Ageing]]
 
 `#inclusion-accessibility-ageing` `#power` `#framing` `#digital-alertness`
 

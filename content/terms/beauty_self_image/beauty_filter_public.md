@@ -26,10 +26,10 @@ related_reaction:
 
 **Layer:** Mechanism — Real-time facial adjustment; what is still real?
 
-**Cause:** [[public/platform_mechanisms/attention_economy_public|Attention Economy]] · [[public/society_power/surveillance_capitalism_public|Surveillance Capitalism]]
-**Mechanism:** [[public/platform_mechanisms/synthetic_generation_public|Synthetic Generation]] · [[public/beauty_self_image/comparison_culture_public|Comparison Culture]]
-**Consequence:** [[public/beauty_self_image/body_dysmorphic_disorder_public|Body Dysmorphic Disorder]]
-**Reaction:** [[public/beauty_self_image/deinfluencing_public|Deinfluencing]]
+**Cause:** [[terms/platform_mechanisms/attention_economy_public|Attention Economy]] · [[terms/society_power/surveillance_capitalism_public|Surveillance Capitalism]]
+**Mechanism:** [[terms/platform_mechanisms/synthetic_generation_public|Synthetic Generation]] · [[terms/beauty_self_image/comparison_culture_public|Comparison Culture]]
+**Consequence:** [[terms/beauty_self_image/body_dysmorphic_disorder_public|Body Dysmorphic Disorder]]
+**Reaction:** [[terms/beauty_self_image/deinfluencing_public|Deinfluencing]]
 
 **Public entry:** this document
 **Deep analysis:** *not yet created*
@@ -56,12 +56,12 @@ Beauty filters emerged with Snapchat's lens technology around 2015 and became st
 Filters enable creative expression, provide confidence in video communication, and make photography accessible to people who feel self-conscious on camera.
 
 **The Friction**
-[[public/platform_mechanisms/synthetic_generation_public|Synthetic Generation]] is increasingly applied to live video. [[public/beauty_self_image/body_dysmorphic_disorder_public|Body Dysmorphic Disorder]] is documented as a consequence of sustained filter use. The filtered face becomes the reference point; the unfiltered face becomes the deviation.
+[[terms/platform_mechanisms/synthetic_generation_public|Synthetic Generation]] is increasingly applied to live video. [[terms/beauty_self_image/body_dysmorphic_disorder_public|Body Dysmorphic Disorder]] is documented as a consequence of sustained filter use. The filtered face becomes the reference point; the unfiltered face becomes the deviation.
 
 **Why This Matters**
 Once you see beauty filters as a perceptual infrastructure rather than a cosmetic tool, you see that the image of the self has been systematically altered — and that the baseline of comparison has shifted with it.
 
-**See also:** [[public/beauty_self_image/comparison_culture_public|Comparison Culture]] · [[public/beauty_self_image/body_dysmorphic_disorder_public|Body Dysmorphic Disorder]] · [[public/platform_mechanisms/synthetic_generation_public|Synthetic Generation]]
+**See also:** [[terms/beauty_self_image/comparison_culture_public|Comparison Culture]] · [[terms/beauty_self_image/body_dysmorphic_disorder_public|Body Dysmorphic Disorder]] · [[terms/platform_mechanisms/synthetic_generation_public|Synthetic Generation]]
 
 `#beauty-influencers-self-image` `#power` `#framing` `#digital-alertness`
 

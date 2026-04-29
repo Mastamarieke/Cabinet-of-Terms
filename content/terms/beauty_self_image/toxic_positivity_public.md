@@ -26,9 +26,9 @@ related_reaction:
 
 **Layer:** Mechanism — Compulsion toward positivity as norm
 
-**Cause:** [[public/platform_mechanisms/attention_economy_public|Attention Economy]] · [[public/platform_mechanisms/recommender_systems_public|Recommender Systems]]
-**Mechanism:** [[public/beauty_self_image/highlight_reel_public|Highlight Reel]] · [[public/beauty_self_image/that_girl_public|That Girl]]
-**Consequence:** [[public/beauty_self_image/comparison_culture_public|Comparison Culture]]
+**Cause:** [[terms/platform_mechanisms/attention_economy_public|Attention Economy]] · [[terms/platform_mechanisms/recommender_systems_public|Recommender Systems]]
+**Mechanism:** [[terms/beauty_self_image/highlight_reel_public|Highlight Reel]] · [[terms/beauty_self_image/that_girl_public|That Girl]]
+**Consequence:** [[terms/beauty_self_image/comparison_culture_public|Comparison Culture]]
 **Reaction:** *—*
 
 **Public entry:** this document
@@ -56,12 +56,12 @@ The term emerged in psychology and wellness discourse around 2018, describing th
 Positive framing can be genuinely helpful. Optimism, gratitude practices, and reframing negative experiences are evidence-based psychological tools.
 
 **The Friction**
-[[public/beauty_self_image/highlight_reel_public|Highlight Reel]] culture distributes the norm: only positive experiences are shareable. [[public/beauty_self_image/that_girl_public|That Girl]] aesthetics embed positivity as an identity requirement.
+[[terms/beauty_self_image/highlight_reel_public|Highlight Reel]] culture distributes the norm: only positive experiences are shareable. [[terms/beauty_self_image/that_girl_public|That Girl]] aesthetics embed positivity as an identity requirement.
 
 **Why This Matters**
 Once you see Toxic Positivity as a platform norm rather than personal preference, you see that the suppression of negative emotion serves the platform — distress is less shareable than aspiration.
 
-**See also:** [[public/beauty_self_image/highlight_reel_public|Highlight Reel]] · [[public/beauty_self_image/that_girl_public|That Girl]] · [[public/beauty_self_image/comparison_culture_public|Comparison Culture]]
+**See also:** [[terms/beauty_self_image/highlight_reel_public|Highlight Reel]] · [[terms/beauty_self_image/that_girl_public|That Girl]] · [[terms/beauty_self_image/comparison_culture_public|Comparison Culture]]
 
 `#beauty-influencers-self-image` `#power` `#framing` `#digital-alertness`
 

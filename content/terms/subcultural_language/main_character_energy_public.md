@@ -25,8 +25,8 @@ related_reaction:
 
 **Layer:** Mechanism — Framing yourself as protagonist; dual placement with Beauty & Self-Image
 
-**Cause:** [[public/platform_mechanisms/attention_economy_public|Attention Economy]] · [[public/platform_mechanisms/gamification_creep_public|Gamification Creep]]
-**Mechanism:** [[public/students/personal_branding_public|Personal Branding]]
+**Cause:** [[terms/platform_mechanisms/attention_economy_public|Attention Economy]] · [[terms/platform_mechanisms/gamification_creep_public|Gamification Creep]]
+**Mechanism:** [[terms/students/personal_branding_public|Personal Branding]]
 **Consequence:** *—*
 **Reaction:** *—*
 
@@ -55,12 +55,12 @@ The term emerged on TikTok around 2020–2021, initially as a positive self-empo
 Narrative self-framing is psychologically valuable: seeing oneself as an active agent rather than a passive subject of circumstances supports resilience and purpose.
 
 **The Friction**
-[[public/students/personal_branding_public|Personal Branding]] — treating yourself as a product — meets narrative psychology. The platform rewards content that positions the creator as protagonist: it is more engaging than ensemble or background perspectives. [[public/platform_mechanisms/attention_economy_public|Attention Economy]] logic creates structural incentives for protagonism: main characters get more attention.
+[[terms/students/personal_branding_public|Personal Branding]] — treating yourself as a product — meets narrative psychology. The platform rewards content that positions the creator as protagonist: it is more engaging than ensemble or background perspectives. [[terms/platform_mechanisms/attention_economy_public|Attention Economy]] logic creates structural incentives for protagonism: main characters get more attention.
 
 **Why This Matters**
 Once you see Main Character Energy as a platform-rewarded self-framing rather than a psychological attitude, you see that the narrative form of selfhood being rewarded is specifically the one most useful for content production — and that the platform shapes what kind of self gets amplified.
 
-**See also:** [[public/students/personal_branding_public|Personal Branding]] · [[public/platform_mechanisms/attention_economy_public|Attention Economy]] · [[public/subcultural_language/aurafarming_public|Aurafarming]]
+**See also:** [[terms/students/personal_branding_public|Personal Branding]] · [[terms/platform_mechanisms/attention_economy_public|Attention Economy]] · [[terms/subcultural_language/aurafarming_public|Aurafarming]]
 
 `#subcultural-vocabulary-platform-language` `#power` `#framing` `#digital-alertness`
 

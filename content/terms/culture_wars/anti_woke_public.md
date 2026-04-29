@@ -26,10 +26,10 @@ related_reaction:
 
 **Layer:** Mechanism — Reactive counter-force entirely defined by what it criticises
 
-**Cause:** [[public/platform_mechanisms/attention_economy_public|Attention Economy]] · [[public/platform_mechanisms/recommender_systems_public|Recommender Systems]]
-**Mechanism:** [[public/culture_wars/woke_mind_virus_public|Woke Mind Virus]] · [[public/platform_mechanisms/ragebaiting_public|Ragebaiting]]
+**Cause:** [[terms/platform_mechanisms/attention_economy_public|Attention Economy]] · [[terms/platform_mechanisms/recommender_systems_public|Recommender Systems]]
+**Mechanism:** [[terms/culture_wars/woke_mind_virus_public|Woke Mind Virus]] · [[terms/platform_mechanisms/ragebaiting_public|Ragebaiting]]
 **Consequence:** *—*
-**Reaction:** [[public/culture_wars/deplatforming_public|Deplatforming]]
+**Reaction:** [[terms/culture_wars/deplatforming_public|Deplatforming]]
 
 **Public entry:** this document
 **Deep analysis:** *not yet created*
@@ -56,12 +56,12 @@ Anti-woke as a cohesive political identity emerged from around 2020, consolidati
 For people who feel that progressive cultural norms have become coercive, Anti-Woke offers a coalition and language for resistance.
 
 **The Friction**
-[[public/culture_wars/woke_mind_virus_public|Woke Mind Virus]] and Anti-Woke are structurally codependent: each requires the other to exist. [[public/platform_mechanisms/ragebaiting_public|Ragebaiting]] profits from both.
+[[terms/culture_wars/woke_mind_virus_public|Woke Mind Virus]] and Anti-Woke are structurally codependent: each requires the other to exist. [[terms/platform_mechanisms/ragebaiting_public|Ragebaiting]] profits from both.
 
 **Why This Matters**
 Once you see Anti-Woke as a reactive identity rather than a political programme, you see that the debate it sustains serves platform engagement more than political resolution.
 
-**See also:** [[public/culture_wars/woke_mind_virus_public|Woke Mind Virus]] · [[public/platform_mechanisms/ragebaiting_public|Ragebaiting]]
+**See also:** [[terms/culture_wars/woke_mind_virus_public|Woke Mind Virus]] · [[terms/platform_mechanisms/ragebaiting_public|Ragebaiting]]
 
 `#culture-wars-political-language` `#power` `#framing` `#digital-alertness`
 

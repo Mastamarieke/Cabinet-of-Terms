@@ -24,7 +24,7 @@ related_reaction:
 
 **Layer:** Mechanism — Irreversibly lost; definitive verdict in one word
 
-**Cause:** [[public/platform_mechanisms/attention_economy_public|Attention Economy]]
+**Cause:** [[terms/platform_mechanisms/attention_economy_public|Attention Economy]]
 **Mechanism:** *—*
 **Consequence:** *—*
 **Reaction:** *—*
@@ -59,7 +59,7 @@ The verdict function of "cooked" — its finality — is part of what makes it f
 **Why This Matters**
 Once you see "cooked" as a verdictive speech act rather than a descriptive term, you see how compressed subcultural language shapes social judgment — and how the efficiency of one-word verdicts accelerates rather than enables genuine evaluation.
 
-**See also:** [[public/subcultural_language/ratiod_public|Ratio'd]] · [[public/platform_mechanisms/ragebaiting_public|Ragebaiting]]
+**See also:** [[terms/subcultural_language/ratiod_public|Ratio'd]] · [[terms/platform_mechanisms/ragebaiting_public|Ragebaiting]]
 
 `#subcultural-vocabulary-platform-language` `#power` `#framing` `#digital-alertness`
 

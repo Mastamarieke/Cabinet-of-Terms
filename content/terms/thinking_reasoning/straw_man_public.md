@@ -25,9 +25,9 @@ related_reaction:
 **Layer:** Mechanism — Attacking a weakened caricature of the counter-argument
 
 **Cause:** *—*
-**Mechanism:** [[public/thinking_reasoning/strawmanning_public|Strawmanning]]
+**Mechanism:** [[terms/thinking_reasoning/strawmanning_public|Strawmanning]]
 **Consequence:** *—*
-**Reaction:** [[public/thinking_reasoning/steel_manning_public|Steel Manning]]
+**Reaction:** [[terms/thinking_reasoning/steel_manning_public|Steel Manning]]
 
 **Public entry:** this document
 **Deep analysis:** *not yet created*
@@ -54,12 +54,12 @@ The Straw Man fallacy has been documented in informal logic and rhetoric since a
 Straw Manning wins arguments more easily than engaging with the actual position. In adversarial contexts, it is a rational strategy.
 
 **The Friction**
-Straw Manning is detectable — it requires accurate attribution of the original position to expose the distortion. In fast-moving media environments, corrections rarely reach the same audience as the original misrepresentation. [[public/thinking_reasoning/strawmanning_public|Strawmanning]] — the active deployment of this fallacy — is a documented feature of political media strategy.
+Straw Manning is detectable — it requires accurate attribution of the original position to expose the distortion. In fast-moving media environments, corrections rarely reach the same audience as the original misrepresentation. [[terms/thinking_reasoning/strawmanning_public|Strawmanning]] — the active deployment of this fallacy — is a documented feature of political media strategy.
 
 **Why This Matters**
 Once you can identify a Straw Man, you can ask: what was the actual argument, and why was it replaced? The answer reveals what the arguer could not afford to engage with directly.
 
-**See also:** [[public/thinking_reasoning/strawmanning_public|Strawmanning]] · [[public/thinking_reasoning/steel_manning_public|Steel Manning]]
+**See also:** [[terms/thinking_reasoning/strawmanning_public|Strawmanning]] · [[terms/thinking_reasoning/steel_manning_public|Steel Manning]]
 
 `#thinking-reasoning` `#power` `#framing` `#digital-alertness`
 

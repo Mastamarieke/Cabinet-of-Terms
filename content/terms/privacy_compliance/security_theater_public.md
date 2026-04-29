@@ -25,10 +25,10 @@ related_reaction:
 
 **Layer:** Mechanism — Schneier; security measures that create the appearance of protection
 
-**Cause:** [[public/society_power/surveillance_capitalism_public|Surveillance Capitalism]] · [[public/platform_mechanisms/attention_economy_public|Attention Economy]]
-**Mechanism:** [[public/privacy_compliance/privacy_washing_public|Privacy Washing]]
+**Cause:** [[terms/society_power/surveillance_capitalism_public|Surveillance Capitalism]] · [[terms/platform_mechanisms/attention_economy_public|Attention Economy]]
+**Mechanism:** [[terms/privacy_compliance/privacy_washing_public|Privacy Washing]]
 **Consequence:** *—*
-**Reaction:** [[public/design_philosophy/unblackboxing_public|Unblackboxing]]
+**Reaction:** [[terms/design_philosophy/unblackboxing_public|Unblackboxing]]
 
 **Public entry:** this document
 **Deep analysis:** *not yet created*
@@ -55,12 +55,12 @@ Bruce Schneier coined the term in 2003 to describe post-9/11 US airport security
 Visible security measures reduce anxiety. The performance of security serves a genuine social function even when the measures are not effective.
 
 **The Friction**
-[[public/privacy_compliance/privacy_washing_public|Privacy Washing]] operates by the same logic: visible privacy measures create the appearance of compliance without changing data practices. GDPR cookie banners are the paradigm case: technically compliant, practically ineffective, and designed to be dismissed. [[public/design_philosophy/unblackboxing_public|Unblackboxing]] is the counter-practice: examining what the security measure actually does versus what it claims to do.
+[[terms/privacy_compliance/privacy_washing_public|Privacy Washing]] operates by the same logic: visible privacy measures create the appearance of compliance without changing data practices. GDPR cookie banners are the paradigm case: technically compliant, practically ineffective, and designed to be dismissed. [[terms/design_philosophy/unblackboxing_public|Unblackboxing]] is the counter-practice: examining what the security measure actually does versus what it claims to do.
 
 **Why This Matters**
 Once you see Security Theater as a systemic response to regulatory pressure rather than genuine protection, you see that compliance and safety are not the same thing — and that distinguishing them requires asking what the measure actually prevents.
 
-**See also:** [[public/privacy_compliance/privacy_washing_public|Privacy Washing]] · [[public/design_philosophy/unblackboxing_public|Unblackboxing]]
+**See also:** [[terms/privacy_compliance/privacy_washing_public|Privacy Washing]] · [[terms/design_philosophy/unblackboxing_public|Unblackboxing]]
 
 `#privacy-compliance` `#power` `#framing` `#digital-alertness`
 

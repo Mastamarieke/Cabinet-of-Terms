@@ -25,8 +25,8 @@ related_reaction:
 
 **Layer:** Mechanism — EU regulation as de facto global standard
 
-**Cause:** [[public/society_power/surveillance_capitalism_public|Surveillance Capitalism]] · [[public/society_power/technofeudalism_public|Technofeudalism]]
-**Mechanism:** [[public/privacy_compliance/vendor_lock_in_public|Vendor Lock-in]]
+**Cause:** [[terms/society_power/surveillance_capitalism_public|Surveillance Capitalism]] · [[terms/society_power/technofeudalism_public|Technofeudalism]]
+**Mechanism:** [[terms/privacy_compliance/vendor_lock_in_public|Vendor Lock-in]]
 **Consequence:** *—*
 **Reaction:** *—*
 
@@ -55,12 +55,12 @@ Anu Bradford coined the term in a 2012 article and developed it in *The Brussels
 The Brussels Effect extends EU consumer protections to non-EU users without requiring global treaty negotiations. It is regulatory power without proportional political power.
 
 **The Friction**
-The Brussels Effect depends on companies valuing EU market access enough to comply. For companies that treat EU fines as a cost of doing business — as Meta has repeatedly demonstrated — the effect is limited. [[public/privacy_compliance/privacy_washing_public|Privacy Washing]] is partly a response: surface compliance without behavioural change.
+The Brussels Effect depends on companies valuing EU market access enough to comply. For companies that treat EU fines as a cost of doing business — as Meta has repeatedly demonstrated — the effect is limited. [[terms/privacy_compliance/privacy_washing_public|Privacy Washing]] is partly a response: surface compliance without behavioural change.
 
 **Why This Matters**
 Once you see the Brussels Effect as a mechanism of regulatory leverage rather than a democratic achievement, you see both its power — it has genuinely shaped global data practices — and its limits: it works through market logic, not democratic accountability.
 
-**See also:** [[public/privacy_compliance/privacy_washing_public|Privacy Washing]] · [[public/privacy_compliance/vendor_lock_in_public|Vendor Lock-in]] · [[public/society_power/surveillance_capitalism_public|Surveillance Capitalism]]
+**See also:** [[terms/privacy_compliance/privacy_washing_public|Privacy Washing]] · [[terms/privacy_compliance/vendor_lock_in_public|Vendor Lock-in]] · [[terms/society_power/surveillance_capitalism_public|Surveillance Capitalism]]
 
 `#privacy-compliance` `#power` `#framing` `#digital-alertness`
 

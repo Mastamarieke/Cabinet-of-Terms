@@ -25,8 +25,8 @@ related_reaction:
 
 **Layer:** Consequence — Amplified by curated success images of fellow students
 
-**Cause:** [[public/platform_mechanisms/attention_economy_public|Attention Economy]] · [[public/students/hustle_culture_public|Hustle Culture]]
-**Mechanism:** [[public/students/personal_branding_public|Personal Branding]]
+**Cause:** [[terms/platform_mechanisms/attention_economy_public|Attention Economy]] · [[terms/students/hustle_culture_public|Hustle Culture]]
+**Mechanism:** [[terms/students/personal_branding_public|Personal Branding]]
 **Consequence:** *—*
 **Reaction:** *—*
 
@@ -55,12 +55,12 @@ Psychologists Pauline Clance and Suzanne Imes first described the phenomenon in 
 Naming the experience is genuinely useful: recognising that the feeling is common and not evidence of actual incompetence reduces its power.
 
 **The Friction**
-[[public/students/personal_branding_public|Personal Branding]] — constructing a polished public identity — means everyone's visible self is curated. The comparison that produces imposter syndrome is between your private experience and others' public performance. [[public/students/hustle_culture_public|Hustle Culture]] amplifies it: if constant productivity is the norm, any moment of uncertainty feels like failure.
+[[terms/students/personal_branding_public|Personal Branding]] — constructing a polished public identity — means everyone's visible self is curated. The comparison that produces imposter syndrome is between your private experience and others' public performance. [[terms/students/hustle_culture_public|Hustle Culture]] amplifies it: if constant productivity is the norm, any moment of uncertainty feels like failure.
 
 **Why This Matters**
 Once you see imposter syndrome as partly a structural response to platform environments rather than purely individual psychology, you see that the solution is not only individual confidence-building — it is changing what gets made visible.
 
-**See also:** [[public/students/personal_branding_public|Personal Branding]] · [[public/students/hustle_culture_public|Hustle Culture]]
+**See also:** [[terms/students/personal_branding_public|Personal Branding]] · [[terms/students/hustle_culture_public|Hustle Culture]]
 
 `#students` `#power` `#framing` `#digital-alertness`
 

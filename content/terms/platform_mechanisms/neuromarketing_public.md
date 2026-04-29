@@ -26,10 +26,10 @@ related_reaction:
 
 **Layer:** Mechanism — Measuring brain activity for marketing
 
-**Cause:** [[public/platform_mechanisms/attention_economy_public|Attention Economy]] · [[public/society_power/surveillance_capitalism_public|Surveillance Capitalism]]
-**Mechanism:** [[public/platform_mechanisms/dopamine_feedback_loops_public|Dopamine Feedback Loops]] · [[public/platform_mechanisms/dark_patterns_public|Dark Patterns]]
-**Consequence:** [[public/behaviour_relationships/cognitive_surrender_public|Cognitive Surrender]]
-**Reaction:** [[public/design_philosophy/unblackboxing_public|Unblackboxing]]
+**Cause:** [[terms/platform_mechanisms/attention_economy_public|Attention Economy]] · [[terms/society_power/surveillance_capitalism_public|Surveillance Capitalism]]
+**Mechanism:** [[terms/platform_mechanisms/dopamine_feedback_loops_public|Dopamine Feedback Loops]] · [[terms/platform_mechanisms/dark_patterns_public|Dark Patterns]]
+**Consequence:** [[terms/behaviour_relationships/cognitive_surrender_public|Cognitive Surrender]]
+**Reaction:** [[terms/design_philosophy/unblackboxing_public|Unblackboxing]]
 
 **Public entry:** this document
 **Deep analysis:** *not yet created*
@@ -56,12 +56,12 @@ Neuromarketing emerged as a field in the early 2000s when brain imaging became a
 Understanding how people actually respond to design, rather than how they say they do, produces better products and more relevant communication.
 
 **The Friction**
-The optimisation target is not user satisfaction — it is conversion. [[public/platform_mechanisms/dopamine_feedback_loops_public|Dopamine Feedback Loops]] — variable reward schedules — are partly derived from neuroscientific research. [[public/platform_mechanisms/dark_patterns_public|Dark Patterns]] — interface design that exploits cognitive biases — are applied neuroscience. The science serves the platform's engagement goals, not the user's.
+The optimisation target is not user satisfaction — it is conversion. [[terms/platform_mechanisms/dopamine_feedback_loops_public|Dopamine Feedback Loops]] — variable reward schedules — are partly derived from neuroscientific research. [[terms/platform_mechanisms/dark_patterns_public|Dark Patterns]] — interface design that exploits cognitive biases — are applied neuroscience. The science serves the platform's engagement goals, not the user's.
 
 **Why This Matters**
 Once you see neuromarketing as systematic exploitation of cognitive architecture rather than design research, you see that the interface you use has been optimised against your own unconscious responses.
 
-**See also:** [[public/platform_mechanisms/dopamine_feedback_loops_public|Dopamine Feedback Loops]] · [[public/platform_mechanisms/dark_patterns_public|Dark Patterns]] · [[public/platform_mechanisms/attention_economy_public|Attention Economy]]
+**See also:** [[terms/platform_mechanisms/dopamine_feedback_loops_public|Dopamine Feedback Loops]] · [[terms/platform_mechanisms/dark_patterns_public|Dark Patterns]] · [[terms/platform_mechanisms/attention_economy_public|Attention Economy]]
 
 `#platform-mechanisms-economics` `#power` `#framing` `#digital-alertness`
 

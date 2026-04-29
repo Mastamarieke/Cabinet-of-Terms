@@ -24,10 +24,10 @@ related_reaction:
 
 **Layer:** Consequence — mgtow
 
-**Cause:** [[public/gender_identity/manosphere_public|Manosphere]] · [[public/gender_identity/blackpill_public|Blackpill]]
-**Mechanism:** [[public/gender_identity/smv_public|SMV]] · [[public/gender_identity/hypergamy_public|Hypergamy]]
-**Consequence:** [[public/gender_identity/incel_public|Incel]]
-**Reaction:** [[public/culture_wars/deplatforming_public|Deplatforming]]
+**Cause:** [[terms/gender_identity/manosphere_public|Manosphere]] · [[terms/gender_identity/blackpill_public|Blackpill]]
+**Mechanism:** [[terms/gender_identity/smv_public|SMV]] · [[terms/gender_identity/hypergamy_public|Hypergamy]]
+**Consequence:** [[terms/gender_identity/incel_public|Incel]]
+**Reaction:** [[terms/culture_wars/deplatforming_public|Deplatforming]]
 
 **Public entry:** this document
 **Deep analysis:** *not yet created*
@@ -54,12 +54,12 @@ MGTOW emerged in online forums in the mid-2000s as a response to men's rights di
 For men who have experienced painful relationships or rejection, MGTOW offers a framework that reframes loss as choice. Withdrawal becomes sovereignty. The appeal is genuine: autonomy and self-sufficiency are real values.
 
 **The Friction**
-[[public/gender_identity/blackpill_public|Blackpill]] — the deterministic worldview that the system is rigged — is the ideological foundation. MGTOW accepts the blackpill conclusion and draws a different response: not rage, but exit. But the exit is still defined entirely by the thing being exited. The identity remains structured around women, even in their absence.
+[[terms/gender_identity/blackpill_public|Blackpill]] — the deterministic worldview that the system is rigged — is the ideological foundation. MGTOW accepts the blackpill conclusion and draws a different response: not rage, but exit. But the exit is still defined entirely by the thing being exited. The identity remains structured around women, even in their absence.
 
 **Why This Matters**
 Once you see MGTOW as a consequence rather than a philosophy, you see that the "going their own way" is not independence — it is the final stage of a pipeline that began with a search for belonging.
 
-**See also:** [[public/gender_identity/manosphere_public|Manosphere]] · [[public/gender_identity/blackpill_public|Blackpill]] · [[public/gender_identity/incel_public|Incel]] · [[public/gender_identity/smv_public|SMV]]
+**See also:** [[terms/gender_identity/manosphere_public|Manosphere]] · [[terms/gender_identity/blackpill_public|Blackpill]] · [[terms/gender_identity/incel_public|Incel]] · [[terms/gender_identity/smv_public|SMV]]
 
 `#gender-identity` `#power` `#framing` `#digital-alertness`
 

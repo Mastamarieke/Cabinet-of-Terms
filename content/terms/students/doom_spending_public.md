@@ -25,8 +25,8 @@ related_reaction:
 
 **Layer:** Consequence — Spending money as an emotional response to future anxiety
 
-**Cause:** [[public/platform_mechanisms/attention_economy_public|Attention Economy]] · [[public/behaviour_relationships/doomscrolling_public|Doomscrolling]]
-**Mechanism:** [[public/platform_mechanisms/dopamine_feedback_loops_public|Dopamine Feedback Loops]]
+**Cause:** [[terms/platform_mechanisms/attention_economy_public|Attention Economy]] · [[terms/behaviour_relationships/doomscrolling_public|Doomscrolling]]
+**Mechanism:** [[terms/platform_mechanisms/dopamine_feedback_loops_public|Dopamine Feedback Loops]]
 **Consequence:** *—*
 **Reaction:** *—*
 
@@ -55,12 +55,12 @@ The term emerged in financial media around 2023, documenting a pattern in younge
 Present pleasure is real. When the future feels genuinely uncertain, optimising for present experience is not irrational. The jacket exists now.
 
 **The Friction**
-[[public/behaviour_relationships/doomscrolling_public|Doomscrolling]] — compulsive consumption of negative news — creates the anxiety that doom spending temporarily relieves. [[public/platform_mechanisms/dopamine_feedback_loops_public|Dopamine Feedback Loops]] operate in e-commerce as effectively as in social media: the purchase produces a brief reward that sustains the pattern. Platforms that generate the anxiety and platforms that offer the retail relief are often the same ecosystem.
+[[terms/behaviour_relationships/doomscrolling_public|Doomscrolling]] — compulsive consumption of negative news — creates the anxiety that doom spending temporarily relieves. [[terms/platform_mechanisms/dopamine_feedback_loops_public|Dopamine Feedback Loops]] operate in e-commerce as effectively as in social media: the purchase produces a brief reward that sustains the pattern. Platforms that generate the anxiety and platforms that offer the retail relief are often the same ecosystem.
 
 **Why This Matters**
 Once you see doom spending as a structural response to designed anxiety rather than individual impulsivity, you see that the platforms generating dread and the platforms selling relief are frequently owned by the same capital.
 
-**See also:** [[public/behaviour_relationships/doomscrolling_public|Doomscrolling]] · [[public/platform_mechanisms/dopamine_feedback_loops_public|Dopamine Feedback Loops]]
+**See also:** [[terms/behaviour_relationships/doomscrolling_public|Doomscrolling]] · [[terms/platform_mechanisms/dopamine_feedback_loops_public|Dopamine Feedback Loops]]
 
 `#students` `#power` `#framing` `#digital-alertness`
 

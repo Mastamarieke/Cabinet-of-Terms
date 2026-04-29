@@ -26,9 +26,9 @@ related_reaction:
 
 **Layer:** Mechanism — Networks of automated accounts for information manipulation
 
-**Cause:** [[public/society_power/surveillance_capitalism_public|Surveillance Capitalism]] · [[public/platform_mechanisms/attention_economy_public|Attention Economy]]
-**Mechanism:** [[public/platform_mechanisms/microtargeting_public|Microtargeting]] · [[public/platform_mechanisms/recommender_systems_public|Recommender Systems]]
-**Consequence:** [[public/culture_wars/deplatforming_public|Deplatforming]]
+**Cause:** [[terms/society_power/surveillance_capitalism_public|Surveillance Capitalism]] · [[terms/platform_mechanisms/attention_economy_public|Attention Economy]]
+**Mechanism:** [[terms/platform_mechanisms/microtargeting_public|Microtargeting]] · [[terms/platform_mechanisms/recommender_systems_public|Recommender Systems]]
+**Consequence:** [[terms/culture_wars/deplatforming_public|Deplatforming]]
 **Reaction:** *—*
 
 **Public entry:** this document
@@ -56,12 +56,12 @@ Bot farms emerged alongside social media platforms as actors discovered that eng
 There is no legitimate appeal from the perspective of users — but for operators, bot farms offer cheap amplification and the appearance of social proof.
 
 **The Friction**
-[[public/platform_mechanisms/recommender_systems_public|Recommender Systems]] — algorithms that optimise for engagement signals — are vulnerable to manipulation by bot farms because they cannot reliably distinguish authentic from artificial engagement. The platforms that host bot farms also profit from the engagement they generate. Moderation is structurally lagging.
+[[terms/platform_mechanisms/recommender_systems_public|Recommender Systems]] — algorithms that optimise for engagement signals — are vulnerable to manipulation by bot farms because they cannot reliably distinguish authentic from artificial engagement. The platforms that host bot farms also profit from the engagement they generate. Moderation is structurally lagging.
 
 **Why This Matters**
 Once you see bot farms as infrastructure rather than aberration, you see that the consensus you observe online is not a sample of public opinion — it is a managed environment in which authentic and artificial signals are deliberately mixed.
 
-**See also:** [[public/platform_mechanisms/microtargeting_public|Microtargeting]] · [[public/platform_mechanisms/recommender_systems_public|Recommender Systems]] · [[public/platform_mechanisms/attention_economy_public|Attention Economy]]
+**See also:** [[terms/platform_mechanisms/microtargeting_public|Microtargeting]] · [[terms/platform_mechanisms/recommender_systems_public|Recommender Systems]] · [[terms/platform_mechanisms/attention_economy_public|Attention Economy]]
 
 `#platform-mechanisms-economics` `#power` `#framing` `#digital-alertness`
 

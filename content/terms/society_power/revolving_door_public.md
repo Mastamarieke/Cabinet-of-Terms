@@ -25,10 +25,10 @@ related_reaction:
 
 **Layer:** Mechanism — Moving back and forth between government and private sector
 
-**Cause:** [[public/society_power/technofeudalism_public|Technofeudalism]] · [[public/society_power/surveillance_capitalism_public|Surveillance Capitalism]]
-**Mechanism:** [[public/society_power/military_industrial_complex_public|Military-Industrial Complex]]
+**Cause:** [[terms/society_power/technofeudalism_public|Technofeudalism]] · [[terms/society_power/surveillance_capitalism_public|Surveillance Capitalism]]
+**Mechanism:** [[terms/society_power/military_industrial_complex_public|Military-Industrial Complex]]
 **Consequence:** *—*
-**Reaction:** [[public/design_philosophy/unblackboxing_public|Unblackboxing]]
+**Reaction:** [[terms/design_philosophy/unblackboxing_public|Unblackboxing]]
 
 **Public entry:** this document
 **Deep analysis:** *not yet created*
@@ -55,12 +55,12 @@ The term has been used in political science since the 1970s. In the tech sector,
 Industry expertise is valuable in regulatory positions. Attracting capable people to government service requires competitive compensation — which the revolving door provides.
 
 **The Friction**
-The conflict of interest is structural: regulators who expect industry employment after government service have incentives to regulate lightly. The [[public/society_power/military_industrial_complex_public|Military-Industrial Complex]] depends on the revolving door as its personnel mechanism.
+The conflict of interest is structural: regulators who expect industry employment after government service have incentives to regulate lightly. The [[terms/society_power/military_industrial_complex_public|Military-Industrial Complex]] depends on the revolving door as its personnel mechanism.
 
 **Why This Matters**
 Once you see the Revolving Door as a structural feature of regulatory capture, you see that the question is not whether regulators can be trusted — it is what structures create the conditions for trustworthy oversight.
 
-**See also:** [[public/society_power/military_industrial_complex_public|Military-Industrial Complex]] · [[public/society_power/technofeudalism_public|Technofeudalism]]
+**See also:** [[terms/society_power/military_industrial_complex_public|Military-Industrial Complex]] · [[terms/society_power/technofeudalism_public|Technofeudalism]]
 
 `#society-power` `#power` `#framing` `#digital-alertness`
 

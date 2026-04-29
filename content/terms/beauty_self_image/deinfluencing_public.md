@@ -26,8 +26,8 @@ related_reaction:
 
 **Layer:** Reaction — Critique of overconsumption via the same platform logic
 
-**Cause:** [[public/platform_mechanisms/attention_economy_public|Attention Economy]] · [[public/society_power/surveillance_capitalism_public|Surveillance Capitalism]]
-**Mechanism:** [[public/beauty_self_image/influencer_public|Influencer]] · [[public/platform_mechanisms/recommender_systems_public|Recommender Systems]]
+**Cause:** [[terms/platform_mechanisms/attention_economy_public|Attention Economy]] · [[terms/society_power/surveillance_capitalism_public|Surveillance Capitalism]]
+**Mechanism:** [[terms/beauty_self_image/influencer_public|Influencer]] · [[terms/platform_mechanisms/recommender_systems_public|Recommender Systems]]
 **Consequence:** *—*
 **Reaction:** *—*
 
@@ -56,12 +56,12 @@ Deinfluencing emerged as a TikTok trend in early 2023. Brands quickly adopted th
 Honest product criticism is genuinely valuable. Deinfluencing can save audiences money and reduce unnecessary consumption.
 
 **The Friction**
-[[public/appropriated_counter_force/digital_detox_public|Digital Detox]] logic applies: the counter-movement is absorbed into the system it critiques. Deinfluencing content is optimised for engagement, distributed through algorithms, and monetisable. The critique of influencer culture becomes a new influencer category.
+[[terms/appropriated_counter_force/digital_detox_public|Digital Detox]] logic applies: the counter-movement is absorbed into the system it critiques. Deinfluencing content is optimised for engagement, distributed through algorithms, and monetisable. The critique of influencer culture becomes a new influencer category.
 
 **Why This Matters**
 Once you see deinfluencing as recuperation rather than resistance, you see how the platform economy absorbs its own critique — and how authenticity itself becomes a marketable quality.
 
-**See also:** [[public/beauty_self_image/influencer_public|Influencer]] · [[public/appropriated_counter_force/digital_detox_public|Digital Detox]] · [[public/beauty_self_image/comparison_culture_public|Comparison Culture]]
+**See also:** [[terms/beauty_self_image/influencer_public|Influencer]] · [[terms/appropriated_counter_force/digital_detox_public|Digital Detox]] · [[terms/beauty_self_image/comparison_culture_public|Comparison Culture]]
 
 `#beauty-influencers-self-image` `#power` `#framing` `#digital-alertness`
 

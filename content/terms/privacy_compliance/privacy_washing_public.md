@@ -25,10 +25,10 @@ related_reaction:
 
 **Layer:** Mechanism — Privacy rhetoric as marketing without behavioural change
 
-**Cause:** [[public/society_power/surveillance_capitalism_public|Surveillance Capitalism]] · [[public/platform_mechanisms/attention_economy_public|Attention Economy]]
-**Mechanism:** [[public/privacy_compliance/security_theater_public|Security Theater]]
+**Cause:** [[terms/society_power/surveillance_capitalism_public|Surveillance Capitalism]] · [[terms/platform_mechanisms/attention_economy_public|Attention Economy]]
+**Mechanism:** [[terms/privacy_compliance/security_theater_public|Security Theater]]
 **Consequence:** *—*
-**Reaction:** [[public/design_philosophy/unblackboxing_public|Unblackboxing]]
+**Reaction:** [[terms/design_philosophy/unblackboxing_public|Unblackboxing]]
 
 **Public entry:** this document
 **Deep analysis:** *not yet created*
@@ -55,12 +55,12 @@ Privacy Washing emerged as a critical term alongside increased regulatory attent
 Consumer demand for privacy is real, and companies that credibly deliver it deserve to communicate that. The problem is not the communication — it is the gap between communication and practice.
 
 **The Friction**
-[[public/privacy_compliance/security_theater_public|Security Theater]] — security measures that create the appearance of protection — is the operational parallel. GDPR cookie consent banners that make data collection opt-out by default while claiming user control are a documented example. [[public/society_power/surveillance_capitalism_public|Surveillance Capitalism]] continues; the branding changes.
+[[terms/privacy_compliance/security_theater_public|Security Theater]] — security measures that create the appearance of protection — is the operational parallel. GDPR cookie consent banners that make data collection opt-out by default while claiming user control are a documented example. [[terms/society_power/surveillance_capitalism_public|Surveillance Capitalism]] continues; the branding changes.
 
 **Why This Matters**
 Once you see Privacy Washing as a marketing category rather than a privacy failure, you see that the solution is not more privacy branding — it is the ability to verify claims against practice.
 
-**See also:** [[public/privacy_compliance/security_theater_public|Security Theater]] · [[public/society_power/surveillance_capitalism_public|Surveillance Capitalism]] · [[public/design_philosophy/unblackboxing_public|Unblackboxing]]
+**See also:** [[terms/privacy_compliance/security_theater_public|Security Theater]] · [[terms/society_power/surveillance_capitalism_public|Surveillance Capitalism]] · [[terms/design_philosophy/unblackboxing_public|Unblackboxing]]
 
 `#privacy-compliance` `#power` `#framing` `#digital-alertness`
 

@@ -26,10 +26,10 @@ related_reaction:
 
 **Layer:** Mechanism — Fitness as content; body as platform
 
-**Cause:** [[public/platform_mechanisms/attention_economy_public|Attention Economy]] · [[public/society_power/surveillance_capitalism_public|Surveillance Capitalism]]
-**Mechanism:** [[public/students/personal_branding_public|Personal Branding]] · [[public/platform_mechanisms/gamification_creep_public|Gamification Creep]]
-**Consequence:** [[public/beauty_self_image/comparison_culture_public|Comparison Culture]]
-**Reaction:** [[public/beauty_self_image/deinfluencing_public|Deinfluencing]]
+**Cause:** [[terms/platform_mechanisms/attention_economy_public|Attention Economy]] · [[terms/society_power/surveillance_capitalism_public|Surveillance Capitalism]]
+**Mechanism:** [[terms/students/personal_branding_public|Personal Branding]] · [[terms/platform_mechanisms/gamification_creep_public|Gamification Creep]]
+**Consequence:** [[terms/beauty_self_image/comparison_culture_public|Comparison Culture]]
+**Reaction:** [[terms/beauty_self_image/deinfluencing_public|Deinfluencing]]
 
 **Public entry:** this document
 **Deep analysis:** *not yet created*
@@ -56,12 +56,12 @@ Fitfluencers emerged as a recognisable category on Instagram from around 2012, w
 Fitness content can genuinely motivate and inform. Access to free workout programmes, nutrition advice, and community support has real value.
 
 **The Friction**
-[[public/students/personal_branding_public|Personal Branding]] — treating yourself as a product — meets body culture. The fitfluencer's body is simultaneously their identity and their commercial asset. [[public/beauty_self_image/comparison_culture_public|Comparison Culture]] — permanent comparison as a platform effect — is amplified: the feed becomes a constant stream of optimised bodies presented as achievable.
+[[terms/students/personal_branding_public|Personal Branding]] — treating yourself as a product — meets body culture. The fitfluencer's body is simultaneously their identity and their commercial asset. [[terms/beauty_self_image/comparison_culture_public|Comparison Culture]] — permanent comparison as a platform effect — is amplified: the feed becomes a constant stream of optimised bodies presented as achievable.
 
 **Why This Matters**
 Once you see the fitfluencer as a labour category rather than a lifestyle, you see that the body being optimised is also the infrastructure being monetised — and that the audience's aspirational comparison is the product being sold to advertisers.
 
-**See also:** [[public/beauty_self_image/comparison_culture_public|Comparison Culture]] · [[public/beauty_self_image/highlight_reel_public|Highlight Reel]] · [[public/students/personal_branding_public|Personal Branding]]
+**See also:** [[terms/beauty_self_image/comparison_culture_public|Comparison Culture]] · [[terms/beauty_self_image/highlight_reel_public|Highlight Reel]] · [[terms/students/personal_branding_public|Personal Branding]]
 
 `#beauty-influencers-self-image` `#power` `#framing` `#digital-alertness`
 

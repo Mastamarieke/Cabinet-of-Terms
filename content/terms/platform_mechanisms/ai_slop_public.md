@@ -26,9 +26,9 @@ related_reaction:
 
 **Layer:** Consequence — Mass AI-generated content of low quality
 
-**Cause:** [[public/platform_mechanisms/attention_economy_public|Attention Economy]] · [[public/society_power/surveillance_capitalism_public|Surveillance Capitalism]]
-**Mechanism:** [[public/platform_mechanisms/synthetic_generation_public|Synthetic Generation]] · [[public/platform_mechanisms/recommender_systems_public|Recommender Systems]]
-**Consequence:** [[public/platform_mechanisms/age_of_average_public|Age of Average]]
+**Cause:** [[terms/platform_mechanisms/attention_economy_public|Attention Economy]] · [[terms/society_power/surveillance_capitalism_public|Surveillance Capitalism]]
+**Mechanism:** [[terms/platform_mechanisms/synthetic_generation_public|Synthetic Generation]] · [[terms/platform_mechanisms/recommender_systems_public|Recommender Systems]]
+**Consequence:** [[terms/platform_mechanisms/age_of_average_public|Age of Average]]
 **Reaction:** *—*
 
 **Public entry:** this document
@@ -56,12 +56,12 @@ The term gained traction in 2023–2024 as large language models enabled the ind
 AI-generated content is cheap, fast, and often good enough. For organisations under pressure to publish continuously, the efficiency is real.
 
 **The Friction**
-[[public/platform_mechanisms/recommender_systems_public|Recommender Systems]] — algorithms that optimise for engagement — cannot reliably distinguish AI Slop from genuine content. The result is an information environment where volume overwhelms signal. [[public/platform_mechanisms/age_of_average_public|Age of Average]] — the algorithmic convergence toward what performs at average scale — accelerates: if slop performs, slop is rewarded.
+[[terms/platform_mechanisms/recommender_systems_public|Recommender Systems]] — algorithms that optimise for engagement — cannot reliably distinguish AI Slop from genuine content. The result is an information environment where volume overwhelms signal. [[terms/platform_mechanisms/age_of_average_public|Age of Average]] — the algorithmic convergence toward what performs at average scale — accelerates: if slop performs, slop is rewarded.
 
 **Why This Matters**
 Once you see AI Slop as a structural condition rather than a quality problem, you stop asking "is this real?" and start asking what an information environment looks like when the cost of producing noise approaches zero.
 
-**See also:** [[public/platform_mechanisms/synthetic_generation_public|Synthetic Generation]] · [[public/platform_mechanisms/recommender_systems_public|Recommender Systems]] · [[public/platform_mechanisms/age_of_average_public|Age of Average]]
+**See also:** [[terms/platform_mechanisms/synthetic_generation_public|Synthetic Generation]] · [[terms/platform_mechanisms/recommender_systems_public|Recommender Systems]] · [[terms/platform_mechanisms/age_of_average_public|Age of Average]]
 
 `#platform-mechanisms-economics` `#power` `#framing` `#digital-alertness`
 

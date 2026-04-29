@@ -25,8 +25,8 @@ related_reaction:
 
 **Layer:** Mechanism — Privacy as a paid feature; surveillance as the price of poverty
 
-**Cause:** [[public/society_power/surveillance_capitalism_public|Surveillance Capitalism]] · [[public/society_power/technofeudalism_public|Technofeudalism]]
-**Mechanism:** [[public/privacy_compliance/privacy_washing_public|Privacy Washing]]
+**Cause:** [[terms/society_power/surveillance_capitalism_public|Surveillance Capitalism]] · [[terms/society_power/technofeudalism_public|Technofeudalism]]
+**Mechanism:** [[terms/privacy_compliance/privacy_washing_public|Privacy Washing]]
 **Consequence:** *—*
 **Reaction:** *—*
 
@@ -55,12 +55,12 @@ The model became explicit with Meta's 2023 announcement of ad-free subscriptions
 Subscription models allow platforms to offer services without advertising. Users who value privacy and can afford to pay benefit from cleaner experiences.
 
 **The Friction**
-[[public/society_power/surveillance_capitalism_public|Surveillance Capitalism]] is redistributed rather than dismantled: those with money opt out; those without subsidise the system with their data. Privacy becomes a class privilege. [[public/privacy_compliance/privacy_washing_public|Privacy Washing]] accompanies the model: the paid tier is marketed as privacy-respecting while the free tier continues unchanged.
+[[terms/society_power/surveillance_capitalism_public|Surveillance Capitalism]] is redistributed rather than dismantled: those with money opt out; those without subsidise the system with their data. Privacy becomes a class privilege. [[terms/privacy_compliance/privacy_washing_public|Privacy Washing]] accompanies the model: the paid tier is marketed as privacy-respecting while the free tier continues unchanged.
 
 **Why This Matters**
 Once you see Privacy as a Premium as a structural feature of surveillance capitalism rather than a consumer choice, you see that the model systematically extracts more data from those with fewer resources.
 
-**See also:** [[public/society_power/surveillance_capitalism_public|Surveillance Capitalism]] · [[public/privacy_compliance/privacy_washing_public|Privacy Washing]] · [[public/society_power/technofeudalism_public|Technofeudalism]]
+**See also:** [[terms/society_power/surveillance_capitalism_public|Surveillance Capitalism]] · [[terms/privacy_compliance/privacy_washing_public|Privacy Washing]] · [[terms/society_power/technofeudalism_public|Technofeudalism]]
 
 `#privacy-compliance` `#power` `#framing` `#digital-alertness`
 

@@ -13,7 +13,7 @@ Analytical instruments for critical thinking about language and argumentation.
 
 ## Public Entries
 
-[[public/thinking_reasoning/cynefin_framework_public|Cynefin Framework]] · [[public/thinking_reasoning/transformative_learning_theory_public|Transformative Learning Theory]] · [[public/thinking_reasoning/steel_manning_public|Steel Manning]] · [[public/thinking_reasoning/straw_man_public|Straw Man]] · [[public/thinking_reasoning/strawmanning_public|Strawmanning]] · [[public/thinking_reasoning/technology_readiness_level_public|Technology Readiness Level]]
+[[terms/thinking_reasoning/cynefin_framework_public|Cynefin Framework]] · [[terms/thinking_reasoning/transformative_learning_theory_public|Transformative Learning Theory]] · [[terms/thinking_reasoning/steel_manning_public|Steel Manning]] · [[terms/thinking_reasoning/straw_man_public|Straw Man]] · [[terms/thinking_reasoning/strawmanning_public|Strawmanning]] · [[terms/thinking_reasoning/technology_readiness_level_public|Technology Readiness Level]]
 
 ---
 

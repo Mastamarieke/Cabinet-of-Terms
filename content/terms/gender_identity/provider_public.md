@@ -24,10 +24,10 @@ related_reaction:
 
 **Layer:** Mechanism — provider
 
-**Cause:** [[public/gender_identity/manosphere_public|Manosphere]] · [[public/gender_identity/womanosphere_public|Womanosphere]]
-**Mechanism:** [[public/gender_identity/smv_public|SMV]] · [[public/gender_identity/hypergamy_public|Hypergamy]] · [[public/gender_identity/tradwife_public|Tradwife]]
-**Consequence:** [[public/gender_identity/stay_at_home_girlfriend_public|SAHG]]
-**Reaction:** [[public/culture_wars/deplatforming_public|Deplatforming]]
+**Cause:** [[terms/gender_identity/manosphere_public|Manosphere]] · [[terms/gender_identity/womanosphere_public|Womanosphere]]
+**Mechanism:** [[terms/gender_identity/smv_public|SMV]] · [[terms/gender_identity/hypergamy_public|Hypergamy]] · [[terms/gender_identity/tradwife_public|Tradwife]]
+**Consequence:** [[terms/gender_identity/stay_at_home_girlfriend_public|SAHG]]
+**Reaction:** [[terms/culture_wars/deplatforming_public|Deplatforming]]
 
 **Public entry:** this document
 **Deep analysis:** *not yet created*
@@ -54,12 +54,12 @@ Provider as a gendered role has historical roots in breadwinner ideologies. It w
 The clarity of defined roles appeals to people exhausted by ambiguity. For men, being a provider offers a legible identity. For women in tradwife discourse, having a provider offers security and purpose.
 
 **The Friction**
-The exchange contract framing reveals what the role conceals: it converts a relationship into a transaction. [[public/gender_identity/smv_public|SMV]] — Sexual Market Value logic — makes both parties into commodities with quantifiable worth. [[public/gender_identity/tradwife_public|Tradwife]] content distributes this framing as aspiration, while [[public/gender_identity/hypergamy_public|Hypergamy]] doctrine tells men that women will leave when a better provider appears.
+The exchange contract framing reveals what the role conceals: it converts a relationship into a transaction. [[terms/gender_identity/smv_public|SMV]] — Sexual Market Value logic — makes both parties into commodities with quantifiable worth. [[terms/gender_identity/tradwife_public|Tradwife]] content distributes this framing as aspiration, while [[terms/gender_identity/hypergamy_public|Hypergamy]] doctrine tells men that women will leave when a better provider appears.
 
 **Why This Matters**
 Once you see provider as a market role rather than a relationship dynamic, you see how the same framework that promises stability also produces the anxiety that destabilises it.
 
-**See also:** [[public/gender_identity/smv_public|SMV]] · [[public/gender_identity/tradwife_public|Tradwife]] · [[public/gender_identity/womanosphere_public|Womanosphere]] · [[public/gender_identity/hypergamy_public|Hypergamy]]
+**See also:** [[terms/gender_identity/smv_public|SMV]] · [[terms/gender_identity/tradwife_public|Tradwife]] · [[terms/gender_identity/womanosphere_public|Womanosphere]] · [[terms/gender_identity/hypergamy_public|Hypergamy]]
 
 `#gender-identity` `#power` `#framing` `#digital-alertness`
 

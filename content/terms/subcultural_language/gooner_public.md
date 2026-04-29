@@ -25,8 +25,8 @@ related_reaction:
 
 **Layer:** Mechanism — Compulsive fixation as public vocabulary
 
-**Cause:** [[public/platform_mechanisms/dopamine_feedback_loops_public|Dopamine Feedback Loops]] · [[public/platform_mechanisms/attention_economy_public|Attention Economy]]
-**Mechanism:** [[public/platform_mechanisms/predatory_design_public|Predatory Design]]
+**Cause:** [[terms/platform_mechanisms/dopamine_feedback_loops_public|Dopamine Feedback Loops]] · [[terms/platform_mechanisms/attention_economy_public|Attention Economy]]
+**Mechanism:** [[terms/platform_mechanisms/predatory_design_public|Predatory Design]]
 **Consequence:** *—*
 **Reaction:** *—*
 
@@ -55,12 +55,12 @@ Gooner originated in online adult communities in the 2010s and entered mainstrea
 Self-deprecating humour about compulsive behaviour provides community and reduces shame. The word's explicit origins are often unknown to new users.
 
 **The Friction**
-[[public/platform_mechanisms/dopamine_feedback_loops_public|Dopamine Feedback Loops]] — the mechanism underlying compulsive engagement — are what "gooning" describes behaviourally. The word's decontextualisation through platform spread is itself a process worth examining: explicit vocabulary entering general use without its original meaning being understood.
+[[terms/platform_mechanisms/dopamine_feedback_loops_public|Dopamine Feedback Loops]] — the mechanism underlying compulsive engagement — are what "gooning" describes behaviourally. The word's decontextualisation through platform spread is itself a process worth examining: explicit vocabulary entering general use without its original meaning being understood.
 
 **Why This Matters**
 Once you see Gooner as a case study in vocabulary migration rather than just a slang term, you see how platform algorithms spread subcultural language without its context — and how that decontextualisation shapes what can be said, and what cannot.
 
-**See also:** [[public/platform_mechanisms/dopamine_feedback_loops_public|Dopamine Feedback Loops]] · [[public/platform_mechanisms/predatory_design_public|Predatory Design]]
+**See also:** [[terms/platform_mechanisms/dopamine_feedback_loops_public|Dopamine Feedback Loops]] · [[terms/platform_mechanisms/predatory_design_public|Predatory Design]]
 
 `#subcultural-vocabulary-platform-language` `#power` `#framing` `#digital-alertness`
 

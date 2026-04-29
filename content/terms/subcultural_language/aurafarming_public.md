@@ -24,9 +24,9 @@ related_reaction:
 
 **Layer:** Mechanism — aurafarming
 
-**Cause:** [[public/platform_mechanisms/attention_economy_public|Attention Economy]]
-**Mechanism:** [[public/gender_identity/smv_public|SMV]] · [[public/gender_identity/rizz_public|Rizz]]
-**Consequence:** [[public/gender_identity/looksmaxxing_public|Looksmaxxing]]
+**Cause:** [[terms/platform_mechanisms/attention_economy_public|Attention Economy]]
+**Mechanism:** [[terms/gender_identity/smv_public|SMV]] · [[terms/gender_identity/rizz_public|Rizz]]
+**Consequence:** [[terms/gender_identity/looksmaxxing_public|Looksmaxxing]]
 **Reaction:** *—*
 
 **Public entry:** this document
@@ -54,12 +54,12 @@ The term emerged from gaming and Gen Z online culture in the early 2020s, blendi
 The gaming metaphor makes social anxiety manageable: if status is a game, it has rules, and rules can be learned. The irony built into the term also provides cover — you can be earnest about it while pretending to be joking.
 
 **The Friction**
-[[public/gender_identity/smv_public|SMV]] — Sexual Market Value logic — is the underlying framework: attractiveness and presence can be scored and ranked. [[public/gender_identity/rizz_public|Rizz]] — charisma repackaged as a performance metric — is the adjacent term. Both convert social interaction into optimisation problems. The gamification that makes anxiety manageable also makes every interaction a performance under evaluation.
+[[terms/gender_identity/smv_public|SMV]] — Sexual Market Value logic — is the underlying framework: attractiveness and presence can be scored and ranked. [[terms/gender_identity/rizz_public|Rizz]] — charisma repackaged as a performance metric — is the adjacent term. Both convert social interaction into optimisation problems. The gamification that makes anxiety manageable also makes every interaction a performance under evaluation.
 
 **Why This Matters**
 Once you see aurafarming as gamification logic applied to personhood, you see how platform culture extends scoring and ranking from content to people — and how the same vocabulary that makes social anxiety feel controllable also makes it perpetual.
 
-**See also:** [[public/gender_identity/smv_public|SMV]] · [[public/gender_identity/rizz_public|Rizz]] · [[public/gender_identity/looksmaxxing_public|Looksmaxxing]] · [[public/platform_mechanisms/attention_economy_public|Attention Economy]]
+**See also:** [[terms/gender_identity/smv_public|SMV]] · [[terms/gender_identity/rizz_public|Rizz]] · [[terms/gender_identity/looksmaxxing_public|Looksmaxxing]] · [[terms/platform_mechanisms/attention_economy_public|Attention Economy]]
 
 `#subcultural-vocabulary-platform-language` `#power` `#framing` `#digital-alertness`
 

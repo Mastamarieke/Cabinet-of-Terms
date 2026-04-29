@@ -27,10 +27,10 @@ related_reaction:
 
 **Layer:** Consequence — Permanent comparison as platform effect
 
-**Cause:** [[public/platform_mechanisms/attention_economy_public|Attention Economy]] · [[public/platform_mechanisms/recommender_systems_public|Recommender Systems]]
-**Mechanism:** [[public/beauty_self_image/highlight_reel_public|Highlight Reel]] · [[public/beauty_self_image/beauty_filter_public|Beauty Filter]]
-**Consequence:** [[public/students/imposter_syndrome_public|Imposter Syndrome]] · [[public/beauty_self_image/body_dysmorphic_disorder_public|Body Dysmorphic Disorder]]
-**Reaction:** [[public/beauty_self_image/deinfluencing_public|Deinfluencing]]
+**Cause:** [[terms/platform_mechanisms/attention_economy_public|Attention Economy]] · [[terms/platform_mechanisms/recommender_systems_public|Recommender Systems]]
+**Mechanism:** [[terms/beauty_self_image/highlight_reel_public|Highlight Reel]] · [[terms/beauty_self_image/beauty_filter_public|Beauty Filter]]
+**Consequence:** [[terms/students/imposter_syndrome_public|Imposter Syndrome]] · [[terms/beauty_self_image/body_dysmorphic_disorder_public|Body Dysmorphic Disorder]]
+**Reaction:** [[terms/beauty_self_image/deinfluencing_public|Deinfluencing]]
 
 **Public entry:** this document
 **Deep analysis:** *not yet created*
@@ -57,12 +57,12 @@ Social comparison theory was established by Leon Festinger in 1954. Platform des
 Social comparison can be motivational: seeing others' achievements inspires effort.
 
 **The Friction**
-[[public/beauty_self_image/highlight_reel_public|Highlight Reel]] means comparison is always against a curated peak. [[public/platform_mechanisms/recommender_systems_public|Recommender Systems]] surface aspirational content because it generates more engagement. The comparison is structurally rigged.
+[[terms/beauty_self_image/highlight_reel_public|Highlight Reel]] means comparison is always against a curated peak. [[terms/platform_mechanisms/recommender_systems_public|Recommender Systems]] surface aspirational content because it generates more engagement. The comparison is structurally rigged.
 
 **Why This Matters**
 Once you see Comparison Culture as a platform architecture rather than personal insecurity, you see that the source of the comparison is selected by an algorithm optimised for engagement, not your psychological wellbeing.
 
-**See also:** [[public/beauty_self_image/highlight_reel_public|Highlight Reel]] · [[public/beauty_self_image/beauty_filter_public|Beauty Filter]] · [[public/students/imposter_syndrome_public|Imposter Syndrome]]
+**See also:** [[terms/beauty_self_image/highlight_reel_public|Highlight Reel]] · [[terms/beauty_self_image/beauty_filter_public|Beauty Filter]] · [[terms/students/imposter_syndrome_public|Imposter Syndrome]]
 
 `#beauty-influencers-self-image` `#power` `#framing` `#digital-alertness`
 

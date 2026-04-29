@@ -27,10 +27,10 @@ related_reaction:
 
 **Layer:** Cause — Slobodian & Tarnoff 2026; governance system for the 21st century
 
-**Cause:** [[public/society_power/technofeudalism_public|Technofeudalism]] · [[public/society_power/surveillance_capitalism_public|Surveillance Capitalism]]
-**Mechanism:** [[public/society_power/fortress_futurism_public|Fortress Futurism]] · [[public/society_power/founder_mode_public|Founder Mode]]
-**Consequence:** [[public/society_power/broligarchy_public|Broligarchy]] · [[public/society_power/technofascism_public|Technofascism]]
-**Reaction:** [[public/design_philosophy/unblackboxing_public|Unblackboxing]]
+**Cause:** [[terms/society_power/technofeudalism_public|Technofeudalism]] · [[terms/society_power/surveillance_capitalism_public|Surveillance Capitalism]]
+**Mechanism:** [[terms/society_power/fortress_futurism_public|Fortress Futurism]] · [[terms/society_power/founder_mode_public|Founder Mode]]
+**Consequence:** [[terms/society_power/broligarchy_public|Broligarchy]] · [[terms/society_power/technofascism_public|Technofascism]]
+**Reaction:** [[terms/design_philosophy/unblackboxing_public|Unblackboxing]]
 
 **Public entry:** this document
 **Deep analysis:** *not yet created*
@@ -57,12 +57,12 @@ Quinn Slobodian and Ben Tarnoff developed the concept in 2026 to describe the po
 The Muskism framework has appeal as critique: it names a pattern otherwise described as individual eccentricity, making the political programme visible.
 
 **The Friction**
-[[public/society_power/technofeudalism_public|Technofeudalism]] is the economic structure; Muskism is the political programme built on it. [[public/society_power/founder_mode_public|Founder Mode]] is the organisational logic. The term risks personalising what is a structural phenomenon: the conditions for Muskism predate Musk.
+[[terms/society_power/technofeudalism_public|Technofeudalism]] is the economic structure; Muskism is the political programme built on it. [[terms/society_power/founder_mode_public|Founder Mode]] is the organisational logic. The term risks personalising what is a structural phenomenon: the conditions for Muskism predate Musk.
 
 **Why This Matters**
 Once you see Muskism as a governance model rather than a personality, you see that the question is not what Musk will do next — it is what structures made his consolidation possible and what prevents the next iteration.
 
-**See also:** [[public/society_power/technofeudalism_public|Technofeudalism]] · [[public/society_power/broligarchy_public|Broligarchy]] · [[public/society_power/founder_mode_public|Founder Mode]] · [[public/society_power/fortress_futurism_public|Fortress Futurism]]
+**See also:** [[terms/society_power/technofeudalism_public|Technofeudalism]] · [[terms/society_power/broligarchy_public|Broligarchy]] · [[terms/society_power/founder_mode_public|Founder Mode]] · [[terms/society_power/fortress_futurism_public|Fortress Futurism]]
 
 `#society-power` `#power` `#framing` `#digital-alertness`
 

@@ -25,8 +25,8 @@ related_reaction:
 
 **Layer:** Mechanism — Passive presence without participation
 
-**Cause:** [[public/platform_mechanisms/attention_economy_public|Attention Economy]] · [[public/platform_mechanisms/recommender_systems_public|Recommender Systems]]
-**Mechanism:** [[public/platform_mechanisms/gamification_creep_public|Gamification Creep]]
+**Cause:** [[terms/platform_mechanisms/attention_economy_public|Attention Economy]] · [[terms/platform_mechanisms/recommender_systems_public|Recommender Systems]]
+**Mechanism:** [[terms/platform_mechanisms/gamification_creep_public|Gamification Creep]]
 **Consequence:** *—*
 **Reaction:** *—*
 
@@ -55,12 +55,12 @@ The term predates social media — it was used in early internet forums and Usen
 Consuming without contributing is low-risk: no embarrassment, no conflict, no commitment. For people in new communities, lurking is how you learn the norms before participating.
 
 **The Friction**
-Platforms count lurkers as engagement — views, impressions, time-on-site — while capturing their data without their active participation. [[public/platform_mechanisms/recommender_systems_public|Recommender Systems]] build behavioural profiles from lurking data as effectively as from active engagement. The lurker believes they are watching without being watched.
+Platforms count lurkers as engagement — views, impressions, time-on-site — while capturing their data without their active participation. [[terms/platform_mechanisms/recommender_systems_public|Recommender Systems]] build behavioural profiles from lurking data as effectively as from active engagement. The lurker believes they are watching without being watched.
 
 **Why This Matters**
 Once you see lurking as a data-generating activity rather than passive non-participation, you see that the choice not to post does not mean the choice not to contribute to platform economics.
 
-**See also:** [[public/platform_mechanisms/recommender_systems_public|Recommender Systems]] · [[public/platform_mechanisms/attention_economy_public|Attention Economy]]
+**See also:** [[terms/platform_mechanisms/recommender_systems_public|Recommender Systems]] · [[terms/platform_mechanisms/attention_economy_public|Attention Economy]]
 
 `#behaviour-relationships` `#power` `#framing` `#digital-alertness`
 

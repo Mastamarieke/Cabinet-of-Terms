@@ -26,8 +26,8 @@ related_reaction:
 
 **Layer:** Mechanism — Crypto as subcultural phenomenon and financial weapon; speculation disguised as community formation
 
-**Cause:** [[public/society_power/surveillance_capitalism_public|Surveillance Capitalism]] · [[public/platform_mechanisms/attention_economy_public|Attention Economy]]
-**Mechanism:** [[public/society_power/financial_fabulism_public|Financial Fabulism]] · [[public/subcultural_language/brain_rot_public|Brain Rot]]
+**Cause:** [[terms/society_power/surveillance_capitalism_public|Surveillance Capitalism]] · [[terms/platform_mechanisms/attention_economy_public|Attention Economy]]
+**Mechanism:** [[terms/society_power/financial_fabulism_public|Financial Fabulism]] · [[terms/subcultural_language/brain_rot_public|Brain Rot]]
 **Consequence:** *—*
 **Reaction:** *—*
 
@@ -56,12 +56,12 @@ Dogecoin (2013) was the first significant memecoin — a joke cryptocurrency bas
 Memecoins offer participation in a cultural moment, community belonging, and the possibility of significant returns. The barrier to entry is low.
 
 **The Friction**
-[[public/society_power/financial_fabulism_public|Financial Fabulism]] is the financial mechanism: the coin's value is a narrative, and the narrative generates real money flows. The structure is zero-sum: early holders profit from late buyers' losses. Celebrity endorsement has been documented as a systematic extraction mechanism.
+[[terms/society_power/financial_fabulism_public|Financial Fabulism]] is the financial mechanism: the coin's value is a narrative, and the narrative generates real money flows. The structure is zero-sum: early holders profit from late buyers' losses. Celebrity endorsement has been documented as a systematic extraction mechanism.
 
 **Why This Matters**
 Once you see Memecoins as a financial weapon using subcultural aesthetics, you see that the playful format lowers the critical guard of participants who would recognise the same structure in conventional financial instruments.
 
-**See also:** [[public/society_power/financial_fabulism_public|Financial Fabulism]] · [[public/society_power/muskism_public|Muskism]]
+**See also:** [[terms/society_power/financial_fabulism_public|Financial Fabulism]] · [[terms/society_power/muskism_public|Muskism]]
 
 `#society-power` `#power` `#framing` `#digital-alertness`
 

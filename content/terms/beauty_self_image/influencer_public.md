@@ -26,10 +26,10 @@ related_reaction:
 
 **Layer:** Mechanism — The term itself deserves analysis; sounds neutral, power structure inside
 
-**Cause:** [[public/platform_mechanisms/attention_economy_public|Attention Economy]] · [[public/society_power/surveillance_capitalism_public|Surveillance Capitalism]]
-**Mechanism:** [[public/students/personal_branding_public|Personal Branding]] · [[public/students/creator_economy_public|Creator Economy]]
-**Consequence:** [[public/beauty_self_image/comparison_culture_public|Comparison Culture]]
-**Reaction:** [[public/beauty_self_image/deinfluencing_public|Deinfluencing]]
+**Cause:** [[terms/platform_mechanisms/attention_economy_public|Attention Economy]] · [[terms/society_power/surveillance_capitalism_public|Surveillance Capitalism]]
+**Mechanism:** [[terms/students/personal_branding_public|Personal Branding]] · [[terms/students/creator_economy_public|Creator Economy]]
+**Consequence:** [[terms/beauty_self_image/comparison_culture_public|Comparison Culture]]
+**Reaction:** [[terms/beauty_self_image/deinfluencing_public|Deinfluencing]]
 
 **Public entry:** this document
 **Deep analysis:** *not yet created*
@@ -56,12 +56,12 @@ Influencer as a professional category emerged around 2015–2016 as brands forma
 Influencers can represent genuine expertise, authentic voice, and community leadership. The category includes scientists, journalists, educators, and activists alongside commercial promoters.
 
 **The Friction**
-The term's neutrality is functional: it conceals the commercial transaction. An influencer recommending a product may be paid to do so. [[public/students/creator_economy_public|Creator Economy]] is the structural context. [[public/beauty_self_image/deinfluencing_public|Deinfluencing]] is the internal counter-movement.
+The term's neutrality is functional: it conceals the commercial transaction. An influencer recommending a product may be paid to do so. [[terms/students/creator_economy_public|Creator Economy]] is the structural context. [[terms/beauty_self_image/deinfluencing_public|Deinfluencing]] is the internal counter-movement.
 
 **Why This Matters**
 Once you see "influencer" as a commercial role rather than a neutral descriptor, you see that the trust being monetised is the audience's — and that the term's neutrality is a commercial asset.
 
-**See also:** [[public/students/creator_economy_public|Creator Economy]] · [[public/beauty_self_image/deinfluencing_public|Deinfluencing]] · [[public/beauty_self_image/comparison_culture_public|Comparison Culture]]
+**See also:** [[terms/students/creator_economy_public|Creator Economy]] · [[terms/beauty_self_image/deinfluencing_public|Deinfluencing]] · [[terms/beauty_self_image/comparison_culture_public|Comparison Culture]]
 
 `#beauty-influencers-self-image` `#power` `#framing` `#digital-alertness`
 

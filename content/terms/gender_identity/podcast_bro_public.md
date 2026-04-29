@@ -24,10 +24,10 @@ related_reaction:
 
 **Layer:** Mechanism — podcast bro
 
-**Cause:** [[public/gender_identity/manosphere_public|Manosphere]] · [[public/platform_mechanisms/attention_economy_public|Attention Economy]]
-**Mechanism:** [[public/gender_identity/smv_public|SMV]] · [[public/platform_mechanisms/recommender_systems_public|Recommender Systems]]
-**Consequence:** [[public/gender_identity/incel_public|Incel]] · [[public/gender_identity/blackpill_public|Blackpill]] · [[public/gender_identity/mgtow_public|MGTOW]]
-**Reaction:** [[public/culture_wars/deplatforming_public|Deplatforming]]
+**Cause:** [[terms/gender_identity/manosphere_public|Manosphere]] · [[terms/platform_mechanisms/attention_economy_public|Attention Economy]]
+**Mechanism:** [[terms/gender_identity/smv_public|SMV]] · [[terms/platform_mechanisms/recommender_systems_public|Recommender Systems]]
+**Consequence:** [[terms/gender_identity/incel_public|Incel]] · [[terms/gender_identity/blackpill_public|Blackpill]] · [[terms/gender_identity/mgtow_public|MGTOW]]
+**Reaction:** [[terms/culture_wars/deplatforming_public|Deplatforming]]
 
 **Public entry:** this document
 **Deep analysis:** *not yet created*
@@ -54,12 +54,12 @@ The format emerged in the mid-2010s as podcasting became mainstream. Joe Rogan's
 Long-form conversation feels authentic compared to polished media. The format builds parasocial relationships — listeners feel they know the hosts. Topics are often genuinely interesting: psychology, history, business, physical performance.
 
 **The Friction**
-[[public/platform_mechanisms/recommender_systems_public|Recommender Systems]] — algorithms that learn from your clicks to feed you more of what keeps you watching — route listeners from mainstream topics toward increasingly ideological content. The informality is a feature: claims that would be scrutinised in a formal context pass as casual observation. Someone like Joe Rogan reaches 10 million listeners per episode without the editorial accountability of traditional media.
+[[terms/platform_mechanisms/recommender_systems_public|Recommender Systems]] — algorithms that learn from your clicks to feed you more of what keeps you watching — route listeners from mainstream topics toward increasingly ideological content. The informality is a feature: claims that would be scrutinised in a formal context pass as casual observation. Someone like Joe Rogan reaches 10 million listeners per episode without the editorial accountability of traditional media.
 
 **Why This Matters**
-Once you see podcast-bro as a distribution mechanism rather than a format, you see how [[public/gender_identity/manosphere_public|Manosphere]] ideology reaches audiences who would never visit an incel forum. The pipeline runs through entertainment.
+Once you see podcast-bro as a distribution mechanism rather than a format, you see how [[terms/gender_identity/manosphere_public|Manosphere]] ideology reaches audiences who would never visit an incel forum. The pipeline runs through entertainment.
 
-**See also:** [[public/gender_identity/manosphere_public|Manosphere]] · [[public/platform_mechanisms/recommender_systems_public|Recommender Systems]] · [[public/gender_identity/incel_public|Incel]]
+**See also:** [[terms/gender_identity/manosphere_public|Manosphere]] · [[terms/platform_mechanisms/recommender_systems_public|Recommender Systems]] · [[terms/gender_identity/incel_public|Incel]]
 
 `#gender-identity` `#power` `#framing` `#digital-alertness`
 

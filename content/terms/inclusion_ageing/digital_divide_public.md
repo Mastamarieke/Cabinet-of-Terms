@@ -27,10 +27,10 @@ related_reaction:
 
 **Layer:** Consequence — Unequal access to digital infrastructure; structural
 
-**Cause:** [[public/society_power/technofeudalism_public|Technofeudalism]] · [[public/society_power/surveillance_capitalism_public|Surveillance Capitalism]]
-**Mechanism:** [[public/inclusion_ageing/digital_exclusion_public|Digital Exclusion]] · [[public/inclusion_ageing/ageism_digital_public|Ageism (Digital)]]
-**Consequence:** [[public/inclusion_ageing/tech_abandonment_public|Tech Abandonment]]
-**Reaction:** [[public/inclusion_ageing/accessibility_public|Accessibility]] · [[public/inclusion_ageing/universal_design_public|Universal Design]]
+**Cause:** [[terms/society_power/technofeudalism_public|Technofeudalism]] · [[terms/society_power/surveillance_capitalism_public|Surveillance Capitalism]]
+**Mechanism:** [[terms/inclusion_ageing/digital_exclusion_public|Digital Exclusion]] · [[terms/inclusion_ageing/ageism_digital_public|Ageism (Digital)]]
+**Consequence:** [[terms/inclusion_ageing/tech_abandonment_public|Tech Abandonment]]
+**Reaction:** [[terms/inclusion_ageing/accessibility_public|Accessibility]] · [[terms/inclusion_ageing/universal_design_public|Universal Design]]
 
 **Public entry:** this document
 **Deep analysis:** *not yet created*
@@ -57,12 +57,12 @@ The term emerged in US policy discourse in the 1990s to describe unequal access 
 The Digital Divide is a well-documented policy problem with clear interventions: broadband infrastructure, device provision, and digital literacy programmes have measurable effects.
 
 **The Friction**
-Physical access is a necessary but insufficient condition. [[public/inclusion_ageing/digital_exclusion_public|Digital Exclusion]] is the broader category: people can have a device and a connection and still be excluded by design, language, literacy requirements, or cultural assumptions embedded in systems. [[public/society_power/technofeudalism_public|Technofeudalism]] is the structural context: the infrastructure is privately owned and not universally distributed.
+Physical access is a necessary but insufficient condition. [[terms/inclusion_ageing/digital_exclusion_public|Digital Exclusion]] is the broader category: people can have a device and a connection and still be excluded by design, language, literacy requirements, or cultural assumptions embedded in systems. [[terms/society_power/technofeudalism_public|Technofeudalism]] is the structural context: the infrastructure is privately owned and not universally distributed.
 
 **Why This Matters**
 Once you see the Digital Divide as a structural condition rather than a connectivity problem, you see that closing the gap requires more than providing devices — it requires changing the assumption that digital participation is optional.
 
-**See also:** [[public/inclusion_ageing/digital_exclusion_public|Digital Exclusion]] · [[public/inclusion_ageing/ageism_digital_public|Ageism (Digital)]] · [[public/inclusion_ageing/tech_abandonment_public|Tech Abandonment]]
+**See also:** [[terms/inclusion_ageing/digital_exclusion_public|Digital Exclusion]] · [[terms/inclusion_ageing/ageism_digital_public|Ageism (Digital)]] · [[terms/inclusion_ageing/tech_abandonment_public|Tech Abandonment]]
 
 `#inclusion-accessibility-ageing` `#power` `#framing` `#digital-alertness`
 

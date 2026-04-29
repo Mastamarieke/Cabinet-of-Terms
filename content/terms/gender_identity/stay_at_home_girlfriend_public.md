@@ -24,10 +24,10 @@ related_reaction:
 
 **Layer:** Consequence — stay at home girlfriend
 
-**Cause:** [[public/gender_identity/womanosphere_public|Womanosphere]] · [[public/gender_identity/tradwife_public|Tradwife]]
-**Mechanism:** [[public/gender_identity/smv_public|SMV]] · [[public/gender_identity/provider_public|Provider]]
+**Cause:** [[terms/gender_identity/womanosphere_public|Womanosphere]] · [[terms/gender_identity/tradwife_public|Tradwife]]
+**Mechanism:** [[terms/gender_identity/smv_public|SMV]] · [[terms/gender_identity/provider_public|Provider]]
 **Consequence:** *—*
-**Reaction:** [[public/culture_wars/deplatforming_public|Deplatforming]]
+**Reaction:** [[terms/culture_wars/deplatforming_public|Deplatforming]]
 
 **Public entry:** this document
 **Deep analysis:** *not yet created*
@@ -54,12 +54,12 @@ The term emerged on TikTok around 2022–2023 as content creators documented the
 For women under financial and professional pressure, the SAHG model offers an exit from the labour market framed as abundance rather than retreat. The content typically shows comfort, leisure, and care — not precarity.
 
 **The Friction**
-Financial dependence without marriage provides none of the legal protections that marriage (imperfectly) offers. [[public/gender_identity/womanosphere_public|Womanosphere]] content distributes this as empowerment. [[public/gender_identity/provider_public|Provider]] logic makes it transactional. The lifestyle is contingent on the relationship — and on the partner's continued willingness and capacity to provide.
+Financial dependence without marriage provides none of the legal protections that marriage (imperfectly) offers. [[terms/gender_identity/womanosphere_public|Womanosphere]] content distributes this as empowerment. [[terms/gender_identity/provider_public|Provider]] logic makes it transactional. The lifestyle is contingent on the relationship — and on the partner's continued willingness and capacity to provide.
 
 **Why This Matters**
 Once you see SAHG as a financial structure rather than a lifestyle, you see what the aesthetic conceals: economic dependence without legal protection, distributed as aspiration to audiences who may not recognise the difference.
 
-**See also:** [[public/gender_identity/womanosphere_public|Womanosphere]] · [[public/gender_identity/tradwife_public|Tradwife]] · [[public/gender_identity/provider_public|Provider]] · [[public/gender_identity/smv_public|SMV]]
+**See also:** [[terms/gender_identity/womanosphere_public|Womanosphere]] · [[terms/gender_identity/tradwife_public|Tradwife]] · [[terms/gender_identity/provider_public|Provider]] · [[terms/gender_identity/smv_public|SMV]]
 
 `#gender-identity` `#power` `#framing` `#digital-alertness`
 

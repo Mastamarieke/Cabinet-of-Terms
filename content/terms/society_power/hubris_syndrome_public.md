@@ -25,8 +25,8 @@ related_reaction:
 
 **Layer:** Mechanism — Owen 2009; power accumulation and moral exceptionalism
 
-**Cause:** [[public/society_power/technofeudalism_public|Technofeudalism]]
-**Mechanism:** [[public/society_power/muskism_public|Muskism]] · [[public/society_power/founder_mode_public|Founder Mode]]
+**Cause:** [[terms/society_power/technofeudalism_public|Technofeudalism]]
+**Mechanism:** [[terms/society_power/muskism_public|Muskism]] · [[terms/society_power/founder_mode_public|Founder Mode]]
 **Consequence:** *—*
 **Reaction:** *—*
 
@@ -55,12 +55,12 @@ David Owen — British politician and physician — developed Hubris Syndrome in
 The concept has explanatory power: it describes why capable people with genuine achievements become catastrophically poor decision-makers when accountability structures are removed.
 
 **The Friction**
-[[public/society_power/founder_mode_public|Founder Mode]] — founder authority above governance — removes the accountability structures that Hubris Syndrome research identifies as preventative. [[public/society_power/muskism_public|Muskism]] exemplifies the pattern.
+[[terms/society_power/founder_mode_public|Founder Mode]] — founder authority above governance — removes the accountability structures that Hubris Syndrome research identifies as preventative. [[terms/society_power/muskism_public|Muskism]] exemplifies the pattern.
 
 **Why This Matters**
 Once you see Hubris Syndrome as a structural outcome of unchecked power, you see that the solution is not finding better people — it is maintaining accountability structures that no individual should be able to remove.
 
-**See also:** [[public/society_power/founder_mode_public|Founder Mode]] · [[public/society_power/muskism_public|Muskism]] · [[public/society_power/broligarchy_public|Broligarchy]]
+**See also:** [[terms/society_power/founder_mode_public|Founder Mode]] · [[terms/society_power/muskism_public|Muskism]] · [[terms/society_power/broligarchy_public|Broligarchy]]
 
 `#society-power` `#power` `#framing` `#digital-alertness`
 

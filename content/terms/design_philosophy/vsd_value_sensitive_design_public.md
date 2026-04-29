@@ -26,8 +26,8 @@ related_reaction:
 
 **Layer:** Reaction — Friedman; systematically integrating human values into design
 
-**Cause:** [[public/platform_mechanisms/dark_patterns_public|Dark Patterns]] · [[public/society_power/surveillance_capitalism_public|Surveillance Capitalism]]
-**Mechanism:** [[public/design_philosophy/fair_patterns_public|Fair Patterns]] · [[public/design_philosophy/unblackboxing_public|Unblackboxing]]
+**Cause:** [[terms/platform_mechanisms/dark_patterns_public|Dark Patterns]] · [[terms/society_power/surveillance_capitalism_public|Surveillance Capitalism]]
+**Mechanism:** [[terms/design_philosophy/fair_patterns_public|Fair Patterns]] · [[terms/design_philosophy/unblackboxing_public|Unblackboxing]]
 **Consequence:** *—*
 **Reaction:** *—*
 
@@ -56,12 +56,12 @@ Batya Friedman and Peter Kahn developed Value Sensitive Design at the University
 VSD offers designers a concrete framework for ethical practice. It names what is often implicit — that design embeds values — and makes it visible and actionable.
 
 **The Friction**
-VSD is a methodology, not a guarantee. Identifying values does not resolve conflicts between them. Corporate adoption can reduce VSD to compliance theatre — the appearance of value consideration without structural change. [[public/design_philosophy/fair_patterns_public|Fair Patterns]] — the structural counterpart to dark patterns — operationalises similar intentions at the interface level.
+VSD is a methodology, not a guarantee. Identifying values does not resolve conflicts between them. Corporate adoption can reduce VSD to compliance theatre — the appearance of value consideration without structural change. [[terms/design_philosophy/fair_patterns_public|Fair Patterns]] — the structural counterpart to dark patterns — operationalises similar intentions at the interface level.
 
 **Why This Matters**
 Once you see VSD as a design practice rather than a checklist, you see that the question "whose values?" is always also the question "who has power?" — and that design without that question reproduces existing power structures.
 
-**See also:** [[public/design_philosophy/fair_patterns_public|Fair Patterns]] · [[public/design_philosophy/unblackboxing_public|Unblackboxing]] · [[public/platform_mechanisms/dark_patterns_public|Dark Patterns]]
+**See also:** [[terms/design_philosophy/fair_patterns_public|Fair Patterns]] · [[terms/design_philosophy/unblackboxing_public|Unblackboxing]] · [[terms/platform_mechanisms/dark_patterns_public|Dark Patterns]]
 
 `#design-philosophy-counter-force` `#power` `#framing` `#digital-alertness`
 

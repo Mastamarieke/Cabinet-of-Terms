@@ -25,7 +25,7 @@ related_reaction:
 **Layer:** Mechanism — Decision-making model for complex systems; analytical instrument
 
 **Cause:** *—*
-**Mechanism:** [[public/thinking_reasoning/transformative_learning_theory_public|Transformative Learning Theory]]
+**Mechanism:** [[terms/thinking_reasoning/transformative_learning_theory_public|Transformative Learning Theory]]
 **Consequence:** *—*
 **Reaction:** *—*
 
@@ -59,7 +59,7 @@ The framework is a diagnostic tool, not a solution generator. Misapplication is 
 **Why This Matters**
 Once you see Cynefin as a thinking instrument rather than a management framework, you see that the question "what kind of problem is this?" is prior to any attempt to solve it — and that digital media phenomena almost always resist simple causal explanations.
 
-**See also:** [[public/thinking_reasoning/transformative_learning_theory_public|Transformative Learning Theory]] · [[public/design_philosophy/unblackboxing_public|Unblackboxing]]
+**See also:** [[terms/thinking_reasoning/transformative_learning_theory_public|Transformative Learning Theory]] · [[terms/design_philosophy/unblackboxing_public|Unblackboxing]]
 
 `#thinking-reasoning` `#power` `#framing` `#digital-alertness`
 

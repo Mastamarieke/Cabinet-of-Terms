@@ -25,8 +25,8 @@ related_reaction:
 
 **Layer:** Mechanism — Graham 2024; founder authority above governance
 
-**Cause:** [[public/society_power/technofeudalism_public|Technofeudalism]]
-**Mechanism:** [[public/society_power/muskism_public|Muskism]] · [[public/society_power/hubris_syndrome_public|Hubris Syndrome]]
+**Cause:** [[terms/society_power/technofeudalism_public|Technofeudalism]]
+**Mechanism:** [[terms/society_power/muskism_public|Muskism]] · [[terms/society_power/hubris_syndrome_public|Hubris Syndrome]]
 **Consequence:** *—*
 **Reaction:** *—*
 
@@ -55,12 +55,12 @@ Paul Graham (Y Combinator) published an essay in 2024 titled "Founder Mode," des
 Founders with genuine vision can be more effective decision-makers than professional managers without skin in the game. Direct involvement avoids bureaucratic distance from reality.
 
 **The Friction**
-[[public/society_power/hubris_syndrome_public|Hubris Syndrome]] describes what sustained, unchecked power does to judgment. [[public/society_power/muskism_public|Muskism]] is Founder Mode applied to political infrastructure.
+[[terms/society_power/hubris_syndrome_public|Hubris Syndrome]] describes what sustained, unchecked power does to judgment. [[terms/society_power/muskism_public|Muskism]] is Founder Mode applied to political infrastructure.
 
 **Why This Matters**
 Once you see Founder Mode as an ideology that removes accountability, you see that the choice between governance and founder authority is also a choice about what happens when the founder is wrong.
 
-**See also:** [[public/society_power/hubris_syndrome_public|Hubris Syndrome]] · [[public/society_power/muskism_public|Muskism]] · [[public/society_power/broligarchy_public|Broligarchy]]
+**See also:** [[terms/society_power/hubris_syndrome_public|Hubris Syndrome]] · [[terms/society_power/muskism_public|Muskism]] · [[terms/society_power/broligarchy_public|Broligarchy]]
 
 `#society-power` `#power` `#framing` `#digital-alertness`
 

@@ -26,10 +26,10 @@ related_reaction:
 
 **Layer:** Mechanism — Musk; political conviction framed as contagion
 
-**Cause:** [[public/platform_mechanisms/attention_economy_public|Attention Economy]] · [[public/platform_mechanisms/recommender_systems_public|Recommender Systems]]
-**Mechanism:** [[public/culture_wars/social_contagion_public|Social Contagion]] · [[public/platform_mechanisms/ragebaiting_public|Ragebaiting]]
+**Cause:** [[terms/platform_mechanisms/attention_economy_public|Attention Economy]] · [[terms/platform_mechanisms/recommender_systems_public|Recommender Systems]]
+**Mechanism:** [[terms/culture_wars/social_contagion_public|Social Contagion]] · [[terms/platform_mechanisms/ragebaiting_public|Ragebaiting]]
 **Consequence:** *—*
-**Reaction:** [[public/culture_wars/deplatforming_public|Deplatforming]]
+**Reaction:** [[terms/culture_wars/deplatforming_public|Deplatforming]]
 
 **Public entry:** this document
 **Deep analysis:** *not yet created*
@@ -56,12 +56,12 @@ Elon Musk popularised "woke mind virus" on Twitter/X from 2022. The term builds 
 For people who feel that progressive cultural norms are being imposed on institutions they valued, the virus metaphor names a real experience of rapid change and perceived loss.
 
 **The Friction**
-[[public/culture_wars/social_contagion_public|Social Contagion]] is the underlying rhetorical structure. Medical framing has political consequences: if a belief is a virus, holders are infected rather than persuaded. [[public/platform_mechanisms/ragebaiting_public|Ragebaiting]] amplifies the term because it provokes strong reactions across the political spectrum.
+[[terms/culture_wars/social_contagion_public|Social Contagion]] is the underlying rhetorical structure. Medical framing has political consequences: if a belief is a virus, holders are infected rather than persuaded. [[terms/platform_mechanisms/ragebaiting_public|Ragebaiting]] amplifies the term because it provokes strong reactions across the political spectrum.
 
 **Why This Matters**
 Once you see "woke mind virus" as a rhetorical strategy, you see that the medical metaphor removes the possibility of legitimate political disagreement and substitutes a pathology narrative.
 
-**See also:** [[public/culture_wars/social_contagion_public|Social Contagion]] · [[public/culture_wars/anti_woke_public|Anti-Woke]] · [[public/platform_mechanisms/ragebaiting_public|Ragebaiting]]
+**See also:** [[terms/culture_wars/social_contagion_public|Social Contagion]] · [[terms/culture_wars/anti_woke_public|Anti-Woke]] · [[terms/platform_mechanisms/ragebaiting_public|Ragebaiting]]
 
 `#culture-wars-political-language` `#power` `#framing` `#digital-alertness`
 

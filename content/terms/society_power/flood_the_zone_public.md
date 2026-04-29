@@ -26,10 +26,10 @@ related_reaction:
 
 **Layer:** Mechanism — Information overload as strategic destabilisation
 
-**Cause:** [[public/platform_mechanisms/attention_economy_public|Attention Economy]] · [[public/platform_mechanisms/recommender_systems_public|Recommender Systems]]
-**Mechanism:** [[public/platform_mechanisms/bot_farms_public|Bot Farms]] · [[public/platform_mechanisms/synthetic_generation_public|Synthetic Generation]]
-**Consequence:** [[public/behaviour_relationships/cognitive_surrender_public|Cognitive Surrender]]
-**Reaction:** [[public/design_philosophy/unblackboxing_public|Unblackboxing]]
+**Cause:** [[terms/platform_mechanisms/attention_economy_public|Attention Economy]] · [[terms/platform_mechanisms/recommender_systems_public|Recommender Systems]]
+**Mechanism:** [[terms/platform_mechanisms/bot_farms_public|Bot Farms]] · [[terms/platform_mechanisms/synthetic_generation_public|Synthetic Generation]]
+**Consequence:** [[terms/behaviour_relationships/cognitive_surrender_public|Cognitive Surrender]]
+**Reaction:** [[terms/design_philosophy/unblackboxing_public|Unblackboxing]]
 
 **Public entry:** this document
 **Deep analysis:** *not yet created*
@@ -56,12 +56,12 @@ The strategy was articulated explicitly by Steve Bannon: "Flood the zone with sh
 From the perspective of its users, the strategy is effective: it is cheap, scalable, and difficult to counter because there is no single false claim to rebut.
 
 **The Friction**
-[[public/platform_mechanisms/bot_farms_public|Bot Farms]] — networks of automated accounts — are the industrial infrastructure. [[public/platform_mechanisms/synthetic_generation_public|Synthetic Generation]] — AI-produced content at scale — accelerates it. [[public/behaviour_relationships/cognitive_surrender_public|Cognitive Surrender]] is the target state: an audience too overwhelmed to evaluate.
+[[terms/platform_mechanisms/bot_farms_public|Bot Farms]] — networks of automated accounts — are the industrial infrastructure. [[terms/platform_mechanisms/synthetic_generation_public|Synthetic Generation]] — AI-produced content at scale — accelerates it. [[terms/behaviour_relationships/cognitive_surrender_public|Cognitive Surrender]] is the target state: an audience too overwhelmed to evaluate.
 
 **Why This Matters**
 Once you see Flood the Zone as a strategy rather than an information quality problem, you see that the solution is not more fact-checking — it is understanding who benefits from the overwhelm.
 
-**See also:** [[public/platform_mechanisms/bot_farms_public|Bot Farms]] · [[public/platform_mechanisms/synthetic_generation_public|Synthetic Generation]] · [[public/behaviour_relationships/cognitive_surrender_public|Cognitive Surrender]]
+**See also:** [[terms/platform_mechanisms/bot_farms_public|Bot Farms]] · [[terms/platform_mechanisms/synthetic_generation_public|Synthetic Generation]] · [[terms/behaviour_relationships/cognitive_surrender_public|Cognitive Surrender]]
 
 `#society-power` `#power` `#framing` `#digital-alertness`
 

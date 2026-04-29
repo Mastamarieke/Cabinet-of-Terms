@@ -26,10 +26,10 @@ related_reaction:
 
 **Layer:** Consequence — Murrell 2023; algorithmic homogenisation of aesthetics
 
-**Cause:** [[public/platform_mechanisms/recommender_systems_public|Recommender Systems]] · [[public/platform_mechanisms/attention_economy_public|Attention Economy]]
-**Mechanism:** [[public/platform_mechanisms/synthetic_generation_public|Synthetic Generation]] · [[public/platform_mechanisms/ai_slop_public|AI Slop]]
+**Cause:** [[terms/platform_mechanisms/recommender_systems_public|Recommender Systems]] · [[terms/platform_mechanisms/attention_economy_public|Attention Economy]]
+**Mechanism:** [[terms/platform_mechanisms/synthetic_generation_public|Synthetic Generation]] · [[terms/platform_mechanisms/ai_slop_public|AI Slop]]
 **Consequence:** *—*
-**Reaction:** [[public/design_philosophy/unblackboxing_public|Unblackboxing]]
+**Reaction:** [[terms/design_philosophy/unblackboxing_public|Unblackboxing]]
 
 **Public entry:** this document
 **Deep analysis:** *not yet created*
@@ -56,12 +56,12 @@ Alex Murrell documented the Age of Average in a 2023 essay, showing how Airbnb i
 The average aesthetic performs because it is broadly appealing. It is not ugly — it is inoffensive, competent, and legible to the widest possible audience.
 
 **The Friction**
-[[public/platform_mechanisms/recommender_systems_public|Recommender Systems]] — optimising for engagement at scale — learn what the average audience responds to and amplify it. [[public/platform_mechanisms/synthetic_generation_public|Synthetic Generation]] — AI-produced content — accelerates convergence: models trained on existing content reproduce its average features. The exceptional, the difficult, and the unfamiliar are systematically disadvantaged.
+[[terms/platform_mechanisms/recommender_systems_public|Recommender Systems]] — optimising for engagement at scale — learn what the average audience responds to and amplify it. [[terms/platform_mechanisms/synthetic_generation_public|Synthetic Generation]] — AI-produced content — accelerates convergence: models trained on existing content reproduce its average features. The exceptional, the difficult, and the unfamiliar are systematically disadvantaged.
 
 **Why This Matters**
 Once you see the Age of Average as a structural consequence of algorithmic optimisation rather than a failure of taste, you see that cultural homogenisation is not accidental — it is what happens when the same optimisation logic is applied simultaneously to every aesthetic domain.
 
-**See also:** [[public/platform_mechanisms/recommender_systems_public|Recommender Systems]] · [[public/platform_mechanisms/synthetic_generation_public|Synthetic Generation]] · [[public/platform_mechanisms/ai_slop_public|AI Slop]]
+**See also:** [[terms/platform_mechanisms/recommender_systems_public|Recommender Systems]] · [[terms/platform_mechanisms/synthetic_generation_public|Synthetic Generation]] · [[terms/platform_mechanisms/ai_slop_public|AI Slop]]
 
 `#platform-mechanisms-economics` `#power` `#framing` `#digital-alertness`
 

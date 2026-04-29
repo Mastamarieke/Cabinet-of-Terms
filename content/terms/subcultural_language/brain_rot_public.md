@@ -27,9 +27,9 @@ related_reaction:
 
 **Layer:** Consequence — Oxford WotY 2024; subcultural self-diagnosis of cognitive decline through screen consumption
 
-**Cause:** [[public/platform_mechanisms/attention_harvesting_public|Attention Harvesting]] · [[public/platform_mechanisms/dopamine_feedback_loops_public|Dopamine Feedback Loops]]
-**Mechanism:** [[public/behaviour_relationships/doomscrolling_public|Doomscrolling]] · [[public/platform_mechanisms/ai_slop_public|AI Slop]]
-**Consequence:** [[public/behaviour_relationships/cognitive_surrender_public|Cognitive Surrender]] · [[public/students/deskilling_public|Deskilling]]
+**Cause:** [[terms/platform_mechanisms/attention_harvesting_public|Attention Harvesting]] · [[terms/platform_mechanisms/dopamine_feedback_loops_public|Dopamine Feedback Loops]]
+**Mechanism:** [[terms/behaviour_relationships/doomscrolling_public|Doomscrolling]] · [[terms/platform_mechanisms/ai_slop_public|AI Slop]]
+**Consequence:** [[terms/behaviour_relationships/cognitive_surrender_public|Cognitive Surrender]] · [[terms/students/deskilling_public|Deskilling]]
 **Reaction:** *—*
 
 **Public entry:** this document
@@ -57,12 +57,12 @@ Oxford University Press named Brain Rot as the word of the year for 2024, citing
 Self-aware humour about one's own consumption habits creates community and reduces shame. The term names a widely recognised experience with precision and levity.
 
 **The Friction**
-[[public/platform_mechanisms/attention_harvesting_public|Attention Harvesting]] — the systematic extraction of attention — produces the conditions Brain Rot describes. [[public/platform_mechanisms/ai_slop_public|AI Slop]] — mass AI-generated low-quality content — accelerates it. The paradox is structural: Brain Rot content is itself short-form, algorithmically amplified content that contributes to the phenomenon it describes. [[public/behaviour_relationships/cognitive_surrender_public|Cognitive Surrender]] is the more clinical term for the same pattern.
+[[terms/platform_mechanisms/attention_harvesting_public|Attention Harvesting]] — the systematic extraction of attention — produces the conditions Brain Rot describes. [[terms/platform_mechanisms/ai_slop_public|AI Slop]] — mass AI-generated low-quality content — accelerates it. The paradox is structural: Brain Rot content is itself short-form, algorithmically amplified content that contributes to the phenomenon it describes. [[terms/behaviour_relationships/cognitive_surrender_public|Cognitive Surrender]] is the more clinical term for the same pattern.
 
 **Why This Matters**
 Once you see Brain Rot as a platform-distributed self-diagnosis rather than a medical term, you see that the naming of the harm has been absorbed into the same system producing the harm — and that self-aware consumption is still consumption.
 
-**See also:** [[public/platform_mechanisms/attention_harvesting_public|Attention Harvesting]] · [[public/behaviour_relationships/doomscrolling_public|Doomscrolling]] · [[public/behaviour_relationships/cognitive_surrender_public|Cognitive Surrender]]
+**See also:** [[terms/platform_mechanisms/attention_harvesting_public|Attention Harvesting]] · [[terms/behaviour_relationships/doomscrolling_public|Doomscrolling]] · [[terms/behaviour_relationships/cognitive_surrender_public|Cognitive Surrender]]
 
 `#subcultural-vocabulary-platform-language` `#power` `#framing` `#digital-alertness`
 

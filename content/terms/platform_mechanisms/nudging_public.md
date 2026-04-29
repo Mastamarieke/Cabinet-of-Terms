@@ -26,10 +26,10 @@ related_reaction:
 
 **Layer:** Mechanism — Steering behaviour through environmental design without prohibition or command
 
-**Cause:** [[public/platform_mechanisms/attention_economy_public|Attention Economy]] · [[public/society_power/surveillance_capitalism_public|Surveillance Capitalism]]
-**Mechanism:** [[public/platform_mechanisms/dark_patterns_public|Dark Patterns]] · [[public/platform_mechanisms/gamification_creep_public|Gamification Creep]]
-**Consequence:** [[public/behaviour_relationships/cognitive_surrender_public|Cognitive Surrender]]
-**Reaction:** [[public/design_philosophy/unblackboxing_public|Unblackboxing]]
+**Cause:** [[terms/platform_mechanisms/attention_economy_public|Attention Economy]] · [[terms/society_power/surveillance_capitalism_public|Surveillance Capitalism]]
+**Mechanism:** [[terms/platform_mechanisms/dark_patterns_public|Dark Patterns]] · [[terms/platform_mechanisms/gamification_creep_public|Gamification Creep]]
+**Consequence:** [[terms/behaviour_relationships/cognitive_surrender_public|Cognitive Surrender]]
+**Reaction:** [[terms/design_philosophy/unblackboxing_public|Unblackboxing]]
 
 **Public entry:** this document
 **Deep analysis:** *not yet created*
@@ -56,12 +56,12 @@ Richard Thaler and Cass Sunstein developed nudge theory in *Nudge* (2008), drawi
 Nudging works and can serve genuine public goods: organ donation opt-outs save lives, cafeteria layouts improve nutrition. The mechanism is not inherently harmful.
 
 **The Friction**
-The same mechanism that improves cafeteria choices is deployed to maximise time-on-platform, suppress unsubscribe actions, and route users toward paid options. [[public/platform_mechanisms/dark_patterns_public|Dark Patterns]] — deliberate interface design that misleads users — are nudging without the transparency. The distinction between benign and manipulative nudging is not visible in the design itself.
+The same mechanism that improves cafeteria choices is deployed to maximise time-on-platform, suppress unsubscribe actions, and route users toward paid options. [[terms/platform_mechanisms/dark_patterns_public|Dark Patterns]] — deliberate interface design that misleads users — are nudging without the transparency. The distinction between benign and manipulative nudging is not visible in the design itself.
 
 **Why This Matters**
 Once you see nudging as a design tool rather than a neutral feature, you see that every default setting, every button placement, every pre-ticked box is a choice made by someone with interests that may not be yours.
 
-**See also:** [[public/platform_mechanisms/dark_patterns_public|Dark Patterns]] · [[public/platform_mechanisms/gamification_creep_public|Gamification Creep]] · [[public/platform_mechanisms/attention_economy_public|Attention Economy]]
+**See also:** [[terms/platform_mechanisms/dark_patterns_public|Dark Patterns]] · [[terms/platform_mechanisms/gamification_creep_public|Gamification Creep]] · [[terms/platform_mechanisms/attention_economy_public|Attention Economy]]
 
 `#platform-mechanisms-economics` `#power` `#framing` `#digital-alertness`
 

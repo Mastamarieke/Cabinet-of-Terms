@@ -26,10 +26,10 @@ related_reaction:
 
 **Layer:** Mechanism — Bandura's moral disengagement; framing people as less than human
 
-**Cause:** [[public/platform_mechanisms/attention_economy_public|Attention Economy]] · [[public/platform_mechanisms/recommender_systems_public|Recommender Systems]]
-**Mechanism:** [[public/culture_wars/subhuman_public|Subhuman]] · [[public/platform_mechanisms/ragebaiting_public|Ragebaiting]]
+**Cause:** [[terms/platform_mechanisms/attention_economy_public|Attention Economy]] · [[terms/platform_mechanisms/recommender_systems_public|Recommender Systems]]
+**Mechanism:** [[terms/culture_wars/subhuman_public|Subhuman]] · [[terms/platform_mechanisms/ragebaiting_public|Ragebaiting]]
 **Consequence:** *—*
-**Reaction:** [[public/culture_wars/deplatforming_public|Deplatforming]]
+**Reaction:** [[terms/culture_wars/deplatforming_public|Deplatforming]]
 
 **Public entry:** this document
 **Deep analysis:** *not yet created*
@@ -56,12 +56,12 @@ Albert Bandura documented dehumanization as a mechanism of moral disengagement i
 There is no legitimate appeal.
 
 **The Friction**
-[[public/platform_mechanisms/recommender_systems_public|Recommender Systems]] amplify emotionally intense content. Dehumanising language generates strong emotional responses and high engagement. [[public/culture_wars/subhuman_public|Subhuman]] is the linguistic expression; Dehumanization is the psychological process.
+[[terms/platform_mechanisms/recommender_systems_public|Recommender Systems]] amplify emotionally intense content. Dehumanising language generates strong emotional responses and high engagement. [[terms/culture_wars/subhuman_public|Subhuman]] is the linguistic expression; Dehumanization is the psychological process.
 
 **Why This Matters**
 Once you see Dehumanization as a documented psychological mechanism, you see that its presence in platform discourse is the predictable consequence of systems that reward emotional intensity without regard for harm.
 
-**See also:** [[public/culture_wars/subhuman_public|Subhuman]] · [[public/culture_wars/great_replacement_public|Great Replacement]] · [[public/platform_mechanisms/ragebaiting_public|Ragebaiting]]
+**See also:** [[terms/culture_wars/subhuman_public|Subhuman]] · [[terms/culture_wars/great_replacement_public|Great Replacement]] · [[terms/platform_mechanisms/ragebaiting_public|Ragebaiting]]
 
 `#culture-wars-political-language` `#power` `#framing` `#digital-alertness`
 

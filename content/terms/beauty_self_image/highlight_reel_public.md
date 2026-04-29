@@ -27,9 +27,9 @@ related_reaction:
 
 **Layer:** Mechanism — Showing only the best; unrealistic norm
 
-**Cause:** [[public/platform_mechanisms/attention_economy_public|Attention Economy]] · [[public/society_power/surveillance_capitalism_public|Surveillance Capitalism]]
-**Mechanism:** [[public/platform_mechanisms/recommender_systems_public|Recommender Systems]] · [[public/students/personal_branding_public|Personal Branding]]
-**Consequence:** [[public/beauty_self_image/comparison_culture_public|Comparison Culture]] · [[public/students/imposter_syndrome_public|Imposter Syndrome]]
+**Cause:** [[terms/platform_mechanisms/attention_economy_public|Attention Economy]] · [[terms/society_power/surveillance_capitalism_public|Surveillance Capitalism]]
+**Mechanism:** [[terms/platform_mechanisms/recommender_systems_public|Recommender Systems]] · [[terms/students/personal_branding_public|Personal Branding]]
+**Consequence:** [[terms/beauty_self_image/comparison_culture_public|Comparison Culture]] · [[terms/students/imposter_syndrome_public|Imposter Syndrome]]
 **Reaction:** *—*
 
 **Public entry:** this document
@@ -57,12 +57,12 @@ The metaphor comes from sports broadcasting. Applied to social media from around
 Sharing positive moments is natural human behaviour. The desire to present oneself well is not pathological.
 
 **The Friction**
-[[public/beauty_self_image/comparison_culture_public|Comparison Culture]] is produced by the aggregate of individual highlight reels. Each person compares their unedited experience against everyone else's edited presentation. [[public/students/imposter_syndrome_public|Imposter Syndrome]] is amplified: the gap between private reality and public success images generates persistent feelings of inadequacy.
+[[terms/beauty_self_image/comparison_culture_public|Comparison Culture]] is produced by the aggregate of individual highlight reels. Each person compares their unedited experience against everyone else's edited presentation. [[terms/students/imposter_syndrome_public|Imposter Syndrome]] is amplified: the gap between private reality and public success images generates persistent feelings of inadequacy.
 
 **Why This Matters**
 Once you see the highlight reel as a structural feature of platform self-presentation rather than individual vanity, you see that the unrealistic norm is not produced by individuals but by the architecture that makes editing and filtering the default.
 
-**See also:** [[public/beauty_self_image/comparison_culture_public|Comparison Culture]] · [[public/beauty_self_image/curated_life_public|Curated Life]] · [[public/students/imposter_syndrome_public|Imposter Syndrome]]
+**See also:** [[terms/beauty_self_image/comparison_culture_public|Comparison Culture]] · [[terms/beauty_self_image/curated_life_public|Curated Life]] · [[terms/students/imposter_syndrome_public|Imposter Syndrome]]
 
 `#beauty-influencers-self-image` `#power` `#framing` `#digital-alertness`
 

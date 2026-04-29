@@ -24,9 +24,9 @@ related_reaction:
 
 **Layer:** Mechanism — vendor lock in
 
-**Cause:** [[public/society_power/technofeudalism_public|Technofeudalism]] · [[public/society_power/surveillance_capitalism_public|Surveillance Capitalism]]
+**Cause:** [[terms/society_power/technofeudalism_public|Technofeudalism]] · [[terms/society_power/surveillance_capitalism_public|Surveillance Capitalism]]
 **Mechanism:** *—*
-**Consequence:** [[public/ai_specific/ai_dependency_public|AI Dependency]]
+**Consequence:** [[terms/ai_specific/ai_dependency_public|AI Dependency]]
 **Reaction:** *—*
 
 **Public entry:** this document
@@ -54,12 +54,12 @@ The term originates in technology procurement and infrastructure debates. It des
 Integrated systems are genuinely more efficient. Using one provider for storage, email, productivity tools, and infrastructure simplifies operations.
 
 **The Friction**
-The efficiency is real. The dependency is also real. When public institutions outsource infrastructure to private vendors, the exit costs can become politically and operationally impossible. [[public/society_power/technofeudalism_public|Technofeudalism]] — the structure in which platform owners extract rent from those who cannot leave — depends on lock-in as its mechanism.
+The efficiency is real. The dependency is also real. When public institutions outsource infrastructure to private vendors, the exit costs can become politically and operationally impossible. [[terms/society_power/technofeudalism_public|Technofeudalism]] — the structure in which platform owners extract rent from those who cannot leave — depends on lock-in as its mechanism.
 
 **Why This Matters**
 Once you see vendor lock-in as a structural condition rather than a technical inconvenience, you see that the question of data sovereignty is also a question of infrastructure sovereignty. Who owns the pipes determines who controls the flow.
 
-**See also:** [[public/society_power/technofeudalism_public|Technofeudalism]] · [[public/society_power/surveillance_capitalism_public|Surveillance Capitalism]] · [[public/ai_specific/ai_dependency_public|AI Dependency]]
+**See also:** [[terms/society_power/technofeudalism_public|Technofeudalism]] · [[terms/society_power/surveillance_capitalism_public|Surveillance Capitalism]] · [[terms/ai_specific/ai_dependency_public|AI Dependency]]
 
 `#privacy-compliance` `#power` `#framing` `#digital-alertness`
 

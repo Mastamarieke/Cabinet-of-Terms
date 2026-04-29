@@ -25,7 +25,7 @@ related_reaction:
 **Layer:** Mechanism — Mezirow; learning as perspective breakthrough; foundation of Digitale Alertheid
 
 **Cause:** *—*
-**Mechanism:** [[public/thinking_reasoning/cynefin_framework_public|Cynefin Framework]]
+**Mechanism:** [[terms/thinking_reasoning/cynefin_framework_public|Cynefin Framework]]
 **Consequence:** *—*
 **Reaction:** *—*
 
@@ -59,7 +59,7 @@ Perspective transformation is uncomfortable and often resisted. The disorienting
 **Why This Matters**
 Transformative Learning Theory is the theoretical foundation of Project Digitale Alertheid. The vault is designed not to add information about digital media but to shift the frame through which that media is seen. Every term analysis is, in Mezirow's terms, an invitation to a disorienting dilemma.
 
-**See also:** [[public/thinking_reasoning/cynefin_framework_public|Cynefin Framework]] · [[public/design_philosophy/unblackboxing_public|Unblackboxing]]
+**See also:** [[terms/thinking_reasoning/cynefin_framework_public|Cynefin Framework]] · [[terms/design_philosophy/unblackboxing_public|Unblackboxing]]
 
 `#thinking-reasoning` `#power` `#framing` `#digital-alertness`
 

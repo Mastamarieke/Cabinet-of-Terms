@@ -24,10 +24,10 @@ related_reaction:
 
 **Layer:** Consequence — ai dependency
 
-**Cause:** [[public/ai_specific/cognitive_offloading_public|Cognitive Offloading]] · [[public/students/deskilling_public|Deskilling]]
-**Mechanism:** [[public/platform_mechanisms/ai_as_a_utility_public|AI as a Utility]] · [[public/platform_mechanisms/recommender_systems_public|Recommender Systems]]
-**Consequence:** [[public/students/deskilling_public|Deskilling]] · [[public/behaviour_relationships/cognitive_surrender_public|Cognitive Surrender]]
-**Reaction:** [[public/appropriated_counter_force/digital_detox_public|Digital Detox]]
+**Cause:** [[terms/ai_specific/cognitive_offloading_public|Cognitive Offloading]] · [[terms/students/deskilling_public|Deskilling]]
+**Mechanism:** [[terms/platform_mechanisms/ai_as_a_utility_public|AI as a Utility]] · [[terms/platform_mechanisms/recommender_systems_public|Recommender Systems]]
+**Consequence:** [[terms/students/deskilling_public|Deskilling]] · [[terms/behaviour_relationships/cognitive_surrender_public|Cognitive Surrender]]
+**Reaction:** [[terms/appropriated_counter_force/digital_detox_public|Digital Detox]]
 
 **Public entry:** this document
 **Deep analysis:** *not yet created*
@@ -54,12 +54,12 @@ The term emerges from debates around automation and deskilling — first in manu
 AI tools genuinely reduce friction. They handle tasks that were tedious, error-prone, or time-consuming. For someone with a heavy workload, that relief is real.
 
 **The Friction**
-[[public/students/deskilling_public|Deskilling]] — the process by which automation makes skills redundant — accumulates quietly. The capacity to do something is not lost immediately; it fades through disuse. [[public/behaviour_relationships/cognitive_surrender_public|Cognitive Surrender]] — giving up one's own reasoning to digital systems — is the identity consequence: not just losing a skill, but losing the habit of trying.
+[[terms/students/deskilling_public|Deskilling]] — the process by which automation makes skills redundant — accumulates quietly. The capacity to do something is not lost immediately; it fades through disuse. [[terms/behaviour_relationships/cognitive_surrender_public|Cognitive Surrender]] — giving up one's own reasoning to digital systems — is the identity consequence: not just losing a skill, but losing the habit of trying.
 
 **Why This Matters**
 Once you see AI dependency as structural rather than personal, you stop asking "am I using this too much?" and start asking "what happens to my capacity when this is unavailable, changed, or wrong?" That is a harder question — and a more useful one.
 
-**See also:** [[public/platform_mechanisms/ai_as_a_utility_public|AI as a Utility]] · [[public/students/deskilling_public|Deskilling]] · [[public/behaviour_relationships/cognitive_surrender_public|Cognitive Surrender]]
+**See also:** [[terms/platform_mechanisms/ai_as_a_utility_public|AI as a Utility]] · [[terms/students/deskilling_public|Deskilling]] · [[terms/behaviour_relationships/cognitive_surrender_public|Cognitive Surrender]]
 
 `#ai-specific-terms` `#power` `#framing` `#digital-alertness`
 

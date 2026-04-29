@@ -27,10 +27,10 @@ related_reaction:
 
 **Layer:** Reaction — Design for everyone as starting point, not afterthought
 
-**Cause:** [[public/society_power/technofeudalism_public|Technofeudalism]] · [[public/society_power/surveillance_capitalism_public|Surveillance Capitalism]]
-**Mechanism:** [[public/inclusion_ageing/accessibility_public|Accessibility]] · [[public/inclusion_ageing/inclusive_design_public|Inclusive Design]]
+**Cause:** [[terms/society_power/technofeudalism_public|Technofeudalism]] · [[terms/society_power/surveillance_capitalism_public|Surveillance Capitalism]]
+**Mechanism:** [[terms/inclusion_ageing/accessibility_public|Accessibility]] · [[terms/inclusion_ageing/inclusive_design_public|Inclusive Design]]
 **Consequence:** *—*
-**Reaction:** [[public/design_philosophy/unblackboxing_public|Unblackboxing]] · [[public/design_philosophy/vsd_value_sensitive_design_public|VSD]]
+**Reaction:** [[terms/design_philosophy/unblackboxing_public|Unblackboxing]] · [[terms/design_philosophy/vsd_value_sensitive_design_public|VSD]]
 
 **Public entry:** this document
 **Deep analysis:** *not yet created*
@@ -57,12 +57,12 @@ Ron Mace coined Universal Design in 1988 at North Carolina State University. The
 Universal Design reduces cost: building in accessibility from the start is cheaper than retrofitting. It also improves products for all users — the curb cut effect is documented across domains.
 
 **The Friction**
-Universal Design is a principle, not a guarantee. Applied without genuine user research involving diverse users, it can produce designs that claim universality while still excluding. [[public/design_philosophy/vsd_value_sensitive_design_public|VSD]] — systematically integrating human values into design — is the methodological complement: Universal Design states the goal; VSD provides tools for achieving it.
+Universal Design is a principle, not a guarantee. Applied without genuine user research involving diverse users, it can produce designs that claim universality while still excluding. [[terms/design_philosophy/vsd_value_sensitive_design_public|VSD]] — systematically integrating human values into design — is the methodological complement: Universal Design states the goal; VSD provides tools for achieving it.
 
 **Why This Matters**
 Once you see Universal Design as a design philosophy rather than a technical standard, you see that the question is not whether a design is compliant — it is whether the people who need it most were involved in making it.
 
-**See also:** [[public/inclusion_ageing/accessibility_public|Accessibility]] · [[public/inclusion_ageing/inclusive_design_public|Inclusive Design]] · [[public/design_philosophy/vsd_value_sensitive_design_public|VSD]]
+**See also:** [[terms/inclusion_ageing/accessibility_public|Accessibility]] · [[terms/inclusion_ageing/inclusive_design_public|Inclusive Design]] · [[terms/design_philosophy/vsd_value_sensitive_design_public|VSD]]
 
 `#inclusion-accessibility-ageing` `#power` `#framing` `#digital-alertness`
 

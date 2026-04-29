@@ -25,10 +25,10 @@ related_reaction:
 
 **Layer:** Mechanism — Portmanteau of conspiracy and spirituality; wellness as entry to conspiracy ideology
 
-**Cause:** [[public/platform_mechanisms/recommender_systems_public|Recommender Systems]] · [[public/platform_mechanisms/attention_economy_public|Attention Economy]]
-**Mechanism:** [[public/culture_wars/wellness_to_alt_right_pipeline_public|Wellness-to-Alt-Right Pipeline]]
+**Cause:** [[terms/platform_mechanisms/recommender_systems_public|Recommender Systems]] · [[terms/platform_mechanisms/attention_economy_public|Attention Economy]]
+**Mechanism:** [[terms/culture_wars/wellness_to_alt_right_pipeline_public|Wellness-to-Alt-Right Pipeline]]
 **Consequence:** *—*
-**Reaction:** [[public/culture_wars/deplatforming_public|Deplatforming]]
+**Reaction:** [[terms/culture_wars/deplatforming_public|Deplatforming]]
 
 **Public entry:** this document
 **Deep analysis:** *not yet created*
@@ -55,12 +55,12 @@ Sociologists Charlotte Ward and David Voas coined conspirituality in a 2011 pape
 Wellness and spirituality communities address genuine needs: meaning, community, and scepticism of pharmaceutical and institutional authority.
 
 **The Friction**
-[[public/culture_wars/wellness_to_alt_right_pipeline_public|Wellness-to-Alt-Right Pipeline]] is the documented trajectory. [[public/platform_mechanisms/recommender_systems_public|Recommender Systems]] connect adjacent content: anti-vaccination leads to anti-elite content leads to conspiracy content.
+[[terms/culture_wars/wellness_to_alt_right_pipeline_public|Wellness-to-Alt-Right Pipeline]] is the documented trajectory. [[terms/platform_mechanisms/recommender_systems_public|Recommender Systems]] connect adjacent content: anti-vaccination leads to anti-elite content leads to conspiracy content.
 
 **Why This Matters**
 Once you see conspirituality as a documented platform pathway, you see that the connection between wellness communities and conspiracy movements is architecturally facilitated.
 
-**See also:** [[public/culture_wars/wellness_to_alt_right_pipeline_public|Wellness-to-Alt-Right Pipeline]] · [[public/culture_wars/qanon_public|QAnon]] · [[public/appropriated_counter_force/digital_detox_public|Digital Detox]]
+**See also:** [[terms/culture_wars/wellness_to_alt_right_pipeline_public|Wellness-to-Alt-Right Pipeline]] · [[terms/culture_wars/qanon_public|QAnon]] · [[terms/appropriated_counter_force/digital_detox_public|Digital Detox]]
 
 `#culture-wars-political-language` `#power` `#framing` `#digital-alertness`
 

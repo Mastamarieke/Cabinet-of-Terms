@@ -25,10 +25,10 @@ related_reaction:
 
 **Layer:** Mechanism — Obsession with the pure body as political metaphor
 
-**Cause:** [[public/platform_mechanisms/recommender_systems_public|Recommender Systems]] · [[public/platform_mechanisms/attention_economy_public|Attention Economy]]
-**Mechanism:** [[public/culture_wars/wellness_to_alt_right_pipeline_public|Wellness-to-Alt-Right Pipeline]]
+**Cause:** [[terms/platform_mechanisms/recommender_systems_public|Recommender Systems]] · [[terms/platform_mechanisms/attention_economy_public|Attention Economy]]
+**Mechanism:** [[terms/culture_wars/wellness_to_alt_right_pipeline_public|Wellness-to-Alt-Right Pipeline]]
 **Consequence:** *—*
-**Reaction:** [[public/culture_wars/deplatforming_public|Deplatforming]]
+**Reaction:** [[terms/culture_wars/deplatforming_public|Deplatforming]]
 
 **Public entry:** this document
 **Deep analysis:** *not yet created*
@@ -55,12 +55,12 @@ Purity Culture as a term entered discourse through Linda Kay Klein's *Pure* (201
 The desire for clarity, order, and clean categories is a genuine human tendency. Purity frameworks provide clear rules and strong community bonds.
 
 **The Friction**
-[[public/culture_wars/wellness_to_alt_right_pipeline_public|Wellness-to-Alt-Right Pipeline]] connects bodily purity culture to political purity culture. Applied to bodies, communities, and nations, purity logic has historically produced exclusion and violence.
+[[terms/culture_wars/wellness_to_alt_right_pipeline_public|Wellness-to-Alt-Right Pipeline]] connects bodily purity culture to political purity culture. Applied to bodies, communities, and nations, purity logic has historically produced exclusion and violence.
 
 **Why This Matters**
 Once you see Purity Culture as a political logic, you see the connection between clean eating, anti-vaccination, and ethnonationalism — as a shared structural framework.
 
-**See also:** [[public/culture_wars/wellness_to_alt_right_pipeline_public|Wellness-to-Alt-Right Pipeline]] · [[public/culture_wars/great_replacement_public|Great Replacement]]
+**See also:** [[terms/culture_wars/wellness_to_alt_right_pipeline_public|Wellness-to-Alt-Right Pipeline]] · [[terms/culture_wars/great_replacement_public|Great Replacement]]
 
 `#culture-wars-political-language` `#power` `#framing` `#digital-alertness`
 

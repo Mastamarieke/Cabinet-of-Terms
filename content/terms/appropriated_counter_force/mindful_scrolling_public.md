@@ -25,8 +25,8 @@ related_reaction:
 
 **Layer:** Reaction — Attentive use; recommended by the attention economy itself
 
-**Cause:** [[public/platform_mechanisms/attention_harvesting_public|Attention Harvesting]] · [[public/platform_mechanisms/dopamine_feedback_loops_public|Dopamine Feedback Loops]]
-**Mechanism:** [[public/appropriated_counter_force/digital_detox_public|Digital Detox]]
+**Cause:** [[terms/platform_mechanisms/attention_harvesting_public|Attention Harvesting]] · [[terms/platform_mechanisms/dopamine_feedback_loops_public|Dopamine Feedback Loops]]
+**Mechanism:** [[terms/appropriated_counter_force/digital_detox_public|Digital Detox]]
 **Consequence:** *—*
 **Reaction:** *—*
 
@@ -55,12 +55,12 @@ Mindful Scrolling emerged from the intersection of mindfulness culture and digit
 Conscious, intentional use of any tool is genuinely better than unreflective habit. Awareness of one's own patterns is the first step toward changing them.
 
 **The Friction**
-The paradox is structural: [[public/platform_mechanisms/dopamine_feedback_loops_public|Dopamine Feedback Loops]] — variable reward schedules designed to sustain compulsive engagement — are not neutralised by mindfulness. The platform profits equally from mindful and unmindful use. Recommending mindful scrolling allows platforms to appear concerned about wellbeing without changing the design that produces the harm.
+The paradox is structural: [[terms/platform_mechanisms/dopamine_feedback_loops_public|Dopamine Feedback Loops]] — variable reward schedules designed to sustain compulsive engagement — are not neutralised by mindfulness. The platform profits equally from mindful and unmindful use. Recommending mindful scrolling allows platforms to appear concerned about wellbeing without changing the design that produces the harm.
 
 **Why This Matters**
 Once you see mindful scrolling as a platform-endorsed coping strategy rather than a structural solution, you see that individual awareness cannot substitute for design accountability.
 
-**See also:** [[public/appropriated_counter_force/digital_detox_public|Digital Detox]] · [[public/platform_mechanisms/dopamine_feedback_loops_public|Dopamine Feedback Loops]] · [[public/platform_mechanisms/attention_harvesting_public|Attention Harvesting]]
+**See also:** [[terms/appropriated_counter_force/digital_detox_public|Digital Detox]] · [[terms/platform_mechanisms/dopamine_feedback_loops_public|Dopamine Feedback Loops]] · [[terms/platform_mechanisms/attention_harvesting_public|Attention Harvesting]]
 
 `#appropriated-counter-force` `#power` `#framing` `#digital-alertness`
 

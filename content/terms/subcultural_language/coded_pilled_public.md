@@ -26,10 +26,10 @@ related_reaction:
 
 **Layer:** Mechanism — productive suffixes; identity marker and ideological conversion
 
-**Cause:** [[public/platform_mechanisms/attention_economy_public|Attention Economy]] · [[public/platform_mechanisms/recommender_systems_public|Recommender Systems]]
-**Mechanism:** [[public/gender_identity/red_pill_public|Red Pill]] · [[public/gender_identity/manosphere_public|Manosphere]]
-**Consequence:** [[public/culture_wars/conspirituality_public|Conspirituality]]
-**Reaction:** [[public/design_philosophy/unblackboxing_public|Unblackboxing]]
+**Cause:** [[terms/platform_mechanisms/attention_economy_public|Attention Economy]] · [[terms/platform_mechanisms/recommender_systems_public|Recommender Systems]]
+**Mechanism:** [[terms/gender_identity/red_pill_public|Red Pill]] · [[terms/gender_identity/manosphere_public|Manosphere]]
+**Consequence:** [[terms/culture_wars/conspirituality_public|Conspirituality]]
+**Reaction:** [[terms/design_philosophy/unblackboxing_public|Unblackboxing]]
 
 **Public entry:** this document
 **Deep analysis:** *not yet created*
@@ -56,12 +56,12 @@ You see a post described as "red-coded" or hear that someone got "blackpill-pill
 The suffixes are linguistically efficient: "NATO-pilled" communicates a complex political position in one word. They signal in-group membership instantly. For people navigating ideologically dense online spaces, the vocabulary provides a shorthand that marks who belongs and who does not.
 
 **The Friction**
-The compression is also foreclosure. "X-pilled" implies conversion — a before and after, a revelation — that positions the labelled view as self-evidently correct. [[public/gender_identity/red_pill_public|Red Pill]] — the metaphor of waking up to hidden truth — is the structural ancestor: the suffix carries its epistemology. [[public/platform_mechanisms/recommender_systems_public|Recommender Systems]] — algorithms that route users toward ideologically consistent content — amplify the vocabulary because it generates high-engagement tribal signalling. Once a position is "-pilled," questioning it becomes apostasy rather than analysis.
+The compression is also foreclosure. "X-pilled" implies conversion — a before and after, a revelation — that positions the labelled view as self-evidently correct. [[terms/gender_identity/red_pill_public|Red Pill]] — the metaphor of waking up to hidden truth — is the structural ancestor: the suffix carries its epistemology. [[terms/platform_mechanisms/recommender_systems_public|Recommender Systems]] — algorithms that route users toward ideologically consistent content — amplify the vocabulary because it generates high-engagement tribal signalling. Once a position is "-pilled," questioning it becomes apostasy rather than analysis.
 
 **Why This Matters**
 Once you see -Coded / -Pilled as rhetorical mechanisms rather than neutral descriptors, you see how the suffix format forecloses the question it appears to answer. Describing something as "X-coded" does not explain what X means or why the association holds — it asserts it. The efficiency of the vocabulary is inseparable from its resistance to interrogation.
 
-**See also:** [[public/gender_identity/red_pill_public|Red Pill]] · [[public/gender_identity/manosphere_public|Manosphere]] · [[public/subcultural_language/brain_rot_public|Brain Rot]]
+**See also:** [[terms/gender_identity/red_pill_public|Red Pill]] · [[terms/gender_identity/manosphere_public|Manosphere]] · [[terms/subcultural_language/brain_rot_public|Brain Rot]]
 
 `#subcultural-vocabulary-platform-language` `#power` `#framing` `#digital-alertness`
 

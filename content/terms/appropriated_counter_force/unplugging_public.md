@@ -26,8 +26,8 @@ related_reaction:
 
 **Layer:** Reaction — Going offline as an online identity
 
-**Cause:** [[public/platform_mechanisms/attention_harvesting_public|Attention Harvesting]] · [[public/society_power/surveillance_capitalism_public|Surveillance Capitalism]]
-**Mechanism:** [[public/appropriated_counter_force/digital_detox_public|Digital Detox]] · [[public/appropriated_counter_force/slow_media_public|Slow Media]]
+**Cause:** [[terms/platform_mechanisms/attention_harvesting_public|Attention Harvesting]] · [[terms/society_power/surveillance_capitalism_public|Surveillance Capitalism]]
+**Mechanism:** [[terms/appropriated_counter_force/digital_detox_public|Digital Detox]] · [[terms/appropriated_counter_force/slow_media_public|Slow Media]]
 **Consequence:** *—*
 **Reaction:** *—*
 
@@ -56,12 +56,12 @@ Unplugging emerged as a counter-cultural practice alongside the mainstreaming of
 Genuine rest from digital stimulation is real and valuable. The desire to step back from constant connectivity responds to a real need.
 
 **The Friction**
-The announcement of unplugging is itself a platform engagement. [[public/appropriated_counter_force/digital_detox_public|Digital Detox]] follows the same logic: the retreat from platforms is visible on platforms. The identity of being someone who unplugs requires an audience — which requires a platform. The offline self is performed online.
+The announcement of unplugging is itself a platform engagement. [[terms/appropriated_counter_force/digital_detox_public|Digital Detox]] follows the same logic: the retreat from platforms is visible on platforms. The identity of being someone who unplugs requires an audience — which requires a platform. The offline self is performed online.
 
 **Why This Matters**
 Once you see unplugging as an identity performance rather than a genuine exit, you see that the binary of plugged-in and unplugged obscures the structural question: who benefits from framing the solution as individual disconnection?
 
-**See also:** [[public/appropriated_counter_force/digital_detox_public|Digital Detox]] · [[public/appropriated_counter_force/slow_media_public|Slow Media]] · [[public/platform_mechanisms/attention_harvesting_public|Attention Harvesting]]
+**See also:** [[terms/appropriated_counter_force/digital_detox_public|Digital Detox]] · [[terms/appropriated_counter_force/slow_media_public|Slow Media]] · [[terms/platform_mechanisms/attention_harvesting_public|Attention Harvesting]]
 
 `#appropriated-counter-force` `#power` `#framing` `#digital-alertness`
 
