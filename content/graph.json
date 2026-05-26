@@ -1,0 +1,111 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:Platform Mechanisms",
+      "color": { "a": 1, "rgb": 14233162 }
+    },
+    {
+      "query": "path:Gender",
+      "color": { "a": 1, "rgb": 12936730 }
+    },
+    {
+      "query": "path:Parents",
+      "color": { "a": 1, "rgb": 12094720 }
+    },
+    {
+      "query": "path:Behaviour",
+      "color": { "a": 1, "rgb": 1477805 }
+    },
+    {
+      "query": "path:AI-Specific",
+      "color": { "a": 1, "rgb": 956018 }
+    },
+    {
+      "query": "path:Students",
+      "color": { "a": 1, "rgb": 6970061 }
+    },
+    {
+      "query": "path:Beauty",
+      "color": { "a": 1, "rgb": 13000608 }
+    },
+    {
+      "query": "path:counter_movements",
+      "color": { "a": 1, "rgb": 10171245 }
+    },
+    {
+      "query": "path:Design Philosophy",
+      "color": { "a": 1, "rgb": 6983455 }
+    },
+    {
+      "query": "path:SF as Ideology",
+      "color": { "a": 1, "rgb": 38823 }
+    },
+    {
+      "query": "path:Culture Wars",
+      "color": { "a": 1, "rgb": 12862774 }
+    },
+    {
+      "query": "path:Society",
+      "color": { "a": 1, "rgb": 2264910 }
+    },
+    {
+      "query": "path:Privacy",
+      "color": { "a": 1, "rgb": 3113152 }
+    },
+    {
+      "query": "path:AI and Energy",
+      "color": { "a": 1, "rgb": 4149685 }
+    },
+    {
+      "query": "path:Inclusion",
+      "color": { "a": 1, "rgb": 6317963 }
+    },
+    {
+      "query": "path:Manifestos",
+      "color": { "a": 1, "rgb": 8011681 }
+    },
+    {
+      "query": "path:Statements",
+      "color": { "a": 1, "rgb": 4545124 }
+    },
+    {
+      "query": "path:End-Times",
+      "color": { "a": 1, "rgb": 13018152 }
+    },
+    {
+      "query": "path:Digital Professions",
+      "color": { "a": 1, "rgb": 1668562 }
+    },
+    {
+      "query": "path:Thinking",
+      "color": { "a": 1, "rgb": 10913792 }
+    },
+    {
+      "query": "path:Subcultural",
+      "color": { "a": 1, "rgb": 12071552 }
+    },
+    {
+      "query": "path:Consequences",
+      "color": { "a": 1, "rgb": 559995 }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 1,
+  "close": false
+}
