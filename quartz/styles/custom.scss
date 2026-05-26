@@ -1,3 +1,144 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+:root {
+  --han-red: #E50056;
+  --han-red-light: rgba(229, 0, 86, 0.08);
+  --han-red-hover: rgba(229, 0, 86, 0.15);
+  --text-primary: #1a1a1a;
+  --border-light: #e3e3e3;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  color: var(--text-primary);
+  background-color: #f8f9fb;
+}
+
+h1 {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+  color: #E50056 !important;
+  font-size: 2.2em;
+  letter-spacing: -0.02em;
+  border-bottom: none;
+}
+
+h2 {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  color: var(--han-red);
+  border-bottom: 2px solid var(--han-red);
+  padding-bottom: 0.2em;
+  margin-top: 2em;
+}
+
+h3 {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  color: var(--text-primary);
+}
+
+blockquote {
+  border-left: 4px solid var(--han-red);
+  background: var(--han-red-light);
+  padding: 0.8em 1.2em;
+  border-radius: 0 4px 4px 0;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  color: var(--han-red);
+}
+
+code,
+pre code {
+  background: #f5f5f5;
+  color: var(--han-red);
+  border-radius: 3px;
+  font-size: 0.85em;
+  padding: 2px 4px;
+}
+
+.tag,
+a.tag {
+  background: #F8F8F8 !important;
+  color: var(--text-primary) !important;
+  border: none !important;
+  border-radius: 12px !important;
+  font-weight: 500 !important;
+  padding: 2px 6px !important;
+  transition: background 0.2s ease !important;
+}
+
+.tag:hover,
+a.tag:hover {
+  background: #E3E3E3 !important;
+}
+
+ul li::marker {
+  color: var(--han-red);
+}
+
+/* Quartz page link boxes */
+a.internal,
+a.external,
+a.tag-link {
+  display: inline-block !important;
+  background: var(--han-red-light) !important;
+  border: 1px solid var(--han-red) !important;
+  border-radius: 12px !important;
+  padding: 2px 8px !important;
+  margin: 0 2px !important;
+  color: var(--han-red) !important;
+  text-decoration: none !important;
+  font-weight: 500 !important;
+  line-height: 1.5 !important;
+  transition: all 0.2s ease !important;
+}
+
+a.internal:hover,
+a.external:hover,
+a.tag-link:hover {
+  background: var(--han-red-hover) !important;
+  border-color: var(--han-red) !important;
+  transform: translateY(-2px) !important;
+  box-shadow: 0 4px 8px rgba(229, 0, 86, 0.2) !important;
+}
+
+a.external::after {
+  content: " ↗" !important;
+  font-size: 0.8em !important;
+  opacity: 0.7 !important;
+}
+
+/* Obsidian preview compatibility */
+.markdown-preview-view a.internal-link,
+.markdown-preview-view a.external-link,
+.cm-s-obsidian span.cm-link,
+.cm-s-obsidian a.internal-link,
+.cm-s-obsidian a.external-link {
+  display: inline-block !important;
+  background: var(--han-red-light) !important;
+  border: 1px solid var(--han-red) !important;
+  border-radius: 12px !important;
+  padding: 2px 8px !important;
+  margin: 0 2px !important;
+  color: var(--han-red) !important;
+  text-decoration: none !important;
+  font-weight: 500 !important;
+  line-height: 1.5 !important;
+  transition: all 0.2s ease !important;
+}
+
+.markdown-preview-view a.internal-link:hover,
+.markdown-preview-view a.external-link:hover,
+.cm-s-obsidian span.cm-link:hover {
+  background: var(--han-red-hover) !important;
+  border-color: var(--han-red) !important;
+  transform: translateY(-2px) !important;
+  box-shadow: 0 4px 8px rgba(229, 0, 86, 0.2) !important;
+}
+
+.markdown-preview-view a.external-link::after {
+  content: " ↗ " !important;
+  font-size: 0.8em !important;
+  opacity: 0.7 !important;
+}
