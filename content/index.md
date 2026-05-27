@@ -32,11 +32,17 @@ This is your place if you are not satisfied with superficial answers, but crave 
 This project is an inspiring resource for:
 
 **Researchers & Academics**: Who seek depth in the genealogy of terms and wish to use the 839 verified sources for sharp analysis.
+
 **Teachers & Educators**: Who want to inspire their students with the vocabulary,look for more terms, to think critically and remain resilient in a digital world.
+
 **Students**: From media, sociology, computer science, and design, who want to bridge theory with the fascinating, sometimes treacherous mechanisms of daily platform use.
+
 **Policymakers & Government Officials**: Who want to work with passion and insight on responsible digital policy, understanding how algorithms and data use shape our society.
+
 **Healthcare Professionals & Medical Staff**: Who want to explore the ethical and human side of digital healthcare tools, AI, and data to strengthen the quality of care.
+
 **Digital Citizens & Activists**: Who want to turn uncomfortable feelings about online interactions into clear insight and powerful resistance.
+
 **Designers & Developers**: Who want to improve their work with a critical eye and an ethical heart, understanding how design influences behavior and consciousness.
 
 Are you ready to lose yourself in the questions of why it works this way, who benefits, and which words hold the key to digital freedom? Then you are in the right place.
