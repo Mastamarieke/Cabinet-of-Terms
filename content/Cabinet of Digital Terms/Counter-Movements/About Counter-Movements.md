@@ -37,6 +37,6 @@ Consuming less, more carefully. A manifesto distributed via the media it questio
 Abstaining from technology as a viral format. Shared on the platforms you are abstaining from.
 
 ### [[Unplugging]]
-- [[Fediverse]]
+[[Fediverse]]
 Going offline as an online identity. The paradox completes itself.
 
