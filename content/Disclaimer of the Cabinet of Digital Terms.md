@@ -1,8 +1,6 @@
 ---
 ---
 
-# About this vault
-
 *Cabinet of Digital Terms — Version 1 — Project Digitale Alertheid, HAN CMD — 2026*
 
 ---

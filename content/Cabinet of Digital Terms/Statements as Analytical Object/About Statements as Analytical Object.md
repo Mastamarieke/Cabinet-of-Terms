@@ -1,9 +1,6 @@
 ---
 ---
 
-# Statements as Analytical Object
-
-
 ***Executives speak in public. Sometimes, in doing so, they reveal more than they intended.***
 
 This cluster treats quoted statements as analytical objects — sentences that expose the categorical frameworks, strategic calculations, and institutional assumptions of the people who made them. Not what was said, but what the saying reveals.

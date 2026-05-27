@@ -19,9 +19,6 @@ related_reaction:
   - AI Literacy
 ---
 
-# Tu Nube Seca Mi Río
-
-
 ***Spanish activist collective. Your cloud dries my river. Four words that name what a data centre does to a watershed.***
 
 **The statement:** *"Tu nube seca mi río."* — slogan of Spanish activist groups protesting data centre water consumption, particularly in the Madrid region, from around 2022–2024. Translation: "Your cloud dries my river."

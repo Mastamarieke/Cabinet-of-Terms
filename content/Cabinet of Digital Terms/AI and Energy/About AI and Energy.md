@@ -1,9 +1,6 @@
 ---
 ---
 
-# AI and Energy
-
-
 ***Every question you ask an AI model costs electricity. The bill goes somewhere. Not to you.***
 
 This cluster maps the material reality behind digital abstraction. The digital economy has a body — it consumes water, occupies land, and draws power. These costs are real. They are just not visible from the interface.

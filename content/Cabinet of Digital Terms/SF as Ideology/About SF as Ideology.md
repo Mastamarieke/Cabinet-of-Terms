@@ -1,9 +1,6 @@
 ---
 ---
 
-# SF as Ideology
-
-
 ***Science fiction became the business plan. The singularity, Mars colonisation, mind uploading — these are not metaphors. They are funding pitches.***
 
 This cluster maps science fiction terms deployed as serious policy or identity rhetoric. When the impossible becomes the inevitable, ideological choices hide behind visionary language.

@@ -57,7 +57,6 @@ import os, re
 
 vault_dir = 'Cabinet of Digital Terms'  # adjust path as needed
 
-# Build set of all valid filenames (without .md)
 valid = set()
 for root, dirs, files in os.walk(vault_dir):
     for f in files:

@@ -16,9 +16,6 @@ related_reaction:
   - Fair Patterns
 ---
 
-# *Adversarial Design*
-
-
 ***The poster does not explain the problem. It makes you feel the problem — and asks who benefits from it staying that way.***
 
 **Literal meaning:** "Adversarial" means positioned against something or someone. **Adversarial design** uses design methods — objects, interfaces, spaces, images — to make power structures and political conflicts visible and felt, rather than smoothed over. It does not offer a solution. It creates confrontation.

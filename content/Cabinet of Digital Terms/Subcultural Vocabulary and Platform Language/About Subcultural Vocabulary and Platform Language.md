@@ -1,9 +1,6 @@
 ---
 ---
 
-# Subcultural Vocabulary and Platform Language
-
-
 ***Language that starts online, moves offline, and mutates constantly. By the time you know what it means, it already means something else.***
 
 This cluster maps the mechanisms by which platform architecture shapes language — and how that language travels from screens into everyday speech, carrying its original context with it. Some of this vocabulary is playful. Some of it is ideological. Often it is both simultaneously, which is part of what makes it analytically interesting.

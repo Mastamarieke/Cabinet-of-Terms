@@ -1,9 +1,6 @@
 ---
 ---
 
-# Design Philosophy and Ethical Design
-
-
 ***Every design choice is a choice. Dark patterns and predatory interfaces are not inevitable — they are designed. Which means they can be designed differently.***
 
 This cluster maps the philosophical and methodological tools for doing exactly that. These are not utopian ideals — they are working frameworks used by designers who have decided that user interest matters.

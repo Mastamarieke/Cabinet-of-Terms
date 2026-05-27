@@ -1,9 +1,6 @@
 ---
 ---
 
-# End-Times Thinking and Elite Survivalism
-
-
 ***The world is ending. Only I can navigate what comes next. Therefore, what I accumulate is not for me — it is for everyone.***
 
 This cluster maps ideologies that take civilisational collapse as given and build a power or identity project on top of it. The apocalypse as premise. The bunker as conclusion.

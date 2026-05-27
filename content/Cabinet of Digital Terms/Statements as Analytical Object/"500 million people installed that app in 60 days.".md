@@ -17,9 +17,6 @@ related_reaction:
   - AI Literacy
 ---
 
-# "500 million people installed that app in 60 days."
-
-
 ***Scale as self-evident value. Five hundred million unknowing data contributors.***
 
 **The statement:** *"500 million people installed that app in 60 days."* — **Brian McClendon**, CTO of **Niantic** Spatial, describing the Pokémon Go launch in 2016, in public presentations about **Niantic**'s Large Geospatial Model.

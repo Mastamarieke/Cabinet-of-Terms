@@ -16,9 +16,6 @@ related_reaction:
   - Brussels Effect
 ---
 
-# "I could definitely see it."
-
-
 ***Neither yes nor no. Every door left open.***
 
 **The statement:** *"I could definitely see it."* — **Brian McClendon**, **Niantic**, in response to the question of whether governments and militaries could purchase access to or licence **Niantic**'s Large Geospatial Model (LGM), at Bellingfest 2024.

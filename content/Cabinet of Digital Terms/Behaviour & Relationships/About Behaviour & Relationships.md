@@ -1,9 +1,6 @@
 ---
 ---
 
-# Behaviour & Relationships
-
-
 ***Ghosting, phubbing, doomscrolling — these words did not exist thirty years ago. The behaviour they describe mostly did not either.***
 
 This cluster maps the new social patterns that emerged from platform architecture. Many of these behaviours feel personal. They are also structural.

@@ -17,9 +17,6 @@ related_reaction:
   - Brussels Effect
 ---
 
-# "Like Prime, but with human beings."
-
-
 ***Logistics language applied to deportation. Said without noticing it was said.***
 
 **The statement:** *"Like Prime, but with human beings."* — Caleb Vitello, Acting Director of US Immigration and Customs Enforcement (ICE), describing ImmigrationOS — **Palantir**'s deportation case management platform — to journalists, 2025.

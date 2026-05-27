@@ -17,9 +17,6 @@ related_reaction:
   - Brussels Effect
 ---
 
-# "Adding amplitude to war is obviously an issue."
-
-
 ***An acknowledgement that is not a refusal. The word "issue" doing all the work.***
 
 **The statement:** *"Adding amplitude to war is obviously an issue."* — **Brian McClendon**, SVP Engineering at **Niantic**, speaking at Bellingfest 2024, when asked about the military implications of **Niantic**'s Large Geospatial Model.

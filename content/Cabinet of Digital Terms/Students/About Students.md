@@ -1,9 +1,6 @@
 ---
 ---
 
-# Students
-
-
 ***Study, build a personal brand, grow your network, develop a side hustle, stay authentic, don't burn out. The list gets longer every year.***
 
 This cluster maps the pressures students face at the intersection of digital identity, the labour market, and academic integrity. These terms describe a specific moment in which the platform economy and the education system collide — and students are in the middle.

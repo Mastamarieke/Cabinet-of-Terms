@@ -1,9 +1,6 @@
 ---
 ---
 
-# Parents & Children
-
-
 ***Children did not ask to be born into the attention economy. But they were.***
 
 This cluster maps the specific ways platforms exploit the vulnerabilities of minors — and the ways parental behaviour sometimes reproduces that same logic without meaning to. The risks are not accidental. They are built in.

@@ -1,9 +1,6 @@
 ---
 ---
 
-# Privacy, Data and Control
-
-
 ***The privacy policy is forty-seven pages long. You clicked agree. So did everyone else.***
 
 This cluster maps the gap between privacy rhetoric and privacy practice — and the mechanisms through which surveillance and control are exercised, obscured, or resisted.

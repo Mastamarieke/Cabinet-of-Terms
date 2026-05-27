@@ -1,9 +1,6 @@
 ---
 ---
 
-# Culture Wars and Political Language
-
-
 ***Words that used to mean one thing now mean another. The change was not accidental.***
 
 This cluster maps terms that frame political positions as medical threats, hostile infiltration, or biological facts. The vocabulary here does not describe disagreements — it terminates them. When your opponent is a virus, a groomer, or subhuman, there is nothing left to discuss. The language forecloses the debate it appears to be part of.

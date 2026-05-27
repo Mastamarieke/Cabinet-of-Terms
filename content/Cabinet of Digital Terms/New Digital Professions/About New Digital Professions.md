@@ -1,9 +1,6 @@
 ---
 ---
 
-# New Digital Professions
-
-
 ***These jobs exist because something in the system is not working. The system created them to keep functioning.***
 
 This cluster maps professions that emerge from digital transformation — not the roles the tech industry celebrates, but the roles that exist because something is broken, hidden, or unaccountable. Content moderators make platforms safe in ways algorithms cannot. Algorithmic auditors find the bias that companies would prefer not to find. Ghost workers and Mechanical Turk labourers keep AI systems functioning while remaining structurally invisible.

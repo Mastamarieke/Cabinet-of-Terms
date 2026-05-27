@@ -18,9 +18,6 @@ related_reaction:
   - Brussels Effect
 ---
 
-# "We have never and will never sell user data."
-
-
 ***Technically true. Designed to be understood as meaning something it does not say.***
 
 **The statement:** *"We have never and will never sell user data."* — **Mark Zuckerberg**, CEO of Meta, in congressional testimony and public statements, repeatedly from 2018 onward.

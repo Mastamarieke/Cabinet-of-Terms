@@ -1,9 +1,6 @@
 ---
 ---
 
-# Platform Mechanisms & Economics
-
-
 ***The platform is not a neutral tool. It is a designed environment that shapes behaviour in the interest of the people who built it.***
 
 This cluster maps how platforms operate, steer, and profit. The terms here describe the technical and economic architecture that produces user behaviour — not as an accident but as an outcome. Recommender systems surface content that keeps you engaged. Dark patterns make it harder to leave than to stay. Gamification creep turns every interaction into a scored performance.

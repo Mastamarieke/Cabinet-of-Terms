@@ -1,9 +1,6 @@
 ---
 ---
 
-# Counter-Movements
-
-
 ***The solution can be worse than the problem — especially when you need five new apps to detox from your apps.***
 
 This cluster maps a specific mechanism: resistance that reproduces what it resists. Digital detox, slow media, mindful scrolling — promoted via the very platforms they critique. The cure sold by the disease.

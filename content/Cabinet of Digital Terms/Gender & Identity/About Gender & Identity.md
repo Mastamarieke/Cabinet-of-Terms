@@ -1,9 +1,6 @@
 ---
 ---
 
-# Gender & Identity
-
-
 ***Somewhere online, attractiveness is being turned into a number. And that number is being used to rank people.***
 
 This cluster maps the vocabulary of the manosphere and its adjacent spaces — communities that distribute normative gender hierarchies as personal philosophy. These terms did not emerge from nowhere. They are the product of specific platforms, specific algorithms, and specific grievances that the internet learned to amplify.

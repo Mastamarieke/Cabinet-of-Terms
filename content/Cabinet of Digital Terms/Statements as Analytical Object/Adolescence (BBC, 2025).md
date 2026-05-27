@@ -19,9 +19,6 @@ related_reaction:
   - Deplatforming
 ---
 
-# Adolescence (BBC, 2025)
-
-
 ***A television drama as evidence. The mainstream caught up with what researchers had been documenting for years.***
 
 **The object:** *Adolescence* — a four-episode BBC drama written by Jack Thorne and Stephen Graham, broadcast in March 2025. The series centres on the investigation and aftermath of a thirteen-year-old boy who has stabbed a female classmate to death, exploring how he came to be radicalised through **manosphere** content and **incel** ideology encountered online.

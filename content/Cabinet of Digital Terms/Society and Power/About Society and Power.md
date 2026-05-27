@@ -1,9 +1,6 @@
 ---
 ---
 
-# Society and Power
-
-
 ***A small number of people now control the infrastructure that everyone depends on. This cluster has the words for that.***
 
 This cluster maps the structural concepts describing the political-economic architecture of the digital age — who has power, how it is exercised, and what language is used to obscure it. The terms here are not about individual bad actors. They describe systems: feudal structures, information weapons, governance models, and the machinery by which public authority is transferred to private hands.

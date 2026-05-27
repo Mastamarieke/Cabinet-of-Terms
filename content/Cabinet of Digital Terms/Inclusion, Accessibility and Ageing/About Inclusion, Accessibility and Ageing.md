@@ -1,9 +1,6 @@
 ---
 ---
 
-# Inclusion, Accessibility and Ageing
-
-
 ***The app was updated. The button moved. Nobody asked the people who needed it most.***
 
 This cluster maps a blind spot in the digital debate. Digital systems structurally exclude certain groups — and that exclusion is a design choice, not an accident.

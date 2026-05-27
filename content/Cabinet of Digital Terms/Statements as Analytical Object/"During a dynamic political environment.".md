@@ -18,9 +18,6 @@ related_reaction:
   - Brussels Effect
 ---
 
-# "During a dynamic political environment."
-
-
 ***"Dynamic" means distracted. Launch when attention is elsewhere.***
 
 **The statement:** *"During a dynamic political environment."* — from an internal Meta memo discussing the launch timing of the Ray-Ban Meta smart glasses' Name Tag feature — facial recognition capability that identifies people by name from a photograph — reported by 404 Media in 2024.

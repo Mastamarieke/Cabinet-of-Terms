@@ -18,9 +18,6 @@ related_reaction:
   - Deplatforming
 ---
 
-# c
-
-
 ***A conspiracy theory from a French book in 2011, cited in three mass shooting manifestos by 2022.***
 
 **Literal meaning:** The **Great Replacement** is a white nationalist conspiracy theory holding that white European populations are being deliberately replaced — through immigration, demographic change, and falling birth rates — by non-white populations, orchestrated by a global elite (often coded as Jewish). The theory frames demographic change as a coordinated genocide of white identity.

@@ -1,9 +1,6 @@
 ---
 ---
 
-# Manifestos
-
-
 ***These texts shaped how we think about technology, power, and the body. Their vocabulary still circulates — sometimes as inspiration, sometimes as justification for the opposite.***
 
 This cluster maps the foundational texts and concepts that built the ideological architecture of the digital age. Haraway, Barlow, VNS Matrix — and the distance between what they meant and how their words are now used.

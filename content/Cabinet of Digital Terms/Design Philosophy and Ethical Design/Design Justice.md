@@ -18,9 +18,6 @@ related_reaction:
   - Adversarial Design
 ---
 
-# *Design Justice*
-
-
 ***The app was designed for everyone. Everyone who looks like the design team.***
 
 **Literal meaning:** Justice, in design contexts, refers not to legal outcomes but to the equitable distribution of design benefits and harms. **Design justice** asks: who benefits from this design, who bears its costs, and — crucially — who was in the room when decisions were made?
