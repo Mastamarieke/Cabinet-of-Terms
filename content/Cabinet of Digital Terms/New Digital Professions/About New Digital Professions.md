@@ -1,7 +1,4 @@
 ---
-tags:
-  - "New Digital Professions"
-  - about
 ---
 
 # New Digital Professions

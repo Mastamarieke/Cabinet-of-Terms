@@ -1,7 +1,4 @@
 ---
-tags:
-  - "Privacy, Data and Control"
-  - about
 ---
 
 # Privacy, Data and Control

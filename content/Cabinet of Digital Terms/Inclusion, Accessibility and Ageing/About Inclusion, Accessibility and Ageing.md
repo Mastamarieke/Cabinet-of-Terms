@@ -1,7 +1,4 @@
 ---
-tags:
-  - "Inclusion, Accessibility and Ageing"
-  - about
 ---
 
 # Inclusion, Accessibility and Ageing

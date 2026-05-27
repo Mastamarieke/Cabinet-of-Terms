@@ -5,10 +5,6 @@ analytical_layer: reaction
 status: publieksversie
 version: V1
 analysis_version: pending
-tags:
-  - subcultural-vocabulary-platform-language
-  - "Subcultural Vocabulary and Platform Language"
-  - publieksversie
 related_cause:
   - Content Moderator
   - Recommender Systems

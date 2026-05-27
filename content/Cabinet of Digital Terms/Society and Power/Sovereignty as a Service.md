@@ -5,10 +5,6 @@ analytical_layer: consequence
 status: publieksversie
 version: V2
 analysis_version: pending
-tags:
-  - society-and-power
-  - "Society and Power"
-  - publieksversie
 related_cause:
   - Vendor Lock-in
   - Technofeudalism

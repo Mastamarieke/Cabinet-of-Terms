@@ -1,7 +1,4 @@
 ---
-tags:
-  - "Students"
-  - about
 ---
 
 # Students

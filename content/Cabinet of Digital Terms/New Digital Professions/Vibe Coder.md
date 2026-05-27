@@ -5,10 +5,6 @@ analytical_layer: consequence
 status: publieksversie
 version: V2
 analysis_version: pending
-tags:
-  - new-digital-professions
-  - "New Digital Professions"
-  - publieksversie
 related_cause:
   - AI Dependency
   - Cognitive Surrender

@@ -5,10 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V1
 analysis_version: pending
-tags:
-  - sf-as-ideology
-  - "SF as Ideology"
-  - publieksversie
 related_cause:
   - Transhumanism
   - Neuralink

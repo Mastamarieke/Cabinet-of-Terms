@@ -5,10 +5,6 @@ analytical_layer: cause
 status: publieksversie
 version: V2
 analysis_version: pending
-tags:
-  - parents-children
-  - "Parents & Children"
-  - publieksversie
 related_cause:
   - Predatory Design
   - Gamification Creep

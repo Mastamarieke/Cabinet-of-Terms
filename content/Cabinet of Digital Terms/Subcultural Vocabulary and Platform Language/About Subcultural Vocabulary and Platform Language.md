@@ -1,7 +1,4 @@
 ---
-tags:
-  - "Subcultural Vocabulary and Platform Language"
-  - about
 ---
 
 # Subcultural Vocabulary and Platform Language

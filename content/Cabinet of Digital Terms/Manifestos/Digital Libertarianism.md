@@ -5,10 +5,6 @@ analytical_layer: cause
 status: publieksversie
 version: V2
 analysis_version: pending
-tags:
-  - manifestos
-  - "Manifestos"
-  - publieksversie
 related_cause:
   - Objectivism (Rand)
   - Muskism

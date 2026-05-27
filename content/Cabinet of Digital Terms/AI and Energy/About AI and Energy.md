@@ -1,7 +1,4 @@
 ---
-tags:
-  - "AI and Energy"
-  - about
 ---
 
 # AI and Energy

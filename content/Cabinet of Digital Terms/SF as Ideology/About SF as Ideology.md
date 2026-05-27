@@ -1,7 +1,4 @@
 ---
-tags:
-  - "SF as Ideology"
-  - about
 ---
 
 # SF as Ideology

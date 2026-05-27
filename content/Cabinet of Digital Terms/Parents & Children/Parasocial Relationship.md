@@ -5,10 +5,6 @@ analytical_layer: consequence
 status: publieksversie
 version: V2
 analysis_version: pending
-tags:
-  - parents-children
-  - "Parents & Children"
-  - publieksversie
 related_cause:
   - Recommender Systems
   - Dopamine Feedback Loops

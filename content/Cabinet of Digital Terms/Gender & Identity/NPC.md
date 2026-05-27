@@ -5,10 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V2
 analysis_version: pending
-tags:
-  - gender-identity
-  - "Gender & Identity"
-  - publieksversie
 related_cause:
   - Gamification Creep
   - Manosphere

@@ -1,7 +1,4 @@
 ---
-tags:
-  - "Platform Mechanisms & Economics"
-  - about
 ---
 
 # Platform Mechanisms & Economics

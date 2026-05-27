@@ -5,10 +5,6 @@ analytical_layer: consequence
 status: publieksversie
 version: V1
 analysis_version: pending
-tags:
-  - end-times-elite-survivalism
-  - "End-Times Thinking and Elite Survivalism"
-  - publieksversie
 related_cause:
   - Millenarianism
   - Armageddon Complex

@@ -1,7 +1,4 @@
 ---
-tags:
-  - "Statements as Analytical Object"
-  - about
 ---
 
 # Statements as Analytical Object

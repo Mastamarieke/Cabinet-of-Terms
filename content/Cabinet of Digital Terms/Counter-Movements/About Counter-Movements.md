@@ -1,7 +1,4 @@
 ---
-tags:
-  - "Counter-Movements"
-  - about
 ---
 
 # Counter-Movements

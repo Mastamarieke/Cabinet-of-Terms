@@ -1,7 +1,4 @@
 ---
-tags:
-  - "Behaviour & Relationships"
-  - about
 ---
 
 # Behaviour & Relationships

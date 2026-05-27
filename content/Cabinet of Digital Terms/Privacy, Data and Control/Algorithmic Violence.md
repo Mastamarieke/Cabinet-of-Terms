@@ -5,10 +5,6 @@ analytical_layer: consequence
 status: publieksversie
 version: V2
 analysis_version: pending
-tags:
-  - privacy-data-control
-  - "Privacy, Data and Control"
-  - publieksversie
 related_cause:
   - Surveillance Capitalism
   - Informatics of Domination

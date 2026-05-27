@@ -5,10 +5,6 @@ analytical_layer: consequence
 status: publieksversie
 version: V2
 analysis_version: pending
-tags:
-  - beauty-influencers-self-image
-  - "Beauty, Influencers & Self-Image"
-  - publieksversie
 related_cause:
   - Beauty Filter
   - Comparison Culture

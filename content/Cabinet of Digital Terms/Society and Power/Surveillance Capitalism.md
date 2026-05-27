@@ -5,10 +5,6 @@ analytical_layer: cause
 status: publieksversie
 version: V2
 analysis_version: pending
-tags:
-  - society-and-power
-  - "Society and Power"
-  - publieksversie
 related_cause:
   - Technofeudalism
   - Broligarchy

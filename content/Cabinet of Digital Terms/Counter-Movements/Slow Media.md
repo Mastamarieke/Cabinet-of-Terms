@@ -5,10 +5,6 @@ analytical_layer: reaction
 status: publieksversie
 version: V2
 analysis_version: pending
-tags:
-  - counter-movements
-  - "Counter-Movements"
-  - publieksversie
 related_cause:
   - Attention Economy
   - Clickbait

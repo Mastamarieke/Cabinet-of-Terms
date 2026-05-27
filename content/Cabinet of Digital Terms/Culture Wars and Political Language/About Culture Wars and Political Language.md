@@ -1,7 +1,4 @@
 ---
-tags:
-  - "Culture Wars and Political Language"
-  - about
 ---
 
 # Culture Wars and Political Language

@@ -5,10 +5,6 @@ analytical_layer: cause
 status: publieksversie
 version: V2
 analysis_version: pending
-tags:
-  - platform-mechanisms-economics
-  - "Platform Mechanisms & Economics"
-  - publieksversie
 related_cause:
   - Attention Economy
   - Predatory Design

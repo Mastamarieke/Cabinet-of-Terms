@@ -5,10 +5,6 @@ analytical_layer: consequence
 status: publieksversie
 version: V1
 analysis_version: pending
-tags:
-  - consequences-digital-behaviour
-  - "Consequences of Digital Behaviour"
-  - publieksversie
 related_cause:
   - AI Dependency
   - Cognitive Offloading

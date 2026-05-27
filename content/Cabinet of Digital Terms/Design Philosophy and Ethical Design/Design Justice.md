@@ -5,10 +5,6 @@ analytical_layer: reaction
 status: publieksversie
 version: V1
 analysis_version: pending
-tags:
-  - design-philosophy-ethical-design
-  - "Design Philosophy and Ethical Design"
-  - publieksversie
 related_cause:
   - Deceptive Design
   - Dark Patterns

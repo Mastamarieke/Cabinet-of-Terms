@@ -5,10 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V2
 analysis_version: pending
-tags:
-  - statements-analytical-object
-  - "Statements as Analytical Object"
-  - publieksversie
 related_cause:
   - Flood the Zone
   - Surveillance Capitalism

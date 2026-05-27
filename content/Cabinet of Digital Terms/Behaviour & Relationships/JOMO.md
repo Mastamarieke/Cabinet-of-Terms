@@ -5,10 +5,6 @@ analytical_layer: reaction
 status: publieksversie
 version: V2
 analysis_version: pending
-tags:
-  - behaviour-relationships
-  - "Behaviour & Relationships"
-  - publieksversie
 related_cause:
   - FOMO
   - Attention Economy

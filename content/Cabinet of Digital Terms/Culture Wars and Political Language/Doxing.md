@@ -5,10 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V1
 analysis_version: pending
-tags:
-  - culture-wars-political-language
-  - "Culture Wars and Political Language"
-  - publieksversie
 related_cause:
 related_mechanism:
   - dehumanization

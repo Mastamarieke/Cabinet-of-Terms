@@ -5,10 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V2
 analysis_version: pending
-tags:
-  - inclusion-accessibility-ageing
-  - "Inclusion, Accessibility and Ageing"
-  - publieksversie
 related_cause:
   - Digital Exclusion
   - Predatory Design

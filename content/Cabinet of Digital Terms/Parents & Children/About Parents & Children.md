@@ -1,7 +1,4 @@
 ---
-tags:
-  - "Parents & Children"
-  - about
 ---
 
 # Parents & Children

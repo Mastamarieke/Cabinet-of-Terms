@@ -1,7 +1,4 @@
 ---
-tags:
-  - "Manifestos"
-  - about
 ---
 
 # Manifestos
