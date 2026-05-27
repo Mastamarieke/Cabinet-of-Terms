@@ -5,10 +5,6 @@ analytical_layer: cause
 status: publieksversie
 version: V2
 analysis_version: pending
-tags:
-  - inclusion-accessibility-ageing
-  - "Inclusion, Accessibility and Ageing"
-  - publieksversie
 related_cause:
   - Digital Colonialism
   - Surveillance Capitalism

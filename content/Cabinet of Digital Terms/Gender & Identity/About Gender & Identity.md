@@ -1,7 +1,4 @@
 ---
-tags:
-  - "Gender & Identity"
-  - about
 ---
 
 # Gender & Identity

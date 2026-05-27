@@ -1,7 +1,4 @@
 ---
-tags:
-  - about
-  - disclaimer
 ---
 
 # About this vault

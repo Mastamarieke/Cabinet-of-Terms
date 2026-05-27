@@ -1,7 +1,4 @@
 ---
-tags:
-  - "Consequences of Digital Behaviour"
-  - about
 ---
 
 # Consequences of Digital Behaviour

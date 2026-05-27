@@ -5,10 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V1
 analysis_version: pending
-tags:
-  - platform-mechanisms-economics
-  - "Platform Mechanisms & Economics"
-  - publieksversie
 related_cause:
 related_mechanism:
 related_consequence:

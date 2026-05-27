@@ -1,7 +1,4 @@
 ---
-tags:
-  - "AI-Specific Terms"
-  - about
 ---
 
 # AI-Specific Terms

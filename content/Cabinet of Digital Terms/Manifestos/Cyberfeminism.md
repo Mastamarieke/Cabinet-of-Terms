@@ -5,10 +5,6 @@ analytical_layer: reaction
 status: publieksversie
 version: V2
 analysis_version: pending
-tags:
-  - manifestos
-  - "Manifestos"
-  - publieksversie
 related_cause:
   - Informatics of Domination
   - Digital Libertarianism

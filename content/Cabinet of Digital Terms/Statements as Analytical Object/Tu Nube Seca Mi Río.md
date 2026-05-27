@@ -5,10 +5,6 @@ analytical_layer: reaction
 status: publieksversie
 version: V1
 analysis_version: pending
-tags:
-  - statements-analytical-object
-  - "Statements as Analytical Object"
-  - publieksversie
 related_cause:
   - AI Energy Consumption
   - Digital Colonialism

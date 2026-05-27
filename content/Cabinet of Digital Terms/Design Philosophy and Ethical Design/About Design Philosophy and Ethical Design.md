@@ -1,7 +1,4 @@
 ---
-tags:
-  - "Design Philosophy and Ethical Design"
-  - about
 ---
 
 # Design Philosophy and Ethical Design

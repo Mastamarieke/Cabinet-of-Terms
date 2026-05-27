@@ -5,10 +5,6 @@ analytical_layer: reaction
 status: publieksversie
 version: V2
 analysis_version: pending
-tags:
-  - design-philosophy-ethical-design
-  - "Design Philosophy and Ethical Design"
-  - publieksversie
 related_cause:
   - Black Box
   - Obfuscation

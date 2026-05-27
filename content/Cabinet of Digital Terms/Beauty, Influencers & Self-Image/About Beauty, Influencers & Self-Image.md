@@ -1,7 +1,4 @@
 ---
-tags:
-  - "Beauty, Influencers & Self-Image"
-  - about
 ---
 
 # Beauty, Influencers & Self-Image

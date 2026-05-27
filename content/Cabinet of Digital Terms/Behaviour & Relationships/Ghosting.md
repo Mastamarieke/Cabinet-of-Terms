@@ -5,10 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V2
 analysis_version: pending
-tags:
-  - behaviour-relationships
-  - "Behaviour & Relationships"
-  - publieksversie
 related_cause:
   - Predatory Design
   - Attention Economy

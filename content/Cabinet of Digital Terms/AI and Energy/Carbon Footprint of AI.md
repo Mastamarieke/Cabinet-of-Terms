@@ -5,10 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V2
 analysis_version: pending
-tags:
-  - ai-and-energy
-  - "AI and Energy"
-  - publieksversie
 related_cause:
   - Training Run
   - Inference Cost

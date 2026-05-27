@@ -5,10 +5,6 @@ analytical_layer: reaction
 status: publieksversie
 version: V2
 analysis_version: pending
-tags:
-  - ai-and-energy
-  - "AI and Energy"
-  - publieksversie
 related_cause:
   - AI Energy Consumption
   - Carbon Footprint of AI

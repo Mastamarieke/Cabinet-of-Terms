@@ -5,10 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V2
 analysis_version: pending
-tags:
-  - culture-wars-political-language
-  - "Culture Wars and Political Language"
-  - publieksversie
 related_cause:
   - Red Pill
   - Flood the Zone

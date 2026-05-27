@@ -5,10 +5,6 @@ analytical_layer: cause
 status: publieksversie
 version: V2
 analysis_version: pending
-tags:
-  - beauty-influencers-self-image
-  - "Beauty, Influencers & Self-Image"
-  - publieksversie
 related_cause:
   - Recommender Systems
   - Highlight Reel

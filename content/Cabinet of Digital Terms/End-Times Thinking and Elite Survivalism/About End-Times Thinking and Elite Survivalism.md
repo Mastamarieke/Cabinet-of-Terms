@@ -1,7 +1,4 @@
 ---
-tags:
-  - "End-Times Thinking and Elite Survivalism"
-  - about
 ---
 
 # End-Times Thinking and Elite Survivalism

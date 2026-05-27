@@ -5,10 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V2
 analysis_version: pending
-tags:
-  - ai-specific-terms
-  - "AI-Specific Terms"
-  - publieksversie
 related_cause:
   - AI Dependency
   - Hustle Culture

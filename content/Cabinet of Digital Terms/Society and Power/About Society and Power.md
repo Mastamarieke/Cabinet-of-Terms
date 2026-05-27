@@ -1,7 +1,4 @@
 ---
-tags:
-  - "Society and Power"
-  - about
 ---
 
 # Society and Power

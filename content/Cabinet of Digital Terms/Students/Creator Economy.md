@@ -5,10 +5,6 @@ analytical_layer: cause
 status: publieksversie
 version: V2
 analysis_version: pending
-tags:
-  - students
-  - "Students"
-  - publieksversie
 related_cause:
   - Attention Economy
   - Recommender Systems
