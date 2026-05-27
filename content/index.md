@@ -101,7 +101,7 @@ Each entry's navigation block at the bottom lists related terms per layer — ma
 
 ## Project Digitale Alertheid — Conversation Pieces
 
-The Kabinet is part of a larger project. **Project Digitale Alertheid** strengthens digital awareness and resilience by turning digital manipulation into material experience. It does this through **conversation pieces** — designed artefacts that create friction, provoke dialogue, and make abstract platform mechanisms tangible.
+The Cabinet of Terms is part of a larger project. **Project Digitale Alertheid** strengthens digital awareness and resilience by turning digital manipulation into material experience. It does this through **conversation pieces** — designed artefacts that create friction, provoke dialogue, and make abstract platform mechanisms tangible.
 
 **Soulmeter** — A jeopardy board combined with a life-size telephone that exposes data extraction mechanics. Players encounter surprise, discomfort, and moments of recognition when they discover how much a platform knows about them from a single interaction.
 
