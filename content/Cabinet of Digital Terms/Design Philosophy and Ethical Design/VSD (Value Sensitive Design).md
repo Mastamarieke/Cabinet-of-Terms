@@ -18,9 +18,6 @@ related_reaction:
   - Fair Patterns
 ---
 
-# VSD (Value Sensitive Design)
-
-
 ***Before building the system, someone asked: whose values does this embed — and who did not get a seat at the table?***
 
 **Literal meaning:** Value Sensitive Design is a methodological framework for designing technology systems that explicitly accounts for human values — privacy, autonomy, informed consent, wellbeing, fairness — throughout the entire design process, not as a compliance step at the end.

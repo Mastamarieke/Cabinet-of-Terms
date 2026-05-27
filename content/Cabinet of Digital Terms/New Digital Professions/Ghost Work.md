@@ -14,8 +14,6 @@ related_reaction:
   - []
 ---
 
-# Ghost Work
-
 ***The platform runs on human labour. The interface shows none of it.***
 
 **Literal meaning**

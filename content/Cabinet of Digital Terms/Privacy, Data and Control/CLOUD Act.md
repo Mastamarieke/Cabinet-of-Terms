@@ -19,9 +19,6 @@ related_reaction:
   - Sovereign Cloud
 ---
 
-# CLOUD Act
-
-
 ***Your data is stored in Ireland. The server is owned by an American company. US law applies.***
 
 **Literal meaning:** The **CLOUD Act** (Clarifying Lawful Overseas Use of Data Act) is a 2018 US law that requires US-based technology companies to provide US law enforcement and government agencies with data stored on their servers, regardless of where that data is physically located — including in EU jurisdictions where GDPR provides data protection rights.

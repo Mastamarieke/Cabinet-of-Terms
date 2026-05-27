@@ -20,9 +20,6 @@ related_reaction:
   - AI Literacy
 ---
 
-# Recommender Systems
-
-
 ***You watched one video about a topic. The next ten appeared automatically. You did not search for them.***
 
 **Literal meaning:** **Recommender systems** are algorithms that determine which content, products, or connections to surface to users — filtering the vast supply of available content down to a personalised feed optimised for a platform-defined objective, typically engagement, dwell time, or conversion.

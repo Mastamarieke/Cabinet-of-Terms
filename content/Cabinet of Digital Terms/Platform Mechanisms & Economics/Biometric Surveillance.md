@@ -19,9 +19,6 @@ related_reaction:
   - Privacy, Data and Control
 ---
 
-# Biometric Surveillance
-
-
 ***The camera does not just see you. It measures you — your face, your pace, your pulse — and stores the result.***
 
 **Literal meaning:** **Biometric surveillance** is the collection, processing, and analysis of physical or behavioural characteristics — facial features, fingerprints, iris patterns, gait, voice, heartrate — to identify, track, or make inferences about individuals. In the platform context, it includes facial recognition in consumer devices, emotion detection in advertising systems, and the use of physiological signals as engagement and targeting data.

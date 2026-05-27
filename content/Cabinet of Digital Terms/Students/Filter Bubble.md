@@ -19,9 +19,6 @@ related_reaction:
   - Slow Media
 ---
 
-# Filter Bubble
-
-
 ***You see what confirms what you already think. The algorithm is not lying — it is optimising.***
 
 **Literal meaning:** A **filter bubble** is the personalised information environment created by algorithmic recommendation systems — a bubble of content tailored to your previous engagement patterns, in which confirming information is surfaced and challenging information is filtered out.

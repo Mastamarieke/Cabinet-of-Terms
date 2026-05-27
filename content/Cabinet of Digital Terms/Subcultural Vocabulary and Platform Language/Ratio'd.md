@@ -18,9 +18,6 @@ related_reaction:
   - AI Literacy
 ---
 
-# Ratio'd
-
-
 ***The post has 200 likes and 4,000 replies. That is not applause.***
 
 **Literal meaning:** To be "**ratio'd**" (from "ratioed") means that a post has received significantly more replies — typically critical or hostile — than likes or positive engagements, producing a visible metric disproportion that signals public disapproval. The ratio is both a fact (the numbers) and a verdict (the community has rejected this).

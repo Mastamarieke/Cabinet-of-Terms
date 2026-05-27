@@ -18,9 +18,6 @@ related_reaction:
   - Deplatforming
 ---
 
-# Deep State
-
-
 ***Two incompatible definitions sharing one word. The confusion is useful to one of them.***
 
 **Literal meaning:** In political science and journalism, "**deep state**" describes the permanent administrative infrastructure of government — career civil servants, intelligence agencies, and regulatory bodies — that persists across administrations and exercises substantial policy influence independent of elected officials. In populist political discourse, the same term describes a secret cabal of unelected elites deliberately undermining the will of the people and the elected leader.

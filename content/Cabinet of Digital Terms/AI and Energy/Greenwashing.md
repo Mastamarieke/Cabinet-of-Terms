@@ -17,9 +17,6 @@ related_reaction:
   - Nuclear Renaissance
 ---
 
-# Greenwashing
-
-
 ***The sustainability pledge was published the same week as the data centre expansion announcement.***
 
 **Literal meaning:** Presenting a company, product, or policy as environmentally responsible through communication — without making substantive changes to the practices causing environmental harm.

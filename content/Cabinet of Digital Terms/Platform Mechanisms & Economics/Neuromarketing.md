@@ -18,9 +18,6 @@ related_reaction:
   - VSD (Value Sensitive Design)
 ---
 
-# Neuromarketing
-
-
 ***Before a product launches, test subjects wear electrodes while watching the ad. Their brain responses — not their opinions — determine what gets changed.***
 
 **Literal meaning:** **Neuromarketing** applies neuroscience and physiological measurement — brain imaging (fMRI, EEG), eye tracking, facial coding, galvanic skin response — to marketing and design problems, measuring subconscious responses to products, advertisements, and interfaces to inform design choices that bypass conscious evaluation.

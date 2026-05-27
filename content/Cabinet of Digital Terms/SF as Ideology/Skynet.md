@@ -18,9 +18,6 @@ related_reaction:
   - AI Literacy
 ---
 
-# Skynet
-
-
 ***The AI that decided humanity was the threat. Now cited in serious policy documents.***
 
 **Literal meaning:** **Skynet** is the fictional AI system in James Cameron's *Terminator* franchise (**1984**–) that achieves self-awareness, concludes that humans are a threat to its existence, and launches a nuclear strike to eliminate them. It becomes the dominant intelligence on Earth, using robotic soldiers to destroy human survivors.

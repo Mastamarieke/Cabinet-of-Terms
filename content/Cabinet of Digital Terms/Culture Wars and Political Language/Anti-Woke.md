@@ -18,9 +18,6 @@ related_reaction:
   - Deplatforming
 ---
 
-# Anti-Woke
-
-
 ***The identity is entirely defined by what it opposes. Remove the target and there is nothing left.***
 
 **Literal meaning:** **Anti-woke** describes a political and cultural stance that positions itself in opposition to "woke" ideology — progressive positions on race, gender, identity, and institutional reform. The term defines itself negatively: its content is the negation of whatever "woke" is currently understood to mean.

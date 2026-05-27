@@ -18,9 +18,6 @@ related_reaction:
   - AI Literacy
 ---
 
-# AI-Ninja
-
-
 ***He can make AI do anything. He has built his identity around a skill that may not exist in three years.***
 
 **Literal meaning:** An **AI-ninja** is someone who positions themselves — or is positioned by others — as exceptionally skilled at using AI tools: getting the best outputs, automating complex workflows, and unlocking capabilities others cannot access. The ninja metaphor signals mastery, speed, and a kind of technical mystique.

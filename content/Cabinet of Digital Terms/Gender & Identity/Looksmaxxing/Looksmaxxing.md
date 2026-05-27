@@ -19,8 +19,6 @@ related_reaction:
   - Deinfluencing
 ---
 
-# Looksmaxxing
-
 ***The routine takes two hours. The supplements cost more than food. The goal is a score on a scale that does not officially exist.***
 
 **Literal meaning:** **Looksmaxxing** describes the practice of systematically maximising physical attractiveness through any available means — skincare, fitness, surgery, dental work, posture correction, and increasingly procedures targeting bone structure such as jaw contouring and canthal tilt correction. The "-maxxing" suffix signals optimisation to a maximum: not improvement but maximisation. Practitioners receive a "facial rating" — a numerical score on a fixed hierarchy running from **Subhuman** through Low Tier Normie, Mid Tier Normie, **Chad**, Adamlite, to True Adam (10/10). Women are ranked on a parallel scale: Becky, Stacy. Below a four: **Subhuman**. The vocabulary is the ideology.

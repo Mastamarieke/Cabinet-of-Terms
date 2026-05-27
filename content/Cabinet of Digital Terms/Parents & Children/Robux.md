@@ -18,9 +18,6 @@ related_reaction:
   - Fair Patterns
 ---
 
-# Robux
-
-
 ***The money is not called money. It is called Robux. The child does not notice the difference.***
 
 **Literal meaning:** **Robux** is the virtual currency of the **Roblox** platform. Real money is converted into **Robux** to purchase virtual items — avatar accessories, game passes, and in-game content. The exchange rate converts the psychological reality of money into an abstracted number, reducing the friction of spending.

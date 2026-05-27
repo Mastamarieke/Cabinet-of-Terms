@@ -19,9 +19,6 @@ related_reaction:
   - Brussels Effect
 ---
 
-# Mars Colonization
-
-
 ***Escape from Earth, privately funded, personally led. The philanthropy of leaving.***
 
 > Escape from Earth as a privately funded, personally led project — where the language of species survival conceals the politics of who gets to leave.

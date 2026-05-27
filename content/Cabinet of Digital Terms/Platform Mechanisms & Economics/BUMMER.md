@@ -19,9 +19,6 @@ related_reaction:
   - AI Literacy
 ---
 
-# BUMMER
-
-
 ***Jaron Lanier spent years inside Silicon Valley before writing down what it actually is: a machine for modifying human behaviour and renting the results.***
 
 **Literal meaning:** **BUMMER** — Behaviours of Users Modified and Made into an Empire for Rent — is **Jaron Lanier**'s acronym for the dominant architecture of commercial social media platforms, introduced in *Ten Arguments for Deleting Your Social Media Accounts Right Now* (2018). It names the system by which platforms modify user behaviour through algorithmic manipulation and rent out the resulting behavioural influence to advertisers and political operators.

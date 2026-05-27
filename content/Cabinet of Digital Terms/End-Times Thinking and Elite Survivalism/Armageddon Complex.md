@@ -18,9 +18,6 @@ related_reaction:
   - Situated Knowledge
 ---
 
-# Armageddon Complex
-
-
 ***He is not pessimistic. He is correct. The evidence is selected accordingly.***
 
 **Literal meaning:** **Armageddon complex** describes the psychological and political pattern in which apocalyptic belief — the conviction that civilisation faces imminent catastrophic collapse — functions simultaneously as genuine conviction and as justification for power accumulation. The believer is not necessarily insincere: the emergency may feel real. Its convenience is a structural feature, not necessarily a calculated strategy.

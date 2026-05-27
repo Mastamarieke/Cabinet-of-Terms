@@ -18,9 +18,6 @@ related_reaction:
   - Deinfluencing
 ---
 
-# Beauty Filter
-
-
 ***The face in the camera is not your face. You have been looking at it for three years.***
 
 **Literal meaning:** A **beauty filter** is software — built into cameras, social media apps, and video platforms — that modifies facial appearance in real time: smoothing skin, enlarging eyes, slimming the nose, brightening the complexion. Available as a default feature on most major platforms, applied automatically in many cases before the user makes any choice.

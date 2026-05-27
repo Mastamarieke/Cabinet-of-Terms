@@ -19,9 +19,6 @@ related_reaction:
   - Deinfluencing
 ---
 
-# Influencer
-
-
 ***She recommends a product. You do not know she was paid to. Neither label is visible.***
 
 **Literal meaning:** An **influencer** is a person who has built a social media audience large enough to affect the purchasing decisions, opinions, or behaviours of followers — and who monetises that audience through brand partnerships, sponsored content, and affiliate arrangements. The term replaced earlier vocabulary: celebrity endorsement, word-of-mouth, brand ambassador.

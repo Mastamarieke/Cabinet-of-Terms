@@ -17,9 +17,6 @@ related_reaction:
   - JOMO
 ---
 
-# Orbiting
-
-
 ***You ended the relationship. You still watch every story.***
 
 **Literal meaning:** **Orbiting** describes the pattern of maintaining passive digital presence in someone's life after ending direct communication — continuing to view their stories, like their posts, or engage minimally with their content, without resuming contact. The name comes from the image of remaining in someone's gravitational field without landing.

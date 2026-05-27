@@ -12,8 +12,6 @@ related_reaction:
   - unblackboxing
 ---
 
-# Narrative Engineering
-
 ***The story was not true. It was not meant to be believed. It was meant to be repeated.***
 
 **Literal meaning**

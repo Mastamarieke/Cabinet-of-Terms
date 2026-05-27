@@ -14,8 +14,6 @@ related_reaction:
   - unblackboxing
 ---
 
-# Digital Overload
-
 ***You have read everything and retained nothing.***
 
 **Literal meaning**

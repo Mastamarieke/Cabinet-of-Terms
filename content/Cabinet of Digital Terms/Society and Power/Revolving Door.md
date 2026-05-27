@@ -19,9 +19,6 @@ related_reaction:
   - Situated Knowledge
 ---
 
-# Revolving Door
-
-
 ***The regulator becomes the lobbyist. The general becomes the board member.***
 
 **Literal meaning:** The **revolving door** describes the movement of individuals between senior positions in government, regulatory agencies, and the private sector companies they previously regulated or will subsequently regulate — producing relationships, institutional knowledge, and implicit obligations that serve the interests of both the individuals and the industries they move between.

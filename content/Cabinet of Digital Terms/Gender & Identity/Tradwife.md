@@ -18,9 +18,6 @@ related_reaction:
   - Deinfluencing
 ---
 
-# Tradwife
-
-
 ***She bakes bread, raises children, defers to her husband — and films all of it for an audience of millions.***
 
 **Literal meaning:** **Tradwife** — from *traditional wife* — describes women who publicly embrace and promote a domestic, homemaking role as their primary identity: cooking, cleaning, child-rearing, and deference to a male **provider**, presented as a deliberate, values-driven lifestyle choice rather than economic necessity.

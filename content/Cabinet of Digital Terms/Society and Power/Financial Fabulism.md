@@ -18,9 +18,6 @@ related_reaction:
   - Fact Checker
 ---
 
-# Financial Fabulism
-
-
 ***The valuation does not reflect the revenue. The revenue does not reflect the users. People lost real money.***
 
 > Financial claims that systematically exceed reality — not technically fraud, but a genre in which the gap between claim and fact is the product.

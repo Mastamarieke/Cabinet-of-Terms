@@ -17,9 +17,6 @@ related_reaction:
   - Womanosphere
 ---
 
-# Provider
-
-
 ***He pays. She stays. The arrangement is framed as nature, not negotiation.***
 
 **Literal meaning:** In **manosphere** and red-pill discourse, "**provider**" describes a man who offers financial resources and security to a partner — framed not as care or partnership but as a transactional exchange: he provides resources, she provides domestic labour and access. The term positions financial provision as the male's primary relationship function.

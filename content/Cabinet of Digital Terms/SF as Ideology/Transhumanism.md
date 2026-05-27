@@ -19,9 +19,6 @@ related_reaction:
   - Situated Knowledge
 ---
 
-# Transhumanism
-
-
 ***Death is an engineering problem. Aging is a bug. The body is legacy hardware.***
 
 **Literal meaning:** **Transhumanism** is an intellectual and cultural movement that advocates for the use of technology to enhance human physical, cognitive, and psychological capacities — and ultimately to transcend current human limitations including ageing and death. It treats biological constraints as problems to be solved by engineering rather than conditions to be accepted.

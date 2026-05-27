@@ -21,9 +21,6 @@ related_reaction:
   - Fair Patterns
 ---
 
-# Persuasive Technology
-
-
 ***The app does not force you to keep scrolling. It simply makes stopping feel like the unnatural option.***
 
 **Literal meaning:** **Persuasive technology** refers to interactive systems designed specifically to change human attitudes or behaviour — not through force or argument, but through the structure of the interface itself. The technology does the persuading; the user is unaware it is happening.

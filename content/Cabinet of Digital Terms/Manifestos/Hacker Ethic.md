@@ -19,9 +19,6 @@ related_reaction:
   - Situated Knowledge
 ---
 
-# Hacker Ethic
-
-
 ***Information wants to be free. This was a moral claim before it was a business model.***
 
 **Literal meaning:** The **hacker ethic** describes the set of values that emerged from MIT's computer culture in the 1950s–70s: that access to computers and information should be unlimited and total; that all information wants to be free; that authority should be mistrusted; and that hackers should be judged by their hacking rather than by credentials, race, age, or position.

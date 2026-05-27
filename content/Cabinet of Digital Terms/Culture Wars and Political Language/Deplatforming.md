@@ -18,9 +18,6 @@ related_reaction:
   - Brussels Effect
 ---
 
-# Deplatforming
-
-
 ***He was removed from the platform. His follower count on the remaining platforms increased.***
 
 **Literal meaning:** **Deplatforming** describes the removal of a person, account, or community from a digital platform — through banning, suspension, or account termination — typically in response to violations of community guidelines, hate speech policies, or terms of service. High-profile deplatformings include the removal of Alex Jones from multiple platforms in 2018 and Donald Trump from Twitter/X in January 2021.

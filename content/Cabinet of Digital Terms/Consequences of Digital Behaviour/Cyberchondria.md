@@ -13,8 +13,6 @@ related_reaction:
   - []
 ---
 
-# Cyberchondria
-
 ***You searched the symptom. An hour later you had three diagnoses, all serious.***
 
 **Literal meaning**

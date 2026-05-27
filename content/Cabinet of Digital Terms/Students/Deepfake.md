@@ -19,9 +19,6 @@ related_reaction:
   - Fact Checker
 ---
 
-# Deepfake
-
-
 ***The video shows her saying it. She never said it. You cannot tell from watching.***
 
 **Literal meaning:** A **deepfake** is a synthetic media product — typically video or audio — in which a real person's likeness, voice, or both are used to generate content they did not produce. The term combines "deep learning" (the AI technique) with "fake." The most common applications include political disinformation (fabricated speeches), non-consensual intimate imagery (NCII), and fraud (voice cloning for financial scams).

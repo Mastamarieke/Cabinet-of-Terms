@@ -19,9 +19,6 @@ related_reaction:
   - Cyberfeminism
 ---
 
-# Technofeudalism
-
-
 ***You work on their platform. They set the terms. You have nowhere else to go.***
 
 **Literal meaning:** **Technofeudalism** is **Yanis Varoufakis**' argument that digital platform capitalism has moved beyond capitalism into a new economic form — one that more closely resembles feudalism than the competitive markets that capitalism requires. Platform owners extract "cloud rent" from users and businesses who depend on their infrastructure, much as feudal lords extracted rent from serfs who worked their land.

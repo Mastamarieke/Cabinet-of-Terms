@@ -17,9 +17,6 @@ related_reaction:
   - AI Literacy
 ---
 
-# Algospeak
-
-
 ***People write "unalive" instead of "die" — not to be clever, but because the algorithm removes the real words.***
 
 **Literal meaning:** **Algospeak** is the language people use on social media to slip past automated content filters. It is a form of self-censorship where users invent coded words, altered spellings, emojis, and euphemisms to keep their posts from being flagged or removed by algorithmic moderation systems.

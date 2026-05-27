@@ -19,9 +19,6 @@ related_reaction:
   - Universal Design
 ---
 
-# Digital Coach
-
-
 ***She helps people navigate systems that were not designed to be navigated.***
 
 **Literal meaning:** A **digital coach** is a person who helps others navigate digital systems — devices, apps, online services, security settings — through patient, personalised guidance rather than technical instruction. The role bridges the gap between how digital systems are designed and how non-expert users actually experience them.

@@ -19,9 +19,6 @@ related_reaction:
   - Situated Knowledge
 ---
 
-# Disaster Nationalism
-
-
 ***The crisis is an opportunity — for the right nation, led by the right people.***
 
 **Literal meaning:** **Disaster nationalism** describes the political strategy of using genuine crises — pandemics, climate events, economic shocks, security incidents — to consolidate nationalist power, close borders, suppress opposition, and reframe structural political problems as threats requiring emergency nationalist response.

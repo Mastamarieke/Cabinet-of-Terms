@@ -19,9 +19,6 @@ related_reaction:
   - Digital Detox
 ---
 
-# Imposter Syndrome
-
-
 ***Everyone else seems to know what they are doing. You feel one question away from being found out.***
 
 **Literal meaning:** **Imposter syndrome** describes the experience of doubting your own competence and fearing exposure as a fraud — despite evidence of achievement — and attributing your success to luck, timing, or deception rather than genuine ability. The term was coined by psychologists Pauline Clance and Suzanne Imes in 1978.

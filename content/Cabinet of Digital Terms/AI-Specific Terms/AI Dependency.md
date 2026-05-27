@@ -17,9 +17,6 @@ related_reaction:
   - AI Literacy
 ---
 
-# AI Dependency
-
-
 ***You could do this without AI. You no longer remember how.***
 
 **Literal meaning:** **AI dependency** describes the structural integration of AI tools into workflows, decisions, and cognitive processes — to the point where functioning without them becomes difficult or impossible. It is distinct from useful tool adoption: dependency implies that the capacity to operate independently has diminished.

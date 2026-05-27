@@ -17,9 +17,6 @@ related_reaction:
   - Digital Coach
 ---
 
-# UNC
-
-
 ***The adult in the room who does not understand the reference. The label ends the conversation.***
 
 **Literal meaning:** UNC — from "uncle" — is subcultural slang, originating in Black American vernacular, for an older man who is out of touch, uncool, or embarrassing in his attempts to engage with youth culture. In wider internet use, it describes any older person — particularly men — who fails to understand or awkwardly engages with online culture.

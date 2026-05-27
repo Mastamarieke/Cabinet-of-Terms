@@ -18,9 +18,6 @@ related_reaction:
   - Deplatforming
 ---
 
-# Groomer
-
-
 ***A child protection term, borrowed and applied to teachers, librarians, and politicians. The original meaning did not disappear — it was used as a weapon.***
 
 **Literal meaning:** In child safeguarding, grooming describes the deliberate process by which an adult builds trust with a child to facilitate sexual abuse. In contemporary political discourse, "**groomer**" has been repurposed as a label applied to LGBTQ+ people, educators, and others accused of exposing children to LGBTQ+ content or identities — implying that such exposure constitutes abuse.

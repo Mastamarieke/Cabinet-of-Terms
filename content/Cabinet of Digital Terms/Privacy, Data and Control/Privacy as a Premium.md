@@ -18,9 +18,6 @@ related_reaction:
   - Brussels Effect
 ---
 
-# Privacy as a Premium
-
-
 ***The paid version has no ads. The free version watches everything you do.***
 
 **Literal meaning:** **Privacy as a premium** describes the business model in which privacy-protecting features — ad-free experiences, no data collection, encrypted communication — are available only to paying subscribers, while the free tier is funded by surveillance and data extraction.

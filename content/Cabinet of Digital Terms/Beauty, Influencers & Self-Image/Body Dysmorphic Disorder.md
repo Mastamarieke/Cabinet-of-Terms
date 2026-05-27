@@ -15,9 +15,6 @@ related_consequence: []
 related_reaction: []
 ---
 
-# Body Dysmorphic Disorder
-
-
 ***The face in the mirror does not match the face in her mind. She has checked seventeen times today.***
 
 **Literal meaning:** **Body Dysmorphic Disorder** (BDD) is a clinical condition characterised by obsessive preoccupation with perceived physical flaws — flaws that others often cannot see. The person experiences significant distress and impaired functioning as a result.

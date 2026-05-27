@@ -17,9 +17,6 @@ related_reaction:
   - Fair Patterns
 ---
 
-# Unblackboxing
-
-
 ***The system made a decision. You want to know why. The answer exists. You are not allowed to see it.***
 
 **Literal meaning:** **Unblackboxing** describes the analytical and practical work of making the internal workings of opaque systems legible — tracing how a decision was made, what data was used, what assumptions are embedded, and whose interests are served. It is the inverse of the **black box**: where the **black box** conceals, **unblackboxing** reveals.

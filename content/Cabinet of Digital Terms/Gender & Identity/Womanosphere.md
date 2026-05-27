@@ -18,9 +18,6 @@ related_reaction:
   - Deinfluencing
 ---
 
-# Womanosphere
-
-
 ***The female-facing mirror of the manosphere. Same SMV logic, different costume. High value women, hypergamy, female strategy — packaged as empowerment.***
 
 **Literal meaning:** The **womanosphere** describes the female-facing counterpart to the **manosphere** — online communities, **TikTok** accounts, and **YouTube** channels that apply sexual marketplace logic to women's dating and relationship strategies. It includes "female dating strategy" communities, **hypergamy** content, "high value woman" frameworks, and **tradwife** content.

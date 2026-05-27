@@ -18,9 +18,6 @@ related_reaction:
   - Fair Patterns
 ---
 
-# Nudging
-
-
 ***The healthy option is at eye level. The unhealthy one is on the bottom shelf. Nobody forced you.***
 
 **Literal meaning:** A nudge is a change to the choice environment — the default setting, the order of options, the visual prominence of alternatives — that predictably steers behaviour in a particular direction without forbidding any choice or changing financial incentives. The term comes from behavioural economics.

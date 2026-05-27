@@ -18,9 +18,6 @@ related_reaction:
   - Deinfluencing
 ---
 
-# That Girl
-
-
 ***Up at 5am. Green juice. Journalling. A lifestyle that performs wellness without requiring it.***
 
 **Literal meaning:** "**That Girl**" is a **TikTok** and **Instagram** archetype — a content category centred on a highly disciplined, aestheticised version of self-improvement: early rising, cold water, matcha, journalling, gym, healthy eating, and careful documentation of all of it. The name implies aspiration: *I want to be **that girl**.*

@@ -19,9 +19,6 @@ related_reaction:
   - Situated Knowledge
 ---
 
-# Cyborg Musk
-
-
 ***He merges his identity with his machines. This is presented as vision. It is also a brand.***
 
 **Literal meaning:** **Cyborg Musk** describes **Elon Musk**'s deployment of **cyborg** imagery — through **Neuralink**'s **brain-computer interface**, SpaceX's "multi-planetary species" rhetoric, and his self-presentation as the leading edge of human-machine fusion — as a personal brand and ideological position.

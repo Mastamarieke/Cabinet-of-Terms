@@ -19,9 +19,6 @@ related_reaction:
   - Brussels Effect
 ---
 
-# Broligarchy
-
-
 ***The consolidation of power at the top of the tech industry has a social structure. It looks like a friend group.***
 
 **Literal meaning:** **Broligarchy** combines "bro" (informal male friendship, specifically the homosocial culture of tech industry masculinity) with "oligarchy" (rule by a small wealthy elite) — describing the social formation in which a small number of tech billionaires exercise political power through a network of personal relationships, shared cultural references, and mutual reinforcement.

@@ -19,9 +19,6 @@ related_reaction:
   - VSD (Value Sensitive Design)
 ---
 
-# Kidfluencer
-
-
 ***She is nine. She has more followers than most adults. She has no legal protection from her own employer.***
 
 **Literal meaning:** A **kidfluencer** is a child — sometimes an infant — who has a social media presence managed by a parent or guardian, through which the child functions as a commercial entity: receiving sponsorships, endorsements, and revenue from content featuring their image, personality, and activities.

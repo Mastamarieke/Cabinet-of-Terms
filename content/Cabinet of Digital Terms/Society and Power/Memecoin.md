@@ -19,9 +19,6 @@ related_reaction:
   - AI Literacy
 ---
 
-# Memecoin
-
-
 ***The coin was a joke. People lost real money. The person who created it did not.***
 
 **Literal meaning:** A **memecoin** is a cryptocurrency whose value is based primarily on cultural narrative, community, and speculation rather than any underlying technology or use case. The name acknowledges the meme — internet cultural unit — as the primary value driver. Dogecoin, Shiba Inu, and the TRUMP and MELANIA coins launched in January 2025 are examples.

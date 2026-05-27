@@ -12,8 +12,6 @@ related_reaction:
   - []
 ---
 
-# Deskilling
-
 ***The tool does it faster. You use the tool. One day the tool is unavailable.***
 
 **Literal meaning**

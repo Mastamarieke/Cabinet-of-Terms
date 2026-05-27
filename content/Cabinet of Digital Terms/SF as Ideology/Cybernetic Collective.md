@@ -19,9 +19,6 @@ related_reaction:
   - Brussels Effect
 ---
 
-# Cybernetic Collective
-
-
 ***Human-machine fusion as collective project. The collective framing obscures who owns the infrastructure.***
 
 **Literal meaning:** **Cybernetic collective** describes the vision of a future society in which human cognition is networked with AI systems and other human minds — creating a collective intelligence that transcends individual limitation. The concept draws on cybernetics (Norbert Wiener's science of communication and control in systems) and on SF depictions of hive mind or networked consciousness.

@@ -19,9 +19,6 @@ related_reaction:
   - Digital Detox
 ---
 
-# Doomscrolling
-
-
 ***You know the news is bad. You keep scrolling.***
 
 **Literal meaning:** **Doomscrolling** describes the compulsive consumption of negative, distressing, or anxiety-inducing news and content through continuous scrolling — particularly on social media and news platforms. The user typically knows the content is harmful to their mental state and continues anyway.

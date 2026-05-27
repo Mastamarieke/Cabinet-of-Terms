@@ -18,9 +18,6 @@ related_reaction:
   - AI Literacy
 ---
 
-# Echo Chamber
-
-
 ***Everyone around you agrees. Not because you are right — because the dissenters left.***
 
 **Literal meaning:** An **echo chamber** is an environment — online or offline — in which a person encounters only views that reinforce their existing beliefs, because challenging perspectives have been excluded, self-selected out, or never entered. The metaphor is acoustic: your voice returns to you amplified, without modification.

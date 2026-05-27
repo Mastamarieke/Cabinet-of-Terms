@@ -19,9 +19,6 @@ related_reaction:
   - VSD (Value Sensitive Design)
 ---
 
-# Deceptive Design
-
-
 ***"Dark patterns" sounds like a design critique. "Deceptive design" sounds like a legal charge. The EU chose the second one deliberately.***
 
 **Literal meaning:** **Deceptive design** describes interface and product design choices that mislead users — creating false impressions, hiding information, making unwanted actions easy and desired actions difficult, or exploiting cognitive biases to override users' stated preferences. The term is used in academic research and legal contexts in preference to the more colloquial "**dark patterns**."

@@ -18,9 +18,6 @@ related_reaction:
   - AI Literacy
 ---
 
-# -Coded / -Pilled
-
-
 ***Red-coded. Autism-coded. NATO-pilled. The suffix converts a noun into an identity verdict.***
 
 **Literal meaning:** "-Coded" and "-pilled" are productive suffixes in internet language — morphological elements added to nouns to produce new descriptors. "-Coded" attributes an identity quality: "autism-coded" means exhibiting traits associated with autism; "villain-coded" means aesthetically resembling a villain. "-Pilled" signals ideological conversion: "red-pilled" means converted to the **manosphere** worldview; "black-pilled" means convinced of hopeless determinism.

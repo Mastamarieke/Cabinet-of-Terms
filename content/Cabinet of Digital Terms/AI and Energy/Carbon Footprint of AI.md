@@ -18,9 +18,6 @@ related_reaction:
   - Greenwashing
 ---
 
-# Carbon Footprint of AI
-
-
 ***The CO2 cost per query exists. It is rarely disclosed.***
 
 **Literal meaning:** The total greenhouse gas emissions attributable to an AI system — calculated per query, per **training run**, or per model.

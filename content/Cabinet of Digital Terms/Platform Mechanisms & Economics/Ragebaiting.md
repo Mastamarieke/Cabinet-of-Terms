@@ -19,9 +19,6 @@ related_reaction:
   - Fact Checker
 ---
 
-# Ragebaiting
-
-
 ***The post was obviously wrong. Deliberately wrong. You commented to correct it.***
 
 **Literal meaning:** **Ragebaiting** describes content — posts, headlines, videos, statements — deliberately designed to provoke outrage and anger, thereby generating high engagement (comments, shares, reactions) that the platform's algorithm amplifies and monetises. The bait is the provocation; the rage is the engagement signal.

@@ -18,9 +18,6 @@ related_reaction:
   - Slow Media
 ---
 
-# JOMO
-
-
 ***She turned off notifications on a Tuesday and did not miss anything.***
 
 **Literal meaning:** **JOMO** — Joy of Missing Out — describes a deliberate embrace of absence: choosing not to attend, not to follow, not to participate, and finding satisfaction in that choice rather than anxiety. It positions itself as the conscious counter to **FOMO** (Fear of Missing Out).

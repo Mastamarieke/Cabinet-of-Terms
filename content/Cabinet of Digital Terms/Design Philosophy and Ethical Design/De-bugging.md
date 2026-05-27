@@ -17,9 +17,6 @@ related_reaction:
   - Fair Patterns
 ---
 
-# De-bugging
-
-
 ***In software, a bug is an error in the code. In thinking, a bug is an error in the reasoning.***
 
 **Literal meaning:** In software development, debugging is the process of identifying and removing errors (bugs) from code. As a metaphor in critical technology practice, **de-bugging** extends the practice to systems of thought, language, and design — identifying the hidden assumptions, flawed premises, and structural errors embedded in how we think about and build technology.

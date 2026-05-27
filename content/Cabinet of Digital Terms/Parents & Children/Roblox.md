@@ -19,9 +19,6 @@ related_reaction:
   - Brussels Effect
 ---
 
-# Roblox
-
-
 ***It looks like a game. It has its own currency. It has its own economy. It is designed for children.***
 
 **Literal meaning:** **Roblox** is a gaming platform that allows users to create and play games built by other users within its environment. With over 200 million monthly active users, the majority under 16, it is one of the world's most popular platforms for children. It is also a currency system (**Robux**), a social network (chat, friend requests, direct messaging), and a commercial ecosystem.

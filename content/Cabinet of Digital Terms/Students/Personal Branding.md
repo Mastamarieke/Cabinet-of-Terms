@@ -19,9 +19,6 @@ related_reaction:
   - Deinfluencing
 ---
 
-# Personal Branding
-
-
 ***You are not a person. You are a product. This is now expected before you graduate.***
 
 **Literal meaning:** **Personal branding** describes the practice of treating oneself as a commercial brand — developing and communicating a consistent identity, value proposition, and public image across professional and social media platforms, to attract employment, clients, or audience.

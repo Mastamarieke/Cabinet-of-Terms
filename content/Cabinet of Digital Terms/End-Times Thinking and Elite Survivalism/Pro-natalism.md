@@ -19,9 +19,6 @@ related_reaction:
   - Situated Knowledge
 ---
 
-# Pro-natalism
-
-
 ***The birthrate is falling. This is presented as a crisis. The solution is more children — from the right families.***
 
 **Literal meaning:** **Pro-natalism** is the ideological position that encourages higher birth rates — framing reproduction as a civic or civilisational duty rather than a personal choice. In its contemporary tech-billionaire form, it combines demographic anxiety (declining birth rates in wealthy countries) with eugenicist undertones (the "right" people reproducing) and political urgency (civilisation is at stake).

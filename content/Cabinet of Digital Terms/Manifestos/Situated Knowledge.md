@@ -18,9 +18,6 @@ related_reaction:
   - Cyberfeminism
 ---
 
-# Situated Knowledge
-
-
 ***There is no view from nowhere. Every claim is made from somewhere, by someone.***
 
 **Literal meaning:** **Situated knowledge** is **Donna Haraway**'s epistemological concept: all knowledge is produced from a specific position — a body, a location, a set of interests, a historical moment. There is no neutral, objective, view-from-nowhere. The claim to objectivity — the "god trick," as **Haraway** calls it — is itself a position, one that conceals its situatedness behind a claim to universality.

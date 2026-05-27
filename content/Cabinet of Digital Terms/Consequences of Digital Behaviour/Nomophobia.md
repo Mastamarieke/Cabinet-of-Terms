@@ -19,9 +19,6 @@ related_reaction:
   - JOMO
 ---
 
-# Nomophobia
-
-
 ***You left the phone at home. You turned back after three minutes.***
 
 **Literal meaning:** **Nomophobia** — from *no mobile phone phobia* — describes the anxiety, distress, or fear produced by being without a smartphone or losing mobile connectivity. It manifests as discomfort when the battery is low, anxiety when the phone is forgotten, compulsive checking for signal, and difficulty engaging with situations where the phone must be absent or silenced.

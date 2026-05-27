@@ -18,9 +18,6 @@ related_reaction:
   - Age Appropriate Design
 ---
 
-# Online Grooming
-
-
 ***The contact started as friendship. It took months. The child thought they were the exception.***
 
 **Literal meaning:** **Online grooming** describes the process by which an adult builds a relationship of trust and emotional connection with a child online — through chat, gaming platforms, or social media — to facilitate sexual abuse or exploitation. The process is gradual, deliberate, and designed to appear normal until it is not.

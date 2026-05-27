@@ -19,9 +19,6 @@ related_reaction:
   - AI Literacy
 ---
 
-# Dataïsme
-
-
 ***De ideologie dat data altijd meer waarde heeft dan menselijk oordeel. En dat meer data altijd beter is.***
 
 **Letterlijke betekenis:** **Dataïsme** is de ideologische positie dat data-gedreven beslissingen inherent superieur zijn aan op menselijk oordeel gebaseerde beslissingen, dat meer data altijd beter is, en dat de uitbreiding van data-verzameling per definitie maatschappelijke voortgang inhoudt. De term is door **Yuval Noah Harari** in *Homo Deus* (2016) gebruikt als beschrijving van een opkomend geloof.

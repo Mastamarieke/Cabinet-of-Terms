@@ -17,9 +17,6 @@ related_reaction:
   - Greenwashing
 ---
 
-# Inference Cost
-
-
 ***Every question has a bill. Small per query. Enormous in aggregate.***
 
 **Literal meaning:** The energy consumed each time a trained AI model generates a response. Inference — applying a model to new input — is distinguished from training — building the model. The cost per query is small. Multiplied across hundreds of millions of daily queries, it is not.

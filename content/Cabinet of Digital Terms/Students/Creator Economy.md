@@ -19,9 +19,6 @@ related_reaction:
   - AI Literacy
 ---
 
-# Creator Economy
-
-
 ***The platform is your employer. The algorithm sets your hours. The content is your labour.***
 
 **Literal meaning:** The **creator economy** describes the commercial ecosystem in which individuals produce content for digital platforms and monetise that content through advertising revenue shares, brand partnerships, subscription products, and direct sales — with platforms functioning as the distribution and payment infrastructure.

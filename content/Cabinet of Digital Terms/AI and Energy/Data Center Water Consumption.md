@@ -17,9 +17,6 @@ related_reaction:
   - Greenwashing
 ---
 
-# Data Center Water Consumption
-
-
 ***Cooling requires water. Enormous amounts. Often drawn from regions where water is already scarce.***
 
 **Literal meaning:** The water used to cool data centre servers — either evaporated directly (evaporative cooling) or used to cool a secondary system. Either way, it is consumed locally, by infrastructure serving a global user base.

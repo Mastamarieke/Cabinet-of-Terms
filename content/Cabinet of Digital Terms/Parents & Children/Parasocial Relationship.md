@@ -19,9 +19,6 @@ related_reaction:
   - Digital Detox
 ---
 
-# Parasocial Relationship
-
-
 ***The child talks about the YouTuber as if they know them. They feel they do. The YouTuber does not know the child exists.***
 
 **Literal meaning:** A **parasocial relationship** is a one-sided emotional bond in which one person — the audience member — feels familiarity, affection, and connection toward a media figure who has no reciprocal awareness of them. The term was coined by sociologists Donald Horton and Richard Wohl in 1956 to describe the experience of television audiences toward presenters.

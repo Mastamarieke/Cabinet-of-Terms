@@ -18,9 +18,6 @@ related_reaction:
   - VSD (Value Sensitive Design)
 ---
 
-# Universal Design
-
-
 ***The curb cut was designed for wheelchair users. Everyone uses it — cyclists, parents with prams, delivery workers.***
 
 **Literal meaning:** **Universal Design** is a design philosophy that creates products, environments, and systems usable by all people, to the greatest extent possible, without adaptation or specialised design. It starts from the full range of human diversity rather than a notional "average user," making inclusion a design requirement rather than a retrofit.

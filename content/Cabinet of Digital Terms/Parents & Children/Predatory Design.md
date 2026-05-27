@@ -19,9 +19,6 @@ related_reaction:
   - VSD (Value Sensitive Design)
 ---
 
-# Predatory Design
-
-
 ***The game is free. The rewards come quickly at first, then slow down. Speeding them up costs money. The target audience is eight years old.***
 
 **Literal meaning:** **Predatory design** describes interface and product design choices that deliberately exploit the specific developmental vulnerabilities of children — weaker impulse control, greater susceptibility to variable rewards, incomplete understanding of monetary value, and stronger peer pressure sensitivity — to maximise engagement, spending, and data disclosure.

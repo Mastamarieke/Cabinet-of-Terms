@@ -19,9 +19,6 @@ related_reaction:
   - Situated Knowledge
 ---
 
-# Tierlists / S-Tier
-
-
 ***Ranking everything — characters, fast food, people — on a scale from S to F. Game logic applied to the world.***
 
 **Literal meaning:** A tierlist is a ranking format in which subjects are placed into tiers from S (superior/special) through A, B, C, D, and F (failure) — borrowed from fighting game competitive communities, where character viability was assessed on such scales. The format has spread to ranking virtually everything: fast food chains, Pokémon, films, political figures, universities, and people.

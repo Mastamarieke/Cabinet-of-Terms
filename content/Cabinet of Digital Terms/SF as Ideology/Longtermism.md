@@ -19,9 +19,6 @@ related_reaction:
   - Brussels Effect
 ---
 
-# Longtermism
-
-
 ***The suffering of future people outweighs the suffering of present people. By a lot. This framework has consequences.***
 
 **Literal meaning:** **Longtermism** is a philosophical position — associated primarily with effective altruism philosophers William MacAskill and Toby Ord — holding that the moral weight of the far future is vastly greater than the present, because there are potentially trillions of future people whose wellbeing depends on decisions made now. On this view, preventing extinction risks is among the most important moral priorities, because it preserves the possibility of all that future value.

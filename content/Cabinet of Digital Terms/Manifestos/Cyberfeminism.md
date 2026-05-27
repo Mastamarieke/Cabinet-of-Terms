@@ -18,9 +18,6 @@ related_reaction:
   - Inclusive Design
 ---
 
-# Cyberfeminism
-
-
 ***VNS Matrix published the manifesto in 1991. The tech industry ignored it. The internet was built anyway.***
 
 **Literal meaning:** **Cyberfeminism** is a feminist theoretical and artistic practice that engages technology — specifically digital technology and networks — as a site of gender politics: neither celebrating technology as inherently liberating nor rejecting it as inherently masculine, but claiming it as contested terrain.

@@ -13,8 +13,6 @@ related_reaction:
   - []
 ---
 
-# Wexting
-
 ***The traffic light is now on the ground. The street adapted to the phone.***
 
 **Literal meaning**

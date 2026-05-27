@@ -17,9 +17,6 @@ related_reaction:
   - Deinfluencing
 ---
 
-# Toxic Positivity
-
-
 ***She lost her job. The comments said: everything happens for a reason.***
 
 **Literal meaning:** **Toxic positivity** describes the cultural pressure to maintain a positive outlook regardless of circumstances — dismissing, minimising, or reframing negative emotions as obstacles to wellbeing rather than valid responses to experience. The "toxic" qualifier distinguishes it from genuine optimism: it names positivity as a compulsory performance rather than an authentic state.

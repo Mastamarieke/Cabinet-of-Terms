@@ -17,9 +17,6 @@ related_reaction:
   - Algorithmic Violence
 ---
 
-# Brussels Effect
-
-
 ***The EU passed a law. A company in California changed its global product.***
 
 **Literal meaning:** The **Brussels Effect** describes the mechanism by which EU regulation becomes the effective global standard for a sector — not through international treaty or diplomatic pressure but through the commercial logic of market access: companies that want to operate in the EU market must comply with EU rules, and compliance is often more economical as a single global standard than as a market-by-market variation.

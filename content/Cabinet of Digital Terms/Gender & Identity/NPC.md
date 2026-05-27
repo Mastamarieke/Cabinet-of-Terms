@@ -17,9 +17,6 @@ related_reaction:
   - Red Pill
 ---
 
-# NPC
-
-
 ***They walk the same route every day, say the same things, react the same way. The word borrowed from gaming to describe people.***
 
 **Literal meaning:** NPC — Non-Player Character — is a gaming term for a character in a video game controlled by the computer rather than a human player. NPCs perform scripted behaviours, repeat the same actions, and lack genuine agency or inner life. Applied to real people, it describes someone seen as going through the motions without real thought, original opinion, or autonomous will.

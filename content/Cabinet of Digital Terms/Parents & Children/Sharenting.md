@@ -19,9 +19,6 @@ related_reaction:
   - VSD (Value Sensitive Design)
 ---
 
-# Sharenting
-
-
 ***The photo was posted before the child could speak. By the time they are old enough to object, there are thousands.***
 
 **Literal meaning:** **Sharenting** — a portmanteau of *sharing* and *parenting* — describes the practice of parents sharing images, videos, and personal information about their children on social media. The term covers a spectrum from occasional family photos to systematic documentation of a child's life as content.

@@ -19,9 +19,6 @@ related_reaction:
   - Mindful Scrolling
 ---
 
-# Unplugging
-
-
 ***She announced she was taking a break from social media. On social media.***
 
 **Literal meaning:** **Unplugging** describes the deliberate disconnection from digital devices and networks — turning off, logging out, and stepping away from screens. The term is metaphorical: it references the physical act of disconnecting a device from its power source, applied to the social and informational networks that sustain digital life.

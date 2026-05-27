@@ -19,9 +19,6 @@ related_reaction:
   - AI Literacy
 ---
 
-# Social Credit System
-
-
 ***The Chinese version is described as dystopia. The Western version is described as fintech.***
 
 **Literal meaning:** A **social credit system** scores individuals, businesses, or institutions based on their behaviour — financial, social, or civic — and uses those scores to allocate access to services, opportunities, and public goods. China's multiple social credit systems are the most discussed example; corporate credit scoring and social media reputation systems are Western analogues.

@@ -19,9 +19,6 @@ related_reaction:
   - Situated Knowledge
 ---
 
-# Founder Mode
-
-
 ***The founder knows best. The governance structures are friction. The employees should get out of the way.***
 
 **Literal meaning:** **Founder mode** is a concept introduced by Paul Graham in a September 2024 essay, arguing that company founders should manage directly across all levels of the organisation — bypassing conventional management hierarchies — rather than delegating to professional managers who do not share the founder's vision and authority. Graham argued this is why founder-led companies outperform professionally managed ones.

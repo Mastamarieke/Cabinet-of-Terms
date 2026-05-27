@@ -19,9 +19,6 @@ related_reaction:
   - Cyberfeminism
 ---
 
-# Muskism
-
-
 ***This is not about one man. It is about what one man's accumulation of infrastructure reveals about the system that allowed it.***
 
 > A governance model in which private infrastructure, public dependence, and personal authority combine — without the accountability structures that normally accompany power at this scale.

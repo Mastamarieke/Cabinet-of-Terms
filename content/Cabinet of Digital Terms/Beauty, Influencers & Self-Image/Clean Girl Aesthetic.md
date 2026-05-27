@@ -18,9 +18,6 @@ related_reaction:
   - Deinfluencing
 ---
 
-# Clean Girl Aesthetic
-
-
 ***No makeup. Slicked bun. Gold hoops. Glowing skin. It took two hours.***
 
 **Literal meaning:** The **Clean Girl Aesthetic** is a beauty and lifestyle trend characterised by minimal visible makeup, slicked-back hair, clear skin, gold jewellery, and a general appearance of effortless, natural health. It is associated with a specific visual register: neutral, understated, expensive-looking without appearing to try.

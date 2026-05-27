@@ -18,9 +18,6 @@ related_reaction:
   - Brussels Effect
 ---
 
-# Data Brokers
-
-
 ***Companies you have never heard of know where you live, what you earn, and what your health conditions are.***
 
 **Literal meaning:** **Data brokers** are companies that collect personal information about individuals from a wide range of sources — public records, retail purchase history, social media, location data, loyalty programmes, court records — aggregate it into detailed profiles, and sell access to those profiles to advertisers, insurers, employers, political campaigns, law enforcement, and other clients.

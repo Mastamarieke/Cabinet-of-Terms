@@ -19,9 +19,6 @@ related_reaction:
   - Digital Detox
 ---
 
-# FOMO
-
-
 ***Everyone was there. You were not. You saw the photos the next morning.***
 
 **Literal meaning:** **FOMO** — Fear of Missing Out — describes the anxiety produced by the awareness that others may be having rewarding experiences from which you are absent. In digital contexts, it is the persistent, low-level anxiety that something important is happening online while you are not looking.

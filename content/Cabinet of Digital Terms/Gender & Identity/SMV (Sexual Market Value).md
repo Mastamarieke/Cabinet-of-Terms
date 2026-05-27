@@ -19,9 +19,6 @@ related_reaction:
   - Womanosphere
 ---
 
-# SMV (Sexual Market Value)
-
-
 ***Attractiveness, status, and income reduced to a single number. The number determines your worth.***
 
 **Literal meaning:** Sexual Market Value is a concept in **manosphere** and red-pill discourse that treats human attractiveness — physical, financial, social, and personality-based — as a quantifiable market position. Men and women are assigned scores, typically on a scale of 1–10, that determine their "market position" in the dating and mating landscape. The concept frames human relationships as market transactions between buyers and sellers of attractiveness.

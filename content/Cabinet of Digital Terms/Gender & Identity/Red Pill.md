@@ -18,9 +18,6 @@ related_reaction:
   - Deplatforming
 ---
 
-# Red Pill
-
-
 ***A film about escaping a false reality, repurposed as a metaphor for discovering that women have too many rights.***
 
 **Literal meaning:** In **manosphere** and red-pill communities, taking the **red pill** means accepting what the community presents as the truth about gender relations: that feminism has rigged the social and legal system against men, that female behaviour is governed by [[Hypergamy]] and [[SMV (Sexual Market Value)]] logic, and that mainstream society conceals these truths.

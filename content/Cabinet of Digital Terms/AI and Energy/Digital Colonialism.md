@@ -17,9 +17,6 @@ related_reaction:
   - Greenwashing
 ---
 
-# Digital Colonialism
-
-
 ***Your cloud dries their river.***
 
 **Literal meaning:** A structural relationship in which digital infrastructure extracts resources, labour, and data from lower-income countries while the economic and technological benefits flow primarily to wealthier ones. In the AI energy context, the term focuses specifically on the energy and environmental dimension of that extraction.

@@ -18,9 +18,6 @@ related_reaction:
   - MGTOW
 ---
 
-# Hypergamy
-
-
 ***The claim: women always want someone higher on the hierarchy. The evidence: personal anecdote, presented as evolutionary biology.***
 
 **Literal meaning:** **Hypergamy** — from Greek *hyper* (above) and *gamos* (marriage) — in its sociological sense describes the practice of marrying someone of higher social status. In **manosphere** discourse, it is redeployed as a universal female biological drive: women are hardwired to seek partners with higher status, resources, and dominance than themselves, and to continuously seek upgrades. The claim is presented as evolutionary biology.

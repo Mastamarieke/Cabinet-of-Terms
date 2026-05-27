@@ -18,9 +18,6 @@ related_reaction:
   - Mindful Scrolling
 ---
 
-# Calm Technology
-
-
 ***The technology is there when you need it. When you do not, you do not notice it.***
 
 **Literal meaning:** **Calm technology** describes a design philosophy in which technology communicates what it needs to without demanding the user's full attention — operating at the periphery of awareness rather than the centre. A **calm technology** can be ignored when it does not need attention and can be brought to focus when it does.

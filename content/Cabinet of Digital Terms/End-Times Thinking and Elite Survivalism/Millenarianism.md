@@ -19,9 +19,6 @@ related_reaction:
   - AI Literacy
 ---
 
-# Millenarianism
-
-
 ***The old world must end before the new one can begin. This belief recurs across centuries.***
 
 **Literal meaning:** **Millenarianism** describes the belief in an imminent, total, collective transformation of society — typically through catastrophe — that will produce a new, purified order. The term derives from Christian apocalyptic traditions expecting a thousand-year reign of the saints, but the structure (corrupt present → catastrophic transition → redeemed community) recurs across religious, secular, and political movements throughout history.

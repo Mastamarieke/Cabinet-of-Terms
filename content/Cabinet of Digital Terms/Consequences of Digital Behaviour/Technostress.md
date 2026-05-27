@@ -12,8 +12,6 @@ related_consequence:
 related_reaction:
 ---
 
-# Technostress
-
 ***The update changed everything. You do not know where anything is.***
 
 **Literal meaning**

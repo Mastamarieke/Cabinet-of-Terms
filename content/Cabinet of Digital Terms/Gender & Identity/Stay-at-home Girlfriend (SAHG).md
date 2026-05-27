@@ -17,9 +17,6 @@ related_reaction:
   - Womanosphere
 ---
 
-# Stay-at-home Girlfriend (SAHG)
-
-
 ***Financial dependence without marriage. A relationship model promoted as freedom — on platforms built by investors.***
 
 **Literal meaning:** A stay-at-home girlfriend is a woman who does not work for pay, instead performing domestic labour — cooking, cleaning, homemaking — within an unmarried cohabiting relationship financially supported by her partner. The model is explicitly distinguished from the **tradwife** by the absence of marriage and, often, children.

@@ -19,9 +19,6 @@ related_reaction:
   - Fact Checker
 ---
 
-# Dark MAGA
-
-
 ***The first term was not radical enough. This one is.***
 
 > A radicalised extension of MAGA politics — positioned as the next step after the first term was considered insufficiently extreme.

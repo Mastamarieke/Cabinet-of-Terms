@@ -17,9 +17,6 @@ related_reaction:
   - JOMO
 ---
 
-# Breadcrumbing
-
-
 ***Enough contact to stay interested. Not enough to mean anything.***
 
 **Literal meaning:** **Breadcrumbing** describes a pattern of intermittent, minimal communication — occasional messages, likes, or brief interactions — that maintains another person's interest and emotional investment without any genuine relational commitment. The breadcrumber provides just enough to prevent the other person from moving on.

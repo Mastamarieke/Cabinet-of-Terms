@@ -17,9 +17,6 @@ related_reaction:
   - Greenwashing
 ---
 
-# Training Run
-
-
 ***Training one model consumed more energy than most households use in years. Then they trained the next version.***
 
 **Literal meaning:** The single, computationally intensive process during which an AI model learns from vast datasets. It happens before the model is ever used — but accounts for a substantial share of its total environmental cost.

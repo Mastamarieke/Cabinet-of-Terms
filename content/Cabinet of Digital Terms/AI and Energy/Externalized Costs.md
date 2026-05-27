@@ -19,9 +19,6 @@ related_reaction:
   - Greenwashing
 ---
 
-# Externalized Costs
-
-
 ***The price of AI does not include what the surrounding communities pay.***
 
 **Literal meaning:** Costs that are not reflected in the price of a transaction but are borne by a third party — typically the environment, society, or specific communities. In AI: the gap between what companies pay for their infrastructure and what that infrastructure actually costs the world.

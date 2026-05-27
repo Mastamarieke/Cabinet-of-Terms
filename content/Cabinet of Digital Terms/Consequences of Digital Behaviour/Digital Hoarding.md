@@ -13,8 +13,6 @@ related_reaction:
   - []
 ---
 
-# Digital Hoarding
-
 ***Your downloads folder has 4,000 files. You have not opened most of them. You cannot delete them either.***
 
 **Literal meaning**

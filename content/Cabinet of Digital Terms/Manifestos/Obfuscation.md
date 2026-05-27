@@ -18,9 +18,6 @@ related_reaction:
   - Unblackboxing
 ---
 
-# Obfuscation
-
-
 ***The terms and conditions are forty-seven pages. This is not an accident.***
 
 **Literal meaning:** **Obfuscation** is the deliberate practice of making information, systems, or processes difficult to understand or trace. In digital contexts, it describes both a corporate strategy — making surveillance infrastructure, algorithmic decision-making, and data practices opaque to users and regulators — and a potential counter-practice — generating noise to confuse surveillance systems.

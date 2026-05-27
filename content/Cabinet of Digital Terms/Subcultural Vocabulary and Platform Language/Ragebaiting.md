@@ -18,9 +18,6 @@ related_reaction:
   - Slow Media
 ---
 
-# Ragebaiting
-
-
 ***The post was obviously wrong. Deliberately wrong. You commented to correct it.***
 
 **Literal meaning:** **Ragebaiting** describes content — posts, headlines, videos, statements — deliberately designed to provoke anger, outrage, or indignation in the audience, exploiting the algorithmic fact that angry engagement (replies, shares, quote-posts, comments) generates more distribution than neutral or positive engagement.

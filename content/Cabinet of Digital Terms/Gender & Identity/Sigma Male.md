@@ -18,9 +18,6 @@ related_reaction:
   - Podcast-bro
 ---
 
-# Sigma Male
-
-
 ***He does not need the hierarchy. He is above it. He is also extremely online.***
 
 **Literal meaning:** The **sigma male** is a concept in **manosphere** hierarchy discourse describing a man who operates outside the alpha/beta dominance hierarchy — a lone wolf who achieves success on his own terms, without competing for social approval. The sigma is presented as equal or superior to the alpha, but unconstrained by the need for validation.

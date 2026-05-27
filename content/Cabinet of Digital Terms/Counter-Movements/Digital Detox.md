@@ -19,9 +19,6 @@ related_reaction:
   - Tech-Free Challenge
 ---
 
-# Digital Detox
-
-
 ***She booked the offline retreat online. She posted about it when she got back.***
 
 **Literal meaning:** A deliberate break from digital devices — phones, screens, social media — to reduce stress and reconnect with offline life. The term borrows from medical detoxification: cleansing the body of toxic substances.

@@ -19,9 +19,6 @@ related_reaction:
   - Unblackboxing
 ---
 
-# Informatics of Domination
-
-
 ***The new hierarchies do not announce themselves. They are built into the classification systems.***
 
 **Literal meaning:** **Informatics of domination** is **Donna Haraway**'s term from the *Cyborg Manifesto* for the shift from an industrial order organised around hierarchies of production to a late-capitalist order organised around hierarchies of information — where control is exercised through the management of data, communication, and knowledge rather than through direct physical coercion.

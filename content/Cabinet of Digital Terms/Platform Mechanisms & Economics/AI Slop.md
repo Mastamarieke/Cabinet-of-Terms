@@ -18,9 +18,6 @@ related_reaction:
   - AI Literacy
 ---
 
-# AI Slop
-
-
 ***You read the article to the end and retained nothing. Not because you were distracted — because there was nothing there.***
 
 **Literal meaning:** **AI slop** is low-quality, mass-produced AI-generated content — articles, images, social media posts, product descriptions — that floods information environments with material that is superficially plausible but lacks genuine thought, expertise, or purpose. The term was popularised by developer and writer Simon Willison in 2024.

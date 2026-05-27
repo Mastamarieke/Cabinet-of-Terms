@@ -18,9 +18,6 @@ related_reaction:
   - Slow Media
 ---
 
-# Fact Checker
-
-
 ***The claim spread in four hours. The correction took two days. The correction reached fewer people.***
 
 **Literal meaning:** A **fact checker** is a person — or increasingly, an organisation — that verifies the accuracy of claims circulating in media, political discourse, and social media, and publishes assessments of their truth or falsity. Professional fact-checking organisations include PolitiFact, FullFact, Snopes, and AFP Fact Check.

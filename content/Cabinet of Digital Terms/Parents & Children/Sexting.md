@@ -18,9 +18,6 @@ related_reaction:
   - Age Appropriate Design
 ---
 
-# Sexting
-
-
 ***The message was sent to one person. It did not stay with one person.***
 
 **Literal meaning:** **Sexting** describes the sending of sexually explicit images, video, or messages via digital communication — most commonly via smartphone. In the context of minors, it encompasses both peer-to-peer **sexting** between adolescents and the coerced production of sexual images by adults grooming children.

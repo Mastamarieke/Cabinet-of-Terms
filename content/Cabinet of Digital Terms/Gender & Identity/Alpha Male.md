@@ -18,9 +18,6 @@ related_reaction:
   - Podcast-bro
 ---
 
-# Alpha Male
-
-
 ***The term comes from a study of wolves that was later retracted by its own author. The influencers did not update their content.***
 
 **Literal meaning:** In **manosphere** and popular culture discourse, "**alpha male**" describes a dominant, sexually successful, high-status man — the apex of a social hierarchy in which men compete for position. The alpha is contrasted with the "beta" — the submissive, less attractive, lower-status male who loses in competition.

@@ -19,9 +19,6 @@ related_reaction:
   - Situated Knowledge
 ---
 
-# Main Character Energy
-
-
 ***He narrates his commute as if someone is watching.***
 
 **Literal meaning:** **Main Character Energy** (MCE) describes the persona or affect of someone who moves through the world as if they are the protagonist of a narrative — with the confidence, centrality, and narrative significance that protagonists have in fiction. Others are supporting characters, obstacles, or extras. The term is used both admiringly (to describe someone with compelling self-possession) and critically (to describe someone with an inflated sense of their own centrality).

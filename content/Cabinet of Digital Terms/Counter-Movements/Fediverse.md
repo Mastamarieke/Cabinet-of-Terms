@@ -19,8 +19,6 @@ related_reaction:
   - Privacy by Design
 ---
 
-# Fediverse
-
 ***You left Twitter because of Musk. You joined Mastodon. Then Meta arrived there too.***
 
 **Literal meaning:** The **fediverse** (federated universe) is a network of independently operated social media servers that communicate with each other through shared open protocols — primarily **ActivityPub**. Unlike centralised platforms, no single company owns or controls the **fediverse**. **Mastodon** (microblogging), **PeerTube** (video), **Pixelfed** (images) and dozens of other platforms can all communicate across server boundaries, the way email works across providers: a Gmail user can email a Hotmail user without either knowing or caring about the infrastructure behind the other.

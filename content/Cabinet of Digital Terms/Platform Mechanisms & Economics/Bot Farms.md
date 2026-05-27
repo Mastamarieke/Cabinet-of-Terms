@@ -19,9 +19,6 @@ related_reaction:
   - Fact Checker
 ---
 
-# Bot Farms
-
-
 ***The opinion was trending. Thousands of accounts were sharing it. Most of those accounts were created last month.***
 
 **Literal meaning:** **Bot farms** are networks of automated or semi-automated social media accounts — operated at scale from centralised infrastructure — used to manipulate the apparent popularity of content, amplify specific messages, harass individuals, or create the impression of grassroots support for positions that are actually coordinated campaigns.

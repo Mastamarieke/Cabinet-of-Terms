@@ -18,9 +18,6 @@ related_reaction:
   - Deplatforming
 ---
 
-# QAnon
-
-
 ***It began on an imageboard in 2017. By 2021, it had reached parliaments.***
 
 **Literal meaning:** **QAnon** is a conspiracy theory originating in anonymous posts on 4chan from October 2017, claiming that a secret cabal of Satan-worshipping paedophiles — including prominent politicians and celebrities — controls world events, and that a military insider known as "Q" is revealing this truth to prepare a group of followers for a great awakening and reckoning.

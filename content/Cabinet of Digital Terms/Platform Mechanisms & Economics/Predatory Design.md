@@ -19,9 +19,6 @@ related_reaction:
   - Fair Patterns
 ---
 
-# Predatory Design
-
-
 ***The game is free. The rewards come quickly at first, then slow down. Speeding them up costs money. The target audience is eight years old.***
 
 **Literal meaning:** **Predatory design** describes interface and product design choices that deliberately exploit the specific vulnerabilities of children — developmental, psychological, and cognitive — to maximise engagement, spending, and data disclosure. It is **dark patterns** applied to a population that lacks the developmental capacity to recognise or resist manipulation.

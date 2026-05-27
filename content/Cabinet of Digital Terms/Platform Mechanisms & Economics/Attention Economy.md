@@ -19,9 +19,6 @@ related_reaction:
   - Digital Detox
 ---
 
-# Attention Economy
-
-
 ***Every app, every notification, every autoplay is competing for the same thing: the next few seconds of your focus.***
 
 **Literal meaning:** The **attention economy** describes the economic system in which human attention is treated as a scarce resource to be captured, held, and sold — primarily to advertisers. The fundamental constraint is not money or information but the finite hours of human focus available daily.

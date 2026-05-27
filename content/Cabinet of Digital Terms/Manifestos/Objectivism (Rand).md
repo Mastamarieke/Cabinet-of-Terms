@@ -19,9 +19,6 @@ related_reaction:
   - Brussels Effect
 ---
 
-# Objectivism (Rand)
-
-
 ***Self-interest is a virtue. Altruism is a vice. Silicon Valley found this useful.***
 
 **Literal meaning:** Objectivism is the philosophy developed by Ayn Rand, most fully expressed in *Atlas Shrugged* (1957) and *The Virtue of Selfishness* (1964): that reason is the only valid means of knowledge, that the individual's own happiness is the moral purpose of life, that productive achievement is the highest activity, and that laissez-faire capitalism is the only social system consistent with individual rights. Altruism — acting for others — is a moral evil. Self-interest is a moral good.

@@ -18,9 +18,6 @@ related_reaction:
   - Fair Patterns
 ---
 
-# Ethical Design
-
-
 ***Design that starts with the question: what does this do to the people who use it?***
 
 **Literal meaning:** **Ethical design** describes the practice of making design decisions — in interaction design, UX, product development, and digital services — that actively prioritise user wellbeing, autonomy, and dignity over metrics of engagement, conversion, or extraction. It encompasses transparency, **accessibility**, fairness, and the deliberate refusal to deploy manipulative or deceptive interface patterns.

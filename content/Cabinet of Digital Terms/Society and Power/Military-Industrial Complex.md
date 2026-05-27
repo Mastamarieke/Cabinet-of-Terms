@@ -19,9 +19,6 @@ related_reaction:
   - Situated Knowledge
 ---
 
-# Military-Industrial Complex
-
-
 ***Eisenhower warned about it in his farewell address. The industry he described has since absorbed the internet.***
 
 > Eisenhower's term for the entanglement of the military and the defence industry — still running, now with software, AI, and Big Tech as core components.

@@ -19,9 +19,6 @@ related_reaction:
   - Digital Detox
 ---
 
-# Attention Harvesting
-
-
 ***The notification arrives. You pick up the phone. You did not decide to do that.***
 
 **Literal meaning:** **Attention harvesting** describes the systematic extraction of human attention by digital platforms — designing interfaces, notification systems, and content flows to maximise the time and focus users give to a platform, which is then converted into advertising revenue and behavioural data.

@@ -19,9 +19,6 @@ related_reaction:
   - Deinfluencing
 ---
 
-# Aurafarming
-
-
 ***He does not explain himself. He does not need to. The mystique is the content.***
 
 **Literal meaning:** **Aurafarming** describes the deliberate cultivation of perceived social presence, mystique, and status — specifically by strategic absence, restraint, and the management of what is not said or shown. The "aura" is an untranslatable quality of presence and gravitas; "farming" is the gaming metaphor for systematic resource accumulation. **Aurafarming** is the practice of building that quality through intentional self-presentation.

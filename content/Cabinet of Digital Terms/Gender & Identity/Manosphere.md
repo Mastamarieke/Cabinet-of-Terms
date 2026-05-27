@@ -19,9 +19,6 @@ related_reaction:
   - Deplatforming
 ---
 
-# Manosphere
-
-
 ***The forums do not advertise themselves as ideology. They advertise themselves as self-improvement.***
 
 **Literal meaning:** The **manosphere** is not a single community but a loose ecosystem of online spaces — forums, **YouTube** channels, podcasts, subreddits, **TikTok** accounts — united by anti-feminist perspectives and a shared vocabulary of male grievance and hierarchy. It includes pickup artists (PUA), men's rights activists (MRA), men going their own way (**MGTOW**), incels, and red-pill communities, among others.

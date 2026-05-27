@@ -19,9 +19,6 @@ related_reaction:
   - Inclusive Design
 ---
 
-# Digital Divide
-
-
 ***The government service moved online. Not everyone can get online.***
 
 **Literal meaning:** The **digital divide** describes the gap between those who have adequate access to digital technologies — devices, connectivity, skills, and meaningful use — and those who do not. The term encompasses multiple layers: access (can you get online?), skills (can you use what you access?), and outcomes (does access translate into benefit?).

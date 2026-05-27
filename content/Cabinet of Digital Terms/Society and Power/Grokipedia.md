@@ -19,9 +19,6 @@ related_reaction:
   - Fact Checker
 ---
 
-# Grokipedia
-
-
 ***It looks like Wikipedia. It is produced by an AI owned by someone with documented political positions.***
 
 **Literal meaning:** **Grokipedia** is an AI-generated encyclopedic reference produced by xAI's Grok model — positioned as an alternative to Wikipedia, generating factual-sounding entries on political, social, and historical topics. The format borrows the visual conventions of encyclopedic reference (structured entries, neutral register, cited claims) while producing outputs that reflect the training data and alignment choices of an AI system built by **Elon Musk**'s company.

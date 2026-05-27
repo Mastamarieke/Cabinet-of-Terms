@@ -19,9 +19,6 @@ related_reaction:
   - JOMO
 ---
 
-# Brain Rot
-
-
 ***You picked up a book. You could not finish the first paragraph.***
 
 **Literal meaning:** _Brain rot_ is internet slang — strongly associated with Gen Z and Gen Alpha usage — for the perceived deterioration of one’s mental or intellectual state after prolonged consumption of trivial, low-quality or unchallenging online content. Oxford University Press named it Word of the Year 2024 and defines it as a “supposed deterioration” linked especially to overconsumption of online material considered trivial or unchallenging. In this cluster, the term can be read as subcultural self-diagnosis: language communities use it to name, exaggerate and share their own experience of platform-shaped cognitive fatigue

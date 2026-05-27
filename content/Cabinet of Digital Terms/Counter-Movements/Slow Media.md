@@ -18,9 +18,6 @@ related_reaction:
   - Tech-Free Challenge
 ---
 
-# Slow Media
-
-
 ***He reads one newspaper instead of fourteen feeds. He found out about it on Twitter.***
 
 **Literal meaning:** **Slow media** is a concept — and loosely, a movement — advocating for deliberate, quality-focused media consumption over the speed, volume, and distraction of digital news feeds. It draws on the broader "slow" movement (slow food, slow travel) and advocates reading fewer sources more deeply, pausing before sharing, and disengaging from the real-time news cycle.

@@ -19,9 +19,6 @@ related_reaction:
   - Brussels Effect
 ---
 
-# Flood the Zone
-
-
 ***There is no single lie to disprove. There is only noise.***
 
 **Literal meaning:** **Flood the Zone** is a political communication strategy associated with Steve Bannon, former chief strategist to Donald Trump, who described it explicitly: "**flood the zone** with shit." The strategy involves producing such a volume of claims, stories, and narratives — regardless of their accuracy — that the media and public cannot focus, fact-check, or sustain attention on any single issue.

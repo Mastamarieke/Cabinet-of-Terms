@@ -18,9 +18,6 @@ related_reaction:
   - Prompt Engineer
 ---
 
-# AI Literacy
-
-
 ***Using AI is not the same as understanding it. The gap between the two is where the problems are.***
 
 **Literal meaning:** **AI literacy** is the capacity to understand how AI systems function — their training processes, limitations, failure modes, and structural biases — in addition to being able to use them as tools. It is distinct from AI proficiency: you can be proficient without being literate.

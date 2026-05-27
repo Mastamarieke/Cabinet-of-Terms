@@ -19,9 +19,6 @@ related_reaction:
   - Red Teamer
 ---
 
-# Vibe Coder
-
-
 ***You describe what you want. The AI writes the code. It works — mostly. You do not know why. You do not need to. Until you do.***
 
 **Literal meaning:** A **vibe coder** is someone who creates software primarily through natural language instructions to AI coding assistants — describing what they want in words, accepting the AI's generated code, and iterating on the description until the output works, without necessarily understanding the code the AI has written.

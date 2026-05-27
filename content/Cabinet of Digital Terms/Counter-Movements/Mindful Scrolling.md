@@ -18,9 +18,6 @@ related_reaction:
   - Tech-Free Challenge
 ---
 
-# Mindful Scrolling
-
-
 ***Pay attention to how you scroll. This advice was sent to you by the app you are trying to use less.***
 
 **Literal meaning:** **Mindful scrolling** describes the practice of using social media and digital feeds with conscious intention — setting limits, noticing emotional responses, pausing before reacting, and regularly evaluating whether the content is serving your wellbeing. It applies mindfulness principles — present-moment awareness, non-judgmental observation — to smartphone and social media use.

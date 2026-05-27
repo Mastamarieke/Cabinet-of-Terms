@@ -14,8 +14,6 @@ related_reaction:
   - []
 ---
 
-# Mechanical Turk
-
 ***The AI labelled the image. A human in the Philippines labelled the image. The AI got the credit.***
 
 **Literal meaning**

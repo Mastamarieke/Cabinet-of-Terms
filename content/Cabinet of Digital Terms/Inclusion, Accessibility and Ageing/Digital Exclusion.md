@@ -19,9 +19,6 @@ related_reaction:
   - Inclusive Design
 ---
 
-# Digital Exclusion
-
-
 ***The benefit claim form is online only. The pensioner does not have internet. This is described as a technical limitation.***
 
 **Literal meaning:** **Digital exclusion** describes the state of being unable to access or meaningfully use digital services and infrastructure — whether due to lack of physical access, insufficient skills, unaffordable costs, or design choices that make systems unusable for specific populations. The term distinguishes active exclusion from passive absence.

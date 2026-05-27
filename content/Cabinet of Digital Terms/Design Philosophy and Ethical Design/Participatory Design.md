@@ -18,9 +18,6 @@ related_reaction:
   - Adversarial Design
 ---
 
-# Participatory Design
-
-
 ***The users were consulted. Their input was noted. The designers made the original decision anyway.***
 
 **Literal meaning:** **Participatory design** involves end users — not just as research subjects or testers, but as active participants in the design process itself. The principle is that people who will live with a system should have real influence over how it is designed, not just validate decisions already made.

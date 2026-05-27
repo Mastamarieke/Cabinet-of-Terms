@@ -18,9 +18,6 @@ related_reaction:
   - AI Literacy
 ---
 
-# Cooked
-
-
 ***One word. Absolute certainty. No appeal.***
 
 **Literal meaning:** "**Cooked**" is internet slang for a state of irreversible failure, defeat, or ruin. A person, situation, argument, or plan that is "**cooked**" is finished — beyond recovery, exposed, or definitively defeated. The culinary metaphor implies completion: what is **cooked** cannot be uncooked.

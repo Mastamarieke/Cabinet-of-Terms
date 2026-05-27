@@ -20,9 +20,6 @@ related_reaction:
   - Digital Detox
 ---
 
-# Dopamine Feedback Loops
-
-
 ***Sometimes there are new likes. Sometimes there are none. You check anyway.***
 
 **Literal meaning:** **Dopamine feedback loops** in platform design refer to the use of variable reward schedules — intermittent, unpredictable positive reinforcement — to sustain compulsive checking and engagement behaviour. The mechanism exploits the same neurological reward system that makes gambling addictive.

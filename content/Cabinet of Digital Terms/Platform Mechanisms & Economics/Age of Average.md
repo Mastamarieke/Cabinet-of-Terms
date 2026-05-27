@@ -19,9 +19,6 @@ related_reaction:
   - Slow Media
 ---
 
-# Age of Average
-
-
 ***The café in Tokyo looks like the one in Amsterdam looks like the one in São Paulo. Nobody planned it that way.***
 
 **Literal meaning:** The **Age of Average** describes the algorithmic homogenisation of culture — a process in which recommendation systems, optimisation feedback, and AI generation converge on a narrow aesthetic and content median, making cultural outputs from different sources, places, and creators progressively less distinguishable from each other.

@@ -19,9 +19,6 @@ related_reaction:
   - VSD (Value Sensitive Design)
 ---
 
-# Algorithmic Violence
-
-
 ***The algorithm denied the benefit. No one decided. No one is responsible.***
 
 **Literal meaning:** **Algorithmic violence** describes harm produced by automated decision-making systems — benefits denials, misidentification by facial recognition, discriminatory credit scoring, wrongful criminal risk assessments — where the harm occurs through systemic bias or error in a system that no individual is directly responsible for in any given instance.

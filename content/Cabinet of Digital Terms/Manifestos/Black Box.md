@@ -18,9 +18,6 @@ related_reaction:
   - Unblackboxing
 ---
 
-# Black Box
-
-
 ***The system made a decision. The criteria are proprietary. The appeal process does not exist.***
 
 **Literal meaning:** A **black box** is any system — technical, social, or organisational — whose internal workings are not accessible to the observer. You can see what goes in and what comes out, but the process that transforms input into output is opaque. In technology, it describes systems that function without revealing their logic to users, regulators, or affected parties.

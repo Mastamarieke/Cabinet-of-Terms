@@ -19,9 +19,6 @@ related_reaction:
   - Cyberfeminism
 ---
 
-# Digital Libertarianism
-
-
 ***Barlow declared cyberspace free in 1996. The declaration was made before the platforms arrived.***
 
 **Literal meaning:** **Digital libertarianism** is the ideological position that cyberspace should be — and to some extent inherently is — beyond the jurisdiction of governments and states, self-governing through the norms of its users, and structured by freedom from regulation rather than by law.

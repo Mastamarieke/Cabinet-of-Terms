@@ -17,9 +17,6 @@ related_reaction:
   - Calm Technology
 ---
 
-# Fair Patterns
-
-
 ***The cancel button is the same size as the confirm button. The default is the option that serves you.***
 
 **Literal meaning:** **Fair patterns** are interface design choices that use the same structural principles as **dark patterns** — visual hierarchy, defaults, friction, salience — but in the service of user interests rather than against them. Where a dark pattern makes unsubscription difficult and subscription easy, the corresponding fair pattern makes both equally accessible. Where a dark pattern hides privacy settings, the fair pattern surfaces them.

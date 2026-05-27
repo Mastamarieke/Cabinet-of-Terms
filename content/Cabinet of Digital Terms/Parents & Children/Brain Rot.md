@@ -19,9 +19,6 @@ related_reaction:
   - Slow Media
 ---
 
-# Brain Rot
-
-
 ***You picked up a book. You could not finish the first paragraph.***
 
 **Literal meaning:** **Brain rot** is a colloquial term — primarily used by young people — describing the subjective experience of cognitive dulling associated with excessive consumption of low-quality, fast-paced digital content: short-form video, infinite scroll feeds, and algorithmically optimised content designed for maximum engagement. Oxford University Press selected it as Word of the Year 2024.

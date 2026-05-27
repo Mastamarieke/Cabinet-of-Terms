@@ -19,9 +19,6 @@ related_reaction:
   - Cyberfeminism
 ---
 
-# Mind Uploading
-
-
 ***Live forever in a server. Whether that is still you is a question for philosophers. The engineers have already moved on.***
 
 **Literal meaning:** **Mind uploading** — also called whole brain emulation — describes the hypothetical process of scanning a brain at sufficient resolution to create a digital copy of its structure and function, enabling a person's consciousness to persist in a computational substrate independently of their biological body.

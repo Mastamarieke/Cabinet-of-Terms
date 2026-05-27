@@ -15,8 +15,6 @@ related_reaction:
   - unblackboxing
 ---
 
-# Doxing
-
 ***The address is now public. The employer has been contacted. None of this required hacking.***
 
 **Literal meaning**

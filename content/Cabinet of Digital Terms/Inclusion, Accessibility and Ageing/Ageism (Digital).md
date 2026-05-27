@@ -19,9 +19,6 @@ related_reaction:
   - Inclusive Design
 ---
 
-# Ageism (Digital)
-
-
 ***The interface was not designed to exclude older users. It was designed without them.***
 
 **Literal meaning:** Digital ageism describes age-based discrimination as it manifests in digital systems — through interface design that assumes peak-capacity young adult users, policy decisions that exclude older people from digital service design, and language that frames older users as exceptions, problems, or afterthoughts.

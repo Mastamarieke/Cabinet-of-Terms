@@ -18,9 +18,6 @@ related_reaction:
   - Deinfluencing
 ---
 
-# Family Vlogging
-
-
 ***The family vacation is content. The argument at breakfast is content. The child's first day of school is content.***
 
 **Literal meaning:** **Family vlogging** describes the practice of producing regular video content — typically on **YouTube** or **TikTok** — documenting family life, with children as central participants in the content. The family is both the subject and the product, and the children's daily lives, reactions, and experiences are the raw material.

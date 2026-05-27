@@ -11,8 +11,6 @@ related_consequence:
 related_reaction:
 ---
 
-# Ludic Loop
-
 ***You opened the app to check one thing. Forty minutes later you are still there.***
 
 **Literal meaning**

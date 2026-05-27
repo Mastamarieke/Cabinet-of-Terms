@@ -19,9 +19,6 @@ related_reaction:
   - VSD (Value Sensitive Design)
 ---
 
-# Neuralink
-
-
 ***Brain-computer interface. The name sounds like science fiction because it was designed to.***
 
 **Literal meaning:** **Neuralink** is a neurotechnology company founded by **Elon Musk** in 2016, developing implantable brain-computer interfaces (BCIs) — devices surgically inserted into the brain that read neural signals and translate them into digital commands. The company's first human implant was conducted in January 2024.

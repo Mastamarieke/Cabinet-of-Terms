@@ -19,9 +19,6 @@ related_reaction:
   - Digital Detox
 ---
 
-# Cognitive Surrender
-
-
 ***You used to have an opinion before you searched. Now you search first.***
 
 **Literal meaning:** **Cognitive surrender** describes the progressive transfer of independent thought — forming opinions, solving problems, navigating uncertainty — to digital systems, platforms, or AI tools. Unlike **cognitive offloading**, which describes the deliberate use of tools to extend capacity, **cognitive surrender** describes the erosion of the capacity itself.

@@ -19,9 +19,6 @@ related_reaction:
   - Calm Technology
 ---
 
-# Screen Time
-
-
 ***The paediatrician asks how many hours. The app tracks it. The platform that designed the product to be irresistible is not part of the conversation.***
 
 **Literal meaning:** **Screen time** refers to the total duration a person — typically a child — spends using digital screens: smartphones, tablets, computers, and televisions. Guidelines from paediatric health organisations (American Academy of Pediatrics, WHO) specify recommended limits by age group.

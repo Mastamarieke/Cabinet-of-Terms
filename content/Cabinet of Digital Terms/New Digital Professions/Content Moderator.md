@@ -18,9 +18,6 @@ related_reaction:
   - Fair Patterns
 ---
 
-# Content Moderator
-
-
 ***She reviews graphic violence for eight hours a day. The platform calls this trust and safety.***
 
 **Literal meaning:** A **content moderator** is a person employed to review user-generated content on digital platforms — identifying and removing material that violates community guidelines, legal requirements, or platform policies: graphic violence, child sexual abuse material, hate speech, self-harm content, misinformation, and spam. The role is performed at massive scale, often under time pressure, with exposure to some of the most disturbing content the internet produces.

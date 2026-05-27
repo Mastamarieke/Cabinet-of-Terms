@@ -19,9 +19,6 @@ related_reaction:
   - Situated Knowledge
 ---
 
-# Digital-Military-Industrial Complex
-
-
 ***The same companies running your email are running the military's logistics.***
 
 **Literal meaning:** The **digital-military-industrial complex** describes the structural entanglement of large technology companies, military and intelligence agencies, and the political system — extending Eisenhower's original concept into the domain of cloud computing, AI, surveillance infrastructure, and data systems.

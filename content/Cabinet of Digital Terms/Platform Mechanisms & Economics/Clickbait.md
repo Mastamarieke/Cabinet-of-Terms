@@ -19,9 +19,6 @@ related_reaction:
   - Fact Checker
 ---
 
-# Clickbait
-
-
 ***You clicked because you had to know. The article told you nothing.***
 
 **Literal meaning:** **Clickbait** describes headlines, thumbnails, and titles deliberately designed to provoke curiosity or emotional response sufficient to generate a click — without the content behind the click necessarily delivering what was implied. The bait is the headline; the click is the transaction.

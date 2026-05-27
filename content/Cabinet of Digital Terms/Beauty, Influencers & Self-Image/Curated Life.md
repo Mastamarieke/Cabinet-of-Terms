@@ -19,9 +19,6 @@ related_reaction:
   - Digital Detox
 ---
 
-# Curated Life
-
-
 ***The flat lay took forty minutes. The caption took twenty. None of that is visible in the photo.***
 
 **Literal meaning:** A **curated life** is a life presented on social media as a deliberate, aesthetically coherent editorial project — where experiences are selected, staged, photographed, filtered, captioned, and scheduled for optimal impact. The metaphor comes from museum curation: choosing what to include, how to arrange it, and what story it tells.

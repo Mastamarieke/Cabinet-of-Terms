@@ -19,9 +19,6 @@ related_reaction:
   - Inclusive Design
 ---
 
-# Digital Ageing
-
-
 ***You did not choose to grow older in a world that redesigns its interfaces every two years.***
 
 **Literal meaning:** **Digital ageing** describes the experience of growing older within a society that is increasingly organised around digital systems — navigating healthcare, banking, government services, social connection, and daily life through interfaces that were not designed with ageing users in mind, and that change faster than adaptation can keep pace with.

@@ -19,9 +19,6 @@ related_reaction:
   - Situated Knowledge
 ---
 
-# Endtime Fascism
-
-
 ***The end is coming. Only one group deserves to survive it.***
 
 **Literal meaning:** **Endtime fascism** describes the political formation in which fascist or authoritarian politics are legitimised by apocalyptic urgency — the claim that the civilisational situation is so dire, the threat so existential, that the normal constraints of democratic governance, human rights, and legal process must be suspended. The emergency justifies the extraordinary.

@@ -17,9 +17,6 @@ related_reaction:
   - Deplatforming
 ---
 
-# MGTOW
-
-
 ***He withdrew from relationships with women entirely. He posts about it every day.***
 
 **Literal meaning:** **MGTOW** — Men Going Their Own Way — describes a movement of men who have chosen to withdraw from romantic and sexual relationships with women, framing this withdrawal as a rational response to what they characterise as an unfair legal, social, and sexual environment hostile to men.

@@ -19,9 +19,6 @@ related_reaction:
   - AI Literacy
 ---
 
-# Mythos Moment
-
-
 ***The threshold where a model becomes too dangerous to release. The line keeps moving.***
 
 **Literal meaning:** **Mythos Moment** describes the threshold at which an AI model's capabilities are judged to be so significant — so potentially dangerous, so qualitatively different from previous systems — that normal release and deployment decisions become inadequate, and the model enters a category requiring extraordinary governance consideration. The term was coined within AI safety discourse to name a threshold that has been anticipated but not yet clearly defined.

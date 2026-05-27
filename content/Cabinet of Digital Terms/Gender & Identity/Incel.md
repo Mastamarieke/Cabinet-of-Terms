@@ -18,9 +18,6 @@ related_reaction:
   - Deplatforming
 ---
 
-# Incel
-
-
 ***He did not choose this identity. It chose him — gradually, through forums that explained his loneliness as injustice.***
 
 **Literal meaning:** **Incel** — involuntary celibate — describes a person, typically a man, who is unable to find a romantic or sexual partner despite desiring one, and who attributes this to factors beyond their control. The term has come to designate not just a situation but a subculture and ideology organised around that situation.

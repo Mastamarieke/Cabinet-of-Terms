@@ -19,9 +19,6 @@ related_reaction:
   - Deplatforming
 ---
 
-# Social Contagion
-
-
 ***Medical vocabulary, applied to an identity. The scientific framing does the work the evidence cannot.***
 
 **Literal meaning:** **Social contagion**, in its clinical use, describes how certain behaviours or conditions can spread through social networks — self-harm, eating disorders, suicide. In contemporary political discourse, the term has been applied specifically to trans identity: the claim that young people are identifying as transgender not from genuine gender dysphoria but because social influence, online communities, and peer pressure have "spread" the identity like a contagion.

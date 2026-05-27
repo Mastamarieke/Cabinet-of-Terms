@@ -20,9 +20,6 @@ related_reaction:
   - Digital Detox
 ---
 
-# Comparison Culture
-
-
 ***You opened the app. Within thirty seconds you had evaluated your life against three other people's.***
 
 **Literal meaning:** **Comparison culture** describes an environment in which continuous, involuntary social comparison — measuring oneself against others' appearance, achievements, lifestyle, and relationships — has become a structural feature of daily digital life, produced by platform architectures that surface others' curated presentations constantly.

@@ -18,9 +18,6 @@ related_reaction:
   - JOMO
 ---
 
-# Tech-Free Challenge
-
-
 ***No phone for 24 hours. Document it on TikTok.***
 
 **Literal meaning:** A **tech-free challenge** is a structured, time-limited period of abstaining from specific technologies — social media, smartphones, or screens — framed as a challenge to be completed, documented, and shared. The challenge format borrows the viral mechanics of social media challenges (ice bucket, no-makeup, 30-day fitness) and applies them to technology abstinence.

@@ -18,9 +18,6 @@ related_reaction:
   - Brussels Effect
 ---
 
-# Privacy Washing
-
-
 ***The privacy policy is fourteen pages long. The data collection continues unchanged.***
 
 **Literal meaning:** **Privacy washing** describes the practice of using privacy rhetoric — statements, certifications, features, and marketing language — to create the impression of strong privacy protection without making substantive changes to data collection, processing, or sharing practices.

@@ -16,9 +16,6 @@ related_reaction:
   - Digital Colonialism
 ---
 
-# Nuclear Renaissance
-
-
 ***Tech companies are reopening nuclear plants. Not because governments asked — because AI needs the electricity.***
 
 **Literal meaning:** A renewed interest in nuclear energy as large-scale, low-carbon power — after decades of decline following Chernobyl and Fukushima. In the AI context, this revival is being led not by governments but by technology companies facing electricity demands that renewables alone cannot currently meet.

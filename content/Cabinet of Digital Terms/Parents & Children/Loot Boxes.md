@@ -18,9 +18,6 @@ related_reaction:
   - Fair Patterns
 ---
 
-# Loot Boxes
-
-
 ***You pay for a chance. Sometimes you get what you wanted. Sometimes you do not. You can pay again.***
 
 **Literal meaning:** **Loot boxes** are purchasable virtual containers in games that provide randomised in-game rewards — items, characters, cosmetics, or in-game advantages. The player pays a fixed price for a probabilistic outcome, which may or may not be what they wanted.

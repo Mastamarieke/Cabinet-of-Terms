@@ -18,9 +18,6 @@ related_reaction:
   - Deinfluencing
 ---
 
-# Fitfluencer
-
-
 ***The workout is real. The caption is content. The body is a platform.***
 
 **Literal meaning:** A **fitfluencer** is a social media creator whose content centres on fitness, physical training, nutrition, and body transformation. The body is simultaneously the subject, the medium, and the proof of concept.

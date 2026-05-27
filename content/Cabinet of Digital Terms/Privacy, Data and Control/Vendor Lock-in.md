@@ -19,9 +19,6 @@ related_reaction:
   - Fair Patterns
 ---
 
-# Vendor Lock-in
-
-
 ***The state cannot cancel the contract. There is no alternative supplier. There is no exit.***
 
 **Literal meaning:** **Vendor lock-in** describes a state of dependency on a specific technology vendor in which switching costs — technical, financial, contractual, or organisational — are so high that the customer has no practical exit option. The vendor's commercial interests diverge from the customer's interests, but the customer cannot leave.

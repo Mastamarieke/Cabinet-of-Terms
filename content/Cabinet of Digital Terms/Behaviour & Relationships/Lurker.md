@@ -18,9 +18,6 @@ related_reaction:
   - JOMO
 ---
 
-# Lurker
-
-
 ***Present but invisible. Reading without responding.***
 
 **Literal meaning:** A **lurker** is someone who reads, watches, or observes online content and communities without posting, commenting, or otherwise making their presence known. The term predates social media — it was used in early internet forums and bulletin boards from the 1980s — but the behaviour it describes has become the dominant mode of online participation.

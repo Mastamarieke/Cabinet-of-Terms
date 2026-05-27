@@ -17,9 +17,6 @@ related_reaction:
   - AI Literacy
 ---
 
-# AI Hallucination
-
-
 ***The answer was confident. Detailed. Completely wrong. The model did not know it was wrong.***
 
 **Literal meaning:** An **AI hallucination** is a response in which a language model produces information that is factually incorrect, fabricated, or entirely invented — stated with the same fluency and confidence as accurate information.

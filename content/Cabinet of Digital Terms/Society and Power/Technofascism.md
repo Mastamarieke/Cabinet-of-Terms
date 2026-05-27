@@ -19,9 +19,6 @@ related_reaction:
   - Cyberfeminism
 ---
 
-# Technofascism
-
-
 ***The historical reference is deliberate.***
 
 **Literal meaning:** **Technofascism** describes the fusion of advanced technology infrastructure with authoritarian political power — a political formation in which Big Tech companies, their owners, and authoritarian political actors become mutually reinforcing, using technology for surveillance, control, information dominance, and the elimination of opposition.

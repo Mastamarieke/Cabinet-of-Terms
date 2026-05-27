@@ -19,9 +19,6 @@ related_reaction:
   - Fair Patterns
 ---
 
-# Frictionful Design
-
-
 ***You want to delete your account. The platform asks: are you sure? Are you really sure? Have you considered what you'll lose?***
 
 **Literal meaning:** Friction, in design, refers to anything that slows a user down — an extra step, a confirmation screen, a pause before an action completes. **Frictionful design** introduces this friction deliberately and productively: not to obstruct, but to create a moment of awareness before a consequential action.

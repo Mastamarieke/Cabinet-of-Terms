@@ -19,9 +19,6 @@ related_reaction:
   - Privacy, Data and Control
 ---
 
-# Microtargeting
-
-
 ***Two people search the same thing. They see different ads. Different prices. Different messages.***
 
 **Literal meaning:** **Microtargeting** is the practice of delivering highly specific messages to precisely defined audience segments — identified through detailed behavioural, demographic, and psychographic data — so that different people receive different content based on inferred characteristics, vulnerabilities, or persuadability.

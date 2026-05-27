@@ -18,9 +18,6 @@ related_reaction:
   - AI Literacy
 ---
 
-# AI as a Utility
-
-
 ***You use it every day. You have no idea where it runs, who owns it, or what it costs.***
 
 **Literal meaning:** **AI as a utility** describes the framing of artificial intelligence as infrastructure — like electricity, water, or internet connectivity — that is always available, consumed on demand, and whose production costs are not visible at the point of use.

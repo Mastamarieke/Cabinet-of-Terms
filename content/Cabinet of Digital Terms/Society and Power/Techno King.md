@@ -17,9 +17,6 @@ related_reaction:
   - Brussels Effect
 ---
 
-# Techno King
-
-
 ***He gave himself the title. The SEC investigated. He kept it.***
 
 **Literal meaning:** "**Techno King**" is the official job title that **Elon Musk** assigned himself at Tesla in March 2021, filed with the US Securities and Exchange Commission. The same filing assigned CFO Zachary Kirkhorn the title "Master of Coin." The titles were simultaneously absurd and legally registered.

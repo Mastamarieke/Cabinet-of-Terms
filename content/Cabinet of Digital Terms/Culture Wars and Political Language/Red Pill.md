@@ -19,9 +19,6 @@ related_reaction:
   - Anti-Woke
 ---
 
-# Red Pill
-
-
 ***A film about escaping a false reality, repurposed as a metaphor for discovering that women have too many rights.***
 
 > A conversion metaphor that frames ideological adoption as truth-seeking — dividing the world into those who see clearly and those who do not.

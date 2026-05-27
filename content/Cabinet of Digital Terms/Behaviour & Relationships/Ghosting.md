@@ -17,9 +17,6 @@ related_reaction:
   - JOMO
 ---
 
-# Ghosting
-
-
 ***No explanation. No ending. Just absence.***
 
 **Literal meaning:** **Ghosting** describes ending a relationship — romantic, professional, or social — by ceasing all communication without explanation. The person simply stops responding. The other party receives no closure, no reason, and no acknowledgement that the relationship has ended.

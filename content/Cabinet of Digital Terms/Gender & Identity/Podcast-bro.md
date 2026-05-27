@@ -18,9 +18,6 @@ related_reaction:
   - Deplatforming
 ---
 
-# Podcast-bro
-
-
 ***Three hours, unedited, enormously influential. Nobody fact-checked it.***
 
 **Literal meaning:** **Podcast-bro** describes a specific figure in contemporary media: the male podcast host — typically young to middle-aged, white or presenting as ideologically white-coded — who combines self-improvement, masculinity, politics, and culture in long-form unedited conversation, reaching large audiences outside traditional media gatekeeping structures.

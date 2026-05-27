@@ -19,9 +19,6 @@ related_reaction:
   - Cyberfeminism
 ---
 
-# The Matrix
-
-
 ***A film about liberation, released in 1999, now used to recruit people into the opposite.***
 
 **Literal meaning:** *The Matrix* (1999, dir. Lilly and Lana Wachowski) is a science fiction film in which the protagonist Neo discovers that what he believed to be reality is a computer simulation maintained by machines to pacify humans while extracting their energy. Choosing the **red pill** reveals the truth; choosing the blue pill preserves comfortable illusion.

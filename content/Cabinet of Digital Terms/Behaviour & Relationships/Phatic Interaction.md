@@ -18,9 +18,6 @@ related_reaction:
   - JOMO
 ---
 
-# Phatic Interaction
-
-
 ***How are you. Fine. The exchange happened. Nobody meant either sentence.***
 
 **Literal meaning:** Phatic communication — from Greek *phatos*, spoken — refers to language used not to convey information but to establish and maintain social connection. "Nice weather." "Safe travels." "Let me know if you need anything." The content is not the point; the connection is. In the digital context, likes, emoji reactions, story views, and many short messages function phatically.

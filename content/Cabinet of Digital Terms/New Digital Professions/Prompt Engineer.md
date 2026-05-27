@@ -19,9 +19,6 @@ related_reaction:
   - Red Teamer
 ---
 
-# Prompt Engineer
-
-
 ***She has learned to talk to the model in a way that works. Whether this is a skill or a workaround is not yet clear.***
 
 **Literal meaning:** A **prompt engineer** is a person who specialises in formulating inputs to AI systems — particularly large language models — to produce desired outputs reliably and at quality. The skill involves understanding how AI systems interpret instructions, what kinds of formulations produce what kinds of results, and how to structure complex tasks for AI processing.

@@ -19,9 +19,6 @@ related_reaction:
   - Inclusive Design
 ---
 
-# Accessibility
-
-
 ***The website has an accessibility statement. The form cannot be completed with a screen reader.***
 
 **Literal meaning:** **Accessibility**, in digital contexts, describes the degree to which digital products, services, and interfaces can be used by people with disabilities — visual, auditory, motor, cognitive. It is codified in technical standards (WCAG — Web Content **Accessibility** Guidelines) and law (the European **Accessibility** Act 2019, the Americans with Disabilities Act).

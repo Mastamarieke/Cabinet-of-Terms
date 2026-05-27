@@ -19,9 +19,6 @@ related_reaction:
   - Situated Knowledge
 ---
 
-# Reconstruction Economy
-
-
 ***The contractor builds what the bomb destroys. This is not a paradox.***
 
 **Literal meaning:** **Reconstruction economy** describes the commercial ecosystem that emerges around conflict, disaster, and the destruction of infrastructure — in which private companies profit from rebuilding what has been destroyed, creating a market that is structurally dependent on continued destruction or its aftermath.

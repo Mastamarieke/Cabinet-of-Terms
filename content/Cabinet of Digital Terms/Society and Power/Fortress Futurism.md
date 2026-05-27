@@ -19,9 +19,6 @@ related_reaction:
   - Cyberfeminism
 ---
 
-# Fortress Futurism
-
-
 ***The wall is not against the past. It is for a future available only to some.***
 
 **Literal meaning:** **Fortress futurism** describes the ideology and aesthetic of using advanced technology to create protected enclaves — private islands, underground bunkers, orbital habitats, off-grid compounds — for a wealthy elite while the external world degrades. It combines the survivalist impulse with the resources to engineer escape.

@@ -19,9 +19,6 @@ related_reaction:
   - JOMO
 ---
 
-# Gooner
-
-
 ***Compulsive fixation as public vocabulary. A private behaviour named, shared, and made into identity.***
 
 **Literal meaning:** A **gooner**, in its original and still primary sense, describes someone engaged in extended, compulsive consumption of pornographic content — a portmanteau of "goon" (to be in a dissociated, trance-like state) and the "-er" suffix denoting a practitioner. In broader internet use, it has been extended to describe any intense, compulsive fixation: someone who is obsessively devoted to a game character, media franchise, or aesthetic.

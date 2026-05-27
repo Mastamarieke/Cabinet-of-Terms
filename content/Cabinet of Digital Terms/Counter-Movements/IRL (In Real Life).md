@@ -14,8 +14,6 @@ related_reaction:
   - []
 ---
 
-# IRL (In Real Life)
-
 ***Physical presence now needs a name to distinguish itself from the default.***
 
 **Literal meaning**

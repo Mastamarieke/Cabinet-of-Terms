@@ -19,9 +19,6 @@ related_reaction:
   - Cyberfeminism
 ---
 
-# Surveillance Capitalism
-
-
 ***Your behaviour is the raw material. Your prediction is the product.***
 
 **Literal meaning:** **Surveillance capitalism** is **Shoshana Zuboff**'s term for the economic logic in which human behavioural data is extracted, processed, and sold as prediction products. The raw material is human experience. The product is influence over future behaviour.

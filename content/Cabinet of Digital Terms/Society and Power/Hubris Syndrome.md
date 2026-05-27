@@ -19,9 +19,6 @@ related_reaction:
   - Brussels Effect
 ---
 
-# Hubris Syndrome
-
-
 ***He stopped listening. Not suddenly — gradually, as the accountability structures were removed one by one.***
 
 **Literal meaning:** **Hubris syndrome** is a clinical and political concept developed by neurologist and former British Foreign Secretary David Owen, describing a condition produced by the accumulation of power: a pattern of grandiosity, contempt for others, loss of contact with reality, and identification of one's own interests with the interests of humanity — emerging specifically from extended periods of unchecked authority.

@@ -14,8 +14,6 @@ related_reaction:
   - []
 ---
 
-# Chad
-
 ***The ideal against which everyone else is measured. The standard nobody asked for.***
 
 **Literal meaning**

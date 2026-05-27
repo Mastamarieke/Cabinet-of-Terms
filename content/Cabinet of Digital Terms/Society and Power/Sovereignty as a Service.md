@@ -19,9 +19,6 @@ related_reaction:
   - Situated Knowledge
 ---
 
-# Sovereignty as a Service
-
-
 ***The state runs on AWS. The military uses Microsoft. Sovereignty has been outsourced.***
 
 **Literal meaning:** **Sovereignty as a Service** describes the condition in which a state's exercise of sovereign functions — communications, tax collection, benefits administration, border control, defence logistics — is dependent on private technology infrastructure that the state does not own and cannot fully control.

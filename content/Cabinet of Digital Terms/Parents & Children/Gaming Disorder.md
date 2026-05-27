@@ -19,9 +19,6 @@ related_reaction:
   - VSD (Value Sensitive Design)
 ---
 
-# Gaming Disorder
-
-
 ***He plays every night until 3am. He stops eating regularly. His parents call it a phase.***
 
 **Literal meaning:** **Gaming disorder** is the WHO's ICD-11 classification (2018) for a pattern of gaming behaviour characterised by impaired control over gaming, increasing priority given to gaming over other activities, and continuation or escalation despite negative consequences — sufficient in severity to cause significant impairment over at least 12 months.

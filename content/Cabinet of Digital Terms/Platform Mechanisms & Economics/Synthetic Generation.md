@@ -19,9 +19,6 @@ related_reaction:
   - Fact Checker
 ---
 
-# Synthetic Generation
-
-
 ***The photo looks real. The voice sounds familiar. The person never existed. The statement was never made.***
 
 **Literal meaning:** **Synthetic generation** describes the production of artificial media — images, video, audio, text — using AI systems that generate outputs indistinguishable from human-produced content. The outputs are synthetic in that they do not represent any real moment, person, or event, but are generated from statistical patterns in training data.

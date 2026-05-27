@@ -18,9 +18,6 @@ related_reaction:
   - Deplatforming
 ---
 
-# Wellness-to-Alt-Right Pipeline
-
-
 ***The entry point was gluten. The algorithm built the bridge.***
 
 **Literal meaning:** The **wellness-to-alt-right pipeline** describes the documented pathway by which people move from wellness, alternative health, and New Age communities into far-right political positions — often without a clear moment of conversion. The journey is characterised by incremental steps through content that shares structural features: distrust of mainstream institutions, identification of hidden enemies, emphasis on purity and contamination, and insider knowledge as empowerment.

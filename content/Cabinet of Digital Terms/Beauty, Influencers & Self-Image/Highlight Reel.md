@@ -18,9 +18,6 @@ related_reaction:
   - Deinfluencing
 ---
 
-# Highlight Reel
-
-
 ***Everyone shows their best. You compare your worst to their best.***
 
 **Literal meaning:** A **highlight reel** — borrowed from sports broadcasting, where it refers to a curated sequence of the best moments from a game — describes the selective presentation of life on social media: the best meals, the best trips, the best versions of the face and body, the best moments of a relationship. The mundane, the difficult, and the unflattering are edited out.

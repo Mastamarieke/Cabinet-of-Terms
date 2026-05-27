@@ -18,9 +18,6 @@ related_reaction:
   - AI Literacy
 ---
 
-# Podcast-bro
-
-
 ***Three hours, unedited, enormously influential. Nobody fact-checked it.***
 
 **Literal meaning:** **Podcast-bro** describes the archetype of the male long-form podcaster — typically presenting as anti-establishment, free-thinking, and unfiltered — whose show functions as an ideological entry point for predominantly male audiences, introducing them to a curated set of guests, ideas, and worldviews under the framing of open intellectual inquiry.

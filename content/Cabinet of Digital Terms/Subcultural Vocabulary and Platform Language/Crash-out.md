@@ -19,9 +19,6 @@ related_reaction:
   - AI Literacy
 ---
 
-# Crash-out
-
-
 ***She lost it publicly. Everyone watched. Some recorded.***
 
 **Literal meaning:** To "crash out" describes a public emotional breakdown or loss of control — an outburst, meltdown, or extreme reaction made visible online, either by the person experiencing it or by bystanders who document and share it. The term captures both the involuntary loss of composure and the social fact of its public witnessing.

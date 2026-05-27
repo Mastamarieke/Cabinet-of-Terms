@@ -19,9 +19,6 @@ related_reaction:
   - Situated Knowledge
 ---
 
-# The Singularity
-
-
 ***Kurzweil set a date. The date keeps moving. The belief does not.***
 
 **Literal meaning:** **The Singularity** describes a hypothetical future point at which artificial intelligence surpasses human intelligence, producing an explosion of recursive self-improvement that transforms civilisation in ways that are, by definition, unpredictable from the current vantage point — hence the borrowing from mathematical singularity, where normal rules break down.

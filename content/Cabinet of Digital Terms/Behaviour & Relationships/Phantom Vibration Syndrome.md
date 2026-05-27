@@ -19,9 +19,6 @@ related_reaction:
   - JOMO
 ---
 
-# Phantom Vibration Syndrome
-
-
 ***Your phone is not vibrating. You feel it anyway.***
 
 **Literal meaning:** **Phantom vibration syndrome** describes the experience of perceiving your phone vibrating when it is not. The sensation is real — felt in the leg, pocket, or hand — but has no external source. The nervous system has learned to anticipate the notification and begins generating the signal independently.

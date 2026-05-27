@@ -19,9 +19,6 @@ related_reaction:
   - Brussels Effect
 ---
 
-# Brain-Computer Interface
-
-
 ***Direct connection between brain and machine. The technology is real. The implications are still being written.***
 
 **Literal meaning:** A **brain-computer interface** (BCI) is a device that establishes a direct communication channel between the brain and an external computer — reading neural signals and translating them into digital commands, or delivering digital signals to the brain. BCIs range from non-invasive EEG headsets to surgically implanted electrode arrays.

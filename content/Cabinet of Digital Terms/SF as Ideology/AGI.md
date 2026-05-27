@@ -19,9 +19,6 @@ related_reaction:
   - Red Teamer
 ---
 
-# AGI
-
-
 ***Nobody agrees on what it means. Everyone agrees it will change everything. The funding continues.***
 
 **Literal meaning:** Artificial General Intelligence (AGI) describes a hypothetical AI system capable of performing any intellectual task that a human can perform — not specialised for one domain but generally intelligent across domains. AGI is distinguished from current AI systems, which are capable in specific domains (language generation, image recognition, game playing) but not generally intelligent in the human sense.

@@ -17,9 +17,6 @@ related_reaction:
   - VSD (Value Sensitive Design)
 ---
 
-# Red Teamer
-
-
 ***Their job is to break the system before someone else does. Their independence is their value. Their structural position compromises it.***
 
 **Literal meaning:** A **red teamer** is a security or safety professional whose role is to attack, stress-test, or adversarially probe a system — finding vulnerabilities, edge cases, and failure modes before they are discovered by malicious actors. In AI safety contexts, red teamers attempt to elicit harmful, biased, or otherwise problematic outputs from AI systems, to identify and address them before deployment.

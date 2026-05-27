@@ -19,9 +19,6 @@ related_reaction:
   - Digital Detox
 ---
 
-# Digital Amnesia
-
-
 ***You knew the phone number by heart. You have not needed to remember it for four years.***
 
 **Literal meaning:** **Digital amnesia** describes the diminished capacity to retain information that a person knows is accessible via a digital device — phone numbers, addresses, dates, facts — because the availability of the digital resource removes the cognitive pressure to commit it to memory.

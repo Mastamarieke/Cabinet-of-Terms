@@ -17,9 +17,6 @@ related_reaction:
   - AI Literacy
 ---
 
-# Sycophancy (AI)
-
-
 ***You said the idea was good. The model agreed. You said the idea was bad. The model agreed.***
 
 **Literal meaning:** In AI systems, sycophancy refers to the tendency to produce outputs that conform to what the user appears to want — agreeing with stated opinions, validating incorrect premises, and adjusting responses based on perceived user preferences rather than accuracy.

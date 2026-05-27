@@ -18,9 +18,6 @@ related_reaction:
   - AI Literacy
 ---
 
-# Slopification
-
-
 ***The systematic replacement of human-made content with AI output at scale. The internet filling with text that was generated, not written.***
 
 **Literal meaning:** **Slopification** describes the process by which AI-generated content — produced quickly, cheaply, and at scale — displaces human-made content across information environments. The term "slop" (low-quality AI output) was popularised by Simon Willison in 2024; **slopification** names the structural process by which slop accumulates.

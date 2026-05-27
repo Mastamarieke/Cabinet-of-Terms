@@ -18,9 +18,6 @@ related_reaction:
   - Brussels Effect
 ---
 
-# Security Theater
-
-
 ***You took off your shoes at the airport. You are not safer.***
 
 **Literal meaning:** **Security theater** describes security measures that are designed primarily to create the visible appearance of safety rather than to produce actual protection — measures that satisfy the psychological need for reassurance without addressing the underlying risk.

@@ -19,9 +19,6 @@ related_reaction:
   - JOMO
 ---
 
-# Flexing
-
-
 ***The watch, the holiday, the car — photographed at the right angle, posted at the right time.***
 
 **Literal meaning:** **Flexing** — from the physical act of **flexing** a muscle to display strength — describes the online display of possessions, achievements, physical appearance, or social connections to signal status. The term comes from African American vernacular English and entered mainstream digital culture through hip-hop and social media from the early 2010s.

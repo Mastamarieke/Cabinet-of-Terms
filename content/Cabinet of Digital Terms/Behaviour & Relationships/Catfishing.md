@@ -17,9 +17,6 @@ related_reaction:
   - AI Literacy
 ---
 
-# Catfishing
-
-
 ***The relationship lasted six months. The person did not exist.***
 
 **Literal meaning:** **Catfishing** describes creating a false online identity — using fabricated photos, names, and personal histories — to deceive another person into an emotional or romantic relationship. The deception is sustained over time, often through carefully managed communication.

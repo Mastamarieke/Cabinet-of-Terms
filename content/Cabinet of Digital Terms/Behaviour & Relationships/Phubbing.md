@@ -19,9 +19,6 @@ related_reaction:
   - Digital Detox
 ---
 
-# Phubbing
-
-
 ***Someone is talking to you. You are looking at your phone.***
 
 **Literal meaning:** **Phubbing** — a portmanteau of *phone* and *snubbing* — describes the practice of ignoring someone in a face-to-face social situation by attending to your phone instead. The word was coined in 2012 as part of a campaign by Macquarie Dictionary in Australia, but the behaviour it names became a subject of academic research from around 2015.

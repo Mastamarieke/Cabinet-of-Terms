@@ -18,9 +18,6 @@ related_reaction:
   - Brussels Effect
 ---
 
-# Deadnaming
-
-
 ***The old name is still indexed. The search engine does not forget.***
 
 **Literal meaning:** **Deadnaming** refers to the use of a transgender person's birth name — the name they used before transition, which they have abandoned — either deliberately as a form of harassment, or inadvertently through digital systems that retain and surface old data. The "dead" name is the one the person no longer uses or identifies with.

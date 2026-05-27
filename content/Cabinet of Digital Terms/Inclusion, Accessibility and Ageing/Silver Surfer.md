@@ -19,9 +19,6 @@ related_reaction:
   - Universal Design
 ---
 
-# Silver Surfer
-
-
 ***The term is meant to be positive. It is also slightly condescending. Both things are true.***
 
 **Literal meaning:** **Silver surfer** is a colloquial term for older people — typically those over 60 — who use the internet, usually framing their participation as noteworthy, impressive, or worth celebrating. The "silver" references grey hair; the "surfer" draws on early internet vocabulary.

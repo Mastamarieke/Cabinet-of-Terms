@@ -12,8 +12,6 @@ related_reaction:
   - unblackboxing
 ---
 
-# Shadow Banning
-
 ***Your posts are still up. You can still see them. Nobody else can.***
 
 **Literal meaning**

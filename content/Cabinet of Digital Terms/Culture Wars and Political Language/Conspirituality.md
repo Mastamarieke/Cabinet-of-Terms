@@ -18,9 +18,6 @@ related_reaction:
   - Deplatforming
 ---
 
-# Conspirituality
-
-
 ***She started with essential oils. The algorithm did the rest.***
 
 **Literal meaning:** **Conspirituality** — a portmanteau of *conspiracy* and *spirituality* — describes the fusion of New Age spiritual beliefs with conspiracy thinking. It names the phenomenon where wellness culture, alternative health, and spiritual seeking overlap with distrust of mainstream institutions, belief in hidden elites, and susceptibility to conspiracy theories.

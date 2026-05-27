@@ -18,9 +18,6 @@ related_reaction:
   - AI Literacy
 ---
 
-# Cognitive Offloading
-
-
 ***You stopped remembering phone numbers when you got a smartphone. You are doing the same thing with thinking.***
 
 **Literal meaning:** **Cognitive offloading** is the practice of using external tools — notebooks, calculators, GPS, AI systems — to perform cognitive tasks that would otherwise require internal mental effort. It is a normal and longstanding feature of human cognition. The question is what happens at scale and over time.

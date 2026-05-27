@@ -19,9 +19,6 @@ related_reaction:
   - Digital Detox
 ---
 
-# Doom Spending
-
-
 ***The future feels uncertain. You buy something. It does not help. You buy something else.***
 
 **Literal meaning:** **Doom spending** describes the pattern of making purchases — typically non-essential, often small — as an emotional response to anxiety about the future: economic precarity, climate anxiety, political uncertainty. The spending provides brief relief, sense of control, or momentary pleasure in a context that feels uncontrollable.

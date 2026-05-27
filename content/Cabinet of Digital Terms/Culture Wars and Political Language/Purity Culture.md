@@ -18,9 +18,6 @@ related_reaction:
   - Deplatforming
 ---
 
-# Purity Culture
-
-
 ***The body must be clean. The food must be clean. The community must be clean.***
 
 **Literal meaning:** **Purity culture**, in its original sense, describes the conservative Christian movement emphasising sexual abstinence and bodily purity — primarily directed at young women — as a religious and moral obligation. In its broader political and analytical sense, it describes the cluster of obsessions with purity, contamination, and cleansing that appear across political and cultural movements: pure food, pure bodies, pure bloodlines, pure nations.

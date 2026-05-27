@@ -18,9 +18,6 @@ related_reaction:
   - Greenwashing
 ---
 
-# AI Energy Consumption
-
-
 ***Every question you ask a model costs electricity. The bill goes somewhere. Not to you.***
 
 **Literal meaning:** The total electricity required to build and run AI systems — from training models to answering individual queries.

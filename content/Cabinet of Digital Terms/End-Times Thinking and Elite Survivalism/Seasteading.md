@@ -19,9 +19,6 @@ related_reaction:
   - Situated Knowledge
 ---
 
-# Seasteading
-
-
 ***Build a new society in international waters, outside any jurisdiction. The design is still in progress.***
 
 **Literal meaning:** **Seasteading** is the concept of establishing permanent human settlements on floating platforms in international waters — outside any nation's jurisdiction, and therefore outside any nation's regulatory, tax, or legal frameworks. The term was coined by Patri Friedman (grandson of Milton Friedman) and developed by the **Seasteading** Institute, which received initial funding from Peter Thiel.

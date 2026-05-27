@@ -21,9 +21,6 @@ related_reaction:
   - VSD (Value Sensitive Design)
 ---
 
-# Dark Patterns
-
-
 ***The unsubscribe button is grey and tiny. The stay-subscribed button is large and green. Someone made that choice.***
 
 **Literal meaning:** **Dark patterns** are interface design choices that work against users' interests — manipulating, misleading, or coercing users into actions they would not take if the interface were honest. The term was coined by UX designer **Harry Brignull** in 2010, who began documenting specific patterns on darkpatterns.org. The site is now at deceptive.design.

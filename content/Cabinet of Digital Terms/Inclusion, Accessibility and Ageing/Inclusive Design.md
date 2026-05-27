@@ -18,9 +18,6 @@ related_reaction:
   - Universal Design
 ---
 
-# Inclusive Design
-
-
 ***Designing for the person with the greatest need produces a solution that works better for everyone else.***
 
 **Literal meaning:** **Inclusive design** is a design methodology that begins by identifying and centring the needs of people who are typically excluded — people with disabilities, older users, non-native speakers, people with low digital literacy — on the basis that solutions designed for the margins produce better products for everyone.

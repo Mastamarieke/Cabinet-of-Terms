@@ -18,9 +18,6 @@ related_reaction:
   - Digital Detox
 ---
 
-# FOBO
-
-
 ***You chose the restaurant. Then you checked the one next door. You are still not sure.***
 
 **Literal meaning:** **FOBO** — Fear of Better Options — describes the anxiety and indecision produced by the awareness that there may always be a better alternative available: a better restaurant, a better partner, a better product, a better experience. The term is the counterpart to **FOMO** (Fear of Missing Out): where **FOMO** is anxiety about absence, **FOBO** is anxiety about premature commitment.

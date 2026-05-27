@@ -19,9 +19,6 @@ related_reaction:
   - AI Literacy
 ---
 
-# Brave New World
-
-
 ***Control through pleasure, not fear. Huxley wrote it in 1932. Platform designers did not need to read it.***
 
 **Literal meaning:** *Brave New World* (1932) is Aldous Huxley's dystopian novel depicting a society controlled not through fear and pain but through pleasure, comfort, and the elimination of desire for freedom. Citizens are biologically and behaviourally conditioned from birth; the drug soma provides instant contentment; entertainment and sex are freely available; unhappiness is a social pathology.

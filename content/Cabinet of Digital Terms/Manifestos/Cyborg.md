@@ -19,9 +19,6 @@ related_reaction:
   - Situated Knowledge
 ---
 
-# Cyborg
-
-
 ***Haraway wrote it in 1985. She was not describing a machine. She was describing a politics.***
 
 **Literal meaning:** In **Donna Haraway**'s 1985 *Cyborg Manifesto*, a **cyborg** is a hybrid of organism and machine — a figure that refuses the boundary between human and animal, human and machine, physical and non-physical. For **Haraway**, the **cyborg** is a political metaphor: the boundary that defines "the human" is not natural but constructed, and its construction serves particular power interests.

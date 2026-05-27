@@ -19,9 +19,6 @@ related_reaction:
   - Brussels Effect
 ---
 
-# Grifters
-
-
 ***The ideology is the product. The followers are the market.***
 
 **Literal meaning:** **Grifters** are con artists — people who extract money or resources from marks through deception, false promises, and manufactured trust. In contemporary political and tech culture, the term describes actors who combine personal financial extraction with ideological performance: the con is accompanied by a world-view, a community, and a set of beliefs that make the extraction feel like participation in a movement.

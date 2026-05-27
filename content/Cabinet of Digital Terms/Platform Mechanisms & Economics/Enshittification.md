@@ -19,9 +19,6 @@ related_reaction:
   - Brussels Effect
 ---
 
-# Enshittification
-
-
 ***Facebook was useful. Then it got worse. Then it got worse again.***
 
 **Literal meaning:** **Enshittification** is **Cory Doctorow**'s 2022 term for the predictable lifecycle of digital platforms: platforms begin by offering genuine value to users, then progressively degrade that value to extract more from users and businesses, as the platform gains sufficient market dominance to make exit costly.

@@ -19,9 +19,6 @@ related_reaction:
   - Red Teamer
 ---
 
-# Digital Frankenstein
-
-
 ***The technology outgrew its creator. The creator is still talking about potential.***
 
 **Literal meaning:** **Digital Frankenstein** describes the fear — and the narrative — of a technology that escapes the control of its creators and turns on them. The reference is to Mary Shelley's 1818 novel, in which Victor Frankenstein creates a creature he cannot manage, refuses to take responsibility for, and is ultimately destroyed by.

@@ -18,9 +18,6 @@ related_reaction:
   - Deinfluencing
 ---
 
-# Momfluencer
-
-
 ***The child is in every video. The child is also the product.***
 
 **Literal meaning:** A **momfluencer** is a mother who builds a social media audience around parenting content — using her children, home, and family life as the subject matter of a content business, monetised through brand partnerships, sponsored content, and affiliate marketing.

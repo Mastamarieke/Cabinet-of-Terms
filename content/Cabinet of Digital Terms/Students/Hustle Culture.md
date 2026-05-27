@@ -18,9 +18,6 @@ related_reaction:
   - Digital Detox
 ---
 
-# Hustle Culture
-
-
 ***He works evenings, weekends, holidays. He calls it passion. His manager calls it dedication.***
 
 **Literal meaning:** **Hustle culture** describes a value system in which continuous productivity, overwork, and the elimination of rest are presented as virtues. Busyness becomes identity; working more than others becomes proof of seriousness; and sleep, leisure, and recovery are reframed as competitive disadvantages.

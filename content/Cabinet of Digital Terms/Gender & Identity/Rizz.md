@@ -17,9 +17,6 @@ related_reaction:
   - Podcast-bro
 ---
 
-# Rizz
-
-
 ***Charisma has been quantified, ranked, and turned into a skill you can train. The training is sold online.***
 
 **Literal meaning:** **Rizz** — derived from "charisma" — describes natural charm, attractiveness, and the effortless ability to attract romantic or sexual interest through personality and social fluency. Oxford University Press selected it as Word of the Year for 2023.

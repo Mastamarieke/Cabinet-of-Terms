@@ -19,9 +19,6 @@ related_reaction:
   - VSD (Value Sensitive Design)
 ---
 
-# Cybernetic Governance
-
-
 ***The decision was made by the system. No one is responsible. No one can be appealed to.***
 
 **Literal meaning:** **Cybernetic governance** describes the administration of public functions — welfare benefits, immigration processing, criminal risk assessment, tax compliance — through algorithmic and automated decision systems, replacing or supplementing human administrative judgment with computational processes.

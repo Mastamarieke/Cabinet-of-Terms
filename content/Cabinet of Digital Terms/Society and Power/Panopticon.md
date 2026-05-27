@@ -19,9 +19,6 @@ related_reaction:
   - Brussels Effect
 ---
 
-# Panopticon
-
-
 ***You do not know if you are being watched right now.***
 
 **Literal meaning:** The **panopticon** is an architectural design proposed by **Jeremy Bentham** in 1791 for a prison in which a central tower allows guards to observe all cells at any time — but crucially, in which inmates cannot know when they are being observed. The uncertainty of observation produces self-surveillance: inmates behave as if they are always watched because they might always be watched.

@@ -18,9 +18,6 @@ related_reaction:
   - Red Teamer
 ---
 
-# Dual-Use Technology
-
-
 ***The GPS in your phone was developed by the military. The AI writing your emails is training drone targeting.***
 
 **Literal meaning:** **Dual-use technology** describes technology that has both legitimate civilian applications and potential military or weapons-related applications — where the same capability serves different purposes depending on who deploys it and to what end. The concept is central to export control law, arms control policy, and technology governance.

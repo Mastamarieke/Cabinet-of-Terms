@@ -19,9 +19,6 @@ related_reaction:
   - VSD (Value Sensitive Design)
 ---
 
-# Gamification Creep
-
-
 ***Your fitness app gives you a streak. Your bank gives you points. Your workplace tracks your score. None of these are games.***
 
 **Literal meaning:** **Gamification creep** describes the gradual spread of game design elements — points, levels, streaks, badges, leaderboards, rewards — into non-game contexts, driven by their effectiveness at sustaining engagement and modifying behaviour.

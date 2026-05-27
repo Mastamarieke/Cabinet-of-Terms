@@ -18,9 +18,6 @@ related_reaction:
   - Deplatforming
 ---
 
-# Subhuman
-
-
 ***The word has a history. Every time it has been used at scale, something worse followed.***
 
 **Literal meaning:** **Subhuman** describes a person or group as less than fully human — beneath the threshold of humanity that commands moral consideration. The word and its equivalents (*untermenschen*, "animals," "vermin," "parasites") have a documented role in preparing populations for mass violence: they remove the psychological barriers against harming members of the target group.

@@ -17,9 +17,6 @@ related_reaction:
   - Digital Detox
 ---
 
-# Tech Neck
-
-
 ***Your neck hurts. You know why. You are still looking down.***
 
 **Literal meaning:** **Tech neck** — also called text neck — describes pain, stiffness, and structural strain in the cervical spine caused by the sustained forward head flexion of looking down at a smartphone, tablet, or laptop. At 60 degrees of forward tilt, the effective weight on the cervical spine increases from the head's natural 5 kg to approximately 27 kg. Most smartphone users hold their heads at between 33 and 45 degrees of flexion during use.

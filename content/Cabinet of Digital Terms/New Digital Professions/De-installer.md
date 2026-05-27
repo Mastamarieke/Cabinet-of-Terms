@@ -19,9 +19,6 @@ related_reaction:
   - Fair Patterns
 ---
 
-# De-installer
-
-
 ***The app is gone. The data is not.***
 
 **Literal meaning:** A **de-installer** is someone who helps others remove unwanted, harmful, or manipulative applications from their devices — bloatware pre-installed by manufacturers, apps that are difficult to uninstall by design, or services that have embedded themselves too deeply to remove without technical knowledge. The role exists at the intersection of technical skill and digital wellbeing.

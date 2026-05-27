@@ -19,9 +19,6 @@ related_reaction:
   - AI Literacy
 ---
 
-# Simulation Hypothesis
-
-
 ***We are probably living in a simulation. Bostrom calculated the odds. Musk brought it up at a party.***
 
 **Literal meaning:** The **simulation hypothesis**, as formalised by philosopher Nick Bostrom in a 2003 paper, proposes a trilemma: either virtually all civilisations go extinct before reaching the computational capacity to run detailed simulations of their history; or virtually all civilisations with that capacity choose not to run such simulations; or we are almost certainly living in a simulation run by a post-human civilisation.

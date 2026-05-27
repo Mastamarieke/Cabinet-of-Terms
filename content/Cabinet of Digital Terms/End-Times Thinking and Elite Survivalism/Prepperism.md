@@ -19,9 +19,6 @@ related_reaction:
   - AI Literacy
 ---
 
-# Prepperism
-
-
 ***He has six months of food in the basement. He does not tell his neighbours.***
 
 **Literal meaning:** **Prepperism** describes the practice and identity of "prepping" — systematic preparation for civilisational collapse, societal breakdown, or major disaster scenarios, through stockpiling food, water, and supplies, developing survival skills, and establishing refuge locations. The prepper is simultaneously preparing for a specific scenario and constructing an identity around that preparation.

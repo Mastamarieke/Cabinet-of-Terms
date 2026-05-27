@@ -18,9 +18,6 @@ related_reaction:
   - Deplatforming
 ---
 
-# Woke Mind Virus
-
-
 ***If your opponent's beliefs are a virus, you do not need to argue with them. You need to cure them.***
 
 **Literal meaning:** "**Woke mind virus**" is a phrase associated primarily with **Elon Musk**, used to describe progressive political positions — particularly on race, gender, and identity — as a pathological condition that spreads through culture like a virus, infecting institutions, media, and individuals.

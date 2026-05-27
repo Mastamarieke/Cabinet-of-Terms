@@ -16,9 +16,6 @@ related_reaction:
   - Nuclear Renaissance
 ---
 
-# Sacrifice Zones
-
-
 ***Someone lives next to the data centre.***
 
 **Literal meaning:** Geographic areas — typically low-income, politically marginalised, or sparsely regulated — that bear concentrated and disproportionate environmental burdens from industrial or infrastructural activity. In the AI context: communities near data centres, power plants, or resource extraction sites whose local environment is degraded to sustain digital services used elsewhere.

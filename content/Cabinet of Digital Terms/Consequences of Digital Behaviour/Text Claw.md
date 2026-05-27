@@ -17,9 +17,6 @@ related_reaction:
   - Digital Detox
 ---
 
-# Text Claw
-
-
 ***Your fingers cramp after an hour of scrolling. Your physiotherapist has started seeing a pattern.***
 
 **Literal meaning:** **Text claw** describes pain, cramping, and stiffness in the fingers, thumb, and wrist caused by the repetitive micro-movements of texting, scrolling, and swiping on a smartphone. The term covers a cluster of related conditions: cubital tunnel syndrome from prolonged elbow flexion, trigger thumb from tendon inflammation, and the general cramping that hand surgeons increasingly see in smartphone users.

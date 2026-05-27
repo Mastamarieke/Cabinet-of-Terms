@@ -17,9 +17,6 @@ related_reaction:
   - Fair Patterns
 ---
 
-# Privacy by Design
-
-
 ***The privacy settings are not in the menu. They are in the architecture.***
 
 **Literal meaning:** "By design" means built into the system from the start — not applied as a layer afterwards. **Privacy by design** requires that data minimisation, user control, and confidentiality are structural features of a system, present before the first user arrives, not added in response to complaints or regulation.

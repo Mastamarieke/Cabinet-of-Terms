@@ -18,9 +18,6 @@ related_reaction:
   - AI Literacy
 ---
 
-# Algospeak
-
-
 ***People write "unalive" instead of "die" — not to be clever, but because the algorithm removes the real words.***
 
 **Literal meaning:** **Algospeak** describes the vocabulary of substitutions, euphemisms, and modifications that users develop to communicate about topics that content moderation systems flag or suppress — replacing words that trigger algorithmic demotion or removal with alternatives that convey the same meaning while evading detection. "Unalive" for suicide. "Le$bean" for lesbian. "Mascara" for massacre.

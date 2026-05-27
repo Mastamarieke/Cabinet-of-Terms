@@ -19,9 +19,6 @@ related_reaction:
   - AI Literacy
 ---
 
-# e/acc (Effective Accelerationism)
-
-
 ***Accelerate everything. Safety concerns are obstacles. The faster we go, the better the outcome. Probably.***
 
 **Literal meaning:** Effective Accelerationism (e/acc) is an ideological movement, primarily circulating in tech culture from around 2022–2023, that advocates for the maximal acceleration of technological development — particularly AI — without restriction. Safety concerns, regulatory frameworks, and alignment research are reframed as obstacles to progress that will ultimately benefit humanity. The faster the technology develops, the sooner the good outcomes arrive.

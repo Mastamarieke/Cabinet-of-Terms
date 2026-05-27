@@ -18,9 +18,6 @@ related_reaction:
   - Deplatforming
 ---
 
-# Dehumanization
-
-
 ***They are not described as wrong. They are described as something less than people.***
 
 **Literal meaning:** **Dehumanization** describes the psychological and rhetorical process of denying the full humanity of a person or group — portraying them as animals, vermin, machines, or morally contaminated — in ways that reduce the psychological barriers to harming them. It is both a cognitive process and a language practice.

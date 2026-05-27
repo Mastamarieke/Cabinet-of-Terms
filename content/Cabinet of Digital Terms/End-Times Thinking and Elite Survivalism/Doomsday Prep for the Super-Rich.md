@@ -19,9 +19,6 @@ related_reaction:
   - Brussels Effect
 ---
 
-# Doomsday Prep for the Super-Rich
-
-
 ***The bunker is in New Zealand. The staff have been hired but not told what for.***
 
 **Literal meaning:** **Doomsday prep for the super-rich** describes the documented practice of tech billionaires and ultra-wealthy individuals investing in survival infrastructure — underground bunkers, remote properties, private airstrips, private security systems, stored supplies, and escape routes — in preparation for civilisational collapse scenarios.

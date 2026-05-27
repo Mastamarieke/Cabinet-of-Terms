@@ -18,9 +18,6 @@ related_reaction:
   - Situated Knowledge
 ---
 
-# Doomerism
-
-
 ***The disaster is inevitable. Resistance is futile. This belief is very convenient for the people causing the disaster.***
 
 > The belief that technological disaster is inevitable and resistance is futile — which is very convenient for the people causing the disaster.

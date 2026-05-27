@@ -18,9 +18,6 @@ related_reaction:
   - Digital Detox
 ---
 
-# Deinfluencing
-
-
 ***She is telling you not to buy it. She has two million followers. The video is sponsored.***
 
 **Literal meaning:** **Deinfluencing** is a content trend in which creators advise followers not to buy specific products — often hyped items they have personally tested and found disappointing — positioning themselves as counter-voices to overconsumption and **influencer** culture.

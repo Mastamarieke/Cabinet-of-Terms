@@ -18,9 +18,6 @@ related_reaction:
   - Deplatforming
 ---
 
-# Blackpill
-
-
 ***The hierarchy is fixed. Your position in it is determined at birth. Nothing you do will change it.***
 
 **Literal meaning:** The **blackpill** is an ideological position within **incel** and **manosphere** communities holding that romantic and social outcomes are biologically predetermined — determined primarily by facial bone structure, height, and genetics — and that no amount of self-improvement, personality development, or effort can change one's fundamental position in the sexual hierarchy. The **blackpill** is "blacker" than the **red pill**: not only is the truth harsh, but it cannot be changed.

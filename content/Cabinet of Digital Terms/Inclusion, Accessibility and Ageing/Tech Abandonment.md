@@ -18,9 +18,6 @@ related_reaction:
   - Inclusive Design
 ---
 
-# Tech Abandonment
-
-
 ***They tried. The interface changed again. The password reset failed. They stopped trying.***
 
 **Literal meaning:** **Tech abandonment** describes the process by which people — primarily older adults — stop using digital technologies they previously used, or decline to adopt new ones, because the cognitive, physical, or financial demands of continued use have exceeded what they can or are willing to manage. The term distinguishes active abandonment from never having adopted.
