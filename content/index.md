@@ -13,7 +13,7 @@
 
 ## What this is
 
-The Kabinet van Digitale Termen is a knowledge bank of 270 terms from digital media, platform culture, political discourse, and popular culture. Each term is examined for its origin, its use, its power structure, and — most importantly — what it conceals.
+The Cabinet of digitale Terms is a knowledge bank of 21 clusters, 268 terms, 839 source references in  from digital media, platform culture, political discourse, and popular culture. Each term is examined for its origin, its use, its power structure, and — most importantly — what it conceals.
 
 This is not a glossary. A glossary defines. This collection does something different: it identifies terms worth examining — for genealogy, circulation, stakes, and the shifts in meaning that reveal who benefits from a term's existence.
 
@@ -21,6 +21,27 @@ Every entry asks: **what does this word do to the people who use it?**
 
 ---
 
+## Who is this cabinet for?
+
+Welcome to the Cabinet of Digital Terms: a vibrant knowledge bank for the curious mind.
+
+Here you may lose yourself in a network of 21 clusters and 268 terms, where every word opens a door to deeper insight. With 839 references as our foundation, we invite you to discover the forces beneath the screens of the digital world, follow hidden connections, and learn the language that shapes our reality.
+
+This is your place if you are not satisfied with superficial answers, but crave depth behind the algorithms, data, and power structures.
+
+This project is an inspiring resource for:
+
+**Researchers & Academics**: Who seek depth in the genealogy of terms and wish to use the 839 verified sources for sharp analysis.
+**Teachers & Educators**: Who want to inspire their students with the vocabulary,look for more terms, to think critically and remain resilient in a digital world.
+**Students**: From media, sociology, computer science, and design, who want to bridge theory with the fascinating, sometimes treacherous mechanisms of daily platform use.
+**Policymakers & Government Officials**: Who want to work with passion and insight on responsible digital policy, understanding how algorithms and data use shape our society.
+**Healthcare Professionals & Medical Staff**: Who want to explore the ethical and human side of digital healthcare tools, AI, and data to strengthen the quality of care.
+**Digital Citizens & Activists**: Who want to turn uncomfortable feelings about online interactions into clear insight and powerful resistance.
+**Designers & Developers**: Who want to improve their work with a critical eye and an ethical heart, understanding how design influences behavior and consciousness.
+
+Are you ready to lose yourself in the questions of why it works this way, who benefits, and which words hold the key to digital freedom? Then you are in the right place.
+
+---
 ## How it was made — Cartographic Prompting
 
 The Cabinet of Digital Terms is a knowledge bank of **270 terms** across **21 clusters**, with **849 verified external sources**. It was produced using **cartographic prompting** — a research method developed within Project Digitale Alertheid at HAN University of Applied Sciences.
