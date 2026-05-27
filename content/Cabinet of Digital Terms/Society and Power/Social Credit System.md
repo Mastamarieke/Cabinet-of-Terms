@@ -29,11 +29,11 @@ related_reaction:
 
 **The Appeal:** Scoring financial reliability, regulatory compliance, and civic behaviour addresses genuine governance problems: fraud, tax evasion, contract default. Credit scoring — the Western financial system's version — has documented benefits for financial inclusion and fraud reduction.
 
-**The Friction:** The analytical value of the Chinese **social credit system** concept for Western audiences is partly in the mirror it holds up. [[Surveillance Capitalism]] produces de facto social scoring in the West: insurance companies use behaviour data, employers check social media, platforms score users for advertising purposes. [[Panopticon]] — the structure of surveillance that makes the watched govern themselves — is what social credit systems operationalise. [[Algorithmic Violence]] is the documented consequence when scoring systems encode existing inequalities. The Western anxiety about China's **social credit system** is most usefully directed at the analogous systems already operating in Western economies.
+**The Friction:** The analytical value of the Chinese **social credit system** concept for Western audiences is partly in the mirror it holds up. [[Surveillance Capitalism — Society and Power]] produces de facto social scoring in the West: insurance companies use behaviour data, employers check social media, platforms score users for advertising purposes. [[Panopticon]] — the structure of surveillance that makes the watched govern themselves — is what social credit systems operationalise. [[Algorithmic Violence]] is the documented consequence when scoring systems encode existing inequalities. The Western anxiety about China's **social credit system** is most usefully directed at the analogous systems already operating in Western economies.
 
 **Why This Matters:** **Social credit system** names a governance technology that is easier to critique at a distance than in the mirror. Once you see the scoring systems already operating in Western financial, employment, and platform contexts, the concern about China is also a concern about what is already here.
 
-**See also:** [[Panopticon]] · [[Surveillance Capitalism]] · [[Algorithmic Violence]] · [[Cybernetic Governance]] · [[Brussels Effect]]
+**See also:** [[Panopticon]] · [[Surveillance Capitalism — Society and Power]] · [[Algorithmic Violence]] · [[Cybernetic Governance]] · [[Brussels Effect]]
 
 
 ---
@@ -54,7 +54,7 @@ related_reaction:
 
 **Layer:** Mechanism — citizen behaviour scoring used to allocate access, more present in Western analogues than Western discourse acknowledges
 
-**Cause:** [[Surveillance Capitalism]] · [[Cybernetic Governance]]
+**Cause:** [[Surveillance Capitalism — Society and Power]] · [[Cybernetic Governance]]
 **Mechanism:** [[Panopticon]] · [[Algorithmic Violence]]
 **Consequence:** [[Algorithmic Violence]] · [[Panopticon]]
 **Reaction:** [[Brussels Effect]] · [[AI Literacy]]

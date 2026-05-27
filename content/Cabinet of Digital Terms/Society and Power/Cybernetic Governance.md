@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Cybernetic governance** names the political stakes of what looks like administrative efficiency. Once you see algorithms as governance — not just tools — the question of who designs them, whose values they encode, and who bears their errors becomes a constitutional question.
 
-**See also:** [[Algorithmic Violence]] · [[Panopticon]] · [[Sovereignty as a Service]] · [[Surveillance Capitalism]] · [["Like Prime, but with human beings."]]
+**See also:** [[Algorithmic Violence]] · [[Panopticon]] · [[Sovereignty as a Service]] · [[Surveillance Capitalism — Society and Power]] · [["Like Prime, but with human beings."]]
 
 
 ---
@@ -55,7 +55,7 @@ related_reaction:
 
 **Layer:** Mechanism — public administration through algorithmic systems that diffuse accountability while encoding existing inequalities
 
-**Cause:** [[Surveillance Capitalism]] · [[Technofeudalism]]
+**Cause:** [[Surveillance Capitalism — Society and Power]] · [[Technofeudalism]]
 **Mechanism:** [[Algorithmic Violence]] · [[Panopticon]]
 **Consequence:** [[Algorithmic Violence]] · [[Sovereignty as a Service]]
 **Reaction:** [[Brussels Effect]] · [[VSD (Value Sensitive Design)]]

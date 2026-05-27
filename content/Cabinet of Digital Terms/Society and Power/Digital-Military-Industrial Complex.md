@@ -56,7 +56,7 @@ related_reaction:
 
 **Layer:** Consequence — the structural entanglement of technology companies with military and intelligence operations
 
-**Cause:** [[Military-Industrial Complex]] · [[Surveillance Capitalism]]
+**Cause:** [[Military-Industrial Complex]] · [[Surveillance Capitalism — Society and Power]]
 **Mechanism:** [[Revolving Door]] · [[Dual-Use Technology]]
 **Consequence:** [[Sovereignty as a Service]] · [[Reconstruction Economy]]
 **Reaction:** [[Brussels Effect]] · [[Situated Knowledge]]

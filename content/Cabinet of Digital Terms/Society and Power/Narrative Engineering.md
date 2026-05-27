@@ -50,7 +50,7 @@ Once you see **Narrative Engineering** as infrastructure rather than persuasion,
 
 **Layer:** Mechanism — deliberate construction of political narratives via platforms; related to flood the zone
 
-**Cause:** [[Surveillance Capitalism]] · [[Attention Economy]]
+**Cause:** [[Surveillance Capitalism — Society and Power]] · [[Attention Economy]]
 **Mechanism:** [[Flood the Zone]] · [[Bot Farms]] · [[Synthetic Generation]]
 **Consequence:** [[Cognitive Surrender]]
 **Reaction:** [[Unblackboxing|Unblackboxing]]
