@@ -6,6 +6,29 @@
   --han-red-hover: rgba(229, 0, 86, 0.15);
   --text-primary: #1a1a1a;
   --border-light: #e3e3e3;
+
+  /* Cluster colours */
+  --cluster-platform:     #D94A4A;
+  --cluster-gender:       #C56A1A;
+  --cluster-parents:      #B88900;
+  --cluster-behaviour:    #168AAD;
+  --cluster-ai-specific:  #0E9272;
+  --cluster-students:     #6A5ACD;
+  --cluster-beauty:       #C653A0;
+  --cluster-counter:      #9B3A6D;
+  --cluster-design:       #6A8F1F;
+  --cluster-sf:           #0097A7;
+  --cluster-culture:      #C44536;
+  --cluster-society:      #228B4E;
+  --cluster-privacy:      #2F80C0;
+  --cluster-energy:       #3F51B5;
+  --cluster-inclusion:    #607D8B;
+  --cluster-manifestos:   #7B3FA1;
+  --cluster-statements:   #455A64;
+  --cluster-endtimes:     #C62828;
+  --cluster-professions:  #1976D2;
+  --cluster-subculture:   #B83280;
+  --cluster-consequences: #00897B;
 }
 
 body {
@@ -142,3 +165,41 @@ a.external::after {
   font-size: 0.8em !important;
   opacity: 0.7 !important;
 }
+
+/* ============================================
+   EXPLORER — CLUSTER COLOURS
+   Matches on data-folderpath (folder) and data-for (file link)
+   ============================================ */
+
+@mixin cluster-color($selector, $color) {
+  .folder-container[data-folderpath*="#{$selector}"] > .folder-outer > button .folder-title,
+  .folder-container[data-folderpath*="#{$selector}"] > .folder-outer > a.folder-title {
+    color: $color !important;
+    font-weight: 700;
+  }
+  a[data-for*="#{$selector}"] {
+    color: $color !important;
+  }
+}
+
+@include cluster-color("Platform-Mechanisms", var(--cluster-platform));
+@include cluster-color("Gender",              var(--cluster-gender));
+@include cluster-color("Parents",             var(--cluster-parents));
+@include cluster-color("Relationships",       var(--cluster-behaviour));
+@include cluster-color("AI-Specific",         var(--cluster-ai-specific));
+@include cluster-color("Students",            var(--cluster-students));
+@include cluster-color("Beauty",              var(--cluster-beauty));
+@include cluster-color("Counter-Movements",   var(--cluster-counter));
+@include cluster-color("Design-Philosophy",   var(--cluster-design));
+@include cluster-color("SF-as-Ideology",      var(--cluster-sf));
+@include cluster-color("Culture-Wars",        var(--cluster-culture));
+@include cluster-color("Society-and-Power",   var(--cluster-society));
+@include cluster-color("Privacy",             var(--cluster-privacy));
+@include cluster-color("AI-and-Energy",       var(--cluster-energy));
+@include cluster-color("Inclusion",           var(--cluster-inclusion));
+@include cluster-color("Manifestos",          var(--cluster-manifestos));
+@include cluster-color("Statements-as",       var(--cluster-statements));
+@include cluster-color("End-Times",           var(--cluster-endtimes));
+@include cluster-color("New-Digital-Professions", var(--cluster-professions));
+@include cluster-color("Subcultural",         var(--cluster-subculture));
+@include cluster-color("Consequences",        var(--cluster-consequences));

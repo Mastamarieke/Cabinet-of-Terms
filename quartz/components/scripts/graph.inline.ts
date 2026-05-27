@@ -194,6 +194,31 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
   )
 
   // calculate color
+  const clusterColor = (id: string): string | null => {
+    if (id.includes("Platform-Mechanisms"))       return "#D94A4A"
+    if (id.includes("AI-Specific"))               return "#0E9272"
+    if (id.includes("AI-and-Energy"))             return "#3F51B5"
+    if (id.includes("Gender"))                    return "#C56A1A"
+    if (id.includes("Parents"))                   return "#B88900"
+    if (id.includes("Relationships"))             return "#168AAD"
+    if (id.includes("Students"))                  return "#6A5ACD"
+    if (id.includes("Beauty"))                    return "#C653A0"
+    if (id.includes("Counter-Movements"))         return "#9B3A6D"
+    if (id.includes("Design-Philosophy"))         return "#6A8F1F"
+    if (id.includes("SF-as-Ideology"))            return "#0097A7"
+    if (id.includes("Culture-Wars"))              return "#C44536"
+    if (id.includes("Society-and-Power"))         return "#228B4E"
+    if (id.includes("Privacy"))                   return "#2F80C0"
+    if (id.includes("Inclusion"))                 return "#607D8B"
+    if (id.includes("Manifestos"))                return "#7B3FA1"
+    if (id.includes("Statements-as"))             return "#455A64"
+    if (id.includes("End-Times"))                 return "#C62828"
+    if (id.includes("New-Digital-Professions"))   return "#1976D2"
+    if (id.includes("Subcultural"))               return "#B83280"
+    if (id.includes("Consequences"))              return "#00897B"
+    return null
+  }
+
   const color = (d: NodeData) => {
     const isCurrent = d.id === slug
     if (isCurrent) {
@@ -201,7 +226,7 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     } else if (visited.has(d.id) || d.id.startsWith("tags/")) {
       return computedStyleMap["--tertiary"]
     } else {
-      return computedStyleMap["--gray"]
+      return clusterColor(d.id) ?? computedStyleMap["--gray"]
     }
   }
 
