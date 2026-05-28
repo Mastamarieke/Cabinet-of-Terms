@@ -97,6 +97,7 @@ export default (() => {
             return resource
           }
         })}
+        <script src="https://cdn.counter.dev/script.js" data-id="b883a89b-1cb6-40c4-9c56-33637e32d759" data-utcoffset="2"></script>
       </head>
     )
   }
