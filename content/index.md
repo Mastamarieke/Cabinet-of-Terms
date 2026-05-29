@@ -11,6 +11,8 @@
 
 ---
 
+##Welcome to the Cabinet of Digital Terms: a vibrant knowledge bank for the curious mind.##
+
 ## What this is
 
 
@@ -27,8 +29,6 @@ This is not a glossary. A glossary defines. This collection does something diffe
 ---
 
 ## Who is this cabinet for?
-
-Welcome to the Cabinet of Digital Terms: a vibrant knowledge bank for the curious mind.
 
 Here you may lose yourself in a network of 21 clusters and 268 terms, where every word opens a door to deeper insight. With 839 references as our foundation, we invite you to discover the forces beneath the screens of the digital world, follow hidden connections, and learn the language that shapes our reality.
 
