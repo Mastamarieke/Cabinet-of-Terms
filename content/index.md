@@ -22,7 +22,7 @@ Not to define, but to connect the dots.
 
 We reject the myth of neutral knowledge. As **Donna Haraway** argued, true objectivity requires acknowledging our position: "Feminist objectivity means quite simply situated knowledges." Instead of offering static definitions, the Cabinet invites you to trace the relationships between terms, revealing the forces that shape our digital reality.The Cabinet of digitale Terms is a knowledge bank of 21 clusters, 268 terms, 839 source references in  from digital media, platform culture, political discourse, and popular culture. Each term is examined for its origin, its use, its power structure, and - most importantly - what it conceals.
 
-This is not a glossary. A glossary defines. This collection does something different: it identifies terms worth examining — for genealogy, circulation, stakes, and the shifts in meaning that reveal who benefits from a term's existence.
+This is not a glossary. A glossary defines. This collection does something different: it identifies terms worth examining - for genealogy, circulation, stakes, and the shifts in meaning that reveal who benefits from a term's existence.
 
 ---
 
@@ -55,7 +55,7 @@ Are you ready to lose yourself in the questions of why it works this way, who be
 ---
 ## How it was made — Cartographic Prompting
 
-The Cabinet of Digital Terms is a knowledge bank of **270 terms** across **21 clusters**, with **849 verified external sources**. It was produced using **cartographic prompting** — a research method developed within Project Digitale Alertheid at HAN University of Applied Sciences.
+The Cabinet of Digital Terms is a knowledge bank of **270 terms** across **21 clusters**, with **849 verified external sources**. It was produced using **cartographic prompting** - a research method developed within Project Digitale Alertheid at HAN University of Applied Sciences.
 
 The name is deliberate. Where conventional analysis dissects a concept — breaking it into components and defining each one — cartography positions it within a field of forces. A map does not explain a city. It shows where things are in relation to each other, where the borders run, and what lies at the edges.
 
@@ -72,23 +72,23 @@ Earlier versions of this work operated under the name **Media Cartografie**. Car
 
 Every entry in this vault follows the same structure. Understanding it helps you read the analyses — and use them as a template if you want to contribute.
 
-**Hook** — a concrete, recognisable situation. Not a definition. The reader recognises the moment before they know what it is called.
+**Hook** - a concrete, recognisable situation. Not a definition. The reader recognises the moment before they know what it is called.
 
-**Literal meaning** — what the term literally means, broken down etymologically where relevant.
+**Literal meaning** - what the term literally means, broken down etymologically where relevant.
 
-**Origin** — where the term came from, who introduced it, and how its meaning has shifted since.
+**Origin** - where the term came from, who introduced it, and how its meaning has shifted since.
 
-**Definition** — one sentence, plain language. The term itself may appear; other jargon does not.
+**Definition** - one sentence, plain language. The term itself may appear; other jargon does not.
 
-**The Appeal** — why the term circulates. What it promises. Why people use it without questioning it.
+**The Appeal** - why the term circulates. What it promises. Why people use it without questioning it.
 
-**The Friction** — what the term conceals. Who benefits from its existence. What it makes invisible.
+**The Friction** - what the term conceals. Who benefits from its existence. What it makes invisible.
 
-**Why This Matters** — the analytical conclusion. What changes once you see the term clearly.
+**Why This Matters** - the analytical conclusion. What changes once you see the term clearly.
 
-**See also** — related terms elsewhere in the vault.
+**See also** - related terms elsewhere in the vault.
 
-**Read more** — verified external sources, in the format: `[Title](URL) — Author (year). *Publisher/Journal*`
+**Read more** - verified external sources, in the format: `[Title](URL) — Author (year). *Publisher/Journal*`
 
 ---
 
@@ -96,15 +96,15 @@ Every entry in this vault follows the same structure. Understanding it helps you
 
 Every term has a primary position in the analytical field. This position determines how it connects to other terms in the navigation block.
 
-**Cause** — the structural condition that makes the phenomenon possible. Example: Surveillance Capitalism is the cause that enables Microtargeting.
+**Cause** -  the structural condition that makes the phenomenon possible. Example: Surveillance Capitalism is the cause that enables Microtargeting.
 
-**Mechanism** — how the phenomenon operates in practice. Example: Dopamine Feedback Loops is the mechanism through which Attention Harvesting works.
+**Mechanism** -  how the phenomenon operates in practice. Example: Dopamine Feedback Loops is the mechanism through which Attention Harvesting works.
 
-**Consequence** — what the phenomenon produces in users, society, or systems. Example: Cognitive Surrender is a consequence of sustained AI Dependency.
+**Consequence** - what the phenomenon produces in users, society, or systems. Example: Cognitive Surrender is a consequence of sustained AI Dependency.
 
-**Reaction** — counter-practices, design responses, and resistance. Example: Unblackboxing is a reaction to the Black Box.
+**Reaction** - counter-practices, design responses, and resistance. Example: Unblackboxing is a reaction to the Black Box.
 
-Each entry's navigation block at the bottom lists related terms per layer — making the vault navigable as a network, not just as a list.
+Each entry's navigation block at the bottom lists related terms per layer - making the vault navigable as a network, not just as a list.
 
 
 ---
@@ -128,11 +128,11 @@ The Cabinet of Terms is part of a larger project. **Project Digitale Alertheid**
 
 ## How to navigate
 
-**By cluster** — 21 clusters, each mapping a distinct domain of digital life. Use the expandable menus below to browse by cluster. Start with the cluster that names something you already sense but cannot yet articulate.
+**By cluster** - 21 clusters, each mapping a distinct domain of digital life. Use the expandable menus below to browse by cluster. Start with the cluster that names something you already sense but cannot yet articulate.
 
-**By term** — use the search to find a specific word. Every entry connects to related terms across clusters.
+**By term** - use the search to find a specific word. Every entry connects to related terms across clusters.
 
-**By connection** — open the graph view to see which terms are most central, which clusters are most connected, and where the unexpected bridges are. The most connected terms in this vault — [[Surveillance Capitalism]], [[Recommender Systems]], [[Cognitive Surrender]], [[AI Literacy]] — describe the infrastructure everything else runs on.
+**By connection** - open the graph view to see which terms are most central, which clusters are most connected, and where the unexpected bridges are. The most connected terms in this vault — [[Surveillance Capitalism]], [[Recommender Systems]], [[Cognitive Surrender]], [[AI Literacy]] — describe the infrastructure everything else runs on.
 
 ---
 
