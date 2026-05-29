@@ -1,5 +1,6 @@
 # Cabinet of Digital Terms
-## Welcome to the Cabinet of Digital Terms: a vibrant knowledge bank for the curious mind. A public knowledge bank by Project Digitale Alertheid — HAN University of Applied Sciences
+## Welcome to the Cabinet of Digital Terms: a vibrant knowledge bank for the curious mind. 
+### A public knowledge bank by Project Digitale Alertheid — HAN University of Applied Sciences
 
 ---
 
