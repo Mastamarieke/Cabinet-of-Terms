@@ -11,7 +11,7 @@
 
 ---
 
-##Welcome to the Cabinet of Digital Terms: a vibrant knowledge bank for the curious mind.##
+## Welcome to the Cabinet of Digital Terms: a vibrant knowledge bank for the curious mind.
 
 ## What this is
 
