@@ -79,6 +79,31 @@ function toggleFolder(evt: MouseEvent) {
   localStorage.setItem("fileTree", stringifiedFileTree)
 }
 
+function clusterColor(slug: string): string | null {
+  if (slug.includes("Platform-Mechanisms"))       return "#D94A4A"
+  if (slug.includes("AI-Specific"))               return "#0E9272"
+  if (slug.includes("AI-and-Energy"))             return "#3F51B5"
+  if (slug.includes("Gender"))                    return "#C56A1A"
+  if (slug.includes("Parents"))                   return "#B88900"
+  if (slug.includes("Relationships"))             return "#168AAD"
+  if (slug.includes("Students"))                  return "#6A5ACD"
+  if (slug.includes("Beauty"))                    return "#C653A0"
+  if (slug.includes("Counter-Movements"))         return "#9B3A6D"
+  if (slug.includes("Design-Philosophy"))         return "#6A8F1F"
+  if (slug.includes("SF-as-Ideology"))            return "#0097A7"
+  if (slug.includes("Culture-Wars"))              return "#C44536"
+  if (slug.includes("Society-and-Power"))         return "#228B4E"
+  if (slug.includes("Privacy"))                   return "#2F80C0"
+  if (slug.includes("Inclusion"))                 return "#607D8B"
+  if (slug.includes("Manifestos"))                return "#7B3FA1"
+  if (slug.includes("Statements-as"))             return "#455A64"
+  if (slug.includes("End-Times"))                 return "#C62828"
+  if (slug.includes("New-Digital-Professions"))   return "#1976D2"
+  if (slug.includes("Subcultural"))               return "#B83280"
+  if (slug.includes("Consequences"))              return "#00897B"
+  return null
+}
+
 function createFileNode(currentSlug: FullSlug, node: FileTrieNode): HTMLLIElement {
   const template = document.getElementById("template-file") as HTMLTemplateElement
   const clone = template.content.cloneNode(true) as DocumentFragment
@@ -110,6 +135,9 @@ function createFolderNode(
 
   const folderPath = node.slug
   folderContainer.dataset.folderpath = folderPath
+
+  const color = clusterColor(folderPath)
+  if (color) li.style.setProperty("--cluster-color", color)
 
   if (currentSlug === folderPath) {
     folderContainer.classList.add("active")

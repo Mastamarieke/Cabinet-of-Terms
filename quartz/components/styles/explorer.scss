@@ -127,7 +127,7 @@ button.desktop-explorer {
     }
 
     & li > a {
-      color: var(--dark);
+      color: var(--cluster-color, var(--dark));
       opacity: 0.75;
       pointer-events: all;
 
@@ -167,7 +167,7 @@ button.desktop-explorer {
   user-select: none;
 
   & div > a {
-    color: var(--secondary);
+    color: var(--cluster-color, var(--secondary));
     font-family: var(--headerFont);
     font-size: 0.95rem;
     font-weight: $semiBoldWeight;
@@ -194,7 +194,7 @@ button.desktop-explorer {
     & span {
       font-size: 0.95rem;
       display: inline-block;
-      color: var(--secondary);
+      color: var(--cluster-color, var(--secondary));
       font-weight: $semiBoldWeight;
       margin: 0;
       line-height: 1.5rem;
@@ -205,7 +205,7 @@ button.desktop-explorer {
 
 .folder-icon {
   margin-right: 5px;
-  color: var(--secondary);
+  color: var(--cluster-color, var(--secondary));
   cursor: pointer;
   transition: transform 0.3s ease;
   backface-visibility: visible;
