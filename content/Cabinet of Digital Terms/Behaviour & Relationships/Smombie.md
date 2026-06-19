@@ -1,6 +1,3 @@
-# Smombie
-
-
 ***Walking while staring at a screen. A word that needed inventing because the behaviour needed naming.***
 
 **Literal meaning:** Smombie — a portmanteau of *smartphone* and *zombie* — describes a person walking in public while absorbed in their phone, unaware of their surroundings. The term captures both the physical posture and the apparent absence of conscious engagement with the environment.
