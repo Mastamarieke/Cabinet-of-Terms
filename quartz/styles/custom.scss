@@ -34,7 +34,7 @@
 body {
   font-family: 'Roboto', sans-serif;
   color: var(--text-primary);
-  background-color: #f8f9fb;
+  background-color: var(--light);
 }
 
 h1 {
@@ -73,7 +73,7 @@ blockquote {
 
 code,
 pre code {
-  background: #f5f5f5;
+  background: var(--lightgray);
   color: var(--han-red);
   border-radius: 3px;
   font-size: 0.85em;
@@ -203,3 +203,25 @@ a.external::after {
 @include cluster-color("New-Digital-Professions", var(--cluster-professions));
 @include cluster-color("Subcultural",         var(--cluster-subculture));
 @include cluster-color("Consequences",        var(--cluster-consequences));
+
+/* ============================================
+   DARK MODE OVERRIDES
+   ============================================ */
+
+:root[saved-theme="dark"] {
+  --text-primary: #ebebec;
+  --han-red-light: rgba(229, 0, 86, 0.18);
+  --han-red-hover: rgba(229, 0, 86, 0.28);
+  --border-light: #393639;
+}
+
+:root[saved-theme="dark"] .tag,
+:root[saved-theme="dark"] a.tag {
+  background: var(--lightgray) !important;
+  color: var(--text-primary) !important;
+}
+
+:root[saved-theme="dark"] .tag:hover,
+:root[saved-theme="dark"] a.tag:hover {
+  background: var(--gray) !important;
+}
