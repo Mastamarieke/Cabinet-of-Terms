@@ -187,7 +187,7 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
   ] as const
   const computedStyleMap = cssVars.reduce(
     (acc, key) => {
-      acc[key] = getComputedStyle(document.documentElement).getPropertyValue(key)
+      acc[key] = getComputedStyle(document.documentElement).getPropertyValue(key).trim()
       return acc
     },
     {} as Record<(typeof cssVars)[number], string>,
