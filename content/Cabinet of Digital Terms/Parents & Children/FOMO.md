@@ -8,6 +8,7 @@ analysis_version: pending
 related_cause:
   - Dopamine Feedback Loops
   - Recommender Systems
+  - Mimetic Desire
 related_mechanism:
   - Comparison Culture
   - Screen Time
@@ -31,9 +32,9 @@ related_reaction:
 
 **The Friction:** [[Dopamine Feedback Loops]] — variable reward schedules — make **FOMO** structurally productive for platforms. The notification that might be important is the uncertainty that drives checking. [[Recommender Systems]] surface content that suggests activity you are missing, amplifying the sense of absence. Przybylski et al.'s research found that **FOMO** was associated with increased social media checking — specifically driven by unmet needs for competence, autonomy, and relatedness. The platform that produces **FOMO** is the platform that resolves it — temporarily, until the next check. In adolescents, **FOMO** is particularly acute: peer group belonging is developmentally central, and social media makes that belonging continuous and visible.
 
-**Why This Matters:** **FOMO** names the anxiety that notification systems are designed to produce and maintain. Once you see it as a designed mechanism rather than a personal weakness, "I keep checking my phone" becomes a different kind of observation.
+**Why This Matters:** **FOMO** names the anxiety that notification systems are designed to produce and maintain. [[Mimetic Desire]] is the engine underneath: when desire is imitative, the fear of missing out is the fear of falling behind your model — of desiring the wrong things, too late. Once you see it as a designed mechanism rather than a personal weakness, "I keep checking my phone" becomes a different kind of observation.
 
-**See also:** [[Dopamine Feedback Loops]] · [[Comparison Culture]] · [[Doomscrolling]] · [[JOMO]] · [[Screen Time]]
+**See also:** [[Dopamine Feedback Loops]] · [[Comparison Culture]] · [[Doomscrolling]] · [[JOMO]] · [[Screen Time]] · [[Mimetic Desire]]
 
 
 ---
@@ -54,7 +55,7 @@ related_reaction:
 
 **Layer:** Consequence — the anxiety of potential social absence, engineered into notification systems as a compulsion-to-check mechanism
 
-**Cause:** [[Dopamine Feedback Loops]] · [[Recommender Systems]]
+**Cause:** [[Dopamine Feedback Loops]] · [[Recommender Systems]] · [[Mimetic Desire]]
 **Mechanism:** [[Comparison Culture]] · [[Screen Time]]
 **Consequence:** [[Doomscrolling]] · [[Comparison Culture]]
 **Reaction:** [[JOMO]] · [[Digital Detox]]

@@ -46,3 +46,6 @@ Walking while staring at a screen. A word that needed inventing because the beha
 
 ### [[Flexing]]
 Showing what you have so others know where you stand. Status display, optimised for the feed.
+
+### [[Parasocial Relationship]]
+You feel like you know them. They do not know you exist. The platform designed it that way.

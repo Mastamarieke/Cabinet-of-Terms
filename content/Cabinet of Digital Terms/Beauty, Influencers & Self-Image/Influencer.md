@@ -8,6 +8,7 @@ analysis_version: pending
 related_cause:
   - Comparison Culture
   - Attention Economy
+  - Mimetic Desire
 related_mechanism:
   - Fitfluencer
   - Highlight Reel
@@ -29,11 +30,11 @@ related_reaction:
 
 **The Appeal:** The **influencer** economy has democratised access to audience and income in ways that legacy media never did. People from outside traditional media centres, from marginalised communities, and with niche expertise have built substantial platforms and incomes. The authenticity claim — I'm a real person sharing what I actually use — has genuine basis in many cases.
 
-**The Friction:** The term "influence" conceals the commercial architecture. [[Highlight Reel]] — showing only the best — is the default format. [[Curated Life]] — life as editorial product — is the mode. The follower relationship feels personal; it is structured. [[Comparison Culture]] runs on **influencer** content: the visible life sets a standard that followers measure themselves against, without seeing the conditions, contracts, or editing behind it. Disclosure requirements exist but are inconsistently applied and widely gamed.
+**The Friction:** The term "influence" conceals the commercial architecture. [[Highlight Reel]] — showing only the best — is the default format. [[Curated Life]] — life as editorial product — is the mode. The follower relationship feels personal; it is structured. [[Comparison Culture]] runs on **influencer** content: the visible life sets a standard that followers measure themselves against, without seeing the conditions, contracts, or editing behind it. [[Mimetic Desire]] is the mechanism: the influencer functions as a model who shows followers what is worth wanting — and the platform is designed to keep refreshing that model. Disclosure requirements exist but are inconsistently applied and widely gamed.
 
 **Why This Matters:** "**Influencer**" is a word that makes a commercial relationship sound like a friendship. Once you know that, the sponsored post is a different kind of sentence.
 
-**See also:** [[Fitfluencer]] · [[Highlight Reel]] · [[Curated Life]] · [[Comparison Culture]] · [[Deinfluencing]]
+**See also:** [[Fitfluencer]] · [[Highlight Reel]] · [[Curated Life]] · [[Comparison Culture]] · [[Deinfluencing]] · [[Mimetic Desire]]
 
 
 ---
@@ -51,7 +52,7 @@ related_reaction:
 
 **Layer:** Mechanism — a commercial role disguised as a personal relationship
 
-**Cause:** [[Comparison Culture]] · [[Attention Economy]]
+**Cause:** [[Comparison Culture]] · [[Attention Economy]] · [[Mimetic Desire]]
 **Mechanism:** [[Fitfluencer]] · [[Highlight Reel]] · [[Curated Life]]
 **Consequence:** [[Comparison Culture]] · [[Body Dysmorphic Disorder]]
 **Reaction:** [[Deinfluencing]]

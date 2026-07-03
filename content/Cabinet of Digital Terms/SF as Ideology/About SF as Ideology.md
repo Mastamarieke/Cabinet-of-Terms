@@ -61,3 +61,6 @@ MacAskill and Ord: the moral weight of the future vastly outweighs the present. 
 
 ### [[Mythos Moment]]
 The threshold where a model becomes too dangerous to release. Where science fiction becomes policy reality.
+
+### [[Mimetic Desire]]
+We want what our model wants. Girard named it. Thiel built a business empire on it. Platforms monetise it.

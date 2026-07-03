@@ -8,6 +8,7 @@ analysis_version: pending
 related_cause:
   - Recommender Systems
   - Highlight Reel
+  - Mimetic Desire
 related_mechanism:
   - Influencer
   - Beauty Filter
@@ -32,9 +33,9 @@ related_reaction:
 
 **The Friction:** The platform version is not neutral comparison — it is structurally upward. [[Highlight Reel]] — the selective presentation of only the best — means that what you compare yourself to is not the full range of others' lives but their curated peaks. [[Recommender Systems]] — algorithms that determine what you see — surface aspirational content because it performs well. [[Beauty Filter]] creates a reference standard for appearance that is technically possible on screen and structurally impossible in a mirror. The comparison is not between your life and someone else's life — it is between your life and a production.
 
-**Why This Matters:** **Comparison culture** is the environment that makes most of this cluster possible. Once you know it is a platform feature rather than a personal tendency, "why do I always feel like I'm falling short?" becomes a structural question, not a personal one.
+**Why This Matters:** **Comparison culture** is the environment that makes most of this cluster possible. [[Mimetic Desire]] is the engine underneath: we don't compare ourselves to others randomly — we measure ourselves against the people we are already using as models for what to want. Once you know comparison culture is a platform feature rather than a personal tendency, "why do I always feel like I'm falling short?" becomes a structural question, not a personal one.
 
-**See also:** [[Highlight Reel]] · [[Beauty Filter]] · [[Influencer]] · [[Body Dysmorphic Disorder]] · [[FOMO]]
+**See also:** [[Highlight Reel]] · [[Beauty Filter]] · [[Influencer]] · [[Body Dysmorphic Disorder]] · [[FOMO]] · [[Mimetic Desire]]
 
 
 ---
@@ -51,7 +52,7 @@ related_reaction:
 
 **Layer:** Cause — the structural environment of continuous upward comparison produced by platform architectures
 
-**Cause:** [[Recommender Systems]] · [[Highlight Reel]]
+**Cause:** [[Recommender Systems]] · [[Highlight Reel]] · [[Mimetic Desire]]
 **Mechanism:** [[Influencer]] · [[Beauty Filter]] · [[Curated Life]]
 **Consequence:** [[Body Dysmorphic Disorder]] · [[FOMO]]
 **Reaction:** [[Deinfluencing]] · [[Digital Detox]]

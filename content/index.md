@@ -284,7 +284,7 @@ The privacy policy is forty-seven pages long. You clicked agree. So did everyone
 </details>
 
 <details>
-<summary><strong>Behaviour & Relationships</strong> — 12 terms</summary>
+<summary><strong>Behaviour & Relationships</strong> — 13 terms</summary>
 
 Ghosting, phubbing, doomscrolling — these words did not exist thirty years ago, and the behaviours they describe mostly did not either. This cluster maps new social patterns that emerged from platform architecture. They feel personal. They are also structural.
 
@@ -300,6 +300,7 @@ Ghosting, phubbing, doomscrolling — these words did not exist thirty years ago
 - [[Orbiting]]
 - [[Phantom Vibration Syndrome]]
 - [[Phatic Interaction]]
+- [[Parasocial Relationship]]
 - [[Phubbing]]
 - [[Smombie]]
 
@@ -366,7 +367,7 @@ The platform economy of appearance distributes body norms as aspiration content,
 </details>
 
 <details>
-<summary><strong>Parents & Children</strong> — 15 terms</summary>
+<summary><strong>Parents & Children</strong> — 14 terms</summary>
 
 Platforms are not designed with children in mind — they are designed for engagement. This cluster maps terms relevant to parents and young people navigating environments built to capture attention, normalise spending, and exploit social anxiety.
 
@@ -380,7 +381,6 @@ Platforms are not designed with children in mind — they are designed for engag
 - [[Loot Boxes]]
 - [[Momfluencer]]
 - [[Online Grooming]]
-- [[Parasocial Relationship]]
 - [[Predatory Design]]
 - [[Roblox]]
 - [[Robux]]
@@ -450,7 +450,7 @@ Platform design is not inevitable — it is chosen. This cluster maps frameworks
 </details>
 
 <details>
-<summary><strong>SF as Ideology</strong> — 17 terms</summary>
+<summary><strong>SF as Ideology</strong> — 18 terms</summary>
 
 The singularity, Mars colonisation, mind uploading — science fiction became the business plan. This cluster maps terms that originated as speculative fiction and are now deployed as serious policy or identity rhetoric. Ideological choices hide behind visionary language.
 
@@ -466,6 +466,7 @@ The singularity, Mars colonisation, mind uploading — science fiction became th
 - [[Longtermism]]
 - [[Mars Colonization]]
 - [[Mind Uploading]]
+- [[Mimetic Desire]]
 - [[Mythos Moment]]
 - [[Neuralink]]
 - [[Simulation Hypothesis]]

@@ -50,8 +50,5 @@ You open the app. Forty minutes pass. Something feels different — slower, flat
 ### [[FOMO]]
 The phone lights up. You do not check it immediately. But you wonder what you are missing. That wondering is the product.
 
-### [[Parasocial Relationship]]
-The child talks about the YouTuber as if they know them. They feel they do. The YouTuber does not know the child exists.
-
 ### [[Sexting]]
 The legal framework was written for adults. The behaviour it criminalises is common among teenagers.

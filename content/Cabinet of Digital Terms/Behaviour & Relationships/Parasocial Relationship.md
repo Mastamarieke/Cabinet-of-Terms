@@ -1,6 +1,6 @@
 ---
 term: Parasocial Relationship
-cluster: Parents & Children
+cluster: Behaviour & Relationships
 analytical_layer: consequence
 status: publieksversie
 version: V2
@@ -8,6 +8,7 @@ analysis_version: pending
 related_cause:
   - Recommender Systems
   - Dopamine Feedback Loops
+  - Mimetic Desire
 related_mechanism:
   - Family Vlogging
   - Kidfluencer
@@ -31,9 +32,9 @@ related_reaction:
 
 **The Friction:** The intensity differential is the structural problem. [[Recommender Systems]] amplify parasocial bonds by surfacing the same creator repeatedly, building familiarity through repetition. [[Family Vlogging]] and [[Kidfluencer]] content create parasocial relationships between adult audiences and children — which is the [[Online Grooming]] risk vector: someone who feels they know a child from their online presence, and who uses that apparent intimacy to initiate contact. The **creator economy** also exploits parasocial bonds commercially: merchandise, membership platforms, and donation systems all depend on audiences who feel personal investment in a creator they have never met.
 
-**Why This Matters:** **Parasocial relationship** names the emotional mechanism that makes digital media intimately engaging. Once you know the term, "they feel like a friend" and "I feel like they know me" are both descriptions of a designed relationship structure.
+**Why This Matters:** **Parasocial relationship** names the emotional mechanism that makes digital media intimately engaging. [[Mimetic Desire]] explains why it works: the creator functions as a model — showing followers what is worth wanting, how to live, what to feel — and the follower imitates, without any reciprocal relationship existing. Once you know the term, "they feel like a friend" and "I feel like they know me" are both descriptions of a designed relationship structure.
 
-**See also:** [[Family Vlogging]] · [[Kidfluencer]] · [[Online Grooming]] · [[Recommender Systems]] · [[Comparison Culture]]
+**See also:** [[Family Vlogging]] · [[Kidfluencer]] · [[Online Grooming]] · [[Recommender Systems]] · [[Comparison Culture]] · [[Mimetic Desire]]
 
 
 ---
@@ -50,7 +51,7 @@ related_reaction:
 
 **Layer:** Consequence — a one-sided emotional bond intensified by platforms designed to maximise intimacy signals
 
-**Cause:** [[Recommender Systems]] · [[Dopamine Feedback Loops]]
+**Cause:** [[Recommender Systems]] · [[Dopamine Feedback Loops]] · [[Mimetic Desire]]
 **Mechanism:** [[Family Vlogging]] · [[Kidfluencer]]
 **Consequence:** [[Online Grooming]] · [[Comparison Culture]]
 **Reaction:** [[AI Literacy]] · [[Digital Detox]]
