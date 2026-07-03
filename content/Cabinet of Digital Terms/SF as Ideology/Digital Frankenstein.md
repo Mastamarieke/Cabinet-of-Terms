@@ -39,8 +39,6 @@ The **Digital Frankenstein** narrative recurs throughout the history of computin
 
 **See also:** [[Skynet]] · [[AGI]] · [[Doomerism]] · [[AI Literacy]] · [[Red Teamer]]
 
-#sf-as-ideology #mechanism #narrative #digital-alertness`
-
 ---
 
 *Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*

@@ -33,8 +33,6 @@ related_reaction:
 
 **See also:** [[Cognitive Offloading]] · [[Deskilling]] · [[AI Hallucination]] · [[Sycophancy (AI)]] · [[AI Literacy]]
 
-#ai-specific-terms #consequence #**deskilling** #digital-alertness`
-
 ---
 
 *Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*

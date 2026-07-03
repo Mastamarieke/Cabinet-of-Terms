@@ -37,8 +37,6 @@ related_reaction:
 
 **See also:** [[Technofeudalism]] · [[Broligarchy]] · [[Objectivism (Rand)]] · [[Technofascism]] · [[Flood the Zone]]
 
-#society-and-power #cause #governance #digital-alertness`
-
 ---
 
 *Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
