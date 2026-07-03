@@ -50,6 +50,7 @@ type LinkRenderData = GraphicsInfo & {
 type NodeRenderData = GraphicsInfo & {
   simulationData: NodeData
   label: Text
+  labelBg?: Graphics
 }
 
 const localStorageKey = "graph-visited"
@@ -408,7 +409,7 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
       style: {
         fontSize: fontSize * 15,
         fill: computedStyleMap["--dark"],
-        fontFamily: computedStyleMap["--bodyFont"],
+        fontFamily: "'Barlow Condensed', sans-serif",
       },
       resolution: window.devicePixelRatio * 4,
     })
@@ -449,10 +450,17 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     nodesContainer.addChild(gfx)
     labelsContainer.addChild(label)
 
+    let labelBg: Graphics | undefined
+    if (nodeId === slug) {
+      labelBg = new Graphics()
+      labelsContainer.addChild(labelBg)
+    }
+
     const nodeRenderDatum: NodeRenderData = {
       simulationData: n,
       gfx,
       label,
+      labelBg,
       color: color(n),
       alpha: 1,
       active: false,
@@ -559,6 +567,14 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
       n.gfx.position.set(x + width / 2, y + height / 2)
       if (n.label) {
         n.label.position.set(x + width / 2, y + height / 2)
+        if (n.labelBg) {
+          const b = n.label.getBounds()
+          n.labelBg.clear()
+          n.labelBg.roundRect(b.x - 4, b.y - 2, b.width + 8, b.height + 4, 4)
+          n.labelBg.fill({ color: "#FF6B00", alpha: 0.15 })
+          n.labelBg.stroke({ width: 1, color: "#FF6B00", alpha: 0.7 })
+          n.labelBg.alpha = n.label.alpha
+        }
       }
     }
 
