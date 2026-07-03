@@ -1,6 +1,6 @@
 ---
 term: JOMO
-cluster: Behaviour & Relationships
+cluster: Counter-Movements
 analytical_layer: reaction
 status: publieksversie
 version: V2
@@ -28,11 +28,11 @@ related_reaction:
 
 **The Appeal:** **JOMO** addresses something real. The anxiety of constant connection is genuine. The permission to miss things, to not respond immediately, to choose quiet over stimulation, is valuable — and for many people, practising **JOMO** produces measurable improvements in wellbeing. The concept has genuine therapeutic utility.
 
-**The Friction:** **JOMO** shares the structural paradox of all [[About Counter-Movements]] — resistance that reproduces what it resists. **JOMO** content is produced for and distributed on the platforms it claims to escape. The lifestyle brand of deliberate disconnection generates engagement on the same **attention economy** it critiques. [[FOMO]] is the anxiety **JOMO** addresses — but the platform that produces **FOMO** also benefits from **JOMO** content: both create engagement around the act of being (or not being) online. [[Digital Detox]] is **JOMO**'s commercial form. The joy of missing out is sold back to you through the feed.
+**The Friction:** **JOMO** shares the structural paradox of all counter-movements — resistance that reproduces what it resists. **JOMO** content is produced for and distributed on the platforms it claims to escape. The lifestyle brand of deliberate disconnection generates engagement on the same **attention economy** it critiques. [[FOMO]] is the anxiety **JOMO** addresses — but the platform that produces **FOMO** also benefits from **JOMO** content: both create engagement around the act of being (or not being) online. [[Digital Detox]] is **JOMO**'s commercial form. The joy of missing out is sold back to you through the feed.
 
 **Why This Matters:** **JOMO** makes visible the recuperation mechanism of the **attention economy**: critique becomes content, resistance becomes a product, and the platform profits from both the anxiety and its rebranded relief.
 
-**See also:** [[FOMO]] · [[Digital Detox]] · [[About Counter-Movements]] · [[Slow Media]] · [[Doomscrolling]]
+**See also:** [[FOMO]] · [[Digital Detox]] · counter-movements · [[Slow Media]] · [[Doomscrolling]]
 
 
 ---
@@ -50,6 +50,6 @@ related_reaction:
 **Layer:** Reaction — deliberate absence reframed as joy, distributed through the platforms it opposes
 
 **Cause:** [[FOMO]] · [[Attention Economy]]
-**Mechanism:** [[Digital Detox]] · [[About Counter-Movements]]
+**Mechanism:** [[Digital Detox]] · counter-movements
 **Consequence:** [[FOMO]]
 **Reaction:** [[Digital Detox]] · [[Slow Media]]

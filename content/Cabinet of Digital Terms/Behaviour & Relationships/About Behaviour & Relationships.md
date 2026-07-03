@@ -44,8 +44,5 @@ Present but invisible. Reading without responding. Most people on most platforms
 ### [[Smombie]]
 Walking while staring at a screen. A word that needed inventing because the behaviour needed naming.
 
-### [[JOMO]]
-The Joy of Missing Out. Marketed as liberation from platforms — on platforms.
-
 ### [[Flexing]]
 Showing what you have so others know where you stand. Status display, optimised for the feed.

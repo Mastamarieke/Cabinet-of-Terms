@@ -33,6 +33,9 @@ Abstaining from technology as a viral format. Shared on the platforms you are ab
 ### [[Unplugging]]
 Going offline as an online identity. The paradox completes itself.
 
+### [[JOMO]]
+The Joy of Missing Out — the reframing of disconnection as a positive choice, marketed via the platforms it claims to resist.
+
 ### [[Fediverse]]
 A decentralised network of independently operated social media servers, connected through open protocols — built as an alternative to platform monopolies, and now being entered by those same monopolies.
 

@@ -22,7 +22,7 @@ You have heard these terms. You probably use some of them. But do you know where
 **The Cabinet of Digital Terms** is a knowledge bank developed by **Marieke de Vogel** within **The Project Digital Alertness** at the [[Communication & Multimedia Design program]](https://www.han.nl/opleidingen/hbo/communication-multimedia-design/voltijd/) of the [[HAN University of Applied Sciences]](https://www.hanuniversity.com/en/), in collaboration with the [[Lectorate Media Design]](https://www.han.nl/onderzoek/lectoraten/lectoraat-media-design/). It brings together **268 terms** from digital media, platform culture, political discourse, and popular culture, organized across **21 thematic cluster**s. Supported by **840 verified external links** to primary sources, it does something a traditional glossary would never do: it maps them.
 Not to define, but to connect the dots.
 
-We reject the myth of neutral knowledge. As **Donna Haraway** argued, true objectivity requires acknowledging our position: "Feminist objectivity means quite simply situated knowledges." Instead of offering static definitions, the Cabinet invites you to trace the relationships between terms, revealing the forces that shape our digital reality. The Cabinet of Digital Terms is a knowledge bank of 21 clusters, 268 terms, 840 source references from digital media, platform culture, political discourse, and popular culture. Each term is examined for its origin, its use, its power structure, and - most importantly - what it conceals.
+We reject the myth of neutral knowledge. As **Donna Haraway** argued, true objectivity requires acknowledging our position: "Feminist objectivity means quite simply situated knowledges." Instead of offering static definitions, the Cabinet invites you to trace the relationships between terms, revealing the forces that shape our digital reality. The Cabinet of Digital Terms is a knowledge bank of **21 clusters**, **268 terms**, **840 source references** from digital media, platform culture, political discourse, and popular culture. Each term is examined for its origin, its use, its power structure, and - most importantly - what it conceals.
 
 This is not a glossary. A glossary defines. This collection does something different: it identifies terms worth examining - for genealogy, circulation, stakes, and the shifts in meaning that reveal who benefits from a term's existence.
 
@@ -30,13 +30,13 @@ This is not a glossary. A glossary defines. This collection does something diffe
 
 ## Who is this cabinet for?
 
-Here you may lose yourself in a network of 21 clusters and 268 terms, where every word opens a door to deeper insight. With 840 references as our foundation, we invite you to discover the forces beneath the screens of the digital world, follow hidden connections, and learn the language that shapes our reality.
+Here you may lose yourself in a network of **21 clusters** and **268 terms**, where every word opens a door to deeper insight. With **840 references** as our foundation, we invite you to discover the forces beneath the screens of the digital world, follow hidden connections, and learn the language that shapes our reality.
 
 This is your place if you are not satisfied with superficial answers, but crave depth behind the algorithms, data, and power structures.
 
 This project is an inspiring resource for:
 
-**Researchers & Academics**: Who seek depth in the genealogy of terms and wish to use the 840 verified sources for sharp analysis.
+**Researchers & Academics**: Who seek depth in the genealogy of terms and wish to use the **840 verified sources** for sharp analysis.
 
 **Teachers & Educators**: Who want to inspire their students with the vocabulary,look for more terms, to think critically and remain resilient in a digital world.
 
@@ -284,7 +284,7 @@ The privacy policy is forty-seven pages long. You clicked agree. So did everyone
 </details>
 
 <details>
-<summary><strong>Behaviour & Relationships</strong> — 13 terms</summary>
+<summary><strong>Behaviour & Relationships</strong> — 12 terms</summary>
 
 Ghosting, phubbing, doomscrolling — these words did not exist thirty years ago, and the behaviours they describe mostly did not either. This cluster maps new social patterns that emerged from platform architecture. They feel personal. They are also structural.
 
@@ -296,7 +296,6 @@ Ghosting, phubbing, doomscrolling — these words did not exist thirty years ago
 - [[Doomscrolling]]
 - [[Flexing]]
 - [[Ghosting]]
-- [[JOMO]]
 - [[Lurker]]
 - [[Orbiting]]
 - [[Phantom Vibration Syndrome]]
@@ -410,7 +409,7 @@ Students face a specific convergence of pressures: platform identity, labour mar
 </details>
 
 <details>
-<summary><strong>Counter-Movements</strong> — 7 terms</summary>
+<summary><strong>Counter-Movements</strong> — 8 terms</summary>
 
 Digital detox, slow media, mindful scrolling — resistance to platform culture is real, but often distributed through the same platforms it critiques. This cluster maps recuperation: the mechanism through which the system absorbs its own criticism. Not all counter-movements are recuperated. The analytical work is distinguishing between the two.
 
@@ -419,6 +418,7 @@ Digital detox, slow media, mindful scrolling — resistance to platform culture 
 - [[Digital Detox]]
 - [[Fediverse]]
 - [[IRL (In Real Life)]]
+- [[JOMO]]
 - [[Mindful Scrolling]]
 - [[Slow Media]]
 - [[Tech-Free Challenge]]
