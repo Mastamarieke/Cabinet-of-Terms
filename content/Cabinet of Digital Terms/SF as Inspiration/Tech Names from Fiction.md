@@ -1,6 +1,7 @@
 
 ---
 title: Tech Names from Fiction
+draft: true
 tags:
   - sf-as-inspiration
   - tech-culture
@@ -114,7 +115,7 @@ Beyond names, some companies explicitly model their brand on fictional aesthetic
 
 Het patroon is niet random. De bedrijven en producten die namen lenen van SF signaleren een specifieke *zelfopvatting*: de founders zien zichzelf als de helden uit hun favoriete verhalen. Thiel als Aragorn. Musk als de bouwers van Culture-schepen. De dystopieën die ze claimen te voorkomen, bouwen ze intussen na.
 
-Zie ook: [[SF as Inspiration]], [[SF as Ideology]], [[TESCREAL]], [[Californian Ideology]]
+Zie ook: SF as Inspiration, SF as Ideology, TESCREAL, Californian Ideology
 
 ---
 

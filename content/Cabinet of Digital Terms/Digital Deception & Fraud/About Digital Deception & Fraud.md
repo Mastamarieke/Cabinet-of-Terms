@@ -1,5 +1,6 @@
 ---
 title: About Digital Deception & Fraud
+draft: true
 tags:
   - cluster-overview
   - digital-fraud
@@ -67,7 +68,7 @@ AI-technologie die nep-audio of -video van echte personen genereert. Deepfakes w
 - *SIM Swapping* — criminelen nemen mobiel nummer over om verificatiecodes te onderscheppen
 - *BEC-fraude* — deepfake-audio of -video ingezet bij business email compromise
 
-Zie ook: [[Deepfake]], [[AI-Specific Terms]]
+Zie ook: [[Deepfake]], AI-Specific Terms
 
 ---
 
@@ -93,7 +94,7 @@ Langdurige oplichting waarbij het slachtoffer maandenlang wordt "vetgemest" (ver
 ### 7. Catfishing
 Het aannemen van een valse identiteit online om een romantische of vertrouwensrelatie op te bouwen. Cultureel breed bekend via documentaires, series en sociale media.
 
-Zie ook: [[Romance Scam]], [[Gender & Identity]]
+Zie ook: romance scam, Gender & Identity
 
 ---
 
@@ -123,7 +124,7 @@ Zie ook: [[Inclusion, Accessibility and Ageing]]
 
 Vrijwel alle vormen van digitale fraude draaien om hetzelfde mechanisme: **vertrouwen wekken, urgentie creëren, en handelen vóór het slachtoffer nadenkt**. De technologie verandert — de psychologie niet.
 
-Zie ook: [[Social Engineering]], [[Dark Patterns]], [[Privacy, Data and Control]], [[Surveillance Capitalism]]
+Zie ook: social engineering, [[Dark Patterns]], Privacy, Data and Control, [[Surveillance Capitalism]]
 
 ---
 

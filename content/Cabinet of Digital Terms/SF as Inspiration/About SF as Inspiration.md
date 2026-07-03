@@ -1,5 +1,6 @@
 ---
 title: About SF as Inspiration
+draft: true
 tags:
   - cluster-overview
   - sf-as-inspiration
@@ -209,7 +210,7 @@ In de Culture-serie kiezen schepen hun eigen namen om hun karakter uit te drukke
 
 Technologie-elite lazen deze werken niet als waarschuwingen maar als **belofte**. Ze inverteerden dystopie tot utopie. Het meest pregnante voorbeeld: de Culture-serie van Iain M. Banks — geschreven als socialistische kritiek op macht — werd de favoriete lectuur van Musk, Bezos, Zuckerberg en Altman.
 
-Zie ook: [[SF as Ideology]], [[Tech Names from Fiction]], [[TESCREAL]], [[Californian Ideology]], [[Torment Nexus]]
+Zie ook: SF as Ideology, [[Tech Names from Fiction]], TESCREAL, Californian Ideology, Torment Nexus
 
 ---
 
