@@ -275,7 +275,6 @@ The privacy policy is forty-seven pages long. You clicked agree. So did everyone
 - [[CLOUD Act]]
 - [[Data Brokers]]
 - [[Dataïsme]]
-- [[Dataïsme]]
 - [[Privacy Washing]]
 - [[Privacy as a Premium]]
 - [[Security Theater]]
