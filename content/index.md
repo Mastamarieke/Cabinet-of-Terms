@@ -562,7 +562,6 @@ Language that originates online, moves offline, and mutates constantly. This clu
 → [[About Subcultural Vocabulary and Platform Language|About this cluster]]
 
 - [[Coded -Pilled]]
-- [[Coded -Pilled]]
 - [[Algospeak]]
 - [[Aurafarming]]
 - [[Brain Rot]]

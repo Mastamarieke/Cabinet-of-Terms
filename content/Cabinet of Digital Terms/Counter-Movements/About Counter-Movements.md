@@ -34,5 +34,5 @@ Abstaining from technology as a viral format. Shared on the platforms you are ab
 Going offline as an online identity. The paradox completes itself.
 
 ### [[Fediverse]]
-Going offline as an online identity. The paradox completes itself.
+A decentralised network of independently operated social media servers, connected through open protocols — built as an alternative to platform monopolies, and now being entered by those same monopolies.
 
