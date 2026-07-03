@@ -19,10 +19,10 @@ Welcome to the Cabinet of Digital Terms: a vibrant knowledge bank for the curiou
 Surveillance capitalism. Dopamine loop. Dark pattern. Ghosting. Deinfluencing. Groomer. Red pill.
 You have heard these terms. You probably use some of them. But do you know where they came from? Who introduced them, and why? What they make visible — and what they quietly conceal?
 
-**The Cabinet of Digital Terms** is a knowledge bank developed by **Marieke de Vogel** within **The Project Digital Alertness** at the [[Communication & Multimedia Design program]](https://www.han.nl/opleidingen/hbo/communication-multimedia-design/voltijd/) of the [[HAN University of Applied Sciences]](https://www.hanuniversity.com/en/), in collaboration with the [[Lectorate Media Design]](https://www.han.nl/onderzoek/lectoraten/lectoraat-media-design/). It brings together **267 terms** from digital media, platform culture, political discourse, and popular culture, organized across **21 thematic cluster**s. Supported by **833 verified external links** to primary sources, it does something a traditional glossary would never do: it maps them.
+**The Cabinet of Digital Terms** is a knowledge bank developed by **Marieke de Vogel** within **The Project Digital Alertness** at the [[Communication & Multimedia Design program]](https://www.han.nl/opleidingen/hbo/communication-multimedia-design/voltijd/) of the [[HAN University of Applied Sciences]](https://www.hanuniversity.com/en/), in collaboration with the [[Lectorate Media Design]](https://www.han.nl/onderzoek/lectoraten/lectoraat-media-design/). It brings together **268 terms** from digital media, platform culture, political discourse, and popular culture, organized across **21 thematic cluster**s. Supported by **840 verified external links** to primary sources, it does something a traditional glossary would never do: it maps them.
 Not to define, but to connect the dots.
 
-We reject the myth of neutral knowledge. As **Donna Haraway** argued, true objectivity requires acknowledging our position: "Feminist objectivity means quite simply situated knowledges." Instead of offering static definitions, the Cabinet invites you to trace the relationships between terms, revealing the forces that shape our digital reality. The Cabinet of digitale Terms is a knowledge bank of 21 clusters, 268 terms, 839 source references in  from digital media, platform culture, political discourse, and popular culture. Each term is examined for its origin, its use, its power structure, and - most importantly - what it conceals.
+We reject the myth of neutral knowledge. As **Donna Haraway** argued, true objectivity requires acknowledging our position: "Feminist objectivity means quite simply situated knowledges." Instead of offering static definitions, the Cabinet invites you to trace the relationships between terms, revealing the forces that shape our digital reality. The Cabinet of Digital Terms is a knowledge bank of 21 clusters, 268 terms, 840 source references from digital media, platform culture, political discourse, and popular culture. Each term is examined for its origin, its use, its power structure, and - most importantly - what it conceals.
 
 This is not a glossary. A glossary defines. This collection does something different: it identifies terms worth examining - for genealogy, circulation, stakes, and the shifts in meaning that reveal who benefits from a term's existence.
 
@@ -30,13 +30,13 @@ This is not a glossary. A glossary defines. This collection does something diffe
 
 ## Who is this cabinet for?
 
-Here you may lose yourself in a network of 21 clusters and 268 terms, where every word opens a door to deeper insight. With 839 references as our foundation, we invite you to discover the forces beneath the screens of the digital world, follow hidden connections, and learn the language that shapes our reality.
+Here you may lose yourself in a network of 21 clusters and 268 terms, where every word opens a door to deeper insight. With 840 references as our foundation, we invite you to discover the forces beneath the screens of the digital world, follow hidden connections, and learn the language that shapes our reality.
 
 This is your place if you are not satisfied with superficial answers, but crave depth behind the algorithms, data, and power structures.
 
 This project is an inspiring resource for:
 
-**Researchers & Academics**: Who seek depth in the genealogy of terms and wish to use the 839 verified sources for sharp analysis.
+**Researchers & Academics**: Who seek depth in the genealogy of terms and wish to use the 840 verified sources for sharp analysis.
 
 **Teachers & Educators**: Who want to inspire their students with the vocabulary,look for more terms, to think critically and remain resilient in a digital world.
 
@@ -55,7 +55,7 @@ Are you ready to lose yourself in the questions of why it works this way, who be
 ---
 ## How it was made — Cartographic Prompting
 
-The Cabinet of Digital Terms is a knowledge bank of **270 terms** across **21 clusters**, with **849 verified external sources**. It was produced using **cartographic prompting** - a research method developed within Project Digitale Alertheid at HAN University of Applied Sciences.
+The Cabinet of Digital Terms is a knowledge bank of **268 terms** across **21 clusters**, with **840 verified external sources**. It was produced using **cartographic prompting** - a research method developed within Project Digitale Alertheid at HAN University of Applied Sciences.
 
 The name is deliberate. Where conventional analysis dissects a concept — breaking it into components and defining each one — cartography positions it within a field of forces. A map does not explain a city. It shows where things are in relation to each other, where the borders run, and what lies at the edges.
 
@@ -174,7 +174,7 @@ Platforms are not neutral tools. This cluster maps the technical and economic ar
 </details>
 
 <details>
-<summary><strong>Society and Power</strong> — 25 terms</summary>
+<summary><strong>Society and Power</strong> — 24 terms</summary>
 
 A small number of people now control the infrastructure that everyone depends on. This cluster maps the structural concepts describing the political-economic architecture of the digital age — technofeudalism, surveillance capitalism, cybernetic governance, the revolving door between regulation and industry.
 
@@ -208,7 +208,7 @@ A small number of people now control the infrastructure that everyone depends on
 </details>
 
 <details>
-<summary><strong>Gender & Identity</strong> — 20 terms</summary>
+<summary><strong>Gender & Identity</strong> — 19 terms</summary>
 
 The manosphere gave normative gender hierarchy a vocabulary, a ranking system, and a distribution network. This cluster maps terms that frame gender, attractiveness, and social status as measurable, ranked quantities — from SMV to tradwife, from looksmaxxing to incel.
 
@@ -264,7 +264,7 @@ Some political vocabulary does not describe disagreements — it terminates them
 </details>
 
 <details>
-<summary><strong>Privacy, Data and Control</strong> — 11 terms</summary>
+<summary><strong>Privacy, Data and Control</strong> — 10 terms</summary>
 
 The privacy policy is forty-seven pages long. You clicked agree. So did everyone else. This cluster maps the gap between privacy rhetoric and privacy practice, and the mechanisms through which surveillance and control are exercised, obscured, or resisted.
 
@@ -324,7 +324,7 @@ AI systems produce convincing text, agree with whatever you say, and gradually m
 </details>
 
 <details>
-<summary><strong>Consequences of Digital Behaviour</strong> — 12 terms</summary>
+<summary><strong>Consequences of Digital Behaviour</strong> — 10 terms</summary>
 
 Tech neck, digital hoarding, cyberchondria, deskilling — these are not extreme cases or personal weaknesses. They are design outcomes. This cluster maps what happens to bodies and minds as a result of sustained engagement with systems optimised for engagement rather than wellbeing.
 
@@ -410,7 +410,7 @@ Students face a specific convergence of pressures: platform identity, labour mar
 </details>
 
 <details>
-<summary><strong>Counter-Movements</strong> — 8 terms</summary>
+<summary><strong>Counter-Movements</strong> — 7 terms</summary>
 
 Digital detox, slow media, mindful scrolling — resistance to platform culture is real, but often distributed through the same platforms it critiques. This cluster maps recuperation: the mechanism through which the system absorbs its own criticism. Not all counter-movements are recuperated. The analytical work is distinguishing between the two.
 
@@ -555,7 +555,7 @@ These jobs exist because something in the system is not working. Content moderat
 </details>
 
 <details>
-<summary><strong>Subcultural Vocabulary and Platform Language</strong> — 14 terms</summary>
+<summary><strong>Subcultural Vocabulary and Platform Language</strong> — 13 terms</summary>
 
 Language that originates online, moves offline, and mutates constantly. This cluster maps how platform architecture shapes language, and how words travel from specific subcultures into general use, carrying their original context invisibly with them.
 
