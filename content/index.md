@@ -450,7 +450,7 @@ Platform design is not inevitable — it is chosen. This cluster maps frameworks
 </details>
 
 <details>
-<summary><strong>SF as Ideology</strong> — 18 terms</summary>
+<summary><strong>SF as Ideology</strong> — 19 terms</summary>
 
 The singularity, Mars colonisation, mind uploading — science fiction became the business plan. This cluster maps terms that originated as speculative fiction and are now deployed as serious policy or identity rhetoric. Ideological choices hide behind visionary language.
 
@@ -466,6 +466,7 @@ The singularity, Mars colonisation, mind uploading — science fiction became th
 - [[Longtermism]]
 - [[Mars Colonization]]
 - [[Mind Uploading]]
+- [[Doom Trolling]]
 - [[Mimetic Desire]]
 - [[Mythos Moment]]
 - [[Neuralink]]

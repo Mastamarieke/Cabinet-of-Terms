@@ -32,9 +32,9 @@ related_reaction:
 
 **The Friction:** The political consequences are significant. If disaster is inevitable, then present efforts to prevent it are futile — which produces exactly the inaction that makes the disaster more likely. [[Longtermism]] and **doomerism** share territory: both orient around catastrophic future outcomes; **doomerism** concludes the outcome is unavoidable, longtermism concludes it must be prevented at any present cost. [[Skynet]] and [[Digital Frankenstein]] are the SF images that pre-populate the doomer imagination. The doomer position is often adopted by people with significant technical knowledge — which gives it the false authority of expertise, while the political consequences of widespread **doomerism** (inaction, withdrawal, fatalism) may themselves be catastrophic.
 
-**Why This Matters:** **Doomerism** names a political position disguised as a prediction. Once you see the political consequences of widespread fatalism — the inaction it produces — the question shifts from "is the doom probable?" to "who benefits from everyone believing it is inevitable?"
+**Why This Matters:** **Doomerism** names a political position disguised as a prediction. Once you see the political consequences of widespread fatalism — the inaction it produces — the question shifts from "is the doom probable?" to "who benefits from everyone believing it is inevitable?" That question points directly to [[Doom Trolling]]: where doomerism is a sincere affective state, doom trolling is the deliberate strategy of spreading the same narratives for market gain. The line between them is kept intentionally unclear.
 
-**See also:** [[Longtermism]] · [[Skynet]] · [[Digital Frankenstein]] · [[AGI]] · [[AI Literacy]]
+**See also:** [[Longtermism]] · [[Skynet]] · [[Digital Frankenstein]] · [[AGI]] · [[AI Literacy]] · [[Doom Trolling]]
 
 
 ---

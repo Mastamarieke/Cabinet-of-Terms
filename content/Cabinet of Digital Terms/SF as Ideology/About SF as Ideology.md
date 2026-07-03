@@ -64,3 +64,6 @@ The threshold where a model becomes too dangerous to release. Where science fict
 
 ### [[Mimetic Desire]]
 We want what our model wants. Girard named it. Thiel built a business empire on it. Platforms monetise it.
+
+### [[Doom Trolling]]
+The people building it warn you it is dangerous. They did not stop building it. SF as a market mechanism.
