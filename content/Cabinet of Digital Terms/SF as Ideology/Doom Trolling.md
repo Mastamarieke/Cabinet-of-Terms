@@ -16,13 +16,13 @@ related_reaction:
   - AI Literacy
 ---
 
-***The people building it warn you it is dangerous. They did not stop building it.***
+***AI companies built the danger and published the warning. They kept building. The warning was the brand. The danger was the product.***
 
 **Literal meaning:** **Doom trolling** is the deliberate strategy by which AI company leaders spread apocalyptic narratives about their own technology — claiming it poses existential risk, threatens human civilisation, or is on the verge of becoming uncontrollable — while continuing to build and fund it. The term was defined and popularised by writer and professor Cal Newport in a 2026 piece for *The New York Times*: the warnings are not honest risk assessments but calculated provocations that serve the companies spreading them.
 
 **Origin:** Newport's diagnosis emerged in response to a wave of public statements by AI executives — predictions about artificial general intelligence arriving within years, about AI systems "going rogue," about civilisational stakes. What Newport identified was not the content of these warnings but their structural function: each doom statement increased the speaker's visibility, inflated the perceived importance of their product, and implicitly established that only their company had the expertise to manage the danger. A broader pattern had already been described by Johnson (2024), who called out "doom trolls" as figures exploiting catastrophist discourse for engagement. Newport sharpened this into a specific critique of AI industry behaviour — and gave it a name.
 
-> The man who builds the fire warns loudest about the smoke.
+> They warn that their product is an existential threat. They are still building it.
 
 **The Appeal:** The doom narrative is structurally compelling. It sounds responsible: *look how seriously we take the risks*. It sounds humble: *even we are afraid of what we are making*. It speaks to science fiction intuitions that audiences already hold — [[Skynet]], the Matrix, [[Digital Frankenstein]]. The language of existential risk, drawn from [[Longtermism]] and [[The Singularity]] discourse, lends the warnings philosophical depth. And because the speaker is positioned as a technical expert, the narrative is received as information rather than rhetoric.
 
