@@ -1,4 +1,5 @@
 ---
+title: SF as Ideology
 ---
 
 ***Science fiction became the business plan. The singularity, Mars colonisation, mind uploading — these are not metaphors. They are funding pitches.***

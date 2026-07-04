@@ -454,7 +454,7 @@ Platform design is not inevitable — it is chosen. This cluster maps frameworks
 
 The singularity, Mars colonisation, mind uploading — science fiction became the business plan. This cluster maps terms that originated as speculative fiction and are now deployed as serious policy or identity rhetoric. Ideological choices hide behind visionary language.
 
-→ [[About SF as Ideology|About this cluster]]
+→ [About this cluster](Cabinet-of-Digital-Terms/SF-as-Ideology/)
 
 - [[1984]]
 - [[AGI]]
