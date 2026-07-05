@@ -1,4 +1,5 @@
 ---
+title: "AI-Specific Terms"
 ---
 
 ***AI systems produce convincing text, agree with whatever you say, and gradually make certain skills feel unnecessary. None of this is accidental.***

@@ -1,4 +1,5 @@
 ---
+title: "Beauty, Influencers & Self-Image"
 ---
 
 ***The filter makes your skin smoother, your eyes larger, your nose smaller. It takes one second. The comparison it produces lasts longer.***

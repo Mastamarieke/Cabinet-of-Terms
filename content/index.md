@@ -143,7 +143,7 @@ The Cabinet of Terms is part of a larger project. **Project Digitale Alertheid**
 
 Platforms are not neutral tools. This cluster maps the technical and economic architecture through which platforms shape user behaviour — recommendation algorithms, dark patterns, gamification mechanics, and dopamine loops. The terms here name mechanisms that are easier to resist once they have a name.
 
-→ [[About Platform Mechanisms & Economics|About this cluster]]
+→ [About this cluster](Cabinet-of-Digital-Terms/Platform-Mechanisms--and--Economics/)
 
 - [[AI Slop]]
 - [[AI as a Utility]]
@@ -178,7 +178,7 @@ Platforms are not neutral tools. This cluster maps the technical and economic ar
 
 A small number of people now control the infrastructure that everyone depends on. This cluster maps the structural concepts describing the political-economic architecture of the digital age — technofeudalism, surveillance capitalism, cybernetic governance, the revolving door between regulation and industry.
 
-→ [[About Society and Power|About this cluster]]
+→ [About this cluster](Cabinet-of-Digital-Terms/Society-and-Power/)
 
 - [[Broligarchy]]
 - [[Cybernetic Governance]]
@@ -242,7 +242,7 @@ The manosphere gave normative gender hierarchy a vocabulary, a ranking system, a
 
 Some political vocabulary does not describe disagreements — it terminates them. This cluster maps terms that frame political positions as medical threats, hostile infiltration, or biological facts. Understanding the mechanism is the first step toward resisting it.
 
-→ [[About Culture Wars and Political Language|About this cluster]]
+→ [About this cluster](Cabinet-of-Digital-Terms/Culture-Wars-and-Political-Language/)
 
 - [[Anti-Woke]]
 - [[Conspirituality]]
@@ -268,7 +268,7 @@ Some political vocabulary does not describe disagreements — it terminates them
 
 The privacy policy is forty-seven pages long. You clicked agree. So did everyone else. This cluster maps the gap between privacy rhetoric and privacy practice, and the mechanisms through which surveillance and control are exercised, obscured, or resisted.
 
-→ [[About Privacy, Data and Control|About this cluster]]
+→ [About this cluster](Cabinet-of-Digital-Terms/Privacy,-Data-and-Control/)
 
 - [[Algorithmic Violence]]
 - [[Brussels Effect]]
@@ -288,7 +288,7 @@ The privacy policy is forty-seven pages long. You clicked agree. So did everyone
 
 Ghosting, phubbing, doomscrolling — these words did not exist thirty years ago, and the behaviours they describe mostly did not either. This cluster maps new social patterns that emerged from platform architecture. They feel personal. They are also structural.
 
-→ [[About Behaviour & Relationships|About this cluster]]
+→ [About this cluster](Cabinet-of-Digital-Terms/Behaviour--and--Relationships/)
 
 - [[Breadcrumbing]]
 - [[Catfishing]]
@@ -311,7 +311,7 @@ Ghosting, phubbing, doomscrolling — these words did not exist thirty years ago
 
 AI systems produce convincing text, agree with whatever you say, and gradually make certain skills feel unnecessary. None of this is accidental. This cluster maps what these systems quietly do to the people who use them.
 
-→ [[About AI-Specific Terms|About this cluster]]
+→ [About this cluster](Cabinet-of-Digital-Terms/AI-Specific-Terms/)
 
 - [[AI Dependency]]
 - [[AI Hallucination]]
@@ -328,7 +328,7 @@ AI systems produce convincing text, agree with whatever you say, and gradually m
 
 Tech neck, digital hoarding, cyberchondria, deskilling — these are not extreme cases or personal weaknesses. They are design outcomes. This cluster maps what happens to bodies and minds as a result of sustained engagement with systems optimised for engagement rather than wellbeing.
 
-→ [[About Consequences of Digital Behaviour|About this cluster]]
+→ [About this cluster](Cabinet-of-Digital-Terms/Consequences-of-Digital-Behaviour/)
 
 - [[Cyberchondria]]
 - [[Deskilling]]
@@ -348,7 +348,7 @@ Tech neck, digital hoarding, cyberchondria, deskilling — these are not extreme
 
 The platform economy of appearance distributes body norms as aspiration content, makes comparison ambient, and produces clinical consequences at scale. This cluster maps how platforms shape how people see themselves and each other.
 
-→ [[About Beauty, Influencers & Self-Image|About this cluster]]
+→ [About this cluster](Cabinet-of-Digital-Terms/Beauty,-Influencers--and--Self-Image/)
 
 - [[Beauty Filter]]
 - [[Body Dysmorphic Disorder]]
@@ -371,7 +371,7 @@ The platform economy of appearance distributes body norms as aspiration content,
 
 Platforms are not designed with children in mind — they are designed for engagement. This cluster maps terms relevant to parents and young people navigating environments built to capture attention, normalise spending, and exploit social anxiety.
 
-→ [[About Parents & Children|About this cluster]]
+→ [About this cluster](Cabinet-of-Digital-Terms/Parents--and--Children/)
 
 - [[Brain Rot]]
 - [[FOMO]]
@@ -395,7 +395,7 @@ Platforms are not designed with children in mind — they are designed for engag
 
 Students face a specific convergence of pressures: platform identity, labour market expectations, and academic integrity in an era of generative AI. These are not abstract concepts — they are the conditions of study.
 
-→ [[About Students|About this cluster]]
+→ [About this cluster](Cabinet-of-Digital-Terms/Students/)
 
 - [[Creator Economy]]
 - [[Deepfake]]
@@ -413,7 +413,7 @@ Students face a specific convergence of pressures: platform identity, labour mar
 
 Digital detox, slow media, mindful scrolling — resistance to platform culture is real, but often distributed through the same platforms it critiques. This cluster maps recuperation: the mechanism through which the system absorbs its own criticism. Not all counter-movements are recuperated. The analytical work is distinguishing between the two.
 
-→ [[About Counter-Movements|About this cluster]]
+→ [About this cluster](Cabinet-of-Digital-Terms/Counter-Movements/)
 
 - [[Digital Detox]]
 - [[Fediverse]]
@@ -431,7 +431,7 @@ Digital detox, slow media, mindful scrolling — resistance to platform culture 
 
 Platform design is not inevitable — it is chosen. This cluster maps frameworks developed by designers who have decided that user interest matters as much as engagement metrics: Value Sensitive Design, fair patterns, participatory design, design justice.
 
-→ [[About Design Philosophy and Ethical Design|About this cluster]]
+→ [About this cluster](Cabinet-of-Digital-Terms/Design-Philosophy-and-Ethical-Design/)
 
 - [[Adversarial Design]]
 - [[Calm Technology]]
@@ -454,7 +454,7 @@ Platform design is not inevitable — it is chosen. This cluster maps frameworks
 
 The singularity, Mars colonisation, mind uploading — science fiction became the business plan. This cluster maps terms that originated as speculative fiction and are now deployed as serious policy or identity rhetoric. Ideological choices hide behind visionary language.
 
-→ [[About SF as Ideology|About this cluster]]
+→ [About this cluster](Cabinet-of-Digital-Terms/SF-as-Ideology/)
 
 - [[1984]]
 - [[AGI]]
@@ -483,7 +483,7 @@ The singularity, Mars colonisation, mind uploading — science fiction became th
 
 Five foundational texts shaped the ideological architecture of the digital age. Their vocabulary still circulates — sometimes as inspiration, sometimes as legitimation for the opposite of what was intended. This cluster maps what those texts actually argued, and what has been done with the argument since.
 
-→ [[About Manifestos|About this cluster]]
+→ [About this cluster](Cabinet-of-Digital-Terms/Manifestos/)
 
 - [[Black Box]]
 - [[Cyberfeminism]]
@@ -503,7 +503,7 @@ Five foundational texts shaped the ideological architecture of the digital age. 
 
 The digital economy has a body. It consumes water, occupies land, and draws power. This cluster maps the material reality behind digital abstraction — energy costs, water consumption, sacrifice zones, and the colonial dynamics of a cloud economy that extracts from the Global South.
 
-→ [[About AI and Energy|About this cluster]]
+→ [About this cluster](Cabinet-of-Digital-Terms/AI-and-Energy/)
 
 - [[AI Energy Consumption]]
 - [[Carbon Footprint of AI]]
@@ -523,7 +523,7 @@ The digital economy has a body. It consumes water, occupies land, and draws powe
 
 Digital systems structurally exclude certain groups — not by accident but by design choice. This cluster maps the digital divide, ageism in interface design, tech abandonment as a rational response to poor design, and the gap between accessibility compliance and genuine usability.
 
-→ [[About Inclusion, Accessibility and Ageing|About this cluster]]
+→ [About this cluster](Cabinet-of-Digital-Terms/Inclusion,-Accessibility-and-Ageing/)
 
 - [[Accessibility]]
 - [[Ageism (Digital)]]
@@ -542,7 +542,7 @@ Digital systems structurally exclude certain groups — not by accident but by d
 
 These jobs exist because something in the system is not working. Content moderators, algorithmic auditors, ghost workers — this cluster maps the professions that emerge from digital transformation: not the roles the tech industry promotes, but the roles that exist because something is broken.
 
-→ [[About New Digital Professions|About this cluster]]
+→ [About this cluster](Cabinet-of-Digital-Terms/New-Digital-Professions/)
 
 - [[Content Moderator]]
 - [[De-installer]]
@@ -561,7 +561,7 @@ These jobs exist because something in the system is not working. Content moderat
 
 Language that originates online, moves offline, and mutates constantly. This cluster maps how platform architecture shapes language, and how words travel from specific subcultures into general use, carrying their original context invisibly with them.
 
-→ [[About Subcultural Vocabulary and Platform Language|About this cluster]]
+→ [About this cluster](Cabinet-of-Digital-Terms/Subcultural-Vocabulary-and-Platform-Language/)
 
 - [[Coded -Pilled]]
 - [[Algospeak]]
@@ -584,7 +584,7 @@ Language that originates online, moves offline, and mutates constantly. This clu
 
 Doomerism, longtermism, effective accelerationism, bunker preparation — this cluster maps ideologies that take the end of the world as given and build a power or identity project on it. Some are held by people with significant resources and political influence.
 
-→ [[About End-Times Thinking and Elite Survivalism|About this cluster]]
+→ [About this cluster](Cabinet-of-Digital-Terms/End-Times-Thinking-and-Elite-Survivalism/)
 
 - [[Armageddon Complex]]
 - [[Dark MAGA]]
@@ -604,7 +604,7 @@ Doomerism, longtermism, effective accelerationism, bunker preparation — this c
 
 Executives speak in public. Sometimes they reveal more than they intended. This cluster treats quoted statements as analytical objects — sentences that expose the categorical frameworks and institutional assumptions of the people who made them.
 
-→ [[About Statements as Analytical Object|About this cluster]]
+→ [About this cluster](Cabinet-of-Digital-Terms/Statements-as-Analytical-Object/)
 
 - [["500 million people installed that app in 60 days."]]
 - [["Adding amplitude to war is obviously an issue."]]

@@ -1,4 +1,5 @@
 ---
+title: "Platform Mechanisms & Economics"
 ---
 
 ***The platform is not a neutral tool. It is a designed environment that shapes behaviour in the interest of the people who built it.***

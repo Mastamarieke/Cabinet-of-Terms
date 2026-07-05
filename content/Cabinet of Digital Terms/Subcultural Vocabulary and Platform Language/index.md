@@ -1,4 +1,5 @@
 ---
+title: "Subcultural Vocabulary and Platform Language"
 ---
 
 ***Language that starts online, moves offline, and mutates constantly. By the time you know what it means, it already means something else.***

@@ -1,4 +1,5 @@
 ---
+title: "Design Philosophy and Ethical Design"
 ---
 
 ***Every design choice is a choice. Dark patterns and predatory interfaces are not inevitable — they are designed. Which means they can be designed differently.***

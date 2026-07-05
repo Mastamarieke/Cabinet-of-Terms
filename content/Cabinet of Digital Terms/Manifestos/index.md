@@ -1,4 +1,5 @@
 ---
+title: "Manifestos"
 ---
 
 ***These texts shaped how we think about technology, power, and the body. Their vocabulary still circulates — sometimes as inspiration, sometimes as justification for the opposite.***

@@ -1,4 +1,5 @@
 ---
+title: "Behaviour & Relationships"
 ---
 
 ***Ghosting, phubbing, doomscrolling — these words did not exist thirty years ago. The behaviour they describe mostly did not either.***

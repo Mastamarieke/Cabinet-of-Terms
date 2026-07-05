@@ -1,4 +1,5 @@
 ---
+title: "Society and Power"
 ---
 
 ***A small number of people now control the infrastructure that everyone depends on. This cluster has the words for that.***

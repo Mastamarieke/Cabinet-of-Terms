@@ -1,4 +1,5 @@
 ---
+title: "Statements as Analytical Object"
 ---
 
 ***Executives speak in public. Sometimes, in doing so, they reveal more than they intended.***

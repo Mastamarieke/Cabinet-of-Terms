@@ -1,4 +1,5 @@
 ---
+title: "Students"
 ---
 
 ***Study, build a personal brand, grow your network, develop a side hustle, stay authentic, don't burn out. The list gets longer every year.***

@@ -1,4 +1,5 @@
 ---
+title: "Culture Wars and Political Language"
 ---
 
 ***Words that used to mean one thing now mean another. The change was not accidental.***

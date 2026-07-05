@@ -1,4 +1,5 @@
 ---
+title: "New Digital Professions"
 ---
 
 ***These jobs exist because something in the system is not working. The system created them to keep functioning.***

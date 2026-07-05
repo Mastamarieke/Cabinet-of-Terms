@@ -1,4 +1,5 @@
 ---
+title: "Parents & Children"
 ---
 
 ***Children did not ask to be born into the attention economy. But they were.***

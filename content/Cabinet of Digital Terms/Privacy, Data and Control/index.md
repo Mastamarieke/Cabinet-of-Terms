@@ -1,4 +1,5 @@
 ---
+title: "Privacy, Data and Control"
 ---
 
 ***The privacy policy is forty-seven pages long. You clicked agree. So did everyone else.***

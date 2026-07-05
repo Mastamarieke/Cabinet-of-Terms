@@ -1,4 +1,5 @@
 ---
+title: "AI and Energy"
 ---
 
 ***Every question you ask an AI model costs electricity. The bill goes somewhere. Not to you.***

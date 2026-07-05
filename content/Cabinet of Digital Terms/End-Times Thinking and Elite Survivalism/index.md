@@ -1,4 +1,5 @@
 ---
+title: "End-Times Thinking and Elite Survivalism"
 ---
 
 ***The world is ending. Only I can navigate what comes next. Therefore, what I accumulate is not for me — it is for everyone.***
