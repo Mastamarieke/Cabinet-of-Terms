@@ -1,0 +1,53 @@
+.graph-story {
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  border: 1px solid var(--lightgray);
+  border-radius: 8px;
+  overflow: hidden;
+  font-size: 0.82em;
+}
+
+.graph-story-header {
+  padding: 0.4em 1em;
+  background: var(--light);
+  font-size: 0.8em;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--han-red);
+  cursor: pointer;
+  list-style: none;
+  display: flex;
+  align-items: center;
+  gap: 0.4em;
+}
+
+.graph-story-header::before {
+  content: "▶";
+  font-size: 0.6em;
+  transition: transform 0.2s ease;
+}
+
+.graph-story[open] .graph-story-header::before {
+  transform: rotate(90deg);
+}
+
+.graph-story[open] .graph-story-header {
+  border-bottom: 1px solid var(--lightgray);
+}
+
+.gs-landscape {
+  padding: 0.75em 1em;
+  line-height: 1.65;
+  color: var(--darkgray);
+  max-height: 180px;
+  overflow-y: auto;
+}
+
+.gs-landscape p {
+  margin: 0 0 0.6em 0;
+}
+
+.gs-landscape p:last-child {
+  margin-bottom: 0;
+}

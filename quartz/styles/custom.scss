@@ -1,5 +1,4 @@
 @use "./base.scss";
-@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@400&display=swap');
 
 :root {
   --han-red: #E50056;
@@ -225,4 +224,9 @@ a.external::after {
 :root[saved-theme="dark"] .tag:hover,
 :root[saved-theme="dark"] a.tag:hover {
   background: var(--gray) !important;
+}
+
+.popover .graph,
+.popover .graph-story {
+  display: none;
 }
