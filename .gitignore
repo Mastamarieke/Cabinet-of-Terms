@@ -9,3 +9,6 @@ tsconfig.tsbuildinfo
 private/
 .replit
 replit.nix
+Lumo_V*.md
+Lumo_analyse.md
+log.md

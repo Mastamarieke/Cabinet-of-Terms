@@ -28,11 +28,11 @@ related_reaction:
 
 **The Appeal:** **Participatory design** produces systems that work better for the people who use them. It catches assumptions that designers bring without knowing it. It builds legitimacy: systems designed with communities tend to be adopted more readily than systems imposed on them. As a research methodology it also generates insights that conventional user testing misses.
 
-**The Friction:** The original political content — worker control, democratic technology governance — is largely absent from contemporary UX applications. [[*Design Justice*]] argues that **participatory design** still locates final authority with the designer or institution funding the work. Consulting users is not the same as redistributing design power. When participation becomes a methodology detached from its political context, it can function as legitimation for decisions already made.
+**The Friction:** The original political content — worker control, democratic technology governance — is largely absent from contemporary UX applications. [[Design Justice]] argues that **participatory design** still locates final authority with the designer or institution funding the work. Consulting users is not the same as redistributing design power. When participation becomes a methodology detached from its political context, it can function as legitimation for decisions already made.
 
 **Why This Matters:** **Participatory design** makes the question of authorship visible. Every designed system has authors. The question is whether the people most affected by the design had a hand in making it — or whether participation was performed to produce consent.
 
-**See also:** [[*Design Justice*]] · [[VSD (Value Sensitive Design)]] · [[Fair Patterns]] · [[*Adversarial Design*]]
+**See also:** [[Design Justice]] · [[VSD (Value Sensitive Design)]] · [[Fair Patterns]] · [[Adversarial Design]]
 
 
 ---

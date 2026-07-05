@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Looksmaxxing is het gevaarlijke antwoord op de vraag: ben ik iets waard?"
 author: Bregje Hofstede
 year: 2026

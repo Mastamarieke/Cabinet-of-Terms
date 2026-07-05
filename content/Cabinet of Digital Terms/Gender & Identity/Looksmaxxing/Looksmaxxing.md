@@ -40,11 +40,11 @@ related_reaction:
 *Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
 
 **Read more:**
-- [Looksmaxxing is het gevaarlijke antwoord op de vraag: ben ik iets waard?](https://decorrespondent.nl/16941/looksmaxxing-is-het-gevaarlijke-antwoord-op-de-vraag-ben-ik-iets-waard/7ba9fc8a-3dd5-0c35-1a9e-07fbae12e42d) — **Hofstede, B.** (2026). *De Correspondent* → [[Cabinet of Digital Terms/Gender & Identity/Looksmaxxing/Hofstede_2026_Looksmaxxing]]
-- [From bone smashing to chin extensions: how 'looksmaxxing' is reshaping young men's faces](https://www.theguardian.com/lifeandstyle/2024/feb/15/from-bone-smashing-to-chin-extensions-how-looksmaxxing-is-reshaping-young-mens-faces) — **Usborne, S.** (2024). *The Guardian* → [[Cabinet of Digital Terms/Gender & Identity/Looksmaxxing/Usborne_2024_Looksmaxxing]]
-- [Alphas, Betas, and Incels](https://doi.org/10.1177/1097184x17706401) — **Ging, D.** (2019). *Men and Masculinities* → [[Cabinet of Digital Terms/Gender & Identity/Looksmaxxing/Ging_2019_Manosphere]]
-- [Looksmaxxing: Straddling the Inflection Between Self-Enhancement and Self-Harm](https://journals.sagepub.com/doi/10.1177/26893614251409793) — **Konig, D.J., Sidhu, A.S., & Corpuz, G.S.** (2025). *SAGE* → [[Cabinet of Digital Terms/Gender & Identity/Looksmaxxing/Konig_2025_Looksmaxxing]]
-- [The Sovereignty of Good](https://www.routledge.com/The-Sovereignty-of-Good/Murdoch/p/book/9780415253994) — **Murdoch, I.** (1970). *Routledge* → [[Cabinet of Digital Terms/Gender & Identity/Looksmaxxing/Murdoch_1970_SovereigntyOfGood]]
+- [Looksmaxxing is het gevaarlijke antwoord op de vraag: ben ik iets waard?](https://decorrespondent.nl/16941/looksmaxxing-is-het-gevaarlijke-antwoord-op-de-vraag-ben-ik-iets-waard/7ba9fc8a-3dd5-0c35-1a9e-07fbae12e42d) — **Hofstede, B.** (2026). *De Correspondent* → [[Hofstede_2026_Looksmaxxing]]
+- [From bone smashing to chin extensions: how 'looksmaxxing' is reshaping young men's faces](https://www.theguardian.com/lifeandstyle/2024/feb/15/from-bone-smashing-to-chin-extensions-how-looksmaxxing-is-reshaping-young-mens-faces) — **Usborne, S.** (2024). *The Guardian* → [[Usborne_2024_Looksmaxxing]]
+- [Alphas, Betas, and Incels](https://doi.org/10.1177/1097184x17706401) — **Ging, D.** (2019). *Men and Masculinities* → [[Ging_2019_Manosphere]]
+- [Looksmaxxing: Straddling the Inflection Between Self-Enhancement and Self-Harm](https://journals.sagepub.com/doi/10.1177/26893614251409793) — **Konig, D.J., Sidhu, A.S., & Corpuz, G.S.** (2025). *SAGE* → [[Konig_2025_Looksmaxxing]]
+- [The Sovereignty of Good](https://www.routledge.com/The-Sovereignty-of-Good/Murdoch/p/book/9780415253994) — **Murdoch, I.** (1970). *Routledge* → [[Murdoch_1970_SovereigntyOfGood]]
 
 ---
 

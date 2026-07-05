@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Looksmaxxing: Straddling the Inflection Between Self-Enhancement and Self-Harm"
 author: Konig, D.J., Sidhu, A.S., & Corpuz, G.S.
 year: 2025

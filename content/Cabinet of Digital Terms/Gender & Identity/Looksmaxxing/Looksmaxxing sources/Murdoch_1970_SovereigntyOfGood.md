@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "The Sovereignty of Good"
 author: Iris Murdoch
 year: 1970
