@@ -90,7 +90,7 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     enableRadial,
   } = JSON.parse(graph.dataset["cfg"]!) as D3Config
 
-  await document.fonts.load("400 1em 'Barlow Condensed'")
+  try { await document.fonts.load("400 1em 'Barlow Condensed'") } catch (_) {}
 
   const data: Map<SimpleSlug, ContentDetails> = new Map(
     Object.entries<ContentDetails>(await fetchData).map(([k, v]) => [
