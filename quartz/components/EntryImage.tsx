@@ -22,4 +22,41 @@ const EntryImage: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
 
 EntryImage.css = style
 
+EntryImage.afterDOMLoaded = `
+document.addEventListener("nav", () => {
+  const img = document.querySelector(".entry-image img")
+  if (!img) return
+
+  let overlay = null
+
+  img.addEventListener("mouseenter", () => {
+    overlay = document.createElement("div")
+    overlay.className = "entry-image-overlay"
+    const rect = img.getBoundingClientRect()
+    overlay.style.cssText = \`
+      position: fixed;
+      top: \${rect.top}px;
+      right: \${window.innerWidth - rect.right}px;
+      width: 340px;
+      z-index: 9999;
+      box-shadow: 0 8px 32px rgba(0,0,0,0.3);
+      border-radius: 8px;
+      overflow: hidden;
+      pointer-events: none;
+    \`
+    const bigImg = document.createElement("img")
+    bigImg.src = img.src
+    bigImg.style.cssText = "width: 100%; display: block;"
+    overlay.appendChild(bigImg)
+    document.body.appendChild(overlay)
+    window.addCleanup(() => overlay?.remove())
+  })
+
+  img.addEventListener("mouseleave", () => {
+    overlay?.remove()
+    overlay = null
+  })
+})
+`
+
 export default (() => EntryImage) satisfies QuartzComponentConstructor
