@@ -26,7 +26,7 @@ semantic_landscape: |
   What the graph also makes visible: the men who reject the system entirely, and those who feel permanently defeated by it, are downstream of the same logic. All three positions — the **lone wolf** who transcends the game, the man who walks away from it, the one who lost — respond to the same underlying structure: the hierarchy, the ranking, the **market of desirability**. They differ only in how the response is framed. The network reveals that **they inhabit the same landscape, viewed from different emotional positions.**
 ---
 
-![Sigma Male illustratie](../images/sigma-male.jpg)
+![Sigma Male illustratie](sigma-male.jpg)
 
 ***He does not need the hierarchy. He is above it. He is also extremely online.***
 
