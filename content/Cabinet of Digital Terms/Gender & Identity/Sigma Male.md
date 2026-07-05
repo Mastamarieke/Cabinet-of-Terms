@@ -16,6 +16,7 @@ related_consequence:
   - MGTOW
 related_reaction:
   - Podcast-bro
+entry_image: sigma-male.jpg
 semantic_landscape: |
   In the semantic landscape of online masculinity discourse, the sigma male occupies a **structurally paradoxical position**. The term clusters tightly around the very **dominance hierarchy** it claims to leave behind — the ladder of alpha and beta men ranked by status, attractiveness, and social power. The sigma is not a departure from this ladder. **It is an additional rung.**
 
@@ -25,8 +26,6 @@ semantic_landscape: |
 
   What the graph also makes visible: the men who reject the system entirely, and those who feel permanently defeated by it, are downstream of the same logic. All three positions — the **lone wolf** who transcends the game, the man who walks away from it, the one who lost — respond to the same underlying structure: the hierarchy, the ranking, the **market of desirability**. They differ only in how the response is framed. The network reveals that **they inhabit the same landscape, viewed from different emotional positions.**
 ---
-
-<img src="sigma-male.jpg" style="float: right; width: 260px; margin: 0 0 1em 1.5em;" alt="Sigma Male illustratie" />
 
 ***He does not need the hierarchy. He is above it. He is also extremely online.***
 

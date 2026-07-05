@@ -14,6 +14,7 @@ import Explorer from "./Explorer"
 import TagList from "./TagList"
 import Graph from "./Graph"
 import GraphStory from "./GraphStory"
+import EntryImage from "./EntryImage"
 import Backlinks from "./Backlinks"
 import Search from "./Search"
 import Footer from "./Footer"
@@ -41,6 +42,7 @@ export {
   TagList,
   Graph,
   GraphStory,
+  EntryImage,
   Backlinks,
   Search,
   Footer,
