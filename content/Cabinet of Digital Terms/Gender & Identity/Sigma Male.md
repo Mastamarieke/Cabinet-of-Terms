@@ -17,14 +17,16 @@ related_consequence:
 related_reaction:
   - Podcast-bro
 semantic_landscape: |
-  In the semantic landscape of online masculinity discourse, the sigma male occupies a structurally paradoxical position. The term clusters tightly around the very dominance hierarchy it claims to leave behind — the ladder of alpha and beta men ranked by status, attractiveness, and social power. The sigma is not a departure from this ladder. It is an additional rung.
+  In the semantic landscape of online masculinity discourse, the sigma male occupies a **structurally paradoxical position**. The term clusters tightly around the very **dominance hierarchy** it claims to leave behind — the ladder of alpha and beta men ranked by status, attractiveness, and social power. The sigma is not a departure from this ladder. **It is an additional rung.**
 
-  The network makes visible what the term cannot say about itself. The alpha male is the gravitational center: sigma is defined as what alpha cannot quite be — unconstrained, solitary, indifferent to validation. But the comparison is doing all the work. Remove the alpha from the picture, and the sigma loses its meaning entirely. The transcendence is borrowed.
+  The network makes visible what the term cannot say about itself. The **alpha male** is the gravitational center: sigma is defined as what alpha cannot quite be — unconstrained, solitary, indifferent to validation. But the comparison is doing all the work. Remove the alpha from the picture, and the sigma loses its meaning entirely. **The transcendence is borrowed.**
 
-  The sigma worldview requires a counterpart: the passive mass who has not woken up, who follows scripts, who cannot see the system for what it is. This sleepwalking figure populates the same discourse under a different name — the background character in someone else's game, the one who never asks questions. The two concepts produce each other. The network does not show two separate ideas. It shows the two poles of a single worldview.
+  The sigma worldview requires a counterpart: the **passive mass** who has not woken up, who follows scripts, who cannot see the system for what it is. This sleepwalking figure populates the same discourse under a different name — the **background character** in someone else's game, the one who never asks questions. The two concepts produce each other. The network does not show two separate ideas. **It shows the two poles of a single worldview.**
 
-  What the graph also makes visible: the men who reject the system entirely, and those who feel permanently defeated by it, are downstream of the same logic. All three positions — the lone wolf who transcends the game, the man who walks away from it, the one who lost — respond to the same underlying structure: the hierarchy, the ranking, the market of desirability. They differ only in how the response is framed. The network reveals that they inhabit the same landscape, viewed from different emotional positions.
+  What the graph also makes visible: the men who reject the system entirely, and those who feel permanently defeated by it, are downstream of the same logic. All three positions — the **lone wolf** who transcends the game, the man who walks away from it, the one who lost — respond to the same underlying structure: the hierarchy, the ranking, the **market of desirability**. They differ only in how the response is framed. The network reveals that **they inhabit the same landscape, viewed from different emotional positions.**
 ---
+
+![Sigma Male illustratie](../images/sigma-male.jpg)
 
 ***He does not need the hierarchy. He is above it. He is also extremely online.***
 
