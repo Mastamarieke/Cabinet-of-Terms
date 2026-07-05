@@ -35,9 +35,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [Science in Action](https://www.hup.harvard.edu/catalog.php?isbn=9780674792913) — Latour, B. (1987). *Harvard University Press*
 - [Unblackboxing mediation in the digital mine](https://www.sciencedirect.com/science/article/pii/S0016718523000714) — Pasquale, F. (2015). *Harvard University Press*
@@ -52,3 +49,5 @@ related_reaction:
 **Mechanism:** [[De-bugging]]
 **Consequence:** [[Situated Knowledge]]
 **Reaction:** [[VSD (Value Sensitive Design)]] · [[Fair Patterns]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

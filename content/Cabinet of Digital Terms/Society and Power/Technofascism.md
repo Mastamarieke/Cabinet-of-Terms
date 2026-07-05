@@ -37,9 +37,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [Technofascism: AI, Big Tech, and the new authoritarianism](https://link.springer.com/article/10.1007/s00146-026-02862-9) — Coeckelbergh, M. (2026). _AI & Society / Springer_
 - [How Democracies Die](https://www.penguinrandomhouse.com/books/562246/how-democracies-die-by-steven-levitsky-and-daniel-ziblatt/) — Levitsky, S. & Ziblatt, D. (2018). *Crown* — on democratic erosion patterns
@@ -58,3 +55,5 @@ related_reaction:
 **Mechanism:** [[Cybernetic Governance]] · [[Flood the Zone]]
 **Consequence:** [[Sovereignty as a Service]] · [[Dehumanization]]
 **Reaction:** [[Brussels Effect]] · [[Cyberfeminism]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

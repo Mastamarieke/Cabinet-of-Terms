@@ -37,9 +37,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - - [Clarifying Lawful Overseas Use of Data (CLOUD) Act](https://www.congress.gov/bill/115th-congress/house-bill/4943) — United States Congress (2018). _US Congress_
 - [CLOUD Act agreements from an EU perspective](https://www.researchgate.net/publication/342692523_CLOUD_act_agreements_from_an_EU_perspective?utm_source=chatgpt.com) — Rojszczak, M. (2020). _Computer Law & Security Review_
@@ -56,3 +53,5 @@ related_reaction:
 **Mechanism:** [[Brussels Effect]] · [[Vendor Lock-in]]
 **Consequence:** [[Vendor Lock-in]] · [[Algorithmic Violence]]
 **Reaction:** [[Brussels Effect]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

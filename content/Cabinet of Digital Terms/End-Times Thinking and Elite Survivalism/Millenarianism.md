@@ -39,9 +39,6 @@ Today, versions of this structure appear across very different ideologies — fr
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [The Pursuit of the Millennium](https://global.oup.com/academic/product/the-pursuit-of-the-millennium-9780195004564) — Cohn, N. (1957/1970). *Oxford University Press*
 - [A Culture of Conspiracy](https://www.jstor.org/stable/10.1525/j.ctt1pnjvz) — Barkun, M. (2003). *University of California Press*
@@ -56,3 +53,5 @@ Today, versions of this structure appear across very different ideologies — fr
 **Mechanism:** [[Disaster Nationalism]] · [[Endtime Fascism]]
 **Consequence:** [[Endtime Fascism]] · [[Doomerism]]
 **Reaction:** [[Situated Knowledge]] · [[AI Literacy]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

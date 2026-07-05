@@ -35,9 +35,8 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [Angry White Men](https://www.publicaffairsbooks.com/titles/michael-kimmel/angry-white-men/9781568589619/) — Kimmel, M. (2013). *PublicAffairs*
 - [Alphas, Betas, and Incels](https://doi.org/10.1177/1097184x17706401) — Ging, D. (2019). *Men and Masculinities*
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

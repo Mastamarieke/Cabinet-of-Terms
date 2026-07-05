@@ -37,9 +37,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [Founder Mode](https://www.paulgraham.com/foundermode.html?utm_source=chatgpt.com) — Graham, P. (2024). *paulgraham.com*
 - [The Innovator's Dilemma](https://www.hbs.edu/faculty/Pages/item.aspx?num=46) — Christensen, C.M. (1997). *Harvard Business Review Press* — on why incumbents fail; the empirical foundation Graham draws on
@@ -57,3 +54,5 @@ related_reaction:
 **Mechanism:** [[Hubris Syndrome]] · [[Broligarchy]]
 **Consequence:** [[Hubris Syndrome]] · [[Technofascism]]
 **Reaction:** [[Brussels Effect]] · [[Situated Knowledge]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

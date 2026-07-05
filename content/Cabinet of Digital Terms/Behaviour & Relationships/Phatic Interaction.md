@@ -36,9 +36,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [Phatic Interactions: Being Aware and Feeling Connected](https://www.researchgate.net/publication/225881153_Phatic_Interactions_Being_Aware_and_Feeling_Connected) — Vetere, Frank, Jeremy Smith, and Martin Gibbs. (2009). *Springer, London, 2009. 173-186.*
 - [DITCHING THE MESSAGE; ON FUTURE DESIGN OF PHATIC INTERACTIONS](https://masterdesign.wdka.nl/ditching-the-message-on-future-design-of-phatic-interactions/) —  Jeurens, J ** (2016). *Social Media + Society.*
@@ -56,3 +53,5 @@ related_reaction:
 **Mechanism:** [[Ghosting]] · [[Orbiting]]
 **Consequence:** [[Cognitive Surrender]] · [[Parasocial Relationship]]
 **Reaction:** [[JOMO]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

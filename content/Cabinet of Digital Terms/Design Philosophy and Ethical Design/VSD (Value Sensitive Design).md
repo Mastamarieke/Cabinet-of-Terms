@@ -36,9 +36,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [Value Sensitive Design and Information Systems](https://doi.org/10.1007/978-94-007-7844-3_4) — Friedman, B., Kahn, P.H. & Borning, A. (2008). *The Handbook of Information and Computer Ethics*
 - [Value Sensitive Design: Shaping Technology with Moral Imagination](https://www.researchgate.net/publication/344708255_Value_Sensitive_Design_Shaping_Technology_with_Moral_Imagination) — Friedman, B. & Hendry, D.G. (2019). *MIT Press*
@@ -53,3 +50,5 @@ related_reaction:
 **Mechanism:** [[Fair Patterns]] · [[Deceptive Design]]
 **Consequence:** [[Unblackboxing]]
 **Reaction:** [[Calm Technology]] · [[Fair Patterns]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

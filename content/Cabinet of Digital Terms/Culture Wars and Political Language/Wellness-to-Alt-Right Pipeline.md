@@ -36,11 +36,9 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [The wellness pipeline: Tracing far-right health narratives on X](https://journals.sagepub.com/doi/10.1177/14614448251385082). Conway, M. *Sage Journals.*
 - [QAnon, authoritarianism, and conspiracy within American alternative spiritual spaces](https://pmc.ncbi.nlm.nih.gov/articles/PMC10325789/). Holman, C. *National Center for Biotechnology Information (PMC).*
 - ['Everything you've been told is a lie!' Inside the wellness-to-fascism pipeline](https://www.theguardian.com/lifeandstyle/2023/aug/02/everything-youve-been-told-is-a-lie-inside-the-wellness-to-facism-pipeline). Fisher, M. *The Guardian.*
 
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

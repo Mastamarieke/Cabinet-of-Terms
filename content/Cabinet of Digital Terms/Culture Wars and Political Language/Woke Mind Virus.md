@@ -36,9 +36,8 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [Don’t catch the woke mind virus: Social justice terminology as meme in the right-wing Twitter ecosystem](https://www.researchgate.net/publication/391924592_Don%27t_catch_the_woke_mind_virus_Social_justice_terminology_as_meme_in_the_right-wing_Twitter_ecosystem) — Rachel Marks & Mel Stanfill (2025). _Convergence_
 - [Is Free Speech Racist?](https://www.politybooks.com/bookdetail?book_slug=is-free-speech-racist--9781509536153&utm_source=chatgpt.com) — Gavan Titley (2020). _Polity Press_
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

@@ -39,9 +39,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN University of Applied Sciences, 2026.*
-
 **Read more:**
 - [Persuasive Technology: Using Computers to Change What We Think and Do](https://archive.org/details/persuasivetechno0000fogg) — Fogg, B.J. (2003). *Morgan Kaufmann*
 - [A Behavior Model for Persuasive Design](https://www.demenzemedicinagenerale.net/images/mens-sana/Captology_Fogg_Behavior_Model.pdf) — Fogg, B.J. (2009). *ACM*
@@ -59,3 +56,5 @@ related_reaction:
 **Mechanism:** [[Dopamine Feedback Loops]] · [[Gamification Creep]] · [[Recommender Systems]]
 **Consequence:** [[Cognitive Surrender]] · [[Doomscrolling]]
 **Reaction:** [[Frictionful Design]] · [[Calm Technology]] · [[Fair Patterns]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

@@ -37,9 +37,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [Emotion shapes the diffusion of moralized content in social networks](https://doi.org/10.1073/pnas.1618923114) — Brady, W.J., Wills, J.A., Jost, J.T., Tucker, J.A. & Van Bavel, J.J. (2017). _Proceedings of the National Academy of Sciences_
 - [Contagious: Why Things Catch On](https://www.simonandschuster.com/books/Contagious/Jonah-Berger/9781451686579) — Berger, J. (2013). *Simon & Schuster*
@@ -56,3 +53,5 @@ related_reaction:
 **Mechanism:** [[Clickbait]] · [[Flood the Zone]]
 **Consequence:** [[Dehumanization]] · [[Doomscrolling]]
 **Reaction:** [[Slow Media]] · [[Fact Checker]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

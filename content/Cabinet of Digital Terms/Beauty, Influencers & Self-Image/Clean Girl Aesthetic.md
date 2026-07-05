@@ -36,9 +36,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [The Beauty Myth](https://www.harpercollins.com/products/the-beauty-myth-naomi-wolf) — Wolf, N. (1990). *HarperCollins*
 - [Aesthetic Labour](https://www.researchgate.net/publication/344782858_Aesthetic_Labour) — Warhurst, C. & Nickson, D. (2020). *Work, Employment and Society*
@@ -53,3 +50,5 @@ related_reaction:
 **Mechanism:** [[That Girl]] · [[Highlight Reel]]
 **Consequence:** [[Body Dysmorphic Disorder]] · [[Comparison Culture]]
 **Reaction:** [[Deinfluencing]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

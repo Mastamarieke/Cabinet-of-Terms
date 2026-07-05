@@ -37,9 +37,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [Seasteading: How Floating Nations Will Restore the Environment, Enrich the Poor, Cure the Sick, and Liberate Humanity from Politicians](https://www.simonandschuster.com/books/Seasteading/Joe-Quirk/9781451699265) — Quirk, J. & Friedman, P. (2017). *Free Press*
 - [Crack-Up Capitalism](https://cdn.penguin.co.uk/dam-assets/books/9780141993768/9780141993768-sample.pdf) — Slobodian, Q. (2023). *Metropolitan Books* — on exit politics
@@ -54,3 +51,5 @@ related_reaction:
 **Mechanism:** [[Fortress Futurism]] · [[Sovereignty as a Service]]
 **Consequence:** [[Fortress Futurism]] · [[Technofeudalism]]
 **Reaction:** [[Brussels Effect]] · [[Situated Knowledge]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

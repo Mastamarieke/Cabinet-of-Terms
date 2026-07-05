@@ -36,9 +36,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [The Age of Surveillance Capitalism](https://www.publicaffairsbooks.com/titles/shoshana-zuboff/the-age-of-surveillance-capitalism/9781610395694/) — Zuboff, S. (2019). *PublicAffairs*
 - [Oversharing the super safe stuff: “Privacy-washing” in Apple iPhone and Google Pixel commercials](https://firstmonday.org/ojs/index.php/fm/article/view/13321) — Cirucci, A.M. (2024). _First Monday_
@@ -56,3 +53,5 @@ related_reaction:
 **Mechanism:** [[Security Theater]] · [[Deceptive Design]]
 **Consequence:** [[Algorithmic Violence]] · [[Vendor Lock-in]]
 **Reaction:** [[Brussels Effect]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

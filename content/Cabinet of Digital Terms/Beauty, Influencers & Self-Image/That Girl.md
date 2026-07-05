@@ -36,9 +36,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [The Influencer Industry](https://www.amazon.nl/Influencer-Industry-Quest-Authenticity-Social/dp/0691231028) — Hund, E. (2023). *Studies in Communication Sciences*
 - [Wellness Culture](
@@ -54,3 +51,5 @@ https://www.researchgate.net/publication/364754565_Wellness_Culture_How_the_Well
 **Mechanism:** [[Clean Girl Aesthetic]] · [[Fitfluencer]]
 **Consequence:** [[Body Dysmorphic Disorder]] · [[Toxic Positivity]]
 **Reaction:** [[Deinfluencing]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

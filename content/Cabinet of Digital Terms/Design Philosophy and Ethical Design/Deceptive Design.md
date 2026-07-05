@@ -39,9 +39,6 @@ enforcement has produced multi-million euro fines for cookie consent designs tha
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [Dark Patterns at Scale]([https://doi.org/10.1145/3359183](https://dl.acm.org/doi/10.1145/3359183)) — Mathur, A. et al. (2019). *ACM CSCW*
 - [Guidelines 03/2022 on Deceptive design patterns in social media platform interfaces:how to recognise and avoid them](https://www.edpb.europa.eu/system/files/2023-02/edpb_03-2022_guidelines_on_deceptive_design_patterns_in_social_media_platform_interfaces_v2_en_0.pdf) — European Data Protection Board (2022)
@@ -56,3 +53,5 @@ enforcement has produced multi-million euro fines for cookie consent designs tha
 **Mechanism:** [[Fair Patterns]] · [[Nudging]]
 **Consequence:** [[Cognitive Surrender]] · [[Vendor Lock-in]]
 **Reaction:** [[Fair Patterns]] · [[VSD (Value Sensitive Design)]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

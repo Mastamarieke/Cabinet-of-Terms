@@ -37,9 +37,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [My life has become a major distraction from my cell phone](https://www.researchgate.net/publication/282763744_My_life_has_become_a_major_distraction_from_my_cell_phone_Partner_phubbing_and_relationship_satisfaction_among_romantic_partners) — Roberts, J.A. & David, M.E. (2016). *Computers in Human Behavior*
 - [The effects of "phubbing" on social interaction](https://kar.kent.ac.uk/65777/1/Chotpitayasunondh%20Douglas%20JASP.pdf) — Chotpitayasunondh, V., & Douglas, K. M. (2018). _Journal of Applied Social Psychology, 48_(4), 304–316.
@@ -53,3 +50,5 @@ related_reaction:
 **Mechanism:** [[Smombie]] · [[Cognitive Surrender]]
 **Consequence:** [[Technostress]] · [[Phatic Interaction]]
 **Reaction:** [[JOMO]] · [[Digital Detox]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

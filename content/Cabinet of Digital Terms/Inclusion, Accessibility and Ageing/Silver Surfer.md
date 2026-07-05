@@ -37,9 +37,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [Internet Use and Well-Being in Later Life: A Functional Approach](https://www.tandfonline.com/doi/full/10.1080/13607863.2016.1232370?utm_source=chatgpt.com) — Lifshitz, R., Nimrod, G., & Bachner, Y. G. (2018). _Aging & Mental Health, 22_(1), 85–91. 
 - [A Typology of Aging Internet Users: Exploring Digital Gradations in Internet Skills and Uses](https://journals.sagepub.com/doi/10.1177/08944393221117753) — Petrovčič, A., Prevodnik, K., Dolničar, V., & Vehovar, V. (2023). _Social Science Computer Review, 41_(5). 
@@ -55,3 +52,5 @@ related_reaction:
 **Mechanism:** [[Digital Exclusion]] · [[Ageism (Digital)]]
 **Consequence:** [[Tech Abandonment]] · [[Digital Exclusion]]
 **Reaction:** [[Inclusive Design]] · [[Universal Design]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

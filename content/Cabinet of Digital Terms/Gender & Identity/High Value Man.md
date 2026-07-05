@@ -36,10 +36,9 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [Alphas, Betas, and Incels](https://doi.org/10.1177/1097184x17706401) — Ging, D. (2019). *Men and Masculinities*
 - [Self-Help Inc.](https://global.oup.com/academic/product/self-help-inc-9780195171006) — McGee, M. (2005). *Oxford University Press*
 - [_Dude, You’re a Fag: Masculinity and Sexuality in High School_](https://en.wikipedia.org/wiki/Dude%2C_You%27re_a_Fag). Pascoe, C. J. (2007).
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

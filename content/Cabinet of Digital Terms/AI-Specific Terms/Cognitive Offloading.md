@@ -36,9 +36,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [The Extended Mind](https://academic.oup.com/analysis/article-abstract/58/1/7/153111) — Clark & Chalmers (1998), Analysis
 - [Cognitive offloading](https://pubmed.ncbi.nlm.nih.gov/27542527/) — Risko & Gilbert (2016)
@@ -53,3 +50,5 @@ related_reaction:
 **Mechanism:** [[Deskilling]] · [[AI Hallucination]]
 **Consequence:** [[AI Dependency]] · [[Deskilling]]
 **Reaction:** [[AI Literacy]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

@@ -37,9 +37,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [The Singularity Is Near](https://www.goodreads.com/book/show/83518.The_Singularity_Is_Near) — Kurzweil, R. (2005). *Viking* — influential argument that accelerating technological progress will culminate in superhuman artificial intelligence and radical transformation of human civilisation
 - [The Coming Technological Singularity](https://ntrs.nasa.gov/citations/19940022856) — Vinge, V. (1993). *NASA Technical Reports*
@@ -54,3 +51,5 @@ related_reaction:
 **Mechanism:** [[Longtermism]] · [[Doomerism]]
 **Consequence:** [[Longtermism]] · [[Doomerism]]
 **Reaction:** [[AI Literacy]] · [[Situated Knowledge]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

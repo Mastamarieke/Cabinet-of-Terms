@@ -37,9 +37,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [Seeing Like a State](https://yalebooks.yale.edu/book/9780300078152/seeing-like-a-state/) — Scott, J.C. (1998). *Yale University Press* — on state legibility projects
 - [Untrustworthy: Social Credit Isn’t What You Think It Is](https://verfassungsblog.de/untrustworthy-social-credit-isnt-what-you-think-it-is/) — Daum, J. (2019). _Verfassungsblog_
@@ -58,3 +55,5 @@ related_reaction:
 **Mechanism:** [[Panopticon]] · [[Algorithmic Violence]]
 **Consequence:** [[Algorithmic Violence]] · [[Panopticon]]
 **Reaction:** [[Brussels Effect]] · [[AI Literacy]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

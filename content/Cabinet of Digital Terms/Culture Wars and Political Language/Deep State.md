@@ -36,9 +36,8 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [The Deep State: The Fall of the Constitution and the Rise of a Shadow Government](https://www.amazon.com/Deep-State-Constitution-Shadow-Government/dp/0525428348) — Mike Lofgren (2016). _Viking_
 - [The Conspiracy Theory Handbook](https://www.climatechangecommunication.org/conspiracy-theory-handbook/) — Lewandowsky, S. & Cook, J. (2020). *George Mason University*
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

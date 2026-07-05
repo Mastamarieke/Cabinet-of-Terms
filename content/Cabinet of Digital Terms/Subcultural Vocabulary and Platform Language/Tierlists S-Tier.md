@@ -37,9 +37,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [**Rethinking Gamification**](https://meson.press/books/rethinking-gamification/) — Fuchs, M., Fizek, S., Ruffino, P. & Schrape, N. (eds.) (2014), _Meson Press_.
 - [**How fighting games kicked off a bizarre YouTube meme**](https://www.inverse.com/gaming/tier-list-meaning-definition-origins-video-games?utm_source=chatgpt.com) — Webb, K. (2020), _Inverse_.  
@@ -57,3 +54,5 @@ related_reaction:
 **Mechanism:** [[Aurafarming]] · [[Looksmaxxing]]
 **Consequence:** [[Comparison Culture]] · [[Looksmaxxing]]
 **Reaction:** [[AI Literacy]] · [[Situated Knowledge]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

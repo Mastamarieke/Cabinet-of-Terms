@@ -37,9 +37,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [The Anatomy of Fascism](https://files.libcom.org/files/Robert%20O.%20Paxton-The%20Anatomy%20of%20Fascism%20%20-Knopf%20(2004).pdf) — Paxton, R.O. (2004). *~Aanknopf*
 - [Fascism: A Warning](https://www.harpercollins.com/products/fascism-a-warning-madeleine-albright) — Albright, M. (2018). *HarperCollins*
@@ -54,3 +51,5 @@ related_reaction:
 **Mechanism:** [[Disaster Nationalism]] · [[Dark MAGA]]
 **Consequence:** [[Technofascism]] · [[Dehumanization]]
 **Reaction:** [[Brussels Effect]] · [[Situated Knowledge]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

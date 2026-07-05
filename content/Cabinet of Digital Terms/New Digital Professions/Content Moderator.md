@@ -36,9 +36,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - **[Behind the Screen: Content Moderation in the Shadows of Social Media](https://yalebooks.yale.edu/book/9780300261479/behind-the-screen/)**— Roberts, S.T. (2019). _Yale University Press_
 - [The Cleaners](https://www.pbs.org/independentlens/documentaries/the-cleaners/) — Riesewieck, H. & Block, H. (2018). _PBS / Independent Lens
@@ -52,3 +49,5 @@ related_reaction:
 **Mechanism:** [[Algospeak]]
 **Consequence:** [[Technostress]] · [[Deplatforming]]
 **Reaction:** [[Fact Checker]] · [[Fair Patterns]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

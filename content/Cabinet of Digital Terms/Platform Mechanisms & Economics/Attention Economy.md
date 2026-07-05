@@ -37,9 +37,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [Stand Out of Our Light: Freedom and Resistance in the Attention Economy](https://www.cambridge.org/core/books/stand-out-of-our-light/3F8D7BA2C0FE3A7126A4D9B73A89415D) — Williams, J. (2018). _Cambridge University Press_
 - [The Attention Economy and the Net](https://firstmonday.org/ojs/index.php/fm/article/view/519/440) — Goldhaber, M.H. (1997). _First Monday_
@@ -57,3 +54,5 @@ related_reaction:
 **Mechanism:** [[Attention Harvesting]] · [[Dopamine Feedback Loops]]
 **Consequence:** [[Cognitive Surrender]] · [[Doomscrolling]]
 **Reaction:** [[Calm Technology]] · [[Digital Detox]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

@@ -37,9 +37,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [Are You Living in a Computer Simulation?](https://simulation-argument.com/simulation/) — Bostrom, N. (2003). *Philosophical Quarterly*
 - [The Matrix](https://www.warnerbros.com/movies/matrix) — Wachowski, L. & Wachowski, L. (1999). _Warner Bros._ 
@@ -56,3 +53,5 @@ related_reaction:
 **Mechanism:** [[The Matrix]] · [[Longtermism]]
 **Consequence:** [[Doomerism]] · [[Longtermism]]
 **Reaction:** [[Situated Knowledge]] · [[AI Literacy]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

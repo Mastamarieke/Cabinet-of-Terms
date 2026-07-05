@@ -39,9 +39,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [A Cyborg Manifesto](https://doi.org/10.1177/030631289019002003) — Haraway, D. (1985/1991). *Routledge*
 - [Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence](https://yalebooks.yale.edu/book/9780300264630/atlas-of-ai/) — Crawford, K. (2021). _Yale University Press_
@@ -56,3 +53,5 @@ related_reaction:
 **Mechanism:** [[Situated Knowledge]] · [[Black Box]]
 **Consequence:** [[Algorithmic Violence]] · [[Digital Colonialism]]
 **Reaction:** [[Cyberfeminism]] · [[Unblackboxing]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

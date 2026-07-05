@@ -36,9 +36,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [Impact of the Abandonment of Assistive Technologies for Mobility on Older Adults](https://pmc.ncbi.nlm.nih.gov/articles/PMC9234835/) — Sawadogo, A. R., et al. (2022). _Assistive Technology_
 - [Impact of Internet Use on Loneliness and Contact with Others Among Older Adults: Cross-Sectional Analysis](https://www.jmir.org/2013/2/e39/) — Cotten, S. R., Anderson, W. A., & McCullough, B. M. (2013). _Journal of Medical Internet Research, 15_(2), e39. 
@@ -54,3 +51,5 @@ related_reaction:
 **Mechanism:** [[Digital Exclusion]] · [[Technostress]]
 **Consequence:** [[Digital Exclusion]]
 **Reaction:** [[Universal Design]] · [[Inclusive Design]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

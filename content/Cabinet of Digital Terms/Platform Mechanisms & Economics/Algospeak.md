@@ -35,9 +35,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [Internet ‘algospeak’ is changing our language in real time, from ‘nip nops’ to ‘le dollar bean’](https://www.washingtonpost.com/technology/2022/04/08/algospeak-tiktok-le-dollar-bean/) — Lorenz, T. (2022). _The Washington Post_
 - [You Can (Not) Say What You Want: Using Algospeak to Contest and Evade Algorithmic Content Moderation on TikTok](https://journals.sagepub.com/doi/10.1177/20563051231194586?utm_source=chatgpt.com) — Steen, E., Yurechko, K. & Klug, D. (2023). _Social Media + Society_
@@ -55,3 +52,5 @@ related_reaction:
 **Mechanism:** [[About Subcultural Vocabulary and Platform Language]] · [[Deplatforming]]
 **Consequence:** [[Cognitive Surrender]]
 **Reaction:** [[AI Literacy]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

@@ -36,9 +36,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [Loot box purchases and their relationship with internet gaming disorder and online gambling disorder in adolescents: a prospective study](https://www.sciencedirect.com/science/article/pii/S0747563223000365) — González-Cabrera, J. et al. (2023). _Computers in Human Behavior_
 - [The relationship between loot box buying, gambling, and mental health](https://www.sciencedirect.com/science/article/pii/S0747563225000263) — Villalba-García, C. et al. (2025). _Computers in Human Behavior_
@@ -57,3 +54,5 @@ related_reaction:
 **Mechanism:** [[Robux]] · [[Gaming Disorder]]
 **Consequence:** [[Gaming Disorder]]
 **Reaction:** [[Brussels Effect]] · [[Fair Patterns]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

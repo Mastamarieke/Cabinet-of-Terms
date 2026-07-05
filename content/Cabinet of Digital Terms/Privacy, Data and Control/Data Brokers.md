@@ -36,9 +36,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [Data Brokers: A Call for Transparency and Accountability](https://www.ftc.gov/reports/data-brokers-call-transparency-accountability-report-federal-trade-commission-may-2014) — Federal Trade Commission (2014). _FTC_
 - [The Scored Society: Due Process for Automated Predictions](https://digitalcommons.law.uw.edu/wlr/vol89/iss1/2/) — Citron, D.K. & Pasquale, F. (2014). _Washington Law Review_
@@ -55,3 +52,5 @@ related_reaction:
 **Mechanism:** [[Privacy Washing]] · [[Microtargeting]]
 **Consequence:** [[Algorithmic Violence]] · [[Deadnaming]]
 **Reaction:** [[Brussels Effect]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

@@ -36,9 +36,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [**Slang: The People’s Poetry**](https://books.google.com/books/about/Slang.html?id=UrrCoCUiW3gC&utm_source=chatgpt.com) — Adams, M. (2009), _Oxford University Press_.  .
 - [Because Internet: Understanding the New Rules of Language**](https://www.penguinrandomhouse.com/books/540664/because-internet-by-gretchen-mcculloch/?utm_source=chatgpt.com) — McCulloch, G. (2019), _Riverhead Books / Penguin Random House_.
@@ -53,3 +50,5 @@ related_reaction:
 **Mechanism:** [[Ratio'd]] · [[Deplatforming]]
 **Consequence:** [[Doomerism]] · [[Ratio'd]]
 **Reaction:** [[AI Literacy]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

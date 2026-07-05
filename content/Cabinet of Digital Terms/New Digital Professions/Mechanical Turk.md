@@ -43,9 +43,6 @@ Once you see **Mechanical Turk** as a labour infrastructure rather than a techno
 - [Amazon Mechanical Turk: The Human Sciences' Labor Problem](https://read.dukeupress.edu/labor/article/21/3/6/390482/Amazon-Mechanical-Turk-The-Human-Sciences-Labor) — Shapiro, A. (2024). *Labor: Studies in Working-Class History*
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 ---
 
 ## Navigation
@@ -59,3 +56,5 @@ Once you see **Mechanical Turk** as a labour infrastructure rather than a techno
 
 **Public entry:** this document
 **Deep analysis:** *in production*
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

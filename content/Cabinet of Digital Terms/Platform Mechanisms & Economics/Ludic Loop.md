@@ -40,9 +40,6 @@ Once you see the **ludic loop** in your phone's notification system, your social
 - [Game Loops, Game Design Loops, Game Terakoya Loops and Ludic Language Pedagogy Loops](https://www.researchgate.net/publication/364204243_Game_loops_Game_design_loops_Game_Terakoya_loops_and_Ludic_Language_Pedagogy_loops) — deHaan, J. (2022). *ResearchGate*
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 ---
 
 ## Navigation
@@ -56,3 +53,5 @@ Once you see the **ludic loop** in your phone's notification system, your social
 
 **Public entry:** this document
 **Deep analysis:** *in production*
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

@@ -37,9 +37,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [The Gerontechnology Journal](https://gerontechnology.info) — Gerontechnology (peer-reviewed journal on technology and ageing)
 - [Longevity Hubs](https://mitpress.mit.edu/9780262049214/longevity-hubs/) — Longevity Hubs — Coughlin, J. F., & Yoquinto, L. (2024). _MIT Press_
@@ -58,3 +55,5 @@ related_reaction:
 **Mechanism:** [[Tech Abandonment]] · [[Silver Surfer]]
 **Consequence:** [[Tech Abandonment]] · [[Digital Exclusion]]
 **Reaction:** [[Universal Design]] · [[Inclusive Design]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

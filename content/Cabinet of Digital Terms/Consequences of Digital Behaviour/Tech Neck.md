@@ -35,9 +35,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [Assessment of Stresses in the Cervical Spine Caused by Posture and Position of the Head](https://pubmed.ncbi.nlm.nih.gov/25393825/) — Hansraj, K.K. (2014). *Surgical Technology International*
 - [Evaluating Tech Neck: A Pilot Study. A Pilot Study Using a Self-Developed Questionnaire on Symptoms, Posture, and Preventive Measures](https://doi.org/10.3390/children12010102) — Osser, B. et al. (2025). *Children*
@@ -52,3 +49,5 @@ related_reaction:
 **Mechanism:** [[Text Claw]] · [[Smombie]]
 **Consequence:** [[Technostress]]
 **Reaction:** [[Digital Detox]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

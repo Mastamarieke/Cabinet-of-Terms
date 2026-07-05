@@ -37,9 +37,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [Hackers: Heroes of the Computer Revolution](https://www.stevenlevy.com/hackers-heroes-of-the-computer-revolution) — Levy, S. (1984). *Anchor Press/Doubleday*
 - [The Hacker Ethic and the Spirit of the Information Age](https://www.penguin.co.uk/books/356837/the-hacker-ethic-by-pekka-himanen/9781407064291) — Himanen, P. (2001). *Random House*
@@ -54,3 +51,5 @@ related_reaction:
 **Mechanism:** [[Unblackboxing]] · [[Black Box]]
 **Consequence:** [[Digital Libertarianism]] · [[Obfuscation]]
 **Reaction:** [[Cyberfeminism]] · [[Situated Knowledge]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

@@ -37,9 +37,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [Sharenting: Children's Privacy in the Age of Social Media](https://scholarship.law.ufl.edu/facultypub/779/) — Steinberg, S.B. (2017). _Emory Law Journal_
 - [“Sharenting,” Parent Blogging, and the Boundaries of the Digital Self](https://www.researchgate.net/publication/306282338_Sharenting_parent_blogging_and_the_boundaries_of_the_digital_self) — Blum-Ross, A. & Livingstone, S. (2017). _Popular Communication_
@@ -56,3 +53,5 @@ related_reaction:
 **Mechanism:** [[Momfluencer]] · [[Family Vlogging]]
 **Consequence:** [[Kidfluencer]] · [[Privacy Washing]]
 **Reaction:** [[Digital Detox]] · [[VSD (Value Sensitive Design)]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

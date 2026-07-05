@@ -36,9 +36,6 @@ related_reaction:
 **See also:** [[SMV (Sexual Market Value)]] · [[Blackpill]] · [[Manosphere]] · [[Subhuman]] · [[Body Dysmorphic Disorder]] · [[Comparison Culture]]
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [Looksmaxxing is het gevaarlijke antwoord op de vraag: ben ik iets waard?](https://decorrespondent.nl/16941/looksmaxxing-is-het-gevaarlijke-antwoord-op-de-vraag-ben-ik-iets-waard/7ba9fc8a-3dd5-0c35-1a9e-07fbae12e42d) — **Hofstede, B.** (2026). *De Correspondent* → [[Hofstede_2026_Looksmaxxing]]
 - [From bone smashing to chin extensions: how 'looksmaxxing' is reshaping young men's faces](https://www.theguardian.com/lifeandstyle/2024/feb/15/from-bone-smashing-to-chin-extensions-how-looksmaxxing-is-reshaping-young-mens-faces) — **Usborne, S.** (2024). *The Guardian* → [[Usborne_2024_Looksmaxxing]]
@@ -56,3 +53,5 @@ related_reaction:
 **Mechanism:** [[Comparison Culture]] · [[Blackpill]]
 **Consequence:** [[Body Dysmorphic Disorder]] · [[Blackpill]] · [[Subhuman]]
 **Reaction:** [[Deinfluencing]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

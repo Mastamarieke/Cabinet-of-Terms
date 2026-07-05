@@ -37,9 +37,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [How Much Is Too Much? Examining the Relationship Between Digital Screen Engagement and Psychosocial Functioning in a Confirmatory Cohort Study](https://pubmed.ncbi.nlm.nih.gov/31400437/) — Przybylski, A.K. & Weinstein, N. (2020). _Journal of the American Academy of Child & Adolescent Psychiatry_
 - [Media and Young Minds](https://doi.org/10.1542/peds.2016-2591) — American Academy of Pediatrics (2016)
@@ -56,3 +53,5 @@ related_reaction:
 **Mechanism:** [[Gaming Disorder]] · [[Brain Rot]]
 **Consequence:** [[Gaming Disorder]] · [[Brain Rot]]
 **Reaction:** [[Digital Detox]] · [[Calm Technology]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

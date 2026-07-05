@@ -36,9 +36,8 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [Selective Moral Disengagement in the Exercise of Moral Agency](https://centrodocumentacion.psicosocial.net/wp-content/uploads/2003/01/bandura-selective-moral-disengagement-in-the-exercise-of-moral-agency.pdf?utm_source=chatgpt.com) — Bandura, A. (2010). *Journal of Moral Education, 31_(2), 101–119.*
 - [Becoming Evil](https://global.oup.com/academic/product/becoming-evil-9780195314564) — Waller, J. (2002). *Oxford University Press*
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

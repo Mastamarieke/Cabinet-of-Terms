@@ -37,9 +37,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [The Filter Bubble](https://www.penguinrandomhouse.com/books/309214/the-filter-bubble-by-eli-pariser/) — Pariser, E. (2011). *Penguin Press*
 - [Are Filter Bubbles Real?](https://www.wiley.com/en-gb/Are+Filter+Bubbles+Real%3F-p-9781509536443) — Bruns, A. (2019). *Polity Press*
@@ -54,3 +51,5 @@ related_reaction:
 **Mechanism:** [[Echo Chamber]] · [[Microtargeting]]
 **Consequence:** [[Echo Chamber]] · [[Great Replacement]]
 **Reaction:** [[AI Literacy]] · [[Slow Media]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

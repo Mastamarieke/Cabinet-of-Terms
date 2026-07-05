@@ -36,9 +36,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [**Year in a word: Bro-caster**](https://www.ft.com/content/a942fa6a-36d6-47be-a449-9359cdfcccfa?utm_source=chatgpt.com) — Financial Times (2024), _Financial Times_.  
 - [Bro wave: Podcast personalities and masculinity**](https://www.themonthly.com.au/november-2024/arts-and-letters/bro-wave-podcast-personalities-and-masculinity?utm_source=chatgpt.com) — Chingaipe, S. (2024), _The Monthly_.  
@@ -55,3 +52,5 @@ related_reaction:
 **Mechanism:** [[Broligarchy]] · [[Parasocial Relationship]]
 **Consequence:** [[Filter Bubble]] · [[Echo Chamber]]
 **Reaction:** [[AI Literacy]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

@@ -37,9 +37,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [The Battle for Your Brain: Defending the Right to Think Freely in the Age of Neurotechnology](https://www.amazon.com/Battle-Your-Brain-Defending-Neurotechnology/dp/1250272955) — Farahany, N. A. (2023). _St. Martin’s Press_ — on neurotechnology, cognitive liberty, brain data, and the emerging politics
 - [Neuralink Human Trial](https://neuralink.com/blog/prime-study-progress-update/) — Neuralink (2024)
@@ -54,3 +51,5 @@ related_reaction:
 **Mechanism:** [[Cybernetic Collective]] · [[Cyborg Musk]]
 **Consequence:** [[Technofeudalism]] · [[Muskism]]
 **Reaction:** [[Brussels Effect]] · [[VSD (Value Sensitive Design)]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

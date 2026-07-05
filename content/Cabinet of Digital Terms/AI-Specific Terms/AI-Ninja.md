@@ -36,9 +36,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [Prompt engineering](c) — Wikipedia (primary: see ACL and NeurIPS prompt engineering papers 2022–2024)
 - 
@@ -53,3 +50,5 @@ related_reaction:
 **Mechanism:** [[Prompt Engineer]] · [[Deskilling]]
 **Consequence:** [[AI Dependency]] · [[Cognitive Offloading]]
 **Reaction:** [[AI Literacy]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

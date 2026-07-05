@@ -37,9 +37,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [Computational Propaganda: Political Parties, Politicians, and Political Manipulation on Social Media](https://academic.oup.com/book/25859) — Woolley, S. & Howard, P. (2018). _Oxford University Press_
 - [Inside the Macedonian Fake-News Complex](https://www.wired.com/2017/02/veles-macedonia-fake-news/) — Subramanian, S. (2017). _WIRED_
@@ -56,3 +53,5 @@ related_reaction:
 **Mechanism:** [[Recommender Systems]] · [[Microtargeting]]
 **Consequence:** [[Great Replacement]] · [[QAnon]]
 **Reaction:** [[Deplatforming]] · [[Fact Checker]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

@@ -37,9 +37,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [familygoals: Family Influencers, Calibrated Amateurism, and Justifying Young Digital Labor](https://doi.org/10.1177/2056305117707191) — Abidin, C. (2017). _Social Media + Society_
 - [Child Influencers: How Children Become Entangled with Social Media Fame](https://books.google.com/books/about/Child_Influencers.html?id=EdexEQAAQBAJ) — Abidin, C. (2026). _Polity Press_
@@ -56,3 +53,5 @@ related_reaction:
 **Mechanism:** [[Momfluencer]] · [[Family Vlogging]]
 **Consequence:** [[Parasocial Relationship]] · [[Online Grooming]]
 **Reaction:** [[Brussels Effect]] · [[VSD (Value Sensitive Design)]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

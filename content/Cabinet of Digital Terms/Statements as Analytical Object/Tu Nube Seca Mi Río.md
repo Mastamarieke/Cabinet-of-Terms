@@ -37,9 +37,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [Data centres and water consumption in Spain](https://www.eldiario.es/sociedad/nube-seca-rios-vecinos-castilla-la-mancha-plantan-cara-grandes-tecnologicas_1_10276391.html) — El Diario (2023)
 - [Data Center Water Usage](https://doi.org/10.1038/s41545-021-00101-w) — Mytton, D. (2021). *npj Clean Water*
@@ -54,3 +51,5 @@ related_reaction:
 **Mechanism:** [[Sacrifice Zones]] · [[Externalized Costs]]
 **Consequence:** [[Sacrifice Zones]] · [[Digital Colonialism]]
 **Reaction:** [[Brussels Effect]] · [[AI Literacy]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

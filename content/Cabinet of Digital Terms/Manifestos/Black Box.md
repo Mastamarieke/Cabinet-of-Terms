@@ -36,9 +36,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [The Black Box Society: The Secret Algorithms That Control Money and Information](https://www.hup.harvard.edu/books/9780674970847) — Pasquale, F. (2015). _Harvard University Press_
 - [Science in Action](https://www.hup.harvard.edu/catalog.php?isbn=9780674792913) — Latour, B. (1987). *Harvard University Press*
@@ -53,3 +50,5 @@ related_reaction:
 **Mechanism:** [[Unblackboxing]] · [[Algorithmic Violence]]
 **Consequence:** [[Algorithmic Violence]] · [[AI Dependency]]
 **Reaction:** [[Unblackboxing]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

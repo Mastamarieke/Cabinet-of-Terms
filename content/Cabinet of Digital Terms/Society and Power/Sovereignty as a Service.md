@@ -37,9 +37,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [The Palantir Problem](https://doi.org/10.2139/ssrn.3942399) — Brayne, S. (2021). *SSRN*
 - [Crack-Up Capitalism](https://www.penguinrandomhouse.com/books/699131/crack-up-capitalism-by-quinn-slobodian/) — Slobodian, Q. (2023). *Metropolitan Books*
@@ -54,3 +51,5 @@ related_reaction:
 **Mechanism:** [[Cybernetic Governance]] · [[CLOUD Act]]
 **Consequence:** [[Technofeudalism]] · [[Muskism]]
 **Reaction:** [[Brussels Effect]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

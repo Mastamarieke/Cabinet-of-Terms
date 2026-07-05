@@ -37,9 +37,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [Homo Deus](https://www.ynharari.com/book/homo-deus/) — Harari, Y.N. (2016). *Harvill Secker*
 - [Automating Inequality](https://us.macmillan.com/books/9781250074317/automatinginequality) — Eubanks, V. (2018). *St. Martin's Press* — on what data-driven systems miss
@@ -54,3 +51,5 @@ related_reaction:
 **Mechanism:** [[Data Brokers]] · [[Algorithmic Violence]]
 **Consequence:** [[Algorithmic Violence]] · [[Privacy as a Premium]]
 **Reaction:** [[Situated Knowledge]] · [[AI Literacy]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

@@ -39,9 +39,6 @@ The stakes of the confusion are concrete: doom trolling monopolises attention on
 **See also:** [[Doomerism]] · [[Longtermism]] · [[The Singularity]] · [[AGI]] · [[Mimetic Desire]] · [[Digital Frankenstein]] · [[Surveillance Capitalism]]
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN University of Applied Sciences, 2026.*
-
 **Read more:**
 - Dear AI Companies, the Doom Trolling Needs to Stop — **Newport, C.** (2026). *The New York Times*
 - Dear AI Companies: Stop the "Doom Trolling" — **Newport, C.** (2026). *Cal Newport Blog / Deep Questions Podcast*
@@ -59,3 +56,5 @@ The stakes of the confusion are concrete: doom trolling monopolises attention on
 **Cause:** [[Longtermism]] · [[The Singularity]]
 **Mechanism:** [[AGI]] · [[Doomerism]]
 **Reaction:** [[AI Literacy]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

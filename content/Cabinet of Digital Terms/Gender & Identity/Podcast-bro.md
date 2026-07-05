@@ -38,11 +38,10 @@ An American study by the USC Annenberg Inclusion Initiative found that popular p
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [Media Manipulation and Disinformation Online](https://datasociety.net/library/media-manipulation-and-disinfo-online/) — Marwick, A. & Lewis, R. (2017). *Data & Society*
 - [Alphas, Betas, and Incels](https://doi.org/10.1177/1097184x17706401) — Ging, D. (2019). *Men and Masculinities*
 - [Inequality in Popular Podcasts? An Examination of Gender & Race/Ethnicity](https://assets.uscannenberg.org/docs/aii-inequality-Podcasts-2025-11-06.pdf). Smith, S. L., & the Annenberg Inclusion Initiative. (2025).
 - [The Future of Podcasting is Women](https://www.acast.com/en-gb/blog/the-future-of-podcasting-is-women). Davies, M., & Aveillan, J. (2026). Acast.
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

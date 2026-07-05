@@ -37,9 +37,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [Exploring the dimensions of nomophobia: Development and validation of a self-reported questionnaire](https://www.sciencedirect.com/science/article/abs/pii/S0747563215001806) — Yildirim, C. & Correia, A.P. (2015). *Computers in Human Behavior, Volume 49 *
 - [Nomophobia: Is the Fear of Being Without a Smartphone Associated with Problematic Use?](https://pubmed.ncbi.nlm.nih.gov/32824979/)— Kaviani, M., Mousavi, S. A., et al. (2020). _International Journal of Environmental Research and Public Health, 17_(15), 5496.
@@ -54,3 +51,5 @@ related_reaction:
 **Mechanism:** [[Phantom Vibration Syndrome]] · [[AI Dependency]]
 **Consequence:** [[Technostress]] · [[Cognitive Surrender]]
 **Reaction:** [[Digital Detox]] · [[JOMO]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

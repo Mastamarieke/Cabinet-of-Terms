@@ -37,9 +37,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [There’s a new kind of coding I call “vibe coding”](https://x.com/karpathy/status/1886192184808149383) — Karpathy, A. (2025). _X / Twitter_
 - [Not all AI-assisted programming is vibe coding (but vibe coding rocks)](https://simonwillison.net/2025/Mar/19/vibe-coding/) — Willison, S. (2025). _Simon Willison’s Weblog_
@@ -57,3 +54,5 @@ related_reaction:
 **Mechanism:** [[Prompt Engineer]] · [[Deskilling]]
 **Consequence:** [[Deskilling]] · [[Cognitive Surrender]]
 **Reaction:** [[AI Literacy]] · [[Red Teamer]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

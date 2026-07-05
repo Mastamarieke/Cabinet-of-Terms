@@ -36,11 +36,9 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [The Buffalo Attack – An Analysis of the Manifesto](https://icct.nl/publication/buffalo-attack-analysis-manifesto) — Abbas, T., Bolaños Somoano, I., Cook, J., Frens, I., Klein, G.R., & McNeil-Willson, R., International Centre for Counter-Terrorism (2022) — _gratis_
 - [The Great Replacement: The Violent Consequences of Mainstreamed Extremism](https://www.isdglobal.org/wp-content/uploads/2019/07/The-Great-Replacement-The-Violent-Consequences-of-Mainstreamed-Extremism-by-ISD.pdf) — Davey, J. & Ebner, J., _Institute for Strategic Dialogue (2019)_ — _gratis PDF_
 - [What is the 'great replacement theory'? A scholar of race relations explains](https://theconversation.com/what-is-the-great-replacement-theory-a-scholar-of-race-relations-explains-224835) — Coates, R. _The Conversation (2022)_
 
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

@@ -45,9 +45,6 @@ Once you see **Chad** as a normative standard rather than slang, you see that th
 - [Because Internet: Understanding the New Rules of Language**](https://www.penguinrandomhouse.com/books/540664/because-internet-by-gretchen-mcculloch/?utm_source=chatgpt.com) — McCulloch, G. (2019), _Riverhead Books / Penguin Random House_.
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 ---
 
 ## Navigation
@@ -61,3 +58,5 @@ Once you see **Chad** as a normative standard rather than slang, you see that th
 
 **Public entry:** this document
 **Deep analysis:** *in production*
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

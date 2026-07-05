@@ -37,9 +37,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [A History of Transhumanist Thought](https://jetpress.org/volume14/bostrom.pdf) — Bostrom, N. (2005). _Journal of Evolution and Technology_ — foundational historical overview tracing the philosophical and cultural origins of transhumanism 
 - [The Transhumanist FAQ](https://nickbostrom.com/views/transhumanist.pdf) — Bostrom, N. & Pearce, D. (2005). _World Transhumanist Association_ — influential overview of transhumanist philosophy, enhancement technologies, posthumanism, and morphological freedom 
@@ -71,3 +68,5 @@ related_reaction:
 **Mechanism:** [[Mind Uploading]] · [[Neuralink]]
 **Consequence:** [[Longtermism]] · [[Fortress Futurism]]
 **Reaction:** [[Cyberfeminism]] · [[Situated Knowledge]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

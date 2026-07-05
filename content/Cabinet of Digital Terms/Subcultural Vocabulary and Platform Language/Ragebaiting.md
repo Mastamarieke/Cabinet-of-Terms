@@ -36,9 +36,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [The Oxford Word of the Year 2025 is rage bait**](https://corp.oup.com/news/the-oxford-word-of-the-year-2025-is-rage-bait/?utm_source=chatgpt.com) — Oxford University Press (2025), _Oxford University Press_.
 - [The Facebook Files](https://www.wsj.com/articles/the-facebook-files-11631713039) — Horwitz, J. (2021). *Wall Street Journal*
@@ -55,3 +52,5 @@ related_reaction:
 **Mechanism:** [[Flood the Zone]]
 **Consequence:** [[Flood the Zone]] · [[Dehumanization]]
 **Reaction:** [[AI Literacy]] · [[Slow Media]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

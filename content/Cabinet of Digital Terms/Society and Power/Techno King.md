@@ -37,9 +37,6 @@ The pattern repeats across Musk’s public persona and platform governance. He f
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [Tesla SEC Filing: Techno King](https://www.sec.gov/Archives/edgar/data/1318605/000119312521077271/d113125ddef14a.htm) — SEC (2021)
 - [Elon Musk](https://www.simonandschuster.com/books/Elon-Musk/Walter-Isaacson/9781982181284) — Isaacson, W. (2023). *Simon & Schuster*
@@ -56,3 +53,5 @@ The pattern repeats across Musk’s public persona and platform governance. He f
 **Mechanism:** [[Financial Fabulism]] · [[Hubris Syndrome]]
 **Consequence:** [[Muskism]]
 **Reaction:** [[Brussels Effect]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

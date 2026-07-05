@@ -38,9 +38,6 @@ AI turns **personal branding** into a semi-automated form of self-presentation: 
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [The Brand Called You](https://www.fastcompany.com/28905/brand-called-you) — Peters, T. (1997). *Fast Company*
 - [(Not) Getting Paid to Do What You Love: Gender, Social Media, and Aspirational Work**](https://www.researchgate.net/publication/321127402_Not_getting_paid_to_do_what_you_love_Gender_social_media_and_aspirational_work?utm_source=chatgpt.com) — Duffy, B. E. (2017), _Yale University Press_. 
@@ -57,3 +54,5 @@ AI turns **personal branding** into a semi-automated form of self-presentation: 
 **Mechanism:** [[Curated Life]] · [[Highlight Reel]]
 **Consequence:** [[Imposter Syndrome]] · [[Comparison Culture]]
 **Reaction:** [[JOMO]] · [[Deinfluencing]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

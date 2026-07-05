@@ -36,9 +36,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [How Customers Think: Essential Insights into the Mind of the Market](https://www.amazon.com/How-Customers-Think-Essential-Insights/dp/1578518261) — Zaltman, G. (2003). _Harvard Business School Press_
 - [Neuromarketing For Dummies](https://www.amazon.fr/Neuromarketing-Dummies-Stephen-Genco-ebook/dp/B00EO3ZIIS) — Genco, S., Pohlmann, A. & Steidl, P. (2013). _Wiley_
@@ -53,3 +50,5 @@ related_reaction:
 **Mechanism:** [[Dark Patterns]] · [[Nudging]]
 **Consequence:** [[Cognitive Surrender]]
 **Reaction:** [[Fair Patterns]] · [[VSD (Value Sensitive Design)]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

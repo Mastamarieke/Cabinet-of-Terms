@@ -35,9 +35,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [Texting Thumb, Trigger Finger, and Other Smartphone Injuries](https://www.carolynbarbermd.com/texting-thumb-trigger-finger-gamers-thumb-and-other-smartphone-injuries/) — Barber, C.*Scientific American* (2021)
 - [Smartphone pinky and other injuries caused by excessive phone use](https://theconversation.com/smartphone-pinky-and-other-injuries-caused-by-excessive-phone-use-148861) — Taylor, A. (2020). *The Conversation*
@@ -52,3 +49,5 @@ related_reaction:
 **Mechanism:** [[Tech Neck]] · [[Nomophobia]]
 **Consequence:** [[Technostress]]
 **Reaction:** [[Digital Detox]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

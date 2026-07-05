@@ -37,9 +37,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [The Deepening Divide: Inequality in the Information Society](https://sk.sagepub.com/book/mono/the-deepening-divide/toc) — van Dijk, J. (2005). *SAGE*
 -  [# The **Digital Divide**:  Facing a Crisis or Creating a Myth?](https://mitpress.mit.edu/9780262531931/the-digital-divide/).  van Dijk, J (2020) *MIT Press_
@@ -57,3 +54,5 @@ related_reaction:
 **Mechanism:** [[Digital Exclusion]] · [[Ageism (Digital)]]
 **Consequence:** [[Digital Exclusion]] · [[Tech Abandonment]]
 **Reaction:** [[Universal Design]] · [[Inclusive Design]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

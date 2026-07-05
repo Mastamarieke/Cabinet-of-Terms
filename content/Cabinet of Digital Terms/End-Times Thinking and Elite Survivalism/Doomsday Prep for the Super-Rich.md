@@ -37,9 +37,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [Survival of the Richest](https://wwnorton.com/books/survival-of-the-richest) — Rushkoff, D. (2022). *W.W. Norton*
 - [Bunker: Building for the End Times](https://www.press.uchicago.edu/ucp/books/book/chicago/B/bo48668894.html) — Garrett, B.L. (2020). *University of Chicago Press*
@@ -54,3 +51,5 @@ related_reaction:
 **Mechanism:** [[Seasteading]] · [[Prepperism]]
 **Consequence:** [[Fortress Futurism]] · [[Technofeudalism]]
 **Reaction:** [[Situated Knowledge]] · [[Brussels Effect]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

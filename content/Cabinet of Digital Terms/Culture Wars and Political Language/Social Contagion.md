@@ -37,10 +37,9 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - Parent reports of adolescents and young adults perceived to show signs of a rapid onset of gender dysphoria — Lisa Littman (2018). _PLOS ONE_
 - [Parent reports of adolescents and young adults perceived to show signs of a rapid onset of gender dysphoria](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0202330)— Lisa Littman (2018). _PLOS ONE.
 - [Methodological Critique of Littman’s (2018) Parental-Respondents Accounts of “Rapid-Onset Gender Dysphoria”](https://link.springer.com/article/10.1007/s10508-019-1453-2) — Arjee Restar (2020). _Archives of Sexual Behavior_
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

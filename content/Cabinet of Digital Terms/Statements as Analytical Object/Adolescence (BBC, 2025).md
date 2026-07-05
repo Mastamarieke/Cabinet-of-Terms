@@ -37,9 +37,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [Adolescence](https://www.bbc.co.uk/programmes/m0027sw4) — Thorne, J. & Graham, S. (2025). *BBC One*
 - [Alphas, Betas, and Incels](https://doi.org/10.1177/1097184x17706401) — Ging, D. (2019). *Men and Masculinities* — the academic research the drama dramatises
@@ -56,3 +53,5 @@ related_reaction:
 **Mechanism:** [[Red Pill]] · [[Incel]]
 **Consequence:** [[Great Replacement]] · [[Dehumanization]]
 **Reaction:** [[AI Literacy]] · [[Deplatforming]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

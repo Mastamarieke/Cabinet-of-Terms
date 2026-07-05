@@ -38,9 +38,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN University of Applied Sciences, 2026.*
-
 **Read more:**
 - [Het heerlijke gevoel dat je aan de goede kant staat](https://deongelooflijke.substack.com/p/het-heerlijke-gevoel-dat-je-aan-de) — **Mulder, F.** (2026). *De Ongelooflijke*
 - [Mimetic Desire 101](https://lukeburgis.com/mimetic-desire-101/) — **Burgis, L.** (2021). *lukeburgis.com*
@@ -60,3 +57,5 @@ related_reaction:
 **Mechanism:** [[Comparison Culture]] · [[Influencer]]
 **Consequence:** [[FOMO]] · [[Parasocial Relationship]]
 **Reaction:** [[Deinfluencing]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

@@ -36,9 +36,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [Mismatch: How Exclusion Shapes Design](https://mitpress.mit.edu/9780262539487/) — Holmes, K. (2018). *MIT Press*
 - [Inclusive Design Toolkit](https://www.inclusivedesigntoolkit.com) — Cambridge Engineering Design Centre (2013)
@@ -56,3 +53,5 @@ related_reaction:
 **Mechanism:** [[Universal Design]] · [[Accessibility]]
 **Consequence:** [[Digital Divide]]
 **Reaction:** [[VSD (Value Sensitive Design)]] · [[Universal Design]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

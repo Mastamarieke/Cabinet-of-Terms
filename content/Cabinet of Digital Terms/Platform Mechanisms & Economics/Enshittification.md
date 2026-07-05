@@ -37,9 +37,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [The 'Enshittification' of TikTok](https://www.wired.com/story/tiktok-platforms-cory-doctorow/) — Doctorow, C. (2023). *Wired*
 - [The Internet Con](https://www.versobooks.com/products/3035-the-internet-con) — Doctorow, C. (2023). *Verso Books*
@@ -54,3 +51,5 @@ related_reaction:
 **Mechanism:** [[Dark Patterns]] · [[Recommender Systems]]
 **Consequence:** [[Deskilling]] · [[Cognitive Surrender]]
 **Reaction:** [[Deplatforming]] · [[Brussels Effect]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

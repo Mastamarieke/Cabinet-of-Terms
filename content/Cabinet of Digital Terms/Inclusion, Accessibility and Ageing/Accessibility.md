@@ -37,9 +37,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [Web Content Accessibility Guidelines (WCAG) 2.1](https://www.w3.org/TR/WCAG21/) — W3C Web Accessibility Initiative (2018)
 - [A Web for Everyone](https://rosenfeldmedia.com/books/a-web-for-everyone/) — Horton, S. & Quesenbery, W. (2014). *Rosenfeld Media*
@@ -54,3 +51,5 @@ related_reaction:
 **Mechanism:** [[Universal Design]] · [[Inclusive Design]]
 **Consequence:** [[Digital Divide]] · [[Tech Abandonment]]
 **Reaction:** [[Universal Design]] · [[Inclusive Design]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

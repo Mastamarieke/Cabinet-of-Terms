@@ -36,9 +36,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [Child Sexual Exploitation and Online Grooming](https://www.nspcc.org.uk/what-is-child-abuse/types-of-abuse/child-sexual-exploitation/) — NSPCC (updated annually)
 - [Age Appropriate Design Code](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/childrens-information/childrens-code-guidance-and-resources/) — ICO (2021)
@@ -53,3 +50,5 @@ related_reaction:
 **Mechanism:** [[Catfishing]] · [[Kidfluencer]]
 **Consequence:** [[Sexting]]
 **Reaction:** [[Brussels Effect]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

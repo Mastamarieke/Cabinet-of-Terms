@@ -35,9 +35,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [Pokémon Go Data “Adding Amplitude to War Is Obviously an Issue,” Niantic Exec Says](https://www.404media.co/pokemon-go-data-adding-amplitude-to-war-is-obviously-an-issue-niantic-exec-says/) — Koebler, J. (2025). _404 Media_
 - [Pokemon Go Developer Doesn't Want Its AI Mapping Data Used For War](https://www.gamespot.com/articles/pokemon-go-developer-doesnt-want-its-ai-mapping-data-used-for-war/1100-6528057/) — Marnell, B. (2024). _GameSpot_
@@ -53,3 +50,5 @@ related_reaction:
 **Mechanism:** [[Military-Industrial Complex]] · [[Surveillance Capitalism]]
 **Consequence:** [[Sacrifice Zones]] · [[Digital-Military-Industrial Complex]]
 **Reaction:** [[Brussels Effect]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

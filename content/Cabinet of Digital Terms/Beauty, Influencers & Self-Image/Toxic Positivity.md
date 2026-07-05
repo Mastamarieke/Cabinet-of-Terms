@@ -35,9 +35,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [Emotional Agility](https://susandavid.com/book/) — David, S. (2016). *Avery*
 - [Toxic Positivity: Keeping It Real](https://books.google.nl/books/about/Toxic_Positivity.html?id=aNstEAAAQBAJ&redir_esc=y) — Brans, K. et al. (2013). *Journal of Consumer Research*
@@ -52,3 +49,5 @@ related_reaction:
 **Mechanism:** [[Highlight Reel]] · [[Curated Life]]
 **Consequence:** [[Comparison Culture]]
 **Reaction:** [[Deinfluencing]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

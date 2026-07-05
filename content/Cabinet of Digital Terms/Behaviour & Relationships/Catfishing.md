@@ -35,9 +35,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [Catfish: The TV Show](https://www.cinema.nl/db/6950804-catfish) —   
 Schulman, A., Joost, H. *MTV (2012) — as primary cultural document*
@@ -53,3 +50,5 @@ Schulman, A., Joost, H. *MTV (2012) — as primary cultural document*
 **Mechanism:** [[Ghosting]] · [[Online Grooming]]
 **Consequence:** [[Phatic Interaction]]
 **Reaction:** [[AI Literacy]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

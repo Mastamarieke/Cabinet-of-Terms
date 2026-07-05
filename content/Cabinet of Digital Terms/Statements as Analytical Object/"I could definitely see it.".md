@@ -34,9 +34,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [Science in Action](https://www.hup.harvard.edu/catalog.php?isbn=9780674792913) — Latour, B. (1987). *Harvard University Press* — on how facts and technologies are stabilised through statements
 - [The Future of Geospatial Intelligence with AI and AR](https://www.nianticspatial.com/blog/gdc-2025-niantic-spatial-computing-ar-recap) — Goldstein, C. (2025). _Niantic Spatial_
@@ -51,3 +48,5 @@ related_reaction:
 **Mechanism:** [[Military-Industrial Complex]] · [[Obfuscation]]
 **Consequence:** [[Digital-Military-Industrial Complex]]
 **Reaction:** [[Brussels Effect]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

@@ -36,9 +36,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [Situated Knowledges](https://doi.org/10.2307/3178066) — Haraway, D. (1988). *Feminist Studies*
 - [Simians, Cyborgs, and Women](https://www.routledge.com/Simians-Cyborgs-and-Women-The-Reinvention-of-Nature/Haraway/p/book/9780415903875) — Haraway, D. (1991). *Routledge*
@@ -53,3 +50,5 @@ related_reaction:
 **Mechanism:** [[Unblackboxing]] · [[Black Box]]
 **Consequence:** [[Informatics of Domination]]
 **Reaction:** [[Cyborg]] · [[Cyberfeminism]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

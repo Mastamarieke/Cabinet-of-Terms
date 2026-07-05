@@ -37,9 +37,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [Deepfakes and the Epistemic Apocalypse](https://doi.org/10.1007/s11023-020-09547-w) — Vaccari, C. & Chadwick, A. (2020). *Minds and Machines*
 - [The Creation and Detection of Deepfakes](https://doi.org/10.1145/3425780) — Tolosana, R. et al. (2020). *ACM Computing Surveys*
@@ -54,3 +51,5 @@ related_reaction:
 **Mechanism:** [[Synthetic Generation]] · [[Microtargeting]]
 **Consequence:** [[Dehumanization]] · [[Great Replacement]]
 **Reaction:** [[AI Literacy]] · [[Fact Checker]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

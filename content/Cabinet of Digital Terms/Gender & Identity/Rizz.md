@@ -35,9 +35,8 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [Rizz — Oxford Word of the Year 2023](https://languages.oup.com/word-of-the-year/2023/) — Oxford University Press (2023)
 - [What Does Rizz Mean? All About the Slang Term and Where It Came From](https://people.com/what-does-rizz-mean-8726620). Bellusci, A. (2025). _People_.
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

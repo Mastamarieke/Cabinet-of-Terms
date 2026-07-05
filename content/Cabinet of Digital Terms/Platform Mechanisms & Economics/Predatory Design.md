@@ -37,9 +37,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [Age Appropriate Design: A Code of Practice for Online Services](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/childrens-information/childrens-code-guidance-and-resources/age-appropriate-design-a-code-of-practice-for-online-services//) — ICO (2021). *UK Information Commissioner's Office*
 - [An Ontology of Dark Patterns](https://doi.org/10.1145/3613904.3642436) — Gray, C.M. et al. (2024). *ACM CHI*
@@ -55,3 +52,5 @@ related_reaction:
 **Mechanism:** [[Gamification Creep]] · [[Deceptive Design]]
 **Consequence:** [[Gaming Disorder]] · [[Body Dysmorphic Disorder]]
 **Reaction:** [[VSD (Value Sensitive Design)]] · [[Fair Patterns]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

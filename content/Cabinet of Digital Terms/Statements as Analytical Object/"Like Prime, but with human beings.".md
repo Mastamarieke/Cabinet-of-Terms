@@ -35,9 +35,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [Moral Disengagement](https://doi.org/10.1177/0963721413496654) — Bandura, A. (2002). *Journal of Moral Education* — on bureaucratic language as moral disengagement mechanism
 - - [Ice director wants to run deportations like ‘Amazon Prime for human beings’](https://www.theguardian.com/us-news/2025/apr/09/ice-todd-lyons-deporation-amazon) — Dunbar, M. (2025). _The Guardian_
@@ -56,3 +53,5 @@ related_reaction:
 **Mechanism:** [[Dehumanization]]
 **Consequence:** [[Dehumanization]] · [[Algorithmic Violence]]
 **Reaction:** [[Brussels Effect]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

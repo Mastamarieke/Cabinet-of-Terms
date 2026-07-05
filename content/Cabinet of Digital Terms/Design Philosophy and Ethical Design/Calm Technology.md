@@ -36,9 +36,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [Designing Calm Technology](https://calmtech.com/papers/designing-calm-technology.html) — Weiser, M. & Brown, Seely, J.. (1995). *Xerox PARC*
 - [Calm Technology](https://www.oreilly.com/library/view/calm-technology/9781491925874/) — Case, A. (2015). *O'Reilly Media*
@@ -53,3 +50,5 @@ related_reaction:
 **Mechanism:** [[VSD (Value Sensitive Design)]] · [[Fair Patterns]]
 **Consequence:** [[Cognitive Surrender]]
 **Reaction:** [[Digital Detox]] · [[Mindful Scrolling]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

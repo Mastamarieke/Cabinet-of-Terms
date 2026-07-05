@@ -36,9 +36,8 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [Becoming Evil](https://global.oup.com/academic/product/becoming-evil-9780195314564) — Waller, J. (2002). *Oxford University Press*
 - [Genocide Watch — Ten Stages of Genocide](https://www.genocidewatch.com/tenstages) — Stanton, G. (1996/2016). *Genocide Watch*
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

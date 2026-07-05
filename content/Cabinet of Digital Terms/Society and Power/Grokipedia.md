@@ -37,9 +37,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [Stochastic Parrots](https://doi.org/10.1145/3442188.3445922) — Bender, E.M. et al. (2021). *ACM FAccT* — on what AI-generated text is and is not
 - [Grok and xAI](https://x.ai) — xAI (2023–)
@@ -54,3 +51,5 @@ related_reaction:
 **Mechanism:** [[Flood the Zone]] · [[Synthetic Generation]]
 **Consequence:** [[Flood the Zone]] · [[Dehumanization]]
 **Reaction:** [[AI Literacy]] · [[Fact Checker]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

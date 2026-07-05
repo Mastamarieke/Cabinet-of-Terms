@@ -37,9 +37,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [Addictive behaviours: Gaming disorder](https://www.who.int/news-room/q-a-detail/addictive-behaviours-gaming-disorder) — World Health Organization (2018)
 - [(Internet) Gaming Disorder in DSM-5 and ICD-11: A Case of the Glass Half Empty or Half Full](https://pmc.ncbi.nlm.nih.gov/articles/PMC8107956/) — Borges, G., Orozco, R., Benjet, C. et al. (2021). _Canadian Journal of Psychiatry_
@@ -55,3 +52,5 @@ related_reaction:
 **Mechanism:** [[Loot Boxes]] · [[Screen Time]]
 **Consequence:** [[Technostress]] · [[Deskilling]]
 **Reaction:** [[Brussels Effect]] · [[VSD (Value Sensitive Design)]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

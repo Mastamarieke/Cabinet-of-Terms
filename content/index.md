@@ -212,7 +212,7 @@ A small number of people now control the infrastructure that everyone depends on
 
 The manosphere gave normative gender hierarchy a vocabulary, a ranking system, and a distribution network. This cluster maps terms that frame gender, attractiveness, and social status as measurable, ranked quantities — from SMV to tradwife, from looksmaxxing to incel.
 
-→ [[About Gender & Identity|About this cluster]]
+→ [About this cluster](Cabinet-of-Digital-Terms/Gender--and--Identity/)
 
 - [[Alpha Male]]
 - [[Blackpill]]

@@ -38,9 +38,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [Superintelligence: Paths, Dangers, Strategies](https://global.oup.com/academic/product/superintelligence-9780199678112) — Bostrom, N. (2014). _Oxford University Press_ 
 - [The Precipice: Existential Risk and the Future of Humanity](https://www.tobyord.com/book) — Ord, T. (2020). _Bloomsbury Publishing_
@@ -59,3 +56,5 @@ diummag.com/2025/01/31/the-failed-strategy-of-artificial-intelligence-doomers/)�
 **Mechanism:** [[Skynet]] · [[AGI]]
 **Consequence:** [[Longtermism]]
 **Reaction:** [[AI Literacy]] · [[Situated Knowledge]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

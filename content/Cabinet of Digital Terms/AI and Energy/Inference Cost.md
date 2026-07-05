@@ -35,9 +35,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [The growing energy footprint of artificial intelligence](https://www.sciencedirect.com/science/article/pii/S2542435123003653) — de Vries, A. (2023). *Joule*
 - [Making AI Less "Thirsty": Uncovering and Addressing the Secret Water Footprint of AI Models](https://arxiv.org/abs/2304.03271) — Li, P. et al. (2023). *arXiv*
@@ -52,3 +49,5 @@ related_reaction:
 **Mechanism:** [[Carbon Footprint of AI]] · [[Externalized Costs]]
 **Consequence:** [[Sacrifice Zones]]
 **Reaction:** [[Greenwashing]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

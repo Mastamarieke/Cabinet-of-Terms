@@ -39,9 +39,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [Deceptive Design — About Harry Brignull](https://www.deceptive.design/about-us) — Brignull, H. (2010/2023). *deceptive.design*
 - [An Ontology of Dark Patterns](https://doi.org/10.1145/3613904.3642436) — Gray, C.M., Bielova, N., Santos, C. & Mildner, T. (2024). *ACM CHI*
@@ -56,3 +53,5 @@ related_reaction:
 **Mechanism:** [[Deceptive Design]] · [[Nudging]] · [[Gamification Creep]]
 **Consequence:** [[Cognitive Surrender]] · [[Vendor Lock-in]]
 **Reaction:** [[Fair Patterns]] · [[VSD (Value Sensitive Design)]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

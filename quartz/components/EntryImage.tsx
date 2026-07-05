@@ -8,15 +8,17 @@ const EntryImage: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
   const imageName = fm?.entry_image as string | undefined
   if (!imageName) return null
 
+  const caption = fm?.entry_image_caption as string | undefined
   const slug = fileData.slug!
   const pageDir = slug.split("/").slice(0, -1).join("/")
   const baseDir = pathToRoot(slug)
   const src = joinSegments(baseDir, pageDir, imageName)
 
   return (
-    <div class="entry-image">
-      <img src={src} alt="" />
-    </div>
+    <figure class="entry-image">
+      <img src={src} alt={caption ?? ""} />
+      {caption && <figcaption>{caption}</figcaption>}
+    </figure>
   )
 }
 

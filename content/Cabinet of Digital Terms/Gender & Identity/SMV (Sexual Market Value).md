@@ -37,10 +37,9 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [Alphas, Betas, and Incels](https://doi.org/10.1177/1097184x17706401) — Ging, D. (2019). *Men and Masculinities*
 - [Angry White Men](https://www.publicaffairsbooks.com/titles/michael-kimmel/angry-white-men/9781568589619/) — Kimmel, M. (2013). *PublicAffairs*
   [Perceived Motives and Mental Health Characteristics of the **Incel** Men: What **Incel** Men Think Women Value in a Mate vs. Women’s Actual Mate Preferences](https://essay.utwente.nl/81872/1/Kreuzberg_BA_Psychology.pdf) — Kreuzberg, M. S. (2020). _University of Twente_
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

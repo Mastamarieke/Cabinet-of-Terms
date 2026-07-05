@@ -41,9 +41,6 @@ Today, BCIs are increasingly understood not merely as medical devices, but as in
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [The Battle for Your Brain: Defending the Right to Think Freely in the Age of Neurotechnology](https://www.amazon.com/Battle-Your-Brain-Defending-Neurotechnology/dp/1250272955) — Farahany, N. A. (2023). _St. Martin’s Press_
 - [Neuralink](https://neuralink.com/?utm_source=chatgpt.com) — Musk, E. et al. (2016–present). _Neurotechnology company developing implantable brain–computer interfaces; first human implant announced in 2024_
@@ -71,3 +68,5 @@ Today, BCIs are increasingly understood not merely as medical devices, but as in
 **Mechanism:** [[Biometric Surveillance]] · [[Mind Uploading]]
 **Consequence:** [[Surveillance Capitalism]] · [[Technofeudalism]]
 **Reaction:** [[VSD (Value Sensitive Design)]] · [[Brussels Effect]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

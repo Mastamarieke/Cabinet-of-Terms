@@ -38,9 +38,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [Bad Blood](https://www.penguinrandomhouse.com/books/547228/bad-blood-by-john-carreyrou/) — Carreyrou, J. (2018). *Knopf* — on Theranos as the criminal endpoint of the genre
 - [The Cult of We](https://www.penguinrandomhouse.com/books/622329/the-cult-of-we-by-eliot-brown-and-maureen-farrell/) — Brown, E. & Farrell, M. (2021). *Crown* — on WeWork as documented fabulism
@@ -59,3 +56,5 @@ related_reaction:
 **Mechanism:** [[Techno King]] · [[Grifters]]
 **Consequence:** [[Technofeudalism]] · [[Memecoin]]
 **Reaction:** [[Fact Checker]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

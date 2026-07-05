@@ -35,9 +35,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [The Age of Surveillance Capitalism](https://www.publicaffairsbooks.com/titles/shoshana-zuboff/the-age-of-surveillance-capitalism/9781610395694/) — Zuboff, S. (2019). *PublicAffairs*
 - [Pokémon Go created a 3D map of the world – but for what?](https://torment-nexus.mathewingram.com/pokemon-go-created-a-3d-map-of-the-world-but-for-what/) — Ingram, M. (2026). _The Torment Nexus_
@@ -52,3 +49,5 @@ related_reaction:
 **Mechanism:** [[Bot Farms]] · [[Microtargeting]]
 **Consequence:** [[Digital-Military-Industrial Complex]] · [[Sacrifice Zones]]
 **Reaction:** [[AI Literacy]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

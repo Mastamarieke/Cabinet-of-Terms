@@ -34,9 +34,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN University of Applied Sciences, 2026.*
-
 **Read more:**
 - [Adversarial Design](https://mars1980.github.io/resources/AdversarialDesign2.pdf) — DiSalvo, C. (2012). *MIT Press*
 - [Design, Democracy and Agonistic Pluralism](https://www.drs2010.umontreal.ca/data/PDF/031.pdf) — DiSalvo, C. (2010). *Design Research Society*
@@ -51,3 +48,5 @@ related_reaction:
 **Mechanism:** [[Persuasive Technology]]
 **Consequence:** [[Unblackboxing]]
 **Reaction:** [[Fair Patterns]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

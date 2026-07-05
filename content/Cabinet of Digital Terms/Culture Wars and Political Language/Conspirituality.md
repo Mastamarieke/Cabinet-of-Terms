@@ -36,10 +36,8 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [The Emergence of Conspirituality](https://doi.org/10.1080/13537903.2011.539846) — Ward, C. & Voas, D. (2011). *Journal of Contemporary Religion*
 - [Conspirituality: How New Age Conspiracy Theories Became a Health Threat](https://www.publicaffairsbooks.com/titles/derek-beres/conspirituality/9781541703001/) — Beres, D., Remski, M., & Walker, J. (2023). _PublicAffairs_.
 
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

@@ -37,9 +37,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [Stop Clickbait: Crowdsourcing Detection of Clickbaits in Online News Media](https://doi.org/10.1109/ASONAM.2016.7752207) — Chakraborty, A. et al. (2016). *IEEE ASONAM*
 - [The Attention Merchants](https://www.penguinrandomhouse.com/books/234876/the-attention-merchants-by-tim-wu/) — Wu, T. (2016). *Knopf*
@@ -54,3 +51,5 @@ related_reaction:
 **Mechanism:** [[Ragebaiting]] · [[Empathy Exploit]]
 **Consequence:** [[Doomscrolling]] · [[AI Slop]]
 **Reaction:** [[Slow Media]] · [[Fact Checker]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

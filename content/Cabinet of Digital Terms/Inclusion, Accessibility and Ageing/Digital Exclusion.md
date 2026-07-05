@@ -37,9 +37,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [The Self-Reinforcing Effect of Digital and Social Exclusion: The Inequality Loop](https://www.sciencedirect.com/science/article/pii/S0736585322000855) — Ragnedda, M., Ruiu, M. L., & Addeo, F. (2022). _Telematics and Informatics, 72_, 101852
 - [Tackling Digital Exclusion Counter: Social Inequalities Through Digital Inclusion](https://mragnedda.wordpress.com/wp-content/uploads/2018/08/tackling-digital-exclusion-counter-social-inequalities-through-digital-inclusion.pdf "Tackling Digital Exclusion Counter Social Inequalities Through Digital Inclusion") Massimo Ragnedda (2018) in G. Muschert et al (eds) _[Global Agenda for Social Justice](https://www.sssp1.org/file/2018/Global_Agenda_for_Social_Justice.pdf)_, *Polity Press, pp 151-157.
@@ -56,3 +53,5 @@ related_reaction:
 **Mechanism:** [[Accessibility]] · [[Predatory Design]]
 **Consequence:** [[Tech Abandonment]] · [[Algorithmic Violence]]
 **Reaction:** [[Universal Design]] · [[Inclusive Design]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

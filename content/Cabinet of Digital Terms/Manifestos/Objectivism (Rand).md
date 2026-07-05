@@ -37,9 +37,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [Atlas Shrugged](https://www.penguinrandomhouse.com/books/296832/atlas-shrugged-centennial-ed-hc-by-ayn-rand/) — Rand, A. (1957). *Random House*
 - [From Ayn Rand to Silicon Valley](https://doi.org/10.1093/oxfordhb/9780190456368.013.11) — Metcalf, S. (2017). *The Guardian*
@@ -55,3 +52,5 @@ related_reaction:
 **Mechanism:** [[Technofeudalism]] · [[Fortress Futurism]]
 **Consequence:** [[Muskism]] · [[Digital Libertarianism]]
 **Reaction:** [[Cyberfeminism]] · [[Brussels Effect]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

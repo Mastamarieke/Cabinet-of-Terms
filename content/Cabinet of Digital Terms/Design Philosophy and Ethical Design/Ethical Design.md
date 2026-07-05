@@ -42,9 +42,6 @@ Monteiro's structural observation remains the sharpest: designers who work withi
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [Ethical Dimensions in Interaction Design](https://series.francoangeli.it/index.php/oa/catalog/download/1221/1301/6873?inline=1) — Postell, J. (2024). In *Designing Ethically in a Complex World*. Franco Angeli Open Access
 - [Ruined by Design](https://www.ruinedby.design/) — Monteiro, M. (2019). *Self-published* — on designer moral responsibility
@@ -60,3 +57,5 @@ Monteiro's structural observation remains the sharpest: designers who work withi
 **Mechanism:** [[VSD (Value Sensitive Design)]] · [[Fair Patterns]]
 **Consequence:** [[Fair Patterns]]
 **Reaction:** [[VSD (Value Sensitive Design)]] · [[Fair Patterns]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

@@ -36,9 +36,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [An Ontology of Dark Patterns](https://doi.org/10.1145/3613904.3642436) — Gray, C.M. et al. (2024). *ACM CHI* — on Intermediate Currency as dark pattern
 - [Age Appropriate Design: A Code of Practice for Online Services](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/childrens-information/childrens-code-guidance-and-resources/) — ICO (2021)
@@ -54,3 +51,5 @@ related_reaction:
 **Mechanism:** [[Loot Boxes]]
 **Consequence:** [[Gaming Disorder]] · [[Loot Boxes]]
 **Reaction:** [[Brussels Effect]] · [[Fair Patterns]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

@@ -36,9 +36,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [Artificial Unintelligence](https://mitpress.mit.edu/9780262537018/artificial-unintelligence/) — Broussard, M. (2018). *MIT Press*
 - [What is AI Literacy? Competencies and Design Considerations](https://scholar.google.com/scholar?q=What+is+AI+Literacy+Competencies+and+Design+Considerations) — Long & Magerko (2020), ACM CHI
@@ -52,3 +49,5 @@ related_reaction:
 **Mechanism:** [[AI Hallucination]] · [[Sycophancy (AI)]]
 **Consequence:** [[Deskilling]]
 **Reaction:** [[AI-Ninja]] · [[Prompt Engineer]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

@@ -37,9 +37,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [The Pentagon Labyrinth](https://docs.pogo.org/publication/2011/POGO_CDI_The-Pentagon-Labyrinth.pdf) — Hartung, W.D. (2011). _Project on Government Oversight (POGO)_ — on the structural inefficiencies of the US defence system and the revolving-door relationships between the Pentagon, military contractors, lobbyists, and political institutions.
 - [The Revolving Door and Big Tech](https://journals.sagepub.com/doi/10.1177/23780231251368039) — _Socius_ (2025) — on how personnel circulation between governments and technology corporations shapes regulatory power, policymaking, and platform governance.
@@ -55,3 +52,5 @@ related_reaction:
 **Mechanism:** [[Digital-Military-Industrial Complex]] · [[Reconstruction Economy]]
 **Consequence:** [[Digital-Military-Industrial Complex]] · [[Sovereignty as a Service]]
 **Reaction:** [[Brussels Effect]] · [[Situated Knowledge]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

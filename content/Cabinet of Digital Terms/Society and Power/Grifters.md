@@ -37,9 +37,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [The Big Con](https://www.harpercollins.com/products/the-big-con-mariana-mazzucato-rosie-collington) — Mazzucato, M. & Collington, R. (2023). *Allen Lane* — on extraction disguised as value creation
 - [Confidence Men: Wall Street, Washington, and the Education of a President](https://www.harpercollins.com/products/confidence-men-ron-suskind) — Suskind, R. (2011). _Harper_ — on financial power, political influence, and systems of institutional confidence and persuasion surrounding elite economic actors
@@ -59,3 +56,5 @@ related_reaction:
 **Mechanism:** [[Memecoin]] · [[Reconstruction Economy]]
 **Consequence:** [[Memecoin]] · [[Reconstruction Economy]]
 **Reaction:** [[Fact Checker]] · [[Brussels Effect]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

@@ -34,9 +34,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [Sacrifice Zones](https://mitpress.mit.edu/9780262518178/sacrifice-zones/) — Lerner (2010), MIT Press
 - [The Costs of Connection](https://www.sup.org/books/sociology/costs-connection) — Couldry, N. & Mejias, U. (2019). *Stanford University Press*
@@ -50,3 +47,5 @@ related_reaction:
 **Cause:** [[AI Energy Consumption]] · [[Data Center Water Consumption]]
 **Mechanism:** [[Externalized Costs]] · [[Digital Colonialism]]
 **Reaction:** [[Greenwashing]] · [[Nuclear Renaissance]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

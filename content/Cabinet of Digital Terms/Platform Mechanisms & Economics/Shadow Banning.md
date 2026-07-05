@@ -41,9 +41,6 @@ Once you see **shadow banning** as a governance mechanism rather than a content 
 - [The Shadow Banning Controversy: Perceived Governance and Algorithmic Folklore](https://www.researchgate.net/publication/359198081_The_shadow_banning_controversy_perceived_governance_and_algorithmic_folklore) — Savolainen, L. (2022). *Media, Culture & Society*
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 ---
 
 ## Navigation
@@ -57,3 +54,5 @@ Once you see **shadow banning** as a governance mechanism rather than a content 
 
 **Public entry:** this document
 **Deep analysis:** *in production*
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

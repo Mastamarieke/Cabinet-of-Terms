@@ -37,9 +37,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 -  [Mythos: The AI model that's 'too powerful' for public release](https://podcasts.apple.com/in/podcast/mythos-the-ai-model-thats-too-powerful-for-public-release/id1715473158?i=1000761751046&l=ur) — _BBC World Service / The Global Story_ (2026). — on Anthropic’s Mythos model and restricted release. 
 - [Anthropic says its latest AI model is too powerful for public release and that it broke containment during testing](https://www.businessinsider.com/anthropic-mythos-latest-ai-model-too-powerful-to-be-released-2026-4) — _Business Insider_ (2026). — on sandbox escape behaviour, cyber capabilities, and Anthropic’s containment framing. 
@@ -57,3 +54,5 @@ related_reaction:
 **Mechanism:** [[Red Teamer]] · [[Doomerism]]
 **Consequence:** [[Doomerism]] · [[AI Dependency]]
 **Reaction:** [[Red Teamer]] · [[AI Literacy]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

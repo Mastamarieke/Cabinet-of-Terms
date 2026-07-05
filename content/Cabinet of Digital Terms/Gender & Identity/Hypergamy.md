@@ -36,10 +36,9 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [Alphas, Betas, and Incels](https://doi.org/10.1177/1097184x17706401) — Ging, D. (2019). *Men and Masculinities*
 - [Mate Preferences](https://doi.org/10.1017/S0140525X07001357) — Buller, D.J. (2005). *Behavioral and Brain Sciences*
 -  [The Economics of Hypergamy](https://jhr.uwpress.org/content/58/1/260). Almås, I., Drange, N., & Mogstad, M. (2023).
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

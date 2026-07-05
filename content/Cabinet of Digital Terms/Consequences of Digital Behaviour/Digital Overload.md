@@ -43,9 +43,6 @@ Once you see **Digital Overload** as a designed condition rather than a personal
 - [The Concept of Information Overload: A Review of Literature](https://doi.org/10.1080/01972240490507974) — Eppler, M.J. & Mengis, J. (2004). *The Information Society*
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 ---
 
 ## Navigation
@@ -59,3 +56,5 @@ Once you see **Digital Overload** as a designed condition rather than a personal
 
 **Public entry:** this document
 **Deep analysis:** *in production*
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

@@ -37,9 +37,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [The Theory of the Leisure Class](https://www.gutenberg.org/ebooks/833) — Veblen, T. (1899). *Project Gutenberg (public domain)*
 - [Flexing culture in the age of social media: From social recognition to self-satisfaction](https://journal.trunojoyo.ac.id/simulacra/article/view/20716) — Rosida, I. (2024). _Simulacra, 13_(1). Open access.
@@ -55,3 +52,5 @@ related_reaction:
 **Mechanism:** [[Highlight Reel]] · [[Curated Life]]
 **Consequence:** [[Comparison Culture]] · [[FOMO]]
 **Reaction:** [[Deinfluencing]] · [[JOMO]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

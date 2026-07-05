@@ -37,9 +37,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [The Internet Con: How to Seize the Means of Computation](https://www.versobooks.com/products/3035-the-internet-con) — Doctorow, C. (2023). *Verso Books*
 - [Technically Wrong](https://wwnorton.com/books/technically-wrong/) — Wachter-Boettcher, S. (2017). *W.W. Norton*
@@ -54,3 +51,5 @@ related_reaction:
 **Mechanism:** [[Digital Coach]] · [[Tech Abandonment]]
 **Consequence:** [[Tech Abandonment]] · [[Digital Exclusion]]
 **Reaction:** [[Digital Coach]] · [[Fair Patterns]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

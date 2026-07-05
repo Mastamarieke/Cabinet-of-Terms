@@ -37,9 +37,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [Designing Organizations for an Information-Rich World](https://zeus.zeit.de/2007/39/simon.pdf) — Simon, H.A. (1971). In M. Greenberger (Ed.), _Computers, Communication, and the Public Interest_. Johns Hopkins University Press.
 - [The Attention Merchants: The Epic Scramble to Get Inside Our Heads](https://scholarship.law.columbia.edu/books/64/) — Wu, T. (2016). _Knopf_
@@ -57,3 +54,5 @@ related_reaction:
 **Mechanism:** [[Recommender Systems]] · [[Dark Patterns]]
 **Consequence:** [[Cognitive Surrender]] · [[Doomscrolling]]
 **Reaction:** [[Calm Technology]] · [[Digital Detox]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

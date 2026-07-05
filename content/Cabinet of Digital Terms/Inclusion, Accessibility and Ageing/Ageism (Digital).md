@@ -37,9 +37,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [Digital Ageism](https://library.oapen.org/bitstream/handle/20.500.12657/63221/1/9781000904796.pdf) — Loos, E. & Ivan, L. (2018). *The Gerontologist*
 - [Global Report on Ageism](https://www.who.int/publications/i/item/9789240016866) — WHO (2021)
@@ -54,3 +51,5 @@ related_reaction:
 **Mechanism:** [[Silver Surfer]] · [[Tech Abandonment]]
 **Consequence:** [[Tech Abandonment]] · [[Digital Exclusion]]
 **Reaction:** [[Universal Design]] · [[Inclusive Design]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

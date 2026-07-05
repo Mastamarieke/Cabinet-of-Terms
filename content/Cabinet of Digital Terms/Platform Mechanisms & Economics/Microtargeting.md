@@ -37,9 +37,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [The Great Hack](https://www.netflix.com/title/80117542) — Noujaim, J. & Amer, K. (2019). _Netflix documentary_
 - [Mindf*ck: Cambridge Analytica and the Plot to Break America](https://www.penguinrandomhouse.com/books/604375/mindfck-by-christopher-wylie/) — Wylie, C. (2019). _Random House_
@@ -57,3 +54,5 @@ related_reaction:
 **Mechanism:** [[Bot Farms]] · [[Biometric Surveillance]]
 **Consequence:** [[Filter Bubble]] · [[Great Replacement]]
 **Reaction:** [[Brussels Effect]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

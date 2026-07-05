@@ -36,9 +36,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [JOMO: The Original Post](https://www.anildash.com/2012/07/19/jomo/) — Dash, A. (2012). *anildash.com*
 - [Motivational, emotional, and behavioral correlates of fear of missing out](https://www.sciencedirect.com/science/article/abs/pii/S0747563213000800) — Przybylski, A.K. et al. (2013). *Journal of Social and Clinical Psychology*
@@ -53,3 +50,5 @@ related_reaction:
 **Mechanism:** [[Digital Detox]] · counter-movements
 **Consequence:** [[FOMO]]
 **Reaction:** [[Digital Detox]] · [[Slow Media]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

@@ -36,9 +36,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [Energy and Policy Considerations for Deep Learning in NLP](https://arxiv.org/abs/1906.02243) — Strubell, E., Ganesh, A. & McCallum, A. (2019). *ACL*
 - [The growing energy footprint of artificial intelligence](https://doi.org/10.1016/j.joule.2023.09.004) — de Vries, A. (2023). *Joule*
@@ -53,3 +50,5 @@ related_reaction:
 **Mechanism:** [[Externalized Costs]] · [[Data Center Water Consumption]]
 **Consequence:** [[Sacrifice Zones]] · [[Digital Colonialism]]
 **Reaction:** [[Greenwashing]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

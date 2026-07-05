@@ -17,6 +17,7 @@ related_consequence:
 related_reaction:
   - Podcast-bro
 entry_image: sigma-male.jpg
+entry_image_caption: "Image by the Narrative Typographers/"
 semantic_landscape: |
   In the semantic landscape of online masculinity discourse, the sigma male occupies a **structurally paradoxical position**. The term clusters tightly around the very **dominance hierarchy** it claims to leave behind — the ladder of alpha and beta men ranked by status, attractiveness, and social power. The sigma is not a departure from this ladder. **It is an additional rung.**
 
@@ -33,6 +34,9 @@ semantic_landscape: |
 
 **Origin:** The term was coined in a blog post around 2010 and gained viral traction through meme culture from around 2021, where "**sigma male** grindset" became a widespread ironic (and then earnest) format. The concept drew on popular psychology frameworks around introversion and independence, filtered through **manosphere** hierarchy logic.
 
+![](sigma-male.jpg)
+<small>*Image by the Narrative Typographers/*</small>
+
 > A masculinity archetype that claims to transcend social hierarchy while remaining entirely defined by it — the loner who is above the game he is still playing.
 
 **The Appeal:** The sigma framework offers status to men who do not or cannot compete in conventional social hierarchies. Rather than being a beta who lost, you are a sigma who chose not to play. It provides the same status validation as alpha identity — indeed, higher status — without requiring social competition. For introverted, isolated, or socially anxious men, it reframes their situation as chosen superiority rather than involuntary exclusion.
@@ -46,9 +50,6 @@ semantic_landscape: |
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [Alphas, Betas, and Incels](https://doi.org/10.1177/1097184x17706401) — Ging, D. (2019). *Men and Masculinities*
 - [The Manosphere and the Radicalization of Young Men](https://doi.org/10.1080/19361610.2021.1965803) — Moonshot CVE (2021). *Perspectives on Terrorism*
@@ -56,4 +57,6 @@ semantic_landscape: |
 - [Rise of the sigma male: TikTok’s new gender divide](https://www.newswise.com/articles/rise-of-the-sigma-male-tiktok-s-new-gender-divide). *Newswise. (2025).*
 
 - 
-- 
+-
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

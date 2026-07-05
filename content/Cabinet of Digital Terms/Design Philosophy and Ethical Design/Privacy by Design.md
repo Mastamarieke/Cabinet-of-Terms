@@ -35,9 +35,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN University of Applied Sciences, 2026.*
-
 **Read more:**
 - [Privacy by Design: The 7 Foundational Principles](https://www.ipc.on.ca/sites/default/files/legacy/2018/01/pbd-1.pdf) — Cavoukian, A. (2011). *Information and Privacy Commissioner of Ontario*
 - [Privacy by Design: The 7 Foundational Principles (Extended Version)](https://www.sfu.ca/~palys/Cavoukian-2011-PrivacyByDesign-7FoundationalPrinciples.pdf) — Cavoukian, A. (2011). *Simon Fraser University*
@@ -52,3 +49,5 @@ related_reaction:
 **Mechanism:** [[VSD (Value Sensitive Design)]] · [[Surveillance Capitalism]]
 **Consequence:** [[Unblackboxing]]
 **Reaction:** [[Fair Patterns]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

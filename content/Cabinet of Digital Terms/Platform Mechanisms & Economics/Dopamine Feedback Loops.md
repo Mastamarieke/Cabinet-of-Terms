@@ -38,9 +38,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [Irresistible: The Rise of Addictive Technology](https://www.penguinrandomhouse.com/books/540237/irresistible-by-adam-alter/) — Alter, A. (2017). *Penguin Press*
 - [Persuasive Technology](https://www.sciencedirect.com/book/9781558606951/persuasive-technology) — Fogg, B.J. (2003). *Morgan Kaufmann*
@@ -57,3 +54,5 @@ related_reaction:
 **Mechanism:** [[Recommender Systems]] · [[Dark Patterns]]
 **Consequence:** [[Doomscrolling]] · [[Gaming Disorder]] · [[Nomophobia]]
 **Reaction:** [[Calm Technology]] · [[Digital Detox]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

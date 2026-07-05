@@ -37,9 +37,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [The Shock Doctrine](https://www.penguinrandomhouse.com/books/298702/the-shock-doctrine-by-naomi-klein/) — Klein, N. (2007). *Metropolitan Books*
 - [The Far Right Today](https://www.wiley.com/en-gb/The+Far+Right+Today-p-9781509536948) — Mudde, C. (2019). *Polity Press*
@@ -54,3 +51,5 @@ related_reaction:
 **Mechanism:** [[Endtime Fascism]] · [[Armageddon Complex]]
 **Consequence:** [[Technofascism]] · [[Endtime Fascism]]
 **Reaction:** [[Brussels Effect]] · [[Situated Knowledge]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

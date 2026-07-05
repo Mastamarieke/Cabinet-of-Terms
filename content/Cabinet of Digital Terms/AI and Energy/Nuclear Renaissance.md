@@ -34,9 +34,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [Nuclear power renaissance](https://en.wikipedia.org/wiki/Nuclear_renaissance) — Wikipedia (primary: see Microsoft, Google, Amazon investor filings 2023–2024)
 - [The growing energy footprint of artificial intelligence](https://doi.org/10.1016/j.joule.2023.09.004) — de Vries, A. (2023). *Joule*
@@ -51,3 +48,5 @@ related_reaction:
 **Mechanism:** [[Externalized Costs]]
 **Consequence:** [[Sacrifice Zones]]
 **Reaction:** [[Greenwashing]] · [[Digital Colonialism]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

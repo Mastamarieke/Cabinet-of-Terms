@@ -38,9 +38,6 @@ The controversy reflects broader concerns about ambient surveillance: wearable A
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [Meta surveillance plans are shockingly far-reaching](https://www.thecanary.co/uk/analysis/2026/02/16/meta-surveillance/) — Freeman, R. (2026). _The Canary_
 - [Meta plans launch of facial recognition to smart glasses in ‘dynamic political environment’](https://www.biometricupdate.com/202602/meta-plans-launch-of-facial-recognition-to-smart-glasses-in-dynamic-political-environment) — Borak, M. (2026). _Biometric Update_
@@ -56,3 +53,5 @@ The controversy reflects broader concerns about ambient surveillance: wearable A
 **Mechanism:** [[Privacy Washing]] · [[Obfuscation]]
 **Consequence:** [[Surveillance Capitalism]] · [[Biometric Surveillance]]
 **Reaction:** [[Brussels Effect]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

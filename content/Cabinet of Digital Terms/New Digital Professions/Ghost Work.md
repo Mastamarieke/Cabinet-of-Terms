@@ -43,9 +43,6 @@ Once you see **ghost work** as the hidden foundation of AI, you see that every i
 - [Digital Labor and the Inconspicuous Production of Artificial Intelligence](https://www.researchgate.net/publication/384770014_Digital_Labor_and_the_Inconspicuous_Production_of_Artificial_Intelligence) — Casilli, A.A. (2024). *arXiv*
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 ---
 
 ## Navigation
@@ -59,3 +56,5 @@ Once you see **ghost work** as the hidden foundation of AI, you see that every i
 
 **Public entry:** this document
 **Deep analysis:** *in production*
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

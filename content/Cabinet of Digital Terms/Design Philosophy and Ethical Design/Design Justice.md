@@ -36,9 +36,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN University of Applied Sciences, 2026.*
-
 **Read more:**
 - [Design Justice: Community-Led Practices to Build the Worlds We Need](https://design-justice.pubpub.org/) — Costanza-Chock, S. (2020). *MIT Press* (open access)
 - [Design Justice Network Principles](https://designjustice.org/read-the-principles) — Design Justice Network (2018)
@@ -52,3 +49,5 @@ related_reaction:
 **Cause:** [[Deceptive Design]] · [[Dark Patterns]]
 **Mechanism:** [[Participatory Design]] · [[VSD (Value Sensitive Design)]]
 **Reaction:** [[Fair Patterns]] · [[Adversarial Design]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

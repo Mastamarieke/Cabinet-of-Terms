@@ -36,9 +36,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [The Housewives of White Supremacy](https://www.johnlocke.org/the-housewives-of-white-supremacy/) — Kelly, A. (2018). *New York Times*
 - [Alphas, Betas, and Incels](https://doi.org/10.1177/1097184x17706401) — Ging, D. (2019). *Men and Masculinities*
@@ -46,3 +43,5 @@ related_reaction:
 - [With the demands of modern life, some women are drawn to the ‘tradwives’ movement](https://www.uva.nl/en/shared-content/faculteiten/en/faculteit-der-maatschappij-en-gedragswetenschappen/news/2024/07/tradwives.html) — Universiteit van Amsterdam (2024). 
 - [What Is a ‘Tradwife’ and How Does It Differ from Stay-at-Home Moms?](https://www.parents.com/tradwife-meaning-and-why-its-controversial-8656603) — _Parents_ magazine (2024). 
 - [The Real Problem With Tradwives](https://www.vogue.com/article/problem-with-tradwives) — _Vogue_ (2024).
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

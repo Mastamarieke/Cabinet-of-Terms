@@ -37,9 +37,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [The Age of Surveillance Capitalism](https://www.publicaffairsbooks.com/titles/shoshana-zuboff/the-age-of-surveillance-capitalism/9781610395694/) — Zuboff, S. (2019). *PublicAffairs*
 - [Big Other: Surveillance Capitalism and the Prospects of an Information Civilization](https://doi.org/10.1057/jit.2015.5) — Zuboff, S. (2015). *Journal of Information Technology*
@@ -54,3 +51,5 @@ related_reaction:
 **Mechanism:** [[Data Brokers]] · [[Privacy Washing]]
 **Consequence:** [[Algorithmic Violence]] · [[Vendor Lock-in]]
 **Reaction:** [[Brussels Effect]] · [[Fair Patterns]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

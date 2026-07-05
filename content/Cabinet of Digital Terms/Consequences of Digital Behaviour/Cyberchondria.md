@@ -42,9 +42,6 @@ Once you see **cyberchondria** as an algorithmic design outcome rather than indi
 - [Cyberchondria: Challenges of Problematic Online Searches for Health-Related Information](https://karger.com/pps/article/86/3/129/282998/Cyberchondria-Challenges-of-Problematic-Online) — Starcevic, V. & Berle, D. (2017). *Psychotherapy and Psychosomatics*
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 ---
 
 ## Navigation
@@ -58,3 +55,5 @@ Once you see **cyberchondria** as an algorithmic design outcome rather than indi
 
 **Public entry:** this document
 **Deep analysis:** *in production*
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

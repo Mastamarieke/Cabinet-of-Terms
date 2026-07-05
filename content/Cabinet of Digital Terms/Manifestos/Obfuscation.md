@@ -36,9 +36,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [Obfuscation: A User's Guide for Privacy and Protest](https://mitpress.mit.edu/9780262529860/) — Brunton, F. & Nissenbaum, H. (2015). *MIT Press*
 - [The Black Box Society: The Secret Algorithms That Control Money and Information](https://www.hup.harvard.edu/books/9780674970847) — Pasquale, F. (2015). _Harvard University Press_
@@ -53,3 +50,5 @@ related_reaction:
 **Mechanism:** [[Dark Patterns]] · [[Privacy Washing]]
 **Consequence:** [[Algorithmic Violence]] · [[Vendor Lock-in]]
 **Reaction:** [[Unblackboxing]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

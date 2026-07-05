@@ -37,9 +37,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [‘Brain rot’ named Oxford Word of the Year 2024**](https://corp.oup.com/news/brain-rot-named-oxford-word-of-the-year-2024/?utm_source=chatgpt.com) — Oxford University Press (2024), _Oxford University Press_.
 - [Think ‘brain rot’ summed up 2024? Oxford agrees it was the word of the year](https://apnews.com/article/b43d864aed7f7d9d039edbd9b8a19ffb?utm_source=chatgpt.com) — Associated Press (2024), _AP News_.
@@ -54,3 +51,5 @@ related_reaction:
 **Mechanism:** [[Ragebaiting]] · [[Gooner]]
 **Consequence:** [[Cognitive Surrender]] · [[Deskilling]]
 **Reaction:** [[Slow Media]] · [[JOMO]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

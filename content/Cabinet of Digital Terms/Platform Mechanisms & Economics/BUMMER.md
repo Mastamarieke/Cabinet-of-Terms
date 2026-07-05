@@ -37,9 +37,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [Ten Arguments for Deleting Your Social Media Accounts Right Now](https://www.amazon.com/Arguments-Deleting-Social-Media-Accounts/dp/125019668X) — Lanier, J. (2018). _Henry Holt and Co._
 - - [*The Age of Surveillance Capitalism*: The Fight for a Human Future at the New Frontier of Power](https://books.google.fr/books/about/The_Age_of_Surveillance_Capitalism.html?id=lRqrDQAAQBAJ&redir_esc=y) — **Zuboff**, S. (2019). _PublicAffairs_ (books.google.com
@@ -55,3 +52,5 @@ related_reaction:
 **Mechanism:** [[Recommender Systems]] · [[Dopamine Feedback Loops]]
 **Consequence:** [[Cognitive Surrender]] · [[Echo Chamber]]
 **Reaction:** [[Brussels Effect]] · [[AI Literacy]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

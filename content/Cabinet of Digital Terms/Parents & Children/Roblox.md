@@ -37,9 +37,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [Roblox: Why children are obsessed — and why parents should be worried](https://www.bbc.com/news/technology-48450604) — Kelion, L. (2019). _BBC News_ ([bbc.com](https://www.bbc.com/news/technology-48450604?utm_source=chatgpt.com))
 - [Age Appropriate Design: A Code of Practice for Online Services](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/childrens-information/childrens-code-guidance-and-resources/) — ICO (2021)
@@ -55,3 +52,5 @@ related_reaction:
 **Mechanism:** [[Robux]] · [[Online Grooming]]
 **Consequence:** [[Gaming Disorder]] · [[Online Grooming]]
 **Reaction:** [[Brussels Effect]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

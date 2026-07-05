@@ -37,9 +37,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [Discipline and Punish](https://www.penguinrandomhouse.com/books/108900/discipline-and-punish-by-michel-foucault/) — Foucault, M. (1975/1977). *Pantheon Books*
 - [The Panopticon Writings](https://www.versobooks.com/products/1572-the-panopticon-writings) — Bentham, J. (ed. Božovič, M.) (1995). *Verso*
@@ -54,3 +51,5 @@ related_reaction:
 **Mechanism:** [[Social Credit System]] · [[Biometric Surveillance]]
 **Consequence:** [[Social Credit System]] · [[Algorithmic Violence]]
 **Reaction:** [[Obfuscation]] · [[Brussels Effect]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

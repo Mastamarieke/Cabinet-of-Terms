@@ -35,9 +35,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [From Dark to Fair Patterns: How Design-Driven Innovation and Neurodesign Help Fighting Deceptive Design](https://www.researchgate.net/publication/371315114_From_dark_to_fair_patterns_How_can_design-driven_innovation_and_neurodesign_help_fighting_against_deceptive_design) — Potel-Saville, M. (2023). *Legal Design Roundtable, Brussels*
 - [EDPB Guidelines on Deceptive Design Patterns](https://edpb.europa.eu/our-work-tools/our-documents/guidelines/guidelines-032022-deceptive-design-patterns-social-media_en) — European Data Protection Board (2022)
@@ -52,3 +49,5 @@ related_reaction:
 **Mechanism:** [[VSD (Value Sensitive Design)]] · [[Deceptive Design]]
 **Consequence:** [[Unblackboxing]]
 **Reaction:** [[Calm Technology]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

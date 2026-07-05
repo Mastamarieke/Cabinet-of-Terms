@@ -37,9 +37,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 -
 - [Position: Stop treating ‘AGI’ as the north-star goal of AI research](https://proceedings.mlr.press/v267/blili-hamelin25a.html) — Blili-Hamelin, B., Graziul, C., Hancox-Li, L., Hazan, H., El-Mhamdi, E., Ghosh, A., Heller, K.A., Metcalf, J., Murai, F., Salvaggio, E., Smart, A.J., Snider, T., Tighanimine, M., Ringer, T., Mitchell, M. & Dori-Hacohen, S. (2025). _Proceedings of Machine Learning Research (ICML 2025)_
@@ -60,3 +57,5 @@ related_reaction:
 **Mechanism:** [[Digital Frankenstein]] · [[Mythos Moment]]
 **Consequence:** [[Doomerism]] · [[Longtermism]]
 **Reaction:** [[AI Literacy]] · [[Red Teamer]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

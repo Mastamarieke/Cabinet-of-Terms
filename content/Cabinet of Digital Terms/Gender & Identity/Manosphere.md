@@ -39,15 +39,12 @@ Influencers commonly associated with the **manosphere** include Andrew Tate, who
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [Alphas, Betas, and Incels: Theorizing the Masculinities of the Manosphere](https://journals.sagepub.com/doi/10.1177/1097184X17706401). Ging, D. (2019). *Man and Masculinity, Volume 22 Issue 4, October 2019*
 - [Angry White Men](https://www.publicaffairsbooks.com/titles/michael-kimmel/angry-white-men/9781568589619/) — Kimmel, M. (2013). *PublicAffairs*
 - [Mainstreaming the Manosphere’s Misogyny Through Affective Homosocial Currencies: Exploring How Teen Boys Navigate the Andrew Tate Effect]([https://journals.sagepub.com/doi/10.1177/20563051241228811](https://journals.sagepub.com/doi/10.1177/20563051241228811)). Haslop, C., Ringrose, J., Cambazoglu, I., & Milne, B. (2024). *Open Access*
 - [Beyond Andrew Tate: the imitators who help promote misogyny online](https://www.theguardian.com/media/2025/mar/19/beyond-andrew-tate-the-imitators-who-help-promote-misogyny-online). Hall, R. (2025).
 - [Men, Masculinities and the Media](https://www.researchgate.net/publication/301625585_Men_Masculinity_and_the_Media) Craig, S. (2018). *SAGE Publication*
-- 
+-
 
-
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

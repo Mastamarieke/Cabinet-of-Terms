@@ -36,9 +36,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [The Slow Media Manifesto](https://en.slow-media.net/manifesto) — Köhler, B., David, S. & Blumtritt, J. ,  Köhler, B.(2010). *slow-media.net*
 - [Diffusion of Slow Media Innovation](https://www.researchgate.net/publication/322952602_Diffusion_of_Slow_Media_Innovation) — Köhler, B. et al. (2018). *ResearchGate*
@@ -53,3 +50,5 @@ related_reaction:
 **Mechanism:** [[Digital Detox]] · [[Mindful Scrolling]]
 **Consequence:** [[Cognitive Surrender]]
 **Reaction:** [[Unplugging]] · [[Tech-Free Challenge]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

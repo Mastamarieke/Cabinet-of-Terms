@@ -37,9 +37,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [Doomscrolling During COVID-19](https://pubmed.ncbi.nlm.nih.gov/35157484/) — Price, M., Legrand, A. C., Brier, Z. M. F., van Stolk-Cooke, K., Peck, K., Dodds, P. S., Danforth, C. M., Adams, Z. W. (2022). *Psychol Trauma*
 - [Digital Newsreport 2022](https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2022) — Reuters Institute Digital News Report (2022)
@@ -54,3 +51,5 @@ related_reaction:
 **Mechanism:** [[Cognitive Surrender]] · [[Attention Economy]]
 **Consequence:** [[Technostress]] · [[Brain Rot]]
 **Reaction:** [[JOMO]] · [[Digital Detox]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

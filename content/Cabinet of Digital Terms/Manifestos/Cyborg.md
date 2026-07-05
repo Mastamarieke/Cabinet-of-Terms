@@ -37,9 +37,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [A Cyborg Manifesto](https://monoskop.org/images/4/4c/Haraway_Donna_1985_A_Manifesto_for_Cyborgs_Science_Technology_and_Socialist_Feminism_in_the_1980s.pdf) — Haraway, D. (1985). *Socialist Review* — later in *Simians, Cyborgs, and Women* (1991), Routledge
 - [Staying with the Trouble](https://www.dukeupress.edu/staying-with-the-trouble) — Haraway, D. (2016). *Duke University Press*
@@ -54,3 +51,5 @@ related_reaction:
 **Mechanism:** [[Cyborg Musk]] · [[Transhumanism]]
 **Consequence:** [[Cyborg Musk]] · [[Digital Libertarianism]]
 **Reaction:** [[Cyberfeminism]] · [[Situated Knowledge]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

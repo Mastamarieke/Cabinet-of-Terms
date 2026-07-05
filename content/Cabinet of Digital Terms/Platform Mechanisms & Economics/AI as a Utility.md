@@ -36,9 +36,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [The Alignment Problem](https://brianchristian.org/the-alignment-problem/) — Christian, B. (2020). *W.W. Norton*
 - [Power and Progress](https://www.publicaffairsbooks.com/titles/daron-acemoglu/power-and-progress/9781541702530/)
@@ -55,3 +52,5 @@ related_reaction:
 **Mechanism:** [[Externalized Costs]] · [[Cognitive Offloading]]
 **Consequence:** [[AI Dependency]] · [[Deskilling]]
 **Reaction:** [[AI Literacy]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

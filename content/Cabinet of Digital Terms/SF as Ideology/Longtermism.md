@@ -37,9 +37,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [The Moral Case for Long-Term Thinking](https://philarchive.org/rec/GRETMC-3?utm_source=chatgpt.com) — Greaves, H., MacAskill, W. & Thornley, E. (2021). _In The Long View: Essays on Policy, Philanthropy, and the Long-term Future_ 
 - [The Dangerous Ideas of “Longtermism” and “Existential Risk”](https://www.currentaffairs.org/news/2021/07/the-dangerous-ideas-of-longtermism-and-existential-risk) — Torres, É. P. (2021). _Current Affairs_ 
@@ -58,3 +55,5 @@ related_reaction:
 **Mechanism:** [[Doomerism]] · [[The Singularity]]
 **Consequence:** [[Fortress Futurism]] · [[Mars Colonization]]
 **Reaction:** [[Situated Knowledge]] · [[Brussels Effect]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

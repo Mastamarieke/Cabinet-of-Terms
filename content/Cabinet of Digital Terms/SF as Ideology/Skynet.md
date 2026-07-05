@@ -38,9 +38,6 @@ The term has since entered mainstream political and technological vocabulary as 
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [The Terminator](https://www.imdb.com/title/tt0088247/) — Cameron, J. (1984). *Orion Pictures*
 - [Human Compatible](https://www.penguinrandomhouse.com/books/566677/human-compatible-by-stuart-russell/) — Russell, S. (2019). *Viking* — on actual AI alignment concerns beyond the Skynet frame
@@ -61,3 +58,5 @@ The term has since entered mainstream political and technological vocabulary as 
 **Mechanism:** [[Doomerism]] · [[Digital Frankenstein]]
 **Consequence:** [[Doomerism]]
 **Reaction:** [[Red Teamer]] · [[AI Literacy]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

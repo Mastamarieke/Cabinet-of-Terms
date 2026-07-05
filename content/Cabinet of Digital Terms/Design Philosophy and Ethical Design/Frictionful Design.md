@@ -37,9 +37,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN University of Applied Sciences, 2026.*
-
 **Read more:**
 - [Design Frictions for Mindful Interactions: The Case for Microboundaries](https://eprints.whiterose.ac.uk/id/eprint/130554/1/Design_Frictions_CHI2016LBW_v14.pdf) — Cox, A.L. et al. (2016). *CHI '16*
 - [Frictionful Design: A Framework for Introducing Productive Friction in HCI](https://dl.acm.org/doi/pdf/10.1145/3526113.3545678) — Gray, C.M. et al. (2022). *CHI '22*
@@ -55,3 +52,5 @@ related_reaction:
 **Mechanism:** [[Nudging]] · [[Persuasive Technology]]
 **Consequence:** [[Cognitive Surrender]] · [[Doomscrolling]]
 **Reaction:** [[Calm Technology]] · [[Fair Patterns]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

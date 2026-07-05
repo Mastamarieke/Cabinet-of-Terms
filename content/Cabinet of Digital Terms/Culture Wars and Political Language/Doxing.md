@@ -44,9 +44,6 @@ Once you see **doxing** as infrastructure rather than an individual act, you see
 - [Doxing: What Adolescents Look for and Their Intentions](https://pmc.ncbi.nlm.nih.gov/articles/PMC6352099/) — Chen, M., Chan, K.L. & Cheung, A.S.Y. (2019). *International Journal of Environmental Research and Public Health*
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 ---
 
 ## Navigation
@@ -60,3 +57,5 @@ Once you see **doxing** as infrastructure rather than an individual act, you see
 
 **Public entry:** this document
 **Deep analysis:** *in production*
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

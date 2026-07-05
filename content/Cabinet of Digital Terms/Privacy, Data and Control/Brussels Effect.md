@@ -35,9 +35,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [The Brussels Effect](
 https://www.almendron.com/tribuna/wp-content/uploads/2018/08/the-brussels-effect.pdf) — Bradford, A. (2012). *Oxford University Press*
@@ -53,3 +50,5 @@ https://www.almendron.com/tribuna/wp-content/uploads/2018/08/the-brussels-effect
 **Mechanism:** [[CLOUD Act]]
 **Consequence:** [[Vendor Lock-in]]
 **Reaction:** [[Fair Patterns]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

@@ -37,9 +37,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [The Matrix](https://www.imdb.com/title/tt0133093/) — Wachowski, L. & Wachowski, L. (1999). *Warner Bros.*
 - [The Matrix as Trans Narrative](https://www.vulture.com/2020/08/the-matrix-is-definitely-a-trans-allegory-lilly-wachowski-confirms.html) — Wachowski, L. (2020). *Vulture interview*
@@ -56,3 +53,5 @@ related_reaction:
 **Mechanism:** [[Red Pill]] · [[Cyborg]]
 **Consequence:** [[Red Pill]] · [[QAnon]]
 **Reaction:** [[Situated Knowledge]] · [[Cyberfeminism]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

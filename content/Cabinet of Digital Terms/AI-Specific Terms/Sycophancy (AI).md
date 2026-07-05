@@ -35,9 +35,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [Sycophancy to Subterfuge: Investigating Reward Tampering in Language Models](https://arxiv.org/abs/2406.10162) — Perez, E. et al. (2022). *arXiv*
 - [Towards Understanding Sycophancy in Language Models](https://arxiv.org/abs/2310.13548) — Sharma, M. et al. (2023). *arXiv*
@@ -52,3 +49,5 @@ related_reaction:
 **Mechanism:** [[AI Hallucination]] · [[Cognitive Offloading]]
 **Consequence:** [[Deskilling]] · [[AI Dependency]]
 **Reaction:** [[AI Literacy]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

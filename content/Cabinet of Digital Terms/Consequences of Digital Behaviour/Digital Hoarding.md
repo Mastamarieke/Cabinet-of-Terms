@@ -42,9 +42,6 @@ Once you see **digital hoarding** as a design outcome rather than a personal fai
 - [Digital Hoarding Behaviours: Underlying Motivations and Potential Negative Consequences](https://eprints.northumbria.ac.uk/id/eprint/26168/1/Digital%20Hoarding%20CHB%20revised%202.pdf) — Sweeten, G., Sillence, E. & Neave, N. (2018). *Computers in Human Behavior*
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 ---
 
 ## Navigation
@@ -58,3 +55,5 @@ Once you see **digital hoarding** as a design outcome rather than a personal fai
 
 **Public entry:** this document
 **Deep analysis:** *in production*
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

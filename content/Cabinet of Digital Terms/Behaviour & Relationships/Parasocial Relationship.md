@@ -38,9 +38,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [Mass Communication and Para-Social Interaction](https://doi.org/10.1521/00332747.1956.11023049) — Horton, D. & Wohl, R.R. (1956). *Psychiatry*
 - [Parasocial Relationships in Social Media](https://doi.org/10.1177/1461444817721401) — Dibble, J.L. et al. (2016). *New Media & Society*
@@ -55,3 +52,5 @@ related_reaction:
 **Mechanism:** [[Family Vlogging]] · [[Kidfluencer]]
 **Consequence:** [[Online Grooming]] · [[Comparison Culture]]
 **Reaction:** [[AI Literacy]] · [[Digital Detox]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

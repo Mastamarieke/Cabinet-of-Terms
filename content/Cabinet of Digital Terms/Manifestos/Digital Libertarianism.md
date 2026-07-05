@@ -37,9 +37,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [A Declaration of the Independence of Cyberspace](https://www.eff.org/cyberspace-independence) — Barlow, J.P. (1996). *Electronic Frontier Foundation*
 - [From Counterculture to Cyberculture](https://press.uchicago.edu/ucp/books/book/chicago/F/bo3773600.html) — Turner, F. (2006). *University of Chicago Press*
@@ -54,3 +51,5 @@ related_reaction:
 **Mechanism:** [[Hacker Ethic]] · [[Technofeudalism]]
 **Consequence:** [[Muskism]] · [[Technofeudalism]]
 **Reaction:** [[Brussels Effect]] · [[Cyberfeminism]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

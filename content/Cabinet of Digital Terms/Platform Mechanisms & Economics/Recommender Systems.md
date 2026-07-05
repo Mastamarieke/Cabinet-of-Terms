@@ -38,9 +38,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [How Recommendation Algorithms Run the World](https://www.wired.com/story/how-recommendation-algorithms-run-the-world/?utm_source=chatgpt.com) — Tufekci, Z. (2019). _WIRED_
 - [YouTube, the Great Radicalizer](https://www.nytimes.com/2018/03/10/opinion/sunday/youtube-politics-radical.html) — Tufekci, Z. (2018). *New York Times*
@@ -58,3 +55,5 @@ related_reaction:
 **Mechanism:** [[Filter Bubble]] · [[Microtargeting]]
 **Consequence:** [[Echo Chamber]] · [[Great Replacement]]
 **Reaction:** [[Brussels Effect]] · [[AI Literacy]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

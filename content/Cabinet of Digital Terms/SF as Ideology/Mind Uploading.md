@@ -37,9 +37,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [Mind Children](https://www.hup.harvard.edu/catalog.php?isbn=9780674576186) — Moravec, H. (1988). *Harvard University Press*
 - [The Conscious Mind](https://global.oup.com/academic/product/the-conscious-mind-9780195117899) — Chalmers, D.J. (1996). *Oxford University Press*
@@ -54,3 +51,5 @@ related_reaction:
 **Mechanism:** [[Neuralink]] · [[The Singularity]]
 **Consequence:** [[Longtermism]] · [[Fortress Futurism]]
 **Reaction:** [[Situated Knowledge]] · [[Cyberfeminism]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

@@ -37,9 +37,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [An experiential account of phantom vibration syndrome](https://www.sciencedirect.com/science/article/abs/pii/S0747563215003611) — Rosenberger, R. (2015). *Volume 52, Computer in Human Behavior*
 - [Phantom vibrations among undergraduates: Prevalence and associated psychological characteristics](https://wolfmd.me/blog/phantomvibration/phantomvibration1.pdf) — Drouin, M., Kaiser, D. H., & Miller, D. A. (2012). _Computers in Human Behavior, 28_(4), 1490–1496.
@@ -53,3 +50,5 @@ related_reaction:
 **Mechanism:** [[Nomophobia]] · [[AI Dependency]]
 **Consequence:** [[Technostress]] · [[Cognitive Surrender]]
 **Reaction:** [[Digital Detox]] · [[JOMO]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

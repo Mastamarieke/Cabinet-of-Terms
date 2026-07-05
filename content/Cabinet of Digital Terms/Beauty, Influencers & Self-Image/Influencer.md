@@ -38,9 +38,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [The Influencer Industry](https://www.researchgate.net/publication/339178289_The_Influencer_Industry_Constructing_And_Commodifying_Authenticity_On_Social_Media) — Dean Hund, E (2019)
 - [Hidden in Plain Sight](https://doi.org/10.1177/1461444820904168) — Wellman, M.L. et al. (2020). *New Media & Society*
@@ -56,3 +53,5 @@ related_reaction:
 **Mechanism:** [[Fitfluencer]] · [[Highlight Reel]] · [[Curated Life]]
 **Consequence:** [[Comparison Culture]] · [[Body Dysmorphic Disorder]]
 **Reaction:** [[Deinfluencing]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

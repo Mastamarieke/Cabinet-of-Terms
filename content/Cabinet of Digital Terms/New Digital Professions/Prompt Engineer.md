@@ -37,9 +37,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT](https://doi.org/10.48550/arXiv.2302.11382) — White, J. et al. (2023). *arXiv*
 - [The Prompt Report: A Systematic Survey of Prompt Engineering Techniques](https://doi.org/10.48550/arXiv.2406.06608) — Schulhoff, S. et al. (2024). *arXiv*
@@ -54,3 +51,5 @@ related_reaction:
 **Mechanism:** [[Vibe Coder]] · [[Cognitive Offloading]]
 **Consequence:** [[Deskilling]] · [[AI Dependency]]
 **Reaction:** [[AI Literacy]] · [[Red Teamer]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

@@ -36,11 +36,10 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [The Right to Be Forgotten Across the Pond](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2032325) — Ambrose & Ausloos (2013). _International Data Privacy Law_.
 - [Trans Time: Safety, Privacy, and Content Warnings on aTransgender-Specific Social Media Site
 ](https://www.researchgate.net/publication/344344361_Trans_Time_Safety_Privacy_and_Content_Warnings_on_a_Transgender-Specific_Social_Media_Site) — Haimson, O., Buss, J., Weinger, Z., Starks, D., Gorrell, D., & Baron, B. (2020). _I Proceedings of the ACM on Human-Computer Interaction. 4. 10.1145/3415195. _.
 - [Bisan Owda regains TikTok account after outcry](https://www.aljazeera.com/news/2026/1/30/gaza-based-journalist-bisan-owda-regains-tiktok-account-after-outcry) — Al Jazeera (2026).
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

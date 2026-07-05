@@ -37,9 +37,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [The Shallows](https://wwnorton.com/books/the-shallows/) — Carr, N. (2010). *W.W. Norton*
 - [Alone Together](https://www.basicbooks.com/titles/sherry-turkle/alone-together/9780465093656/) — Turkle, S. (2011). *Basic Books*
@@ -54,3 +51,5 @@ related_reaction:
 **Mechanism:** [[Cognitive Offloading]] · [[Doomscrolling]]
 **Consequence:** [[Deskilling]] · [[AI Dependency]]
 **Reaction:** [[AI Literacy]] · [[Digital Detox]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

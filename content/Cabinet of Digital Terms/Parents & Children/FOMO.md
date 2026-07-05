@@ -38,9 +38,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [FOMO No Mo'](https://www.harbus.org/post/fomo-no-mo) — Ford, T. (2024). _The Harbus_ Article about the origins of FOMO at Harvard Business School and how Patrick McGinnis now critically reflects on the constant anxiety of missing out on opportunities.
 - [Motivational, emotional, and behavioral correlates of fear of missing out](https://www.sciencedirect.com/science/article/pii/S0747563213000800) — Przybylski, A.K., Murayama, K., DeHaan, C.R. & Gladwell, V. (2013). _Computers in Human Behavior_
@@ -59,3 +56,5 @@ related_reaction:
 **Mechanism:** [[Comparison Culture]] · [[Screen Time]]
 **Consequence:** [[Doomscrolling]] · [[Comparison Culture]]
 **Reaction:** [[JOMO]] · [[Digital Detox]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

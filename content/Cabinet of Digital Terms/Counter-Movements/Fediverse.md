@@ -36,9 +36,6 @@ related_reaction:
 **See also:** [[Surveillance Capitalism]] · [[Vendor Lock-in]] · [[Enshittification]] · [[Technofeudalism]] · [[Privacy by Design]] · [[Digital Detox]]
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN University of Applied Sciences, 2026.*
-
 **Read more:**
 - [Alles wat je moet weten over het Fediverse](https://publicspaces.net/alles-wat-je-moet-weten-over-het-fediverse/) — PublicSpaces.net (2024)
 - [The fediverse promises social media without Big Tech – if it can avoid familiar pitfalls](https://www.american.edu/soc/news/the-fediverse-promises-social-media-without-big-tech-if-it-can-avoid-familiar-pitfalls.cfm) — Sinnreich, A. (2025). *American University / The Conversation*
@@ -56,3 +53,5 @@ related_reaction:
 **Mechanism:** [[Enshittification]] · [[Technofeudalism]]
 **Consequence:** [[Digital Exclusion]] · [[Privacy as a Premium]]
 **Reaction:** [[Digital Detox]] · [[Privacy by Design]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

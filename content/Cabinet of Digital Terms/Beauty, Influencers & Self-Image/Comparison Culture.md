@@ -39,9 +39,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [A theory of social comparison processes](https://www.scribd.com/document/887843345/Festinger-L-1954-a-Theory-of-Social-Comparison-Processes-Human-Relations-7-2-117-140) — Festinger, L. (1954). *Human Relations*
 - [Social Comparison, Social Media, and Self-Esteem](https://www.researchgate.net/publication/275507421_Social_comparison_social_media_and_self-esteem) — Vogel, E.A. et al. (2014). *Journal of Social and Personal Relationships*
@@ -56,3 +53,5 @@ related_reaction:
 **Mechanism:** [[Influencer]] · [[Beauty Filter]] · [[Curated Life]]
 **Consequence:** [[Body Dysmorphic Disorder]] · [[FOMO]]
 **Reaction:** [[Deinfluencing]] · [[Digital Detox]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

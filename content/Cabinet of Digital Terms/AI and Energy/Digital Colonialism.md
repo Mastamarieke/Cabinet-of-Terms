@@ -35,9 +35,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [The Costs of Connection](https://doi.org/10.1515/9781503609754) — Couldry, N., & Mejias, U. A. (2019). *Stanford University Press*
 - [Making AI Less Thirsty](https://arxiv.org/abs/2304.03271) — Li, P. et al. (2023). *arXiv*
@@ -52,3 +49,5 @@ related_reaction:
 **Mechanism:** [[Externalized Costs]] · [[Data Center Water Consumption]]
 **Consequence:** [[Sacrifice Zones]]
 **Reaction:** [[Greenwashing]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

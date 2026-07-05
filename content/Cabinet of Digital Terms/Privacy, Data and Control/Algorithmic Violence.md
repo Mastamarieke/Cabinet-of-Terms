@@ -37,9 +37,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [Automating Inequality](https://us.macmillan.com/books/9781250074317/automatinginequality) — Eubanks, V. (2018). *St. Martin's Press*
 - [Algorithms of Oppression](https://nyupress.org/9781479837243/algorithms-of-oppression/) — Noble, S.U. (2018). *NYU Press*
@@ -54,3 +51,5 @@ related_reaction:
 **Mechanism:** [[Vendor Lock-in]] · [[Dataïsme]]
 **Consequence:** [[Digital Exclusion]] · [[Dehumanization]]
 **Reaction:** [[Brussels Effect]] · [[VSD (Value Sensitive Design)]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

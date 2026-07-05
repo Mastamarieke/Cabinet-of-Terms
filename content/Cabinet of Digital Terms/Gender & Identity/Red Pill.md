@@ -36,11 +36,10 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [Alphas, Betas, and Incels](https://doi.org/10.1177/1097184x17706401) — Ging, D. (2019). *Men and Masculinities*
 - [Media Manipulation and Disinformation Online](https://datasociety.net/library/media-manipulation-and-disinfo-online/) — Marwick, A. & Lewis, R. (2017). *Data & Society*
 - [The Red Pill](https://www.imdb.com/title/tt3686998/). Cassie Jaye. (2016).*IMD Productions*
 - [Taking the Red Pill: Conspiracy Theories, Gender, and the ‘Manosphere’](https://research-information.bris.ac.uk/en/publications/taking-the-red-pill-conspiracy-theories-gender-and-the-elusive-ep/). Van Veeren, E. S. (2025). *International Feminist Journal of Politics*
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

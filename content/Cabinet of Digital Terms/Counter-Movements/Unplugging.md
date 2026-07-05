@@ -37,9 +37,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [Digital detox: Media resistance and the promise of authenticity](https://www.researchgate.net/publication/333171827_Digital_detox_Media_resistance_and_the_promise_of_authenticity) — Syvertsen, T. & Enli, G. (2019). *New Media & Society*
 - [Does putting down your smartphone make you happier? the effects of restricting digital media on well-being](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11472914/) — Wilmer, H.H. et al. (2024). *PLoS ONE*
@@ -55,3 +52,5 @@ related_reaction:
 **Mechanism:** [[Digital Detox]] · [[Slow Media]]
 **Consequence:** [[FOMO]] · [[Cognitive Surrender]]
 **Reaction:** [[JOMO]] · [[Mindful Scrolling]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

@@ -36,10 +36,9 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - - [The '**groomer**' anti-LGBTQ+ panic is not new — and has caused immense harm](https://www.washingtonpost.com/made-by-history/2023/07/24/**groomer**-lgbtq-germany-children/) — Cassisa, S., _The Washington Post_ (2023)
 - [The Groomer Smear](https://www.lawfaremedia.org/article/groomer-smear) — Caraballo, A., _Harvard Law School / Lawfare_ (2022)
 - [Review of Online Grooming: Characteristics and Concerns](https://www.ojp.gov/ncjrs/virtual-library/abstracts/review-online-grooming-characteristics-and-concerns) — Whittle, H. & Hamilton-Giachritsis, C., _Aggression and Violent Behavior_ / National Institute of Justice (2013)
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

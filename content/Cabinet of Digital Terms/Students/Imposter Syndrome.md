@@ -37,9 +37,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [The Impostor Phenomenon in High Achieving Women](https://doi.org/10.1177/001573257801500204) — Clance, P.R. & Imes, S. (1978). *Psychotherapy: Theory, Research and Practice*
 - [Feeling Like a Fraud](https://doi.org/10.1177/0361684313509627) — Parkman, A. (2016). *Journal of Health Psychology*
@@ -56,3 +53,5 @@ related_reaction:
 **Mechanism:** [[Personal Branding]] · [[Hustle Culture]]
 **Consequence:** [[Doom Spending]] · [[Hustle Culture]]
 **Reaction:** [[JOMO]] · [[Digital Detox]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

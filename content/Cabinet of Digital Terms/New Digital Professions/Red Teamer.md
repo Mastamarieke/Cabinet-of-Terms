@@ -35,9 +35,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [Red Teaming Language Models to Reduce Harms: # Methods, Scaling Behaviors, and Lessons Learned](https://arxiv.org/abs/2209.07858) — Ganguli, D. et al. (2022). *arXiv / Anthropic*
 - [Sociotechnical Safety Evaluation of Generative AI Systems](https://doi.org/10.48550/arXiv.2310.11986) — Weidinger, L. et al. (2023). *arXiv / DeepMind*
@@ -52,3 +49,5 @@ related_reaction:
 **Mechanism:** [[Prompt Engineer]]
 **Consequence:** [[AI Dependency]]
 **Reaction:** [[AI Literacy]] · [[VSD (Value Sensitive Design)]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

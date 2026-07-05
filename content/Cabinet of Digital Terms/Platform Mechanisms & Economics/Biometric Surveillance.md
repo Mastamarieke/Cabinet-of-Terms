@@ -43,9 +43,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [Atlas of AI](https://yalebooks.yale.edu/book/9780300209570/atlas-of-ai/) — Crawford, K. (2021). *Yale University Press*
 - - [Touch ID](https://support.apple.com/en-us/105095) — Apple Inc. (2013). _Apple Support_
@@ -66,3 +63,5 @@ related_reaction:
 **Mechanism:** [[Algorithmic Violence]] · [[Deceptive Design]]
 **Consequence:** [[Algorithmic Violence]] · [[Deadnaming]]
 **Reaction:** [[Brussels Effect]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

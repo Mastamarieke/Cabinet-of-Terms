@@ -37,9 +37,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [From Game Design Elements to Gamefulness](https://doi.org/10.1145/2181037.2181040) — Deterding, S. et al. (2011). *ACM MindTrek*
 - [An Ontology of Dark Patterns](https://doi.org/10.1145/3613904.3642436) — Gray, C.M. et al. (2024). *ACM CHI*
@@ -54,3 +51,5 @@ related_reaction:
 **Mechanism:** [[Dark Patterns]] · [[Predatory Design]]
 **Consequence:** [[Gaming Disorder]] · [[Deskilling]]
 **Reaction:** [[Fair Patterns]] · [[VSD (Value Sensitive Design)]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

@@ -37,9 +37,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [Going Infinite](https://www.penguinrandomhouse.com/books/723558/going-infinite-by-michael-lewis/) — Lewis, M. (2023). *W.W. Norton* — on FTX as the criminal endpoint of crypto culture
 - [The TRUMP Memecoin](https://www.ft.com/content/trump-memecoin-analysis) — Financial Times (2025)
@@ -60,3 +57,5 @@ related_reaction:
 **Mechanism:** [[Grifters]] · [[About Subcultural Vocabulary and Platform Language]]
 **Consequence:** [[Grifters]] · [[Financial Fabulism]]
 **Reaction:** [[Brussels Effect]] · [[AI Literacy]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

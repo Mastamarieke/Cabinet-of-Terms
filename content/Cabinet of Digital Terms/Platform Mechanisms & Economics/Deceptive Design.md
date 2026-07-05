@@ -37,9 +37,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [Dark Patterns at Scale](https://doi.org/10.1145/3359183) — Mathur, A. et al. (2019). *ACM CSCW*
 - [EDPB Guidelines on Deceptive Design Patterns](https://edpb.europa.eu/our-work-tools/our-documents/guidelines/guidelines-032022-deceptive-design-patterns-social-media_en) — European Data Protection Board (2022)
@@ -54,3 +51,5 @@ related_reaction:
 **Mechanism:** [[Fair Patterns]] · [[Nudging]]
 **Consequence:** [[Cognitive Surrender]] · [[Vendor Lock-in]]
 **Reaction:** [[Fair Patterns]] · [[VSD (Value Sensitive Design)]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

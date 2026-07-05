@@ -36,9 +36,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [Algospeak Is Changing Our Language in Real Time](https://www.washingtonpost.com/technology/2022/04/08/algospeak-tiktok-le-dollar-bean/) — Lorenz, T. (2022). *Washington Post*
 - [How Social Media Platforms Shape Language](https://doi.org/10.1080/10350330.2022.2063301) — Squires, L. (2022). *Social Semiotics*
@@ -57,3 +54,5 @@ related_reaction:
 **Mechanism:** [[Content Moderator]] · [[Ragebaiting]]
 **Consequence:** [[Brain Rot]] · [[Deplatforming]]
 **Reaction:** [[AI Literacy]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

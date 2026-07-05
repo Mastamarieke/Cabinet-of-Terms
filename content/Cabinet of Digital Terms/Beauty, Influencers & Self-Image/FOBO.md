@@ -36,9 +36,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [Fear of Missing Out](https://books.google.nl/books/about/Fear_of_Missing_Out.html?id=zPJixwEACAAJ&redir_esc=y) — McGinnis, P. (2020). *Sourcebooks*
 - [The Paradox of Choice](https://www.harpercollins.com/products/the-paradox-of-choice-barry-schwartz) — Schwartz, B. (2004). *HarperCollins*
@@ -53,3 +50,5 @@ related_reaction:
 **Mechanism:** [[Curated Life]] · [[Highlight Reel]]
 **Consequence:** [[Comparison Culture]]
 **Reaction:** [[JOMO]] · [[Digital Detox]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

@@ -36,9 +36,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [Misinformation and Its Correction: Continued Influence and Successful Debiasing](https://journals.sagepub.com/doi/10.1177/1529100612451018) — Lewandowsky, S., Ecker, U.K.H., Seifert, C.M., Schwarz, N. & Cook, J. (2012). *Psychological Science in the Public Interest.
 - [The Fact Checker rose in an era of false claims. Falsehoods are now winning.](https://www.washingtonpost.com/politics/2025/07/31/fact-checker-falsehoods-glenn-kessler/) — Kessler, G. (2025). _The Washington Post_  
@@ -55,3 +52,5 @@ related_reaction:
 **Mechanism:** [[Content Moderator]] · [[Flood the Zone]]
 **Consequence:** [[Deplatforming]]
 **Reaction:** [[AI Literacy]] · [[Slow Media]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

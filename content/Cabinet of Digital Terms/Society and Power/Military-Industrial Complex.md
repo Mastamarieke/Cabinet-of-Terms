@@ -39,9 +39,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [President Dwight D. Eisenhower’s Farewell Address](https://www.archives.gov/milestone-documents/president-dwight-d-eisenhowers-farewell-address) — Eisenhower, D. D. (1961). _National Archives_ 
 - [The Military-Industrial Complex Speech](https://constitutioncenter.org/the-constitution/historic-document-library/detail/the-military-industrial-complex-speech-1961) — Eisenhower, D. D. (1961). 
@@ -63,3 +60,5 @@ related_reaction:
 **Mechanism:** [[Revolving Door]] · [[Digital-Military-Industrial Complex]]
 **Consequence:** [[Digital-Military-Industrial Complex]] · [[Reconstruction Economy]]
 **Reaction:** [[Brussels Effect]] · [[Situated Knowledge]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

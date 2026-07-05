@@ -36,10 +36,8 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [The Reactionary Mind](https://global.oup.com/academic/product/the-reactionary-mind-9780190692001) — Robin, C. (2011). *Oxford University Press*
 - [Woke: A Field Guide for Utopia Preppers](https://www.amazon.com/Woke-Field-Guide-Utopia-Preppers/dp/064823455X) — Johnstone, C. (2017/2019). Self-published.
 
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

@@ -41,9 +41,6 @@ Once you see **Narrative Engineering** as infrastructure rather than persuasion,
 - [Network Propaganda: Manipulation, Disinformation, and Radicalization in American Politics](https://academic.oup.com/book/26406) — Benkler, Y., Faris, R. & Roberts, H. (2018). *Oxford University Press*
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 ---
 
 ## Navigation
@@ -57,3 +54,5 @@ Once you see **Narrative Engineering** as infrastructure rather than persuasion,
 
 **Public entry:** this document
 **Deep analysis:** *in production*
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

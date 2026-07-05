@@ -36,9 +36,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [The Influencer Industry](https://press.princeton.edu/books/hardcover/9780691231020/the-influencer-industry?srsltid=AfmBOor4zg-QWFHQeHwgkb6UNw9yzshMv_SAphGsbYnuNL5pz1jrR3zX) — Duffy, B.E. (2017). *Princeton University Press*
 - [Fitspiration on Social Media](https://www.researchgate.net/publication/315902489_Fitspiration_on_Social_Media_A_Content_Analysis_of_Gendered_Images) — Tiggemann, M. & Zaccardo, M. (2017). *New Media & Society*
@@ -53,3 +50,5 @@ related_reaction:
 **Mechanism:** [[Influencer]] · [[That Girl]]
 **Consequence:** [[Body Dysmorphic Disorder]] · [[Comparison Culture]]
 **Reaction:** [[Deinfluencing]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

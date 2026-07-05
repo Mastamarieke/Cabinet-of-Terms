@@ -37,9 +37,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [_Bunker: Building for the End Times_](https://www.bradleygarrett.com/bunker/). Garrett, B. (2020). _Penguin Random House_
 - [_Doomsday Preppers_](https://www.natgeotv.com/nl/programmas/natgeo/doomsday-preppers). _National Geographic_ (2012–2014)
@@ -57,3 +54,5 @@ related_reaction:
 **Mechanism:** [[Doomsday Prep for the Super-Rich]] · [[Disaster Nationalism]]
 **Consequence:** [[Doomsday Prep for the Super-Rich]] · [[Doomerism]]
 **Reaction:** [[Situated Knowledge]] · [[AI Literacy]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

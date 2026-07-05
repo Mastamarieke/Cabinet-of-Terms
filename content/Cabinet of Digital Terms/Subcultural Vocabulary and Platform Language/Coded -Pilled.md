@@ -36,9 +36,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [The Linguistics of the Internet](https://global.oup.com/academic/product/the-linguistics-of-the-internet-9780521682602) — Crystal, D. (2011). *Cambridge University Press
 - [Enregistering Internet Language**](https://www.cambridge.org/core/journals/language-in-society/article/enregistering-internet-language/F8A79BB74879D022D911F3B818B727BF?utm_source=chatgpt.com) — Squires, L. (2010), _Language in Society_.  
@@ -57,3 +54,5 @@ related_reaction:
 **Mechanism:** [[Red Pill]] · [[Algospeak]]
 **Consequence:** [[Red Pill]] · [[Echo Chamber]]
 **Reaction:** [[AI Literacy]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

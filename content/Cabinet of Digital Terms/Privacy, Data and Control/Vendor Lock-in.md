@@ -37,9 +37,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [Critical analysis of vendor lock-in and its impact on cloud computing migration: a business perspective](https://www.researchgate.net/publication/301334572_Critical_analysis_of_vendor_lock-in_and_its_impact_on_cloud_computing_migration_a_business_perspective?utm_source=chatgpt.com) — Opara-Martins, J., Sahandi, R. & Tian, F. (2016). _Journal of Cloud Computing_
 - [The Internet Con](https://www.versobooks.com/products/3035-the-internet-con) — Doctorow, C. (2023). *Verso Books* 
@@ -57,3 +54,5 @@ related_reaction:
 **Mechanism:** [[CLOUD Act]] · [[Technofeudalism]]
 **Consequence:** [[Technofeudalism]] · [[Algorithmic Violence]]
 **Reaction:** [[Brussels Effect]] · [[Fair Patterns]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

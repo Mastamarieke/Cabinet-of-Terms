@@ -36,9 +36,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [The Age of Surveillance Capitalism](https://www.publicaffairsbooks.com/titles/shoshana-zuboff/the-age-of-surveillance-capitalism/9781610395694/) — Zuboff, S. (2019). *PublicAffairs*
 - [Zuckerberg's Congressional Testimony](https://www.c-span.org/video/?443543-1/facebook-ceo-mark-zuckerberg-testifies-senate-judiciary-commerce-committees) — C-SPAN (2018)
@@ -55,3 +52,5 @@ related_reaction:
 **Mechanism:** [[Privacy Washing]] · [[Microtargeting]]
 **Consequence:** [[Privacy Washing]] · [[Algorithmic Violence]]
 **Reaction:** [[Brussels Effect]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

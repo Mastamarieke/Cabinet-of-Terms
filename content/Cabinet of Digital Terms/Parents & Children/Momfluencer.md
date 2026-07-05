@@ -36,9 +36,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [(Not) Getting Paid to Do What You Love: Gender, Social Media, and Aspirational Work](https://yalebooks.yale.edu/book/9780300227666/not-getting-paid-to-do-what-you-love/) — Duffy, B.E. (2017). _Yale University Press_  
 - 
@@ -53,3 +50,5 @@ related_reaction:
 **Mechanism:** [[Family Vlogging]] · [[Kidfluencer]]
 **Consequence:** [[Kidfluencer]] · [[Comparison Culture]]
 **Reaction:** [[Deinfluencing]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

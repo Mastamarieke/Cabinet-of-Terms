@@ -37,9 +37,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [The Shock Doctrine: The Rise of Disaster Capitalism](https://www.amazon.fr/Shock-Doctrine-Rise-Disaster-Capitalism/dp/0676978002) — Klein, N. (2007). _Metropolitan Books_  
 - [Disaster Capitalism](https://www.anthropolitics.org/wp-content/uploads/2019/05/Schuller-and-Maldonado-Disaster-capitalism.pdf) — Schuller, M., & Maldonado, J.K. (2016). _Annals of Anthropological Practice_ 
@@ -55,3 +52,5 @@ related_reaction:
 **Mechanism:** [[Revolving Door]] · [[Financial Fabulism]]
 **Consequence:** [[Sovereignty as a Service]] · [[Grifters]]
 **Reaction:** [[Brussels Effect]] · [[Situated Knowledge]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

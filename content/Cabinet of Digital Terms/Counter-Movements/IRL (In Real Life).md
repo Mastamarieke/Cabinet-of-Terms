@@ -43,9 +43,6 @@ Once you see IRL as a symptom of digital dominance rather than just a term, you 
 - [IRL: Finding Realness, Meaning, and Belonging in Our Digital Lives](https://www.broadleafbooks.com/store/product/9781506485157/IRL) — Stedman, C. (2020). *Broadleaf Books*
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 ---
 
 ## Navigation
@@ -59,3 +56,5 @@ Once you see IRL as a symptom of digital dominance rather than just a term, you 
 
 **Public entry:** this document
 **Deep analysis:** *in production*
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

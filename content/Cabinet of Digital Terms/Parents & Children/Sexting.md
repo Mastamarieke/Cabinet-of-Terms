@@ -38,9 +38,6 @@ Recent developments in generative AI have further complicated these debates. Res
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [‘Sexting’: the exchange of sexual messages online among European youth](https://www.researchgate.net/publication/233420813_%27Sexting%27_The_exchange_of_sexual_messages_online_among_European_youth) — Livingstone, S. & Görzig, A. (2012). _London School of Economics and Political Science_
 - [Children, Risk and Safety on the Internet](https://www.degruyter.com/document/doi/10.56687/9781847428844/html) — Livingstone, S., Haddon, L. & Görzig, A. (2012). _Policy Press_
@@ -66,3 +63,5 @@ Recent developments in generative AI have further complicated these debates. Res
 **Mechanism:** [[Catfishing]] · [[Online Grooming]]
 **Consequence:** [[Online Grooming]]
 **Reaction:** [[Brussels Effect]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

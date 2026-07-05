@@ -37,9 +37,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [Google Effects on Memory: Cognitive Consequences of Having Information at Our Fingertips](https://www.researchgate.net/publication/51498032_Google_Effects_on_Memory_Cognitive_Consequences_of_Having_Information_at_Our_Fingertips) — Sparrow, B., Liu, J. & Wegner, D.M. (2011). *Science*
 - [Digital Amnesia Report](https://media.kaspersky.com/pdf/Kaspersky-Digital-Amnesia-Evolution-report-17-08-16.pdf) — Kaspersky Lab (2015)
@@ -54,3 +51,5 @@ related_reaction:
 **Mechanism:** [[Cognitive Surrender]] · [[Deskilling]]
 **Consequence:** [[Deskilling]] · [[Cognitive Surrender]]
 **Reaction:** [[AI Literacy]] · [[Digital Detox]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

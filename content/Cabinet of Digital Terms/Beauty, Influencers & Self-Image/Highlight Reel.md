@@ -36,9 +36,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [A theory of social comparison processes](https://journals.sagepub.com/doi/10.1177/001872675400700202) — Festinger, L. (1954). *Human Relations*
 - [Social Comparison, Social Media, and Self-Evaluation](https://www.researchgate.net/publication/275507421_Social_comparison_social_media_and_self-esteem) — Vogel, E.A. et al. (2014). *Journal of Social and Personal Relationships*
@@ -53,3 +50,5 @@ related_reaction:
 **Mechanism:** [[Curated Life]] · [[Influencer]]
 **Consequence:** [[Body Dysmorphic Disorder]] · [[Comparison Culture]]
 **Reaction:** [[Deinfluencing]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

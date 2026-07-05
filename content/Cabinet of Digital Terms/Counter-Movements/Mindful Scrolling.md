@@ -36,9 +36,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [How to Break Up with Your Phone](https://books.google.nl/books?id=dbskEQAAQBAJ&printsec=frontcover&hl=nl&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false) — Price, C. (2018, 2025). *Ten Speed Press*
 - [Unhooked by Design: Scrolling Mindfully on Social Media by Automating Digital Nudges](https://www.researchgate.net/publication/352466233_Unhooked_by_Design_Scrolling_Mindfully_on_Social_Media_by_Automating_Digital_Nudges) — Purohit, A.K. et al. (2021). *Conference: Twenty-Seventh Americas Conference on Information Systems. At: Montreal: Lab: Adrian Holzer's Lab*
@@ -53,3 +50,5 @@ related_reaction:
 **Mechanism:** [[Digital Detox]] · [[Slow Media]]
 **Consequence:** [[Cognitive Surrender]]
 **Reaction:** [[JOMO]] · [[Tech-Free Challenge]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

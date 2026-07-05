@@ -42,9 +42,6 @@ Once you see **wexting** infrastructure as an externalised cost of platform desi
 - [Texting and Walking: Strategies for Postural Control and Implications for Safety](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3898913/) — Licence, S. et al. (2014). *PLoS ONE*
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 ---
 
 ## Navigation
@@ -58,3 +55,5 @@ Once you see **wexting** infrastructure as an externalised cost of platform desi
 
 **Public entry:** this document
 **Deep analysis:** *in production*
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

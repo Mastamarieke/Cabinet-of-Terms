@@ -36,9 +36,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [Slop](https://simonwillison.net/2024/May/8/slop/) — Willison, S. (2024). *simonwillison.net*
 - [On the Dangers of Stochastic Parrots](https://doi.org/10.1145/3442188.3445922) — Bender, E.M. et al. (2021). *ACM FAccT*
@@ -53,3 +50,5 @@ related_reaction:
 **Mechanism:** [[AI Hallucination]] · [[Synthetic Generation]]
 **Consequence:** [[Deskilling]] · [[Age of Average]]
 **Reaction:** [[AI Literacy]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

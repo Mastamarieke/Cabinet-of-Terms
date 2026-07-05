@@ -33,9 +33,6 @@ related_reaction: []
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [Is "Snapchat Dysmorphia" a Real Issue?](https://doi.org/10.7759/cureus.2263) — Ramphul, K. & Mejias, S. (2018). *Cureus*
 - [Social Media–Filtered Pics Can Be Hazardous to Your Health](https://www.bu.edu/articles/2018/snapchat-dysmorphia/) — Boston University (2019)
@@ -48,3 +45,5 @@ related_reaction: []
 
 **Cause:** [[Beauty Filter]] · [[Comparison Culture]]
 **Mechanism:** [[Looksmaxxing]] · [[Highlight Reel]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

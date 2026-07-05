@@ -41,9 +41,6 @@ Once you see **technostress** as a design outcome rather than individual incapac
 - [The Impact of Technostress on Role Stress and Productivity](https://www.researchgate.net/publication/220591007_The_Impact_of_Technostress_on_Role_Stress_and_Productivity) — Tarafdar, M. et al. (2007). *Journal of Management Information Systems*
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 ---
 
 ## Navigation
@@ -57,3 +54,5 @@ Once you see **technostress** as a design outcome rather than individual incapac
 
 **Public entry:** this document
 **Deep analysis:** *in production*
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

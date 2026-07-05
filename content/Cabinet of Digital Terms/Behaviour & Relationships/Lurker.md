@@ -36,9 +36,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [Lurking: How a Person Became a User](https://www.amazon.nl/Lurking-How-Person-Became-User/dp/0374194335) — McNiel J (2020). *MCD*
 - [The top five reasons for lurking: improving community experiences for everyone](https://www.dhi.ac.uk/san/waysofbeing/data/communities-murphy-preece-2004b.pdf) — Preece, J., Nonnecke, B. & Andrews, D. (2004). *CHI*
@@ -53,3 +50,5 @@ related_reaction:
 **Mechanism:** [[Phatic Interaction]] · [[Orbiting]]
 **Consequence:** [[Phatic Interaction]] · [[Cognitive Surrender]]
 **Reaction:** [[JOMO]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

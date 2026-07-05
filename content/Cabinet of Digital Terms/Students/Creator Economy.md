@@ -37,9 +37,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [(Not) Getting Paid to Do What You Love: Gender, Social Media, and Aspirational Work](https://www.researchgate.net/publication/321127402_Not_getting_paid_to_do_what_you_love_Gender_social_media_and_aspirational_work?utm_source=chatgpt.com) — Duffy, B.E. (2017). _Yale University Press_
 - [The Influencer Industry: The Quest for Authenticity on Social Media](https://www.researchgate.net/publication/373793528_Emily_Hund_The_influencer_industry_The_quest_for_authenticity_on_social_media) — Hund, E. (2023). _Princeton University Press_
@@ -54,3 +51,5 @@ related_reaction:
 **Mechanism:** [[Hustle Culture]] · [[Personal Branding]]
 **Consequence:** [[Hustle Culture]] · [[Deskilling]]
 **Reaction:** [[Fair Patterns]] · [[AI Literacy]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

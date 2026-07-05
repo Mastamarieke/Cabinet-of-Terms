@@ -39,9 +39,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [The Sirens of Mars](https://www.penguinrandomhouse.com/books/579563/the-sirens-of-mars-by-sarah-stewart-johnson/) — Stewart Johnson, S. (2020). *Crown* — on Mars in culture and science
 - [The Case for Mars](https://www.amazon.com/Sirens-Mars-Searching-Another-World/dp/1101904836) — Zubrin, R. (2011). _Simon & Schuster_
@@ -58,3 +55,5 @@ related_reaction:
 **Mechanism:** [[Fortress Futurism]] · [[Longtermism]]
 **Consequence:** [[Fortress Futurism]] · [[Externalized Costs]]
 **Reaction:** [[Situated Knowledge]] · [[Brussels Effect]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

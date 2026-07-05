@@ -37,9 +37,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [The Human Use of Human Beings](https://www.dacapopress.com/titles/norbert-wiener/the-human-use-of-human-beings/9780306803208/) — Wiener, N. (1950). *Da Capo Press*
 - [Muskism](https://www.theguardian.com/commentisfree/2026/jan/muskism) — Slobodian, Q. & Tarnoff, B. (2026). *The Guardian*
@@ -58,3 +55,5 @@ related_reaction:
 **Mechanism:** [[Cyborg Musk]] · [[Brain-Computer Interface]]
 **Consequence:** [[Technofeudalism]] · [[Muskism]]
 **Reaction:** [[Cyberfeminism]] · [[Brussels Effect]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

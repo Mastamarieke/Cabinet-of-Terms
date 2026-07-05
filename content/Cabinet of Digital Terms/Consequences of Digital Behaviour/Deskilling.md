@@ -41,9 +41,6 @@ Once you see **deskilling** as structural rather than personal, you see that the
 - [Race Against the Machine](https://ide.mit.edu/sites/default/files/publications/Brynjolfsson_McAfee_Race_Against_the_Machine.pdf) — Brynjolfsson, E. & McAfee, A. (2011). *Digital Frontier Press*
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 ---
 
 ## Navigation
@@ -57,3 +54,5 @@ Once you see **deskilling** as structural rather than personal, you see that the
 
 **Public entry:** this document
 **Deep analysis:** *in production*
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

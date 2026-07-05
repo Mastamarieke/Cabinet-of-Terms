@@ -36,9 +36,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [**Gary Vaynerchuk’s Actual Thoughts on Hustle**](https://garyvaynerchuk.com/gary-vaynerchuk-thoughts-on-hustle/?utm_source=chatgpt.com) — Team GaryVee (2018), _GaryVaynerchuk.com_.
 - [**The darker side of hustle culture**](https://www.axios.com/2021/06/08/hustle-culture-pandemic-job-security?utm_source=chatgpt.com) — Pandey, E. (2021), _Axios_.
@@ -58,3 +55,5 @@ related_reaction:
 **Mechanism:** [[Personal Branding]] · [[Doom Spending]]
 **Consequence:** [[Doom Spending]]
 **Reaction:** [[JOMO]] · [[Digital Detox]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

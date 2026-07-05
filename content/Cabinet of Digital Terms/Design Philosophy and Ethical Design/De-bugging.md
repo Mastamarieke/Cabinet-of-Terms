@@ -35,9 +35,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [Speculative Everything](https://mitpress.mit.edu/9780262019842/) — Dunne, A. & Raby, F. (2013). *MIT Press*
 - [Critical Technical Practice](https://gridspinoza.net/sites/default/files/2016-07/Toward%20a%20Critical%20Technical%20Practice%3A%20Lessons%20Learned%20in%20Trying%20to%20Reform%20AI%20Philip%20E.%20Agre.pdf) — Agre, P.E. (1997). *Chapter in the Book _Bridging the_
@@ -53,3 +50,5 @@ _Great Divide: Social Science, Technical Systems, and Cooperative Work_*
 **Mechanism:** [[Unblackboxing]]
 **Consequence:** [[Unblackboxing]]
 **Reaction:** [[VSD (Value Sensitive Design)]] · [[Fair Patterns]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

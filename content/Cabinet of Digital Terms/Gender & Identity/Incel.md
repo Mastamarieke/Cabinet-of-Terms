@@ -36,12 +36,11 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [Involuntary Celibates' Experiences of and Grievances Toward Women](https://doi.org/10.1007/s10508-020-01856-4) — Sparks, J. (2023). *Archives of Sexual Behavior*
 - [Alphas, Betas, and Incels](https://www.researchgate.net/publication/316845210_Alphas_Betas_and_Incels_Theorizing_the_Masculinities_of_the_Manosphere) — Ging, D. (2019). *Men and Masculinities*
 - _The Rage of the Incels_. Futrelle, D. (2021). _Penguin Random House_
 - [Elliot Rodger and the Incel Movement](https://www.bbc.com/news/world-us-canada-43892189). BBC News. (2018).
 - [incels](https://www.wehuntedthemammoth.com/category/incels/). Futrelle, D. (n.d.).
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

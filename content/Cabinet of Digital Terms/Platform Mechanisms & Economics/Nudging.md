@@ -36,9 +36,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [Nudge: Improving Decisions About Health, Wealth, and Happiness](https://www.amazon.com/Nudge-Improving-Decisions-Health-Happiness/dp/014311526X) — Thaler, R. & Sunstein, C. (2008). *Yale University Press*
 - [The Behavioural Insights Team](https://www.bi.team/) — Behavioural Insights Team (2010–present). _Behavioural Insights Team / UK Government origins_
@@ -53,3 +50,5 @@ related_reaction:
 **Mechanism:** [[Dark Patterns]] · [[Deceptive Design]]
 **Consequence:** [[Cognitive Surrender]]
 **Reaction:** [[VSD (Value Sensitive Design)]] · [[Fair Patterns]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

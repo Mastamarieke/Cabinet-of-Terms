@@ -36,9 +36,6 @@ The activist Aurora Gómez of this collective notes that even local mayors have 
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [Making AI Less Thirsty](https://arxiv.org/abs/2304.03271) — Li, P. et al. (2023). *arXiv*
 - [Tu Nube Seca Mi Río](https://tunubesecamirio.com) — Spanish activist collective (ongoing)
@@ -54,3 +51,5 @@ The activist Aurora Gómez of this collective notes that even local mayors have 
 **Mechanism:** [[Externalized Costs]]
 **Consequence:** [[Sacrifice Zones]] · [[Digital Colonialism]]
 **Reaction:** [[Greenwashing]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

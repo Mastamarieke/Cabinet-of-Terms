@@ -37,9 +37,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [Crack-Up Capitalism](https://www.penguinrandomhouse.com/books/699131/crack-up-capitalism-by-quinn-slobodian/) — Slobodian, Q. (2023). *Metropolitan Books*
 - [Muskism](https://www.theguardian.com/books/2026/mar/26/muskism-by-quinn-slobodian-and-ben-tarnoff-review-how-elon-musk-is-reshaping-the-world) — Slobodian, Q. & Tarnoff, B. (2026). _The Guardian_ 
@@ -59,3 +56,5 @@ related_reaction:
 **Mechanism:** [[Revolving Door]] · [[Founder Mode]]
 **Consequence:** [[Technofascism]] · [[Muskism]]
 **Reaction:** [[Cyberfeminism]] · [[Brussels Effect]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

@@ -41,9 +41,6 @@ As the term spread online in 2023, it became both an ideology and an aesthetic: 
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [Kevin Roose Explains Effective Accelerationism (e/acc) in AI_](https://chatgptiseatingtheworld.com/2023/12/10/kevin-roose-explains-effective-accelerationism-e-acc-in-ai/). Roose, K. _ChatGPT Is Eating the World_
 - [Effective Accelerationism and “Beff Jezos” Form New Tech Tribe_](https://www.bloomberg.com/news/newsletters/2023-12-06/effective-accelerationism-and-beff-jezos-form-new-tech-tribe). Ongweso Jr., E. _Bloomberg_
@@ -58,3 +55,5 @@ As the term spread online in 2023, it became both an ideology and an aesthetic: 
 **Mechanism:** [[Longtermism]] · [[Technofascism]]
 **Consequence:** [[Technofascism]] · [[Doomerism]]
 **Reaction:** [[Brussels Effect]] · [[AI Literacy]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

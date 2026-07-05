@@ -43,9 +43,6 @@ This dynamic also connects to broader research on extremist political culture. I
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [Meme Wars: The Untold Story of the Online Battles Upending Democracy in America](https://www.bloomsbury.com/us/meme-wars-9781635578638/) — Donovan, J., Dreyfuss, E. & Friedberg, B. (2022). *Bloomsbury*
 - [Bring the War Home](https://www.hup.harvard.edu/file/feeds/PDF/9780674237698_sample.pdf) — Belew, K. (2018). *Harvard University Press* — on far-right aesthetic culture
@@ -62,3 +59,5 @@ This dynamic also connects to broader research on extremist political culture. I
 **Mechanism:** [[Endtime Fascism]] · [[Flood the Zone]]
 **Consequence:** [[Technofascism]] · [[Endtime Fascism]]
 **Reaction:** [[AI Literacy]] · [[Fact Checker]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

@@ -37,9 +37,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [‘Brain Rot,’ the Scourge of the Chronically Online, Becomes Oxford’s 2024 Word of the Year](https://www.smithsonianmag.com/smart-news/brain-rot-the-scourge-of-the-chronically-online-becomes-oxfords-2024-word-of-year-180985560/) — Binswanger, J. (2024). _Smithsonian Magazine_
 - [‘Brain rot’ named Oxford Word of the Year 2024](https://corp.oup.com/news/brain-rot-named-oxford-word-of-the-year-2024/) — Oxford University Press. (2024). _Oxford University Press_
@@ -57,3 +54,5 @@ related_reaction:
 **Mechanism:** [[Doomscrolling]] · [[Screen Time]]
 **Consequence:** [[Deskilling]] · [[Cognitive Surrender]]
 **Reaction:** [[Digital Detox]] · [[Slow Media]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

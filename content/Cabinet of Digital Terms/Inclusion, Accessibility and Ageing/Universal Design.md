@@ -36,9 +36,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [The Principles of Universal Design](https://design.ncsu.edu/research/center-for-universal-design/) — Mace, R. et al. (1997). *NC State University*
 - [Universal Design: Creating Inclusive Environments](https://www.wiley.com/en-be/Universal+Design%3A+Creating+Inclusive+Environments-p-9780470399132) — Steinfeld, E. & Maisel, J. (2012). *Wiley*
@@ -54,3 +51,5 @@ related_reaction:
 **Mechanism:** [[Accessibility]] · [[Inclusive Design]]
 **Consequence:** [[Digital Divide]]
 **Reaction:** [[Inclusive Design]] · [[VSD (Value Sensitive Design)]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

@@ -37,9 +37,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [Mismatch: How Inclusion Shapes Design](https://mitpress.mit.edu/9780262539487/) — Holmes, K. (2018). *MIT Press*
 -  [The **Digital Coach**: discover identity, role, and path to success](https://www.digital-coach.com/articles/lucapapa/how-to-become-a-digital-coach/) — Papa, L. (2022). _Digital Coach_
@@ -56,3 +53,5 @@ related_reaction:
 **Mechanism:** [[De-installer]] · [[Tech Abandonment]]
 **Consequence:** [[Tech Abandonment]] · [[Digital Exclusion]]
 **Reaction:** [[Inclusive Design]] · [[Universal Design]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

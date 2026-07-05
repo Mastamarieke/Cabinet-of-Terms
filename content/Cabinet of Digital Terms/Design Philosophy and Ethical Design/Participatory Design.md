@@ -36,9 +36,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN University of Applied Sciences, 2026.*
-
 **Read more:**
 - [Scandinavian Approaches to Participatory Design](https://www.ijee.ie/articles/Vol19-1/IJEE1353.pdf) — Bødker, S. et al. (2009). *International Journal of Engineering Education*
 - [Participatory Design: Principles and Practices](https://dl.acm.org/doi/pdf/10.1145/153571.255960) — Schuler, D. & Namioka, A. (1993). *ACM Digital Library*
@@ -54,3 +51,5 @@ related_reaction:
 **Mechanism:** [[VSD (Value Sensitive Design)]] · [[Design Justice]]
 **Consequence:** [[Unblackboxing]]
 **Reaction:** [[Fair Patterns]] · [[Adversarial Design]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

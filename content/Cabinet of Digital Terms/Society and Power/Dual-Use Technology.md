@@ -36,9 +36,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [EU Dual-Use Regulation 2021/821](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32021R0821) — European Union (2021)
 - [The Pentagon's Silicon Valley Problem](https://doi.org/10.1093/jogss/ogz012) — Dafoe, A. (2019). *Journal of Global Security Studies*
@@ -56,3 +53,5 @@ related_reaction:
 **Mechanism:** [[Revolving Door]]
 **Consequence:** [[Digital-Military-Industrial Complex]] · [[Reconstruction Economy]]
 **Reaction:** [[Brussels Effect]] · [[Red Teamer]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

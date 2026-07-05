@@ -37,9 +37,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [Survival of the Richest](https://onezero.medium.com/survival-of-the-richest-9ef6cddd0cc1) — Rushkoff, D. (2018). _OneZero / Medium_ 
 - [Crack-Up Capitalism](https://www.penguin.co.uk/books/316685/crack-up-capitalism-by-slobodian-quinn/9780141993768) — Slobodian, Q. (2023). _Metropolitan Books_ 
@@ -56,3 +53,5 @@ related_reaction:
 **Mechanism:** [[Longtermism]] · [[Mars Colonization]]
 **Consequence:** [[Technofeudalism]] · [[Broligarchy]]
 **Reaction:** [[Situated Knowledge]] · [[Cyberfeminism]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

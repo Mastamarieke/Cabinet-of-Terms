@@ -40,9 +40,6 @@ The **Digital Frankenstein** narrative recurs throughout the history of computin
 **See also:** [[Skynet]] · [[AGI]] · [[Doomerism]] · [[AI Literacy]] · [[Red Teamer]]
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [Frankenstein](https://ia902908.us.archive.org/9/items/Frankenstein1818Edition/frank-a5.pdf) — Shelley, M. (1818/2003). *Penguin Classics*
 - [Frankenstein's Shadow](https://doi.org/10.1177/0306312712456072) — Turney, J. (1998). *Science as Culture* — on Frankenstein as template for technology risk discourse
@@ -60,3 +57,5 @@ The **Digital Frankenstein** narrative recurs throughout the history of computin
 **Mechanism:** [[Doomerism]] · [[Skynet]]
 **Consequence:** [[Doomerism]] · [[AI Dependency]]
 **Reaction:** [[AI Literacy]] · [[Red Teamer]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

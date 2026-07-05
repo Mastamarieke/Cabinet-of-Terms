@@ -39,9 +39,6 @@ The detox is also distributed by the platforms it critiques. The retreat gets bo
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [Digital detox: Media resistance and the promise of authenticity](https://www.researchgate.net/publication/333171827_Digital_detox_Media_resistance_and_the_promise_of_authenticity) — Syvertsen, T. & Enli, G. (2019). *# Convergence The International Journal of Research into New Media Technologies*
 - [Media Resistance: Protest, Dislike, Abstention](https://www.researchgate.net/publication/315793095_Media_Resistance_Protest_Dislike_Abstention) — Syvertsen, T. (2017). *Springer Nature*
@@ -56,3 +53,5 @@ The detox is also distributed by the platforms it critiques. The retreat gets bo
 **Mechanism:** [[Dopamine Feedback Loops]] · [[Screen Time]]
 **Consequence:** [[Cognitive Surrender]]
 **Reaction:** [[Slow Media]] · [[Unplugging]] · [[Tech-Free Challenge]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

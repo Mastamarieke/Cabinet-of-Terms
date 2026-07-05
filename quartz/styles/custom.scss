@@ -230,3 +230,22 @@ a.external::after {
 .popover .graph-story {
   display: none;
 }
+
+article img {
+  max-height: 380px;
+  width: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+article p small {
+  display: block;
+  text-align: center;
+}
+
+.ai-attribution {
+  font-size: 0.74em;
+  color: var(--darkgray);
+  font-style: italic;
+  margin-top: 0.5em;
+}

@@ -36,9 +36,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [Disconnect to Reconnect: Your Path to Physical and Mental Wellbeing](https://www.researchgate.net/publication/382547447_Disconnect_to_Reconnect_Your_Path_to_Physical_and_Mental_Wellbeing) — Bhatt, A. (2017). *Social Media + Society*
 - [Does putting down your smartphone make you happier? the effects of restricting digital media on well-being](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11472914/) — Wilmer, H.H. et al. (2024). *PLOS ONE*
@@ -54,3 +51,5 @@ related_reaction:
 **Mechanism:** [[Digital Detox]] · [[Slow Media]]
 **Consequence:** [[FOMO]]
 **Reaction:** [[Unplugging]] · [[JOMO]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

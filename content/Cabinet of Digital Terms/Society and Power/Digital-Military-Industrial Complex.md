@@ -37,9 +37,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [Edward Snowden](https://www.britannica.com/biography/Edward-Snowden) — _Encyclopaedia Britannica_ — overview of Snowden’s 2013 disclosures concerning NSA global surveillance operations
 - [Atlas of AI](https://yalebooks.yale.edu/book/9780300264630/atlas-of-ai/) — Crawford, K. (2021). _Yale University Press_ — on AI infrastructures, extractive computation, geopolitics, and the material relationship between technology corporations and state power
@@ -60,3 +57,5 @@ related_reaction:
 **Mechanism:** [[Revolving Door]] · [[Dual-Use Technology]]
 **Consequence:** [[Sovereignty as a Service]] · [[Reconstruction Economy]]
 **Reaction:** [[Brussels Effect]] · [[Situated Knowledge]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

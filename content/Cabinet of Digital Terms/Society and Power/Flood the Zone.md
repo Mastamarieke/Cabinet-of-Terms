@@ -37,9 +37,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [“Flood the Zone with Shit”: How Misinformation Overwhelmed Our Democracy](https://www.vox.com/policy-and-politics/2020/1/16/20991816/impeachment-trial-trump-bannon-misinformation) — Illing, S. (2020). _Vox_ 
 - [Distributed Amplification](https://mediamanipulation.org/definitions/distributed-amplification/) — Media Manipulation Casebook (Data & Society). 
@@ -56,3 +53,5 @@ related_reaction:
 **Mechanism:** [[Ragebaiting]] · [[Bot Farms]]
 **Consequence:** [[Great Replacement]] · [[QAnon]]
 **Reaction:** [[Fact Checker]] · [[Brussels Effect]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

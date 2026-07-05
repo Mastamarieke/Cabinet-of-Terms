@@ -37,9 +37,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [Empty Plante : The Shock of Global Population Decline](https://www.penguinrandomhouse.com/books/562065/empty-planet-by-darrell-bricker-and-john-ibbitson/) — Bricker, D. & Ibbitson, J. (2019). *Crown* — on demographic trends without ideological loading
 - [Empty Planet](https://www.milkenreview.org/articles/empty-planet). Bricker, D. & Ibbitson, J. (2019). _The Milken Institute Review_
@@ -55,3 +52,5 @@ related_reaction:
 **Mechanism:** [[Disaster Nationalism]] · [[Tradwife]]
 **Consequence:** [[Great Replacement]] · [[Purity Culture]]
 **Reaction:** [[Cyberfeminism]] · [[Situated Knowledge]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

@@ -38,9 +38,6 @@ McAdams is useful for _Main Character Energy_ because he frames identity as na
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [The Stories We Live By: Personal Myths and the Making of the Self**](https://archive.org/details/storieswelivebyp0000mcad?utm_source=chatgpt.com) — McAdams, D. P. (1993/1996), _William Morrow / Guilford Press_.
 - [Because Internet: Understanding the New Rules of Language**](https://www.penguinrandomhouse.com/books/540664/because-internet-by-gretchen-mcculloch/?utm_source=chatgpt.com) — McCulloch, G. (2019), _Riverhead Books_.
@@ -57,3 +54,5 @@ McAdams is useful for _Main Character Energy_ because he frames identity as na
 **Mechanism:** [[Aurafarming]] · [[Curated Life]]
 **Consequence:** [[Comparison Culture]] · [[Parasocial Relationship]]
 **Reaction:** [[JOMO]] · [[Situated Knowledge]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

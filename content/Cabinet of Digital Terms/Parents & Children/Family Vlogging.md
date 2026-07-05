@@ -36,9 +36,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [Children’s Data and Privacy Online: Growing Up in a Digital Age](https://www.lse.ac.uk/my-privacy-uk/Assets/Documents/Childrens-data-and-privacy-online-report-for-web.pdf) — Stoilova, M., Livingstone, S. & Nandagiri, R. (2019). _London School of Economics and Political Science_
 - [From Privacy to Power: Children’s Rights in a Digital Age](https://freedomreport.5rightsfoundation.com/from-privacy-to-power-childrens-rights-in-a-digital-age) — 5Rights Foundation. (2020). _5Rights Foundation_
@@ -55,3 +52,5 @@ related_reaction:
 **Mechanism:** [[Momfluencer]] · [[Kidfluencer]]
 **Consequence:** [[Kidfluencer]] · [[Parasocial Relationship]]
 **Reaction:** [[Deinfluencing]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

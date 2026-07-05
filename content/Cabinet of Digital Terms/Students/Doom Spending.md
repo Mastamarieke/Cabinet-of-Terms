@@ -37,9 +37,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [Forget doom scrolling, Americans now doom spend to cope with stress](https://www.creditkarma.com/about/commentary/forget-doom-scrolling-americans-now-doom-spend-to-cope-with-stress?utm_source=chatgpt.com), Dickler, J., _Credit Karma_.
 - [**Overcoming Financial Anxiety and Doom Spending**](https://www.psychologytoday.com/us/blog/how-to-make-better-choices/202408/overcoming-financial-anxiety-and-doom-spending?utm_source=chatgpt.com), Klontz, B. (2024), _Psychology Today_.
@@ -55,3 +52,5 @@ related_reaction:
 **Mechanism:** [[Dopamine Feedback Loops]] · [[FOBO]]
 **Consequence:** [[FOBO]] · [[Comparison Culture]]
 **Reaction:** [[JOMO]] · [[Digital Detox]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

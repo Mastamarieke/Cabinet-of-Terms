@@ -37,9 +37,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [De synthetische generatie](https://www.sogeti.nl/wp-content/uploads/sites/4/2024/10/De-Synthetische-Generatie.pdf) — Van Doorn, M., Duivestein, S. & Pepping, T. (2019). _Sogeti VINT_
 - [Brand Trust in the Age of Synthetic Media: Consumer Reactions to AI-Generated Influencers and Content](https://www.academia.edu/130253806/Brand_Trust_in_the_Age_of_Synthetic_Media_Consumer_Reactions_to_AI_Generated_Influencers_and_Content?utm_source=chatgpt.com) — Kumar, R. & Sharma, P. (2025). _International Journal of Multidisciplinary Research and Analysis_
@@ -59,3 +56,5 @@ related_reaction:
 **Mechanism:** [[Microtargeting]] · [[Deepfake]]
 **Consequence:** [[AI Slop]] · [[Age of Average]]
 **Reaction:** [[AI Literacy]] · [[Fact Checker]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

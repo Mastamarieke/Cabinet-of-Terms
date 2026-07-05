@@ -37,9 +37,6 @@ related_reaction:
 
 
 ---
-
-*Generated with AI (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.*
-
 **Read more:**
 - [Brave New World](https://www.harpercollins.com/products/brave-new-world-aldous-huxley) — Huxley, A. (1932). *HarperCollins*
 - [Amusing Ourselves to Death](https://www.goodreads.com/book/show/74034.Amusing_Ourselves_to_Death) — Postman, N. (1985). _Penguin_
@@ -56,3 +53,5 @@ related_reaction:
 **Mechanism:** [[1984]] · [[BUMMER]]
 **Consequence:** [[Cognitive Surrender]] · [[Deskilling]]
 **Reaction:** [[Slow Media]] · [[AI Literacy]]
+
+<div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>
