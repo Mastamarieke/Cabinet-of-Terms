@@ -125,6 +125,12 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     }
   }
 
+  // Cluster path: "Gender--and--Identity" extracted from entry slugs (length ≥ 3)
+  const slugParts = slug.split('/')
+  const clusterPath = slugParts.length >= 3 ? slugParts[slugParts.length - 2] : null
+  // The cluster index node (folder index) is always visible — it's the hub connecting all siblings
+  const clusterIndexSlug = slugParts.length >= 3 ? (slugParts.slice(0, -1).join('/') as SimpleSlug) : null
+
   const neighbourhood = new Set<SimpleSlug>()
   const wl: (SimpleSlug | "__SENTINEL")[] = [slug, "__SENTINEL"]
   if (depth >= 0) {
@@ -419,15 +425,32 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
 
     let oldLabelOpacity = 0
     const isTagNode = nodeId.startsWith("tags/")
+    const isSourceNode = n.tags.includes("source")
+    const nodeColor = color(n)
+
     const gfx = new Graphics({
       interactive: true,
       label: nodeId,
       eventMode: "static",
-      hitArea: new Circle(0, 0, nodeRadius(n)),
+      hitArea: new Circle(0, 0, nodeRadius(n) + 2),
       cursor: "pointer",
     })
-      .circle(0, 0, nodeRadius(n))
-      .fill({ color: isTagNode ? computedStyleMap["--light"] : color(n) })
+
+    if (isSourceNode) {
+      // Ring: transparent fill + colored stroke
+      gfx.circle(0, 0, nodeRadius(n) + 1)
+        .fill({ color: 0x000000, alpha: 0 })
+        .stroke({ width: 2, color: nodeColor })
+    } else if (isTagNode) {
+      gfx.circle(0, 0, nodeRadius(n))
+        .fill({ color: computedStyleMap["--light"] })
+        .stroke({ width: 2, color: computedStyleMap["--tertiary"] })
+    } else {
+      gfx.circle(0, 0, nodeRadius(n))
+        .fill({ color: nodeColor })
+    }
+
+    gfx
       .on("pointerover", (e) => {
         updateHoverInfo(e.target.label)
         oldLabelOpacity = label.alpha
@@ -443,9 +466,7 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
         }
       })
 
-    if (isTagNode) {
-      gfx.stroke({ width: 2, color: computedStyleMap["--tertiary"] })
-    } else if (nodeId === slug) {
+    if (nodeId === slug) {
       gfx.stroke({ width: 3, color: "#FF6B00" })
     }
 
@@ -595,6 +616,50 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
   }
 
   requestAnimationFrame(animate)
+
+  const sourceToggleEl = graph.closest(".graph")?.querySelector(".source-toggle") as HTMLDetailsElement | null
+  sourceToggleEl?.addEventListener("toggle", () => {
+    const showSources = sourceToggleEl.open
+    for (const n of nodeRenderData) {
+      if (n.simulationData.tags.includes("source")) {
+        n.gfx.visible = showSources
+        if (!showSources) n.label.alpha = 0
+      }
+    }
+    for (const l of linkRenderData) {
+      const src = l.simulationData.source as NodeData
+      const tgt = l.simulationData.target as NodeData
+      if (src.tags?.includes("source") || tgt.tags?.includes("source")) {
+        l.gfx.visible = showSources
+      }
+    }
+  })
+
+  const clusterToggleEl = graph.closest(".graph")?.querySelector(".cluster-toggle") as HTMLDetailsElement | null
+  clusterToggleEl?.addEventListener("toggle", () => {
+    const showCluster = clusterToggleEl.open
+    const isAlwaysOn = (id: SimpleSlug) => id === slug || id === clusterIndexSlug
+    for (const n of nodeRenderData) {
+      if (isAlwaysOn(n.simulationData.id)) continue
+      if (n.simulationData.tags.includes("source")) continue
+      if (clusterPath && n.simulationData.id.includes(clusterPath)) {
+        n.gfx.visible = showCluster
+        if (!showCluster) n.label.alpha = 0
+      }
+    }
+    for (const l of linkRenderData) {
+      const src = l.simulationData.source as NodeData
+      const tgt = l.simulationData.target as NodeData
+      if (src.tags?.includes("source") || tgt.tags?.includes("source")) continue
+      if (isAlwaysOn(src.id) && isAlwaysOn(tgt.id)) continue
+      if (clusterPath) {
+        const srcIsCluster = src.id.includes(clusterPath) && !isAlwaysOn(src.id)
+        const tgtIsCluster = tgt.id.includes(clusterPath) && !isAlwaysOn(tgt.id)
+        if (srcIsCluster || tgtIsCluster) l.gfx.visible = showCluster
+      }
+    }
+  })
+
   return () => {
     stopAnimation = true
     app.destroy()

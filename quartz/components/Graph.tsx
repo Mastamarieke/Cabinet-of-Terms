@@ -68,6 +68,9 @@ export default ((opts?: Partial<GraphOptions>) => {
         <h3>{i18n(cfg.locale).components.graph.title}</h3>
         <div class="graph-outer">
           <div class="graph-container" data-cfg={JSON.stringify(localGraph)}></div>
+          <details class="source-toggle" open>
+            <summary>Sources</summary>
+          </details>
           <button class="global-graph-icon" aria-label="Global Graph">
             <svg
               version="1.1"

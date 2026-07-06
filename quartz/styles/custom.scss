@@ -38,11 +38,11 @@ body {
 }
 
 h1 {
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Barlow Condensed', sans-serif;
   font-weight: 700;
   color: #E50056 !important;
-  font-size: 2.2em;
-  letter-spacing: -0.02em;
+  font-size: 2.6em;
+  letter-spacing: 0.01em;
   border-bottom: none;
 }
 
@@ -243,9 +243,67 @@ article p small {
   text-align: center;
 }
 
+.callout[data-callout="abstract"] {
+  border: 1px solid var(--lightgray);
+  border-radius: 8px;
+  overflow: hidden;
+  background: transparent;
+  margin-top: 1.5em;
+
+  .callout-title {
+    background: var(--light);
+    border-bottom: none;
+    padding: 0.4em 1em;
+    gap: 0.4em;
+
+    .callout-title-inner {
+      font-size: 0.8em;
+      font-weight: 700;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+      color: var(--han-red);
+    }
+
+    .callout-icon { display: none; }
+    .callout-title-inner::before { content: "Sources"; }
+    .callout-title-inner { font-size: 0; }
+    .callout-title-inner::before { font-size: 0.8rem; }
+
+    .callout-fold {
+      color: var(--han-red);
+      font-size: 0.7em;
+    }
+  }
+
+  &[data-callout-fold] .callout-title {
+    border-bottom: none;
+  }
+
+  &:not([data-callout-fold]) .callout-title,
+  &[data-callout-fold=""] .callout-title {
+    border-bottom: 1px solid var(--lightgray);
+  }
+
+  .callout-content {
+    padding: 0.75em 1em;
+    font-size: 0.9em;
+    color: var(--darkgray);
+    line-height: 1.65;
+
+    p { margin: 0 0 0.7em 0; }
+    p:last-child { margin-bottom: 0; }
+  }
+}
+
 .ai-attribution {
   font-size: 0.74em;
   color: var(--darkgray);
   font-style: italic;
   margin-top: 0.5em;
+}
+
+article > p:first-of-type > em > strong {
+  font-family: 'Barlow Condensed', sans-serif;
+  font-size: 1.25em;
+  letter-spacing: 0.01em;
 }
