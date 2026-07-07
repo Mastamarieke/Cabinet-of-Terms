@@ -31,7 +31,7 @@ semantic_landscape: |
 
   Deinfluencing stands alone as the only reaction node — and its solitude is itself analytical. The pushback against looksmaxxing is personal and aesthetic, not systemic. It addresses one person's feed, not the structure that produces the feed.
 entry_image: looksmaxxing.png
-entry_image_caption: "Image by the Narrative Typographers/"
+entry_image_caption: "By Narrative Typographer Anne-Marie Bruinsma"
 ---
 
 ***The routine takes two hours. The supplements cost more than food. The goal is a score on a scale that does not officially exist.***
