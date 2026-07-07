@@ -42,6 +42,8 @@ semantic_landscape: |
 
 ![](looksmaxxing.png)
 
+<small>*By Narrative Typographer Anne-Marie Bruinsma*</small>
+
 > The systematic optimisation of physical appearance as a measurable, scored project — where the body becomes a product to be maximised toward an externally defined, pseudoscientific standard.
 
 **The Appeal:** **Looksmaxxing** offers agency in a domain where many people feel powerless. If attractiveness determines outcomes — socially, romantically, professionally — then optimising it is rational. For many participants it produces genuine confidence and practical self-care skills. Journalist **Bregje Hofstede** (De Correspondent, 2026) frames it precisely: **looksmaxxing** is not stupidity. It is a logical response to a culture that rewards only the measurable and visible — what she calls "metafysische precariteit": existential insecurity without intrinsic value to fall back on.
