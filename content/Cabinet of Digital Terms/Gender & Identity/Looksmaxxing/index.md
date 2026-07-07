@@ -1,4 +1,7 @@
 ---
+title: "Looksmaxxing"
+aliases:
+  - Looksmaxxing
 term: Looksmaxxing
 cluster: Gender & Identity
 analytical_layer: mechanism
@@ -36,16 +39,27 @@ related_reaction:
 **See also:** [[SMV (Sexual Market Value)]] · [[Blackpill]] · [[Manosphere]] · [[Subhuman]] · [[Body Dysmorphic Disorder]] · [[Comparison Culture]]
 
 ---
+
 **Read more:**
-- [Looksmaxxing is het gevaarlijke antwoord op de vraag: ben ik iets waard?](https://decorrespondent.nl/16941/looksmaxxing-is-het-gevaarlijke-antwoord-op-de-vraag-ben-ik-iets-waard/7ba9fc8a-3dd5-0c35-1a9e-07fbae12e42d) — **Hofstede, B.** (2026). *De Correspondent* → [[Hofstede_2026_Looksmaxxing]]
-- [From bone smashing to chin extensions: how 'looksmaxxing' is reshaping young men's faces](https://www.theguardian.com/lifeandstyle/2024/feb/15/from-bone-smashing-to-chin-extensions-how-looksmaxxing-is-reshaping-young-mens-faces) — **Usborne, S.** (2024). *The Guardian* → [[Usborne_2024_Looksmaxxing]]
-- [Alphas, Betas, and Incels](https://doi.org/10.1177/1097184x17706401) — **Ging, D.** (2019). *Men and Masculinities* → [[Ging_2019_Manosphere]]
-- [Looksmaxxing: Straddling the Inflection Between Self-Enhancement and Self-Harm](https://journals.sagepub.com/doi/10.1177/26893614251409793) — **Konig, D.J., Sidhu, A.S., & Corpuz, G.S.** (2025). *SAGE* → [[Konig_2025_Looksmaxxing]]
-- [The Sovereignty of Good](https://www.routledge.com/The-Sovereignty-of-Good/Murdoch/p/book/9780415253994) — **Murdoch, I.** (1970). *Routledge* → [[Murdoch_1970_SovereigntyOfGood]]
+- [Looksmaxxing is het gevaarlijke antwoord op de vraag: ben ik iets waard?](https://decorrespondent.nl/16941/looksmaxxing-is-het-gevaarlijke-antwoord-op-de-vraag-ben-ik-iets-waard/7ba9fc8a-3dd5-0c35-1a9e-07fbae12e42d) — Hofstede, B. (2026). *De Correspondent*
+- [From bone smashing to chin extensions: how 'looksmaxxing' is reshaping young men's faces](https://www.theguardian.com/lifeandstyle/2024/feb/15/from-bone-smashing-to-chin-extensions-how-looksmaxxing-is-reshaping-young-mens-faces) — Usborne, S. (2024). *The Guardian*
+- [Alphas, Betas, and Incels](https://doi.org/10.1177/1097184x17706401) — Ging, D. (2019). *Men and Masculinities*
+- [Looksmaxxing: Straddling the Inflection Between Self-Enhancement and Self-Harm](https://journals.sagepub.com/doi/10.1177/26893614251409793) — Konig, D.J., Sidhu, A.S., & Corpuz, G.S. (2025). *SAGE Open Medicine*
+- [The Sovereignty of Good](https://www.routledge.com/The-Sovereignty-of-Good/Murdoch/p/book/9780415253994) — Murdoch, I. (1970). *Routledge*
+
+> [!abstract]- Sources
+> **[[Ging-2019|Ging (2019)]]** · *Alphas, Betas, and Incels* · Men and Masculinities · [DOI ↗](https://doi.org/10.1177/1097184x17706401)
+> Academisch kader: SMV-logica als fundament van looksmaxxing; manosphere als ecosysteem van masculiniteitsideologieën.
+>
+> **[[Konig-2025|Konig et al. (2025)]]** · *Looksmaxxing: Self-Enhancement or Self-Harm?* · SAGE Open Medicine · [DOI ↗](https://journals.sagepub.com/doi/10.1177/26893614251409793)
+> Klinische analyse: looksmaxxing op de grens tussen zelfverbetering en zelfschade; verbinding met BDD.
+>
+> **[[Secondary|Hofstede (2026) · Usborne (2024) · Murdoch (1970)]]** · [De Correspondent ↗](https://decorrespondent.nl/16941/looksmaxxing-is-het-gevaarlijke-antwoord-op-de-vraag-ben-ik-iets-waard/7ba9fc8a-3dd5-0c35-1a9e-07fbae12e42d) · [The Guardian ↗](https://www.theguardian.com/lifeandstyle/2024/feb/15/from-bone-smashing-to-chin-extensions-how-looksmaxxing-is-reshaping-young-mens-faces) · [Routledge ↗](https://www.routledge.com/The-Sovereignty-of-Good/Murdoch/p/book/9780415253994)
+> Journalistiek + filosofisch achtergrondmateriaal — Nederlandse context, casussen, filosofisch tegenwicht.
 
 ---
 
-## Navigation
+**Navigation**
 
 **Layer:** Mechanism — the systematic optimisation of appearance as a scored, pseudoscientific project
 

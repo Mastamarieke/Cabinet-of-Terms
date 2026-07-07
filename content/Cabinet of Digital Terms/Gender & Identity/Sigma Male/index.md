@@ -60,17 +60,4 @@ semantic_landscape: |
 - [What Is a Sigma Male?](https://www.dictionary.com/e/slang/sigma-male/) *Dictionary.com. (2023).*
 - [Rise of the sigma male: TikTok's new gender divide](https://www.newswise.com/articles/rise-of-the-sigma-male-tiktok-s-new-gender-divide) *Newswise. (2025).*
 
-> [!abstract]- Sources
-> **[[Ging-2019|Ging (2019)]]** · *Alphas, Betas, and Incels* · Men and Masculinities · [DOI ↗](https://doi.org/10.1177/1097184x17706401)
-> Levert het kritische kader: sigma als mutatie van de alfa/bèta-hiërarchie, niet als ontsnapping eraan.
->
-> **[[Tanner-Gillardin-2025|Tanner & Gillardin (2025)]]** · *Toxic Communication on TikTok* · Social Media + Society · [DOI ↗](https://doi.org/10.1177/20563051251313844)
-> Empirisch bewijs: sigma-content als "ready-to-think" kader bij gepercipieerde masculiniteitscrisis.
->
-> **[[Secondary|Dictionary.com (2023) · Newswise (2025)]]** · [link ↗](https://www.dictionary.com/e/slang/sigma-male/)
-> Lexicografische definitie + journalistieke verspreiding. Secundair — documenteert hoe de term publiek circuleert.
->
-> **[[Watson-2021|Watson (2021)]]** · *The Sigma Male Bible* · zelfpublicatie · [Amazon ↗](https://www.amazon.nl/SIGMA-MALE-BIBLE-Strategies-Self-Discipline/dp/B09M152YVY)
-> Primair artefact: het begrip als zelfhulpproduct. Geen kritische bron — bewijs van de Appeal-laag.
-
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

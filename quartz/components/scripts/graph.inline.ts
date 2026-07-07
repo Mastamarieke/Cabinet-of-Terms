@@ -125,11 +125,10 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     }
   }
 
-  // Cluster path: "Gender--and--Identity" extracted from entry slugs (length ≥ 3)
+  // clusterPath = 2nd slug segment (e.g. "Gender--and--Identity") — works at any nesting depth
   const slugParts = slug.split('/')
-  const clusterPath = slugParts.length >= 3 ? slugParts[slugParts.length - 2] : null
-  // The cluster index node (folder index) is always visible — it's the hub connecting all siblings
-  const clusterIndexSlug = slugParts.length >= 3 ? (slugParts.slice(0, -1).join('/') as SimpleSlug) : null
+  const clusterPath = slugParts.length >= 2 ? slugParts[1] : null
+  const clusterIndexSlug = slugParts.length >= 2 ? (slugParts.slice(0, 2).join('/') as SimpleSlug) : null
 
   const neighbourhood = new Set<SimpleSlug>()
   const wl: (SimpleSlug | "__SENTINEL")[] = [slug, "__SENTINEL"]
@@ -150,6 +149,18 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
   } else {
     validLinks.forEach((id) => neighbourhood.add(id))
     if (showTags) tags.forEach((tag) => neighbourhood.add(tag))
+  }
+
+  // Save depth-1 neighbourhood before expanding — these nodes always stay visible
+  const baseNeighbourhood = new Set(neighbourhood)
+
+  // Load all cluster siblings into the graph so the cluster toggle can reveal them
+  if (clusterPath) {
+    for (const id of validLinks) {
+      if (id.includes(clusterPath) && id !== slug) {
+        neighbourhood.add(id)
+      }
+    }
   }
 
   const nodes = [...neighbourhood].map((url) => {
@@ -507,6 +518,21 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     linkRenderData.push(linkRenderDatum)
   }
 
+  // Cluster toggle starts closed — hide all cluster siblings on load
+  for (const n of nodeRenderData) {
+    if (isClusterNode(n.simulationData)) {
+      n.gfx.visible = false
+      n.label.visible = false
+    }
+  }
+  for (const l of linkRenderData) {
+    const src = l.simulationData.source as NodeData
+    const tgt = l.simulationData.target as NodeData
+    if (isClusterNode(src) || isClusterNode(tgt)) {
+      l.gfx.visible = false
+    }
+  }
+
   let currentTransform = zoomIdentity
   if (enableDrag) {
     select<HTMLCanvasElement, NodeData | undefined>(app.canvas).call(
@@ -618,47 +644,61 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
   requestAnimationFrame(animate)
 
   const sourceToggleEl = graph.closest(".graph")?.querySelector(".source-toggle") as HTMLDetailsElement | null
-  sourceToggleEl?.addEventListener("toggle", () => {
-    const showSources = sourceToggleEl.open
-    for (const n of nodeRenderData) {
-      if (n.simulationData.tags.includes("source")) {
-        n.gfx.visible = showSources
-        if (!showSources) n.label.alpha = 0
-      }
-    }
-    for (const l of linkRenderData) {
-      const src = l.simulationData.source as NodeData
-      const tgt = l.simulationData.target as NodeData
-      if (src.tags?.includes("source") || tgt.tags?.includes("source")) {
-        l.gfx.visible = showSources
-      }
-    }
-  })
-
   const clusterToggleEl = graph.closest(".graph")?.querySelector(".cluster-toggle") as HTMLDetailsElement | null
-  clusterToggleEl?.addEventListener("toggle", () => {
-    const showCluster = clusterToggleEl.open
-    const isAlwaysOn = (id: SimpleSlug) => id === slug || id === clusterIndexSlug
+
+  function isSourceNode(n: NodeData) { return n.tags.includes("source") }
+
+  const hasSourceNodes = nodeRenderData.some(n => n.simulationData.tags.includes("source"))
+  if (!hasSourceNodes && sourceToggleEl) {
+    sourceToggleEl.style.display = "none"
+  }
+  function isClusterNode(n: NodeData) {
+    if (!clusterPath || !clusterIndexSlug) return false
+    return (
+      !baseNeighbourhood.has(n.id) &&
+      n.id !== slug &&
+      n.id !== clusterIndexSlug &&
+      !n.tags.includes("source") &&
+      n.id.includes(clusterPath)
+    )
+  }
+
+  function updateToggleLabels() {
+    if (sourceToggleEl) {
+      const s = sourceToggleEl.querySelector("summary")
+      if (s) s.textContent = sourceToggleEl.open ? "Hide Sources" : "Show Sources"
+    }
+    if (clusterToggleEl) {
+      const s = clusterToggleEl.querySelector("summary")
+      if (s) s.textContent = clusterToggleEl.open ? "Hide Cluster" : "Show Cluster"
+    }
+  }
+
+  function applyToggles() {
+    const showSources = sourceToggleEl ? sourceToggleEl.open : true
+    const showCluster = clusterToggleEl ? clusterToggleEl.open : true
     for (const n of nodeRenderData) {
-      if (isAlwaysOn(n.simulationData.id)) continue
-      if (n.simulationData.tags.includes("source")) continue
-      if (clusterPath && n.simulationData.id.includes(clusterPath)) {
+      if (isSourceNode(n.simulationData)) {
+        n.gfx.visible = showSources
+        n.label.visible = showSources
+      } else if (isClusterNode(n.simulationData)) {
         n.gfx.visible = showCluster
-        if (!showCluster) n.label.alpha = 0
+        n.label.visible = showCluster
       }
     }
     for (const l of linkRenderData) {
       const src = l.simulationData.source as NodeData
       const tgt = l.simulationData.target as NodeData
-      if (src.tags?.includes("source") || tgt.tags?.includes("source")) continue
-      if (isAlwaysOn(src.id) && isAlwaysOn(tgt.id)) continue
-      if (clusterPath) {
-        const srcIsCluster = src.id.includes(clusterPath) && !isAlwaysOn(src.id)
-        const tgtIsCluster = tgt.id.includes(clusterPath) && !isAlwaysOn(tgt.id)
-        if (srcIsCluster || tgtIsCluster) l.gfx.visible = showCluster
-      }
+      const srcVisible = isSourceNode(src) ? showSources : (isClusterNode(src) ? showCluster : true)
+      const tgtVisible = isSourceNode(tgt) ? showSources : (isClusterNode(tgt) ? showCluster : true)
+      l.gfx.visible = srcVisible && tgtVisible
     }
-  })
+    updateToggleLabels()
+  }
+
+  updateToggleLabels()
+  sourceToggleEl?.addEventListener("toggle", applyToggles)
+  clusterToggleEl?.addEventListener("toggle", applyToggles)
 
   return () => {
     stopAnimation = true

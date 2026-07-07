@@ -15,45 +15,57 @@
     position: relative;
     overflow: hidden;
 
-    & > .source-toggle {
+    & > .graph-toggles {
       position: absolute;
       bottom: 0;
       left: 0;
       z-index: 10;
-      background: var(--light);
-      border-top: 1px solid var(--lightgray);
-      border-right: 1px solid var(--lightgray);
-      border-radius: 0 6px 0 0;
-      padding: 0;
+      display: flex;
 
-      summary {
-        list-style: none;
-        display: flex;
-        align-items: center;
-        gap: 0.4em;
-        padding: 0.25em 0.7em;
-        font-size: 0.7em;
-        font-weight: 700;
-        letter-spacing: 0.06em;
-        text-transform: uppercase;
-        color: var(--han-red);
-        cursor: pointer;
-        user-select: none;
+      .source-toggle,
+      .entries-toggle,
+      .cluster-toggle {
+        background: var(--light);
+        border-top: 1px solid var(--lightgray);
+        border-right: 1px solid var(--lightgray);
+        border-radius: 0;
+        padding: 0;
 
-        &::before {
-          content: "";
-          display: inline-block;
-          width: 8px;
-          height: 8px;
-          border-radius: 50%;
-          border: 2px solid var(--gray);
-          flex-shrink: 0;
-          transition: border-color 0.2s ease;
+        summary {
+          list-style: none;
+          display: flex;
+          align-items: center;
+          gap: 0.4em;
+          padding: 0.25em 0.7em;
+          font-size: 0.7em;
+          font-weight: 700;
+          letter-spacing: 0.06em;
+          text-transform: uppercase;
+          cursor: pointer;
+          user-select: none;
+
+          &::before {
+            content: "";
+            display: inline-block;
+            width: 8px;
+            height: 8px;
+            border-radius: 50%;
+            border: 2px solid var(--gray);
+            flex-shrink: 0;
+            transition: border-color 0.2s ease;
+          }
         }
       }
 
-      &[open] summary::before {
-        border-color: var(--han-red);
+      .source-toggle {
+        summary { color: var(--han-red); }
+        &[open] summary::before { border-color: var(--han-red); }
+      }
+
+      .cluster-toggle {
+        border-radius: 0 6px 0 0;
+        summary { color: var(--secondary); }
+        &[open] summary::before { border-color: var(--secondary); }
       }
     }
 
