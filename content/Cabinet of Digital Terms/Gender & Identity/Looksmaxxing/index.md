@@ -20,18 +20,18 @@ related_consequence:
   - Subhuman
 related_reaction:
   - Deinfluencing
-semantic_landscape: |
-  Looksmaxxing sits at the conversion point of the Gender & Identity cluster: where ideology becomes practice, and practice becomes pathology. As a mechanism, it translates the abstract logic of SMV (Sexual Market Value) — attractiveness as market position — into bodies, routines, and procedures. The same rating logic applies to both men and women; what differs is where the graph leads from here.
-
-  From the male side, the most revealing feature is the double connection to Blackpill. Blackpill appears both as a co-mechanism (shaping how looksmaxxing is practiced) and as a consequence (where looksmaxxers arrive when the project fails). Follow that line further: Looksmaxxing → Blackpill → Subhuman. A mechanism for self-improvement carries a dehumanising logic as its direct consequence. The rating vocabulary is not incidental — it is the endpoint made visible.
-
-  From the female side, the consequence path runs differently: Looksmaxxing → Comparison Culture → Body Dysmorphic Disorder. No radical ideology, no Subhuman label — instead a clinical endpoint. The graph shows that the same starting mechanism produces two distinct forms of damage depending on which side of the SMV scale you are on.
-
-  A third trajectory runs outside the Gender & Identity cluster entirely: when extreme plastic surgery becomes a tribal marker — as in the "Mar-a-Lago face" — the optimised body signals class, political allegiance, and access. The graph does not yet have a node for this; its absence is a gap worth naming. Looksmaxxing at that scale is no longer personal optimisation. It is a geopolitical instrument.
-
-  Deinfluencing stands alone as the only reaction node — and its solitude is itself analytical. The pushback against looksmaxxing is personal and aesthetic, not systemic. It addresses one person's feed, not the structure that produces the feed.
 entry_image: looksmaxxing.png
 entry_image_caption: "By Narrative Typographer Anne-Marie Bruinsma"
+semantic_landscape: |
+  **Looksmaxxing** sits at the conversion point of the **Gender & Identity** cluster: where ideology becomes practice, and practice becomes pathology. As a mechanism, it translates the abstract logic of **SMV (Sexual Market Value)** — attractiveness as market position — into bodies, routines, and procedures. The same rating logic applies to both men and women; what differs is where the graph leads from here.
+
+  From the male side, the most revealing feature is the double connection to **Blackpill**. Blackpill appears both as a co-mechanism (shaping how looksmaxxing is practiced) and as a consequence (where looksmaxxers arrive when the project fails). Follow that line further: **Looksmaxxing → Blackpill → Subhuman**. A mechanism for self-improvement carries a dehumanising logic as its direct consequence. The rating vocabulary is not incidental — it is the endpoint made visible.
+
+  From the female side, the consequence path runs differently: **Looksmaxxing → Comparison Culture → Body Dysmorphic Disorder**. No radical ideology, no Subhuman label — instead a clinical endpoint. The graph shows that the same starting mechanism produces two distinct forms of damage depending on which side of the SMV scale you are on.
+
+  A third trajectory runs outside the Gender & Identity cluster entirely: when extreme plastic surgery becomes a tribal marker — as in the **"Mar-a-Lago face"** — the optimised body signals class, political allegiance, and access. The graph does not yet have a node for this; its absence is a gap worth naming. **Looksmaxxing** at that scale is no longer personal optimisation. It is a geopolitical instrument.
+
+  **Deinfluencing** stands alone as the only reaction node — and its solitude is itself analytical. The pushback against looksmaxxing is personal and aesthetic, not systemic. It addresses one person's feed, not the structure that produces the feed.
 ---
 
 ***The routine takes two hours. The supplements cost more than food. The goal is a score on a scale that does not officially exist.***
