@@ -30,6 +30,8 @@ semantic_landscape: |
   A third trajectory runs outside the Gender & Identity cluster entirely: when extreme plastic surgery becomes a tribal marker — as in the "Mar-a-Lago face" — the optimised body signals class, political allegiance, and access. The graph does not yet have a node for this; its absence is a gap worth naming. Looksmaxxing at that scale is no longer personal optimisation. It is a geopolitical instrument.
 
   Deinfluencing stands alone as the only reaction node — and its solitude is itself analytical. The pushback against looksmaxxing is personal and aesthetic, not systemic. It addresses one person's feed, not the structure that produces the feed.
+entry_image: looksmaxxing.png
+entry_image_caption: "Image by the Narrative Typographers/"
 ---
 
 ***The routine takes two hours. The supplements cost more than food. The goal is a score on a scale that does not officially exist.***
@@ -37,6 +39,8 @@ semantic_landscape: |
 **Literal meaning:** **Looksmaxxing** describes the practice of systematically maximising physical attractiveness through any available means — skincare, fitness, surgery, dental work, posture correction, and increasingly procedures targeting bone structure such as jaw contouring and canthal tilt correction. At the extreme end: **bone smashing** — deliberately striking the jaw or cheekbones with a hammer, based on the misapplied premise that damaged bone rebuilds itself into a more "optimal" structure. The female equivalent is quieter but no less physical: high heels that permanently alter foot structure and gait; **mewing** — pressing the tongue against the palate for hours to allegedly reshape the jaw over time; extreme caloric restriction that disrupts hormonal systems. The bodily logic is the same: endure structural discomfort now, receive structural improvement later. The "-maxxing" suffix signals optimisation to a maximum: not improvement but maximisation. The practice applies to both men and women. Men are scored on a fixed hierarchy: **Subhuman**, Low Tier Normie, Mid Tier Normie, **Chad**, Adamlite, True Adam (10/10). Women are rated on a parallel scale — Becky, Stacy, Gigastacy — and are told to optimise their [[SMV (Sexual Market Value)|SMV]] through weight, skin, femininity, and style. The underlying logic is identical: attractiveness is a number, and that number can be raised. Below a four, regardless of gender: **Subhuman**. The vocabulary is the ideology.
 
 **Origin:** The term emerged from **incel** and [[Manosphere]] forums in the early 2010s, where physical appearance was theorised as the primary determinant of sexual and social success. It spread into mainstream **TikTok** and **YouTube** culture from around 2022, generating a large content ecosystem from skincare routines to surgical bone contouring. Dutch research cited by De Volkskrant found that approximately half of Dutch 15-year-olds regularly encounter manosphere content — of which **looksmaxxing** is a direct product. Renaissance artist Albrecht Dürer mapped ideal human proportions in 1528 — but understood them as unreachable for mortals. Looksmaxxers have inverted that logic: the ideal is not only reachable, it is compulsory.
+
+![](looksmaxxing.png)
 
 > The systematic optimisation of physical appearance as a measurable, scored project — where the body becomes a product to be maximised toward an externally defined, pseudoscientific standard.
 
