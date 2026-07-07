@@ -38,7 +38,7 @@ semantic_landscape: |
 **Origin:** The term was coined in a blog post around 2010 and gained viral traction through meme culture from around 2021, where "**sigma male** grindset" became a widespread ironic (and then earnest) format. The concept drew on popular psychology frameworks around introversion and independence, filtered through **manosphere** hierarchy logic.
 
 ![](sigma-male.jpg)
-<small>*Image by the Narrative Typographers/*</small>
+<small>*By Narrative Typographer Anne-Marie Bruinsma*</small>
 
 > A masculinity archetype that claims to transcend social hierarchy while remaining entirely defined by it — the loner who is above the game he is still playing.
 
