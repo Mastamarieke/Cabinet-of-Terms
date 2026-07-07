@@ -41,7 +41,6 @@ semantic_landscape: |
 **Origin:** The term emerged from **incel** and [[Manosphere]] forums in the early 2010s, where physical appearance was theorised as the primary determinant of sexual and social success. It spread into mainstream **TikTok** and **YouTube** culture from around 2022, generating a large content ecosystem from skincare routines to surgical bone contouring. Dutch research cited by De Volkskrant found that approximately half of Dutch 15-year-olds regularly encounter manosphere content — of which **looksmaxxing** is a direct product. Renaissance artist Albrecht Dürer mapped ideal human proportions in 1528 — but understood them as unreachable for mortals. Looksmaxxers have inverted that logic: the ideal is not only reachable, it is compulsory.
 
 ![](looksmaxxing.png)
-
 <small>*By Narrative Typographer Anne-Marie Bruinsma*</small>
 
 > The systematic optimisation of physical appearance as a measurable, scored project — where the body becomes a product to be maximised toward an externally defined, pseudoscientific standard.
