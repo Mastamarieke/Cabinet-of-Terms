@@ -20,7 +20,7 @@ related_consequence:
 related_reaction:
   - Podcast-bro
 entry_image: sigma-male.jpg
-entry_image_caption: "By Narrative Typographer Anne-Marie Bruinsma"
+entry_image_caption: "By the Narrative Typographer Anne-Marie Bruinsma"
 semantic_landscape: |
   In the semantic landscape of online masculinity discourse, the sigma male occupies a **structurally paradoxical position**. The term clusters tightly around the very **dominance hierarchy** it claims to leave behind — the ladder of alpha and beta men ranked by status, attractiveness, and social power. The sigma is not a departure from this ladder. **It is an additional rung.**
 

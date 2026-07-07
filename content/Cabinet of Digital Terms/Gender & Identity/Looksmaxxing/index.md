@@ -21,7 +21,7 @@ related_consequence:
 related_reaction:
   - Deinfluencing
 entry_image: looksmaxxing.png
-entry_image_caption: "By Narrative Typographer Anne-Marie Bruinsma"
+entry_image_caption: "By the Narrative Typographer Anne-Marie Bruinsma"
 semantic_landscape: |
   **Looksmaxxing** sits at the conversion point of the **Gender & Identity** cluster: where ideology becomes practice, and practice becomes pathology. As a mechanism, it translates the abstract logic of **SMV (Sexual Market Value)** — attractiveness as market position — into bodies, routines, and procedures. The same rating logic applies to both men and women; what differs is where the graph leads from here.
 
