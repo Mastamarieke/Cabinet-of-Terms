@@ -175,7 +175,7 @@ This article proposes a cartographic model for LLM knowledge architecture. Three
 
 2. **Keeping the system current** — Digital culture produces new terms continuously. The intake workflow via `Doctor_Alert_analysis.md` is operational; scaling it while preserving curation quality is the next hurdle.
 
-3. **Fixing the wikilink bug** — Wikilinks on the Sigma Male and Looksmaxxing prototype pages are not rendering correctly in Quartz v4. The issue is being investigated and resolved.
+3. **Scaling co-creation without losing curation** — The Cabinet grows through human judgment at three points: which terms enter, how the cartographic prompt is steered, and whether definitions and connections hold up under scrutiny. What cannot be automated is the question of *what belongs* — and what a term's position in the network actually claims about digital culture. That judgment stays human, by design.
 
 These challenges are invitations. Whether you work in education, knowledge management, design, or AI research — if the model resonates, there is room to take it further.
 
