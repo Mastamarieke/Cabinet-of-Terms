@@ -35,6 +35,7 @@ Bij elke toevoeging, verwijdering of hernoeming van een term:
 4. **Wikilink-check** draaien (Python-script uit SETUP.md) — vóór elke push
 5. **Doctor Alert cluster-lijst syncen** — na elke publish controleren of Doctor Alert's cluster-lijst nog klopt met de live vault
 6. **Retroactieve updates** — bij elke nieuwe term: zoek welke bestaande entries verwant zijn en beoordeel drie niveaus: (1) **wikilink** toevoegen in See also en Navigation; (2) **context** — wordt een bestaande zin scherper als de nieuwe term erin benoemd wordt?; (3) **content** — moet er een nieuwe zin of alinea bij om het analytische belang te verwerken? Alle drie niveaus kunnen van toepassing zijn.
+7. **log.md bijwerken** — aan het einde van elke werksessie: voeg een entry toe onder de huidige datum met wat er is gedaan (entries, graph, structuur, maintenance, onderzoek). log.md is gitignored — nooit committen.
 
 ---
 
