@@ -13,11 +13,13 @@
 
 ---
 
-## Lumo — analytische prompt
+## Doctor Alert — analytische prompt
 
-- De huidige versie van de Lumo-prompt staat lokaal in de repo-root als `Lumo_V*.md` (gitignored — nooit pushen).
-- **Wanneer Marieke een nieuwe Lumo-versie aanlevert:** sla hem op als `Lumo_V[nummer].md` in de repo-root en verwijder de vorige versie. Bevestig welke versie nu actief is.
-- Lumo bevat de cluster-lijst, wikilink-regels, schrijfinstructies en de geldige wikilink-lijst. Gebruik deze als referentie bij het schrijven van nieuwe entries.
+- De huidige versie van de Doctor Alert-prompt staat lokaal in de repo-root als `Doctor-Alert_V*.md` (gitignored — nooit pushen).
+- **Wanneer Marieke een nieuwe Doctor Alert-versie aanlevert:** sla hem op als `Doctor-Alert_V[nummer].md` in de repo-root en verwijder de vorige versie. Bevestig welke versie nu actief is.
+- Doctor Alert bevat de cluster-lijst, wikilink-regels, schrijfinstructies en de geldige wikilink-lijst. Gebruik deze als referentie bij het schrijven van nieuwe entries.
+- Doctor Alert is de shaper van cartographic prompting — hij definieert hoe termen analytisch gepositioneerd worden in het netwerk. Elke versie reflecteert op huidige ontwikkelingen in digitale cultuur.
+- `Doctor-Alert_analyse.md` (gitignored) is het werkdocument voor retroactieve updates: bij elke nieuwe cluster of nieuwe term, check dit bestand om te zien welke bestaande entries in de vault aangepast moeten worden.
 
 ---
 
@@ -31,7 +33,7 @@ Bij elke toevoeging, verwijdering of hernoeming van een term:
    - Aantal termen
    - Aantal externe bronnen (tel `[tekst](http...)` links in het gewijzigde bestand)
 4. **Wikilink-check** draaien (Python-script uit SETUP.md) — vóór elke push
-5. **Lumo cluster-lijst syncen** — na elke publish controleren of Lumo's cluster-lijst nog klopt met de live vault
+5. **Doctor Alert cluster-lijst syncen** — na elke publish controleren of Doctor Alert's cluster-lijst nog klopt met de live vault
 6. **Retroactieve updates** — bij elke nieuwe term: zoek welke bestaande entries verwant zijn en beoordeel drie niveaus: (1) **wikilink** toevoegen in See also en Navigation; (2) **context** — wordt een bestaande zin scherper als de nieuwe term erin benoemd wordt?; (3) **content** — moet er een nieuwe zin of alinea bij om het analytische belang te verwerken? Alle drie niveaus kunnen van toepassing zijn.
 
 ---

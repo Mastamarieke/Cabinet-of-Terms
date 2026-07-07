@@ -2,10 +2,10 @@
 title: "Secondary Sources — Looksmaxxing"
 type: source
 source_role: secondary
-discipline: [Journalism, Philosophy]
+discipline: [Journalism, Philosophy, Artifact]
 cluster: Gender & Identity
 linked_entries: ["[[Looksmaxxing]]", "[[SMV (Sexual Market Value)]]", "[[Subhuman]]", "[[Body Dysmorphic Disorder]]", "[[Manosphere]]"]
-tags: [source, secondary, journalistic, philosophical]
+tags: [source, secondary, journalistic, philosophical, artifact]
 ---
 
 ## 1. Looksmaxxing is het gevaarlijke antwoord op de vraag: ben ik iets waard?
@@ -58,6 +58,26 @@ Filosofisch tegenwicht: aanklacht tegen de dominante analytische filosofie die a
 
 ---
 
+---
+
+## Artifacts
+
+### 4. Sexual Market Value — The Power Moves
+
+**Auteur:** onbekend (community-site)
+**Type:** Artifact — actieve instructiesite; het fenomeen als product
+**URL:** https://thepowermoves.com/sexual-market-value/
+
+### Korte omschrijving
+Een werkende SMV-instructiesite die de looksmaxxing-ideologie normaliseert als zelfhulp. Geen academische bron — het fenomeen zelf in actieve vorm: scores, hiërarchieschalen, strategieën om je "marktpositie" te verbeteren. Illustreert hoe de abstracte logica van SMV online concreet en toegankelijk wordt aangeboden, ook voor vrouwen.
+
+### Waarmee gelinkt
+- [[SMV (Sexual Market Value)]] — de logica in praktijk
+- [[Looksmaxxing]] — het systeem dat eruit voortkomt
+
+---
+
 ## Status
 
-Alle drie: secondary — journalistiek of filosofisch achtergrondmateriaal, niet peer-reviewed als onderzoek naar looksmaxxing.
+1–3: secondary — journalistiek of filosofisch achtergrondmateriaal, niet peer-reviewed als onderzoek naar looksmaxxing.
+4: artifact — het fenomeen zelf als online product; geen wetenschappelijke bron maar analytisch relevant als bewijs van de ideologie in actieve circulatie.
