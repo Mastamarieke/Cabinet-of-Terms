@@ -112,8 +112,41 @@ Recensent volgt Clavicular zes uur live op Mykonos en beschrijft wat hij ziet: n
 
 ---
 
+---
+
+## 7. looksmaxxing.com
+
+**Auteur:** onbekend (platform)
+**Type:** Artifact — communityplatform en betaalde analyse-dienst
+**URL:** https://looksmaxxing.com
+
+### Korte omschrijving
+Commercieel platform dat de looksmaxxing-ideologie verpakt als zelfverbeteringsservice: betaalde uiterlijkanalyse ("Get My Analysis"), forum met 75.000+ leden, newsletter met 7.000+ abonnees, voor/na-galerijen als social proof. Tone of voice: "Become the Best Version of Yourself." De pseudowetenschap van het forum is hier een abonnementsmodel geworden.
+
+### Waarmee gelinkt
+- [[Looksmaxxing]] — de ideologie als betaald platform: het forumfenomeen wordt commerciële dienst.
+- [[SMV (Sexual Market Value)]] — de marktlogica vertaald naar een letterlijke marktdienst.
+
+---
+
+## 8. Looksmaxxing Kit — Doers of London
+
+**Auteur:** Doers of London
+**Jaar:** 2024
+**Type:** Artifact — consumentenproduct
+**URL:** https://www.doersoflondon.com/en-nl/products/looksmaxxing-kit
+
+### Korte omschrijving
+Premiumskincarekit (€113) met "looksmaxxing" als productnaam: gezichtsreiniger, serum, crème, detoxmasker, gua sha-tool. Claim: *"Sharper Features: Sculpt and define your face in minutes."* Doelgroep: 80.000+ mannen. Een mainstreamskincaremerkt dat de forumterm als premium-label commercialiseert. De gua sha-tool als mainstream equivalent van bone smashing.
+
+### Waarmee gelinkt
+- [[Looksmaxxing]] — de forumterm als consumentencategorie; de pseudowetenschappelijke belofte verpakt als skincare.
+- [[Comparison Culture]] — het product verkoopt de norm mee: als dit bestaat, heb je het nodig.
+
+---
+
 ## Status
 
 1–3: secondary — journalistiek of filosofisch achtergrondmateriaal, niet peer-reviewed als onderzoek naar looksmaxxing.
-4: artifact — het fenomeen zelf als online product; geen wetenschappelijke bron maar analytisch relevant als bewijs van de ideologie in actieve circulatie.
+4, 7, 8: artifact — het fenomeen zelf als online product of consumentencategorie; geen wetenschappelijke bron maar analytisch relevant als bewijs van commercialisering van de ideologie.
 5–6: secondary — journalistieke profileringen van Clavicular als boegbeeld van de beweging; documenteren mainstreaming en maatschappelijke impact.
