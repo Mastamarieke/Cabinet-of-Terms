@@ -23,7 +23,7 @@ related_consequence:
 related_reaction:
   - Deinfluencing
 entry_image: tradwife.jpg
-entry_image_caption: "By the Narrative Typographer Anne-Marie Bruinsma"
+entry_image_caption: "By Narrative Typographer Marieke de Vogel"
 ---
 
 ***She bakes bread, raises children, defers to her husband — and films all of it for an audience of millions.***
@@ -33,7 +33,7 @@ entry_image_caption: "By the Narrative Typographer Anne-Marie Bruinsma"
 **Origin:** The term entered online discourse around 2018–2019, associated with accounts on Instagram, YouTube, and later TikTok that presented aestheticised domesticity as a counter-cultural statement against feminist career culture. Researchers including Annie Kelly and Adrienne Russell have documented how tradwife content draws simultaneously on nostalgic aesthetics, [[Purity Culture|Christian traditionalism]], and white nationalist ideology — with varying degrees of explicitness across different accounts. The same [[SMV (Sexual Market Value)|SMV logic]] that structures [[Manosphere]] content for men operates here: the tradwife optimises her femininity, domesticity, and deference to maximise her value as a mate — the female route through the same market logic that drives [[Looksmaxxing]]. Ging (2019) documents how this ideological ecosystem produces mutually reinforcing content categories across gender lines.
 
 ![](tradwife.jpg)
-<small>*By Narrative Typographer Anne-Marie Bruinsma*</small>
+<small>*By Narrative Typographer Marieke de Vogel*</small>
 
 > Domestic femininity performed as aspirational content — where the rejection of professional identity is distributed as a lifestyle brand.
 
