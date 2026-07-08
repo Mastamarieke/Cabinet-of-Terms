@@ -53,6 +53,8 @@ Two further files support the pattern: `index.md`, a content-oriented catalog th
 
 It is an elegant model. The key insight is persistence: instead of re-deriving knowledge from raw sources on every query — the RAG pattern — the LLM maintains a compiled wiki that grows with each ingest. Knowledge is synthesised once and retrieved thereafter, not reconstructed from scratch. The schema keeps that process disciplined. Together, the three layers form a system that is more than document storage: it is a self-maintaining knowledge artifact.
 
+Others have extended the pattern with hybrid search, team workflows, and newsroom structures. This article proposes a different direction: cartographic.
+
 Yet the model remains text-first. It does not fully account for position — where a term stands in relation to others, and what its placement in a topology reveals. This article is about that architecture: what the Cabinet of Digital Terms adds to Karpathy's three layers. The operations are a separate question, one I return to only briefly at the end.
 
 ---
