@@ -77,7 +77,43 @@ Een werkende SMV-instructiesite die de looksmaxxing-ideologie normaliseert als z
 
 ---
 
+## 5. Handsome at Any Cost
+
+**Auteur:** Joseph Bernstein
+**Jaar:** 2026
+**Type:** Journalistiek
+**Uitgever:** The New York Times
+**URL:** https://www.nytimes.com/2026/02/13/style/clavicular-looksmaxxing-braden-peters.html
+
+### Korte omschrijving
+Portret van Braden Peters (Clavicular), 20-jarig boegbeeld van de looksmax-beweging: $35.000 kaakoperatie, 19,5-inch sleutelbeenderen (eigen meting), >$100.000/maand via Kick, miljoenen volgers. De NYT gebruikte de term "ascended" — de beweging is mainstream. Profiel verscheen naast soortgelijke stukken in Le Monde en The Guardian.
+
+### Waarmee gelinkt
+- [[Looksmaxxing]] — mainstreaming van de beweging via internationale media; cijfers maken de schaal concreet.
+- [[Subhuman]] — de vocabulary ("subhuman" → "Chad") wordt breed erkend als Gen Z-taal.
+
+---
+
+## 6. Een avond met een van de meest controversiële influencers ter wereld
+
+**Auteur:** Tristan Theirlynck
+**Jaar:** 2026
+**Type:** Journalistiek / tv-recensie
+**Uitgever:** NRC
+**URL:** https://www.nrc.nl/nieuws/2026/07/08/een-avond-met-een-van-de-meest-controversiele-influencers-ter-wereld-a4932055
+
+### Korte omschrijving
+Recensent volgt Clavicular zes uur live op Mykonos en beschrijft wat hij ziet: niet de beloofde Chad, maar een jongen die meisjes rate en vernederen op basis van uiterlijk, terwijl hij zelf champagne alleen drinkt en wordt afgewezen. Benoemt de "bijna eugenetische pseudowetenschap" van middengezichtsratio's en sleutelbeenlengtes — en het feit dat wit zijn meeweegt. Eindigt met de recensent zelf voor de spiegel, hamer in hand.
+
+### Waarmee gelinkt
+- [[Looksmaxxing]] — toont het eindpunt van ascension als isolatie; benoemt de raciale dimensie expliciet.
+- [[Subhuman]] — de eugenetische ondertoon van de meetlogica.
+- [[Comparison Culture]] — de recensent die zichzelf meet na zes uur kijken.
+
+---
+
 ## Status
 
 1–3: secondary — journalistiek of filosofisch achtergrondmateriaal, niet peer-reviewed als onderzoek naar looksmaxxing.
 4: artifact — het fenomeen zelf als online product; geen wetenschappelijke bron maar analytisch relevant als bewijs van de ideologie in actieve circulatie.
+5–6: secondary — journalistieke profileringen van Clavicular als boegbeeld van de beweging; documenteren mainstreaming en maatschappelijke impact.
