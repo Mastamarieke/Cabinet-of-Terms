@@ -97,9 +97,7 @@ related_cause: [...]
 related_mechanism: [...]
 related_consequence: [...]
 related_reaction: [...]
-entry_image: termnaam.jpg                              # optioneel
-entry_image_caption: "By Narrative Typographer [Naam]" # optioneel
-semantic_landscape: |                                  # optioneel
+semantic_landscape: |   # optioneel
   [tekst]
 ---
 ```
