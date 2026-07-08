@@ -10,6 +10,7 @@ related_cause:
   - Recommender Systems
 related_mechanism:
   - Looksmaxxing
+  - Tradwife
   - Hypergamy
 related_consequence:
   - Incel
@@ -29,11 +30,11 @@ related_reaction:
 
 **The Appeal:** SMV provides clarity in a domain that is genuinely confusing: why some people are more romantically successful than others, what determines attraction, and what can be changed. The market metaphor imports the apparent objectivity of economics into an inherently subjective domain. For men trying to understand romantic rejection, the framework offers diagnosis and prescription.
 
-**The Friction:** The market metaphor is not neutral — it transforms persons into positions. [[Looksmaxxing]] is the self-improvement response: raise your score. [[Hypergamy]] — the claim that women always seek partners above their station — is the market dynamic that supposedly explains female behaviour. [[Incel]] is the position of those at the bottom of the market. [[Blackpill]] is the conclusion that the market position is fixed by biology. Once people are market positions, the ethical framework governing relationships changes: deception is strategy, withdrawal is risk management, resentment is rational response to market failure. The concept borrows scientific-sounding language from evolutionary psychology while typically misrepresenting or oversimplifying the underlying research.
+**The Friction:** The market metaphor is not neutral — it transforms persons into positions. [[Looksmaxxing]] is the male self-improvement response: raise your score through appearance, surgery, and posture. [[Tradwife]] is the female equivalent: optimise domestic performance, deference, and femininity as mate value. [[Hypergamy]] — the claim that women always seek partners above their station — is the market dynamic that supposedly explains female behaviour. [[Incel]] is the position of those at the bottom of the market. [[Blackpill]] is the conclusion that the market position is fixed by biology. Once people are market positions, the ethical framework governing relationships changes: deception is strategy, withdrawal is risk management, resentment is rational response to market failure. The concept borrows scientific-sounding language from evolutionary psychology while typically misrepresenting or oversimplifying the underlying research.
 
 **Why This Matters:** SMV is the conceptual foundation of the entire cluster. Once you understand it, the rest of the vocabulary becomes readable as a single system: all the other terms are positions, strategies, or responses within the same market framework.
 
-**See also:** [[Looksmaxxing]] · [[Hypergamy]] · [[Incel]] · [[Blackpill]] · [[Manosphere]]
+**See also:** [[Looksmaxxing]] · [[Tradwife]] · [[Hypergamy]] · [[Incel]] · [[Blackpill]] · [[Manosphere]]
 
 
 ---
