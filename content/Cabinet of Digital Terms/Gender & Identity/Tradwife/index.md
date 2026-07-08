@@ -20,6 +20,7 @@ related_mechanism:
 related_consequence:
   - Comparison Culture
   - Stay-at-home Girlfriend (SAHG)
+  - Wellness-to-Alt-Right Pipeline
 related_reaction:
   - Deinfluencing
 entry_image: tradwife.jpg
@@ -53,7 +54,7 @@ semantic_landscape: |
 
 **Why This Matters:** **Tradwife** makes visible the contradiction between form and content — a rejection of modern values distributed through the most modern available infrastructure. The influencer who monetises submission is also the entrepreneur who built a brand. Once you see the platform economy behind the aesthetic, the "return to tradition" is legible as a content category.
 
-**See also:** [[Provider]] · [[SMV (Sexual Market Value)]] · [[Womanosphere]] · [[Manosphere]] · [[Highlight Reel]] · [[Stay-at-home Girlfriend (SAHG)]] · [[Purity Culture]] · [[Looksmaxxing]]
+**See also:** [[Provider]] · [[SMV (Sexual Market Value)]] · [[Womanosphere]] · [[Manosphere]] · [[Highlight Reel]] · [[Stay-at-home Girlfriend (SAHG)]] · [[Purity Culture]] · [[Looksmaxxing]] · [[Wellness-to-Alt-Right Pipeline]]
 
 ---
 
@@ -83,7 +84,7 @@ semantic_landscape: |
 
 **Cause:** [[SMV (Sexual Market Value)]] · [[Womanosphere]] · [[Manosphere]] · [[Purity Culture]]
 **Mechanism:** [[Provider]] · [[Highlight Reel]] · [[Looksmaxxing]]
-**Consequence:** [[Comparison Culture]] · [[Stay-at-home Girlfriend (SAHG)]]
+**Consequence:** [[Comparison Culture]] · [[Stay-at-home Girlfriend (SAHG)]] · [[Wellness-to-Alt-Right Pipeline]]
 **Reaction:** [[Deinfluencing]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

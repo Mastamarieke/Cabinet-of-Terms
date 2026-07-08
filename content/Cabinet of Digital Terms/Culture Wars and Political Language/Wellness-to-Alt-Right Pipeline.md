@@ -8,6 +8,7 @@ analysis_version: pending
 related_cause:
   - Conspirituality
   - Recommender Systems
+  - Tradwife
 related_mechanism:
   - Purity Culture
   - QAnon
@@ -28,11 +29,11 @@ related_reaction:
 
 **The Appeal:** The pipeline is not experienced as a pipeline by those in it. Each step feels like acquiring more knowledge, becoming more aware, protecting yourself and your community. The distrust of pharmaceutical companies, the interest in natural health, the suspicion of government institutions — none of these positions is inherently extreme. The radicalisation happens in the accumulation and in the community.
 
-**The Friction:** [[Recommender Systems]] — algorithms that determine what you see — are the infrastructure of the pipeline: content recommendation systems surface adjacent material, and the adjacency between wellness scepticism and political conspiracy is close. [[Conspirituality]] is the ideological substrate: the shared structure of hidden threat, insider knowledge, and bodily/national purity. [[Purity Culture]] is the connecting theme: the pure body and the pure nation share their logic and their enemies. The pipeline does not require any single moment of explicit radicalisation — it requires only that each step feel continuous with the last.
+**The Friction:** [[Recommender Systems]] — algorithms that determine what you see — are the infrastructure of the pipeline: content recommendation systems surface adjacent material, and the adjacency between wellness scepticism and political conspiracy is close. [[Conspirituality]] is the ideological substrate: the shared structure of hidden threat, insider knowledge, and bodily/national purity. [[Purity Culture]] is the connecting theme: the pure body and the pure nation share their logic and their enemies. [[Tradwife]] is one of the entry points: domestic aesthetics and traditional femininity function as early stages of the pipeline — content that feels benign but shares the same purity logic and demographic anxiety. The pipeline does not require any single moment of explicit radicalisation — it requires only that each step feel continuous with the last.
 
 **Why This Matters:** The **wellness-to-alt-right pipeline** makes visible that extremism recruitment does not require extremist entry points. The doorway is detox. The destination is somewhere else. Once you know the pathway, you can read its stages.
 
-**See also:** [[Conspirituality]] · [[Purity Culture]] · [[QAnon]] · [[Recommender Systems]] · [[Great Replacement]]
+**See also:** [[Conspirituality]] · [[Purity Culture]] · [[Tradwife]] · [[QAnon]] · [[Recommender Systems]] · [[Great Replacement]]
 
 
 ---
