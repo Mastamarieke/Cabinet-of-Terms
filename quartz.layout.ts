@@ -24,7 +24,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ArticleTitle(),
     Component.ContentMeta(),
     Component.TagList(),
-    Component.Graph(),
+    Component.Graph({ globalGraph: { removeTags: ["source"] } }),
     Component.GraphStory(),
   ],
   left: [
@@ -55,7 +55,7 @@ export const defaultListPageLayout: PageLayout = {
     Component.Breadcrumbs(),
     Component.ArticleTitle(),
     Component.ContentMeta(),
-    Component.Graph({ localGraph: { depth: 1, scale: 0.9 } }),
+    Component.Graph({ localGraph: { depth: 1, scale: 0.9 }, globalGraph: { removeTags: ["source"] } }),
     Component.GraphStory(),
   ],
   left: [
