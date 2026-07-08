@@ -22,6 +22,8 @@ related_consequence:
   - Stay-at-home Girlfriend (SAHG)
 related_reaction:
   - Deinfluencing
+entry_image: tradwife.jpg
+entry_image_caption: "By the Narrative Typographer Anne-Marie Bruinsma"
 ---
 
 ***She bakes bread, raises children, defers to her husband — and films all of it for an audience of millions.***
@@ -29,6 +31,9 @@ related_reaction:
 **Literal meaning:** **Tradwife** — from *traditional wife* — describes women who publicly embrace and promote a domestic, homemaking role as their primary identity: cooking, cleaning, child-rearing, and deference to a male **provider**, presented as a deliberate, values-driven lifestyle choice rather than economic necessity. Most tradwives are also influencers: content creators who document and monetise this domestic life through YouTube, TikTok, and Instagram — reaching audiences of hundreds of thousands to millions. The aesthetic is curated, the lighting is soft, and the platform is a business.
 
 **Origin:** The term entered online discourse around 2018–2019, associated with accounts on Instagram, YouTube, and later TikTok that presented aestheticised domesticity as a counter-cultural statement against feminist career culture. Researchers including Annie Kelly and Adrienne Russell have documented how tradwife content draws simultaneously on nostalgic aesthetics, [[Purity Culture|Christian traditionalism]], and white nationalist ideology — with varying degrees of explicitness across different accounts. The same [[SMV (Sexual Market Value)|SMV logic]] that structures [[Manosphere]] content for men operates here: the tradwife optimises her femininity, domesticity, and deference to maximise her value as a mate — the female route through the same market logic that drives [[Looksmaxxing]]. Ging (2019) documents how this ideological ecosystem produces mutually reinforcing content categories across gender lines.
+
+![](tradwife.jpg)
+<small>*By Narrative Typographer Anne-Marie Bruinsma*</small>
 
 > Domestic femininity performed as aspirational content — where the rejection of professional identity is distributed as a lifestyle brand.
 
