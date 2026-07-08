@@ -97,8 +97,9 @@ related_cause: [...]
 related_mechanism: [...]
 related_consequence: [...]
 related_reaction: [...]
-entry_image: bestandsnaam.jpg     # optioneel
-semantic_landscape: |             # optioneel
+entry_image: termnaam.jpg                              # optioneel
+entry_image_caption: "By Narrative Typographer [Naam]" # optioneel
+semantic_landscape: |                                  # optioneel
   [tekst]
 ---
 ```
@@ -178,136 +179,61 @@ Bronmateriaal gebruikt bij de analyse van [[Term]].
 
 ---
 
-## Sources-structuur protocol
+## Build-workflow: nieuwe entry met bronnen en afbeelding
 
-Entries met bronnen krijgen een mapstructuur zoals Sigma Male en Looksmaxxing.
+Volg deze volgorde bij het bouwen van een entry met folder-structuur (zoals Tradwife, Looksmaxxing, Sigma Male).
 
-### Mapstructuur
+### Stap 1 — Bronnen classificeren
 
-```
-Term/
-├── index.md           ← de entry
-└── Sources/
-    ├── index.md       ← bronnen-overzichtspagina
-    ├── Auteur-Jaar.md ← per primaire bron één bestand
-    ├── Auteur-Jaar.md
-    └── Secondary.md   ← alle secundaire bronnen samen
-```
+Verdeel de aangeleverde bronnen in primary / secondary / artifact (zie Sources-structuur protocol hieronder) en bepaal welke twee primaire bronnen de analytische kern vormen.
 
-### Naamgeving
+### Stap 2 — Bestanden schrijven (in volgorde)
 
-- Map: exacte termnaam (spaties toegestaan)
-- Bronbestanden: `Auteur-Jaar.md` (eerste auteur, geen voornaam, koppelteken)
-- Secundaire bundel: altijd `Secondary.md`
+1. `Term/index.md` — de volledige entry (vervangt de oude platte `Term.md`)
+2. `Term/Sources/Auteur-Jaar.md` — eerste primaire bron
+3. `Term/Sources/Auteur-Jaar.md` — tweede primaire bron
+4. `Term/Sources/Secondary.md` — alle secundaire bronnen
+5. `Term/Sources/index.md` — bronnen-overzichtspagina
 
-### Classificatie
+### Stap 3 — Opruimen
 
-| Rol | Wat | Bestand |
-|-----|-----|---------|
-| `primary` | Peer-reviewed academisch, direct over het fenomeen | eigen `.md` |
-| `secondary` | Journalistiek, beschouwend, filosofische achtergrond | samen in `Secondary.md` |
-| `artifact` | Het fenomeen zelf als product (zelfhulpboek, meme, app) | eigen `.md` |
+- Verwijder de oude platte `Term.md` als die bestaat
 
-### Frontmatter entry (index.md)
+### Stap 4 — Retroactieve updates
 
-```yaml
----
-title: "Termnaam"
-aliases:
-  - Termnaam
-term: Termnaam
-cluster: Clusternaam
-analytical_layer: mechanism/cause/consequence/reaction
-status: publieksversie
-version: V[n]
-analysis_version: pending
-related_cause: [...]
-related_mechanism: [...]
-related_consequence: [...]
-related_reaction: [...]
-entry_image: bestandsnaam.jpg     # optioneel
-semantic_landscape: |             # optioneel
-  [tekst]
----
-```
+- Zoek verwante entries en voeg `[[Term]]` toe op drie niveaus: frontmatter, See also, en Friction/body waar analytisch relevant
 
-### Frontmatter primaire bronbestanden
+### Stap 5 — Commit en push (vóór afbeelding)
 
-```yaml
----
-title: "Auteur (Jaar)"
-full_title: "Volledige titel"
-type: source
-source_role: primary
-source_type: academic-article / book / report
-analytical_layer: [...]
-source_function: [Theoretical/Critical, Empirical/Data, Genealogical]
-author: Volledige naam
-year: JJJJ
-journal: Tijdschriftnaam        # of publisher:
-doi: https://doi.org/...        # of url:
-access: open-access / paywalled
-discipline: [...]
-cluster: Clusternaam
-linked_entries: ["[[Term]]", ...]
-tags: [source, primary, academic, peer-reviewed]
----
-```
+- Stage alleen de nieuwe Term-bestanden en gewijzigde verwante entries
+- Push — zo staat de map op GitHub en kan de afbeelding er via de GitHub-UI in worden geüpload
+- Commit de afbeelding **nooit** samen met de andere bestanden — aparte commit
 
-### Frontmatter Secondary.md
+### Stap 6 — Afbeelding toevoegen
 
-```yaml
----
-title: "Secondary Sources — Termnaam"
-type: source
-source_role: secondary
-discipline: [Journalism, ...]
-cluster: Clusternaam
-linked_entries: ["[[Term]]", ...]
-tags: [source, secondary, journalistic]
----
-```
+1. Marieke uploadt de afbeelding via GitHub: navigeer naar de Term-map → "Add file" → "Upload files"
+2. `git pull` om de afbeelding lokaal binnen te halen
+3. Hernoem het bestand als er spaties in de naam zitten: `tradwife.jpg` (geen spaties)
+4. Voeg toe aan `index.md`:
+   - Frontmatter: `entry_image: termnaam.jpg` en `entry_image_caption: "By Narrative Typographer [Naam]"`
+   - Body: `![](termnaam.jpg)` + `<small>*By Narrative Typographer [Naam]*</small>` — direct bóven de definition quote
+5. Commit en push
 
-### Frontmatter Sources/index.md
-
-```yaml
----
-title: "Sources"
-cluster: Clusternaam
-tags: [source-index]
----
-```
-
-### Sources callout in entry (index.md)
+### Volgorde afbeelding in de entry body
 
 ```markdown
-> [!abstract]- Sources
-> **[[Auteur-Jaar|Auteur (Jaar)]]** · *Titel* · Tijdschrift · [DOI ↗](url)
-> Één zin: wat levert deze bron analytisch op.
->
-> **[[Secondary|Auteur (Jaar) · Auteur (Jaar)]]** · [Uitgever ↗](url) · [Uitgever ↗](url)
-> Journalistiek + overige achtergrondmaterialen.
-```
+![](termnaam.jpg)
+<small>*By Narrative Typographer [Naam]*</small>
 
-### Sources/index.md body
-
-```markdown
-Bronmateriaal gebruikt bij de analyse van [[Term]].
-
-**Primary:**
-- [[Auteur-Jaar|Auteur (Jaar)]] — één regel omschrijving
-
-**Secondary:**
-- [[Secondary|Auteur (Jaar) · Auteur (Jaar)]] — journalistiek + achtergrond
-
-**Behandelde entries:** [[Term]] · [[Verwante term]] · ...
+> Definition quote hier.
 ```
 
 ---
 
 ## Nooit pushen
 
-- `Lumo_V*.md` — staat in `.gitignore`
+- `Doctor-Alert_V*.md` — staat in `.gitignore`
+- `log.md` — staat in `.gitignore`
 - SSH-sleutels of bestanden met persoonlijke gegevens
 
 ---
