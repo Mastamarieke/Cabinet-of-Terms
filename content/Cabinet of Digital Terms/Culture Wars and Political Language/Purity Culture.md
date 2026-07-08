@@ -11,6 +11,7 @@ related_cause:
 related_mechanism:
   - Great Replacement
   - Social Contagion
+  - Tradwife
 related_consequence:
   - Subhuman
   - Anti-Woke
@@ -28,11 +29,11 @@ related_reaction:
 
 **The Appeal:** Purity concerns are cognitively and emotionally real. The disgust response is hardwired, the sense of contamination is visceral, and the desire to protect what is valued from corruption is universal. **Purity culture** channels these responses into structured frameworks — religious, political, nutritional — that provide community and meaning.
 
-**The Friction:** The structural identity across purity domains is the analytical core. The body that must be protected from toxins, vaccines, and processed food shares its logic with the nation that must be protected from immigration, cultural change, and racial mixing. [[Wellness-to-Alt-Right Pipeline]] is the pathway; **purity culture** is the shared logic that makes the journey feel continuous. [[Great Replacement]] is **purity culture** at civilisational scale: demographic change as contamination of the national body. [[Social Contagion]] — trans identity as spreading pathology — applies contamination logic to identity. Mary Douglas's insight remains analytically essential: ask what the purity norm is protecting, and you reveal the social category most under pressure.
+**The Friction:** The structural identity across purity domains is the analytical core. The body that must be protected from toxins, vaccines, and processed food shares its logic with the nation that must be protected from immigration, cultural change, and racial mixing. [[Wellness-to-Alt-Right Pipeline]] is the pathway; **purity culture** is the shared logic that makes the journey feel continuous. [[Great Replacement]] is **purity culture** at civilisational scale: demographic change as contamination of the national body. [[Social Contagion]] — trans identity as spreading pathology — applies contamination logic to identity. [[Tradwife]] runs the same architecture inward: the clean body, the pure household, the uncorrupted femininity — a domestic image that collapses seamlessly into demographic purity logic at scale. Mary Douglas's insight remains analytically essential: ask what the purity norm is protecting, and you reveal the social category most under pressure.
 
 **Why This Matters:** **Purity culture** names the connecting logic across apparently unrelated movements — dietary, religious, nationalist. Once you see the structure, you can read what the contamination anxiety is actually protecting.
 
-**See also:** [[Wellness-to-Alt-Right Pipeline]] · [[Great Replacement]] · [[Social Contagion]] · [[Anti-Woke]] · [[Subhuman]]
+**See also:** [[Wellness-to-Alt-Right Pipeline]] · [[Great Replacement]] · [[Social Contagion]] · [[Anti-Woke]] · [[Subhuman]] · [[Tradwife]]
 
 
 ---
