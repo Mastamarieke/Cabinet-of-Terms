@@ -24,6 +24,16 @@ related_reaction:
   - Deinfluencing
 entry_image: tradwife.jpg
 entry_image_caption: "By Narrative Typographer Marieke de Vogel"
+semantic_landscape: |
+  **Tradwife** sits at the intersection of two different logics in the **Gender & Identity** cluster — and the graph makes visible that they share a node. From one direction comes the **SMV/Manosphere** axis: market logic, mate value, optimisation of desirability. From the other comes **Purity Culture**: cleanliness of body, household, and nation. These two logics do not feel like the same thing from the inside. The network shows they are.
+
+  The most revealing structural feature is the mirror relationship with **Looksmaxxing**. Both are mechanisms. Both translate **SMV (Sexual Market Value)** logic into performance: Looksmaxxing optimises the body for the market; Tradwife optimises domestic performance for the same market. The entry point is the same node. What differs is the direction of the consequence path. Looksmaxxing leads toward **Blackpill** and **Body Dysmorphic Disorder** — pathology as endpoint. Tradwife leads toward **Comparison Culture** and **Stay-at-home Girlfriend (SAHG)** — the softened version, where the ideology is still aspirational rather than terminal.
+
+  **Provider** is the structural counterpart that the graph positions as a co-mechanism: Tradwife and Provider are a paired set, two roles in the same transaction. Remove one, and the other loses its definition. The connection to **Highlight Reel** is equally structural: the tradwife's domestic scenes are produced content. The kitchen is a set. The submission is a format.
+
+  What the graph cannot yet show — but the shirts can: the tradwife aesthetic is now a consumer product. *"Feed The Patriarchy"*, *"Feminine Not Feminist"*, *"I Love To Serve My Husband"* — sold on a regular e-commerce platform, marketed as *Cool & Funny*. The rejection of modern consumer culture is itself for sale. The node that is missing in the current graph is **Lifestyle Brand** — the point at which an ideological position becomes purchasable identity. Its absence is worth naming. Once an ideology can be worn, it no longer needs to be argued.
+
+  **Deinfluencing** stands as the only reaction node — and its solitude mirrors what we see in Looksmaxxing. The pushback is personal and aesthetic, not structural. It addresses one person's feed, not the infrastructure that makes the feed profitable.
 ---
 
 ***She bakes bread, raises children, defers to her husband — and films all of it for an audience of millions.***
