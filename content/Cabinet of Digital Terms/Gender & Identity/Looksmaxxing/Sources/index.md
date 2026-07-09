@@ -7,7 +7,7 @@ tags: [source-index]
 Bronmateriaal gebruikt bij de analyse van [[Looksmaxxing]].
 
 **Primary:**
-- [[Ging-2019|Ging (2019)]] — academisch kader manosphere & SMV-logica
+- [[Ging-Looksmaxxing-2019|Ging (2019)]] — academisch kader manosphere & SMV-logica
 - [[Konig-2025|Konig et al. (2025)]] — klinische analyse self-enhancement vs. self-harm
 
 **Secondary:**

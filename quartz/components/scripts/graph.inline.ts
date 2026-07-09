@@ -155,10 +155,14 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
   const baseNeighbourhood = new Set(neighbourhood)
 
   // Load all cluster siblings into the graph so the cluster toggle can reveal them
+  // Skip source nodes — they belong to specific entries, not to the cluster as a whole
   if (clusterPath) {
     for (const id of validLinks) {
       if (id.includes(clusterPath) && id !== slug) {
-        neighbourhood.add(id)
+        const siblingTags = data.get(id)?.tags ?? []
+        if (!siblingTags.includes('source')) {
+          neighbourhood.add(id)
+        }
       }
     }
   }

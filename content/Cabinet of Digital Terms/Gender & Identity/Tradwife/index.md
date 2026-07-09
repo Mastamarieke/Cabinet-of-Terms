@@ -66,16 +66,6 @@ semantic_landscape: |
 - [What Is a 'Tradwife' and How Does It Differ from Stay-at-Home Moms?](https://www.parents.com/tradwife-meaning-and-why-its-controversial-8656603) — *Parents* magazine (2024)
 - [The Real Problem With Tradwives](https://www.vogue.com/article/problem-with-tradwives) — *Vogue* (2024)
 
-> [!abstract]- Sources
-> **[[Betz-2026|Betz, Liss & Ramsey (2026)]]** · *Not the Solution We Proposed* · Psychology of Women Quarterly · [DOI ↗](https://journals.sagepub.com/doi/10.1177/03616843261442440)
-> Feminist psychologisch kader: drie enabling conditions van de tradwife-beweging; white supremacist ideology en anti-trans sentiment als onderstroom; 'return to tradition' alleen toegankelijk voor geprivilegieerde vrouwen.
->
-> **[[Ging-2019|Ging (2019)]]** · *Alphas, Betas, and Incels* · Men and Masculinities · [DOI ↗](https://doi.org/10.1177/1097184x17706401)
-> Manosphere als ecosysteem: SMV-logica als organiserend principe voor zowel mannelijke als vrouwelijke content-categorieën — tradwife als spiegelterm.
->
-> **[[Secondary|Kelly (2018) · UvA (2024) · Vogue (2024) · Parents (2024)]]** · [NYT ↗](https://www.johnlocke.org/the-housewives-of-white-supremacy/) · [UvA ↗](https://www.uva.nl/en/shared-content/faculteiten/en/faculteit-der-maatschappij-en-gedragswetenschappen/news/2024/07/tradwives.html) · [Vogue ↗](https://www.vogue.com/article/problem-with-tradwives) · [Parents ↗](https://www.parents.com/tradwife-meaning-and-why-its-controversial-8656603)
-> Journalistiek + beschouwend — ideologisch spectrum van de beweging, maatschappelijke context, publieke duiding.
-
 ---
 
 **Navigation**

@@ -7,7 +7,7 @@ tags: [source-index]
 Bronmateriaal gebruikt bij de analyse van [[Sigma Male]].
 
 **Primary:**
-- [[Ging-2019|Ging (2019)]] — academisch kader alfa/bèta-hiërarchie
+- [[Ging-SigmaMale-2019|Ging (2019)]] — academisch kader alfa/bèta-hiërarchie
 - [[Tanner-Gillardin-2025|Tanner & Gillardin (2025)]] — empirisch TikTok-onderzoek
 - [[Watson-2021|Watson (2021)]] — primair artefact (zelfhulpboek)
 

@@ -68,7 +68,7 @@ semantic_landscape: |
 - [The Sovereignty of Good](https://www.routledge.com/The-Sovereignty-of-Good/Murdoch/p/book/9780415253994) — Murdoch, I. (1970). *Routledge*
 
 > [!abstract]- Sources
-> **[[Ging-2019|Ging (2019)]]** · *Alphas, Betas, and Incels* · Men and Masculinities · [DOI ↗](https://doi.org/10.1177/1097184x17706401)
+> **[[Ging-Looksmaxxing-2019|Ging (2019)]]** · *Alphas, Betas, and Incels* · Men and Masculinities · [DOI ↗](https://doi.org/10.1177/1097184x17706401)
 > Academisch kader: SMV-logica als fundament van looksmaxxing; manosphere als ecosysteem van masculiniteitsideologieën.
 >
 > **[[Konig-2025|Konig et al. (2025)]]** · *Looksmaxxing: Self-Enhancement or Self-Harm?* · SAGE Open Medicine · [DOI ↗](https://journals.sagepub.com/doi/10.1177/26893614251409793)

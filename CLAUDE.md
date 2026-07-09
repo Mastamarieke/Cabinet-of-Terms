@@ -69,7 +69,7 @@ Term/
 ### Naamgeving
 
 - Map: exacte termnaam (spaties toegestaan)
-- Bronbestanden: `Auteur-Jaar.md` (eerste auteur, geen voornaam, koppelteken)
+- Bronbestanden: `Auteur-Jaar.md` (eerste auteur, geen voornaam, koppelteken). Bij naamconflict — dezelfde auteur-jaar combinatie in een andere entry — gebruik `Auteur-Term-Jaar.md` (bijv. `Ging-Tradwife-2019.md`).
 - Secundaire bundel: altijd `Secondary.md`
 
 ### Classificatie
@@ -151,14 +151,7 @@ tags: [source-index]
 
 ### Sources callout in entry (index.md)
 
-```markdown
-> [!abstract]- Sources
-> **[[Auteur-Jaar|Auteur (Jaar)]]** · *Titel* · Tijdschrift · [DOI ↗](url)
-> Één zin: wat levert deze bron analytisch op.
->
-> **[[Secondary|Auteur (Jaar) · Auteur (Jaar)]]** · [Uitgever ↗](url) · [Uitgever ↗](url)
-> Journalistiek + overige achtergrondmaterialen.
-```
+**Nooit toevoegen.** De bronnen leven in `Sources/` — niet in de entry zelf. Geen `[!abstract]- Sources` callout in `index.md`.
 
 ### Sources/index.md body
 
