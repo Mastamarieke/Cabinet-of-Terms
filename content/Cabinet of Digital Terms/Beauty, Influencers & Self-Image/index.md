@@ -50,3 +50,6 @@ Framing yourself as the protagonist of your own story — and everyone else as s
 
 ### [[Body Dysmorphic Disorder]]
 The face in the mirror does not match the face in your mind. You have checked seventeen times today. This is the clinical endpoint of the aesthetic optimisation continuum.
+
+### [[Virtual Influencer]]
+She posts from Bali, partners with Prada, and replies to your comment. She does not exist. The trust you feel is real. The mechanism producing it is not.

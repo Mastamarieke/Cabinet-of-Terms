@@ -15,3 +15,6 @@ Checklist van alle bestaande source-bestanden. Controleer hier eerst voordat je 
 | Dictionary.com (2023) | secondary | reference-lexicographic | Lexicography | Secondary-Sigma-Male.md (sectie 1) |
 | Newswise (2025) | secondary | journalistic | Journalism | Secondary-Sigma-Male.md (sectie 2) |
 | Watson (2021) | artifact | book | — | Watson-2021.md |
+| Kim et al. (2023) | primary | academic-article | Psychology, Marketing, Media Studies | Kim-2023.md |
+| Sands et al. (2022) | primary | academic-article | Marketing, Consumer Psychology, Media Studies | Sands-2022.md |
+| VirtualHumans.org (n.d.) | secondary | directory | Industry Documentation | Secondary.md (Virtual Influencer) |

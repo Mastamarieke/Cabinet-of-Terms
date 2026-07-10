@@ -30,9 +30,9 @@ related_reaction:
 
 **The Friction:** The scale is the problem. When everyone presents only their best, the aggregate effect is an environment where everyone appears to be living better than you are. [[Comparison Culture]] — permanent ambient comparison as a platform feature — runs on **highlight reel** content: the upward comparison is constant, involuntary, and algorithmically amplified. [[Curated Life]] is the full-time practice; the **highlight reel** is its primary output. [[Body Dysmorphic Disorder]] sits at the clinical end of what sustained upward comparison to idealised images produces in vulnerable individuals.
 
-**Why This Matters:** The **highlight reel** is not a lie. It is a selection. Once you know that everyone's feed is a selection, the gap between their life and yours becomes a gap between two curations — not between their reality and yours.
+**Why This Matters:** The **highlight reel** is not a lie. It is a selection. Once you know that everyone's feed is a selection, the gap between their life and yours becomes a gap between two curations — not between their reality and yours. [[Virtual Influencer]] is the endpoint of this logic: when the entire persona is designed, there is no reality underneath the selection to begin with.
 
-**See also:** [[Curated Life]] · [[Comparison Culture]] · [[Influencer]] · [[Beauty Filter]] · [[Body Dysmorphic Disorder]]
+**See also:** [[Curated Life]] · [[Comparison Culture]] · [[Influencer]] · [[Beauty Filter]] · [[Body Dysmorphic Disorder]] · [[Virtual Influencer]]
 
 
 ---

@@ -30,11 +30,11 @@ related_reaction:
 
 **The Appeal:** **Recommender systems** solve a real problem: infinite content requires filtering. A good recommendation genuinely serves the user — surfacing relevant music, useful products, or interesting articles they would not have found otherwise. The engineering challenge is substantial and the success cases are real.
 
-**The Friction:** The objective function is the problem. **Recommender systems** optimise for what they are instructed to optimise for — and platforms typically optimise for engagement, not for accuracy, balance, or user wellbeing. [[Filter Bubble]] — algorithmic enclosure of similar viewpoints — is one documented consequence. Radicalisation pathways — documented by Tufekci, Ribeiro, and others — are another: the algorithm recommends more extreme content because extreme content generates more engagement. [[Microtargeting]] extends recommendation into advertising: the same optimisation logic applied to persuasion. The EU's Digital Services Act (2022) introduced obligations for major platforms to provide non-algorithmic feed options and to disclose recommendation parameters.
+**The Friction:** The objective function is the problem. **Recommender systems** optimise for what they are instructed to optimise for — and platforms typically optimise for engagement, not for accuracy, balance, or user wellbeing. [[Filter Bubble]] — algorithmic enclosure of similar viewpoints — is one documented consequence. Radicalisation pathways — documented by Tufekci, Ribeiro, and others — are another: the algorithm recommends more extreme content because extreme content generates more engagement. [[Virtual Influencer]] shows a different dimension of the same logic: by repeatedly surfacing a fabricated persona, the algorithm builds the familiarity that makes a parasocial bond feel earned — with a figure that does not exist. [[Microtargeting]] extends recommendation into advertising: the same optimisation logic applied to persuasion. The EU's Digital Services Act (2022) introduced obligations for major platforms to provide non-algorithmic feed options and to disclose recommendation parameters.
 
 **Why This Matters:** **Recommender systems** are the infrastructure of the contemporary information environment. Understanding that your feed is an optimisation output — not a neutral window on the world — is the first step in reading it differently.
 
-**See also:** [[Filter Bubble]] · [[Echo Chamber]] · [[Microtargeting]] · [[Dopamine Feedback Loops]] · [[Attention Harvesting]]
+**See also:** [[Filter Bubble]] · [[Echo Chamber]] · [[Microtargeting]] · [[Dopamine Feedback Loops]] · [[Attention Harvesting]] · [[Virtual Influencer]]
 
 
 ---
