@@ -39,4 +39,16 @@ related_reaction:
 - [Angry White Men](https://www.publicaffairsbooks.com/titles/michael-kimmel/angry-white-men/9781568589619/) — Kimmel, M. (2013). *PublicAffairs*
 - [Alphas, Betas, and Incels](https://doi.org/10.1177/1097184x17706401) — Ging, D. (2019). *Men and Masculinities*
 
+
+---
+
+**Navigation**
+
+**Layer:** Mechanism
+
+**Cause:** [[SMV (Sexual Market Value)]] · [[Manosphere]]
+**Mechanism:** [[Tradwife]] · [[High Value Man]]
+**Consequence:** [[Stay-at-home Girlfriend (SAHG)]]
+**Reaction:** [[Womanosphere]]
+
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

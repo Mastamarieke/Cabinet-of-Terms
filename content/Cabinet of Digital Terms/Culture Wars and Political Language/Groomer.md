@@ -41,4 +41,16 @@ related_reaction:
 - [The Groomer Smear](https://www.lawfaremedia.org/article/groomer-smear) — Caraballo, A., _Harvard Law School / Lawfare_ (2022)
 - [Review of Online Grooming: Characteristics and Concerns](https://www.ojp.gov/ncjrs/virtual-library/abstracts/review-online-grooming-characteristics-and-concerns) — Whittle, H. & Hamilton-Giachritsis, C., _Aggression and Violent Behavior_ / National Institute of Justice (2013)
 
+
+---
+
+**Navigation**
+
+**Layer:** Mechanism
+
+**Cause:** [[Online Grooming]] · [[Dehumanization]]
+**Mechanism:** [[Social Contagion]] · [[Woke Mind Virus]]
+**Consequence:** [[Subhuman]] · [[Deplatforming]]
+**Reaction:** [[Deplatforming]]
+
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

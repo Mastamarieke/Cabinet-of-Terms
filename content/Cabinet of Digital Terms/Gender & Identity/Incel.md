@@ -43,4 +43,16 @@ related_reaction:
 - [Elliot Rodger and the Incel Movement](https://www.bbc.com/news/world-us-canada-43892189). BBC News. (2018).
 - [incels](https://www.wehuntedthemammoth.com/category/incels/). Futrelle, D. (n.d.).
 
+
+---
+
+**Navigation**
+
+**Layer:** Consequence
+
+**Cause:** [[Manosphere]] · [[SMV (Sexual Market Value)]]
+**Mechanism:** [[Blackpill]] · [[Dehumanization]]
+**Consequence:** [[Blackpill]] · [[Great Replacement]]
+**Reaction:** [[Deplatforming]]
+
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

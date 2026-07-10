@@ -41,4 +41,16 @@ related_reaction:
 - [Self-Help Inc.](https://global.oup.com/academic/product/self-help-inc-9780195171006) — McGee, M. (2005). *Oxford University Press*
 - [_Dude, You’re a Fag: Masculinity and Sexuality in High School_](https://en.wikipedia.org/wiki/Dude%2C_You%27re_a_Fag). Pascoe, C. J. (2007).
 
+
+---
+
+**Navigation**
+
+**Layer:** Mechanism
+
+**Cause:** [[SMV (Sexual Market Value)]] · [[Manosphere]]
+**Mechanism:** [[Top 1% Man]] · [[Provider]]
+**Consequence:** [[Hustle Culture]] · [[Comparison Culture]]
+**Reaction:** [[Podcast-bro]]
+
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

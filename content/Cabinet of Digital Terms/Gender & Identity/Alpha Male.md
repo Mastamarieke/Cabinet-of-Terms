@@ -41,4 +41,16 @@ related_reaction:
 ) — Mech, L.D. (2008). *International Wolf Center*
 - [Alphas, Betas, and Incels](https://doi.org/10.1177/1097184x17706401) — Ging, D. (2019). *Men and Masculinities*
 
+
+---
+
+**Navigation**
+
+**Layer:** Mechanism
+
+**Cause:** [[SMV (Sexual Market Value)]] · [[Manosphere]]
+**Mechanism:** [[Sigma Male]] · [[Top 1% Man]]
+**Consequence:** [[Provider]] · [[Incel]]
+**Reaction:** [[Podcast-bro]]
+
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

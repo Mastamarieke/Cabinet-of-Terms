@@ -41,4 +41,16 @@ related_reaction:
 - [Mate Preferences](https://doi.org/10.1017/S0140525X07001357) — Buller, D.J. (2005). *Behavioral and Brain Sciences*
 -  [The Economics of Hypergamy](https://jhr.uwpress.org/content/58/1/260). Almås, I., Drange, N., & Mogstad, M. (2023).
 
+
+---
+
+**Navigation**
+
+**Layer:** Mechanism
+
+**Cause:** [[SMV (Sexual Market Value)]] · [[Manosphere]]
+**Mechanism:** [[Womanosphere]] · [[Incel]]
+**Consequence:** [[Blackpill]] · [[Incel]]
+**Reaction:** [[MGTOW]]
+
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

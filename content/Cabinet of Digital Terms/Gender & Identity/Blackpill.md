@@ -42,4 +42,16 @@ related_reaction:
 - [The Black Pill: New Technology and the Male Supremacy of Involuntarily Celibate Men](https://pmc.ncbi.nlm.nih.gov/articles/PMC8600582/). Maxwell, D., Robinson, S. R., Williams, J. R. & Keaton, C. (2020). _Men and Masculinities_
 - [Beauty and the Labor Market](https://www.jstor.org/stable/2117767). Hamermesh, D. S., & Biddle, J. E. (1994). _American Economic Review, 84_(5), 1174–1194.
 
+
+---
+
+**Navigation**
+
+**Layer:** Consequence
+
+**Cause:** [[Incel]] · [[SMV (Sexual Market Value)]]
+**Mechanism:** [[Blackpill]] · [[Dehumanization]]
+**Consequence:** [[MGTOW]] · [[Great Replacement]]
+**Reaction:** [[Deplatforming]]
+
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

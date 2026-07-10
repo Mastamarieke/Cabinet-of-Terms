@@ -40,4 +40,16 @@ related_reaction:
 - [The Reactionary Mind](https://global.oup.com/academic/product/the-reactionary-mind-9780190692001) — Robin, C. (2011). *Oxford University Press*
 - [Woke: A Field Guide for Utopia Preppers](https://www.amazon.com/Woke-Field-Guide-Utopia-Preppers/dp/064823455X) — Johnstone, C. (2017/2019). Self-published.
 
+
+---
+
+**Navigation**
+
+**Layer:** Mechanism
+
+**Cause:** [[Woke Mind Virus]] · [[Red Pill]]
+**Mechanism:** [[Dehumanization]] · [[Flood the Zone]]
+**Consequence:** [[Purity Culture]] · [[Great Replacement]]
+**Reaction:** [[Deplatforming]]
+
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

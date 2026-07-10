@@ -42,4 +42,16 @@ related_reaction:
 ](https://www.researchgate.net/publication/344344361_Trans_Time_Safety_Privacy_and_Content_Warnings_on_a_Transgender-Specific_Social_Media_Site) — Haimson, O., Buss, J., Weinger, Z., Starks, D., Gorrell, D., & Baron, B. (2020). _I Proceedings of the ACM on Human-Computer Interaction. 4. 10.1145/3415195. _.
 - [Bisan Owda regains TikTok account after outcry](https://www.aljazeera.com/news/2026/1/30/gaza-based-journalist-bisan-owda-regains-tiktok-account-after-outcry) — Al Jazeera (2026).
 
+
+---
+
+**Navigation**
+
+**Layer:** Consequence
+
+**Cause:** [[Surveillance Capitalism]] · [[Social Contagion]]
+**Mechanism:** [[Algorithmic Violence]] · [[Dehumanization]]
+**Consequence:** [[Subhuman]]
+**Reaction:** [[Deplatforming]] · [[Brussels Effect]]
+
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

@@ -44,4 +44,16 @@ related_reaction:
 - [Red Pill Leadership Behaviours and Discourse Ethics](https://link.springer.com/article/10.1007/s10551-025-06194-4) — Cihat Erbil, Mustafa F. Özbilgin & Aybike Mergen (2025). _Journal of Business Ethics_
 - - [The **manosphere**, the alt-right and the public sphere: overlapping territories of misogyny and extreme right violence](https://www.tandfonline.com/doi/full/10.1080/09589236.2023.2260318#abstract) — Debbie Ging & Eugenia Siapera (2023). _Journal of Gender Studies_
 
+
+---
+
+**Navigation**
+
+**Layer:** Mechanism
+
+**Cause:** [[Manosphere]] · [[Recommender Systems]]
+**Mechanism:** [[Blackpill]] · [[Woke Mind Virus]]
+**Consequence:** [[Great Replacement]] · [[QAnon]]
+**Reaction:** [[Deplatforming]] · [[Anti-Woke]]
+
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

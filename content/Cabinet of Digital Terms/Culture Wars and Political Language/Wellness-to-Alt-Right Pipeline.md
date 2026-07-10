@@ -42,4 +42,16 @@ related_reaction:
 - [QAnon, authoritarianism, and conspiracy within American alternative spiritual spaces](https://pmc.ncbi.nlm.nih.gov/articles/PMC10325789/). Holman, C. *National Center for Biotechnology Information (PMC).*
 - ['Everything you've been told is a lie!' Inside the wellness-to-fascism pipeline](https://www.theguardian.com/lifeandstyle/2023/aug/02/everything-youve-been-told-is-a-lie-inside-the-wellness-to-facism-pipeline). Fisher, M. *The Guardian.*
 
+
+---
+
+**Navigation**
+
+**Layer:** Mechanism
+
+**Cause:** [[Conspirituality]] · [[Recommender Systems]] · [[Tradwife]]
+**Mechanism:** [[Purity Culture]] · [[QAnon]]
+**Consequence:** [[Great Replacement]] · [[Dark MAGA]]
+**Reaction:** [[Deplatforming]]
+
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

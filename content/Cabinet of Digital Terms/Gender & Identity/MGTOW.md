@@ -39,4 +39,16 @@ related_reaction:
 - [Men Going Their Own Way](https://www.crimejusticejournal.com/article/view/804) — Gotell, L. & Dutton, E. (2016). *International Journal for Crime, Justice and Social Democracy_, 5(2), pp. 65-80
 - [Digital Culture, Online Misogyny, and Gender-based Violence](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119800729.ch13) — Ging, D. & Siapera, E. (2018). *The Handbook of Gender, Communication, and Women's Human Rights. Chapter 13*
 
+
+---
+
+**Navigation**
+
+**Layer:** Consequence
+
+**Cause:** [[Blackpill]] · [[Manosphere]]
+**Mechanism:** [[Sigma Male]] · [[JOMO]]
+**Consequence:** [[Incel]]
+**Reaction:** [[Deplatforming]]
+
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

@@ -40,4 +40,16 @@ related_reaction:
 - [Alphas, Betas, and Incels](https://doi.org/10.1177/1097184x17706401) — Ging, D. (2019). *Men and Masculinities*
 - [From femcels to ‘femcelcore’: Women’s involuntary celibacy and the rise of heteronihilism](https://journals.sagepub.com/doi/10.1177/13675494241293731) — Johanssen, J., & Kay, J. B. (2025). _European Journal of Cultural Studie_
 
+
+---
+
+**Navigation**
+
+**Layer:** Mechanism
+
+**Cause:** [[SMV (Sexual Market Value)]] · [[Manosphere]]
+**Mechanism:** [[Hypergamy]] · [[Tradwife]]
+**Consequence:** [[Comparison Culture]] · [[High Value Man]]
+**Reaction:** [[Deinfluencing]]
+
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>
