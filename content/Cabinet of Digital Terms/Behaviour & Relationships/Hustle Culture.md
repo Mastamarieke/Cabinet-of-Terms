@@ -1,6 +1,6 @@
 ---
 term: Hustle Culture
-cluster: Students
+cluster: Behaviour & Relationships
 analytical_layer: mechanism
 status: publieksversie
 version: V2

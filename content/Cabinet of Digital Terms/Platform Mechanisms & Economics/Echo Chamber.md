@@ -1,6 +1,6 @@
 ---
 term: Echo Chamber
-cluster: Students
+cluster: Platform Mechanisms & Economics
 analytical_layer: consequence
 status: publieksversie
 version: V2
@@ -28,7 +28,7 @@ related_reaction:
 
 **The Appeal:** Homogeneous communities provide belonging, validation, and clarity. For students navigating complex social and political environments, spaces of shared belief offer cognitive relief — the effort of constantly negotiating with disagreement is genuinely demanding. Some echo chambers are also communities of genuine solidarity rather than mere confirmation.
 
-**The Friction:** The distinction between **echo chamber** and community is important and contested. What makes an environment an **echo chamber** rather than a legitimate community of shared values is the exclusion of relevant counter-evidence rather than simply shared perspective. [[Filter Bubble]] is what the algorithm produces; the **echo chamber** is what social dynamics maintain. [[Deplatforming]] — removing communities from platforms — can intensify **echo chamber** effects by driving communities to more isolated spaces where the boundaries are maintained more tightly. [[QAnon]] and [[Great Replacement]] are documented examples of radicalisations that develop in conditions of intense **echo chamber** dynamics.  — the practice of engaging with the strongest version of opposing arguments — is the deliberate counter-practice.
+**The Friction:** The distinction between **echo chamber** and community is important and contested. What makes an environment an **echo chamber** rather than a legitimate community of shared values is the exclusion of relevant counter-evidence rather than simply shared perspective. [[Filter Bubble]] is what the algorithm produces; the **echo chamber** is what social dynamics maintain. [[Deplatforming]] — removing communities from platforms — can intensify **echo chamber** effects by driving communities to more isolated spaces where the boundaries are maintained more tightly. [[QAnon]] and [[Great Replacement]] are documented examples of radicalisations that develop in conditions of intense **echo chamber** dynamics. Deliberately seeking out the strongest version of opposing arguments — steelmanning — is one counter-practice; [[AI Literacy]] is the structural one.
 
 **Why This Matters:** **Echo chamber** makes visible a specific epistemic risk: not that you are being lied to, but that you are hearing only confirming voices. Once you can name the condition, you can ask: who is absent from this conversation, and why?
 

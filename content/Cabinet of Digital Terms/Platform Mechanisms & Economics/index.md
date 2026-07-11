@@ -47,6 +47,12 @@ The legally and academically preferred term for dark patterns. Stronger in regul
 ### [[Dopamine Feedback Loops]]
 Variable reward schedules that keep users active. The slot machine in your pocket.
 
+### [[Echo Chamber]]
+Everyone around you agrees. Not because you are right — because the dissenters left or were never there.
+
+### [[Filter Bubble]]
+You see what confirms what you already think. The algorithm is not lying — it is optimising for engagement.
+
 ### [[Empathy Exploit]]
 Empathy as a design strategy — emotional connection engineered to bind or manipulate users.
 

@@ -48,5 +48,14 @@ Walking while staring at a screen. A word that needed inventing because the beha
 ### [[Flexing]]
 Showing what you have so others know where you stand. Status display, optimised for the feed.
 
+### [[Doom Spending]]
+The future feels uncertain. Spending feels like control. The purchase does not help. You make another one.
+
+### [[Hustle Culture]]
+Always busy as identity and norm. Rest as failure. Productivity as the measure of a person.
+
+### [[Imposter Syndrome]]
+You feel like you don't belong. Everyone else's highlight reel looks more convincing than your backstage.
+
 ### [[Parasocial Relationship]]
 You feel like you know them. They do not know you exist. The platform designed it that way.

@@ -23,6 +23,12 @@ Institutional role at the intersection of technology and values. The tension bet
 ### [[Content Moderator]]
 The invisible labour of removing harmful content at scale. The human layer beneath the algorithmic moderation that cannot do it alone.
 
+### [[Creator Economy]]
+The platform is your employer. The content is your labour. The algorithm sets your hours.
+
+### [[Personal Branding]]
+You are not a person. You are a product. This is now expected before you graduate.
+
 ### 
 Investigating data trails for accountability purposes. Journalism, legal practice, and civic activism meeting in one role.
 

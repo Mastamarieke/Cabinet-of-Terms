@@ -29,7 +29,7 @@ related_reaction:
 
 **The Appeal:** **Surveillance capitalism** funds services that people value and use daily. The commercial logic is coherent: behavioural prediction is valuable to advertisers, and generating it funds the cost of platforms that users do not pay for directly. The trade — free services for behavioural data — produces real value for users.
 
-**The Friction:** **Zuboff**'s argument is that the trade is not disclosed, not negotiated, and not consensual in any meaningful sense. [[Data Brokers]] are the infrastructure through which the prediction products are assembled and traded, often entirely outside the user's awareness. [[Privacy Washing]] — reassuring rhetoric without substantive protection — is the communication layer. [[Algorithmic Violence]] is one documented consequence: prediction products trained on historically biased data reproduce those biases at scale. [[Dataïsme]] is the ideology that makes the extraction seem natural: if data is a neutral good, then extracting it is a neutral act.
+**The Friction:** **Zuboff**'s argument is that the trade is not disclosed, not negotiated, and not consensual in any meaningful sense. [[Data Brokers]] are the infrastructure through which the prediction products are assembled and traded, often entirely outside the user's awareness. [[Privacy Washing]] — reassuring rhetoric without substantive protection — is the communication layer. [[Algorithmic Violence]] is one documented consequence: prediction products trained on historically biased data reproduce those biases at scale. [[Dataïsme]] is the ideology that makes the extraction seem natural: if data is a neutral good, then extracting it is a neutral act. Van Iperen (2026) identifies a further step: contemporary surveillance has shifted from observation to **omgevingsontwerp** — environment design. Tech companies draw virtual frames in which specific groups are isolated and steered in a particular direction. The system does not command; it designs the space so that behaviour is directed without coercion or awareness. More surveillance, more power, more manipulation — without a single guard.
 
 **Why This Matters:** **Surveillance capitalism** names the economic logic that underlies most of the Platform Mechanisms cluster. Once you see the logic — human experience as raw material — the specific mechanisms (**recommender systems**, **dark patterns**, dopamine loops) become legible as components of a single extractive system.
 
@@ -40,6 +40,7 @@ related_reaction:
 **Read more:**
 - [The Age of Surveillance Capitalism](https://www.publicaffairsbooks.com/titles/shoshana-zuboff/the-age-of-surveillance-capitalism/9781610395694/) — Zuboff, S. (2019). *PublicAffairs*
 - [Big Other: Surveillance Capitalism and the Prospects of an Information Civilization](https://doi.org/10.1057/jit.2015.5) — Zuboff, S. (2015). *Journal of Information Technology*
+- [Big Tech maakt van burgers vee](https://www.vn.nl/op-afstand-gestuurde-mens) — Van Iperen, R. (2026). *Vrij Nederland*, 9 juli
 
 ---
 

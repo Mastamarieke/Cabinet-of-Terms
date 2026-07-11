@@ -29,7 +29,7 @@ related_reaction:
 
 **The Appeal:** From the advertiser's perspective, **microtargeting** is efficient: messages reach the people most likely to respond, reducing waste and increasing conversion. For political campaigns, it enables resource allocation toward persuadable voters. The same technique that targets someone with running shoes targets them with political messages calibrated to their anxieties.
 
-**The Friction:** The asymmetry is the structural problem. The person being targeted does not know what others are seeing. [[Surveillance Capitalism]] — human behaviour as raw material for prediction products — is the economic model that generates the data **microtargeting** requires. [[Bot Farms]] can combine with **microtargeting**: manufactured content can be delivered to precisely identified vulnerable audiences. The Cambridge Analytica case documented how psychological profiling from social media data could be used to target people at moments of particular susceptibility. [[Filter Bubble]] is the aggregate consequence: each person inhabits a slightly different information environment, making shared political reality harder to sustain.
+**The Friction:** The asymmetry is the structural problem. The person being targeted does not know what others are seeing. [[Surveillance Capitalism]] — human behaviour as raw material for prediction products — is the economic model that generates the data **microtargeting** requires. [[Bot Farms]] can combine with **microtargeting**: manufactured content can be delivered to precisely identified vulnerable audiences. The Cambridge Analytica case documented how psychological profiling from social media data could be used to target people at moments of particular susceptibility. [[Filter Bubble]] is the aggregate consequence: each person inhabits a slightly different information environment, making shared political reality harder to sustain. Van Iperen (2026) identifies the structural dimension: on the basis of data analyses, tech companies draw virtual frames — *"virtuele kaders"* — in which specific groups and individuals are isolated and steered in a particular direction. Where Cambridge Analytica targeted individuals, this logic scales to the architecture of entire communities.
 
 **Why This Matters:** **Microtargeting** makes visible that the political message you saw was chosen for you specifically. The argument was calibrated to your profile. The anxiety it addressed was inferred from your behaviour. Once you know that, political communication looks different.
 
@@ -43,6 +43,7 @@ related_reaction:
 - [Online Political Microtargeting: Promises and Threats for Democracy](https://arxiv.org/abs/2510.17712) — Zuiderveen Borgesius, F.J. et al. (2025). _arXiv_
   [Privacy in the age of psychological targeting](https://www.sciencedirect.com/science/article/abs/pii/S2352250X19301332) — Matz, S.C. et al. (2020). _Current Opinion in Psychology_
 - [Cambridge Analytica's black box](https://journals.sagepub.com/doi/10.1177/2053951720938091) — Hu, M. (2020). _Big Data & Society_
+- [Big Tech maakt van burgers vee](https://www.vn.nl/op-afstand-gestuurde-mens) — Van Iperen, R. (2026). *Vrij Nederland*, 9 juli
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 term: Creator Economy
-cluster: Students
+cluster: New Digital Professions
 analytical_layer: cause
 status: publieksversie
 version: V2

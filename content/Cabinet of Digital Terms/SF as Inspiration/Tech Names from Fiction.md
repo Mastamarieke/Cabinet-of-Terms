@@ -127,6 +127,7 @@ Zie ook: SF as Inspiration, SF as Ideology, TESCREAL, Californian Ideology
 - Disconnect.blog (2025). *Peter Thiel's influence over a network of Lord of the Rings-inspired companies*.
 - Fortune (2025). *Peter Thiel is backing Palmer Luckey's Lord of the Rings-inspired digital bank*. fortune.com
 - Sherwood News (2025). *Behold! Another "Lord of the Rings"-inspired company is revealed*.
+- Van Iperen, R. (9 juli 2026). [Big Tech maakt van burgers vee](https://www.vn.nl/op-afstand-gestuurde-mens). *Vrij Nederland* — operationele realiteit achter de naam Palantir: AI-gestuurde doelwitselektie voor Gaza en ICE-deportaties; de palantíri als zienende stenen, nu als surveillance-infrastructuur.
 - Wikipedia. *Autonomous spaceport drone ship*. en.wikipedia.org
 - Le Guin, U.K. (1966). *Rocannon's World*. Ace Books.
 - Stephenson, N. (1992). *Snow Crash*. Bantam Books.

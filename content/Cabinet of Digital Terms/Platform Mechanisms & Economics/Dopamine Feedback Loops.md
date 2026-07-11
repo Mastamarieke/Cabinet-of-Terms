@@ -30,7 +30,7 @@ related_reaction:
 
 **The Appeal:** Variable rewards are engaging precisely because they work. The uncertain possibility of a like, a message, or an interesting post is more motivating than the certainty of either. For platforms, this translates directly into time-on-platform and return visits.
 
-**The Friction:** The mechanism is borrowed from gambling design. Alter's research documented that social media platforms exhibit the same addictive properties as slot machines: variable rewards, social feedback, loss aversion. [[Predatory Design]] applies the same mechanism specifically to children, exploiting developmental vulnerabilities. [[Recommender Systems]] are the content-level expression: the algorithm surfaces the intermittently rewarding content that keeps users scrolling. [[Gaming Disorder]] is one documented clinical outcome. [[Nomophobia]] — anxiety when separated from a phone — shares the same neurological substrate: the device has become the source of anticipated variable reward.
+**The Friction:** The mechanism is borrowed from gambling design. Alter's research documented that social media platforms exhibit the same addictive properties as slot machines: variable rewards, social feedback, loss aversion. [[Predatory Design]] applies the same mechanism specifically to children, exploiting developmental vulnerabilities. [[Recommender Systems]] are the content-level expression: the algorithm surfaces the intermittently rewarding content that keeps users scrolling. [[Gaming Disorder]] is one documented clinical outcome. [[Nomophobia]] — anxiety when separated from a phone — shares the same neurological substrate: the device has become the source of anticipated variable reward. Van Iperen (2026) documents the conditioned reflex from experience: a notification sound in a room — her phone was always on silent — broke her concentration before her ratio could intervene. Nervous system activated, a response like that of an addict. The stimulus is designed; the biological reaction is not a choice.
 
 **Why This Matters:** **Dopamine feedback loops** make visible that platform engagement is not incidental — it is engineered. The pull of the notification is not a personality trait. It is a designed stimulus.
 
@@ -42,7 +42,8 @@ related_reaction:
 - [Irresistible: The Rise of Addictive Technology](https://www.penguinrandomhouse.com/books/540237/irresistible-by-adam-alter/) — Alter, A. (2017). *Penguin Press*
 - [Persuasive Technology](https://www.sciencedirect.com/book/9781558606951/persuasive-technology) — Fogg, B.J. (2003). *Morgan Kaufmann*
 - [Persuasive Technology: Using Computers to Change What We Think and Do](https://www.sciencedirect.com/book/9781558606432/persuasive-technology) — Fogg, B.J. (2003). _Morgan Kaufmann_
-- [Irresistible: The Rise of Addictive Technology and the Business of Keeping Us Hooked](https://www.amazon.com/Irresistible-Addictive-Technology-Business-Keeping/dp/1594206643) — Alter, A. (2017). _Penguin Pres_
+- [Irresistible: The Rise of Addictive Technology and the Business of Keeping Us Hooked](https://www.amazon.com/Irresistible-Addictive-Technology-Business-Keeping/dp/1594206643) — Alter, A. (2017). _Penguin Press_
+- [Big Tech maakt van burgers vee](https://www.vn.nl/op-afstand-gestuurde-mens) — Van Iperen, R. (2026). *Vrij Nederland*, 9 juli
 
 ---
 

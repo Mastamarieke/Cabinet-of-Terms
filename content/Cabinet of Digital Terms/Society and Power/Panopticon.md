@@ -29,7 +29,7 @@ related_reaction:
 
 **The Appeal:** The **panopticon** is efficient. If inmates (citizens, employees, users) regulate themselves, the cost of surveillance is dramatically reduced. The design is scalable: a small number of observers can manage a large number of observed. Modern digital platforms approach the panoptic ideal: user behaviour is tracked continuously, but users rarely know which behaviours are being monitored, analysed, or acted upon.
 
-**The Friction:** [[Surveillance Capitalism — Society and Power]] is the commercial form of the **panopticon**: behavioural tracking that is continuous but whose use is opaque. [[Social Credit System]] is the governance form: scoring that shapes behaviour through the uncertainty of its criteria. [[Biometric Surveillance]] is the physical intensification: when your face, gait, and heartrate are readable, the **panopticon** extends to bodily presence. Foucault's insight was that panoptic surveillance is most effective when it is internalised — when people police themselves. The question is not "am I being watched?" but "have I changed my behaviour because I might be?"
+**The Friction:** [[Surveillance Capitalism — Society and Power]] is the commercial form of the **panopticon**: behavioural tracking that is continuous but whose use is opaque. [[Social Credit System]] is the governance form: scoring that shapes behaviour through the uncertainty of its criteria. [[Biometric Surveillance]] is the physical intensification: when your face, gait, and heartrate are readable, the **panopticon** extends to bodily presence. Foucault's insight was that panoptic surveillance is most effective when it is internalised — when people police themselves. The question is not "am I being watched?" but "have I changed my behaviour because I might be?" Van Iperen (2026) identifies a post-panoptic shift beyond this: in Halter's livestock tracking system — and its human equivalent, the smartphone — the subject does not internalise the gaze at all. The system detects state and corrects behaviour directly, without the subject's awareness. The fence is virtual; the correction is automatic; no guard is needed. The relevant question is no longer "am I being watched?" but "in which direction am I being steered?"
 
 **Why This Matters:** **Panopticon** provides the analytical vocabulary for asking: has the awareness of surveillance already changed how you behave, before any surveillance has occurred? Once you ask that question, the political effect of surveillance systems is visible even when no specific observation has happened.
 
@@ -40,6 +40,7 @@ related_reaction:
 **Read more:**
 - [Discipline and Punish](https://www.penguinrandomhouse.com/books/108900/discipline-and-punish-by-michel-foucault/) — Foucault, M. (1975/1977). *Pantheon Books*
 - [The Panopticon Writings](https://www.versobooks.com/products/1572-the-panopticon-writings) — Bentham, J. (ed. Božovič, M.) (1995). *Verso*
+- [Big Tech maakt van burgers vee](https://www.vn.nl/op-afstand-gestuurde-mens) — Van Iperen, R. (2026). *Vrij Nederland*, 9 juli
 
 ---
 

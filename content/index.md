@@ -19,10 +19,10 @@ Welcome to the Cabinet of Digital Terms: a vibrant knowledge bank for the curiou
 Surveillance capitalism. Dopamine loop. Dark pattern. Ghosting. Deinfluencing. Groomer. Red pill.
 You have heard these terms. You probably use some of them. But do you know where they came from? Who introduced them, and why? What they make visible — and what they quietly conceal?
 
-**The Cabinet of Digital Terms** is a knowledge bank developed by **Marieke de Vogel** within **The Project Digital Alertness** at the [[Communication & Multimedia Design program]](https://www.han.nl/opleidingen/hbo/communication-multimedia-design/voltijd/) of the [[HAN University of Applied Sciences]](https://www.hanuniversity.com/en/), in collaboration with the [[Lectorate Media Design]](https://www.han.nl/onderzoek/lectoraten/lectoraat-media-design/). It brings together **269 terms** from digital media, platform culture, political discourse, and popular culture, organized across **21 thematic cluster**s. Supported by **851 verified external links** to primary sources, it does something a traditional glossary would never do: it maps them.
+**The Cabinet of Digital Terms** is a knowledge bank developed by **Marieke de Vogel** within **The Project Digital Alertness** at the [[Communication & Multimedia Design program]](https://www.han.nl/opleidingen/hbo/communication-multimedia-design/voltijd/) of the [[HAN University of Applied Sciences]](https://www.hanuniversity.com/en/), in collaboration with the [[Lectorate Media Design]](https://www.han.nl/onderzoek/lectoraten/lectoraat-media-design/). It brings together **269 terms** from digital media, platform culture, political discourse, and popular culture, organized across **21 thematic cluster**s. Supported by **859 verified external links** to primary sources, it does something a traditional glossary would never do: it maps them.
 Not to define, but to connect the dots.
 
-We reject the myth of neutral knowledge. As **Donna Haraway** argued, true objectivity requires acknowledging our position: "Feminist objectivity means quite simply situated knowledges." Instead of offering static definitions, the Cabinet invites you to trace the relationships between terms, revealing the forces that shape our digital reality. The Cabinet of Digital Terms is a knowledge bank of **21 clusters**, **269 terms**, **851 source references** from digital media, platform culture, political discourse, and popular culture. Each term is examined for its origin, its use, its power structure, and - most importantly - what it conceals.
+We reject the myth of neutral knowledge. As **Donna Haraway** argued, true objectivity requires acknowledging our position: "Feminist objectivity means quite simply situated knowledges." Instead of offering static definitions, the Cabinet invites you to trace the relationships between terms, revealing the forces that shape our digital reality. The Cabinet of Digital Terms is a knowledge bank of **21 clusters**, **269 terms**, **859 source references** from digital media, platform culture, political discourse, and popular culture. Each term is examined for its origin, its use, its power structure, and - most importantly - what it conceals.
 
 This is not a glossary. A glossary defines. This collection does something different: it identifies terms worth examining - for genealogy, circulation, stakes, and the shifts in meaning that reveal who benefits from a term's existence.
 
@@ -30,13 +30,13 @@ This is not a glossary. A glossary defines. This collection does something diffe
 
 ## Who is this cabinet for?
 
-Here you may lose yourself in a network of **21 clusters** and **269 terms**, where every word opens a door to deeper insight. With **851 references** as our foundation, we invite you to discover the forces beneath the screens of the digital world, follow hidden connections, and learn the language that shapes our reality.
+Here you may lose yourself in a network of **21 clusters** and **269 terms**, where every word opens a door to deeper insight. With **859 references** as our foundation, we invite you to discover the forces beneath the screens of the digital world, follow hidden connections, and learn the language that shapes our reality.
 
 This is your place if you are not satisfied with superficial answers, but crave depth behind the algorithms, data, and power structures.
 
 This project is an inspiring resource for:
 
-**Researchers & Academics**: Who seek depth in the genealogy of terms and wish to use the **851 verified sources** for sharp analysis.
+**Researchers & Academics**: Who seek depth in the genealogy of terms and wish to use the **859 verified sources** for sharp analysis.
 
 **Teachers & Educators**: Who want to inspire their students with the vocabulary,look for more terms, to think critically and remain resilient in a digital world.
 
@@ -55,7 +55,7 @@ Are you ready to lose yourself in the questions of why it works this way, who be
 ---
 ## How it was made — Cartographic Prompting
 
-The Cabinet of Digital Terms is a knowledge bank of **269 terms** across **21 clusters**, with **851 verified external sources**. It was produced using **cartographic prompting** - a research method developed within Project Digitale Alertheid at HAN University of Applied Sciences.
+The Cabinet of Digital Terms is a knowledge bank of **269 terms** across **21 clusters**, with **859 verified external sources**. It was produced using **cartographic prompting** - a research method developed within Project Digitale Alertheid at HAN University of Applied Sciences.
 
 The name is deliberate. Where conventional analysis dissects a concept — breaking it into components and defining each one — cartography positions it within a field of forces. A map does not explain a city. It shows where things are in relation to each other, where the borders run, and what lies at the edges.
 
@@ -139,7 +139,7 @@ The Cabinet of Terms is part of a larger project. **Project Digitale Alertheid**
 ## Browse by cluster
 
 <details>
-<summary><strong>Platform Mechanisms & Economics</strong> — 25 terms</summary>
+<summary><strong>Platform Mechanisms & Economics</strong> — 27 terms</summary>
 
 Platforms are not neutral tools. This cluster maps the technical and economic architecture through which platforms shape user behaviour — recommendation algorithms, dark patterns, gamification mechanics, and dopamine loops. The terms here name mechanisms that are easier to resist once they have a name.
 
@@ -166,6 +166,8 @@ Platforms are not neutral tools. This cluster maps the technical and economic ar
 - [[Neuromarketing]]
 - [[Nudging]]
 - [[Predatory Design]]
+- [[Echo Chamber]]
+- [[Filter Bubble]]
 - [[Ragebaiting]]
 - [[Recommender Systems]]
 - [[Shadow Banning]]
@@ -284,7 +286,7 @@ The privacy policy is forty-seven pages long. You clicked agree. So did everyone
 </details>
 
 <details>
-<summary><strong>Behaviour & Relationships</strong> — 13 terms</summary>
+<summary><strong>Behaviour & Relationships</strong> — 16 terms</summary>
 
 Ghosting, phubbing, doomscrolling — these words did not exist thirty years ago, and the behaviours they describe mostly did not either. This cluster maps new social patterns that emerged from platform architecture. They feel personal. They are also structural.
 
@@ -300,6 +302,9 @@ Ghosting, phubbing, doomscrolling — these words did not exist thirty years ago
 - [[Orbiting]]
 - [[Phantom Vibration Syndrome]]
 - [[Phatic Interaction]]
+- [[Doom Spending]]
+- [[Hustle Culture]]
+- [[Imposter Syndrome]]
 - [[Parasocial Relationship]]
 - [[Phubbing]]
 - [[Smombie]]
@@ -392,20 +397,13 @@ Platforms are not designed with children in mind — they are designed for engag
 </details>
 
 <details>
-<summary><strong>Students</strong> — 8 terms</summary>
+<summary><strong>Digital Deception & Fraud</strong> — 1 term</summary>
 
-Students face a specific convergence of pressures: platform identity, labour market expectations, and academic integrity in an era of generative AI. These are not abstract concepts — they are the conditions of study.
+Digital fraud does not begin with technology — it begins with trust. This cluster maps the mechanisms through which digital environments are used to deceive, manipulate, and defraud: deepfakes, synthetic voices, social engineering at scale.
 
-→ [About this cluster](Cabinet-of-Digital-Terms/Students/)
+→ [About this cluster](Cabinet-of-Digital-Terms/Digital-Deception--and--Fraud/)
 
-- [[Creator Economy]]
 - [[Deepfake]]
-- [[Doom Spending]]
-- [[Echo Chamber]]
-- [[Filter Bubble]]
-- [[Hustle Culture]]
-- [[Imposter Syndrome]]
-- [[Personal Branding]]
 
 </details>
 
@@ -539,18 +537,20 @@ Digital systems structurally exclude certain groups — not by accident but by d
 </details>
 
 <details>
-<summary><strong>New Digital Professions</strong> — 9 terms</summary>
+<summary><strong>New Digital Professions</strong> — 11 terms</summary>
 
 These jobs exist because something in the system is not working. Content moderators, algorithmic auditors, ghost workers — this cluster maps the professions that emerge from digital transformation: not the roles the tech industry promotes, but the roles that exist because something is broken.
 
 → [About this cluster](Cabinet-of-Digital-Terms/New-Digital-Professions/)
 
 - [[Content Moderator]]
+- [[Creator Economy]]
 - [[De-installer]]
 - [[Digital Coach]]
 - [[Fact Checker]]
 - [[Ghost Work]]
 - [[Mechanical Turk]]
+- [[Personal Branding]]
 - [[Prompt Engineer]]
 - [[Red Teamer]]
 - [[Vibe Coder]]

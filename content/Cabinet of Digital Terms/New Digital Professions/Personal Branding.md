@@ -1,6 +1,6 @@
 ---
 term: Personal Branding
-cluster: Students
+cluster: New Digital Professions
 analytical_layer: mechanism
 status: publieksversie
 version: V2

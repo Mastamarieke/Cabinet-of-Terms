@@ -1,6 +1,6 @@
 ---
 term: Imposter Syndrome
-cluster: Students
+cluster: Behaviour & Relationships
 analytical_layer: consequence
 status: publieksversie
 version: V2
