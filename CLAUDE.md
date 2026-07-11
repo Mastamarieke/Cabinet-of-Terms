@@ -161,7 +161,7 @@ tags: [source-index]
 - Citeer als wikilink: `[[Auteur-Jaar|Auteur et al. (Jaar)]]`
 - Benoem wat de bron bijdraagt: welk mechanisme, welke bevinding, welk theoretisch kader
 
-**Secondary bronnen** worden inline geciteerd (plain text, geen wikilink) waar analytisch relevant — vooral journalistieke bronnen die concrete casuïstiek leveren (bijv. Heijne (2026), Van de Griend & Pottjewijd (2026)). Niet elke secondary bron hoeft in de body; alleen waar de casuïstiek of het argument de Friction scherper maakt.
+**Secondary bronnen** worden inline geciteerd (plain text, geen wikilink) waar ze analytisch passen — doorgaans Origin of Friction, maar soms elders. Niet elke secondary bron hoeft in de body; alleen waar de bron het argument scherper maakt of een concreet voorbeeld toevoegt dat er zonder ontbreekt.
 
 ### Sources callout in entry (index.md)
 
@@ -196,7 +196,7 @@ Verdeel de aangeleverde bronnen in primary / secondary / artifact (zie Sources-s
 
 1. `Term/index.md` — de volledige entry (vervangt de oude platte `Term.md`)
    - De **twee primary bronnen worden inhoudelijk verwerkt in Friction**: citeer als `[[Auteur-Jaar|Auteur et al. (Jaar)]]` en benoem hun bijdrage
-   - **Secondary bronnen** worden inline geciteerd (plain text) waar ze concrete casuïstiek of een scherper argument opleveren
+   - **Secondary bronnen** worden inline geciteerd (plain text) waar ze analytisch passen — doorgaans Origin of Friction
 2. `Term/Sources/Auteur-Jaar.md` — eerste primaire bron
 3. `Term/Sources/Auteur-Jaar.md` — tweede primaire bron
 4. `Term/Sources/Secondary.md` — alle secundaire bronnen
