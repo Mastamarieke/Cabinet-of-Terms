@@ -29,11 +29,11 @@ related_reaction:
 
 **The Appeal:** The pipeline is not experienced as a pipeline by those in it. Each step feels like acquiring more knowledge, becoming more aware, protecting yourself and your community. The distrust of pharmaceutical companies, the interest in natural health, the suspicion of government institutions — none of these positions is inherently extreme. The radicalisation happens in the accumulation and in the community.
 
-**The Friction:** [[Recommender Systems]] — algorithms that determine what you see — are the infrastructure of the pipeline: content recommendation systems surface adjacent material, and the adjacency between wellness scepticism and political conspiracy is close. [[Conspirituality]] is the ideological substrate: the shared structure of hidden threat, insider knowledge, and bodily/national purity. [[Purity Culture]] is the connecting theme: the pure body and the pure nation share their logic and their enemies. [[Tradwife]] is one of the entry points: domestic aesthetics and traditional femininity function as early stages of the pipeline — content that feels benign but shares the same purity logic and demographic anxiety. The pipeline does not require any single moment of explicit radicalisation — it requires only that each step feel continuous with the last.
+**The Friction:** [[Recommender Systems]] — algorithms that determine what you see — are the infrastructure of the pipeline: content recommendation systems surface adjacent material, and the adjacency between wellness scepticism and political conspiracy is close. [[Conspirituality]] is the ideological substrate: the shared structure of hidden threat, insider knowledge, and bodily/national purity. [[Purity Culture]] is the connecting theme: the pure body and the pure nation share their logic and their enemies. [[Tradwife]] is one of the entry points: domestic aesthetics and traditional femininity function as early stages of the pipeline — content that feels benign but shares the same purity logic and demographic anxiety. The pipeline does not require any single moment of explicit radicalisation — it requires only that each step feel continuous with the last. Van de Griend & Pottjewijd (2026) document the mechanism in the Dutch context: vloggers who began with lockdown-free travel content gradually moved into far-right activism, carrying their audiences step by step into **Great Replacement** rhetoric and omvolkingstheorie. [[Ragebaiting]] is the engine: outrage about urban decline keeps audiences engaged at each stage, and the algorithm surfaces more extreme content in response.
 
 **Why This Matters:** The **wellness-to-alt-right pipeline** makes visible that extremism recruitment does not require extremist entry points. The doorway is detox. The destination is somewhere else. Once you know the pathway, you can read its stages.
 
-**See also:** [[Conspirituality]] · [[Purity Culture]] · [[Tradwife]] · [[QAnon]] · [[Recommender Systems]] · [[Great Replacement]]
+**See also:** [[Conspirituality]] · [[Purity Culture]] · [[Tradwife]] · [[QAnon]] · [[Recommender Systems]] · [[Great Replacement]] · [[Ragebaiting]]
 
 
 ---
@@ -41,6 +41,7 @@ related_reaction:
 - [The wellness pipeline: Tracing far-right health narratives on X](https://journals.sagepub.com/doi/10.1177/14614448251385082). Conway, M. *Sage Journals.*
 - [QAnon, authoritarianism, and conspiracy within American alternative spiritual spaces](https://pmc.ncbi.nlm.nih.gov/articles/PMC10325789/). Holman, C. *National Center for Biotechnology Information (PMC).*
 - ['Everything you've been told is a lie!' Inside the wellness-to-fascism pipeline](https://www.theguardian.com/lifeandstyle/2023/aug/02/everything-youve-been-told-is-a-lie-inside-the-wellness-to-facism-pipeline). Fisher, M. *The Guardian.*
+- [De populaire Dutch Travel Maniac reist in zijn vlogs voornamelijk naar een wereld van extreemrechts gedachtegoed](https://www.volkskrant.nl/binnenland/de-populaire-dutch-travel-maniac-reist-in-zijn-vlogs-voornamelijk-naar-een-wereld-van-extreemrechts-gedachtegoed~b31208e1/) — Van de Griend, R. & Pottjewijd, W. (4 juli 2026). *De Volkskrant*
 
 
 ---

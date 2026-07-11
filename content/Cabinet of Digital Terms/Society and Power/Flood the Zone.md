@@ -29,7 +29,7 @@ related_reaction:
 
 **The Appeal:** The strategy is effective in media environments with limited attention capacity. Any single outrage can be replaced by the next before the first is resolved. [[Ragebaiting]] generates the volume; [[Bot Farms]] can automate it at scale. For political actors who benefit from weakened institutional accountability, information overload is structurally advantageous.
 
-**The Friction:** **Flood the Zone** attacks the epistemic infrastructure that accountability depends on. [[Fact Checker]] professions exist partly as a response — but the asymmetry is structural: producing a false claim takes seconds; correcting it takes hours. [[Surveillance Capitalism — Society and Power]] profits from the engagement that outrage and confusion generate. The strategy works at civilisational scale: when verification is impossible, trust in institutions collapses, and the beneficiaries are those who do not depend on institutional trust to maintain power.
+**The Friction:** **Flood the Zone** attacks the epistemic infrastructure that accountability depends on. [[Fact Checker]] professions exist partly as a response — but the asymmetry is structural: producing a false claim takes seconds; correcting it takes hours. [[Surveillance Capitalism — Society and Power]] profits from the engagement that outrage and confusion generate. The strategy works at civilisational scale: when verification is impossible, trust in institutions collapses, and the beneficiaries are those who do not depend on institutional trust to maintain power. Van de Griend & Pottjewijd (2026) document the mechanism in the Dutch context: "decline porn" vlogs about European urban decline — amplified by Russian bot farms through platforms including InoSMI — show how locally produced outrage content becomes raw material for foreign information operations.
 
 **Why This Matters:** **Flood the Zone** names a strategy, not a failure. Once you see it as deliberate, the question shifts from "why is there so much misinformation?" to "who benefits from the volume, and what governance structures are being protected from scrutiny?"
 
@@ -43,6 +43,7 @@ related_reaction:
 - [Misinformer of the Year: Steve Bannon’s “Flood the Zone With Shit” Approach](https://www.mediamatters.org/steve-bannon/misinformer-year-steve-bannons-flood-zone-shit-approach-destroying-american-democracy) — _Media Matters_ (2021).
 - [Flood the Zone with Shit: Algorithmic Domination in the Modern Republic](https://www.mdpi.com/2076-0760/14/6/391) — Maynor, J. (2025). _Social Sciences_ 
 
+- [De populaire Dutch Travel Maniac reist in zijn vlogs voornamelijk naar een wereld van extreemrechts gedachtegoed](https://www.volkskrant.nl/binnenland/de-populaire-dutch-travel-maniac-reist-in-zijn-vlogs-voornamelijk-naar-een-wereld-van-extreemrechts-gedachtegoed~b31208e1/) — Van de Griend, R. & Pottjewijd, W. (4 juli 2026). *De Volkskrant*
 ---
 
 ## Navigation
