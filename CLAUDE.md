@@ -74,12 +74,16 @@ Term/
 - Bronbestanden: `Auteur-Jaar.md` (eerste auteur, geen voornaam, koppelteken). Bij naamconflict — dezelfde auteur-jaar combinatie in een andere entry — gebruik `Auteur-Term-Jaar.md` (bijv. `Ging-Tradwife-2019.md`).
 - Secundaire bundel: altijd `Secondary.md`
 
+### Aantal primary bronnen
+
+**Maximaal 2 primary bronnen per entry** — de twee die de analytische kern vormen. Overige academische bronnen gaan in `Secondary.md`, ook als ze peer-reviewed zijn. Kies de twee die samen het mechanisme én het empirische bewijs leveren.
+
 ### Classificatie
 
 | Rol | Wat | Bestand |
 |-----|-----|---------|
-| `primary` | Peer-reviewed academisch, direct over het fenomeen | eigen `.md` |
-| `secondary` | Journalistiek, beschouwend, filosofische achtergrond | samen in `Secondary.md` |
+| `primary` | Peer-reviewed academisch, direct over het fenomeen — max. 2 per entry | eigen `.md` |
+| `secondary` | Journalistiek, beschouwend, filosofische achtergrond, aanvullende academische bronnen | samen in `Secondary.md` |
 | `artifact` | Het fenomeen zelf als product (zelfhulpboek, meme, app) | eigen `.md` |
 
 ### Frontmatter entry (index.md)
@@ -151,6 +155,14 @@ tags: [source-index]
 ---
 ```
 
+### Bronverwerking in de entry (index.md)
+
+**De twee primary bronnen worden inhoudelijk verwerkt in de Friction-sectie** — niet alleen in Sources/, maar ook zichtbaar in de body van de entry:
+- Citeer als wikilink: `[[Auteur-Jaar|Auteur et al. (Jaar)]]`
+- Benoem wat de bron bijdraagt: welk mechanisme, welke bevinding, welk theoretisch kader
+
+**Secondary bronnen** worden inline geciteerd (plain text, geen wikilink) waar analytisch relevant — vooral journalistieke bronnen die concrete casuïstiek leveren (bijv. Heijne (2026), Van de Griend & Pottjewijd (2026)). Niet elke secondary bron hoeft in de body; alleen waar de casuïstiek of het argument de Friction scherper maakt.
+
 ### Sources callout in entry (index.md)
 
 **Nooit toevoegen.** De bronnen leven in `Sources/` — niet in de entry zelf. Geen `[!abstract]- Sources` callout in `index.md`.
@@ -183,6 +195,8 @@ Verdeel de aangeleverde bronnen in primary / secondary / artifact (zie Sources-s
 ### Stap 2 — Bestanden schrijven (in volgorde)
 
 1. `Term/index.md` — de volledige entry (vervangt de oude platte `Term.md`)
+   - De **twee primary bronnen worden inhoudelijk verwerkt in Friction**: citeer als `[[Auteur-Jaar|Auteur et al. (Jaar)]]` en benoem hun bijdrage
+   - **Secondary bronnen** worden inline geciteerd (plain text) waar ze concrete casuïstiek of een scherper argument opleveren
 2. `Term/Sources/Auteur-Jaar.md` — eerste primaire bron
 3. `Term/Sources/Auteur-Jaar.md` — tweede primaire bron
 4. `Term/Sources/Secondary.md` — alle secundaire bronnen
