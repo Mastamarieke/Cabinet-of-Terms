@@ -18,3 +18,5 @@ Checklist van alle bestaande source-bestanden. Controleer hier eerst voordat je 
 | Kim et al. (2023) | primary | academic-article | Psychology, Marketing, Media Studies | Kim-2023.md |
 | Sands et al. (2022) | primary | academic-article | Marketing, Consumer Psychology, Media Studies | Sands-2022.md |
 | VirtualHumans.org (n.d.) | secondary | directory | Industry Documentation | Secondary.md (Virtual Influencer) |
+| Ribeiro et al. (2020) | primary | conference-paper | Computer Science, Social Science, Media Studies | Ribeiro-2020.md (Recommender Systems) |
+| Bail et al. (2023) | primary | academic-article | Political Science, Social Science, Media Studies | Bail-2023.md (Recommender Systems) |
