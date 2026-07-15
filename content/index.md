@@ -1,3 +1,7 @@
+---
+title: Cabinet of Digital Terms
+---
+
 # Cabinet of Digital Terms
 ## Welcome to the Cabinet of Digital Terms: a vibrant knowledge bank for the curious mind. 
 
