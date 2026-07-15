@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Predatory design** makes the child's developmental stage into a business opportunity. Once you know the specific techniques — **loot boxes**, streak mechanics, social comparison features — you can read any children's platform for what it is designed to extract.
 
-**Relevant terms:** [[Dark Patterns]] · [[Gamification Creep]] · [[Dopamine Feedback Loops]] · [[Gaming Disorder]] · [[Fair Patterns]]
+**Relevant terms:** [[Dark Patterns]] · [[Gamification Creep]] · [[Ludic Loop]] · [[Dopamine Feedback Loops]] · [[Gaming Disorder]] · [[Fair Patterns]] · [[Loot Boxes]]
 
 
 ---

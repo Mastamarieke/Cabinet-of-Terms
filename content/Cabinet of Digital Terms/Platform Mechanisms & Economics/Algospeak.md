@@ -31,7 +31,7 @@ related_reaction:
 
 **Why This Matters:** **Algospeak** makes the algorithm's moderation logic visible in the language itself. The words people use reveal what the platform has decided to suppress. Once you know that, the vocabulary is a map of the platform's priorities.
 
-**Relevant terms:** [[Recommender Systems]] · [[Deplatforming]] · [[About Subcultural Vocabulary and Platform Language]] · [[Content Moderator]] · [[AI Literacy]]
+**Relevant terms:** [[Recommender Systems]] · [[Shadow Banning]] · [[Deplatforming]] · [[Content Moderator]] · [[Bot Farms]]
 
 
 ---

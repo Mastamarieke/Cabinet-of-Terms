@@ -35,7 +35,7 @@ related_reaction:
 
 **Why This Matters:** **Dark patterns** name the gap between what an interface appears to offer and what it is designed to do. Once you know the vocabulary — roach motel, confirmshaming, false hierarchy — every interface becomes readable as a set of choices made by someone, for someone's benefit. Usually not yours.
 
-**Relevant terms:** [[Deceptive Design]] · [[Fair Patterns]] · [[Predatory Design]] · [[Nudging]] · [[VSD (Value Sensitive Design)]]
+**Relevant terms:** [[Deceptive Design]] · [[Fair Patterns]] · [[Predatory Design]] · [[Nudging]] · [[VSD (Value Sensitive Design)]] · [[Enshittification]] · [[Gamification Creep]]
 
 
 ---

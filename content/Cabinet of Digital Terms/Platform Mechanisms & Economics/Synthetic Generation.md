@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Synthetic generation** changes a basic assumption of digital culture: that seeing or hearing something is evidence that it really happened. As AI-generated content becomes more realistic, the line between authentic and artificial media becomes harder to verify. The danger is not a single dramatic collapse of trust, but a gradual erosion of confidence in digital information itself.
 
-**Relevant terms:** [[Deepfake]] · [[Bot Farms]] · [[AI Slop]] · [[Microtargeting]] · [[AI Literacy]]
+**Relevant terms:** [[Deepfake]] · [[Bot Farms]] · [[AI Slop]] · [[Microtargeting]] · [[Narrative Engineering]] · [[Fact Checker]] · [[AI Literacy]]
 
 
 ---

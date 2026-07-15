@@ -39,7 +39,7 @@ The mechanism operates across content types and scales. Braden Peters — known 
 
 **Why This Matters:** **Ragebaiting** makes visible that your anger is a product. The provocation was designed for a metric. Once you know that, the outrage is still real — but the question of who benefits from it is worth asking.
 
-**Relevant terms:** [[Clickbait]] · [[Recommender Systems]] · [[Flood the Zone]] · [[Dehumanization]] · [[Attention Economy]] · [[Looksmaxxing]] · [[Wellness-to-Alt-Right Pipeline]]
+**Relevant terms:** [[Clickbait]] · [[Recommender Systems]] · [[Flood the Zone]] · [[Dehumanization]] · [[Attention Economy]] · [[Wellness-to-Alt-Right Pipeline]] · [[Bot Farms]] · [[Empathy Exploit]]
 
 
 ---

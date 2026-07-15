@@ -38,7 +38,7 @@ related_reaction:
 
 **Why This Matters:** **Recommender systems** are the infrastructure of the contemporary information environment. Understanding that your feed is an optimisation output — not a neutral window on the world — is the first step in reading it differently.
 
-**Relevant terms:** [[Filter Bubble]] · [[Echo Chamber]] · [[Microtargeting]] · [[Dopamine Feedback Loops]] · [[Attention Harvesting]] · [[Virtual Influencer]] · [[Ragebaiting]]
+**Relevant terms:** [[Filter Bubble]] · [[Echo Chamber]] · [[Microtargeting]] · [[Dopamine Feedback Loops]] · [[Attention Harvesting]] · [[BUMMER]] · [[Surveillance Capitalism]] · [[Virtual Influencer]] · [[Ragebaiting]]
 
 ---
 **Read more:**
