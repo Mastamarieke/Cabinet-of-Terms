@@ -31,7 +31,7 @@ related_reaction:
 
 **Why This Matters:** SAHG makes visible the gap between lifestyle content and structural analysis. The aesthetic is about freedom; the economics are about dependency. Once you see the legal framework absent from the content, the "freedom" becomes a different kind of sentence.
 
-**Relevant terms:** [[Tradwife]] · [[Provider]] · [[SMV (Sexual Market Value)]] · [[Womanosphere]] · [[Comparison Culture]]
+**Relevant terms:** [[Tradwife]] · [[SMV (Sexual Market Value)]] · [[Womanosphere]] · [[Highlight Reel]] · [[Provider]] · [[Comparison Culture]]
 
 
 ---

@@ -32,7 +32,7 @@ related_reaction:
 
 **Why This Matters:** **High value man** makes the market metaphor explicit where other masculinity frameworks keep it implicit. Once you see the language — value, investment, return — the relationship between self-improvement content and its commercial infrastructure becomes visible.
 
-**Relevant terms:** [[SMV (Sexual Market Value)]] · [[Top 1% Man]] · [[Provider]] · [[Hustle Culture]] · [[Manosphere]]
+**Relevant terms:** [[SMV (Sexual Market Value)]] · [[Top 1% Man]] · [[Alpha Male]] · [[Provider]] · [[Manosphere]] · [[Podcast-bro]]
 
 
 ---

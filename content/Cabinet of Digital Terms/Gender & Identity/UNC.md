@@ -31,7 +31,7 @@ related_reaction:
 
 **Why This Matters:** UNC is a small term that does a specific job: it marks a generational and cultural boundary and assigns the person outside it as irrelevant. Once you see boundary terms for what they do, you can ask what conversation they are protecting — and who they are keeping out of it.
 
-**Relevant terms:** [[NPC]] · [[Sigma Male]] · [[Ageism (Digital)]] · [[About Subcultural Vocabulary and Platform Language]] · [[Digital Coach]]
+**Relevant terms:** [[NPC]] · [[Sigma Male]] · [[Ageism (Digital)]] · [[Podcast-bro]] · [[Brain Rot]]
 
 
 ---

@@ -32,7 +32,7 @@ related_reaction:
 
 **Why This Matters:** **Incel** makes visible the transformation of a support community into an ideology — and the specific role that online platforms play in that transformation. The pain was real. The community became something that made it worse.
 
-**Relevant terms:** [[Blackpill]] · [[SMV (Sexual Market Value)]] · [[Manosphere]] · [[Dehumanization]] · [[Deplatforming]] · [[Sigma Male]]
+**Relevant terms:** [[Blackpill]] · [[SMV (Sexual Market Value)]] · [[Manosphere]] · [[Dehumanization]] · [[Sigma Male]] · [[MGTOW]] · [[Hypergamy]]
 
 
 ---

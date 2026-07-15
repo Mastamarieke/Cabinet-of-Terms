@@ -31,7 +31,7 @@ related_reaction:
 
 **Why This Matters:** NPC makes visible how gaming vocabulary can carry dehumanising logic into political discourse without triggering the recognition that more explicit dehumanising language would produce. The game frame provides cover.
 
-**Relevant terms:** [[Dehumanization]] · [[Sigma Male]] · [[Red Pill]] · [[Gamification Creep]] · [[UNC]]
+**Relevant terms:** [[Sigma Male]] · [[Manosphere]] · [[Incel]] · [[Blackpill]] · [[Podcast-bro]]
 
 
 ---

@@ -32,7 +32,7 @@ related_reaction:
 
 **Why This Matters:** **Womanosphere** makes visible how a framework can be adopted even by those it positions as objects rather than subjects. Once you see the shared architecture, the opposition between **manosphere** and **womanosphere** collapses — they are not adversaries but co-inhabitants of the same conceptual system.
 
-**Relevant terms:** [[SMV (Sexual Market Value)]] · [[Hypergamy]] · [[Tradwife]] · [[Manosphere]] · [[Comparison Culture]]
+**Relevant terms:** [[SMV (Sexual Market Value)]] · [[Manosphere]] · [[Tradwife]] · [[Looksmaxxing]] · [[High Value Man]] · [[Purity Culture]] · [[Stay-at-home Girlfriend (SAHG)]]
 
 
 ---

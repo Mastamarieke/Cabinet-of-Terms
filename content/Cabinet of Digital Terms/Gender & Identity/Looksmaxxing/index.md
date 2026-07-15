@@ -51,7 +51,7 @@ semantic_landscape: |
 
 **Why This Matters:** **Looksmaxxing** makes the body into a project with a never-ending to-do list. The word "**Subhuman**" — applied to anyone scoring below four — carries a history. Once you teach people to rank themselves and others on a hierarchy from valuable to worthless, that logic becomes available for application to entire groups. When extreme plastic surgery becomes a tribal marker — as in the so-called **"Mar-a-Lago face"**, the uniform aesthetic of heavily filled, surgically tightened faces associated with wealthy political circles — looksmaxxing becomes a geopolitical instrument. The optimised body signals class, allegiance, and access. What began as an individual optimisation project becomes a legible political identity worn on the face. And what began as an incel-forum term is now a product category: a €113 skincare kit, a paid analysis platform, 75,000 community members. The gua sha tool promising "sharper features in minutes" is sold by the same logic as the forum that coined the word **Subhuman**. The packaging changed. The ideology did not.
 
-**Relevant terms:** [[SMV (Sexual Market Value)]] · [[Blackpill]] · [[Manosphere]] · [[Subhuman]] · [[Body Dysmorphic Disorder]] · [[Comparison Culture]] · [[Ragebaiting]] · [[Sigma Male]] · [[Tradwife]]
+**Relevant terms:** [[SMV (Sexual Market Value)]] · [[Blackpill]] · [[Manosphere]] · [[Subhuman]] · [[Body Dysmorphic Disorder]] · [[Comparison Culture]] · [[Sigma Male]] · [[Tradwife]] · [[Incel]]
 
 ---
 
