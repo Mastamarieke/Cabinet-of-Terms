@@ -19,10 +19,10 @@ Welcome to the Cabinet of Digital Terms: a vibrant knowledge bank for the curiou
 Surveillance capitalism. Dopamine loop. Dark pattern. Ghosting. Deinfluencing. Groomer. Red pill.
 You have heard these terms. You probably use some of them. But do you know where they came from? Who introduced them, and why? What they make visible — and what they quietly conceal?
 
-**The Cabinet of Digital Terms** is a knowledge bank developed by **Marieke de Vogel** within **The Project Digital Alertness** at the [[Communication & Multimedia Design program]](https://www.han.nl/opleidingen/hbo/communication-multimedia-design/voltijd/) of the [[HAN University of Applied Sciences]](https://www.hanuniversity.com/en/), in collaboration with the [[Lectorate Media Design]](https://www.han.nl/onderzoek/lectoraten/lectoraat-media-design/). It brings together **269 terms** from digital media, platform culture, political discourse, and popular culture, organized across **21 thematic cluster**s. Supported by **859 verified external links** to primary sources, it does something a traditional glossary would never do: it maps them.
+**The Cabinet of Digital Terms** is a knowledge bank developed by **Marieke de Vogel** within **The Project Digital Alertness** at the [[Communication & Multimedia Design program]](https://www.han.nl/opleidingen/hbo/communication-multimedia-design/voltijd/) of the [[HAN University of Applied Sciences]](https://www.hanuniversity.com/en/), in collaboration with the [[Lectorate Media Design]](https://www.han.nl/onderzoek/lectoraten/lectoraat-media-design/). It brings together **250+ terms** from digital media, platform culture, political discourse, and popular culture, organized across **20+ thematic cluster**s. Supported by **859 verified external links** to primary sources, it does something a traditional glossary would never do: it maps them.
 Not to define, but to connect the dots.
 
-We reject the myth of neutral knowledge. As **Donna Haraway** argued, true objectivity requires acknowledging our position: "Feminist objectivity means quite simply situated knowledges." Instead of offering static definitions, the Cabinet invites you to trace the relationships between terms, revealing the forces that shape our digital reality. The Cabinet of Digital Terms is a knowledge bank of **21 clusters**, **269 terms**, **859 source references** from digital media, platform culture, political discourse, and popular culture. Each term is examined for its origin, its use, its power structure, and - most importantly - what it conceals.
+We reject the myth of neutral knowledge. As **Donna Haraway** argued, true objectivity requires acknowledging our position: "Feminist objectivity means quite simply situated knowledges." Instead of offering static definitions, the Cabinet invites you to trace the relationships between terms, revealing the forces that shape our digital reality. The Cabinet of Digital Terms is a knowledge bank of **20+ clusters**, **250+ terms**, **859 source references** from digital media, platform culture, political discourse, and popular culture. Each term is examined for its origin, its use, its power structure, and - most importantly - what it conceals.
 
 This is not a glossary. A glossary defines. This collection does something different: it identifies terms worth examining - for genealogy, circulation, stakes, and the shifts in meaning that reveal who benefits from a term's existence.
 
@@ -30,7 +30,7 @@ This is not a glossary. A glossary defines. This collection does something diffe
 
 ## Who is this cabinet for?
 
-Here you may lose yourself in a network of **21 clusters** and **269 terms**, where every word opens a door to deeper insight. With **859 references** as our foundation, we invite you to discover the forces beneath the screens of the digital world, follow hidden connections, and learn the language that shapes our reality.
+Here you may lose yourself in a network of **20+ clusters** and **250+ terms**, where every word opens a door to deeper insight. With **859 references** as our foundation, we invite you to discover the forces beneath the screens of the digital world, follow hidden connections, and learn the language that shapes our reality.
 
 This is your place if you are not satisfied with superficial answers, but crave depth behind the algorithms, data, and power structures.
 
@@ -55,7 +55,7 @@ Are you ready to lose yourself in the questions of why it works this way, who be
 ---
 ## How it was made — Cartographic Prompting
 
-The Cabinet of Digital Terms is a knowledge bank of **269 terms** across **21 clusters**, with **859 verified external sources**. It was produced using **cartographic prompting** - a research method developed within Project Digitale Alertheid at HAN University of Applied Sciences.
+The Cabinet of Digital Terms is a knowledge bank of **250+ terms** across **20+ clusters**, with **859 verified external sources**. It was produced using **cartographic prompting** - a research method developed within Project Digitale Alertheid at HAN University of Applied Sciences.
 
 The name is deliberate. Where conventional analysis dissects a concept — breaking it into components and defining each one — cartography positions it within a field of forces. A map does not explain a city. It shows where things are in relation to each other, where the borders run, and what lies at the edges.
 
@@ -114,21 +114,29 @@ Each entry's navigation block at the bottom lists related terms per layer - maki
 
 The Cabinet of Terms is part of a larger project. **Project Digitale Alertheid** strengthens digital awareness and resilience by turning digital manipulation into material experience. It does this through **conversation pieces** — designed artefacts that create friction, provoke dialogue, and make abstract platform mechanisms tangible.
 
-**Soulmeter** — A jeopardy board combined with a life-size telephone that exposes data extraction mechanics. Players encounter surprise, discomfort, and moments of recognition when they discover how much a platform knows about them from a single interaction.
+**[Soulmeter](https://digitale-alertheid.nl/the-soulmeter-how-much-of-your-soul-have-you-sold-to-the-internet/)** — how much of your soul have you sold to the internet?
 
-**Wheel of Dark Patterns** — A physical installation based on the academic ontology of dark patterns (Gray et al., CHI 2024). Visitors spin the wheel and encounter a precise description of how a specific pattern works on them. → [digitale-alertheid.nl/the-dark-pattern-wheel](https://digitale-alertheid.nl/the-dark-pattern-wheel/)
+**[Wheel of Dark Patterns](https://digitale-alertheid.nl/the-wheel-of-dark-patterns-spin-match-recognise/)** — spin, match, recognise the manipulation
 
-**Narrative Typography Workshop** — A hands-on workshop in which participants examine how typography carries ideological content — how font, weight, and layout shape meaning before a word is read. → [digitale-alertheid.nl/narrative-typography](https://digitale-alertheid.nl/narrative-typography-how-typography-exposes-digital-manipulation/)
+**[Mindtrick Machine](https://digitale-alertheid.nl/mind-trick-machine-from-dark-patterns-to-dark-encounters/)** — nine metaphorical brains, from dark patterns to dark encounters
 
-**Mind Trick Machine** — An installation that demonstrates persuasive technology mechanisms in real time, making visible the psychological levers that platform design pulls without announcing itself.
+**[Narrative Typography](https://digitale-alertheid.nl/narrative-typography-the-metaphoric-visualisation-of-terms/)** — the form of a word reveals its meaning before you read it
 
-**Term Seeker (this vault)** — An interactive installation in which visitors physically grab words and receive a short, sharp analysis of what the term does, where it came from, and what it conceals. A QR code connects to the deeper analysis in this vault.
+**[Doctor Alert: The Digital Banner Coat](https://digitale-alertheid.nl/doctor-alert-the-digital-banner-coat/)** — the body as message
+
+**[Rad van Rollen](https://digitale-alertheid.nl/rad-van-rollen-playing-your-way-to-digital-awareness/)** — dark patterns translated into a language children can debate
+
+**[The Non Fluencer](https://digitale-alertheid.nl/the-non-fluencer-seeing-the-unseen-in-an-age-of-algorithms/)** — refusing the logic of the algorithm
+
+**[Term Seeker](https://digitale-alertheid.nl/the-term-seeker-reaching-for-language-in-a-digital-world/)** — reach for a term, receive a provocation
+
+**NO A-MEAZING** — the only way to win is to refuse to play *(coming soon)*
 
 ---
 
 ## How to navigate
 
-**By cluster** - 21 clusters, each mapping a distinct domain of digital life. Use the expandable menus below to browse by cluster. Start with the cluster that names something you already sense but cannot yet articulate.
+**By cluster** - 20+ clusters, each mapping a distinct domain of digital life. Use the expandable menus below to browse by cluster. Start with the cluster that names something you already sense but cannot yet articulate.
 
 **By term** - use the search to find a specific word. Every entry connects to related terms across clusters.
 
@@ -266,15 +274,13 @@ Some political vocabulary does not describe disagreements — it terminates them
 </details>
 
 <details>
-<summary><strong>Privacy, Data and Control</strong> — 10 terms</summary>
+<summary><strong>Privacy, Data and Control</strong> — 8 terms</summary>
 
 The privacy policy is forty-seven pages long. You clicked agree. So did everyone else. This cluster maps the gap between privacy rhetoric and privacy practice, and the mechanisms through which surveillance and control are exercised, obscured, or resisted.
 
 → [About this cluster](Cabinet-of-Digital-Terms/Privacy,-Data-and-Control/)
 
 - [[Algorithmic Violence]]
-- [[Brussels Effect]]
-- [[CLOUD Act]]
 - [[Data Brokers]]
 - [[Dataïsme]]
 - [[Privacy Washing]]
@@ -282,6 +288,18 @@ The privacy policy is forty-seven pages long. You clicked agree. So did everyone
 - [[Security Theater]]
 - [[Surveillance Capitalism]]
 - [[Vendor Lock-in]]
+
+</details>
+
+<details>
+<summary><strong>Platform Governance & Regulation</strong> — 2 terms</summary>
+
+The platform wrote the rules. Now governments are writing theirs. This cluster maps the legal and governance frameworks through which platform power is contested, constrained, or legitimised — legislation, international data agreements, regulatory influence, and enforcement gaps.
+
+→ [About this cluster](Cabinet-of-Digital-Terms/Platform-Governance--and--Regulation/)
+
+- [[Brussels Effect]]
+- [[CLOUD Act]]
 
 </details>
 
