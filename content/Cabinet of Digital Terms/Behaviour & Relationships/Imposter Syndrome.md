@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Imposter syndrome** makes visible the gap between internal experience and external presentation — and the specific harm that social media does to that gap. Once you know that everyone's backstage is messier than their **highlight reel**, the comparison basis changes.
 
-**See also:** [[Comparison Culture]] · [[Highlight Reel]] · [[Personal Branding]] · [[Hustle Culture]] · [[JOMO]]
+**Relevant terms:** [[Comparison Culture]] · [[Highlight Reel]] · [[Personal Branding]] · [[Hustle Culture]] · [[JOMO]]
 
 
 ---

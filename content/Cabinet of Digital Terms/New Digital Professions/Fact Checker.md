@@ -32,7 +32,7 @@ related_reaction:
 
 **Why This Matters:** **Fact checker** makes visible the asymmetry between misinformation production and its correction. Once you see the structural gap, the question shifts from "are there enough fact-checkers?" to "why is the production of false information faster than its correction, and who profits from that asymmetry?"
 
-**See also:** [[Bot Farms]] · [[Synthetic Generation]] · [[Flood the Zone]] · [[Content Moderator]] · [[AI Literacy]]
+**Relevant terms:** [[Bot Farms]] · [[Synthetic Generation]] · [[Flood the Zone]] · [[Content Moderator]] · [[AI Literacy]]
 
 
 ---

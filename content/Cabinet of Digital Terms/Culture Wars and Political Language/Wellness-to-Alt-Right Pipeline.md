@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** The **wellness-to-alt-right pipeline** makes visible that extremism recruitment does not require extremist entry points. The doorway is detox. The destination is somewhere else. Once you know the pathway, you can read its stages.
 
-**See also:** [[Conspirituality]] · [[Purity Culture]] · [[Tradwife]] · [[QAnon]] · [[Recommender Systems]] · [[Great Replacement]] · [[Ragebaiting]]
+**Relevant terms:** [[Conspirituality]] · [[Purity Culture]] · [[Tradwife]] · [[QAnon]] · [[Recommender Systems]] · [[Great Replacement]] · [[Ragebaiting]]
 
 
 ---
@@ -43,16 +43,5 @@ related_reaction:
 - ['Everything you've been told is a lie!' Inside the wellness-to-fascism pipeline](https://www.theguardian.com/lifeandstyle/2023/aug/02/everything-youve-been-told-is-a-lie-inside-the-wellness-to-facism-pipeline). Fisher, M. *The Guardian.*
 - [De populaire Dutch Travel Maniac reist in zijn vlogs voornamelijk naar een wereld van extreemrechts gedachtegoed](https://www.volkskrant.nl/binnenland/de-populaire-dutch-travel-maniac-reist-in-zijn-vlogs-voornamelijk-naar-een-wereld-van-extreemrechts-gedachtegoed~b31208e1/) — Van de Griend, R. & Pottjewijd, W. (4 juli 2026). *De Volkskrant*
 
-
----
-
-**Navigation**
-
-**Layer:** Mechanism
-
-**Cause:** [[Conspirituality]] · [[Recommender Systems]] · [[Tradwife]]
-**Mechanism:** [[Purity Culture]] · [[QAnon]]
-**Consequence:** [[Great Replacement]] · [[Dark MAGA]]
-**Reaction:** [[Deplatforming]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

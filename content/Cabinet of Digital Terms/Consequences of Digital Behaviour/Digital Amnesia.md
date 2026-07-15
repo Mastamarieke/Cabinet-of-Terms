@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Digital amnesia** makes visible what happens to memory when the archive is always open. The question is not whether external memory is useful — it is which capacities you are prepared to let become inaccessible when the archive is not.
 
-**See also:** [[Cognitive Offloading]] · [[Cognitive Surrender]] · [[Deskilling]] · [[AI Dependency]] · [[AI Literacy]]
+**Relevant terms:** [[Cognitive Offloading]] · [[Cognitive Surrender]] · [[Deskilling]] · [[AI Dependency]] · [[AI Literacy]]
 
 
 ---

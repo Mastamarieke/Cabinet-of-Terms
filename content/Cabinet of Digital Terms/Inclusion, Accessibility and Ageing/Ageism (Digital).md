@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** Digital ageism makes visible that exclusion is a design choice, not a demographic inevitability. Once you name it as discrimination, the question is not "why can't older people keep up?" but "who is being protected by keeping older people out of the room when design decisions are made?"
 
-**See also:** [[Digital Ageing]] · [[Silver Surfer]] · [[Tech Abandonment]] · [[Digital Exclusion]] · [[Inclusive Design]]
+**Relevant terms:** [[Digital Ageing]] · [[Silver Surfer]] · [[Tech Abandonment]] · [[Digital Exclusion]] · [[Inclusive Design]]
 
 
 ---

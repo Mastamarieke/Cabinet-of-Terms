@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** AGI names a threshold that everyone agrees matters and nobody agrees how to measure. Once you see that ambiguity as functional — not accidental — the race toward AGI is legible as a race to claim a prize whose rules have not been written.
 
-**See also:** [[The Singularity]] · [[Digital Frankenstein]] · [[Mythos Moment]] · [[Longtermism]] · [[Doomerism]]
+**Relevant terms:** [[The Singularity]] · [[Digital Frankenstein]] · [[Mythos Moment]] · [[Longtermism]] · [[Doomerism]]
 
 
 ---

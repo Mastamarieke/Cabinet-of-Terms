@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Digital coach** names the human response to systemic design failure. Once you see the profession as an indicator — more coaches needed means more people excluded — the question shifts from "how do we train more coaches?" to "why does the design keep producing the same exclusions?"
 
-**See also:** [[De-installer]] · [[Digital Divide]] · [[Ageism (Digital)]] · [[Tech Abandonment]] · [[Inclusive Design]]
+**Relevant terms:** [[De-installer]] · [[Digital Divide]] · [[Ageism (Digital)]] · [[Tech Abandonment]] · [[Inclusive Design]]
 
 
 ---

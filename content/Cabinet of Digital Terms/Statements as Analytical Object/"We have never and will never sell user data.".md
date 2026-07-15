@@ -32,7 +32,7 @@ related_reaction:
 
 **Why this sentence matters:** Once you understand the gap between what "sell user data" technically means and what it communicates, you can apply the same analysis to any privacy statement. The precision is the deception. The sentence tells a true thing in a way that produces a false impression. That is a design choice.
 
-**See also:** [[Privacy Washing]] · [[Surveillance Capitalism]] · [[Microtargeting]] · [[Brussels Effect]] · [["During a dynamic political environment."]]
+**Relevant terms:** [[Privacy Washing]] · [[Surveillance Capitalism]] · [[Microtargeting]] · [[Brussels Effect]] · [["During a dynamic political environment."]]
 
 
 ---

@@ -34,7 +34,7 @@ related_reaction:
 
 **Mimetic desire** names the engine beneath much of what digital platforms are built on. [[Influencer]] culture is mimetic desire as infrastructure: you want what they have because they are your model. [[Recommender Systems]] surface what others watched, bought, endorsed — constantly refreshing your model. [[Attention Economy]] is sustained by mimetic anxiety: the fear of desiring the wrong thing, being behind, missing out. [[FOMO]] is mimetic desire made anxious. And the scapegoat mechanism explains online pile-ons with uncomfortable precision: the sudden unanimity, the disproportionate intensity, the relief of being on the right side.
 
-**See also:** [[Comparison Culture]] · [[FOMO]] · [[Attention Economy]] · [[Recommender Systems]] · [[Influencer]] · [[Parasocial Relationship]] · [[Surveillance Capitalism]]
+**Relevant terms:** [[Comparison Culture]] · [[FOMO]] · [[Attention Economy]] · [[Recommender Systems]] · [[Influencer]] · [[Parasocial Relationship]] · [[Surveillance Capitalism]]
 
 
 ---

@@ -32,7 +32,7 @@ related_reaction:
 
 **Why This Matters:** **Black box** names the condition under which accountability becomes impossible. Once a consequential system is opaque, harm becomes structurally unaddressable. The demand for transparency is not a technical request — it is a political one.
 
-**See also:** [[Obfuscation]] · [[Unblackboxing]] · [[Algorithmic Violence]] · [[Informatics of Domination]]
+**Relevant terms:** [[Obfuscation]] · [[Unblackboxing]] · [[Algorithmic Violence]] · [[Informatics of Domination]]
 
 
 ---

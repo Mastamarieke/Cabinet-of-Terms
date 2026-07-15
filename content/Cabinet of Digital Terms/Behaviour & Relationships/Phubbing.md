@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Phubbing** makes visible what is lost when the phone is present. The person across from you registered the check. The relationship recorded it, even when neither person mentioned it.
 
-**See also:** [[Smombie]] · [[Dopamine Feedback Loops]] · [[Cognitive Surrender]] · [[Predatory Design]] · [[JOMO]]
+**Relevant terms:** [[Smombie]] · [[Dopamine Feedback Loops]] · [[Cognitive Surrender]] · [[Predatory Design]] · [[JOMO]]
 
 
 ---

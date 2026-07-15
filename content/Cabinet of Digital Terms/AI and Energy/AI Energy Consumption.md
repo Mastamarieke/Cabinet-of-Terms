@@ -32,7 +32,7 @@ related_reaction:
 
 **Why This Matters:** Once you know this term, a simple question shifts: *whose electricity is this?* The speed and fluency of an AI response starts to carry weight. Not moral paralysis — but a new kind of legibility.
 
-**See also:** [[Training Run]] · [[Inference Cost]] · [[Externalized Costs]] · [[Sacrifice Zones]] · [[Greenwashing]]
+**Relevant terms:** [[Training Run]] · [[Inference Cost]] · [[Externalized Costs]] · [[Sacrifice Zones]] · [[Greenwashing]]
 
 
 ---

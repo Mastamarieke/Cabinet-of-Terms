@@ -32,7 +32,7 @@ related_reaction:
 
 **Why This Matters:** **Deplatforming** makes visible the limits of content moderation as a response to political violence. The platform can remove the account. It cannot remove the ideology. The question of what comes next — and who is responsible for it — remains unanswered.
 
-**See also:** [[Subhuman]] · [[Great Replacement]] · [[QAnon]] · [[Deep State]] · [[Brussels Effect]]
+**Relevant terms:** [[Subhuman]] · [[Great Replacement]] · [[QAnon]] · [[Deep State]] · [[Brussels Effect]]
 
 
 ---
@@ -40,16 +40,5 @@ related_reaction:
 - [Deplatforming: Following Extreme Internet Celebrities to Telegram and Alternative Social Media](https://pure.uva.nl/ws/files/49664213/0267323120922066.pdf) — Rogers, R. (2020). _European Journal of Communication, 35_(3), 213–229
 - [Evaluating the Effectiveness of Deplatforming as a Moderation Strategy on Twitter](https://cs.stanford.edu/~diyiy/docs/jhaver-2021-deplatforming.pdf) — Jhaver, S., Boylston, C., Yang, D., & Bruckman, A. (2021). _Proceedings of the ACM on Human-Computer Interaction, 5_(CSCW2), Article 381, 1–30. DOI: 10.1145/3479525.
 
-
----
-
-**Navigation**
-
-**Layer:** Reaction
-
-**Cause:** [[Subhuman]] · [[Great Replacement]]
-**Mechanism:** [[Flood the Zone]] · [[Algorithmic Violence]]
-**Consequence:** [[QAnon]] · [[Deep State]]
-**Reaction:** [[Brussels Effect]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

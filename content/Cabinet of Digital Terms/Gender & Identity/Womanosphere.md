@@ -32,7 +32,7 @@ related_reaction:
 
 **Why This Matters:** **Womanosphere** makes visible how a framework can be adopted even by those it positions as objects rather than subjects. Once you see the shared architecture, the opposition between **manosphere** and **womanosphere** collapses — they are not adversaries but co-inhabitants of the same conceptual system.
 
-**See also:** [[SMV (Sexual Market Value)]] · [[Hypergamy]] · [[Tradwife]] · [[Manosphere]] · [[Comparison Culture]]
+**Relevant terms:** [[SMV (Sexual Market Value)]] · [[Hypergamy]] · [[Tradwife]] · [[Manosphere]] · [[Comparison Culture]]
 
 
 ---
@@ -40,16 +40,5 @@ related_reaction:
 - [Alphas, Betas, and Incels](https://doi.org/10.1177/1097184x17706401) — Ging, D. (2019). *Men and Masculinities*
 - [From femcels to ‘femcelcore’: Women’s involuntary celibacy and the rise of heteronihilism](https://journals.sagepub.com/doi/10.1177/13675494241293731) — Johanssen, J., & Kay, J. B. (2025). _European Journal of Cultural Studie_
 
-
----
-
-**Navigation**
-
-**Layer:** Mechanism
-
-**Cause:** [[SMV (Sexual Market Value)]] · [[Manosphere]]
-**Mechanism:** [[Hypergamy]] · [[Tradwife]]
-**Consequence:** [[Comparison Culture]] · [[High Value Man]]
-**Reaction:** [[Deinfluencing]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

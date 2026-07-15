@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** In the subcultural context, **brain rot** is evidence of something specific: communities naming their own platform-produced cognitive experience, in the language of the platform. That self-awareness is real. Its limits — the naming did not produce change — are equally real.
 
-**See also:** [[Gooner]] · [[Recommender Systems]] · [[Ragebaiting]] · [[Cognitive Surrender]] · [[Slow Media]]
+**Relevant terms:** [[Gooner]] · [[Recommender Systems]] · [[Ragebaiting]] · [[Cognitive Surrender]] · [[Slow Media]]
 
 
 ---

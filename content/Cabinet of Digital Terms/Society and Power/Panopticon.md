@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Panopticon** provides the analytical vocabulary for asking: has the awareness of surveillance already changed how you behave, before any surveillance has occurred? Once you ask that question, the political effect of surveillance systems is visible even when no specific observation has happened.
 
-**See also:** [[Surveillance Capitalism — Society and Power]] · [[Social Credit System]] · [[Biometric Surveillance]] · [[Cybernetic Governance]] · [[Obfuscation]]
+**Relevant terms:** [[Surveillance Capitalism — Society and Power]] · [[Social Credit System]] · [[Biometric Surveillance]] · [[Cybernetic Governance]] · [[Obfuscation]]
 
 
 ---

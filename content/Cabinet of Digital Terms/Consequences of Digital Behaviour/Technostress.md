@@ -31,7 +31,7 @@ Tarafdar et al. (2007) document that **technostress** reduces productivity, incr
 **Why This Matters**
 Once you see **technostress** as a design outcome rather than individual incapacity, you see that the question is not how to help people cope with technology — it is why technology is designed in ways that require coping.
 
-**See also:** [[Digital Overload]] · [[Tech Abandonment]] · [[Ageism (Digital)]]
+**Relevant terms:** [[Digital Overload]] · [[Tech Abandonment]] · [[Ageism (Digital)]]
 
 
 ---

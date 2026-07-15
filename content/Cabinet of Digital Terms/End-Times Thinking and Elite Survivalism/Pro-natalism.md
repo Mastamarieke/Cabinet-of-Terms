@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Pro-natalism** makes visible how demographic data becomes ideological when filtered through prior assumptions about whose reproduction matters. Once you ask "whose children?" the neutral demographic framing dissolves into a political position.
 
-**See also:** [[Great Replacement]] · [[Tradwife]] · [[Millenarianism]] · [[Purity Culture]] · [[Disaster Nationalism]]
+**Relevant terms:** [[Great Replacement]] · [[Tradwife]] · [[Millenarianism]] · [[Purity Culture]] · [[Disaster Nationalism]]
 
 
 ---

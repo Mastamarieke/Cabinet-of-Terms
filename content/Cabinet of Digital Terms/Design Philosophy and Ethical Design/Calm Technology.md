@@ -32,7 +32,7 @@ related_reaction:
 
 **Why This Matters:** **Calm technology** names the road not taken — the design philosophy that describes what technology could be rather than what the **attention economy** makes it. Once you know the concept, every unnecessary notification is a failure of design, not an inevitability.
 
-**See also:** [[VSD (Value Sensitive Design)]] · [[Fair Patterns]] · [[Attention Economy]] · [[Dopamine Feedback Loops]] · [[Digital Detox]]
+**Relevant terms:** [[VSD (Value Sensitive Design)]] · [[Fair Patterns]] · [[Attention Economy]] · [[Dopamine Feedback Loops]] · [[Digital Detox]]
 
 
 ---

@@ -31,7 +31,7 @@ related_reaction:
 
 **Why This Matters:** **Red teamer** makes visible the tension between safety and deployment speed that AI development routinely navigates. The profession's structural compromise — hired by the company to find the company's failures — is not incidental. It is a design choice with consequences.
 
-**See also:** [[Prompt Engineer]] · [[AI Dependency]] · [[Black Box]] · [[VSD (Value Sensitive Design)]]
+**Relevant terms:** [[Prompt Engineer]] · [[AI Dependency]] · [[Black Box]] · [[VSD (Value Sensitive Design)]]
 
 
 ---

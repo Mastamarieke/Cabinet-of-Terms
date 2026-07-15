@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Kidfluencer** names the commercial endpoint of the **sharenting** logic. Once you see the industry — no labour law, no consent framework, no minimum age — the child with a brand is also a child without protections that adults take for granted.
 
-**See also:** [[Momfluencer]] · [[Family Vlogging]] · [[Sharenting]] · [[Online Grooming]] · [[Parasocial Relationship]]
+**Relevant terms:** [[Momfluencer]] · [[Family Vlogging]] · [[Sharenting]] · [[Online Grooming]] · [[Parasocial Relationship]]
 
 
 ---

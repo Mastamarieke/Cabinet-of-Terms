@@ -32,7 +32,7 @@ Starcevic and Berle (2021) document that **cyberchondria** intensified during CO
 **Why This Matters**
 Once you see **cyberchondria** as an algorithmic design outcome rather than individual anxiety, you see that the platform profiting from the health search loop is indifferent to whether the information helps or harms the user.
 
-**See also:** [[Recommender Systems]] · [[Digital Overload]] · [[Dopamine Feedback Loops]]
+**Relevant terms:** [[Recommender Systems]] · [[Digital Overload]] · [[Dopamine Feedback Loops]]
 
 
 ---

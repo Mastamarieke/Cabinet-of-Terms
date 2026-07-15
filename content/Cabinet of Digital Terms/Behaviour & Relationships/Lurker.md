@@ -32,7 +32,7 @@ related_reaction:
 
 **Why This Matters:** Lurking makes visible the asymmetry between user experience and platform reality. You are not just watching. You are being watched watching.
 
-**See also:** [[Phatic Interaction]] · [[Orbiting]] · [[Attention Economy]] · [[Recommender Systems]] · [[JOMO]]
+**Relevant terms:** [[Phatic Interaction]] · [[Orbiting]] · [[Attention Economy]] · [[Recommender Systems]] · [[JOMO]]
 
 
 ---

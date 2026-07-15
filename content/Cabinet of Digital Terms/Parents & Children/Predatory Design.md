@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Predatory design** names the deliberate exploitation of developmental vulnerability as commercial strategy. Once you see it, "it's just a game" and "the child just needs more self-control" become inadequate responses to a designed condition.
 
-**See also:** [[Dark Patterns]] · [[Roblox]] · [[Loot Boxes]] · [[Gaming Disorder]] · [[Screen Time]]
+**Relevant terms:** [[Dark Patterns]] · [[Roblox]] · [[Loot Boxes]] · [[Gaming Disorder]] · [[Screen Time]]
 
 
 ---

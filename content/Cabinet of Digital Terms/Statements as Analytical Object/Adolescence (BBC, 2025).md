@@ -33,7 +33,7 @@ related_reaction:
 
 **Why this object matters:** *Adolescence* marks a cultural moment that is worth dating. The vocabulary of this vault — **manosphere**, SMV, **incel**, **blackpill** — moved from fringe forums to academic research to mainstream drama in approximately a decade. The drama is evidence of that trajectory. It also marks the entry of **manosphere** radicalisation into policy discourse in a way that previous research coverage had not achieved.
 
-**See also:** [[Manosphere]] · [[Incel]] · [[Red Pill]] · [[Recommender Systems]] · [[Blackpill]]
+**Relevant terms:** [[Manosphere]] · [[Incel]] · [[Red Pill]] · [[Recommender Systems]] · [[Blackpill]]
 
 
 ---

@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Unplugging** makes visible the asymmetry between presence and absence on platforms. The platform penalises absence. The resistance to that penalty is itself captured as content. The loop closes before you have left the room.
 
-**See also:** [[Digital Detox]] · [[Slow Media]] · [[Tech-Free Challenge]] · [[JOMO]] · [[Attention Economy]]
+**Relevant terms:** [[Digital Detox]] · [[Slow Media]] · [[Tech-Free Challenge]] · [[JOMO]] · [[Attention Economy]]
 
 
 ---

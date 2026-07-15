@@ -31,7 +31,7 @@ related_reaction:
 
 **Why This Matters:** **Rizz** is a useful reminder that subcultural vocabulary travels with its original context stripped away — and that the new context it enters shapes what the word becomes. In its original register, rizz was descriptive. In the self-improvement ecosystem, it became a product.
 
-**See also:** [[SMV (Sexual Market Value)]] · [[Looksmaxxing]] · [[Manosphere]] · [[About Subcultural Vocabulary and Platform Language]] · [[Comparison Culture]]
+**Relevant terms:** [[SMV (Sexual Market Value)]] · [[Looksmaxxing]] · [[Manosphere]] · [[About Subcultural Vocabulary and Platform Language]] · [[Comparison Culture]]
 
 
 ---
@@ -39,16 +39,5 @@ related_reaction:
 - [Rizz — Oxford Word of the Year 2023](https://languages.oup.com/word-of-the-year/2023/) — Oxford University Press (2023)
 - [What Does Rizz Mean? All About the Slang Term and Where It Came From](https://people.com/what-does-rizz-mean-8726620). Bellusci, A. (2025). _People_.
 
-
----
-
-**Navigation**
-
-**Layer:** Mechanism
-
-**Cause:** [[SMV (Sexual Market Value)]] · [[Subcultural Vocabulary and Platform Language]]
-**Mechanism:** [[Looksmaxxing]] · [[Top 1% Man]]
-**Consequence:** [[Comparison Culture]]
-**Reaction:** [[Podcast-bro]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

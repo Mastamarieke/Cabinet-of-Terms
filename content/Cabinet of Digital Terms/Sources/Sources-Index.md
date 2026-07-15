@@ -20,3 +20,5 @@ Checklist van alle bestaande source-bestanden. Controleer hier eerst voordat je 
 | VirtualHumans.org (n.d.) | secondary | directory | Industry Documentation | Secondary.md (Virtual Influencer) |
 | Ribeiro et al. (2020) | primary | conference-paper | Computer Science, Social Science, Media Studies | Ribeiro-2020.md (Recommender Systems) |
 | Bail et al. (2023) | primary | academic-article | Political Science, Social Science, Media Studies | Bail-2023.md (Recommender Systems) |
+| Brady et al. (2017) | primary | academic-article | Social Psychology, Political Science, Network Science | Brady-Ragebaiting-2017.md |
+| Shin et al. (2025) | primary | academic-article | Media Studies, Communication Science | Shin-Ragebaiting-2025.md |

@@ -25,13 +25,11 @@ entry_image_caption: "By the Narrative Typographer Anne-Marie Bruinsma"
 semantic_landscape: |
   **Looksmaxxing** sits at the conversion point of the **Gender & Identity** cluster: where ideology becomes practice, and practice becomes pathology. As a mechanism, it translates the abstract logic of **SMV (Sexual Market Value)** — attractiveness as market position — into bodies, routines, and procedures. The same rating logic applies to both men and women; what differs is where the graph leads from here.
 
-  From the male side, the most revealing feature is the double connection to **Blackpill**. Blackpill appears both as a co-mechanism (shaping how looksmaxxing is practiced) and as a consequence (where looksmaxxers arrive when the project fails). Follow that line further: **Looksmaxxing → Blackpill → Subhuman**. A mechanism for self-improvement carries a dehumanising logic as its direct consequence. The rating vocabulary is not incidental — it is the endpoint made visible.
+  From the male side, the most revealing feature is the double connection to **Blackpill** — the ideology that appearance is destiny, unalterable by effort. **Blackpill** appears both as a co-mechanism (shaping how looksmaxxing is practiced) and as a consequence (where looksmaxxers arrive when the project fails). Follow that line further: **Looksmaxxing → Blackpill → Subhuman**. A mechanism for self-improvement carries a dehumanising logic as its direct consequence. The rating vocabulary is not incidental — it is the endpoint made visible. **Sigma Male** — the identity framework that reframes social exclusion as chosen superiority — runs parallel: same market logic, different emotional exit.
 
-  From the female side, the consequence path runs differently: **Looksmaxxing → Comparison Culture → Body Dysmorphic Disorder**. No radical ideology, no Subhuman label — instead a clinical endpoint. The graph shows that the same starting mechanism produces two distinct forms of damage depending on which side of the SMV scale you are on.
+  From the female side, the consequence path runs differently: **Looksmaxxing → Comparison Culture → Body Dysmorphic Disorder**. No radical ideology, no **Subhuman** label — instead a clinical endpoint. The graph shows that the same starting mechanism produces two distinct forms of damage depending on which side of the **SMV** scale you are on. The female identity counterpart is **Tradwife** — domestic performance optimised for the same market that looksmaxxing targets through the body.
 
-  A third trajectory runs outside the Gender & Identity cluster entirely: when extreme plastic surgery becomes a tribal marker — as in the **"Mar-a-Lago face"** — the optimised body signals class, political allegiance, and access. The graph does not yet have a node for this; its absence is a gap worth naming. **Looksmaxxing** at that scale is no longer personal optimisation. It is a geopolitical instrument.
-
-  A fourth trajectory is commercial. The graph does not yet have a **Lifestyle Brand** node — but looksmaxxing now has one. looksmaxxing.com runs a paid analysis service for 75,000+ members. Doers of London sells a €113 "Looksmaxxing Kit" — gua sha tool, serum, crème — with the claim *"Sharper Features: Sculpt and define your face in minutes."* The ideology has become a product category. Once a subculture can be sold as a premium skincare line, the term no longer belongs only to the forums. This gap is the same one visible in the **Tradwife** network: the missing node is **Lifestyle Brand**, the point at which an ideological position becomes purchasable identity.
+  A third trajectory is commercial. The ideology has become a product category: paid analysis platforms, premium skincare kits promising "sharper features in minutes." Once a subculture can be sold as a lifestyle brand, the term no longer belongs only to the forums. The missing node is **Lifestyle Brand** — the point at which an ideological position becomes purchasable identity. The same gap appears in the **Tradwife** network.
 
   **Deinfluencing** stands alone as the only reaction node — and its solitude is itself analytical. The pushback against looksmaxxing is personal and aesthetic, not systemic. It addresses one person's feed, not the structure that produces the feed.
 ---
@@ -53,7 +51,7 @@ semantic_landscape: |
 
 **Why This Matters:** **Looksmaxxing** makes the body into a project with a never-ending to-do list. The word "**Subhuman**" — applied to anyone scoring below four — carries a history. Once you teach people to rank themselves and others on a hierarchy from valuable to worthless, that logic becomes available for application to entire groups. When extreme plastic surgery becomes a tribal marker — as in the so-called **"Mar-a-Lago face"**, the uniform aesthetic of heavily filled, surgically tightened faces associated with wealthy political circles — looksmaxxing becomes a geopolitical instrument. The optimised body signals class, allegiance, and access. What began as an individual optimisation project becomes a legible political identity worn on the face. And what began as an incel-forum term is now a product category: a €113 skincare kit, a paid analysis platform, 75,000 community members. The gua sha tool promising "sharper features in minutes" is sold by the same logic as the forum that coined the word **Subhuman**. The packaging changed. The ideology did not.
 
-**See also:** [[SMV (Sexual Market Value)]] · [[Blackpill]] · [[Manosphere]] · [[Subhuman]] · [[Body Dysmorphic Disorder]] · [[Comparison Culture]] · [[Ragebaiting]]
+**Relevant terms:** [[SMV (Sexual Market Value)]] · [[Blackpill]] · [[Manosphere]] · [[Subhuman]] · [[Body Dysmorphic Disorder]] · [[Comparison Culture]] · [[Ragebaiting]] · [[Sigma Male]] · [[Tradwife]]
 
 ---
 
@@ -79,16 +77,5 @@ semantic_landscape: |
 >
 > **[[Secondary|The Power Moves (z.j.)]]** · [The Power Moves ↗](https://thepowermoves.com/sexual-market-value/)
 > Artifact — SMV als instructiesysteem in actieve circulatie: hoe de looksmaxxing-ideologie online wordt onderwezen en genormaliseerd.
-
----
-
-**Navigation**
-
-**Layer:** Mechanism — the systematic optimisation of appearance as a scored, pseudoscientific project
-
-**Cause:** [[SMV (Sexual Market Value)]] · [[Manosphere]]
-**Mechanism:** [[Comparison Culture]] · [[Blackpill]]
-**Consequence:** [[Body Dysmorphic Disorder]] · [[Blackpill]] · [[Subhuman]]
-**Reaction:** [[Deinfluencing]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

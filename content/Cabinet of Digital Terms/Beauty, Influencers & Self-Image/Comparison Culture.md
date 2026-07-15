@@ -35,7 +35,7 @@ related_reaction:
 
 **Why This Matters:** **Comparison culture** is the environment that makes most of this cluster possible. [[Mimetic Desire]] is the engine underneath: we don't compare ourselves to others randomly — we measure ourselves against the people we are already using as models for what to want. Once you know comparison culture is a platform feature rather than a personal tendency, "why do I always feel like I'm falling short?" becomes a structural question, not a personal one.
 
-**See also:** [[Highlight Reel]] · [[Beauty Filter]] · [[Influencer]] · [[Body Dysmorphic Disorder]] · [[FOMO]] · [[Mimetic Desire]]
+**Relevant terms:** [[Highlight Reel]] · [[Beauty Filter]] · [[Influencer]] · [[Body Dysmorphic Disorder]] · [[FOMO]] · [[Mimetic Desire]]
 
 
 ---

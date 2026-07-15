@@ -32,7 +32,7 @@ related_reaction:
 
 **Why This Matters:** **Cooked** makes visible how one-word verdicts function in internet discourse. Once you see the finality as a rhetorical choice — not a fact — you can ask: by whose criteria, and is the reversibility actually as fixed as the word implies?
 
-**See also:** [[Ratio'd]] · [[Doomerism]] · [[Ragebaiting]] · [[Crash-out]]
+**Relevant terms:** [[Ratio'd]] · [[Doomerism]] · [[Ragebaiting]] · [[Crash-out]]
 
 
 ---

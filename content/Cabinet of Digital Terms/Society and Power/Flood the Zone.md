@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Flood the Zone** names a strategy, not a failure. Once you see it as deliberate, the question shifts from "why is there so much misinformation?" to "who benefits from the volume, and what governance structures are being protected from scrutiny?"
 
-**See also:** [[Ragebaiting]] · [[Bot Farms]] · [[Muskism]] · [[Fact Checker]] · [[Broligarchy]]
+**Relevant terms:** [[Ragebaiting]] · [[Bot Farms]] · [[Muskism]] · [[Fact Checker]] · [[Broligarchy]]
 
 
 ---

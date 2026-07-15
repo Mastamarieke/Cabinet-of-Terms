@@ -31,7 +31,7 @@ related_reaction:
 
 **Why this sentence matters:** Once you hear the structure — "X is obviously an issue" — you can identify it wherever it appears. It is the rhetorical form of corporate ethical consciousness that produces no constraint. The acknowledgement is the performance. The refusal is what was not said.
 
-**See also:** [[Dual-Use Technology]] · [[Military-Industrial Complex]] · [[Digital-Military-Industrial Complex]] · [["500 million people installed that app in 60 days."]]
+**Relevant terms:** [[Dual-Use Technology]] · [[Military-Industrial Complex]] · [[Digital-Military-Industrial Complex]] · [["500 million people installed that app in 60 days."]]
 
 
 ---

@@ -32,7 +32,7 @@ related_reaction:
 
 **Why This Matters:** **Neuromarketing** makes visible the gap between what you consciously decide and what your body responds to. Once that gap is systematically measured and designed into interfaces, the question of whose interests are being optimised for becomes urgent.
 
-**See also:** [[Dark Patterns]] · [[Nudging]] · [[Biometric Surveillance]] · [[Attention Harvesting]] · [[Fair Patterns]]
+**Relevant terms:** [[Dark Patterns]] · [[Nudging]] · [[Biometric Surveillance]] · [[Attention Harvesting]] · [[Fair Patterns]]
 
 
 ---

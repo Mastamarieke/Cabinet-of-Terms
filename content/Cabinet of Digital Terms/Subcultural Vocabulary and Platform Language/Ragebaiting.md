@@ -32,7 +32,7 @@ related_reaction:
 
 **Why This Matters:** **Ragebaiting** names the mechanism that converts anger into distribution. Once you see it, every piece of content that makes you angry becomes a question: is this anger a natural response to a real injustice, or is the anger the product being manufactured? The two are not mutually exclusive — but the distinction matters.
 
-**See also:** [[Attention Economy]] · [[Recommender Systems]] · [[Flood the Zone]] · [[Algospeak]]
+**Relevant terms:** [[Attention Economy]] · [[Recommender Systems]] · [[Flood the Zone]] · [[Algospeak]]
 
 
 ---

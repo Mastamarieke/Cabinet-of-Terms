@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Cyborg Musk** makes visible a general mechanism: critical vocabulary can be adopted while its critique is discarded. The aesthetics migrate; the politics do not. Once you see this move, you can identify it wherever it happens — in corporate "disruption" language, in Silicon Valley "moonshot" rhetoric, in any use of countercultural aesthetics in the service of power concentration.
 
-**See also:** [[Cyborg]] · [[Muskism]] · [[Transhumanism]] · [[Digital Libertarianism]] · [[Cyberfeminism]]
+**Relevant terms:** [[Cyborg]] · [[Muskism]] · [[Transhumanism]] · [[Digital Libertarianism]] · [[Cyberfeminism]]
 
 
 ---

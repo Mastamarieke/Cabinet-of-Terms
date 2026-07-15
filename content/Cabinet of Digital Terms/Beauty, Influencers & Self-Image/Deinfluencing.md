@@ -32,7 +32,7 @@ related_reaction:
 
 **Why This Matters:** **Deinfluencing** makes visible the recuperation mechanism: the platform absorbs critique by making the critique into content. Once you see that move, you see it everywhere.
 
-**See also:** [[Influencer]] · [[Comparison Culture]] · [[Highlight Reel]] · [[About Counter-Movements]] · [[Digital Detox]]
+**Relevant terms:** [[Influencer]] · [[Comparison Culture]] · [[Highlight Reel]] · [[About Counter-Movements]] · [[Digital Detox]]
 
 
 ---

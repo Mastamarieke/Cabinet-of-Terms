@@ -32,7 +32,7 @@ related_reaction:
 
 **Why This Matters:** **Echo chamber** makes visible a specific epistemic risk: not that you are being lied to, but that you are hearing only confirming voices. Once you can name the condition, you can ask: who is absent from this conversation, and why?
 
-**See also:** [[Filter Bubble]] · [[Recommender Systems]] · [[QAnon]] · [[AI Literacy]]
+**Relevant terms:** [[Filter Bubble]] · [[Recommender Systems]] · [[QAnon]] · [[AI Literacy]]
 
 
 ---

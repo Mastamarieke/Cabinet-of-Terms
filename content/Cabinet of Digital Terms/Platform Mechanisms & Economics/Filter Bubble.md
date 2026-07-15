@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Filter bubble** names the gap between what you see and what is there to be seen. Once you know the term, the absence of counter-evidence is not the same as the absence of counter-evidence — it may be the algorithm's editing.
 
-**See also:** [[Echo Chamber]] · [[Recommender Systems]] · [[Microtargeting]] · [[AI Literacy]] · [[Slow Media]]
+**Relevant terms:** [[Echo Chamber]] · [[Recommender Systems]] · [[Microtargeting]] · [[AI Literacy]] · [[Slow Media]]
 
 
 ---

@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Social credit system** names a governance technology that is easier to critique at a distance than in the mirror. Once you see the scoring systems already operating in Western financial, employment, and platform contexts, the concern about China is also a concern about what is already here.
 
-**See also:** [[Panopticon]] · [[Surveillance Capitalism — Society and Power]] · [[Algorithmic Violence]] · [[Cybernetic Governance]] · [[Brussels Effect]]
+**Relevant terms:** [[Panopticon]] · [[Surveillance Capitalism — Society and Power]] · [[Algorithmic Violence]] · [[Cybernetic Governance]] · [[Brussels Effect]]
 
 
 ---

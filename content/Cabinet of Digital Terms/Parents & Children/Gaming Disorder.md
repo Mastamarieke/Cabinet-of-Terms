@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Gaming disorder** makes the same structural point as **screen time**: a design problem gets classified as a patient condition. Once you see that, the treatment question — how do we help this child stop? — is incomplete without the design question — why was the product built to make stopping this hard?
 
-**See also:** [[Predatory Design]] · [[Loot Boxes]] · [[Dopamine Feedback Loops]] · [[Screen Time]] · [[Roblox]]
+**Relevant terms:** [[Predatory Design]] · [[Loot Boxes]] · [[Dopamine Feedback Loops]] · [[Screen Time]] · [[Roblox]]
 
 
 ---

@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Technofeudalism** names the political-economic structure that **surveillance capitalism** has built. Once you see the feudal analogy, the language of "free markets" and "competition" as descriptions of the digital economy becomes legible as ideology rather than description.
 
-**See also:** [[Surveillance Capitalism — Society and Power]] · [[Muskism]] · [[Vendor Lock-in]] · [[Sovereignty as a Service]] · [[Brussels Effect]]
+**Relevant terms:** [[Surveillance Capitalism — Society and Power]] · [[Muskism]] · [[Vendor Lock-in]] · [[Sovereignty as a Service]] · [[Brussels Effect]]
 
 
 ---

@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Screen time** makes visible how a design problem gets reframed as a parenting problem. Once you see that move, the question shifts: whose responsibility is the irresistibility of the product?
 
-**See also:** [[Predatory Design]] · [[Dopamine Feedback Loops]] · [[Gaming Disorder]] · [[Brain Rot]] · [[Digital Detox]]
+**Relevant terms:** [[Predatory Design]] · [[Dopamine Feedback Loops]] · [[Gaming Disorder]] · [[Brain Rot]] · [[Digital Detox]]
 
 
 ---

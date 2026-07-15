@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Social contagion** makes visible how scientific-sounding language can function as political rhetoric. The question to ask of any contagion claim is: what evidence standard was applied, and who benefits from the framing?
 
-**See also:** [[Woke Mind Virus]] · [[Groomer]] · [[Dehumanization]] · [[Purity Culture]] · [[Deadnaming]]
+**Relevant terms:** [[Woke Mind Virus]] · [[Groomer]] · [[Dehumanization]] · [[Purity Culture]] · [[Deadnaming]]
 
 
 ---
@@ -42,16 +42,5 @@ related_reaction:
 - [Parent reports of adolescents and young adults perceived to show signs of a rapid onset of gender dysphoria](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0202330)— Lisa Littman (2018). _PLOS ONE.
 - [Methodological Critique of Littman’s (2018) Parental-Respondents Accounts of “Rapid-Onset Gender Dysphoria”](https://link.springer.com/article/10.1007/s10508-019-1453-2) — Arjee Restar (2020). _Archives of Sexual Behavior_
 
-
----
-
-**Navigation**
-
-**Layer:** Mechanism
-
-**Cause:** [[Woke Mind Virus]] · [[Groomer]]
-**Mechanism:** [[Dehumanization]] · [[Social Contagion]]
-**Consequence:** [[Subhuman]] · [[Purity Culture]]
-**Reaction:** [[Deadnaming]] · [[Deplatforming]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** The **de-installer** names a profession whose existence is evidence of a design failure. Every device that requires a **de-installer** is a device that was designed against its user. Once you see that, the question is not "who can help me remove this?" but "why was it installed without my consent?"
 
-**See also:** [[Digital Coach]] · [[Predatory Design]] · [[Enshittification]] · [[Tech Abandonment]] · [[Fair Patterns]]
+**Relevant terms:** [[Digital Coach]] · [[Predatory Design]] · [[Enshittification]] · [[Tech Abandonment]] · [[Fair Patterns]]
 
 
 ---

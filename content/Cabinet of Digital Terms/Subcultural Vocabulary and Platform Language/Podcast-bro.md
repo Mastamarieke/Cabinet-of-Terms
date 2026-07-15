@@ -32,7 +32,7 @@ related_reaction:
 
 **Why This Matters:** **Podcast-bro** names the specific ideological function of a format that presents itself as beyond ideology. Once you see the editorial choices behind the "unfiltered" format, the question shifts from "what are they saying?" to "what are they not saying, and who is not invited?"
 
-**See also:** [[Manosphere]] · [[Parasocial Relationship]] · [[Filter Bubble]] · [[Broligarchy]] · [[Hustle Culture]]
+**Relevant terms:** [[Manosphere]] · [[Parasocial Relationship]] · [[Filter Bubble]] · [[Broligarchy]] · [[Hustle Culture]]
 
 
 ---

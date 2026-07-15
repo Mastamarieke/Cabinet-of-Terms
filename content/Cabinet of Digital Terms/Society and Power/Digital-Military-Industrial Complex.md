@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Digital-military-industrial complex** names the structural relationship that makes "tech for good" and "tech for war" the same infrastructure. Once you see the entanglement, the question of whether a technology company is a civilian or military actor becomes structurally ambiguous rather than a matter of corporate choice.
 
-**See also:** [[Military-Industrial Complex]] · [[Dual-Use Technology]] · [[Revolving Door]] · [[Sovereignty as a Service]] 
+**Relevant terms:** [[Military-Industrial Complex]] · [[Dual-Use Technology]] · [[Revolving Door]] · [[Sovereignty as a Service]] 
 
 
 ---

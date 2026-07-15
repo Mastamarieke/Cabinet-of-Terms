@@ -32,7 +32,7 @@ related_reaction:
 
 **Why This Matters:** **Privacy as a premium** names the political economy of surveillance: if privacy has a price, those without the price pay with their data. Once you see the class dimension, "free" services become a different kind of offer.
 
-**See also:** [[Privacy Washing]] · [[Surveillance Capitalism]] · [[Digital Divide]] · [[Dataïsme]] · [[Brussels Effect]]
+**Relevant terms:** [[Privacy Washing]] · [[Surveillance Capitalism]] · [[Digital Divide]] · [[Dataïsme]] · [[Brussels Effect]]
 
 
 ---

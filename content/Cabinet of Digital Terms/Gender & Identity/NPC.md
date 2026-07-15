@@ -31,7 +31,7 @@ related_reaction:
 
 **Why This Matters:** NPC makes visible how gaming vocabulary can carry dehumanising logic into political discourse without triggering the recognition that more explicit dehumanising language would produce. The game frame provides cover.
 
-**See also:** [[Dehumanization]] · [[Sigma Male]] · [[Red Pill]] · [[Gamification Creep]] · [[UNC]]
+**Relevant terms:** [[Dehumanization]] · [[Sigma Male]] · [[Red Pill]] · [[Gamification Creep]] · [[UNC]]
 
 
 ---
@@ -40,16 +40,5 @@ related_reaction:
 - [Moral Disengagement](https://doi.org/10.1177/0963721413496654) — Bandura, A. (2002). *Journal of Moral Education*
 - [The Great Meme War](https://journals.openedition.org/angles/369). Phillips, W. (2016). _Angles: New Perspectives on the Anglophone World_
 
-
----
-
-**Navigation**
-
-**Layer:** Mechanism
-
-**Cause:** [[Gamification Creep]] · [[Manosphere]]
-**Mechanism:** [[Sigma Male]] · [[Dehumanization]]
-**Consequence:** [[Dehumanization]]
-**Reaction:** [[Red Pill]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

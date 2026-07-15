@@ -32,7 +32,7 @@ related_reaction:
 
 **Why This Matters:** **Clean Girl Aesthetic** makes visible how "natural" is always constructed — and who gets to define what natural looks like.
 
-**See also:** [[That Girl]] · [[Beauty Filter]] · [[Comparison Culture]] · [[Highlight Reel]] · [[Body Dysmorphic Disorder]]
+**Relevant terms:** [[That Girl]] · [[Beauty Filter]] · [[Comparison Culture]] · [[Highlight Reel]] · [[Body Dysmorphic Disorder]]
 
 
 ---

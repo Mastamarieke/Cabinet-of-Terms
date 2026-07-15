@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Algorithmic violence** names the specific accountability gap of automated harm. Once you see the structure — harm produced, no individual responsible — you can ask: who designed this system, what data trained it, whose interests does it serve, and who bears the cost of its errors?
 
-**See also:** [[Informatics of Domination]] · [[Dataïsme]] · [[Surveillance Capitalism]] · [[Digital Exclusion]] · [[VSD (Value Sensitive Design)]]
+**Relevant terms:** [[Informatics of Domination]] · [[Dataïsme]] · [[Surveillance Capitalism]] · [[Digital Exclusion]] · [[VSD (Value Sensitive Design)]]
 
 
 ---

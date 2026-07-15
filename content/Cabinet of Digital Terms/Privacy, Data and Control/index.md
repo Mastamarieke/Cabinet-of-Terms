@@ -30,12 +30,6 @@ Privacy as a paid feature. If you cannot afford it, surveillance is the default.
 ### [[Security Theater]]
 Schneier: security measures that create the appearance of protection without providing it. The shoes come off at the airport.
 
-### [[Brussels Effect]]
-EU regulation becoming de facto global standard. One regulator, worldwide reach.
-
-### [[CLOUD Act]]
-American law that undermines GDPR protection for data stored in American clouds. Two legal systems, one infrastructure.
-
 ### [[Vendor Lock-in]]
 Private companies managing public infrastructure with no exit option. The contract that cannot be cancelled.
 

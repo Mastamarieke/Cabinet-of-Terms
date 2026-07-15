@@ -33,7 +33,7 @@ Eppler and Mengis (2004) established that information overload impairs decision 
 **Why This Matters**
 Once you see **Digital Overload** as a designed condition rather than a personal productivity failure, you see that the solution is not better time management — it is different design.
 
-**See also:** [[Doomscrolling|Doomscrolling]] · [[Cognitive Surrender]] · [[Digital Hoarding]] · [[Technostress|Technostress]]
+**Relevant terms:** [[Doomscrolling|Doomscrolling]] · [[Cognitive Surrender]] · [[Digital Hoarding]] · [[Technostress|Technostress]]
 
 
 ---

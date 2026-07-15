@@ -31,7 +31,7 @@ related_reaction:
 
 **Why This Matters:** SAHG makes visible the gap between lifestyle content and structural analysis. The aesthetic is about freedom; the economics are about dependency. Once you see the legal framework absent from the content, the "freedom" becomes a different kind of sentence.
 
-**See also:** [[Tradwife]] · [[Provider]] · [[SMV (Sexual Market Value)]] · [[Womanosphere]] · [[Comparison Culture]]
+**Relevant terms:** [[Tradwife]] · [[Provider]] · [[SMV (Sexual Market Value)]] · [[Womanosphere]] · [[Comparison Culture]]
 
 
 ---
@@ -39,16 +39,5 @@ related_reaction:
 - [The Housewives of White Supremacy](https://www.johnlocke.org/the-housewives-of-white-supremacy/) — Kelly, A. (2018). *New York Times*
 - [From ‘girlboss’ to stayathomegirlfriend:The romanticisation of domestic labour on TikTok](https://journals.sagepub.com/doi/10.1177/13675494241285643) — Sykes, I. (2025). _European Journal of Cultural Studies_
 
-
----
-
-**Navigation**
-
-**Layer:** Consequence
-
-**Cause:** [[SMV (Sexual Market Value)]] · [[Tradwife]]
-**Mechanism:** [[Provider]] · [[Womanosphere]]
-**Consequence:** [[Comparison Culture]]
-**Reaction:** [[Womanosphere]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

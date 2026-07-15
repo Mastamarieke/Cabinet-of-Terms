@@ -32,7 +32,7 @@ related_reaction:
 
 **Why This Matters:** **Cyberfeminism** names the claim that technology is not neutral terrain — and that feminist engagement with it is not optional. Once you know the tradition, contemporary research on algorithmic bias, facial recognition racism, and platform harassment sits within a longer history.
 
-**See also:** [[Cyborg]] · [[Situated Knowledge]] · [[Informatics of Domination]] · [[Digital Libertarianism]] · [[Inclusive Design]]
+**Relevant terms:** [[Cyborg]] · [[Situated Knowledge]] · [[Informatics of Domination]] · [[Digital Libertarianism]] · [[Inclusive Design]]
 
 
 ---

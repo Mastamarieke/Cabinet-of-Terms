@@ -31,7 +31,7 @@ related_reaction:
 
 **Why This Matters:** UNC is a small term that does a specific job: it marks a generational and cultural boundary and assigns the person outside it as irrelevant. Once you see boundary terms for what they do, you can ask what conversation they are protecting — and who they are keeping out of it.
 
-**See also:** [[NPC]] · [[Sigma Male]] · [[Ageism (Digital)]] · [[About Subcultural Vocabulary and Platform Language]] · [[Digital Coach]]
+**Relevant terms:** [[NPC]] · [[Sigma Male]] · [[Ageism (Digital)]] · [[About Subcultural Vocabulary and Platform Language]] · [[Digital Coach]]
 
 
 ---
@@ -40,16 +40,5 @@ related_reaction:
 - [Digital Ageism: How it Operates and Approaches to Tackling it](https://library.oapen.org/bitstream/handle/20.500.12657/63221/1/9781000904796.pdf?utm_source=chatgpt.com) — Rosales, A., Fernández-Ardèvol, M., & Svensson, J. (Eds.). (2023). _Routledge
 - [Unc](https://www.urbandictionary.com/define.php?term=Unc) — _Urban Dictionary_ (gebruik in internetcultuur)
 
-
----
-
-**Navigation**
-
-**Layer:** Mechanism
-
-**Cause:** [[Subcultural Vocabulary and Platform Language]] · [[Manosphere]]
-**Mechanism:** [[NPC]] · [[Sigma Male]]
-**Consequence:** [[Ageism (Digital)]]
-**Reaction:** [[Digital Coach]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

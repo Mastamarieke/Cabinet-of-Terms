@@ -26,9 +26,9 @@ related_reaction:
 entry_image: tradwife.jpg
 entry_image_caption: "By Narrative Typographer Marieke de Vogel"
 semantic_landscape: |
-  **Tradwife** sits at the intersection of two different logics in the **Gender & Identity** cluster — and the graph makes visible that they share a node. From one direction comes the **SMV/Manosphere** axis: market logic, mate value, optimisation of desirability. From the other comes **Purity Culture**: cleanliness of body, household, and nation. These two logics do not feel like the same thing from the inside. The network shows they are.
+  **Tradwife** sits at the intersection of two different logics in the **Gender & Identity** cluster — the cluster that maps how digital culture assigns, performs, and monetises gender roles. It belongs here as a mechanism: the female route through **SMV** logic, aestheticised as content. From one direction comes the **SMV/Manosphere** axis: market logic, mate value, optimisation of desirability. From the other comes **Purity Culture**: cleanliness of body, household, and nation. These two logics do not feel like the same thing from the inside. The network shows they are.
 
-  The most revealing structural feature is the mirror relationship with **Looksmaxxing**. Both are mechanisms. Both translate **SMV (Sexual Market Value)** logic into performance: Looksmaxxing optimises the body for the market; Tradwife optimises domestic performance for the same market. The entry point is the same node. What differs is the direction of the consequence path. Looksmaxxing leads toward **Blackpill** and **Body Dysmorphic Disorder** — pathology as endpoint. Tradwife leads toward **Comparison Culture** and **Stay-at-home Girlfriend (SAHG)** — the softened version, where the ideology is still aspirational rather than terminal.
+  The most revealing structural feature is the mirror relationship with **Looksmaxxing** and **Sigma Male** — the male-side mechanisms that run through the same **SMV** framework. **Looksmaxxing** optimises the body for the market; **Sigma Male** reframes social exclusion as chosen superiority; **Tradwife** optimises domestic performance for the same market. The entry point is the same node across all three. What differs is the direction of the consequence path. **Looksmaxxing** leads toward **Blackpill** — the ideology that appearance is destiny — and **Body Dysmorphic Disorder**. **Tradwife** leads toward **Comparison Culture** and **Stay-at-home Girlfriend (SAHG)** — the softened version, where the ideology is still aspirational rather than terminal.
 
   **Provider** is the structural counterpart that the graph positions as a co-mechanism: Tradwife and Provider are a paired set, two roles in the same transaction. Remove one, and the other loses its definition. The connection to **Highlight Reel** is equally structural: the tradwife's domestic scenes are produced content. The kitchen is a set. The submission is a format.
 
@@ -41,7 +41,7 @@ semantic_landscape: |
 
 **Literal meaning:** **Tradwife** — from *traditional wife* — describes women who publicly embrace and promote a domestic, homemaking role as their primary identity: cooking, cleaning, child-rearing, and deference to a male **provider**, presented as a deliberate, values-driven lifestyle choice rather than economic necessity. Most tradwives are also influencers: content creators who document and monetise this domestic life through YouTube, TikTok, and Instagram — reaching audiences of hundreds of thousands to millions. The aesthetic is curated, the lighting is soft, and the platform is a business.
 
-**Origin:** The term entered online discourse around 2018–2019, associated with accounts on Instagram, YouTube, and later TikTok that presented aestheticised domesticity as a counter-cultural statement against feminist career culture. Researchers including Annie Kelly and Adrienne Russell have documented how tradwife content draws simultaneously on nostalgic aesthetics, [[Purity Culture|Christian traditionalism]], and white nationalist ideology — with varying degrees of explicitness across different accounts. The same [[SMV (Sexual Market Value)|SMV logic]] that structures [[Manosphere]] content for men operates here: the tradwife optimises her femininity, domesticity, and deference to maximise her value as a mate — the female route through the same market logic that drives [[Looksmaxxing]]. [[Ging-Tradwife-2019|Ging (2019)]] documents how this ideological ecosystem produces mutually reinforcing content categories across gender lines.
+**Origin:** The term entered online discourse around 2018–2019, associated with accounts on Instagram, YouTube, and later TikTok that presented aestheticised domesticity as a counter-cultural statement against feminist career culture. Researchers including Annie Kelly and Adrienne Russell have documented how tradwife content draws simultaneously on nostalgic aesthetics, [[Purity Culture|Christian traditionalism]], and white nationalist ideology — with varying degrees of explicitness across different accounts. The same [[SMV (Sexual Market Value)|SMV logic]] that structures [[Manosphere]] content for men operates here: the tradwife optimises her femininity, domesticity, and deference to maximise her value as a mate — the female route through the same market logic that drives [[Looksmaxxing]] and defines [[Sigma Male]] — different performances, the same underlying framework. [[Ging-Tradwife-2019|Ging (2019)]] documents how this ideological ecosystem produces mutually reinforcing content categories across gender lines.
 
 ![](tradwife.jpg)
 <small>*By Narrative Typographer Marieke de Vogel*</small>
@@ -54,7 +54,7 @@ semantic_landscape: |
 
 **Why This Matters:** **Tradwife** makes visible the contradiction between form and content — a rejection of modern values distributed through the most modern available infrastructure. The influencer who monetises submission is also the entrepreneur who built a brand. Once you see the platform economy behind the aesthetic, the "return to tradition" is legible as a content category.
 
-**See also:** [[Provider]] · [[SMV (Sexual Market Value)]] · [[Womanosphere]] · [[Manosphere]] · [[Highlight Reel]] · [[Stay-at-home Girlfriend (SAHG)]] · [[Purity Culture]] · [[Looksmaxxing]] · [[Wellness-to-Alt-Right Pipeline]]
+**Relevant terms:** [[Provider]] · [[SMV (Sexual Market Value)]] · [[Womanosphere]] · [[Manosphere]] · [[Highlight Reel]] · [[Stay-at-home Girlfriend (SAHG)]] · [[Purity Culture]] · [[Looksmaxxing]] · [[Wellness-to-Alt-Right Pipeline]] · [[Sigma Male]]
 
 ---
 
@@ -65,16 +65,5 @@ semantic_landscape: |
 - [With the demands of modern life, some women are drawn to the 'tradwives' movement](https://www.uva.nl/en/shared-content/faculteiten/en/faculteit-der-maatschappij-en-gedragswetenschappen/news/2024/07/tradwives.html) — Universiteit van Amsterdam (2024)
 - [What Is a 'Tradwife' and How Does It Differ from Stay-at-Home Moms?](https://www.parents.com/tradwife-meaning-and-why-its-controversial-8656603) — *Parents* magazine (2024)
 - [The Real Problem With Tradwives](https://www.vogue.com/article/problem-with-tradwives) — *Vogue* (2024)
-
----
-
-**Navigation**
-
-**Layer:** Mechanism — the performance of domesticity as identity, brand, and ideological position
-
-**Cause:** [[SMV (Sexual Market Value)]] · [[Womanosphere]] · [[Manosphere]] · [[Purity Culture]]
-**Mechanism:** [[Provider]] · [[Highlight Reel]] · [[Looksmaxxing]]
-**Consequence:** [[Comparison Culture]] · [[Stay-at-home Girlfriend (SAHG)]] · [[Wellness-to-Alt-Right Pipeline]]
-**Reaction:** [[Deinfluencing]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

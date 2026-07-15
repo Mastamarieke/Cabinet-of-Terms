@@ -54,7 +54,7 @@ At the extreme end: **De Coninck** (2026) documents AI-generated personas posing
 
 **Why This Matters:** The virtual influencer makes visible what the [[Influencer]] form always contained: trust is the product. The virtual influencer makes it explicit — by engineering trust directly, without a person involved.
 
-**See also:** [[Influencer]] · [[Parasocial Relationship]] · [[Highlight Reel]] · [[Recommender Systems]] · [[Comparison Culture]] · [[Deepfake]] · [[Catfishing]] · [[Synthetic Generation]] · [[Deinfluencing]]
+**Relevant terms:** [[Influencer]] · [[Parasocial Relationship]] · [[Highlight Reel]] · [[Recommender Systems]] · [[Comparison Culture]] · [[Deepfake]] · [[Catfishing]] · [[Synthetic Generation]] · [[Deinfluencing]]
 
 ---
 
@@ -64,16 +64,5 @@ At the extreme end: **De Coninck** (2026) documents AI-generated personas posing
 - [Unreal influence: Leveraging AI in influencer marketing](https://doi.org/10.1108/EJM-12-2019-0949) — Sands, S., Campbell, C.L., Plangger, K., & Ferraro, C. (2022). *European Journal of Marketing*
 - [Sexy AI-influencers zijn niet zo onschuldig als ze lijken](https://www.trouw.nl/redactie/AI_influencers/) — De Coninck, R. (2026). *Trouw*
 - [Top virtual influencers directory](https://virtualhumans.org) — VirtualHumans.org (n.d.)
-
----
-
-**Navigation**
-
-**Layer:** Mechanism — the persona engineered to convert automatic social trust into brand influence
-
-**Cause:** [[Influencer]] · [[Synthetic Generation]] · [[Attention Economy]] · [[Recommender Systems]]
-**Mechanism:** [[Parasocial Relationship]] · [[Highlight Reel]]
-**Consequence:** [[Comparison Culture]] · [[Catfishing]] · [[Body Dysmorphic Disorder]]
-**Reaction:** [[Deinfluencing]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

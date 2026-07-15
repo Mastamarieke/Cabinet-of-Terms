@@ -31,7 +31,7 @@ related_reaction:
 
 **Why This Matters:** **AI dependency** is visible in retrospect, not in advance. The moment it becomes legible is usually the moment the tool is unavailable, the output is wrong, or the skill is needed and gone.
 
-**See also:** [[Cognitive Offloading]] · [[Deskilling]] · [[AI Hallucination]] · [[Sycophancy (AI)]] · [[AI Literacy]]
+**Relevant terms:** [[Cognitive Offloading]] · [[Deskilling]] · [[AI Hallucination]] · [[Sycophancy (AI)]] · [[AI Literacy]]
 
 ---
 **Read more:**

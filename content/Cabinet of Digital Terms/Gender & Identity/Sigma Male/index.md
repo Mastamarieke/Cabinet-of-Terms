@@ -22,13 +22,15 @@ related_reaction:
 entry_image: sigma-male.jpg
 entry_image_caption: "By the Narrative Typographer Anne-Marie Bruinsma"
 semantic_landscape: |
-  In the semantic landscape of online masculinity discourse, the sigma male occupies a **structurally paradoxical position**. The term clusters tightly around the very **dominance hierarchy** it claims to leave behind — the ladder of alpha and beta men ranked by status, attractiveness, and social power. The sigma is not a departure from this ladder. **It is an additional rung.**
+  In the **semantic landscape** of **online masculinity discourse**, the **Sigma Male** occupies a **structurally paradoxical position** within the **Gender & Identity** cluster — the cluster that maps how digital culture produces, maintains, and monetises gender roles. The term clusters tightly around the very **dominance hierarchy** it claims to leave behind — the ladder of alpha and beta men ranked by status, attractiveness, and social power. The sigma is not a departure from this ladder. **It is an additional rung.**
 
   The network makes visible what the term cannot say about itself. The **alpha male** is the gravitational center: sigma is defined as what alpha cannot quite be — unconstrained, solitary, indifferent to validation. But the comparison is doing all the work. Remove the alpha from the picture, and the sigma loses its meaning entirely. **The transcendence is borrowed.**
 
-  The sigma worldview requires a counterpart: the **passive mass** who has not woken up, who follows scripts, who cannot see the system for what it is. This sleepwalking figure populates the same discourse under a different name — the **background character** in someone else's game, the one who never asks questions. The two concepts produce each other. The network does not show two separate ideas. **It shows the two poles of a single worldview.**
+  The sigma worldview requires a counterpart: the **passive mass** who has not woken up, who follows scripts, who cannot see the system for what it is. This sleepwalking figure populates the same discourse under a different name — **NPC**, the non-player character, the one who moves through life without independent will and never asks questions. The two concepts produce each other. The network does not show two separate ideas. **It shows the two poles of a single worldview.**
 
-  What the graph also makes visible: the men who reject the system entirely, and those who feel permanently defeated by it, are downstream of the same logic. All three positions — the **lone wolf** who transcends the game, the man who walks away from it, the one who lost — respond to the same underlying structure: the hierarchy, the ranking, the **market of desirability**. They differ only in how the response is framed. The network reveals that **they inhabit the same landscape, viewed from different emotional positions.**
+  What the graph also makes visible: the men who reject the system entirely, and those who feel permanently defeated by it, are downstream of the same logic. **MGTOW** — men who walk away from the hierarchy rather than claim to transcend it — and **Incel** — men who conclude the market has closed them out permanently — all respond to the same underlying structure: the hierarchy, the ranking, the **market of desirability**. They differ only in how the response is framed. The network reveals that **they inhabit the same landscape, viewed from different emotional positions.**
+
+  The graph also shows what sigma discourse does not say about itself: the same **SMV** logic that produces the sigma male produces **Tradwife** — the female route through the same market. Different performance, same underlying framework. The network connects them; the discourse keeps them apart.
 ---
 
 ***He does not need the hierarchy. He is above it. He is also extremely online.***
@@ -49,7 +51,7 @@ semantic_landscape: |
 **Why This Matters:** **Sigma male** makes visible how status hierarchies generate their own apparent escape routes — which turn out to be additional rungs on the same ladder. The critique of the hierarchy becomes a position within it.
 
 
-**See also:** [[Alpha Male]] · [[SMV (Sexual Market Value)]] · [[MGTOW]] · [[NPC]] · [[Manosphere]]
+**Relevant terms:** [[Alpha Male]] · [[SMV (Sexual Market Value)]] · [[MGTOW]] · [[NPC]] · [[Manosphere]] · [[Tradwife]] · [[Looksmaxxing]]
 
 ---
 

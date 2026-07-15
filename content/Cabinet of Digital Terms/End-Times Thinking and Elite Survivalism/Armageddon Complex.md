@@ -33,7 +33,7 @@ Lee Quinby’s _Anti-Apocalypse_ (1994) further argues that apocalyptic narrat
 
 **Why This Matters:** **Armageddon complex** names the structural alignment between apocalyptic belief and power accumulation. Once you see the alignment as structural rather than conspiratorial, you can assess any claim of civilisational emergency by asking: what power does this emergency justify accumulating, and under what conditions would that accumulation be reversed?
 
-**See also:** [[Millenarianism]] · [[Endtime Fascism]] · [[Muskism]] · [[Disaster Nationalism]] · [[Doomerism]]
+**Relevant terms:** [[Millenarianism]] · [[Endtime Fascism]] · [[Muskism]] · [[Disaster Nationalism]] · [[Doomerism]]
 
 
 ---

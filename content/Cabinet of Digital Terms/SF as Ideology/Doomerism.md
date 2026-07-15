@@ -34,7 +34,7 @@ related_reaction:
 
 **Why This Matters:** **Doomerism** names a political position disguised as a prediction. Once you see the political consequences of widespread fatalism — the inaction it produces — the question shifts from "is the doom probable?" to "who benefits from everyone believing it is inevitable?" That question points directly to [[Doom Trolling]]: where doomerism is a sincere affective state, doom trolling is the deliberate strategy of spreading the same narratives for market gain. The line between them is kept intentionally unclear.
 
-**See also:** [[Longtermism]] · [[Skynet]] · [[Digital Frankenstein]] · [[AGI]] · [[AI Literacy]] · [[Doom Trolling]]
+**Relevant terms:** [[Longtermism]] · [[Skynet]] · [[Digital Frankenstein]] · [[AGI]] · [[AI Literacy]] · [[Doom Trolling]]
 
 
 ---

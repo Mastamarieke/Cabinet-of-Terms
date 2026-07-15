@@ -37,7 +37,7 @@ The **Digital Frankenstein** narrative recurs throughout the history of computin
 
 **Why This Matters:** **Digital Frankenstein** makes visible how science fiction frames shape the reception of real technical developments. Once you can identify the narrative being deployed, you can ask: who is using it, to what end, and what is it displacing from view?
 
-**See also:** [[Skynet]] · [[AGI]] · [[Doomerism]] · [[AI Literacy]] · [[Red Teamer]]
+**Relevant terms:** [[Skynet]] · [[AGI]] · [[Doomerism]] · [[AI Literacy]] · [[Red Teamer]]
 
 ---
 **Read more:**

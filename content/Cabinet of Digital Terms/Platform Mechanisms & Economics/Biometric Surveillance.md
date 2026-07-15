@@ -39,7 +39,7 @@ related_reaction:
 
 **Why This Matters:** **Biometric surveillance** makes the body readable. Once your face is a data point, your presence in a space generates a record you did not choose to create. The body is no longer private by default.
 
-**See also:** [[Surveillance Capitalism]] · [[Algorithmic Violence]] · [[Deadnaming]] · [[Brussels Effect]] · [[Microtargeting]]
+**Relevant terms:** [[Surveillance Capitalism]] · [[Algorithmic Violence]] · [[Deadnaming]] · [[Brussels Effect]] · [[Microtargeting]]
 
 
 ---

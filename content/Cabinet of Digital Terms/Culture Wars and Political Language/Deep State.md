@@ -32,7 +32,7 @@ related_reaction:
 
 **Why This Matters:** **Deep state** is a case study in how a useful analytical concept becomes unusable through semantic capture. The legitimate concern — unaccountable bureaucratic power — gets absorbed into conspiracy discourse, making it harder to address on its own terms.
 
-**See also:** [[QAnon]] · [[Red Pill]] · [[Flood the Zone]] · [[Great Replacement]] · [[Deplatforming]]
+**Relevant terms:** [[QAnon]] · [[Red Pill]] · [[Flood the Zone]] · [[Great Replacement]] · [[Deplatforming]]
 
 
 ---
@@ -40,16 +40,5 @@ related_reaction:
 - [The Deep State: The Fall of the Constitution and the Rise of a Shadow Government](https://www.amazon.com/Deep-State-Constitution-Shadow-Government/dp/0525428348) — Mike Lofgren (2016). _Viking_
 - [The Conspiracy Theory Handbook](https://www.climatechangecommunication.org/conspiracy-theory-handbook/) — Lewandowsky, S. & Cook, J. (2020). *George Mason University*
 
-
----
-
-**Navigation**
-
-**Layer:** Mechanism
-
-**Cause:** [[Red Pill]] · [[QAnon]]
-**Mechanism:** [[Flood the Zone]] · [[Great Replacement]]
-**Consequence:** [[QAnon]] · [[Dark MAGA]]
-**Reaction:** [[Deplatforming]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

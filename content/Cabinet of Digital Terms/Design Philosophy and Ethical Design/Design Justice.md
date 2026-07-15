@@ -32,7 +32,7 @@ related_reaction:
 
 **Why This Matters:** **Design justice** makes the default visible. Every interface has a default user — and that default is rarely unmarked. Once you see it, the question shifts from "is this accessible?" to "who built this for whom, and who paid the cost of that choice?"
 
-**See also:** [[Participatory Design]] · [[VSD (Value Sensitive Design)]] · [[Fair Patterns]] · [[Adversarial Design]] · [[Inclusive Design]]
+**Relevant terms:** [[Participatory Design]] · [[VSD (Value Sensitive Design)]] · [[Fair Patterns]] · [[Adversarial Design]] · [[Inclusive Design]]
 
 
 ---

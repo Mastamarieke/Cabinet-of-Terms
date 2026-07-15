@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Prompt engineer** names the temporary value of a translation skill that exists because AI systems are not yet transparent enough to require no translation. The profession's lifespan is a measure of how fast that transparency improves.
 
-**See also:** [[Vibe Coder]] · [[AI Dependency]] · [[Cognitive Offloading]] · [[Deskilling]] · [[AI Literacy]]
+**Relevant terms:** [[Vibe Coder]] · [[AI Dependency]] · [[Cognitive Offloading]] · [[Deskilling]] · [[AI Literacy]]
 
 
 ---

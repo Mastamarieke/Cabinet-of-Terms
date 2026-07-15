@@ -29,7 +29,7 @@ related_reaction: []
 
 **Why This Matters:** Once you know BDD as the clinical consequence of aesthetic optimisation culture, "it's just a filter" stops being a complete sentence. The platform distributing beauty filters is also distributing the conditions for pathological outcomes — at scale, without knowing who is on the other end.
 
-**See also:** [[Beauty Filter]] · [[Comparison Culture]] · [[Looksmaxxing]] · [[Highlight Reel]] · [[Clean Girl Aesthetic]]
+**Relevant terms:** [[Beauty Filter]] · [[Comparison Culture]] · [[Looksmaxxing]] · [[Highlight Reel]] · [[Clean Girl Aesthetic]]
 
 
 ---

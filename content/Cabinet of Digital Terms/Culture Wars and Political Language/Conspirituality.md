@@ -32,7 +32,7 @@ related_reaction:
 
 **Why This Matters:** **Conspirituality** makes visible that the path to extremism does not always run through explicit political content. The yoga class, the health food shop, the essential oils community — these are documented entry points. Once you know the shared structure, you can read the pathway.
 
-**See also:** [[Wellness-to-Alt-Right Pipeline]] · [[Purity Culture]] · [[QAnon]] · [[Social Contagion]] · [[Deplatforming]]
+**Relevant terms:** [[Wellness-to-Alt-Right Pipeline]] · [[Purity Culture]] · [[QAnon]] · [[Social Contagion]] · [[Deplatforming]]
 
 
 ---
@@ -40,16 +40,5 @@ related_reaction:
 - [The Emergence of Conspirituality](https://doi.org/10.1080/13537903.2011.539846) — Ward, C. & Voas, D. (2011). *Journal of Contemporary Religion*
 - [Conspirituality: How New Age Conspiracy Theories Became a Health Threat](https://www.publicaffairsbooks.com/titles/derek-beres/conspirituality/9781541703001/) — Beres, D., Remski, M., & Walker, J. (2023). _PublicAffairs_.
 
-
----
-
-**Navigation**
-
-**Layer:** Mechanism
-
-**Cause:** [[Wellness-to-Alt-Right Pipeline]] · [[QAnon]]
-**Mechanism:** [[Purity Culture]] · [[Social Contagion]]
-**Consequence:** [[Great Replacement]] · [[QAnon]]
-**Reaction:** [[Deplatforming]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

@@ -32,7 +32,7 @@ related_reaction:
 
 **Why This Matters:** **Dehumanization** names the mechanism, not just the outcome. Once you know the sequence — dehumanising language, reduced inhibitions, escalated harm — the presence of dehumanising rhetoric in mainstream discourse is not merely offensive. It is a stage in a process.
 
-**See also:** [[Subhuman]] · [[Groomer]] · [[Social Contagion]] · [[Great Replacement]] · [[Deplatforming]]
+**Relevant terms:** [[Subhuman]] · [[Groomer]] · [[Social Contagion]] · [[Great Replacement]] · [[Deplatforming]]
 
 
 ---
@@ -40,16 +40,5 @@ related_reaction:
 - [Selective Moral Disengagement in the Exercise of Moral Agency](https://centrodocumentacion.psicosocial.net/wp-content/uploads/2003/01/bandura-selective-moral-disengagement-in-the-exercise-of-moral-agency.pdf?utm_source=chatgpt.com) — Bandura, A. (2010). *Journal of Moral Education, 31_(2), 101–119.*
 - [Becoming Evil](https://global.oup.com/academic/product/becoming-evil-9780195314564) — Waller, J. (2002). *Oxford University Press*
 
-
----
-
-**Navigation**
-
-**Layer:** Mechanism
-
-**Cause:** [[Subhuman]] · [[Groomer]]
-**Mechanism:** [[Social Contagion]] · [[Woke Mind Virus]]
-**Consequence:** [[Subhuman]] · [[Great Replacement]]
-**Reaction:** [[Deplatforming]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

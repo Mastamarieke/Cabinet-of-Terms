@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** Tierlist / S-Tier makes visible how game formats carry game assumptions into non-game territory. Once you see the format as imported rather than natural, you can ask: what assumptions about measurability and comparability does this ranking format bring with it — and are those assumptions appropriate to this subject?
 
-**See also:** [[Gamification Creep]] · [[Aurafarming]] · [[Looksmaxxing]] · [[Comparison Culture]] · [[SMV (Sexual Market Value)]]
+**Relevant terms:** [[Gamification Creep]] · [[Aurafarming]] · [[Looksmaxxing]] · [[Comparison Culture]] · [[SMV (Sexual Market Value)]]
 
 
 ---

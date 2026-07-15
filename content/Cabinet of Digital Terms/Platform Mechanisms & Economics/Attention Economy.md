@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** The **attention economy** is the foundational cause of most of this cluster. Once you understand that platforms are paid for your attention rather than your satisfaction, every design choice becomes legible as a revenue decision rather than a user experience decision.
 
-**See also:** [[Attention Harvesting]] · [[Dopamine Feedback Loops]] · [[Recommender Systems]] · [[Surveillance Capitalism]] · [[Calm Technology]] · [[Ragebaiting]]
+**Relevant terms:** [[Attention Harvesting]] · [[Dopamine Feedback Loops]] · [[Recommender Systems]] · [[Surveillance Capitalism]] · [[Calm Technology]] · [[Ragebaiting]]
 
 
 ---

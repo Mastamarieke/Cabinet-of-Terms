@@ -34,7 +34,7 @@ AI turns **personal branding** into a semi-automated form of self-presentation: 
 
 **Why This Matters:** **Personal branding** makes visible what happens when market logic is applied to identity. Once you see yourself as a product, every interaction becomes a brand moment, every decision becomes a positioning choice. That is one way to live. Knowing that it is a choice — not a necessity — is useful.
 
-**See also:** [[Curated Life]] · [[Highlight Reel]] · [[Hustle Culture]] · [[Imposter Syndrome]] · [[Creator Economy]]
+**Relevant terms:** [[Curated Life]] · [[Highlight Reel]] · [[Hustle Culture]] · [[Imposter Syndrome]] · [[Creator Economy]]
 
 
 ---

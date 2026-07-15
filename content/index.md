@@ -92,23 +92,6 @@ Every entry in this vault follows the same structure. Understanding it helps you
 
 ---
 
-## Analytical layers
-
-Every term has a primary position in the analytical field. This position determines how it connects to other terms in the navigation block.
-
-**Cause** -  the structural condition that makes the phenomenon possible. Example: Surveillance Capitalism is the cause that enables Microtargeting.
-
-**Mechanism** -  how the phenomenon operates in practice. Example: Dopamine Feedback Loops is the mechanism through which Attention Harvesting works.
-
-**Consequence** - what the phenomenon produces in users, society, or systems. Example: Cognitive Surrender is a consequence of sustained AI Dependency.
-
-**Reaction** - counter-practices, design responses, and resistance. Example: Unblackboxing is a reaction to the Black Box.
-
-Each entry's navigation block at the bottom lists related terms per layer - making the vault navigable as a network, not just as a list.
-
-
----
-
 
 ## Project Digitale Alertheid — Conversation Pieces
 

@@ -34,7 +34,7 @@ An American study by the USC Annenberg Inclusion Initiative found that popular p
 
 **Why This Matters:** **Podcast-bro** names a specific media format and its ideological function. Once you know the structural features — long-form, unedited, parasocial — you can analyse any podcast host through the same lens, regardless of their explicit political positions.
 
-**See also:** [[Manosphere]] · [[Parasocial Relationship]] · [[Creator Economy]] · [[Top 1% Man]] · [[Recommender Systems]]
+**Relevant terms:** [[Manosphere]] · [[Parasocial Relationship]] · [[Creator Economy]] · [[Top 1% Man]] · [[Recommender Systems]]
 
 
 ---
@@ -44,16 +44,5 @@ An American study by the USC Annenberg Inclusion Initiative found that popular p
 - [Inequality in Popular Podcasts? An Examination of Gender & Race/Ethnicity](https://assets.uscannenberg.org/docs/aii-inequality-Podcasts-2025-11-06.pdf). Smith, S. L., & the Annenberg Inclusion Initiative. (2025).
 - [The Future of Podcasting is Women](https://www.acast.com/en-gb/blog/the-future-of-podcasting-is-women). Davies, M., & Aveillan, J. (2026). Acast.
 
-
----
-
-**Navigation**
-
-**Layer:** Mechanism
-
-**Cause:** [[Manosphere]] · [[Creator Economy]]
-**Mechanism:** [[Top 1% Man]] · [[High Value Man]]
-**Consequence:** [[Hustle Culture]] · [[Incel]]
-**Reaction:** [[Deplatforming]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

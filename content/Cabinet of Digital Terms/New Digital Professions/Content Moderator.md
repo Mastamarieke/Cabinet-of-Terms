@@ -32,7 +32,7 @@ related_reaction:
 
 **Why This Matters:** Content moderation makes visible the human infrastructure behind platform cleanliness. The feed that looks orderly was made orderly by people whose work the platform does not publicly acknowledge. Once you know that, "automated moderation" is a different kind of sentence.
 
-**See also:** [[Algospeak]] · [[Deplatforming]] · [[Recommender Systems]] · [[Fact Checker]]
+**Relevant terms:** [[Algospeak]] · [[Deplatforming]] · [[Recommender Systems]] · [[Fact Checker]]
 
 
 ---

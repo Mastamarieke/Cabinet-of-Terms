@@ -31,7 +31,7 @@ related_reaction:
 
 **Why this sentence matters:** "500 million people" is a number that does work in the sentence beyond description. Once you see scale functioning as argument, you can ask the supplementary question that the number forecloses: and did those 500 million people know what they were contributing to?
 
-**See also:** [[Surveillance Capitalism]] · [["Adding amplitude to war is obviously an issue."]] · [["I could definitely see it."]] · [[Microtargeting]]
+**Relevant terms:** [[Surveillance Capitalism]] · [["Adding amplitude to war is obviously an issue."]] · [["I could definitely see it."]] · [[Microtargeting]]
 
 
 ---

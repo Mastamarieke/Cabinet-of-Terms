@@ -32,7 +32,7 @@ Neave et al. (2018) document that **digital hoarding** produces anxiety, cogniti
 **Why This Matters**
 Once you see **digital hoarding** as a design outcome rather than a personal failure, you see that the architecture of unlimited storage and easy accumulation produces the condition — and that the solution is not willpower but friction by design.
 
-**See also:** [[Digital Overload]] · [[Cognitive Surrender]] · [[Technostress|Technostress]]
+**Relevant terms:** [[Digital Overload]] · [[Cognitive Surrender]] · [[Technostress|Technostress]]
 
 
 ---

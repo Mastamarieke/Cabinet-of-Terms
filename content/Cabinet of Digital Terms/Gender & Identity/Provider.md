@@ -31,7 +31,7 @@ related_reaction:
 
 **Why This Matters:** **Provider** names the reduction of care to transaction. Once you see the frame, a great deal of **manosphere** relationship advice becomes legible as market strategy rather than relationship guidance — and the human cost of that reduction becomes visible.
 
-**See also:** [[Tradwife]] · [[High Value Man]] · [[SMV (Sexual Market Value)]] · [[Stay-at-home Girlfriend (SAHG)]] · [[Manosphere]]
+**Relevant terms:** [[Tradwife]] · [[High Value Man]] · [[SMV (Sexual Market Value)]] · [[Stay-at-home Girlfriend (SAHG)]] · [[Manosphere]]
 
 
 ---
@@ -39,16 +39,5 @@ related_reaction:
 - [Angry White Men](https://www.publicaffairsbooks.com/titles/michael-kimmel/angry-white-men/9781568589619/) — Kimmel, M. (2013). *PublicAffairs*
 - [Alphas, Betas, and Incels](https://doi.org/10.1177/1097184x17706401) — Ging, D. (2019). *Men and Masculinities*
 
-
----
-
-**Navigation**
-
-**Layer:** Mechanism
-
-**Cause:** [[SMV (Sexual Market Value)]] · [[Manosphere]]
-**Mechanism:** [[Tradwife]] · [[High Value Man]]
-**Consequence:** [[Stay-at-home Girlfriend (SAHG)]]
-**Reaction:** [[Womanosphere]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

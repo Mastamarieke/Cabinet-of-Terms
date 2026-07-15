@@ -32,7 +32,7 @@ related_reaction:
 
 **Why This Matters:** **Red pill** in the gender context makes visible the specific mechanism of **manosphere** radicalisation: a metaphor for seeing clearly becomes a framework for seeing women as adversaries and institutions as enemies. The clarity is real. The picture it produces is constructed.
 
-**See also:** [[SMV (Sexual Market Value)]] · [[Hypergamy]] · [[Blackpill]] · [[Incel]] · [[Manosphere]]
+**Relevant terms:** [[SMV (Sexual Market Value)]] · [[Hypergamy]] · [[Blackpill]] · [[Incel]] · [[Manosphere]]
 
 
 ---
@@ -42,16 +42,5 @@ related_reaction:
 - [The Red Pill](https://www.imdb.com/title/tt3686998/). Cassie Jaye. (2016).*IMD Productions*
 - [Taking the Red Pill: Conspiracy Theories, Gender, and the ‘Manosphere’](https://research-information.bris.ac.uk/en/publications/taking-the-red-pill-conspiracy-theories-gender-and-the-elusive-ep/). Van Veeren, E. S. (2025). *International Feminist Journal of Politics*
 
-
----
-
-**Navigation**
-
-**Layer:** Mechanism
-
-**Cause:** [[SMV (Sexual Market Value)]] · [[Manosphere]]
-**Mechanism:** [[Blackpill]] · [[Hypergamy]]
-**Consequence:** [[Incel]] · [[MGTOW]]
-**Reaction:** [[Deplatforming]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

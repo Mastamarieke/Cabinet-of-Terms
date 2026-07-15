@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Deceptive design** makes the vocabulary shift analytically significant. The same interface can be described as a dark pattern (a design criticism), a **deceptive design** (a legal category), or a business feature (a commercial decision). Which frame applies determines what consequences follow.
 
-**See also:** [[Dark Patterns]] · [[Fair Patterns]] · [[Nudging]] · [[VSD (Value Sensitive Design)]] · [[Vendor Lock-in]]
+**Relevant terms:** [[Dark Patterns]] · [[Fair Patterns]] · [[Nudging]] · [[VSD (Value Sensitive Design)]] · [[Vendor Lock-in]]
 
 
 ---

@@ -32,7 +32,7 @@ related_reaction:
 
 **Why This Matters:** **Participatory design** makes the question of authorship visible. Every designed system has authors. The question is whether the people most affected by the design had a hand in making it — or whether participation was performed to produce consent.
 
-**See also:** [[Design Justice]] · [[VSD (Value Sensitive Design)]] · [[Fair Patterns]] · [[Adversarial Design]]
+**Relevant terms:** [[Design Justice]] · [[VSD (Value Sensitive Design)]] · [[Fair Patterns]] · [[Adversarial Design]]
 
 
 ---

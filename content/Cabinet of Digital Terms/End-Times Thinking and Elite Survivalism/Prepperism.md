@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Prepperism** names an identity structure built on anticipated catastrophe. Once you see the identity investment — not just the practical preparation — you can ask: what would happen to the **prepperism** community if the collapse became evidently unlikely? And who benefits from maintaining the sense of imminence?
 
-**See also:** [[Millenarianism]] · [[Doomerism]] · [[Doomsday Prep for the Super-Rich]] · [[Disaster Nationalism]] · [[Fortress Futurism]]
+**Relevant terms:** [[Millenarianism]] · [[Doomerism]] · [[Doomsday Prep for the Super-Rich]] · [[Disaster Nationalism]] · [[Fortress Futurism]]
 
 
 ---

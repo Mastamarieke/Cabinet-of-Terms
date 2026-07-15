@@ -32,7 +32,7 @@ related_reaction:
 
 **Why This Matters:** **FOBO** names the cost of infinite optionality. Once you see it as a structural feature rather than a personal weakness, the inability to decide becomes a different kind of problem — one that can be addressed structurally, not just individually.
 
-**See also:** [[FOMO]] · [[Comparison Culture]] · [[Recommender Systems]] · [[Curated Life]] · [[JOMO]]
+**Relevant terms:** [[FOMO]] · [[Comparison Culture]] · [[Recommender Systems]] · [[Curated Life]] · [[JOMO]]
 
 
 ---

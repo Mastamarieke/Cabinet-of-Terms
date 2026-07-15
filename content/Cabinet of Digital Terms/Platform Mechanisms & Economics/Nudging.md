@@ -32,7 +32,7 @@ related_reaction:
 
 **Why This Matters:** **Nudging** makes visible that the environment you make choices in was designed. The default was chosen by someone. The order of options was decided by someone. The colour of the button was tested by someone. Once you see the architecture, the choice looks different.
 
-**See also:** [[Dark Patterns]] · [[Deceptive Design]] · [[Fair Patterns]] · [[VSD (Value Sensitive Design)]] · [[Cognitive Surrender]]
+**Relevant terms:** [[Dark Patterns]] · [[Deceptive Design]] · [[Fair Patterns]] · [[VSD (Value Sensitive Design)]] · [[Cognitive Surrender]]
 
 
 ---

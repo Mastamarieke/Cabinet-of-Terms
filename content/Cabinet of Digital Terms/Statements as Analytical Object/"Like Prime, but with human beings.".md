@@ -31,7 +31,7 @@ related_reaction:
 
 **Why this sentence matters:** Once you hear "like Prime, but with human beings," every logistics metaphor applied to people becomes audible as a category choice. The language is not neutral. It encodes an institutional framework. The sentence revealed it.
 
-**See also:** [[Dehumanization]] · [[Algorithmic Violence]] · [[Surveillance Capitalism]] · [[Flood the Zone]]
+**Relevant terms:** [[Dehumanization]] · [[Algorithmic Violence]] · [[Surveillance Capitalism]] · [[Flood the Zone]]
 
 
 ---

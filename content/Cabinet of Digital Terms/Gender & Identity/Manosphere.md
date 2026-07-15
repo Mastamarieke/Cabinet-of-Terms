@@ -35,7 +35,7 @@ Influencers commonly associated with the **manosphere** include Andrew Tate, who
 
 **Why This Matters:** **Manosphere** names an ecosystem, not a monolith. Once you see it as an ecosystem — with entry points, graduation pathways, and community structures — "he watches those videos" becomes a different kind of observation.
 
-**See also:** [[SMV (Sexual Market Value)]] · [[Red Pill]] · [[Incel]] · [[Blackpill]] · [[Recommender Systems]]
+**Relevant terms:** [[SMV (Sexual Market Value)]] · [[Red Pill]] · [[Incel]] · [[Blackpill]] · [[Recommender Systems]]
 
 
 ---
@@ -47,16 +47,5 @@ Influencers commonly associated with the **manosphere** include Andrew Tate, who
 - [Men, Masculinities and the Media](https://www.researchgate.net/publication/301625585_Men_Masculinity_and_the_Media) Craig, S. (2018). *SAGE Publication*
 -
 
-
----
-
-**Navigation**
-
-**Layer:** Cause
-
-**Cause:** [[Recommender Systems]] · [[Attention Economy]]
-**Mechanism:** [[SMV (Sexual Market Value)]] · [[Red Pill]]
-**Consequence:** [[Incel]] · [[Blackpill]] · [[Great Replacement]]
-**Reaction:** [[Deplatforming]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

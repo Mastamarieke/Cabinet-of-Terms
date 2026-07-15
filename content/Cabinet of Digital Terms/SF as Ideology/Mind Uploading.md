@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Mind uploading** makes visible how SF ideas enter serious discourse as aspirations rather than proposals — without the scrutiny that policy proposals require. Once you ask who would have access and at what cost, the universalist framing of "humanity transcending death" becomes legible as a class project.
 
-**See also:** [[Transhumanism]] · [[Neuralink]] · [[Brain-Computer Interface]] · [[The Singularity]] · [[Longtermism]]
+**Relevant terms:** [[Transhumanism]] · [[Neuralink]] · [[Brain-Computer Interface]] · [[The Singularity]] · [[Longtermism]]
 
 
 ---

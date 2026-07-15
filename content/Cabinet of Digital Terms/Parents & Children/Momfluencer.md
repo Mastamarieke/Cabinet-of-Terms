@@ -32,7 +32,7 @@ related_reaction:
 
 **Why This Matters:** **Momfluencer** makes visible the specific commercial structure in which a child's childhood becomes a content asset. The mother's labour is real; the child's exposure is not chosen. Once you see the business model, the family photo is also a product shot.
 
-**See also:** [[Sharenting]] · [[Family Vlogging]] · [[Kidfluencer]] · [[Creator Economy]] · [[Comparison Culture]]
+**Relevant terms:** [[Sharenting]] · [[Family Vlogging]] · [[Kidfluencer]] · [[Creator Economy]] · [[Comparison Culture]]
 
 
 ---

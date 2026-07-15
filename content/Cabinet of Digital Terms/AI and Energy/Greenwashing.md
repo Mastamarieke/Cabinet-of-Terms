@@ -31,7 +31,7 @@ related_reaction:
 
 **Why This Matters:** Once you know **greenwashing**, a press release is never only a press release. Pledges set in the future are not actions in the present. The gap between those two sentences is where scrutiny lives.
 
-**See also:** [[AI Energy Consumption]] · [[Carbon Footprint of AI]] · [[Externalized Costs]] · [[Nuclear Renaissance]] · [[Sacrifice Zones]]
+**Relevant terms:** [[AI Energy Consumption]] · [[Carbon Footprint of AI]] · [[Externalized Costs]] · [[Nuclear Renaissance]] · [[Sacrifice Zones]]
 
 
 ---

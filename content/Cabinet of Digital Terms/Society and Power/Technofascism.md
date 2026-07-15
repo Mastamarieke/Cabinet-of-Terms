@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Technofascism** names a political endpoint on a trajectory that is visible in present conditions. Once you have the term, the question is not whether it has arrived but at what point on the path from **Muskism** to **technofascism** we currently stand — and what governance structures, if any, are capable of interruption.
 
-**See also:** [[Muskism]] · [[Cybernetic Governance]] · [[Flood the Zone]] · [[Broligarchy]] · [[Brussels Effect]]
+**Relevant terms:** [[Muskism]] · [[Cybernetic Governance]] · [[Flood the Zone]] · [[Broligarchy]] · [[Brussels Effect]]
 
 
 ---

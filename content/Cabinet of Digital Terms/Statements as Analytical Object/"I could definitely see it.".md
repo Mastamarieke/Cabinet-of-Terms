@@ -30,7 +30,7 @@ related_reaction:
 
 **Why this sentence matters:** "I could definitely see it" is a phrase that does the work of an answer without being one. Once you recognise the structure, you can identify it wherever it appears — in investor calls, in regulatory hearings, in product announcements. The candid tone is the cover. The non-answer is the content.
 
-**See also:** [[Dual-Use Technology]] · [[Military-Industrial Complex]] · [[Obfuscation]] · [["Adding amplitude to war is obviously an issue."]]
+**Relevant terms:** [[Dual-Use Technology]] · [[Military-Industrial Complex]] · [[Obfuscation]] · [["Adding amplitude to war is obviously an issue."]]
 
 
 ---

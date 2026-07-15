@@ -32,7 +32,7 @@ related_reaction:
 
 **Why This Matters:** **Security theater** names the gap between the performance of security and its substance. Once you can identify the move — visible measure, low actual protection — you can ask of any security requirement: what does this actually prevent, and how was that evaluated?
 
-**See also:** [[Privacy Washing]] · [[Obfuscation]] · [[Brussels Effect]] · [[Dark Patterns]]
+**Relevant terms:** [[Privacy Washing]] · [[Obfuscation]] · [[Brussels Effect]] · [[Dark Patterns]]
 
 
 ---

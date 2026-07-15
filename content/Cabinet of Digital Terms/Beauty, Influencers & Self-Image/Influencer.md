@@ -34,7 +34,7 @@ related_reaction:
 
 **Why This Matters:** "**Influencer**" is a word that makes a commercial relationship sound like a friendship. Once you know that, the sponsored post is a different kind of sentence.
 
-**See also:** [[Fitfluencer]] · [[Highlight Reel]] · [[Curated Life]] · [[Comparison Culture]] · [[Deinfluencing]] · [[Mimetic Desire]] · [[Virtual Influencer]]
+**Relevant terms:** [[Fitfluencer]] · [[Highlight Reel]] · [[Curated Life]] · [[Comparison Culture]] · [[Deinfluencing]] · [[Mimetic Desire]] · [[Virtual Influencer]]
 
 
 ---

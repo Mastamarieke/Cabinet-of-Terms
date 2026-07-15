@@ -28,11 +28,11 @@ related_reaction:
 
 **The Appeal:** Incels address a real experience: loneliness, romantic rejection, and social isolation are genuinely painful, and the desire for community and explanation is entirely human. The original support community Alana created recognised this without ideology. Many people who identify with the term are primarily seeking belonging and understanding rather than political radicalism.
 
-**The Friction:** The ideological framework is the problem. [[SMV (Sexual Market Value)]] — attractiveness as a market hierarchy — is the conceptual foundation: incels are at the bottom of the market, and the market is rigged by female **hypergamy** and male competition. [[Blackpill]] is the terminus of the logic: if the hierarchy is biological and fixed, rejection is not circumstantial but permanent. [[Dehumanization]] — the denial of full humanity — applies here to women, who in hardcore **incel** ideology are reduced to gatekeepers of sexual access rather than persons. The connection to political violence is documented: multiple mass killings have been explicitly linked to **incel** ideology and framing. [[Deplatforming]] has removed the largest communities; migration to less moderated platforms is documented.
+**The Friction:** The ideological framework is the problem. [[SMV (Sexual Market Value)]] — attractiveness as a market hierarchy — is the conceptual foundation: incels are at the bottom of the market, and the market is rigged by female **hypergamy** and male competition. [[Blackpill]] is the terminus of the logic: if the hierarchy is biological and fixed, rejection is not circumstantial but permanent. [[Sigma Male]] is the fantasy exit from the same hierarchy — transcendence rather than defeat. Both positions are defined by the same market logic; they differ only in whether the response is claimed superiority or acknowledged exclusion. [[Dehumanization]] — the denial of full humanity — applies here to women, who in hardcore **incel** ideology are reduced to gatekeepers of sexual access rather than persons. The connection to political violence is documented: multiple mass killings have been explicitly linked to **incel** ideology and framing. [[Deplatforming]] has removed the largest communities; migration to less moderated platforms is documented.
 
 **Why This Matters:** **Incel** makes visible the transformation of a support community into an ideology — and the specific role that online platforms play in that transformation. The pain was real. The community became something that made it worse.
 
-**See also:** [[Blackpill]] · [[SMV (Sexual Market Value)]] · [[Manosphere]] · [[Dehumanization]] · [[Deplatforming]]
+**Relevant terms:** [[Blackpill]] · [[SMV (Sexual Market Value)]] · [[Manosphere]] · [[Dehumanization]] · [[Deplatforming]] · [[Sigma Male]]
 
 
 ---
@@ -43,16 +43,5 @@ related_reaction:
 - [Elliot Rodger and the Incel Movement](https://www.bbc.com/news/world-us-canada-43892189). BBC News. (2018).
 - [incels](https://www.wehuntedthemammoth.com/category/incels/). Futrelle, D. (n.d.).
 
-
----
-
-**Navigation**
-
-**Layer:** Consequence
-
-**Cause:** [[Manosphere]] · [[SMV (Sexual Market Value)]]
-**Mechanism:** [[Blackpill]] · [[Dehumanization]]
-**Consequence:** [[Blackpill]] · [[Great Replacement]]
-**Reaction:** [[Deplatforming]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

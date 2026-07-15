@@ -32,7 +32,7 @@ related_reaction:
 
 **Why This Matters:** **High value man** makes the market metaphor explicit where other masculinity frameworks keep it implicit. Once you see the language — value, investment, return — the relationship between self-improvement content and its commercial infrastructure becomes visible.
 
-**See also:** [[SMV (Sexual Market Value)]] · [[Top 1% Man]] · [[Provider]] · [[Hustle Culture]] · [[Manosphere]]
+**Relevant terms:** [[SMV (Sexual Market Value)]] · [[Top 1% Man]] · [[Provider]] · [[Hustle Culture]] · [[Manosphere]]
 
 
 ---
@@ -41,16 +41,5 @@ related_reaction:
 - [Self-Help Inc.](https://global.oup.com/academic/product/self-help-inc-9780195171006) — McGee, M. (2005). *Oxford University Press*
 - [_Dude, You’re a Fag: Masculinity and Sexuality in High School_](https://en.wikipedia.org/wiki/Dude%2C_You%27re_a_Fag). Pascoe, C. J. (2007).
 
-
----
-
-**Navigation**
-
-**Layer:** Mechanism
-
-**Cause:** [[SMV (Sexual Market Value)]] · [[Manosphere]]
-**Mechanism:** [[Top 1% Man]] · [[Provider]]
-**Consequence:** [[Hustle Culture]] · [[Comparison Culture]]
-**Reaction:** [[Podcast-bro]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

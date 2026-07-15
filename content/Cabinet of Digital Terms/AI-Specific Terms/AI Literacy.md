@@ -32,7 +32,7 @@ related_reaction:
 
 **Why This Matters:** **AI literacy** is the term that most directly determines whether the other terms in this cluster are legible. Without it, hallucination is just an error, sycophancy is just a feature, and dependency is just efficiency.
 
-**See also:** [[AI Hallucination]] · [[Sycophancy (AI)]] · [[AI Dependency]] · [[Cognitive Offloading]] · [[Deskilling]]
+**Relevant terms:** [[AI Hallucination]] · [[Sycophancy (AI)]] · [[AI Dependency]] · [[Cognitive Offloading]] · [[Deskilling]]
 
 
 ---

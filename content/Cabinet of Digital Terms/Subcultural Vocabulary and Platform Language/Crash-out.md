@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Crash-out** makes visible how emotional states become content in the **attention economy**. Once you see the content/event ambiguity, "I can't believe they actually did that" is a response that is also part of the distribution mechanism.
 
-**See also:** [[Ragebaiting]] · [[Main Character Energy]] · [[Ratio'd]] · [[Attention Economy]] · [[Aurafarming]]
+**Relevant terms:** [[Ragebaiting]] · [[Main Character Energy]] · [[Ratio'd]] · [[Attention Economy]] · [[Aurafarming]]
 
 
 ---

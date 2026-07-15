@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Frictionful design** forces a question about smoothness: whose interests does frictionless design serve? Once you notice that platforms make harmful actions easy and protective actions hard, the political economy of friction becomes readable. Every streamlined interface is a policy decision.
 
-**See also:** [[Calm Technology]] · [[Fair Patterns]] · [[Dark Patterns]] · [[Nudging]] · [[Persuasive Technology]]
+**Relevant terms:** [[Calm Technology]] · [[Fair Patterns]] · [[Dark Patterns]] · [[Nudging]] · [[Persuasive Technology]]
 
 
 ---

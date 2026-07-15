@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Purity culture** names the connecting logic across apparently unrelated movements — dietary, religious, nationalist. Once you see the structure, you can read what the contamination anxiety is actually protecting.
 
-**See also:** [[Wellness-to-Alt-Right Pipeline]] · [[Great Replacement]] · [[Social Contagion]] · [[Anti-Woke]] · [[Subhuman]] · [[Tradwife]]
+**Relevant terms:** [[Wellness-to-Alt-Right Pipeline]] · [[Great Replacement]] · [[Social Contagion]] · [[Anti-Woke]] · [[Subhuman]] · [[Tradwife]]
 
 
 ---
@@ -41,16 +41,5 @@ related_reaction:
 - [An Analysis of Concepts of Pollution and Taboo](https://www.routledge.com/Purity-and-Danger-An-Analysis-of-Concepts-of-Pollution-and-Taboo/Douglas/p/book/9780415289955) — Douglas, M. (1966). *Routledge*
 - [The Righteous Mind](https://righteousmind.com) — Haidt, J. (2012). *Pantheon Books*
 
-
----
-
-**Navigation**
-
-**Layer:** Mechanism
-
-**Cause:** [[Wellness-to-Alt-Right Pipeline]] · [[Conspirituality]]
-**Mechanism:** [[Great Replacement]] · [[Social Contagion]] · [[Tradwife]]
-**Consequence:** [[Subhuman]] · [[Anti-Woke]]
-**Reaction:** [[Deplatforming]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

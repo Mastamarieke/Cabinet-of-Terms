@@ -32,7 +32,7 @@ related_reaction:
 
 **Why This Matters:** Once you know the **fitfluencer** as a content category, a fitness post is never only motivation. It is also a commercial asset, a platform signal, and a body norm being distributed as aspiration.
 
-**See also:** [[Influencer]] · [[That Girl]] · [[Comparison Culture]] · [[Highlight Reel]] · [[Body Dysmorphic Disorder]]
+**Relevant terms:** [[Influencer]] · [[That Girl]] · [[Comparison Culture]] · [[Highlight Reel]] · [[Body Dysmorphic Disorder]]
 
 
 ---

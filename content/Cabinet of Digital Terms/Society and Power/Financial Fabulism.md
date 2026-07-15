@@ -34,7 +34,7 @@ related_reaction:
 
 **Why This Matters:** **Financial fabulism** names the genre that makes ordinary accountability metrics inapplicable to certain companies and individuals. Once you see it as a genre with conventions, you can ask: what would this claim look like in a standard financial disclosure? The gap between those two descriptions is the measure of the fabulism.
 
-**See also:** [[Grifters]] · [[Memecoin]] · [[Techno King]] · [[Muskism]]
+**Relevant terms:** [[Grifters]] · [[Memecoin]] · [[Techno King]] · [[Muskism]]
 
 
 ---

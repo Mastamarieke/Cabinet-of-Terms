@@ -32,7 +32,7 @@ related_reaction:
 
 **Why This Matters:** **Slow media** makes visible a structural constraint on media criticism: you cannot opt out of platform distribution and still reach an audience. The movement that wants to slow down must use the same infrastructure as the movement it opposes. That constraint is worth naming.
 
-**See also:** [[Digital Detox]] · [[Mindful Scrolling]] · [[Unplugging]] · [[Attention Economy]] · [[Clickbait]]
+**Relevant terms:** [[Digital Detox]] · [[Mindful Scrolling]] · [[Unplugging]] · [[Attention Economy]] · [[Clickbait]]
 
 
 ---

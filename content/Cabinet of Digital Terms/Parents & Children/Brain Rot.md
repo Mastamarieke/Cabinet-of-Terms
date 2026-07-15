@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Brain rot** makes visible something that clinical and academic language struggles to name clearly: the subjective experience of designed cognitive dulling. Once you have the term, the forty minutes of scrolling is retrospectively legible as something that was produced, not just experienced.
 
-**See also:** [[Doomscrolling]] · [[Dopamine Feedback Loops]] · [[Recommender Systems]] · [[Cognitive Surrender]] · [[Deskilling]]
+**Relevant terms:** [[Doomscrolling]] · [[Dopamine Feedback Loops]] · [[Recommender Systems]] · [[Cognitive Surrender]] · [[Deskilling]]
 
 
 ---

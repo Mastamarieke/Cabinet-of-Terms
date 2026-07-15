@@ -31,7 +31,7 @@ related_reaction:
 
 **Why This Matters:** **Orbiting** makes visible what platform observation features do to the experience of endings. A relationship that ended is not over if the signal keeps arriving.
 
-**See also:** [[Ghosting]] · [[Breadcrumbing]] · [[Phatic Interaction]] · [[Recommender Systems]] · [[JOMO]]
+**Relevant terms:** [[Ghosting]] · [[Breadcrumbing]] · [[Phatic Interaction]] · [[Recommender Systems]] · [[JOMO]]
 
 
 ---

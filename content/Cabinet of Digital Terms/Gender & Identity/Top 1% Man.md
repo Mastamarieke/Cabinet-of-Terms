@@ -32,7 +32,7 @@ related_reaction:
 
 **Why This Matters:** **Top 1% man** makes visible the commercial function of aspirational standards in self-improvement content. The goal is not your success — it is your continued engagement. Once you see that, the relationship between the content creator and the viewer becomes a different kind of transaction.
 
-**See also:** [[SMV (Sexual Market Value)]] · [[High Value Man]] · [[Looksmaxxing]] · [[Hustle Culture]] · [[Podcast-bro]]
+**Relevant terms:** [[SMV (Sexual Market Value)]] · [[High Value Man]] · [[Looksmaxxing]] · [[Hustle Culture]] · [[Podcast-bro]]
 
 
 ---
@@ -41,16 +41,5 @@ related_reaction:
 - [The Manosphere and the Radicalization of Young Men](https://doi.org/10.1080/19361610.2021.1965803) — Moonshot CVE (2021). *Perspectives on Terrorism*
   [The Rules of Attraction: An Empirical Critique of Pseudoscientific Theories about Sex in the Manosphere](https://www.researchgate.net/publication/365882046_The_Rules_of_Attraction_An_Empirical_Critique_of_Pseudoscientific_Theories_about_Sex_in_the_Manosphere) — onderzoek naar **manosphere**-theorieën rond datinghiërarchieën.
 
-
----
-
-**Navigation**
-
-**Layer:** Mechanism
-
-**Cause:** [[SMV (Sexual Market Value)]] · [[Manosphere]]
-**Mechanism:** [[High Value Man]] · [[Looksmaxxing]]
-**Consequence:** [[Hustle Culture]] · [[Comparison Culture]]
-**Reaction:** [[Podcast-bro]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

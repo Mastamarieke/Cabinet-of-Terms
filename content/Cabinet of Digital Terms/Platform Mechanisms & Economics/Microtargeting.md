@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Microtargeting** makes visible that the political message you saw was chosen for you specifically. The argument was calibrated to your profile. The anxiety it addressed was inferred from your behaviour. Once you know that, political communication looks different.
 
-**See also:** [[Surveillance Capitalism]] · [[Recommender Systems]] · [[Bot Farms]] · [[Filter Bubble]] · [[Brussels Effect]]
+**Relevant terms:** [[Surveillance Capitalism]] · [[Recommender Systems]] · [[Bot Farms]] · [[Filter Bubble]] · [[Brussels Effect]]
 
 
 ---

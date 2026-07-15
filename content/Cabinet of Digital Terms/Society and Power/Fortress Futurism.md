@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Fortress futurism** names the political logic of elite exit. Once you see it, the billionaire's bunker is not eccentric — it is a rational response to a world whose risks they have helped create and whose costs they are engineering not to pay.
 
-**See also:** [[Muskism]] · [[Longtermism]] · [[Mars Colonization]] · [[Broligarchy]] · [[Objectivism (Rand)]]
+**Relevant terms:** [[Muskism]] · [[Longtermism]] · [[Mars Colonization]] · [[Broligarchy]] · [[Objectivism (Rand)]]
 
 
 ---

@@ -31,7 +31,7 @@ related_reaction:
 
 **Why This Matters:** **Inference cost** introduces a new environmental reading: *how often* matters as much as *how large*. A daily habit becomes infrastructure. The daily conversation with an AI assistant is a recurring small claim on shared energy resources, invisible by design.
 
-**See also:** [[Training Run]] · [[AI Energy Consumption]] · [[Carbon Footprint of AI]] · [[Externalized Costs]] · [[Greenwashing]]
+**Relevant terms:** [[Training Run]] · [[AI Energy Consumption]] · [[Carbon Footprint of AI]] · [[Externalized Costs]] · [[Greenwashing]]
 
 
 ---

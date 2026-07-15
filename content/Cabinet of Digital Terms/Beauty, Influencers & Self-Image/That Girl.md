@@ -32,7 +32,7 @@ related_reaction:
 
 **Why This Matters:** "**That Girl**" makes visible how wellness becomes aspiration content — and how aspiration content distributes norms without distributing the conditions that make them achievable.
 
-**See also:** [[Clean Girl Aesthetic]] · [[Fitfluencer]] · [[Comparison Culture]] · [[Highlight Reel]] · [[Toxic Positivity]]
+**Relevant terms:** [[Clean Girl Aesthetic]] · [[Fitfluencer]] · [[Comparison Culture]] · [[Highlight Reel]] · [[Toxic Positivity]]
 
 
 ---

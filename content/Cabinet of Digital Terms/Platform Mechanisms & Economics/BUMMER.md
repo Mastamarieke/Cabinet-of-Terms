@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **BUMMER** gives a single name to a distributed system. Once you have the name, the system is visible as a system — not as a series of individual platform decisions, but as an architecture with consistent properties across all its implementations.
 
-**See also:** [[Surveillance Capitalism]] · [[Attention Economy]] · [[Recommender Systems]] · [[Dopamine Feedback Loops]] · [[Microtargeting]]
+**Relevant terms:** [[Surveillance Capitalism]] · [[Attention Economy]] · [[Recommender Systems]] · [[Dopamine Feedback Loops]] · [[Microtargeting]]
 
 
 ---

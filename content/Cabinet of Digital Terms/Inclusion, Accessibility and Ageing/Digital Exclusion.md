@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Digital exclusion** names the specific harm of being outside a system that increasingly governs access to services, benefits, healthcare, and civic participation. Once you see it as active exclusion rather than passive absence, the design choices that produce it become legible as decisions with consequences.
 
-**See also:** [[Digital Divide]] · [[Ageism (Digital)]] · [[Algorithmic Violence]] · [[Accessibility]] · [[Tech Abandonment]]
+**Relevant terms:** [[Digital Divide]] · [[Ageism (Digital)]] · [[Algorithmic Violence]] · [[Accessibility]] · [[Tech Abandonment]]
 
 
 ---

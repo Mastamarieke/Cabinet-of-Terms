@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Vendor lock-in** names the specific mechanism by which temporary commercial relationships become permanent structural dependencies. Once you see the pattern — integration that deepens until exit becomes impossible — you can ask at the point of adoption: what would it cost to leave in five years?
 
-**See also:** [[Enshittification]] · [[CLOUD Act]] · [[Technofeudalism]] · [[Surveillance Capitalism]] · [[Brussels Effect]]
+**Relevant terms:** [[Enshittification]] · [[CLOUD Act]] · [[Technofeudalism]] · [[Surveillance Capitalism]] · [[Brussels Effect]]
 
 
 ---

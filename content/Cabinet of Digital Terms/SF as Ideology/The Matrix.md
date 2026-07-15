@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **The Matrix** makes visible how a film's vocabulary can be entirely separated from its politics. The question to ask of any **red pill** invocation is: what is the deception being revealed, who is responsible for it, and does the answer serve liberation or reaction?
 
-**See also:** [[Red Pill]] · [[Simulation Hypothesis]] · [[QAnon]] · [[Cyborg]] · [[Situated Knowledge]], [[Manosphere]]
+**Relevant terms:** [[Red Pill]] · [[Simulation Hypothesis]] · [[QAnon]] · [[Cyborg]] · [[Situated Knowledge]], [[Manosphere]]
 
 
 ---

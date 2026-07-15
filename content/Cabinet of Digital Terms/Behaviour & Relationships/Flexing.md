@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Flexing** makes visible the feedback loop between status display and platform economics. The platform profits from aspiration. Aspiration requires visible standards. **Flexing** sets those standards. The cycle is self-sustaining.
 
-**See also:** [[Comparison Culture]] · [[Highlight Reel]] · [[Curated Life]] · [[FOMO]] · [[Deinfluencing]]
+**Relevant terms:** [[Comparison Culture]] · [[Highlight Reel]] · [[Curated Life]] · [[FOMO]] · [[Deinfluencing]]
 
 
 ---

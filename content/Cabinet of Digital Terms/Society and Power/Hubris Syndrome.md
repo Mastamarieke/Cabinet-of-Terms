@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Hubris syndrome** names a predictable consequence of unchecked power — not an individual character flaw. Once you see it as structural rather than personal, the question shifts from "why does this person behave this way?" to "what accountability structures were removed, and when?"
 
-**See also:** [[Founder Mode]] · [[Muskism]] · [[Techno King]] · [[Broligarchy]] · [[Situated Knowledge]]
+**Relevant terms:** [[Founder Mode]] · [[Muskism]] · [[Techno King]] · [[Broligarchy]] · [[Situated Knowledge]]
 
 
 ---

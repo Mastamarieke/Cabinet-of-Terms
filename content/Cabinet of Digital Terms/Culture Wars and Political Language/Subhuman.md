@@ -32,7 +32,7 @@ related_reaction:
 
 **Why This Matters:** **Subhuman** is a word that functions as a stage in a sequence. Knowing the sequence — dehumanisation, persecution, mass violence — makes the word's presence in mainstream discourse a different kind of signal than general offensiveness.
 
-**See also:** [[Dehumanization]] · [[Great Replacement]] · [[Groomer]] · [[QAnon]] · [[Deplatforming]]
+**Relevant terms:** [[Dehumanization]] · [[Great Replacement]] · [[Groomer]] · [[QAnon]] · [[Deplatforming]]
 
 
 ---
@@ -40,16 +40,5 @@ related_reaction:
 - [Becoming Evil](https://global.oup.com/academic/product/becoming-evil-9780195314564) — Waller, J. (2002). *Oxford University Press*
 - [Genocide Watch — Ten Stages of Genocide](https://www.genocidewatch.com/tenstages) — Stanton, G. (1996/2016). *Genocide Watch*
 
-
----
-
-**Navigation**
-
-**Layer:** Consequence
-
-**Cause:** [[Dehumanization]] · [[Great Replacement]]
-**Mechanism:** [[Groomer]] · [[Social Contagion]]
-**Consequence:** [[Great Replacement]] · [[QAnon]]
-**Reaction:** [[Deplatforming]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

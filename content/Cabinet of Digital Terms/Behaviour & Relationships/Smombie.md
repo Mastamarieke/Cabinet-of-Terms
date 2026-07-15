@@ -12,7 +12,7 @@
 
 **Why This Matters:** Smombie names something that existed before the word but became visible once named. The person walking into traffic, the parent pushing a buggy while scrolling — these are not failures of character. They are the predictable outcome of a device designed to capture and hold attention, carried into every context of daily life.
 
-**See also:** [[Phubbing]] · [[Cognitive Surrender]] · [[Tech Neck]] · [[Dopamine Feedback Loops]] · [[Digital Detox]]
+**Relevant terms:** [[Phubbing]] · [[Cognitive Surrender]] · [[Tech Neck]] · [[Dopamine Feedback Loops]] · [[Digital Detox]]
 
 `#behaviour-relationships` `#consequence` `#embodiment` `#digital-alertness`
 **Read more:**

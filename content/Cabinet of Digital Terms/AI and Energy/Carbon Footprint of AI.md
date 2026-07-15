@@ -32,7 +32,7 @@ related_reaction:
 
 **Why This Matters:** The term teaches a specific reading practice: ask not just *what is the number* but *what does the number include*. A disclosed footprint is not the same as a small one.
 
-**See also:** [[AI Energy Consumption]] · [[Training Run]] · [[Inference Cost]] · [[Greenwashing]] · [[Externalized Costs]]
+**Relevant terms:** [[AI Energy Consumption]] · [[Training Run]] · [[Inference Cost]] · [[Greenwashing]] · [[Externalized Costs]]
 
 
 ---

@@ -1,6 +1,6 @@
 ---
 term: Brussels Effect
-cluster: Privacy, Data and Control
+cluster: Platform Governance & Regulation
 analytical_layer: reaction
 status: publieksversie
 version: V2
@@ -31,7 +31,7 @@ related_reaction:
 
 **Why This Matters:** **Brussels Effect** names the most consequential mechanism of global technology governance currently in operation. Once you see how it works — EU market access as regulatory lever — you can read EU digital regulation as having global scope, and assess its adequacy accordingly.
 
-**See also:** [[CLOUD Act]] · [[Vendor Lock-in]] · [[Surveillance Capitalism]] · [[Dark Patterns]] · [[Fair Patterns]]
+**Relevant terms:** [[CLOUD Act]] · [[Vendor Lock-in]] · [[Surveillance Capitalism]] · [[Dark Patterns]] · [[Fair Patterns]]
 
 
 ---

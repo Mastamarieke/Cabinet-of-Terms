@@ -33,7 +33,7 @@ Gray and Suri document the structural precarity: no minimum wage, no benefits, n
 **Why This Matters**
 Once you see **ghost work** as the hidden foundation of AI, you see that every interaction with an "intelligent" system rests on a supply chain of invisible, poorly protected human labour — and that the invisibility is a product decision.
 
-**See also:** [[Mechanical Turk]] · [[Technofeudalism|Technofeudalism]] · [[Surveillance Capitalism]]
+**Relevant terms:** [[Mechanical Turk]] · [[Technofeudalism|Technofeudalism]] · [[Surveillance Capitalism]]
 
 
 ---

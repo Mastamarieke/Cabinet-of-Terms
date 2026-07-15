@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Broligarchy** names the social dimension of tech political power — which is important because social networks are harder to regulate than formal organisations. Once you see it as a network rather than a conspiracy, the question shifts from "who is coordinating?" to "what values does the network share, and how does the network reproduce itself?"
 
-**See also:** [[Muskism]] · [[Revolving Door]] · [[Founder Mode]] · [[Objectivism (Rand)]] · [[Cyberfeminism]] ·[[Transhumanism]] · [[The Singularity]] · [[The Matrix]] · [[Skynet]]  · [[Brave New World]]
+**Relevant terms:** [[Muskism]] · [[Revolving Door]] · [[Founder Mode]] · [[Objectivism (Rand)]] · [[Cyberfeminism]] ·[[Transhumanism]] · [[The Singularity]] · [[The Matrix]] · [[Skynet]]  · [[Brave New World]]
 
 
 ---

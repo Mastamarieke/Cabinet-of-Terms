@@ -32,7 +32,7 @@ related_reaction:
 
 **Why This Matters:** **Dual-use technology** names the structural porosity of the civilian/military distinction in advanced technology. Once you see it, "this is a civilian product" is not a sufficient answer to the question of what it enables. The follow-up question is always: by whom, and to what end?
 
-**See also:** [[Digital-Military-Industrial Complex]] · [[Military-Industrial Complex]] · [[Revolving Door]] · [["I could definitely see it."]]
+**Relevant terms:** [[Digital-Military-Industrial Complex]] · [[Military-Industrial Complex]] · [[Revolving Door]] · [["I could definitely see it."]]
 
 
 ---

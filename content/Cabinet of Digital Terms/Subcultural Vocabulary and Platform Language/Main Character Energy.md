@@ -34,7 +34,7 @@ McAdams is useful for _Main Character Energy_ because he frames identity as na
 
 **Why This Matters:** **Main Character Energy** makes visible the specific self-positioning that social media rewards — and the specific cost of that positioning for how people relate to others. [[Situated Knowledge]] — **Haraway**'s insistence that all perspectives are located — is the epistemological corrective: everyone is the main character of their own story, which means no one is.
 
-**See also:** [[Aurafarming]] · [[Personal Branding]] · [[Comparison Culture]] · [[Parasocial Relationship]] · [[Situated Knowledge]] · [[Influencer]]
+**Relevant terms:** [[Aurafarming]] · [[Personal Branding]] · [[Comparison Culture]] · [[Parasocial Relationship]] · [[Situated Knowledge]] · [[Influencer]]
 
 
 ---

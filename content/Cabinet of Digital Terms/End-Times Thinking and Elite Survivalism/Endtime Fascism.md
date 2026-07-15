@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Endtime fascism** names the specific move of using apocalyptic urgency to suspend democratic constraint. Once you see the structure — situation too dire for ordinary limits — you can identify it across very different political contexts, and ask: what would it take for the emergency to be declared over, and who would make that declaration?
 
-**See also:** [[Millenarianism]] · [[Armageddon Complex]] · [[Disaster Nationalism]] · [[Technofascism]] · [[Dark MAGA]]
+**Relevant terms:** [[Millenarianism]] · [[Armageddon Complex]] · [[Disaster Nationalism]] · [[Technofascism]] · [[Dark MAGA]]
 
 
 ---

@@ -31,7 +31,7 @@ The friction is cumulative and invisible. Each skill outsourced is initially opt
 **Why This Matters**
 Once you see **deskilling** as structural rather than personal, you see that the question is not whether to use tools — it is which capacities are worth maintaining deliberately, against the grain of convenience.
 
-**See also:** [[Cognitive Surrender]] · [[AI Dependency]] · [[Cognitive Offloading]]
+**Relevant terms:** [[Cognitive Surrender]] · [[AI Dependency]] · [[Cognitive Offloading]]
 
 
 ---

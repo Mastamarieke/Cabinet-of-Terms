@@ -33,7 +33,7 @@ The term's existence is its own argument: that physical reality needs a label to
 **Why This Matters**
 Once you see IRL as a symptom of digital dominance rather than just a term, you see that the proliferation of IRL counter-movements — phone-free schools, offline therapy, social prescribing — is the cultural system attempting to correct an imbalance it cannot name structurally.
 
-**See also:** [[Digital Detox]] · [[Unplugging|Unplugging]] · [[Slow Media]]
+**Relevant terms:** [[Digital Detox]] · [[Unplugging|Unplugging]] · [[Slow Media]]
 
 
 ---

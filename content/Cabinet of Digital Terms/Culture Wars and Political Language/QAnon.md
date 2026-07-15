@@ -32,7 +32,7 @@ related_reaction:
 
 **Why This Matters:** **QAnon** makes visible the full arc of digital radicalisation: from anonymous imageboard post to parliamentary storming in four years. The speed is new. The structure — hidden elite, awakened community, imminent reckoning — is ancient.
 
-**See also:** [[Deep State]] · [[Red Pill]] · [[Conspirituality]] · [[Flood the Zone]] · [[Deplatforming]]
+**Relevant terms:** [[Deep State]] · [[Red Pill]] · [[Conspirituality]] · [[Flood the Zone]] · [[Deplatforming]]
 
 
 ---
@@ -40,16 +40,5 @@ related_reaction:
 - [QAnon and the Emergence of the Unreal]([https://doi.org/10.1177/20563051211035177](https://jods.mitpress.mit.edu/pub/tliexqdu/release/4)) — Marwick, A. & Lewis, R. (2017). *Social Media + Society*
 - [The Storm Is Upon Us: How QAnon Became a Movement, Cult, and Conspiracy Theory of Everything](https://www.penguinrandomhouse.com/books/665682/the-storm-is-upon-us-by-mike-rothschild/) — Rothschild, M. (2021). *Melville House*
 
-
----
-
-**Navigation**
-
-**Layer:** Consequence
-
-**Cause:** [[Deep State]] · [[Red Pill]]
-**Mechanism:** [[Conspirituality]] · [[Flood the Zone]]
-**Consequence:** [[Dark MAGA]] · [[Great Replacement]]
-**Reaction:** [[Deplatforming]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

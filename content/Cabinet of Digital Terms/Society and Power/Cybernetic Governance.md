@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Cybernetic governance** names the political stakes of what looks like administrative efficiency. Once you see algorithms as governance — not just tools — the question of who designs them, whose values they encode, and who bears their errors becomes a constitutional question.
 
-**See also:** [[Algorithmic Violence]] · [[Panopticon]] · [[Sovereignty as a Service]] · [[Surveillance Capitalism — Society and Power]] · [["Like Prime, but with human beings."]]
+**Relevant terms:** [[Algorithmic Violence]] · [[Panopticon]] · [[Sovereignty as a Service]] · [[Surveillance Capitalism — Society and Power]] · [["Like Prime, but with human beings."]]
 
 
 ---

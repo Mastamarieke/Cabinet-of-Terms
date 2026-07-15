@@ -32,7 +32,7 @@ related_reaction:
 
 **Why This Matters:** **JOMO** makes visible the recuperation mechanism of the **attention economy**: critique becomes content, resistance becomes a product, and the platform profits from both the anxiety and its rebranded relief.
 
-**See also:** [[FOMO]] · [[Digital Detox]] · counter-movements · [[Slow Media]] · [[Doomscrolling]]
+**Relevant terms:** [[FOMO]] · [[Digital Detox]] · counter-movements · [[Slow Media]] · [[Doomscrolling]]
 
 
 ---

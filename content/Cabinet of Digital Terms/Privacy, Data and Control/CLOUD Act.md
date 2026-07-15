@@ -1,6 +1,6 @@
 ---
 term: CLOUD Act
-cluster: Privacy, Data and Control
+cluster: Platform Governance & Regulation
 analytical_layer: mechanism
 status: publieksversie
 version: V2
@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **CLOUD Act** names the legal conflict at the heart of EU digital infrastructure. Once you know the law exists, any claim that EU organisations' data is protected by GDPR when stored in US cloud services requires qualification: it is protected from commercial data extraction, but not from US government access.
 
-**See also:** [[Brussels Effect]] · [[Vendor Lock-in]] · [[Surveillance Capitalism]] · [[Privacy Washing]] · [[Algorithmic Violence]]
+**Relevant terms:** [[Brussels Effect]] · [[Vendor Lock-in]] · [[Surveillance Capitalism]] · [[Privacy Washing]] · [[Algorithmic Violence]]
 
 
 ---

@@ -30,7 +30,7 @@ The loop is designed to have no natural endpoint. [[Dopamine Feedback Loops]] ar
 **Why This Matters**
 Once you see the **ludic loop** in your phone's notification system, your social media feed, and your inbox, you see that the experience of compulsion is not a weakness — it is a specification.
 
-**See also:** [[Dopamine Feedback Loops]] · [[Gamification Creep]] · [[Attention Harvesting]]
+**Relevant terms:** [[Dopamine Feedback Loops]] · [[Gamification Creep]] · [[Attention Harvesting]]
 
 
 ---

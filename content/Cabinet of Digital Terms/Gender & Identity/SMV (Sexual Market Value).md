@@ -34,7 +34,7 @@ related_reaction:
 
 **Why This Matters:** SMV is the conceptual foundation of the entire cluster. Once you understand it, the rest of the vocabulary becomes readable as a single system: all the other terms are positions, strategies, or responses within the same market framework.
 
-**See also:** [[Looksmaxxing]] · [[Tradwife]] · [[Hypergamy]] · [[Incel]] · [[Blackpill]] · [[Manosphere]]
+**Relevant terms:** [[Looksmaxxing]] · [[Tradwife]] · [[Hypergamy]] · [[Incel]] · [[Blackpill]] · [[Manosphere]]
 
 
 ---
@@ -43,16 +43,5 @@ related_reaction:
 - [Angry White Men](https://www.publicaffairsbooks.com/titles/michael-kimmel/angry-white-men/9781568589619/) — Kimmel, M. (2013). *PublicAffairs*
   [Perceived Motives and Mental Health Characteristics of the **Incel** Men: What **Incel** Men Think Women Value in a Mate vs. Women’s Actual Mate Preferences](https://essay.utwente.nl/81872/1/Kreuzberg_BA_Psychology.pdf) — Kreuzberg, M. S. (2020). _University of Twente_
 
-
----
-
-**Navigation**
-
-**Layer:** Cause
-
-**Cause:** [[Manosphere]] · [[Recommender Systems]]
-**Mechanism:** [[Looksmaxxing]] · [[Tradwife]] · [[Hypergamy]]
-**Consequence:** [[Incel]] · [[Blackpill]] · [[Comparison Culture]]
-**Reaction:** [[Womanosphere]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>
