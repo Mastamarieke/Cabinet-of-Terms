@@ -71,7 +71,7 @@ Term/
 ### Naamgeving
 
 - Map: exacte termnaam (spaties toegestaan)
-- Bronbestanden: `Auteur-Jaar.md` (eerste auteur, geen voornaam, koppelteken). Bij naamconflict — dezelfde auteur-jaar combinatie in een andere entry — gebruik `Auteur-Term-Jaar.md` (bijv. `Ging-Tradwife-2019.md`).
+- Bronbestanden: **altijd** `Auteur-Term-Jaar.md` (eerste auteur, geen voornaam, termnaam, jaar — bijv. `Brady-Ragebaiting-2017.md`, `Ging-Tradwife-2019.md`). Nooit alleen `Auteur-Jaar.md` — een bron kan later in een andere entry geciteerd worden en dan ontstaat een naamconflict.
 - Secundaire bundel: altijd `Secondary.md`
 
 ### Aantal primary bronnen

@@ -58,10 +58,14 @@ semantic_landscape: |
 
 ---
 
-**Read more:**
-- [Not the Solution We Proposed](https://journals.sagepub.com/doi/10.1177/03616843261442440) — Betz, D.E., Liss, M., & Ramsey, L.R. (2026). *Psychology of Women Quarterly*
+**Further reading:**
+
+*Primary:*
+- [[Betz-2026|Betz, Liss & Ramsey (2026)]] — [Not the Solution We Proposed](https://journals.sagepub.com/doi/10.1177/03616843261442440). *Psychology of Women Quarterly*
+- [[Ging-Tradwife-2019|Ging, D. (2019)]] — [Alphas, Betas, and Incels](https://doi.org/10.1177/1097184x17706401). *Men and Masculinities*
+
+*Secondary:*
 - [The Housewives of White Supremacy](https://www.johnlocke.org/the-housewives-of-white-supremacy/) — Kelly, A. (2018). *New York Times*
-- [Alphas, Betas, and Incels](https://doi.org/10.1177/1097184x17706401) — Ging, D. (2019). *Men and Masculinities*
 - [With the demands of modern life, some women are drawn to the 'tradwives' movement](https://www.uva.nl/en/shared-content/faculteiten/en/faculteit-der-maatschappij-en-gedragswetenschappen/news/2024/07/tradwives.html) — Universiteit van Amsterdam (2024)
 - [What Is a 'Tradwife' and How Does It Differ from Stay-at-Home Moms?](https://www.parents.com/tradwife-meaning-and-why-its-controversial-8656603) — *Parents* magazine (2024)
 - [The Real Problem With Tradwives](https://www.vogue.com/article/problem-with-tradwives) — *Vogue* (2024)

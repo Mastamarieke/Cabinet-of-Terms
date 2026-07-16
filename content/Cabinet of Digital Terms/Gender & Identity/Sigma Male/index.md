@@ -55,11 +55,15 @@ semantic_landscape: |
 
 ---
 
-**Read more:**
+**Further reading:**
 
-- [Alphas, Betas, and Incels](https://doi.org/10.1177/1097184x17706401) — Ging, D. (2019). *Men and Masculinities*
-- [The Manosphere and the Radicalization of Young Men](https://doi.org/10.1080/19361610.2021.1965803) — Moonshot CVE (2021). *Perspectives on Terrorism*
-- [What Is a Sigma Male?](https://www.dictionary.com/e/slang/sigma-male/) *Dictionary.com. (2023).*
-- [Rise of the sigma male: TikTok's new gender divide](https://www.newswise.com/articles/rise-of-the-sigma-male-tiktok-s-new-gender-divide) *Newswise. (2025).*
+*Primary:*
+- [[Ging-SigmaMale-2019|Ging, D. (2019)]] — [Alphas, Betas, and Incels](https://doi.org/10.1177/1097184x17706401). *Men and Masculinities*
+- [[Tanner-Gillardin-2025|Tanner & Gillardin (2025)]] — [Toxic Communication on TikTok](https://doi.org/10.1177/20563051251313844). *Social Media + Society*
+- [[Watson-2021|Watson (2021)]] — *The Sigma Male Bible* *(artifact)*
+
+*Secondary:*
+- [What Is a Sigma Male?](https://www.dictionary.com/e/slang/sigma-male/) — Dictionary.com (2023)
+- [Rise of the sigma male: TikTok's new gender divide](https://www.newswise.com/articles/rise-of-the-sigma-male-tiktok-s-new-gender-divide) — Newswise (2025)
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>
