@@ -1,7 +1,5 @@
 ---
 title: "Secondary Sources — Sigma Male"
-aliases:
-  - Secondary-SigmaMale
 type: source
 source_role: secondary
 discipline: [Lexicography, Journalism]
