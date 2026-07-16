@@ -43,21 +43,13 @@ The mechanism operates across content types and scales. Braden Peters — known 
 
 
 ---
-**Read more:**
-- [Influencers maken onze emoties tot hun handelswaar. Aandacht is het doel](https://www.nrc.nl/nieuws/2026/07/10/influencers-maken-onze-emoties-tot-hun-handelswaar-aandacht-is-het-doel-a4931991) — Heijne, B. (10 juli 2026). *NRC*
-- [De populaire Dutch Travel Maniac reist in zijn vlogs voornamelijk naar een wereld van extreemrechts gedachtegoed](https://www.volkskrant.nl/binnenland/de-populaire-dutch-travel-maniac-reist-in-zijn-vlogs-voornamelijk-naar-een-wereld-van-extreemrechts-gedachtegoed~b31208e1/) — Van de Griend, R. & Pottjewijd, W. (4 juli 2026). *De Volkskrant*
-- [Contagious: Why Things Catch On](https://www.simonandschuster.com/books/Contagious/Jonah-Berger/9781451686579) — Berger, J. (2013). *Simon & Schuster*
-- [Rage-baiting](https://en.wikipedia.org/wiki/Rage-baiting) — *Wikipedia*
+**Further reading:**
 
----
+*Primary:*
+- [[Brady-Ragebaiting-2017|Brady et al. (2017)]] — [Emotion shapes the diffusion of moralized content in social networks](https://doi.org/10.1073/pnas.1618923114). *PNAS*
+- [[Shin-Ragebaiting-2025|Shin et al. (2025)]] — [Emotion Sells: Rage Bait vs. Information Bait in Clickbait News Headlines](https://www.researchgate.net/publication/392038337). *Digital Journalism*
 
-## Navigation
-
-**Layer:** Mechanism — content engineered to produce outrage as a platform engagement signal
-
-**Cause:** [[Attention Economy]] · [[Recommender Systems]]
-**Mechanism:** [[Clickbait]] · [[Flood the Zone]]
-**Consequence:** [[Dehumanization]] · [[Doomscrolling]] · [[Wellness-to-Alt-Right Pipeline]]
-**Reaction:** [[Slow Media]] · [[Fact Checker]]
+*Secondary:*
+- [[Secondary-Ragebaiting|Heijne (2026) · Van de Griend & Pottjewijd (2026) · Berger (2013) · Wikipedia]] — ego-kapitalisme, decline porn als disinformatievoertuig, viraliteitsmechanisme
 
 <div class="ai-attribution">Created with AI assistance (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

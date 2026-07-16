@@ -58,11 +58,13 @@ At the extreme end: **De Coninck** (2026) documents AI-generated personas posing
 
 ---
 
-**Read more:**
+**Further reading:**
 
-- [The next hype in social media advertising](https://doi.org/10.3389/fpsyg.2023.1089051) — Kim, E., Kim, D., E, Z., & Shoenberger, H. (2023). *Frontiers in Psychology*
-- [Unreal influence: Leveraging AI in influencer marketing](https://doi.org/10.1108/EJM-12-2019-0949) — Sands, S., Campbell, C.L., Plangger, K., & Ferraro, C. (2022). *European Journal of Marketing*
-- [Sexy AI-influencers zijn niet zo onschuldig als ze lijken](https://www.trouw.nl/redactie/AI_influencers/) — De Coninck, R. (2026). *Trouw*
-- [Top virtual influencers directory](https://virtualhumans.org) — VirtualHumans.org (n.d.)
+*Primary:*
+- [[Kim-2023|Kim et al. (2023)]] — [The next hype in social media advertising](https://doi.org/10.3389/fpsyg.2023.1089051). *Frontiers in Psychology*
+- [[Sands-2022|Sands et al. (2022)]] — [Unreal influence: Leveraging AI in influencer marketing](https://doi.org/10.1108/EJM-12-2019-0949). *European Journal of Marketing*
+
+*Secondary:*
+- [[Secondary-VirtualInfluencer|VirtualHumans.org (n.d.) · De Coninck (2026) · Internet Matters (2023) · VRT NWS (2023) · Youngworks (2025) · Sprout Social (2025) · The Marketing Cloud (2024)]] — branchedirectory, journalistiek, jeugdonderzoek, industrie-documentatie
 
 <div class="ai-attribution">Created with AI assistance (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

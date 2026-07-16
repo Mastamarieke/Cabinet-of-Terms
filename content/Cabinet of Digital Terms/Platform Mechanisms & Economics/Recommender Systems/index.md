@@ -41,25 +41,13 @@ related_reaction:
 **Relevant terms:** [[Filter Bubble]] · [[Echo Chamber]] · [[Microtargeting]] · [[Dopamine Feedback Loops]] · [[Attention Harvesting]] · [[BUMMER]] · [[Surveillance Capitalism]] · [[Virtual Influencer]] · [[Ragebaiting]]
 
 ---
-**Read more:**
-- [How Recommendation Algorithms Run the World](https://www.wired.com/story/how-recommendation-algorithms-run-the-world/) — Tufekci, Z. (2019). _WIRED_
-- [YouTube, the Great Radicalizer](https://www.nytimes.com/2018/03/10/opinion/sunday/youtube-politics-radical.html) — Tufekci, Z. (2018). *New York Times*
-- [Auditing Radicalization Pathways on YouTube](https://arxiv.org/pdf/1908.08313) — Ribeiro, M.H. et al. (2020). *FAccT*
-- [Exposure to opposing views on social media can increase political polarization](https://www.pnas.org/doi/10.1073/pnas.2213020120) — Bail, C.A. et al. (2023). _Proceedings of the National Academy of Sciences_
-- [Algorithmic extremism: Examining YouTube's rabbit hole of radicalization](https://www.researchgate.net/publication/339634318_Algorithmic_extremism_Examining_YouTube's_rabbit_hole_of_radicalization) — Ledwich, M. & Zaitsev, A. (2019). _First Monday_
-- [A Survey of Affective Recommender Systems](https://arxiv.org/html/2508.20289v1) — Kang et al. (2025). _arxiv_
-- [Hope, Fear, or Anger? How Emotional Framing in a News Recommender System Influences User Engagement](https://ceur-ws.org/Vol-4056/full5.pdf) — (2023). *CEUR Workshop Proceedings*
-- [Big Tech maakt van burgers vee](https://www.vn.nl/op-afstand-gestuurde-mens) — Van Iperen, R. (2026). *Vrij Nederland*, 9 juli
+**Further reading:**
 
----
+*Primary:*
+- [[Ribeiro-2020|Ribeiro et al. (2020)]] — [Auditing Radicalization Pathways on YouTube](https://arxiv.org/pdf/1908.08313). *FAccT*
+- [[Bail-2023|Bail et al. (2023)]] — [Exposure to opposing views on social media can increase political polarization](https://www.pnas.org/doi/10.1073/pnas.2213020120). *PNAS*
 
-## Navigation
-
-**Layer:** Mechanism — algorithms that filter content for engagement rather than user wellbeing
-
-**Cause:** [[Attention Economy]] · [[Dopamine Feedback Loops]]
-**Mechanism:** [[Filter Bubble]] · [[Microtargeting]]
-**Consequence:** [[Echo Chamber]] · [[Great Replacement]] · [[Ragebaiting]]
-**Reaction:** [[Brussels Effect]] · [[AI Literacy]]
+*Secondary:*
+- [[Secondary-RecommenderSystems|Tufekci (2019) · Tufekci (2018) · Ledwich & Zaitsev (2019) · Brady et al. (2017) · Kang et al. (2025) · Hope, Fear, or Anger? (2023)]] — journalistiek, tegengeluid, emotie-onderzoek en theoretische kaders
 
 <div class="ai-attribution">Created with AI assistance (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>
