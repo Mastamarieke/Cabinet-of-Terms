@@ -11,6 +11,6 @@ Bronmateriaal gebruikt bij de analyse van [[Ragebaiting]].
 - [[Shin-Ragebaiting-2025|Shin et al. (2025)]] — rage-bait headlines genereren significant meer engagement dan information-bait headlines, ongeacht inhoudelijke kwaliteit
 
 **Secondary:**
-- [[Secondary|Heijne (2026) · Van de Griend & Pottjewijd (2026) · Berger (2013) · Wikipedia]] — ego-kapitalisme, decline porn als disinformatievoertuig, viraliteitsmechanisme
+- [[Secondary-Ragebaiting|Heijne (2026) · Van de Griend & Pottjewijd (2026) · Berger (2013) · Wikipedia]] — ego-kapitalisme, decline porn als disinformatievoertuig, viraliteitsmechanisme
 
 **Behandelde entries:** [[Ragebaiting]] · [[Clickbait]] · [[Wellness-to-Alt-Right Pipeline]]
