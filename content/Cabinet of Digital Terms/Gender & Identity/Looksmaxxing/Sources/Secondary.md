@@ -1,5 +1,7 @@
 ---
 title: "Secondary Sources — Looksmaxxing"
+aliases:
+  - Secondary-Looksmaxxing
 type: source
 source_role: secondary
 discipline: [Journalism, Philosophy, Artifact]

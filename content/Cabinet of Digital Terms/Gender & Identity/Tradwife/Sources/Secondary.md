@@ -1,5 +1,7 @@
 ---
 title: "Secondary Sources — Tradwife"
+aliases:
+  - Secondary-Tradwife
 type: source
 source_role: secondary
 discipline: [Journalism, Sociology, Digital Media]

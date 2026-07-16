@@ -63,6 +63,6 @@ semantic_landscape: |
 - [[Watson-2021|Watson (2021)]] — *The Sigma Male Bible* *(artifact)*
 
 *Secondary:*
-- [[Sigma Male/Sources/Secondary|Dictionary.com (2023) · Newswise (2025)]] — lexicografisch + journalistiek
+- [[Secondary-SigmaMale|Dictionary.com (2023) · Newswise (2025)]] — lexicografisch + journalistiek
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

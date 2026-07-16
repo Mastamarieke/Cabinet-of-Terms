@@ -65,6 +65,6 @@ semantic_landscape: |
 - [[Ging-Tradwife-2019|Ging, D. (2019)]] — [Alphas, Betas, and Incels](https://doi.org/10.1177/1097184x17706401). *Men and Masculinities*
 
 *Secondary:*
-- [[Tradwife/Sources/Secondary|Kelly (2018) · UvA (2024) · Parents (2024) · Vogue (2024)]] — journalistiek + beschouwend
+- [[Secondary-Tradwife|Kelly (2018) · UvA (2024) · Parents (2024) · Vogue (2024)]] — journalistiek + beschouwend
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

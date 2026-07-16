@@ -11,6 +11,6 @@ Bronmateriaal gebruikt bij de analyse van [[Looksmaxxing]].
 - [[Konig-2025|Konig et al. (2025)]] — klinische analyse self-enhancement vs. self-harm
 
 **Secondary:**
-- [[Looksmaxxing/Sources/Secondary|Hofstede (2026) · Usborne (2024) · Murdoch (1970)]] — journalistiek + filosofisch achtergrondmateriaal
+- [[Secondary-Looksmaxxing|Hofstede (2026) · Usborne (2024) · Murdoch (1970)]] — journalistiek + filosofisch achtergrondmateriaal
 
 **Behandelde entries:** [[Looksmaxxing]] · [[SMV (Sexual Market Value)]] · [[Blackpill]] · [[Manosphere]] · [[Body Dysmorphic Disorder]] · [[Comparison Culture]] · [[Subhuman]]

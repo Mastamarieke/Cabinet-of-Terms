@@ -62,6 +62,6 @@ semantic_landscape: |
 - [[Konig-2025|Konig et al. (2025)]] — [Looksmaxxing: Straddling the Inflection Between Self-Enhancement and Self-Harm](https://journals.sagepub.com/doi/10.1177/26893614251409793). *SAGE Open Medicine*
 
 *Secondary:*
-- [[Looksmaxxing/Sources/Secondary|Hofstede (2026) · Usborne (2024) · Murdoch (1970)]] — journalistiek + filosofisch
+- [[Secondary-Looksmaxxing|Hofstede (2026) · Usborne (2024) · Murdoch (1970)]] — journalistiek + filosofisch
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>
