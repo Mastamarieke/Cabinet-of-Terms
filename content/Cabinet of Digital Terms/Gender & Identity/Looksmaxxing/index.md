@@ -62,8 +62,6 @@ semantic_landscape: |
 - [[Konig-2025|Konig et al. (2025)]] — [Looksmaxxing: Straddling the Inflection Between Self-Enhancement and Self-Harm](https://journals.sagepub.com/doi/10.1177/26893614251409793). *SAGE Open Medicine*
 
 *Secondary:*
-- [Looksmaxxing is het gevaarlijke antwoord op de vraag: ben ik iets waard?](https://decorrespondent.nl/16941/looksmaxxing-is-het-gevaarlijke-antwoord-op-de-vraag-ben-ik-iets-waard/7ba9fc8a-3dd5-0c35-1a9e-07fbae12e42d) — Hofstede, B. (2026). *De Correspondent*
-- [From bone smashing to chin extensions: how 'looksmaxxing' is reshaping young men's faces](https://www.theguardian.com/lifeandstyle/2024/feb/15/from-bone-smashing-to-chin-extensions-how-looksmaxxing-is-reshaping-young-mens-faces) — Usborne, S. (2024). *The Guardian*
-- [The Sovereignty of Good](https://www.routledge.com/The-Sovereignty-of-Good/Murdoch/p/book/9780415253994) — Murdoch, I. (1970). *Routledge*
+- [[Looksmaxxing/Sources/Secondary|Hofstede (2026) · Usborne (2024) · Murdoch (1970)]] — journalistiek + filosofisch
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

@@ -12,6 +12,6 @@ Bronmateriaal gebruikt bij de analyse van [[Sigma Male]].
 - [[Watson-2021|Watson (2021)]] — primair artefact (zelfhulpboek)
 
 **Secondary:**
-- [[Secondary|Dictionary.com (2023) · Newswise (2025)]] — lexicografisch + journalistiek
+- [[Sigma Male/Sources/Secondary|Dictionary.com (2023) · Newswise (2025)]] — lexicografisch + journalistiek
 
 **Behandelde entries:** [[Sigma Male]] · [[Alpha Male]] · [[Manosphere]] · [[Incel]] · [[Red Pill]]

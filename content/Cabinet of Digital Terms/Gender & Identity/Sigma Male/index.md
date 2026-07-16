@@ -63,7 +63,6 @@ semantic_landscape: |
 - [[Watson-2021|Watson (2021)]] — *The Sigma Male Bible* *(artifact)*
 
 *Secondary:*
-- [What Is a Sigma Male?](https://www.dictionary.com/e/slang/sigma-male/) — Dictionary.com (2023)
-- [Rise of the sigma male: TikTok's new gender divide](https://www.newswise.com/articles/rise-of-the-sigma-male-tiktok-s-new-gender-divide) — Newswise (2025)
+- [[Sigma Male/Sources/Secondary|Dictionary.com (2023) · Newswise (2025)]] — lexicografisch + journalistiek
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

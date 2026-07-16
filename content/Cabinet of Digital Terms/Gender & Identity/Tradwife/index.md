@@ -65,9 +65,6 @@ semantic_landscape: |
 - [[Ging-Tradwife-2019|Ging, D. (2019)]] — [Alphas, Betas, and Incels](https://doi.org/10.1177/1097184x17706401). *Men and Masculinities*
 
 *Secondary:*
-- [The Housewives of White Supremacy](https://www.johnlocke.org/the-housewives-of-white-supremacy/) — Kelly, A. (2018). *New York Times*
-- [With the demands of modern life, some women are drawn to the 'tradwives' movement](https://www.uva.nl/en/shared-content/faculteiten/en/faculteit-der-maatschappij-en-gedragswetenschappen/news/2024/07/tradwives.html) — Universiteit van Amsterdam (2024)
-- [What Is a 'Tradwife' and How Does It Differ from Stay-at-Home Moms?](https://www.parents.com/tradwife-meaning-and-why-its-controversial-8656603) — *Parents* magazine (2024)
-- [The Real Problem With Tradwives](https://www.vogue.com/article/problem-with-tradwives) — *Vogue* (2024)
+- [[Tradwife/Sources/Secondary|Kelly (2018) · UvA (2024) · Parents (2024) · Vogue (2024)]] — journalistiek + beschouwend
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>
