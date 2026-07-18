@@ -13,7 +13,7 @@ doi: https://doi.org/10.1177/20563051251313844
 access: open-access
 discipline: [Criminology, Digital Criminology, Media Studies, Gender Studies]
 cluster: [Internet Slang, Meme Culture, Gender and Identity, Social Media]
-linked_entries: ["[[Sigma Male]]", "[[Alpha Male]]", "[[Manosphere]]", "[[TikTok]]"]
+linked_entries: ["[[Sigma Male]]", "[[Alpha Male]]", "[[Manosphere]]"]
 tags: [source, primary, academic, peer-reviewed, open-access]
 ---
 
@@ -26,7 +26,7 @@ Peer-reviewed onderzoek, direct over sigma male zelf (niet over de manosphere in
 - [[Sigma Male]] — het directe en enige object van analyse; sterkere match dan algemene manosphere-literatuur.
 - [[Alpha Male]] — sigma wordt gepositioneerd als alternatief voor/superieur aan alfa.
 - [[Manosphere]] — plaatst sigma-content in de bredere online masculiniteitscultuur.
-- [[TikTok]] — platform-specifieke analyse (methodologie, dataverzameling, virale verspreiding).
+- TikTok — platform-specifieke analyse (methodologie, dataverzameling, virale verspreiding).
 
 ## Bron
 

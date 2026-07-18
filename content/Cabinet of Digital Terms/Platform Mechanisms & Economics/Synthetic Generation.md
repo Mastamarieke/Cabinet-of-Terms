@@ -10,7 +10,6 @@ related_cause:
   - Bot Farms
 related_mechanism:
   - Microtargeting
-  - Deepfake
 related_consequence:
   - AI Slop
   - Age of Average
@@ -29,11 +28,11 @@ related_reaction:
 
 **The Appeal:** **Synthetic generation** has many legitimate and creative uses. Generative AI is already used in film production, voice **accessibility** tools, education, translation, gaming, and digital art. The same technology behind deepfakes also powers useful applications such as realistic visual effects, voice restoration, and AI-assisted creativity.
 
-**The Friction:** The same technology that generates synthetic faces generates synthetic political statements, synthetic evidence, and synthetic people deployed in [[Bot Farms]]. [[Deepfake]] — synthetic video of specific real people — is the most harmful variant: non-consensual intimate images, political disinformation, fraud. [[AI Slop]] is the low-stakes ambient consequence: synthetic content flooding the information environment with material nobody made. At a lower level, AI-generated [[AI Slop]] increasingly floods social media with synthetic content created purely to capture attention and engagement [[Microtargeting]] intersects with **synthetic generation**: personalised synthetic content, calibrated to individual profiles, is technically feasible and documented in experimental contexts. The verification challenge is structural: as generation quality improves, detection becomes harder.
+**The Friction:** The same technology that generates synthetic faces generates synthetic political statements, synthetic evidence, and synthetic people deployed in [[Bot Farms]]. **Deepfake** — synthetic video of specific real people — is the most harmful variant: non-consensual intimate images, political disinformation, fraud. [[AI Slop]] is the low-stakes ambient consequence: synthetic content flooding the information environment with material nobody made. At a lower level, AI-generated [[AI Slop]] increasingly floods social media with synthetic content created purely to capture attention and engagement [[Microtargeting]] intersects with **synthetic generation**: personalised synthetic content, calibrated to individual profiles, is technically feasible and documented in experimental contexts. The verification challenge is structural: as generation quality improves, detection becomes harder.
 
 **Why This Matters:** **Synthetic generation** changes a basic assumption of digital culture: that seeing or hearing something is evidence that it really happened. As AI-generated content becomes more realistic, the line between authentic and artificial media becomes harder to verify. The danger is not a single dramatic collapse of trust, but a gradual erosion of confidence in digital information itself.
 
-**Related terms:** [[Deepfake]] · [[Bot Farms]] · [[AI Slop]] · [[Microtargeting]] · [[Narrative Engineering]] · [[Fact Checker]] · [[AI Literacy]]
+**Related terms:** [[Bot Farms]] · [[AI Slop]] · [[Microtargeting]] · [[Narrative Engineering]] · [[Fact Checker]] · [[AI Literacy]]
 
 
 ---
@@ -53,7 +52,7 @@ related_reaction:
 **Layer:** Mechanism — AI production of media indistinguishable from human-produced content
 
 **Cause:** [[AI Slop]] · [[Bot Farms]]
-**Mechanism:** [[Microtargeting]] · [[Deepfake]]
+**Mechanism:** [[Microtargeting]]
 **Consequence:** [[AI Slop]] · [[Age of Average]]
 **Reaction:** [[AI Literacy]] · [[Fact Checker]]
 

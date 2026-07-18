@@ -33,7 +33,10 @@ Bij elke toevoeging, verwijdering of hernoeming van een term:
 3. **index.md — totaaltellingen** updaten (consistent op alle plekken):
    - Aantal termen
    - Aantal externe bronnen (tel `[tekst](http...)` links in het gewijzigde bestand)
-4. **Wikilink-check + Related terms-check** draaien (Python-scripts onderaan dit bestand, "Wikilink-check script" en "Related terms-check script") — vóór elke push. Beide checks zijn ooit lange tijd stil kapot geweest zonder dat het opviel; dat is precies waarom ze bij elke push horen te draaien, niet alleen bij twijfel.
+4. **Wikilink-check + Related terms-check** — twee verschillende momenten, bewust niet hetzelfde:
+   - `scripts/check_wikilinks.py` draait automatisch via een **git pre-commit hook** (`.git/hooks/pre-commit`) — dit is puur mechanisch (een link resolvet of niet), dus dat mag automatisch. De hook **meldt, blokkeert niet**: de commit gaat altijd door, maar kapotte links worden zichtbaar in de terminal-output. Niet vervangend voor aandacht, wel een vangnet tegen ongemerkte drift zoals eerder gebeurde.
+   - `scripts/check_related_terms.py` draait **niet** in de hook, en niet automatisch — dit hoort bij het schrijfproces (Doctor Alert's Checkpoint 1), ná inhoudelijke goedkeuring van tekst en Related terms, niet als git-gate ervoor. Zie Doctor Alert voor de exacte plek.
+   - De scripts staan als losse bestanden in `scripts/` — niet dubbel als code in dit document, dat gaf eerder precies het soort drift dat deze checks juist moeten voorkomen.
 5. **Doctor Alert cluster-lijst syncen** — na elke publish controleren of Doctor Alert's cluster-lijst nog klopt met de live vault
 6. **Retroactieve updates** — bij elke nieuwe term: zoek welke bestaande entries verwant zijn en beoordeel drie niveaus: (1) **wikilink** toevoegen in Related terms en Navigation; (2) **context** — wordt een bestaande zin scherper als de nieuwe term erin benoemd wordt?; (3) **content** — moet er een nieuwe zin of alinea bij om het analytische belang te verwerken? Alle drie niveaus kunnen van toepassing zijn.
    - **Wat is Related terms**: de verzameling termen die met deze entry samenhangen — zowel de termen die inline in de lopende tekst worden besproken, als structurele netwerkrelaties uit de frontmatter (cause/mechanism/consequence/reaction) die niet per se in de tekst worden uitgewerkt. Het is dus niet uitsluitend een samenvatting van de tekst en niet uitsluitend een spiegel van de frontmatter, maar de vereniging van beide — met de tekst als ondergrens, niet als plafond.
@@ -255,103 +258,18 @@ Verdeel de aangeleverde bronnen in primary / secondary / artifact (zie Sources-s
 
 ---
 
-## Wikilink-check script
+## Wikilink-check en Related terms-check scripts
 
-Draaien vanuit `content/`:
+De daadwerkelijke scripts staan als losse, uitvoerbare bestanden in `scripts/`:
 
-```python
-import os, re
+- `scripts/check_wikilinks.py` — elke `[[wikilink]]` moet een bestaande term zijn. Kapotte links binnen een `Concept.md` zijn verwacht (draft-cluster, vooruitwijzend) en worden overgeslagen; al het andere moet resolven.
+- `scripts/check_related_terms.py` — elke term die inline in de lopende tekst gelinkt is, moet ook in de **Related terms**-regel staan (de verplichte richting — zie Related terms-regel hierboven). Bronbestanden tellen niet mee.
 
-vault_dir = 'Cabinet of Digital Terms'
+Draaien vanuit de repo-root:
 
-valid = set()
-for root, dirs, files in os.walk(vault_dir):
-    for f in files:
-        if f.endswith('.md') and not f.startswith('._'):
-            if f == 'index.md':
-                # folder-structured entry (Term/index.md) — valid target is the folder name
-                valid.add(os.path.basename(root))
-            else:
-                valid.add(f[:-3])
-
-broken_all = {}
-for root, dirs, files in os.walk(vault_dir):
-    for fname in sorted(files):
-        if not fname.endswith('.md') or fname.startswith('._'): continue
-        fpath = os.path.join(root, fname)
-        with open(fpath, encoding='utf-8', errors='ignore') as f:
-            content = f.read()
-        links = re.findall(r'\[\[([^\]|#\n]+)', content)
-        broken = sorted(set(l.strip() for l in links if l.strip() not in valid))
-        if broken:
-            broken_all[fname] = broken
-
-if broken_all:
-    print(f'{len(broken_all)} files with broken wikilinks:\n')
-    for fname, links in sorted(broken_all.items()):
-        print(f'{fname}:')
-        for l in links:
-            print(f'  [[{l}]]')
-else:
-    print('All wikilinks valid.')
+```
+python3 scripts/check_wikilinks.py
+python3 scripts/check_related_terms.py
 ```
 
----
-
-## Related terms-check script
-
-Controleert de verplichte richting: elke term die inline in de lopende tekst gelinkt is, moet ook in de **Related terms**-regel staan (zie Related terms-regel hierboven). Sluit bronbestanden uit (die tellen niet mee als term-relatie). Draaien vanuit `content/`:
-
-```python
-import os, re
-
-vault_dir = 'Cabinet of Digital Terms'
-
-source_names = set()
-for dirpath, dirnames, filenames in os.walk(vault_dir):
-    for fname in filenames:
-        if not fname.endswith('.md') or fname.startswith('._'):
-            continue
-        fpath = os.path.join(dirpath, fname)
-        is_source = (os.sep + 'Sources' + os.sep) in (fpath + os.sep)
-        if not is_source:
-            with open(fpath, encoding='utf-8', errors='ignore') as f:
-                head = f.read(500)
-            is_source = bool(re.search(r'^type:\s*source', head, re.MULTILINE))
-        if is_source:
-            name = fname[:-3] if fname != 'index.md' else os.path.basename(dirpath)
-            source_names.add(name)
-
-violations = {}
-for dirpath, dirnames, filenames in os.walk(vault_dir):
-    for fname in filenames:
-        if not fname.endswith('.md') or fname.startswith('._'):
-            continue
-        fpath = os.path.join(dirpath, fname)
-        if (os.sep + 'Sources' + os.sep) in (fpath + os.sep):
-            continue
-        with open(fpath, encoding='utf-8', errors='ignore') as f:
-            content = f.read()
-        m = re.search(r'\*\*Related terms:\*\*(.*)', content)
-        if not m:
-            continue
-        related_line = m.group(1)
-        related_targets = set(l.split('|')[0].strip() for l in re.findall(r'\[\[([^\]]+)\]\]', related_line))
-        body = content[:m.start()]
-        fm_end = re.match(r'^---.*?---\s*', body, flags=re.DOTALL)
-        if fm_end:
-            body = body[fm_end.end():]
-        this_term = os.path.basename(dirpath) if fname == 'index.md' else fname[:-3]
-        body_targets = [l.split('|')[0].strip() for l in re.findall(r'\[\[([^\]]+)\]\]', body)]
-        body_targets = [t for t in body_targets if t != this_term and t not in source_names]
-        missing = [t for t in body_targets if t not in related_targets]
-        if missing:
-            violations[fpath] = missing
-
-if violations:
-    print(f'{len(violations)} files with inline terms missing from Related terms:\n')
-    for fpath, missing in sorted(violations.items()):
-        print(f'{fpath}: {missing}')
-else:
-    print('All inline terms are reflected in Related terms.')
-```
+Beide moeten `exit 0` geven vóór een push.

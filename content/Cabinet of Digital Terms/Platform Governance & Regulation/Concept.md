@@ -1,5 +1,6 @@
 ---
-title: "Platform Governance & Regulation"
+title: "Platform Governance & Regulation (Concept)"
+draft: true
 ---
 
 ***The platform wrote the rules. Now governments are writing theirs. The question is which rules arrive first, and who enforces them.***

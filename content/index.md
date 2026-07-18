@@ -279,18 +279,6 @@ The privacy policy is forty-seven pages long. You clicked agree. So did everyone
 </details>
 
 <details>
-<summary><strong>Platform Governance & Regulation</strong> — 2 terms</summary>
-
-The platform wrote the rules. Now governments are writing theirs. This cluster maps the legal and governance frameworks through which platform power is contested, constrained, or legitimised — legislation, international data agreements, regulatory influence, and enforcement gaps.
-
-→ [About this cluster](Cabinet-of-Digital-Terms/Platform-Governance--and--Regulation/)
-
-- [[Brussels Effect]]
-- [[CLOUD Act]]
-
-</details>
-
-<details>
 <summary><strong>Behaviour & Relationships</strong> — 16 terms</summary>
 
 Ghosting, phubbing, doomscrolling — these words did not exist thirty years ago, and the behaviours they describe mostly did not either. This cluster maps new social patterns that emerged from platform architecture. They feel personal. They are also structural.
@@ -398,17 +386,6 @@ Platforms are not designed with children in mind — they are designed for engag
 - [[Screen Time]]
 - [[Sexting]]
 - [[Sharenting]]
-
-</details>
-
-<details>
-<summary><strong>Digital Deception & Fraud</strong> — 1 term</summary>
-
-Digital fraud does not begin with technology — it begins with trust. This cluster maps the mechanisms through which digital environments are used to deceive, manipulate, and defraud: deepfakes, synthetic voices, social engineering at scale.
-
-→ [About this cluster](Cabinet-of-Digital-Terms/Digital-Deception--and--Fraud/)
-
-- [[Deepfake]]
 
 </details>
 
