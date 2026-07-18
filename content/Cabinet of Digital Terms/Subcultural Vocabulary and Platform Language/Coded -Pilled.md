@@ -32,7 +32,7 @@ related_reaction:
 
 **Why This Matters:** -Coded and -pilled make visible how morphology carries ideology. Once you see the suffix as a structure — not just a word — you can ask: what conversion narrative does "-pilled" import, even when the topic seems trivial? And what identity attribution does "-coded" make, and on whose authority?
 
-**Relevant terms:** [[Red Pill]] · [[Algospeak]] · [[Manosphere]] · [[Echo Chamber]] · [[Ratio'd]]
+**Related terms:** [[Red Pill]] · [[Algospeak]] · [[Manosphere]] · [[Echo Chamber]] · [[Ratio'd]]
 
 
 ---

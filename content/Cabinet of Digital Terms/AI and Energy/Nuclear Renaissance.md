@@ -30,7 +30,7 @@ related_reaction:
 
 **Why This Matters:** When a technology company's infrastructure demand becomes large enough to reshape national energy policy, the line between private interest and public infrastructure disappears. That disappearance deserves a name.
 
-**Relevant terms:** [[AI Energy Consumption]] · [[Greenwashing]] · [[Externalized Costs]] · [[Sacrifice Zones]] · [[Digital Colonialism]]
+**Related terms:** [[AI Energy Consumption]] · [[Greenwashing]] · [[Externalized Costs]] · [[Sacrifice Zones]] · [[Digital Colonialism]]
 
 
 ---

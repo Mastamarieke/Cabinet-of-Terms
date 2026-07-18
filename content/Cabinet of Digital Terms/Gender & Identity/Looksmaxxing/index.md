@@ -30,8 +30,6 @@ semantic_landscape: |
   From the female side, the consequence path runs differently: **Looksmaxxing → Comparison Culture → Body Dysmorphic Disorder**. No radical ideology, no **Subhuman** label — instead a clinical endpoint. The graph shows that the same starting mechanism produces two distinct forms of damage depending on which side of the **SMV** scale you are on. The female identity counterpart is **Tradwife** — domestic performance optimised for the same market that looksmaxxing targets through the body.
 
   A third trajectory is commercial. The ideology has become a product category: paid analysis platforms, premium skincare kits promising "sharper features in minutes." Once a subculture can be sold as a lifestyle brand, the term no longer belongs only to the forums. The missing node is **Lifestyle Brand** — the point at which an ideological position becomes purchasable identity. The same gap appears in the **Tradwife** network.
-
-  **Deinfluencing** stands alone as the only reaction node — and its solitude is itself analytical. The pushback against looksmaxxing is personal and aesthetic, not systemic. It addresses one person's feed, not the structure that produces the feed.
 ---
 
 ***The routine takes two hours. The supplements cost more than food. The goal is a score on a scale that does not officially exist.***
@@ -51,7 +49,7 @@ semantic_landscape: |
 
 **Why This Matters:** **Looksmaxxing** makes the body into a project with a never-ending to-do list. The word "**Subhuman**" — applied to anyone scoring below four — carries a history. Once you teach people to rank themselves and others on a hierarchy from valuable to worthless, that logic becomes available for application to entire groups. When extreme plastic surgery becomes a tribal marker — as in the so-called **"Mar-a-Lago face"**, the uniform aesthetic of heavily filled, surgically tightened faces associated with wealthy political circles — looksmaxxing becomes a geopolitical instrument. The optimised body signals class, allegiance, and access. What began as an individual optimisation project becomes a legible political identity worn on the face. And what began as an incel-forum term is now a product category: a €113 skincare kit, a paid analysis platform, 75,000 community members. The gua sha tool promising "sharper features in minutes" is sold by the same logic as the forum that coined the word **Subhuman**. The packaging changed. The ideology did not.
 
-**Relevant terms:** [[SMV (Sexual Market Value)]] · [[Blackpill]] · [[Manosphere]] · [[Subhuman]] · [[Body Dysmorphic Disorder]] · [[Comparison Culture]] · [[Sigma Male]] · [[Tradwife]] · [[Incel]]
+**Related terms:** [[SMV (Sexual Market Value)]] · [[Blackpill]] · [[Manosphere]] · [[Subhuman]] · [[Body Dysmorphic Disorder]] · [[Comparison Culture]] · [[Sigma Male]] · [[Tradwife]] · [[Incel]] · [[Ragebaiting]]
 
 ---
 

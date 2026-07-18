@@ -31,7 +31,7 @@ related_reaction:
 
 **Why This Matters:** **MGTOW** makes visible how personal choices get politicised — and how a community organised around withdrawal can become organised around resentment. The choice to be alone is entirely legitimate. The ideology built on top of it is something different.
 
-**Relevant terms:** [[Blackpill]] · [[SMV (Sexual Market Value)]] · [[Manosphere]] · [[Incel]] · [[Red Pill]] · [[Hypergamy]] · [[Sigma Male]]
+**Related terms:** [[Blackpill]] · [[SMV (Sexual Market Value)]] · [[Manosphere]] · [[Incel]] · [[Red Pill]] · [[Hypergamy]] · [[Sigma Male]] · [[JOMO]]
 
 
 ---

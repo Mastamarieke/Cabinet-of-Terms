@@ -34,7 +34,7 @@ Douglas (2016) and Chen et al. (2019) document that **doxing** is overwhelmingly
 **Why This Matters**
 Once you see **doxing** as infrastructure rather than an individual act, you see that the aggregation of public data into private weapons is a structural feature of the open web — and that protection requires systemic design responses, not just individual privacy hygiene.
 
-**Relevant terms:** [[Dehumanization|Dehumanization]] · [[Algorithmic Violence]] · [[Surveillance Capitalism]]
+**Related terms:** [[Dehumanization|Dehumanization]] · [[Algorithmic Violence]] · [[Surveillance Capitalism]]
 
 
 ---

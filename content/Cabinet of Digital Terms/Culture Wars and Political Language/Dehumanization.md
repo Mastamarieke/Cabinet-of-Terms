@@ -32,7 +32,7 @@ related_reaction:
 
 **Why This Matters:** **Dehumanization** names the mechanism, not just the outcome. Once you know the sequence — dehumanising language, reduced inhibitions, escalated harm — the presence of dehumanising rhetoric in mainstream discourse is not merely offensive. It is a stage in a process.
 
-**Relevant terms:** [[Subhuman]] · [[Groomer]] · [[Social Contagion]] · [[Great Replacement]] · [[Deplatforming]]
+**Related terms:** [[Subhuman]] · [[Groomer]] · [[Social Contagion]] · [[Great Replacement]] · [[Deplatforming]] · [[Woke Mind Virus]]
 
 
 ---

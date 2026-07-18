@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Grokipedia** makes visible the specific harm of AI-generated reference content: not that it is always wrong, but that it is indistinguishable in format from verified reference while being unverified. Once you see the format as a rhetorical move rather than a guarantee, every **Grokipedia** entry requires the same scrutiny as any other AI output.
 
-**Relevant terms:** [[Synthetic Generation]] · [[Flood the Zone]] · [[Muskism]] · [[AI Literacy]] · [[Fact Checker]]
+**Related terms:** [[Synthetic Generation]] · [[Flood the Zone]] · [[Muskism]] · [[AI Literacy]] · [[Fact Checker]]
 
 
 ---

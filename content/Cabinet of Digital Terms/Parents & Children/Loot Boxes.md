@@ -32,7 +32,7 @@ related_reaction:
 
 **Why This Matters:** **Loot boxes** make visible how gambling mechanics can be embedded in children's products under a different name. Once you see the structural identity, the regulatory question — is this gambling? — is less important than the design question: why was this mechanism deployed to children?
 
-**Relevant terms:** [[Robux]] · [[Predatory Design]] · [[Gaming Disorder]] · [[Gamification Creep]] · [[Brussels Effect]]
+**Related terms:** [[Robux]] · [[Predatory Design]] · [[Gaming Disorder]] · [[Gamification Creep]] · [[Brussels Effect]]
 
 
 ---

@@ -31,7 +31,7 @@ related_reaction:
 
 **Why This Matters:** The **training run** makes visible a structural asymmetry: cost is concentrated in place and time, benefit is diffuse and global. "A new model was released today" becomes a different kind of sentence once you know what it cost.
 
-**Relevant terms:** [[AI Energy Consumption]] · [[Carbon Footprint of AI]] · [[Inference Cost]] · [[Externalized Costs]] · [[Sacrifice Zones]]
+**Related terms:** [[AI Energy Consumption]] · [[Carbon Footprint of AI]] · [[Inference Cost]] · [[Externalized Costs]] · [[Sacrifice Zones]]
 
 
 ---

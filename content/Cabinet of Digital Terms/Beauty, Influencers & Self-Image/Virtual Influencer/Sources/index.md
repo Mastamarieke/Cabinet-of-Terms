@@ -1,7 +1,6 @@
 ---
 title: "Sources"
 cluster: Beauty, Influencers & Self-Image
-tags: [source-index]
 ---
 
 Bronmateriaal gebruikt bij de analyse van [[Virtual Influencer]].

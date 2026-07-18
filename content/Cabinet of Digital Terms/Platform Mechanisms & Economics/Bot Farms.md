@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Bot farms** make visible that social proof — the signal that tells you what others think — can be manufactured at scale. Once you know that, "trending" and "viral" become different kinds of sentences.
 
-**Relevant terms:** [[Recommender Systems]] · [[Flood the Zone]] · [[Microtargeting]] · [[Synthetic Generation]] · [[Narrative Engineering]] · [[Ragebaiting]] · [[Fact Checker]]
+**Related terms:** [[Recommender Systems]] · [[Flood the Zone]] · [[Microtargeting]] · [[Synthetic Generation]] · [[Narrative Engineering]] · [[Ragebaiting]] · [[Fact Checker]]
 
 
 ---

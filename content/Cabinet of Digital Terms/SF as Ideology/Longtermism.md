@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Longtermism** names a framework that can make almost anything in the present justifiable in terms of future benefit. Once you see the structure — infinite future value discounting present harm to zero — you can identify it wherever it appears, not just in explicit EA discourse.
 
-**Relevant terms:** [[Doomerism]] · [[The Singularity]] · [[Transhumanism]] · [[Fortress Futurism]] · [[Situated Knowledge]]
+**Related terms:** [[Doomerism]] · [[The Singularity]] · [[Transhumanism]] · [[Fortress Futurism]] · [[Situated Knowledge]]
 
 
 ---

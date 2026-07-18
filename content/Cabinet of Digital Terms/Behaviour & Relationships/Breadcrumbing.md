@@ -31,7 +31,7 @@ related_reaction:
 
 **Why This Matters:** **Breadcrumbing** makes visible how platform affordances enable relational ambiguity at scale. The behaviour is not new; the infrastructure that makes it frictionless is.
 
-**Relevant terms:** [[Ghosting]] · [[Orbiting]] · [[Dopamine Feedback Loops]] · [[Phatic Interaction]] · [[JOMO]]
+**Related terms:** [[Ghosting]] · [[Orbiting]] · [[Dopamine Feedback Loops]] · [[Phatic Interaction]] · [[JOMO]]
 
 
 ---

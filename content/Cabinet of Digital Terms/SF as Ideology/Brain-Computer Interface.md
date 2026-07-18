@@ -37,7 +37,7 @@ Today, BCIs are increasingly understood not merely as medical devices, but as in
 
 **Why This Matters:** **Brain-computer interface** is the point where the technology is real and the governance is not. Once you see the data implications — what neural signals reveal, who would own that data, what it would be used for — the clinical frame of "helping paralysed patients" becomes a partial description of a much larger technology trajectory.
 
-**Relevant terms:** [[Neuralink]] · [[Mind Uploading]] · [[Biometric Surveillance]] · [[Surveillance Capitalism]] · [[VSD (Value Sensitive Design)]]
+**Related terms:** [[Neuralink]] · [[Mind Uploading]] · [[Biometric Surveillance]] · [[Surveillance Capitalism]] · [[VSD (Value Sensitive Design)]] · [[Cybernetic Collective]]
 
 
 ---

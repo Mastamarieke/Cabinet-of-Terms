@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Aurafarming** makes visible the labour behind apparently effortless presence. Once you see the farming metaphor, the "naturally cool" person is also a person managing resources — and the status hierarchy they inhabit is also a designed environment.
 
-**Relevant terms:** [[Main Character Energy]] · [[Personal Branding]] · [[Curated Life]] · [[Comparison Culture]] · [[Tierlists S-Tier]]
+**Related terms:** [[Main Character Energy]] · [[Personal Branding]] · [[Curated Life]] · [[Comparison Culture]] · [[Tierlists S-Tier]]
 
 
 ---

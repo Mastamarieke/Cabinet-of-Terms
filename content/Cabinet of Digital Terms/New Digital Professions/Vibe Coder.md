@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Vibe coder** names a practice that is already common and rarely examined. The question is not whether AI coding assistance is useful — it clearly is — but what you are trading when you accept outputs you cannot explain. Understanding the trade is the beginning of making it intentionally.
 
-**Relevant terms:** [[Prompt Engineer]] · [[Deskilling]] · [[AI Dependency]] · [[Cognitive Surrender]] · [[AI Literacy]]
+**Related terms:** [[Prompt Engineer]] · [[Deskilling]] · [[AI Dependency]] · [[Cognitive Surrender]] · [[AI Literacy]]
 
 
 ---

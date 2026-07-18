@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Clickbait** makes visible that the headline is a separate product from the article — engineered for a different metric. Once you know that, the gap between what was promised and what was delivered is not a mistake. It is the design.
 
-**Relevant terms:** [[Ragebaiting]] · [[Empathy Exploit]] · [[Recommender Systems]] · [[Attention Economy]] · [[AI Slop]]
+**Related terms:** [[Ragebaiting]] · [[Empathy Exploit]] · [[Recommender Systems]] · [[Attention Economy]] · [[AI Slop]]
 
 
 ---

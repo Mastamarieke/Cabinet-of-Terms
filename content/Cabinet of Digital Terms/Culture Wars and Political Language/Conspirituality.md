@@ -32,7 +32,7 @@ related_reaction:
 
 **Why This Matters:** **Conspirituality** makes visible that the path to extremism does not always run through explicit political content. The yoga class, the health food shop, the essential oils community — these are documented entry points. Once you know the shared structure, you can read the pathway.
 
-**Relevant terms:** [[Wellness-to-Alt-Right Pipeline]] · [[Purity Culture]] · [[QAnon]] · [[Social Contagion]] · [[Deplatforming]]
+**Related terms:** [[Wellness-to-Alt-Right Pipeline]] · [[Purity Culture]] · [[QAnon]] · [[Social Contagion]] · [[Deplatforming]]
 
 
 ---

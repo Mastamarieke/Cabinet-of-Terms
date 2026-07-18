@@ -32,7 +32,7 @@ related_reaction:
 
 **Why This Matters:** **Anti-woke** makes visible what happens when a political identity is constituted entirely by negation. The movement cannot win, because winning would dissolve the identity. The opposition is the point.
 
-**Relevant terms:** [[Woke Mind Virus]] · [[Red Pill]] · [[Dehumanization]] · [[Flood the Zone]] · [[Purity Culture]]
+**Related terms:** [[Woke Mind Virus]] · [[Red Pill]] · [[Dehumanization]] · [[Flood the Zone]] · [[Purity Culture]]
 
 
 ---

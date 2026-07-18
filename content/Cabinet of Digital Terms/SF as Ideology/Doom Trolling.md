@@ -36,7 +36,7 @@ The pattern extends beyond any individual statement. When one lab claims existen
 
 The stakes of the confusion are concrete: doom trolling monopolises attention on speculative future dangers while directing it away from present structural harms — algorithmic bias, surveillance infrastructure, labour displacement, energy consumption. The existential AI that might arrive in ten years displaces the [[Surveillance Capitalism]] that is operating right now. Once you can name doom trolling as a strategy, the question changes from *is the doom probable?* to *who needs you to believe it is?*
 
-**Relevant terms:** [[Doomerism]] · [[Longtermism]] · [[The Singularity]] · [[AGI]] · [[Mimetic Desire]] · [[Digital Frankenstein]] · [[Surveillance Capitalism]]
+**Related terms:** [[Doomerism]] · [[Longtermism]] · [[The Singularity]] · [[AGI]] · [[Mimetic Desire]] · [[Digital Frankenstein]] · [[Surveillance Capitalism]] · [[Skynet]]
 
 ---
 **Read more:**

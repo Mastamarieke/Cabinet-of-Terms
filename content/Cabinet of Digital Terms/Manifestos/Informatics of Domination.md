@@ -35,7 +35,7 @@ related_reaction:
 
 **Why This Matters:** **Informatics of domination** names the continuity between old hierarchies and new systems. Once you see it, "the algorithm is neutral" becomes a political statement rather than a technical description.
 
-**Relevant terms:** [[Situated Knowledge]] · [[Cyborg]] · [[Surveillance Capitalism]] · [[Algorithmic Violence]] · [[Black Box]]
+**Related terms:** [[Situated Knowledge]] · [[Cyborg]] · [[Surveillance Capitalism]] · [[Algorithmic Violence]] · [[Black Box]] · [[Digital Colonialism]]
 
 
 ---

@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Nomophobia** makes visible the difference between useful tool and structural dependency. Once you see the design choices that produced the anxiety, "I can't be without my phone" becomes a different kind of sentence.
 
-**Relevant terms:** [[Phantom Vibration Syndrome]] · [[Predatory Design]] · [[Dopamine Feedback Loops]] · [[Technostress]] · [[Digital Detox]]
+**Related terms:** [[Phantom Vibration Syndrome]] · [[Predatory Design]] · [[Dopamine Feedback Loops]] · [[Technostress]] · [[Digital Detox]]
 
 
 ---

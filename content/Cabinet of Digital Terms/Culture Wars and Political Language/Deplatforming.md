@@ -32,7 +32,7 @@ related_reaction:
 
 **Why This Matters:** **Deplatforming** makes visible the limits of content moderation as a response to political violence. The platform can remove the account. It cannot remove the ideology. The question of what comes next — and who is responsible for it — remains unanswered.
 
-**Relevant terms:** [[Subhuman]] · [[Great Replacement]] · [[QAnon]] · [[Deep State]] · [[Brussels Effect]]
+**Related terms:** [[Subhuman]] · [[Great Replacement]] · [[QAnon]] · [[Deep State]] · [[Brussels Effect]] · [[Flood the Zone]]
 
 
 ---

@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Hacker ethic** names the original values of the digital age and their subsequent commercialisation. Once you know the ethic, you can ask of any tech company claiming its inheritance: which parts did you keep?
 
-**Relevant terms:** [[Digital Libertarianism]] · [[Obfuscation]] · [[Unblackboxing]] · [[Black Box]] · [[Cyberfeminism]]
+**Related terms:** [[Digital Libertarianism]] · [[Obfuscation]] · [[Unblackboxing]] · [[Black Box]] · [[Cyberfeminism]]
 
 
 ---

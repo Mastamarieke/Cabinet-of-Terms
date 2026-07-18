@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Revolving door** names the personnel mechanism of regulatory capture. Once you see it, "the regulator is independent" requires examination: where did they work before, where will they work next, and what relationships does that create?
 
-**Relevant terms:** [[Digital-Military-Industrial Complex]] · [[Military-Industrial Complex]] · [[Broligarchy]] · [[Dual-Use Technology]] · [[Brussels Effect]]
+**Related terms:** [[Digital-Military-Industrial Complex]] · [[Military-Industrial Complex]] · [[Broligarchy]] · [[Dual-Use Technology]] · [[Brussels Effect]]
 
 
 ---

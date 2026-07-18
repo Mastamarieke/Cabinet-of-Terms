@@ -32,7 +32,7 @@ related_reaction:
 
 **Why This Matters:** **QAnon** makes visible the full arc of digital radicalisation: from anonymous imageboard post to parliamentary storming in four years. The speed is new. The structure — hidden elite, awakened community, imminent reckoning — is ancient.
 
-**Relevant terms:** [[Deep State]] · [[Red Pill]] · [[Conspirituality]] · [[Flood the Zone]] · [[Deplatforming]]
+**Related terms:** [[Deep State]] · [[Red Pill]] · [[Conspirituality]] · [[Flood the Zone]] · [[Deplatforming]] · [[Recommender Systems]]
 
 
 ---

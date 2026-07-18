@@ -29,11 +29,11 @@ related_reaction:
 
 **The Appeal:** The **panopticon** is efficient. If inmates (citizens, employees, users) regulate themselves, the cost of surveillance is dramatically reduced. The design is scalable: a small number of observers can manage a large number of observed. Modern digital platforms approach the panoptic ideal: user behaviour is tracked continuously, but users rarely know which behaviours are being monitored, analysed, or acted upon.
 
-**The Friction:** [[Surveillance Capitalism — Society and Power]] is the commercial form of the **panopticon**: behavioural tracking that is continuous but whose use is opaque. [[Social Credit System]] is the governance form: scoring that shapes behaviour through the uncertainty of its criteria. [[Biometric Surveillance]] is the physical intensification: when your face, gait, and heartrate are readable, the **panopticon** extends to bodily presence. Foucault's insight was that panoptic surveillance is most effective when it is internalised — when people police themselves. The question is not "am I being watched?" but "have I changed my behaviour because I might be?" Van Iperen (2026) identifies a post-panoptic shift beyond this: in Halter's livestock tracking system — and its human equivalent, the smartphone — the subject does not internalise the gaze at all. The system detects state and corrects behaviour directly, without the subject's awareness. The fence is virtual; the correction is automatic; no guard is needed. The relevant question is no longer "am I being watched?" but "in which direction am I being steered?"
+**The Friction:** [[Surveillance Capitalism (Political Economy)]] is the commercial form of the **panopticon**: behavioural tracking that is continuous but whose use is opaque. [[Social Credit System]] is the governance form: scoring that shapes behaviour through the uncertainty of its criteria. [[Biometric Surveillance]] is the physical intensification: when your face, gait, and heartrate are readable, the **panopticon** extends to bodily presence. Foucault's insight was that panoptic surveillance is most effective when it is internalised — when people police themselves. The question is not "am I being watched?" but "have I changed my behaviour because I might be?" Van Iperen (2026) identifies a post-panoptic shift beyond this: in Halter's livestock tracking system — and its human equivalent, the smartphone — the subject does not internalise the gaze at all. The system detects state and corrects behaviour directly, without the subject's awareness. The fence is virtual; the correction is automatic; no guard is needed. The relevant question is no longer "am I being watched?" but "in which direction am I being steered?"
 
 **Why This Matters:** **Panopticon** provides the analytical vocabulary for asking: has the awareness of surveillance already changed how you behave, before any surveillance has occurred? Once you ask that question, the political effect of surveillance systems is visible even when no specific observation has happened.
 
-**Relevant terms:** [[Surveillance Capitalism — Society and Power]] · [[Social Credit System]] · [[Biometric Surveillance]] · [[Cybernetic Governance]] · [[Obfuscation]]
+**Related terms:** [[Surveillance Capitalism (Political Economy)]] · [[Social Credit System]] · [[Biometric Surveillance]] · [[Cybernetic Governance]] · [[Obfuscation]]
 
 
 ---
@@ -48,7 +48,7 @@ related_reaction:
 
 **Layer:** Mechanism — a structure of surveillance whose power derives from the uncertainty of observation rather than its certainty
 
-**Cause:** [[Surveillance Capitalism — Society and Power]] · [[Cybernetic Governance]]
+**Cause:** [[Surveillance Capitalism (Political Economy)]] · [[Cybernetic Governance]]
 **Mechanism:** [[Social Credit System]] · [[Biometric Surveillance]]
 **Consequence:** [[Social Credit System]] · [[Algorithmic Violence]]
 **Reaction:** [[Obfuscation]] · [[Brussels Effect]]

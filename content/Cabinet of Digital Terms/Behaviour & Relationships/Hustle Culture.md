@@ -32,7 +32,7 @@ related_reaction:
 
 **Why This Matters:** **Hustle culture** names the ideology that makes overwork feel like freedom. Once you see the structure — rest as failure, productivity as virtue — the question shifts from "am I working hard enough?" to "who benefits from my belief that I am not?"
 
-**Relevant terms:** [[Creator Economy]] · [[Personal Branding]] · [[Doom Spending]] · [[JOMO]] · [[Imposter Syndrome]]
+**Related terms:** [[Creator Economy]] · [[Personal Branding]] · [[Doom Spending]] · [[JOMO]] · [[Imposter Syndrome]]
 
 
 ---

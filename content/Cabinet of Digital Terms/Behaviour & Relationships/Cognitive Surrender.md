@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Cognitive surrender** is invisible in the moment and visible only in retrospect — when the question is hard and the tool is absent, and the thinking does not come.
 
-**Relevant terms:** [[Cognitive Offloading]] · [[AI Dependency]] · [[Doomscrolling]] · [[Deskilling]] · [[AI Literacy]]
+**Related terms:** [[Cognitive Offloading]] · [[AI Dependency]] · [[Doomscrolling]] · [[Deskilling]] · [[AI Literacy]]
 
 
 ---

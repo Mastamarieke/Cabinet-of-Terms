@@ -31,7 +31,7 @@ related_reaction:
 
 **Why This Matters:** **Rizz** is a useful reminder that subcultural vocabulary travels with its original context stripped away — and that the new context it enters shapes what the word becomes. In its original register, rizz was descriptive. In the self-improvement ecosystem, it became a product.
 
-**Relevant terms:** [[Looksmaxxing]] · [[Hypergamy]] · [[Incel]] · [[SMV (Sexual Market Value)]] · [[High Value Man]] · [[Manosphere]]
+**Related terms:** [[Looksmaxxing]] · [[Hypergamy]] · [[Incel]] · [[SMV (Sexual Market Value)]] · [[High Value Man]] · [[Manosphere]]
 
 
 ---

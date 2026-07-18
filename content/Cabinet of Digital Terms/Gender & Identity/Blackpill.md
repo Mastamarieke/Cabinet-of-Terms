@@ -32,7 +32,7 @@ related_reaction:
 
 **Why This Matters:** **Blackpill** makes visible how deterministic ideology functions as a closed system: it explains everything, can be confirmed by any outcome, and makes exit difficult. The pain underneath it is real. The framework makes it permanent.
 
-**Relevant terms:** [[SMV (Sexual Market Value)]] · [[Incel]] · [[Manosphere]] · [[Sigma Male]] · [[MGTOW]] · [[Looksmaxxing]]
+**Related terms:** [[SMV (Sexual Market Value)]] · [[Incel]] · [[Manosphere]] · [[Sigma Male]] · [[MGTOW]] · [[Looksmaxxing]] · [[Red Pill]]
 
 
 ---

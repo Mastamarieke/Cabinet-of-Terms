@@ -45,9 +45,6 @@ The WHO gave it a name. The gaming industry said it did not exist. The child cou
 ### [[Online Grooming]]
 The conversation begins as friendship. It moves gradually. Each step is small enough to seem unremarkable.
 
-### [[Brain Rot]]
-You open the app. Forty minutes pass. Something feels different — slower, flatter. You already know what it is called.
-
 ### [[FOMO]]
 The phone lights up. You do not check it immediately. But you wonder what you are missing. That wondering is the product.
 

@@ -1,7 +1,6 @@
 ---
 title: "Sources"
 cluster: Platform Mechanisms & Economics
-tags: [source-index]
 ---
 
 Bronmateriaal gebruikt bij de analyse van [[Ragebaiting]].

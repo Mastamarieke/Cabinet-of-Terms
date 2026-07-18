@@ -1,5 +1,5 @@
 ---
-title: "Ging (2019)"
+title: "Ging (2019) — Sigma Male"
 full_title: "Alphas, Betas, and Incels: Theorizing the Masculinities of the Manosphere"
 type: source
 source_role: primary
@@ -14,7 +14,7 @@ access: paywalled
 self_archived_copy_url: https://www.semanticscholar.org/paper/2fe1adb954bcea424f56836787366e5ee67b3614
 discipline: [Gender Studies, Media Studies, Sociology]
 cluster: [Masculinity Studies, Manosphere]
-linked_entries: ["[[Sigma-Male]]", "[[Alpha-Male]]", "[[Beta-Male]]", "[[Incel]]", "[[Red-Pill]]"]
+linked_entries: ["[[Sigma Male]]", "[[Alpha Male]]", "[[Beta-Male]]", "[[Incel]]", "[[Red Pill]]"]
 tags: [source, primary, academic, peer-reviewed]
 ---
 

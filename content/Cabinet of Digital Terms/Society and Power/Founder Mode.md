@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Founder mode** names an ideology that makes the removal of governance look like operational excellence. Once you see the move — accountability structures framed as bureaucratic obstacles — you can identify it wherever it appears: in companies, in government agencies, and in arguments for why exceptional leaders should not be constrained by ordinary rules.
 
-**Relevant terms:** [[Muskism]] · [[Hubris Syndrome]] · [[Objectivism (Rand)]] · [[Broligarchy]] · [[Situated Knowledge]]
+**Related terms:** [[Muskism]] · [[Hubris Syndrome]] · [[Objectivism (Rand)]] · [[Broligarchy]] · [[Situated Knowledge]]
 
 
 ---

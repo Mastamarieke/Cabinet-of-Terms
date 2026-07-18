@@ -32,7 +32,7 @@ The activist Aurora Gómez of this collective notes that even local mayors have 
 
 **Why This Matters:** Water consumption breaks the abstraction of the cloud more viscerally than electricity statistics. A river is a place. A drought is experienced by people. *Tu Nube Seca Mi Río* names it in four words.
 
-**Relevant terms:** [[AI Energy Consumption]] · [[Externalized Costs]] · [[Sacrifice Zones]] · [[Digital Colonialism]] · [[Greenwashing]]
+**Related terms:** [[AI Energy Consumption]] · [[Externalized Costs]] · [[Sacrifice Zones]] · [[Digital Colonialism]] · [[Greenwashing]]
 
 
 ---

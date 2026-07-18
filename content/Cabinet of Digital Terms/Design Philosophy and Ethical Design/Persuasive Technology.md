@@ -35,7 +35,7 @@ related_reaction:
 
 **Why This Matters:** **Persuasive technology** names the design intent that platforms rarely disclose. Knowing that an interface was built to change your behaviour — not to serve your goals — reframes every engagement signal. The notification you just responded to was not spontaneous. It was designed.
 
-**Relevant terms:** [[Dark Patterns]] · [[Nudging]] · [[Dopamine Feedback Loops]] · [[Frictionful Design]] · [[Gamification Creep]]
+**Related terms:** [[Dark Patterns]] · [[Nudging]] · [[Dopamine Feedback Loops]] · [[Frictionful Design]] · [[Gamification Creep]]
 
 
 ---

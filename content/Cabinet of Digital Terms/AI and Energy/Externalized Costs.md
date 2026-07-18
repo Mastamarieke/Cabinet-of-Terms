@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Externalized costs** make visible the structural relationship between price and harm. The AI service that appears free is internalising only a fraction of its actual cost. Once you know to ask *who is paying the rest*, the market price of a technology becomes one figure among several — and not the most important one.
 
-**Relevant terms:** [[AI Energy Consumption]] · [[Carbon Footprint of AI]] · [[Sacrifice Zones]] · [[Digital Colonialism]] · [[Greenwashing]]
+**Related terms:** [[AI Energy Consumption]] · [[Carbon Footprint of AI]] · [[Sacrifice Zones]] · [[Digital Colonialism]] · [[Greenwashing]]
 
 
 ---

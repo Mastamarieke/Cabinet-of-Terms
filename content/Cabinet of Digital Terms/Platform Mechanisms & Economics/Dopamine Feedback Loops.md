@@ -34,7 +34,7 @@ related_reaction:
 
 **Why This Matters:** **Dopamine feedback loops** make visible that platform engagement is not incidental — it is engineered. The pull of the notification is not a personality trait. It is a designed stimulus.
 
-**Relevant terms:** [[Recommender Systems]] · [[Predatory Design]] · [[Attention Harvesting]] · [[Ludic Loop]] · [[Gamification Creep]] · [[Gaming Disorder]] · [[Nomophobia]]
+**Related terms:** [[Recommender Systems]] · [[Predatory Design]] · [[Attention Harvesting]] · [[Ludic Loop]] · [[Gamification Creep]] · [[Gaming Disorder]] · [[Nomophobia]]
 
 
 ---

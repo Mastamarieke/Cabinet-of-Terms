@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Attention harvesting** reframes the relationship between user and platform. The user is not the customer — they are the product. Once you know the transaction, "free" platform means something different.
 
-**Relevant terms:** [[Attention Economy]] · [[Dopamine Feedback Loops]] · [[Recommender Systems]] · [[Dark Patterns]] · [[Cognitive Surrender]]
+**Related terms:** [[Attention Economy]] · [[Dopamine Feedback Loops]] · [[Recommender Systems]] · [[Dark Patterns]] · [[Cognitive Surrender]]
 
 
 ---

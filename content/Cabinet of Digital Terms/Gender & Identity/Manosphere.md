@@ -35,7 +35,7 @@ Influencers commonly associated with the **manosphere** include Andrew Tate, who
 
 **Why This Matters:** **Manosphere** names an ecosystem, not a monolith. Once you see it as an ecosystem — with entry points, graduation pathways, and community structures — "he watches those videos" becomes a different kind of observation.
 
-**Relevant terms:** [[Incel]] · [[MGTOW]] · [[Sigma Male]] · [[Alpha Male]] · [[SMV (Sexual Market Value)]] · [[Blackpill]] · [[Red Pill]] · [[Tradwife]] · [[Dehumanization]]
+**Related terms:** [[Incel]] · [[MGTOW]] · [[Sigma Male]] · [[Alpha Male]] · [[SMV (Sexual Market Value)]] · [[Blackpill]] · [[Red Pill]] · [[Tradwife]] · [[Dehumanization]] · [[Recommender Systems]]
 
 
 ---

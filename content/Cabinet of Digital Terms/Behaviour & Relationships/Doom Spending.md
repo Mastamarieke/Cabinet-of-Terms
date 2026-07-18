@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Doom spending** makes visible the connection between future anxiety and present consumption — and the specific way that consumer platforms profit from that connection. Once you see the emotional mechanism, the purchase is a different kind of decision.
 
-**Relevant terms:** [[Hustle Culture]] · [[Dopamine Feedback Loops]] · [[FOBO]] · [[Comparison Culture]] · [[JOMO]]
+**Related terms:** [[Hustle Culture]] · [[Dopamine Feedback Loops]] · [[FOBO]] · [[Comparison Culture]] · [[JOMO]]
 
 
 ---

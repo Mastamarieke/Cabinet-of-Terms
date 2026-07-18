@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **CLOUD Act** names the legal conflict at the heart of EU digital infrastructure. Once you know the law exists, any claim that EU organisations' data is protected by GDPR when stored in US cloud services requires qualification: it is protected from commercial data extraction, but not from US government access.
 
-**Relevant terms:** [[Brussels Effect]] · [[Vendor Lock-in]] · [[Surveillance Capitalism]] · [[Privacy Washing]] · [[Algorithmic Violence]]
+**Related terms:** [[Brussels Effect]] · [[Vendor Lock-in]] · [[Surveillance Capitalism]] · [[Privacy Washing]] · [[Algorithmic Violence]]
 
 
 ---

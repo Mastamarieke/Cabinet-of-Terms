@@ -54,7 +54,7 @@ At the extreme end: **De Coninck** (2026) documents AI-generated personas posing
 
 **Why This Matters:** The virtual influencer makes visible what the [[Influencer]] form always contained: trust is the product. The virtual influencer makes it explicit — by engineering trust directly, without a person involved.
 
-**Relevant terms:** [[Influencer]] · [[Parasocial Relationship]] · [[Highlight Reel]] · [[Recommender Systems]] · [[Comparison Culture]] · [[Deepfake]] · [[Catfishing]] · [[Synthetic Generation]] · [[Deinfluencing]]
+**Related terms:** [[Influencer]] · [[Parasocial Relationship]] · [[Highlight Reel]] · [[Recommender Systems]] · [[Comparison Culture]] · [[Deepfake]] · [[Catfishing]] · [[Synthetic Generation]] · [[Deinfluencing]]
 
 ---
 

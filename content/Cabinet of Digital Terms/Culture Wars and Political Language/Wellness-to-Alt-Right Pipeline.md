@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** The **wellness-to-alt-right pipeline** makes visible that extremism recruitment does not require extremist entry points. The doorway is detox. The destination is somewhere else. Once you know the pathway, you can read its stages.
 
-**Relevant terms:** [[Conspirituality]] · [[Purity Culture]] · [[Tradwife]] · [[QAnon]] · [[Recommender Systems]] · [[Great Replacement]] · [[Ragebaiting]]
+**Related terms:** [[Conspirituality]] · [[Purity Culture]] · [[Tradwife]] · [[QAnon]] · [[Recommender Systems]] · [[Great Replacement]] · [[Ragebaiting]]
 
 
 ---

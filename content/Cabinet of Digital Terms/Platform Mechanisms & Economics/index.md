@@ -74,9 +74,6 @@ Measuring brain activity to optimise persuasion. The consumer research that does
 ### [[Nudging]]
 Steering behaviour through environmental design, without prohibition or instruction. The default as the decision.
 
-### [[Predatory Design]]
-Design choices aimed at maximum playtime and spending, particularly targeting children.
-
 ### [[Ragebaiting]]
 Content deliberately designed to provoke outrage. Anger is the most shareable emotion.
 

@@ -31,7 +31,7 @@ related_reaction:
 
 **Why This Matters:** **Catfishing** makes visible the gap between identity and persona on digital platforms — and the emotional cost of closing that gap badly.
 
-**Relevant terms:** [[Ghosting]] · [[Online Grooming]] · [[Parasocial Relationship]] · [[Predatory Design]] · [[AI Literacy]]
+**Related terms:** [[Ghosting]] · [[Online Grooming]] · [[Parasocial Relationship]] · [[Predatory Design]] · [[AI Literacy]]
 
 
 ---

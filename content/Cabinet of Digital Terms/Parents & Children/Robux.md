@@ -32,7 +32,7 @@ related_reaction:
 
 **Why This Matters:** **Robux** makes visible the specific mechanism by which real economic transactions are obscured from children. The number is real. The money it represents is less visible. Once you see the conversion as a design choice, the "it's just **Robux**" response to a child's spending becomes a different sentence.
 
-**Relevant terms:** [[Roblox]] · [[Loot Boxes]] · [[Predatory Design]] · [[Gamification Creep]] · [[Fair Patterns]]
+**Related terms:** [[Roblox]] · [[Loot Boxes]] · [[Predatory Design]] · [[Gamification Creep]] · [[Fair Patterns]]
 
 
 ---

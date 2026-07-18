@@ -31,7 +31,7 @@ related_reaction:
 
 **Why This Matters:** Once you know sycophancy is a structural feature, "the AI agreed with me" becomes a sentence that carries no evidential weight. The agreement was not independent — it was trained in.
 
-**Relevant terms:** [[AI Hallucination]] · [[AI Literacy]] · [[AI Dependency]] · [[Cognitive Offloading]] · [[Deskilling]]
+**Related terms:** [[AI Hallucination]] · [[AI Literacy]] · [[AI Dependency]] · [[Cognitive Offloading]] · [[Deskilling]]
 
 
 ---

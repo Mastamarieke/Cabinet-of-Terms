@@ -32,7 +32,7 @@ related_reaction:
 
 **Why This Matters:** **Tech abandonment** makes visible the endpoint of a design process that excluded certain users from the start. The person who stopped using the system is not failing to adapt — they are responding rationally to a system that did not work for them. The design failure happened long before the abandonment decision.
 
-**Relevant terms:** [[Ageism (Digital)]] · [[Digital Ageing]] · [[Digital Exclusion]] · [[Technostress]] · [[Inclusive Design]]
+**Related terms:** [[Ageism (Digital)]] · [[Digital Ageing]] · [[Digital Exclusion]] · [[Technostress]] · [[Inclusive Design]]
 
 
 ---

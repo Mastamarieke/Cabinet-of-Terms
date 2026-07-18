@@ -31,7 +31,7 @@ related_reaction:
 
 **Why This Matters:** **Text claw** is the most literal evidence that platform design has physical consequences. The pain in your thumb is a design outcome. Not a side effect — a predictable result of systems engineered to maximise the time you spend using them.
 
-**Relevant terms:** [[Tech Neck]] · [[Nomophobia]] · [[Predatory Design]] · [[Dopamine Feedback Loops]] · [[Technostress]]
+**Related terms:** [[Tech Neck]] · [[Nomophobia]] · [[Predatory Design]] · [[Dopamine Feedback Loops]] · [[Technostress]]
 
 
 ---

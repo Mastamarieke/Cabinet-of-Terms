@@ -34,7 +34,7 @@ Recent developments in generative AI have further complicated these debates. Res
 
 **Why This Matters:** **Sexting** makes visible the gap between legal frameworks designed for adult contexts and the digital realities of adolescent life. Once you distinguish peer **sexting** from coerced production, the policy question becomes more precise — and the harm to adolescents criminalised for the former becomes more visible.
 
-**Relevant terms:** [[Online Grooming]] · [[Catfishing]] · [[Predatory Design]] · [[Roblox]] · [[Brussels Effect]]
+**Related terms:** [[Online Grooming]] · [[Catfishing]] · [[Predatory Design]] · [[Roblox]] · [[Brussels Effect]]
 
 
 ---

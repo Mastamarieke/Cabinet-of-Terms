@@ -35,7 +35,7 @@ The detox is also distributed by the platforms it critiques. The retreat gets bo
 
 **Why This Matters:** **Digital detox** makes individual behaviour the solution to a structural problem. Once you see that move, you see it everywhere — in **screen time** advice, in mindfulness apps, in every wellness product that turns platform damage into a personal growth opportunity.
 
-**Relevant terms:** [[Slow Media]] · [[Unplugging]] · [[Tech-Free Challenge]] · [[Attention Harvesting]] · [[Predatory Design]]
+**Related terms:** [[Slow Media]] · [[Unplugging]] · [[Tech-Free Challenge]] · [[Attention Harvesting]] · [[Predatory Design]]
 
 
 ---

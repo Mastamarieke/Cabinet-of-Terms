@@ -35,7 +35,7 @@ related_reaction:
 
 **Why This Matters:** **Red pill** makes visible the mechanism of radicalisation-through-epistemology: not changing what you believe, but changing how you know. Once the world is divided into those who see and those who are deceived, evidence to the contrary becomes impossible to process.
 
-**Relevant terms:** [[Blackpill]] · [[Woke Mind Virus]] · [[QAnon]] · [[Manosphere]] · [[Great Replacement]]
+**Related terms:** [[Blackpill]] · [[Woke Mind Virus]] · [[QAnon]] · [[Manosphere]] · [[Great Replacement]] · [[Recommender Systems]]
 
 
 ---

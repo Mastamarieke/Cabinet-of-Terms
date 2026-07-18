@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Age of Average** names the aesthetic consequence of algorithmic optimisation. Once you can see the convergence, you can ask what has been filtered out — and whose aesthetic got to become the default.
 
-**Relevant terms:** [[Recommender Systems]] · [[AI Slop]] · [[Synthetic Generation]] · [[Comparison Culture]] · [[Slow Media]]
+**Related terms:** [[Recommender Systems]] · [[AI Slop]] · [[Synthetic Generation]] · [[Comparison Culture]] · [[Slow Media]]
 
 
 ---

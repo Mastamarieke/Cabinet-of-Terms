@@ -32,7 +32,7 @@ The analytical sting of **wexting** is not the behaviour itself but the policy r
 **Why This Matters**
 Once you see **wexting** infrastructure as an externalised cost of platform design, you see that the public space is quietly being redesigned around a privately owned distraction mechanism — and that no one voted for it.
 
-**Relevant terms:** [[Attention Harvesting]] · [[Smombie|Smombie]] · [[Dopamine Feedback Loops]]
+**Related terms:** [[Attention Harvesting]] · [[Smombie|Smombie]] · [[Dopamine Feedback Loops]]
 
 
 ---

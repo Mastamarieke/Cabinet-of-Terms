@@ -32,7 +32,7 @@ related_reaction:
 
 **Why This Matters:** **Algospeak** is a living record of what platforms suppress. Once you can read it, the vocabulary in use on a platform is also evidence about the architecture's values — what kinds of speech it treats as normal, and what it pushes to the margins.
 
-**Relevant terms:** [[Content Moderator]] · [[Recommender Systems]] · [[Deplatforming]] · [[Ragebaiting]] · [[Coded -Pilled]]
+**Related terms:** [[Content Moderator]] · [[Recommender Systems]] · [[Deplatforming]] · [[Ragebaiting]] · [[Coded -Pilled]]
 
 
 ---

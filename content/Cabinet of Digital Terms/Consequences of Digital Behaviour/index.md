@@ -44,3 +44,6 @@ Walking while texting. Pedestrian infrastructure now adapts to the phone rather 
 ### [[Cyberchondria]]
 Health anxiety escalated through repeated online symptom searching. The algorithm surfaces alarming results. The loop continues. *(new V10)*
 
+### [[Brain Rot]]
+Oxford Word of the Year 2024. A subcultural self-diagnosis for the cognitive flatness that follows extended algorithmic consumption — named from inside the feed. *(moved from Subcultural Vocabulary / Parents & Children, V24)*
+

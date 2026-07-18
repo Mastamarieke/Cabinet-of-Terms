@@ -18,9 +18,6 @@ Systematically integrating human values into the design process from the start â
 ### [[Calm Technology]]
 Weiser and Brown, 1995. Technology that informs without demanding. The background, not the foreground.
 
-### [[Deceptive Design]]
-The academically preferred term for dark patterns. Legally stronger. More precise. Harder to dismiss.
-
 ### [[Fair Patterns]]
 The direct counterpart to dark patterns. Same structural logic, opposite intent. Design that works for the user.
 

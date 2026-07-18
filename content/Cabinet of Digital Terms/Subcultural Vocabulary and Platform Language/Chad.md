@@ -33,7 +33,7 @@ Czerwinsky (2024) documents that **Chad** is almost invariably depicted as white
 **Why This Matters**
 Once you see **Chad** as a normative standard rather than slang, you see that the term distributes a specific model of masculine worth — competitive, hierarchical, racially encoded — through platforms too fast for its ideological content to register.
 
-**Relevant terms:** [[Incel|Incel]] · [[SMV (Sexual Market Value)]] · [[Looksmaxxing|Looksmaxxing]] · [[Coded -Pilled]]
+**Related terms:** [[Incel|Incel]] · [[SMV (Sexual Market Value)]] · [[Looksmaxxing|Looksmaxxing]] · [[Coded -Pilled]]
 
 
 ---

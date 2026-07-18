@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** Objectivism names the moral philosophy that makes extractive platform capitalism feel like virtue. Once you see it in operation — in how founders talk about disruption, in how taxation is discussed, in how "parasites" are identified — a great deal of tech culture becomes readable as philosophy, not just business strategy.
 
-**Relevant terms:** [[Digital Libertarianism]] · [[Muskism]] · [[Technofeudalism]] · [[Fortress Futurism]] · [[Cyberfeminism]]
+**Related terms:** [[Digital Libertarianism]] · [[Muskism]] · [[Technofeudalism]] · [[Fortress Futurism]] · [[Cyberfeminism]]
 
 
 ---

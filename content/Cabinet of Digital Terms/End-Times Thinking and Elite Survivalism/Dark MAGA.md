@@ -39,7 +39,7 @@ This dynamic also connects to broader research on extremist political culture. I
 
 **Why This Matters:** **Dark MAGA** makes visible the irony-to-earnest pipeline in political radicalisation. Once you see the transit mechanism — ironic register as a bridge to earnest adoption — you can identify it wherever aesthetic extremism precedes political extremism.
 
-**Relevant terms:** [[Endtime Fascism]] · [[Muskism]] · [[Flood the Zone]] · [[Technofascism]] · [[Coded -Pilled]]
+**Related terms:** [[Endtime Fascism]] · [[Muskism]] · [[Flood the Zone]] · [[Technofascism]] · [[Coded -Pilled]]
 
 
 ---

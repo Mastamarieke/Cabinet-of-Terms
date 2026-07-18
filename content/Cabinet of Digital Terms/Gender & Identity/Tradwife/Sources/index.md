@@ -1,7 +1,6 @@
 ---
 title: "Sources"
 cluster: Gender & Identity
-tags: [source-index]
 ---
 
 Bronmateriaal gebruikt bij de analyse van [[Tradwife]].

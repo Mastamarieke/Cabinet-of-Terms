@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Transhumanism** names the ideology that makes Silicon Valley billionaires' personal immortality projects feel like universal human progress. Once you see who the "we" is in "we can transcend human limitations," the universalism of the claim becomes legible as a particular class interest.
 
-**Relevant terms:** [[The Singularity]] · [[Mind Uploading]] · [[Neuralink]] · [[Longtermism]] · [[Objectivism (Rand)]]
+**Related terms:** [[The Singularity]] · [[Mind Uploading]] · [[Neuralink]] · [[Longtermism]] · [[Objectivism (Rand)]] · [[Fortress Futurism]]
 
 
 ---

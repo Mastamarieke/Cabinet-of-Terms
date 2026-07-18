@@ -32,7 +32,7 @@ related_reaction:
 
 **Why This Matters:** **Obfuscation** makes visible that opacity is a choice with a direction — it protects someone from someone else. Once you ask who is being protected from whom by any given opacity, the politics of the system becomes legible.
 
-**Relevant terms:** [[Black Box]] · [[Dark Patterns]] · [[Privacy Washing]] · [[Surveillance Capitalism]] · [[Unblackboxing]]
+**Related terms:** [[Black Box]] · [[Dark Patterns]] · [[Privacy Washing]] · [[Surveillance Capitalism]] · [[Unblackboxing]]
 
 
 ---

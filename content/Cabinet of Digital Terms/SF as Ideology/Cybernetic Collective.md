@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Cybernetic collective** names the sleight of hand by which private technology projects are framed as collective human advancement. Once you identify the ownership structure behind the "we," the collective vocabulary becomes legible as branding.
 
-**Relevant terms:** [[Neuralink]] · [[Brain-Computer Interface]] · [[Cyborg Musk]] · [[Technofeudalism]] · [[Cyberfeminism]]
+**Related terms:** [[Neuralink]] · [[Brain-Computer Interface]] · [[Cyborg Musk]] · [[Technofeudalism]] · [[Cyberfeminism]]
 
 
 ---

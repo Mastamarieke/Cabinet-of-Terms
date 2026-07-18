@@ -134,7 +134,7 @@ The Cabinet of Terms is part of a larger project. **Project Digitale Alertheid**
 ## Browse by cluster
 
 <details>
-<summary><strong>Platform Mechanisms & Economics</strong> — 27 terms</summary>
+<summary><strong>Platform Mechanisms & Economics</strong> — 26 terms</summary>
 
 Platforms are not neutral tools. This cluster maps the technical and economic architecture through which platforms shape user behaviour — recommendation algorithms, dark patterns, gamification mechanics, and dopamine loops. The terms here name mechanisms that are easier to resist once they have a name.
 
@@ -334,7 +334,7 @@ AI systems produce convincing text, agree with whatever you say, and gradually m
 </details>
 
 <details>
-<summary><strong>Consequences of Digital Behaviour</strong> — 10 terms</summary>
+<summary><strong>Consequences of Digital Behaviour</strong> — 11 terms</summary>
 
 Tech neck, digital hoarding, cyberchondria, deskilling — these are not extreme cases or personal weaknesses. They are design outcomes. This cluster maps what happens to bodies and minds as a result of sustained engagement with systems optimised for engagement rather than wellbeing.
 
@@ -354,7 +354,7 @@ Tech neck, digital hoarding, cyberchondria, deskilling — these are not extreme
 </details>
 
 <details>
-<summary><strong>Beauty, Influencers & Self-Image</strong> — 14 terms</summary>
+<summary><strong>Beauty, Influencers & Self-Image</strong> — 13 terms</summary>
 
 The platform economy of appearance distributes body norms as aspiration content, makes comparison ambient, and produces clinical consequences at scale. This cluster maps how platforms shape how people see themselves and each other.
 
@@ -378,7 +378,7 @@ The platform economy of appearance distributes body norms as aspiration content,
 </details>
 
 <details>
-<summary><strong>Parents & Children</strong> — 14 terms</summary>
+<summary><strong>Parents & Children</strong> — 13 terms</summary>
 
 Platforms are not designed with children in mind — they are designed for engagement. This cluster maps terms relevant to parents and young people navigating environments built to capture attention, normalise spending, and exploit social anxiety.
 
@@ -431,7 +431,7 @@ Digital detox, slow media, mindful scrolling — resistance to platform culture 
 </details>
 
 <details>
-<summary><strong>Design Philosophy and Ethical Design</strong> — 13 terms</summary>
+<summary><strong>Design Philosophy and Ethical Design</strong> — 12 terms</summary>
 
 Platform design is not inevitable — it is chosen. This cluster maps frameworks developed by designers who have decided that user interest matters as much as engagement metrics: Value Sensitive Design, fair patterns, participatory design, design justice.
 
@@ -563,7 +563,7 @@ These jobs exist because something in the system is not working. Content moderat
 </details>
 
 <details>
-<summary><strong>Subcultural Vocabulary and Platform Language</strong> — 13 terms</summary>
+<summary><strong>Subcultural Vocabulary and Platform Language</strong> — 12 terms</summary>
 
 Language that originates online, moves offline, and mutates constantly. This cluster maps how platform architecture shapes language, and how words travel from specific subcultures into general use, carrying their original context invisibly with them.
 

@@ -32,7 +32,7 @@ related_reaction:
 
 **Why This Matters:** **Top 1% man** makes visible the commercial function of aspirational standards in self-improvement content. The goal is not your success — it is your continued engagement. Once you see that, the relationship between the content creator and the viewer becomes a different kind of transaction.
 
-**Relevant terms:** [[SMV (Sexual Market Value)]] · [[Hypergamy]] · [[Tradwife]] · [[Manosphere]] · [[High Value Man]] · [[Alpha Male]] · [[Comparison Culture]]
+**Related terms:** [[SMV (Sexual Market Value)]] · [[Hypergamy]] · [[Tradwife]] · [[Manosphere]] · [[High Value Man]] · [[Alpha Male]] · [[Comparison Culture]] · [[Looksmaxxing]] · [[Hustle Culture]]
 
 
 ---

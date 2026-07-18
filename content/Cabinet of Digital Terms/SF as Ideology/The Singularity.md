@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **The Singularity** names the rhetorical move of making AI sound inevitable and transcendent — which forecloses questions about who is building it, who benefits, and who bears the costs. Once you see the move, "**the Singularity** is near" is not a prediction. It is a political position.
 
-**Relevant terms:** [[AGI]] · [[Transhumanism]] · [[Longtermism]] · [[Doomerism]] · [[AI Literacy]]
+**Related terms:** [[AGI]] · [[Transhumanism]] · [[Longtermism]] · [[Doomerism]] · [[AI Literacy]]
 
 
 ---

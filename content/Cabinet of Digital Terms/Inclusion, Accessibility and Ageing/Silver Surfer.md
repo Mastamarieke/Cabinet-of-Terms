@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Silver surfer** makes visible how positive framing can embed the same assumptions as negative framing. Celebrating older people online still treats their presence as surprising. Once you see that, the question shifts from "how do we get more silver surfers?" to "why do we need a special category at all?"
 
-**Relevant terms:** [[Ageism (Digital)]] · [[Digital Ageing]] · [[Digital Exclusion]] · [[Tech Abandonment]] · [[Inclusive Design]]
+**Related terms:** [[Ageism (Digital)]] · [[Digital Ageing]] · [[Digital Exclusion]] · [[Tech Abandonment]] · [[Inclusive Design]]
 
 
 ---

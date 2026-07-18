@@ -35,7 +35,7 @@ related_reaction:
 
 **Why This Matters:** **Military-industrial complex** names a structural entanglement that persists regardless of the intentions of its participants. Eisenhower's point was not that the participants are corrupt but that the structure produces systematic pressure. Once you see the structure, individual decisions become legible as responses to incentives that are not primarily strategic.
 
-**Relevant terms:** [[Digital-Military-Industrial Complex]] · [[Revolving Door]] · [[Reconstruction Economy]] · [[Dual-Use Technology]] · [[Situated Knowledge]]
+**Related terms:** [[Digital-Military-Industrial Complex]] · [[Revolving Door]] · [[Reconstruction Economy]] · [[Dual-Use Technology]] · [[Situated Knowledge]]
 
 
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Ging (2019)"
+title: "Ging (2019) — Looksmaxxing"
 full_title: "Alphas, Betas, and Incels: Theorizing the Masculinities of the Manosphere"
 type: source
 source_role: primary

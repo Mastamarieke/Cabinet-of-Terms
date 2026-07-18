@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** The **curated life** makes visible what happens when self-presentation becomes continuous and public. The question is not whether curation is authentic — it is what you lose when living and presenting become the same act.
 
-**Relevant terms:** [[Highlight Reel]] · [[Influencer]] · [[Personal Branding]] · [[Comparison Culture]] · [[Deinfluencing]]
+**Related terms:** [[Highlight Reel]] · [[Influencer]] · [[Personal Branding]] · [[Comparison Culture]] · [[Deinfluencing]]
 
 
 ---

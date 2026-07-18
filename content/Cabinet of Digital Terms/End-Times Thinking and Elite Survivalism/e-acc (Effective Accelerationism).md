@@ -37,7 +37,7 @@ As the term spread online in 2023, it became both an ideology and an aesthetic: 
 
 **Why This Matters:** e/acc names the ideological position that treats technological safety as the primary risk — inverting the standard analysis. Once you see it as an ideology rather than a technical position, you can ask: who benefits from the removal of safety constraints, and what is the "probably" in "probably good outcomes" doing?
 
-**Relevant terms:** [[Doomerism]] · [[Longtermism]] · [[Muskism]] · [[Technofascism]] · [[AGI]]
+**Related terms:** [[Doomerism]] · [[Longtermism]] · [[Muskism]] · [[Technofascism]] · [[AGI]]
 
 
 ---

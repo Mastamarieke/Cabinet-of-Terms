@@ -30,7 +30,7 @@ related_reaction:
 
 **Why This Matters:** Once you understand **adversarial design**, you can ask a different question about any designed object: is this thing making a conflict visible, or is it hiding one? A platform's clean interface may be **adversarial design**'s opposite — it smooths over the extraction it performs.
 
-**Relevant terms:** [[Fair Patterns]] · [[Deceptive Design]] · [[Unblackboxing]] · [[VSD (Value Sensitive Design)]]
+**Related terms:** [[Fair Patterns]] · [[Deceptive Design]] · [[Unblackboxing]] · [[VSD (Value Sensitive Design)]]
 
 
 ---

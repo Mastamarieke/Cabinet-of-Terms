@@ -33,7 +33,7 @@ Hara et al. (2018) document earnings averaging $2/hour with no labour protection
 **Why This Matters**
 Once you see **Mechanical Turk** as a labour infrastructure rather than a technology platform, you see that the AI systems presented as autonomous are dependent on an invisible, poorly paid, unprotected global workforce.
 
-**Relevant terms:** [[Ghost Work]] · [[Surveillance Capitalism]] · [[Technofeudalism|Technofeudalism]]
+**Related terms:** [[Ghost Work]] · [[Surveillance Capitalism]] · [[Technofeudalism|Technofeudalism]]
 
 
 ---

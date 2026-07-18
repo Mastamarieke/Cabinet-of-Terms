@@ -31,7 +31,7 @@ related_reaction:
 
 **Why This Matters:** **Brussels Effect** names the most consequential mechanism of global technology governance currently in operation. Once you see how it works — EU market access as regulatory lever — you can read EU digital regulation as having global scope, and assess its adequacy accordingly.
 
-**Relevant terms:** [[CLOUD Act]] · [[Vendor Lock-in]] · [[Surveillance Capitalism]] · [[Dark Patterns]] · [[Fair Patterns]]
+**Related terms:** [[CLOUD Act]] · [[Vendor Lock-in]] · [[Surveillance Capitalism]] · [[Dark Patterns]] · [[Fair Patterns]]
 
 
 ---

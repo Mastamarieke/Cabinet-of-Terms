@@ -31,7 +31,7 @@ related_reaction:
 
 **Why This Matters:** **Toxic positivity** makes visible the difference between genuine wellbeing and its performance. Once you know the term, "everything happens for a reason" lands differently — as a social norm, not a comfort.
 
-**Relevant terms:** [[That Girl]] · [[Highlight Reel]] · [[Curated Life]] · [[Comparison Culture]] · [[Deinfluencing]]
+**Related terms:** [[That Girl]] · [[Highlight Reel]] · [[Curated Life]] · [[Comparison Culture]] · [[Deinfluencing]]
 
 
 ---

@@ -32,7 +32,7 @@ related_reaction:
 
 **Why This Matters:** **Alpha male** makes visible how scientific language can legitimise social ideology even after the science has been corrected. The correction happened. The ideology kept going. The gap between those two facts is worth examining.
 
-**Relevant terms:** [[Sigma Male]] · [[SMV (Sexual Market Value)]] · [[Manosphere]] · [[Incel]] · [[Blackpill]] · [[High Value Man]] · [[Hypergamy]]
+**Related terms:** [[Sigma Male]] · [[SMV (Sexual Market Value)]] · [[Manosphere]] · [[Incel]] · [[Blackpill]] · [[High Value Man]] · [[Hypergamy]]
 
 
 ---

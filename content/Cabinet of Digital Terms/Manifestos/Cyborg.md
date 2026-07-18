@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Cyborg** makes visible how a critical concept can be aesthetically absorbed while its politics are discarded. The boundary-crossing imagery survived. The challenge to power did not.
 
-**Relevant terms:** [[Cyborg Musk]] · [[Situated Knowledge]] · [[Informatics of Domination]] · [[Cyberfeminism]] · [[Transhumanism]]
+**Related terms:** [[Cyborg Musk]] · [[Situated Knowledge]] · [[Informatics of Domination]] · [[Cyberfeminism]] · [[Transhumanism]]
 
 
 ---

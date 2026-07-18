@@ -35,7 +35,7 @@ Today, versions of this structure appear across very different ideologies — fr
 
 **Why This Matters:** **Millenarianism** names the template, not the content. Once you can identify the structure — corrupt present, catastrophic transition, chosen community — you can see it operating across very different political and religious contexts, and ask: who is identified as the agent of corruption, and what actions does the transition moment justify?
 
-**Relevant terms:** [[Armageddon Complex]] · [[Endtime Fascism]] · [[Disaster Nationalism]] · [[QAnon]] · [[Doomerism]]
+**Related terms:** [[Armageddon Complex]] · [[Endtime Fascism]] · [[Disaster Nationalism]] · [[QAnon]] · [[Doomerism]]
 
 
 ---

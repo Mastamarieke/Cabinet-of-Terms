@@ -8,6 +8,7 @@ analysis_version: pending
 related_cause:
   - Beauty Filter
   - Comparison Culture
+  - SMV (Sexual Market Value)
 related_mechanism:
   - Looksmaxxing
   - Highlight Reel
@@ -25,11 +26,11 @@ related_reaction: []
 
 **The Appeal:** This term has no appeal in the usual sense — it names a harm. Its analytical value is diagnostic: it names where the aesthetic optimisation logic of platforms ends for the most vulnerable users.
 
-**The Friction:** [[Beauty Filter]] — software that produces a version of yourself that only exists on screen — creates a daily reference point: a face that is technically achievable in an app and structurally unachievable in a mirror. [[Comparison Culture]] — permanent ambient comparison as a platform feature — is the environment in which this gap is experienced continuously. [[Looksmaxxing]] — the systematic optimisation of appearance as an identity project — runs on the same logic. For most users, none of this tips into disorder. For some, it does. The platform has no mechanism to distinguish between them.
+**The Friction:** [[Beauty Filter]] — software that produces a version of yourself that only exists on screen — creates a daily reference point: a face that is technically achievable in an app and structurally unachievable in a mirror. [[Comparison Culture]] — permanent ambient comparison as a platform feature — is the environment in which this gap is experienced continuously. [[Looksmaxxing]] — the systematic optimisation of appearance as an identity project — runs on the same logic. [[SMV (Sexual Market Value)]] is the quantifying framework underneath: once attractiveness is a score, any perceived gap between the score and the mirror becomes legible as a defect to fix rather than a perception to question. The same market logic runs through [[Sigma Male]] and [[Tradwife]] — the male and female routes through SMV — but BDD is not their outcome; it is the clinical register the optimisation project takes when it stops producing status and starts producing distress. For most users, none of this tips into disorder. For some, it does. The platform has no mechanism to distinguish between them.
 
 **Why This Matters:** Once you know BDD as the clinical consequence of aesthetic optimisation culture, "it's just a filter" stops being a complete sentence. The platform distributing beauty filters is also distributing the conditions for pathological outcomes — at scale, without knowing who is on the other end.
 
-**Relevant terms:** [[Beauty Filter]] · [[Comparison Culture]] · [[Looksmaxxing]] · [[Highlight Reel]] · [[Clean Girl Aesthetic]]
+**Related terms:** [[Beauty Filter]] · [[Comparison Culture]] · [[Looksmaxxing]] · [[Highlight Reel]] · [[Clean Girl Aesthetic]] · [[SMV (Sexual Market Value)]] · [[Sigma Male]] · [[Tradwife]]
 
 
 ---
@@ -43,7 +44,7 @@ related_reaction: []
 
 **Layer:** Consequence — the clinical endpoint of the aesthetic optimisation continuum
 
-**Cause:** [[Beauty Filter]] · [[Comparison Culture]]
+**Cause:** [[Beauty Filter]] · [[Comparison Culture]] · [[SMV (Sexual Market Value)]]
 **Mechanism:** [[Looksmaxxing]] · [[Highlight Reel]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

@@ -32,7 +32,7 @@ related_reaction:
 
 **Why This Matters:** VSD makes visible that **ethical design** is not a technical problem — it is a political one. The question is not whether designers know how to design for human values. It is whether they are allowed to.
 
-**Relevant terms:** [[Fair Patterns]] · [[Calm Technology]] · [[Deceptive Design]] · [[Dark Patterns]] · [[Unblackboxing]]
+**Related terms:** [[Fair Patterns]] · [[Calm Technology]] · [[Deceptive Design]] · [[Dark Patterns]] · [[Unblackboxing]] · [[Predatory Design]]
 
 
 ---

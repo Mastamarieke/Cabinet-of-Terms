@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Doomscrolling** makes visible the gap between a behaviour and its cause. The scrolling feels like a personal failure of self-control. The design is what makes stopping harder than continuing.
 
-**Relevant terms:** [[Recommender Systems]] · [[Dopamine Feedback Loops]] · [[Cognitive Surrender]] · [[Technostress]] · [[JOMO]]
+**Related terms:** [[Recommender Systems]] · [[Dopamine Feedback Loops]] · [[Cognitive Surrender]] · [[Technostress]] · [[JOMO]]
 
 
 ---

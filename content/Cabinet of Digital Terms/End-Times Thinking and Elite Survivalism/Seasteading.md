@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Seasteading** makes visible the political philosophy of exit: the idea that the appropriate response to bad governance is to leave rather than to improve it. Once you see that move, you can ask: for whom is exit available, and who remains in the governance they cannot escape?
 
-**Relevant terms:** [[Fortress Futurism]] · [[Muskism]] · [[Objectivism (Rand)]] · [[Sovereignty as a Service]] · [[Doomsday Prep for the Super-Rich]]
+**Related terms:** [[Fortress Futurism]] · [[Muskism]] · [[Objectivism (Rand)]] · [[Sovereignty as a Service]] · [[Doomsday Prep for the Super-Rich]]
 
 
 ---

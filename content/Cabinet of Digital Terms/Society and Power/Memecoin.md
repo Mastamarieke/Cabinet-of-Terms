@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Memecoin** makes visible the convergence of cultural community, financial speculation, and political power. Once you see the structure — community as distribution network for financial extraction — the question is not "is this a scam?" but "whose financial interests are served by the community's belief?"
 
-**Relevant terms:** [[Grifters]] · [[Financial Fabulism]] · [[Broligarchy]] · [[Brussels Effect]] · [[AI Literacy]]
+**Related terms:** [[Grifters]] · [[Financial Fabulism]] · [[Broligarchy]] · [[Brussels Effect]] · [[AI Literacy]]
 
 
 ---
@@ -54,7 +54,7 @@ related_reaction:
 **Layer:** Mechanism — cultural community deployed as the distribution and trust infrastructure for financial speculation
 
 **Cause:** [[Financial Fabulism]] · [[Broligarchy]]
-**Mechanism:** [[Grifters]] · [[About Subcultural Vocabulary and Platform Language]]
+**Mechanism:** [[Grifters]] · [[Subcultural Vocabulary and Platform Language]]
 **Consequence:** [[Grifters]] · [[Financial Fabulism]]
 **Reaction:** [[Brussels Effect]] · [[AI Literacy]]
 

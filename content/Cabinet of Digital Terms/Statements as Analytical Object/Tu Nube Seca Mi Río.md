@@ -33,7 +33,7 @@ related_reaction:
 
 **Why this sentence matters:** "Tu nube seca mi río" is a model for how activist language can puncture corporate abstraction. Four words that do the analytical work that a paragraph of data cannot. Once you hear it, "the cloud" never sounds entirely weightless again.
 
-**Relevant terms:** [[Sacrifice Zones]] · [[Externalized Costs]] · [[AI Energy Consumption]] · [[Digital Colonialism]] · [[Data Center Water Consumption]]
+**Related terms:** [[Sacrifice Zones]] · [[Externalized Costs]] · [[AI Energy Consumption]] · [[Digital Colonialism]] · [[Data Center Water Consumption]]
 
 
 ---

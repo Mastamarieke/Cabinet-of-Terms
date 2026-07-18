@@ -32,7 +32,7 @@ related_reaction:
 
 **Why This Matters:** **Ratio'd** makes visible how platform metrics become social sanctions — and how the same number can represent two entirely different things. Once you know the organic/active distinction, a ratio is no longer just a verdict. It is a question: who replied, and why?
 
-**Relevant terms:** [[Ragebaiting]] · [[Algospeak]] · [[Deplatforming]] · [[Flood the Zone]] · [[Coded -Pilled]]
+**Related terms:** [[Ragebaiting]] · [[Algospeak]] · [[Deplatforming]] · [[Flood the Zone]] · [[Coded -Pilled]]
 
 
 ---

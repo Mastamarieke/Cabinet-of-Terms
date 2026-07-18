@@ -35,7 +35,7 @@ related_reaction:
 
 **Why This Matters:** **Muskism** names a governance logic, not a personality. Once you see it as a model rather than an individual, you can identify it wherever the same accumulation of infrastructure dependency, political influence, and accountability evasion appears.
 
-**Relevant terms:** [[Technofeudalism]] · [[Broligarchy]] · [[Objectivism (Rand)]] · [[Technofascism]] · [[Flood the Zone]]
+**Related terms:** [[Technofeudalism]] · [[Broligarchy]] · [[Objectivism (Rand)]] · [[Technofascism]] · [[Flood the Zone]]
 
 ---
 **Read more:**

@@ -24,9 +24,6 @@ Quantifying social status as a game. Accumulating presence and perceived value â
 ### [[Coded -Pilled]]
 Productive suffixes that mark identity and signal ideological conversion simultaneously. The efficiency of the vocabulary is inseparable from its resistance to interrogation.
 
-### [[Brain Rot]]
-Oxford Word of the Year 2024. Subcultural self-diagnosis for the cognitive flatness that follows extended algorithmic consumption.
-
 ### [[Chad]]
 The aspirational apex of manosphere identity â€” the naturally dominant male against whom all men are ranked. Migrated into general internet use as ironic praise, obscuring its ideological origins. *(new V10; primary; dual: Gender & Identity)*
 

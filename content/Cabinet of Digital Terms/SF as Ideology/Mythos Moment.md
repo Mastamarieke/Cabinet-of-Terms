@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Mythos Moment** names the specific governance problem of AI: a technology that may cross consequential thresholds without clear advance warning, in systems whose internal workings are not fully understood by their builders. Once you have the concept, you can ask of any AI capability advance: is this a **mythos moment**, and who is deciding?
 
-**Relevant terms:** [[AGI]] · [[Red Teamer]] · [[Doomerism]] · [[Digital Frankenstein]] · [[AI Literacy]]
+**Related terms:** [[AGI]] · [[Red Teamer]] · [[Doomerism]] · [[Digital Frankenstein]] · [[AI Literacy]]
 
 
 ---

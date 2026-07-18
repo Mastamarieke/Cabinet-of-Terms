@@ -77,7 +77,7 @@ A system that scores and rewards or punishes citizen behaviour. Discussed more i
 ### [[Sovereignty as a Service]]
 State sovereignty outsourced to private tech infrastructure. The government that depends on a vendor it cannot fire.
 
-### [[Surveillance Capitalism — Society and Power]]
+### [[Surveillance Capitalism (Political Economy)]]
 Zuboff, 2019. Human behaviour as raw material for prediction products. You are not the customer. You are the commodity.
 
 ### [[Techno King]]

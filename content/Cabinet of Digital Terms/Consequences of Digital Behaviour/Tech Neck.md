@@ -31,7 +31,7 @@ related_reaction:
 
 **Why This Matters:** **Tech neck** names a structural consequence of platform design that is invisible until it is painful — and by then, the posture and the dependency are both established. The cervical spine is not neutral territory. It is part of the infrastructure.
 
-**Relevant terms:** [[Text Claw]] · [[Smombie]] · [[Predatory Design]] · [[Dopamine Feedback Loops]] · [[Technostress]]
+**Related terms:** [[Text Claw]] · [[Smombie]] · [[Predatory Design]] · [[Dopamine Feedback Loops]] · [[Technostress]]
 
 
 ---

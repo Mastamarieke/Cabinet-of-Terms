@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Brave New World** names the dystopia that is harder to resist because it does not feel like dystopia. Once you have Huxley's frame, "people seem to love it" stops being a sufficient defence of any platform, product, or social arrangement.
 
-**Relevant terms:** [[1984]] · [[Attention Economy]] · [[BUMMER]] · [[Dopamine Feedback Loops]] · [[Cognitive Surrender]]
+**Related terms:** [[1984]] · [[Attention Economy]] · [[BUMMER]] · [[Dopamine Feedback Loops]] · [[Cognitive Surrender]]
 
 
 ---

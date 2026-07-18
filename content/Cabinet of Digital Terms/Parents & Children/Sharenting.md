@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Sharenting** makes visible who owns a child's digital identity before they are old enough to have an opinion about it. Once you see the data infrastructure the images enter, the decision to post looks different.
 
-**Relevant terms:** [[Momfluencer]] · [[Family Vlogging]] · [[Kidfluencer]] · [[Surveillance Capitalism]] · [[Online Grooming]]
+**Related terms:** [[Momfluencer]] · [[Family Vlogging]] · [[Kidfluencer]] · [[Surveillance Capitalism]] · [[Online Grooming]]
 
 
 ---

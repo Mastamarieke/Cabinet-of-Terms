@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Simulation hypothesis** makes visible how philosophical speculations travel into ideological territory. The argument's formal validity is real; its social function is different. Once you see the social context of the discourse, "we might be in a simulation" sounds different from its speakers' mouths.
 
-**Relevant terms:** [[The Matrix]] · [[Longtermism]] · [[Transhumanism]] · [[Doomerism]] · [[Situated Knowledge]]
+**Related terms:** [[The Matrix]] · [[Longtermism]] · [[Transhumanism]] · [[Doomerism]] · [[Situated Knowledge]]
 
 
 ---

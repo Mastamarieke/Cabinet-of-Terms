@@ -32,7 +32,7 @@ related_reaction:
 
 **Why This Matters:** **Inclusive design** names a principle that is counter-intuitive to most design practice: start with the hardest case, not the average case. Once you know that principle, you can ask of any design: who was the hardest user we designed for?
 
-**Relevant terms:** [[Accessibility]] · [[Universal Design]] · [[Digital Exclusion]] · [[Ageism (Digital)]] · [[VSD (Value Sensitive Design)]]
+**Related terms:** [[Accessibility]] · [[Universal Design]] · [[Digital Exclusion]] · [[Ageism (Digital)]] · [[VSD (Value Sensitive Design)]]
 
 
 ---

@@ -32,7 +32,7 @@ related_reaction:
 
 **Why This Matters:** **Groomer** makes visible how child safety discourse can be weaponised — and how semantic ambiguity serves as both rhetorical weapon and moderation shield. Once you see the capture, the invocation of child safety is never automatically authoritative.
 
-**Relevant terms:** [[Online Grooming]] · [[Social Contagion]] · [[Dehumanization]] · [[Subhuman]] · [[Deplatforming]]
+**Related terms:** [[Online Grooming]] · [[Social Contagion]] · [[Dehumanization]] · [[Subhuman]] · [[Deplatforming]]
 
 
 ---

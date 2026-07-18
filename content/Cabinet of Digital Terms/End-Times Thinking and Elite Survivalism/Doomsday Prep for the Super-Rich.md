@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Doomsday prep for the super-rich** makes visible the political decision embedded in the logistics question. Once you see the framing choice — collapse as logistics, not politics — the bunker in New Zealand is also a statement about whose survival counts as civilisational continuity.
 
-**Relevant terms:** [[Fortress Futurism]] · [[Prepperism]] · [[Seasteading]] · [[Longtermism]] · [[Armageddon Complex]]
+**Related terms:** [[Fortress Futurism]] · [[Prepperism]] · [[Seasteading]] · [[Longtermism]] · [[Armageddon Complex]]
 
 
 ---

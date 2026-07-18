@@ -33,7 +33,7 @@ The pattern repeats across Musk’s public persona and platform governance. He f
 
 **Why This Matters:** **Techno King** makes visible how irony functions as a power gesture. The joke is the point. Once you see that the absurdity is deliberate and functional — establishing that normal rules don't apply — the laugh becomes a different kind of response.
 
-**Relevant terms:** [[Muskism]] · [[Financial Fabulism]] · [[Hubris Syndrome]] · [[Broligarchy]] · [[Founder Mode]]
+**Related terms:** [[Muskism]] · [[Financial Fabulism]] · [[Hubris Syndrome]] · [[Broligarchy]] · [[Founder Mode]]
 
 
 ---

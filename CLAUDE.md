@@ -10,6 +10,7 @@
 - De **GitHub-repo** (`/Users/mariekedevogel/Desktop/testGithub/Cabinet-of-Terms/`) is de master vault en de online versie.
 - Obsidian opent dezelfde map als leesomgeving — niet als schrijfomgeving.
 - Nieuwe entries en wijzigingen worden door Claude Code geschreven, niet handmatig in Obsidian.
+- **Protocol volgt bugs**: komt een structurele fout aan het licht (in een script, een regel, een conventie) — dan wordt CLAUDE.md in dezelfde sessie bijgewerkt: de fix zelf, én waarom hij niet meer onopgemerkt kan gebeuren. Niet alleen de inhoud herstellen, ook het protocol dat hem had moeten voorkomen.
 
 ---
 
@@ -32,9 +33,11 @@ Bij elke toevoeging, verwijdering of hernoeming van een term:
 3. **index.md — totaaltellingen** updaten (consistent op alle plekken):
    - Aantal termen
    - Aantal externe bronnen (tel `[tekst](http...)` links in het gewijzigde bestand)
-4. **Wikilink-check** draaien (Python-script uit SETUP.md) — vóór elke push
+4. **Wikilink-check + Related terms-check** draaien (Python-scripts onderaan dit bestand, "Wikilink-check script" en "Related terms-check script") — vóór elke push. Beide checks zijn ooit lange tijd stil kapot geweest zonder dat het opviel; dat is precies waarom ze bij elke push horen te draaien, niet alleen bij twijfel.
 5. **Doctor Alert cluster-lijst syncen** — na elke publish controleren of Doctor Alert's cluster-lijst nog klopt met de live vault
-6. **Retroactieve updates** — bij elke nieuwe term: zoek welke bestaande entries verwant zijn en beoordeel drie niveaus: (1) **wikilink** toevoegen in See also en Navigation; (2) **context** — wordt een bestaande zin scherper als de nieuwe term erin benoemd wordt?; (3) **content** — moet er een nieuwe zin of alinea bij om het analytische belang te verwerken? Alle drie niveaus kunnen van toepassing zijn.
+6. **Retroactieve updates** — bij elke nieuwe term: zoek welke bestaande entries verwant zijn en beoordeel drie niveaus: (1) **wikilink** toevoegen in Related terms en Navigation; (2) **context** — wordt een bestaande zin scherper als de nieuwe term erin benoemd wordt?; (3) **content** — moet er een nieuwe zin of alinea bij om het analytische belang te verwerken? Alle drie niveaus kunnen van toepassing zijn.
+   - **Wat is Related terms**: de verzameling termen die met deze entry samenhangen — zowel de termen die inline in de lopende tekst worden besproken, als structurele netwerkrelaties uit de frontmatter (cause/mechanism/consequence/reaction) die niet per se in de tekst worden uitgewerkt. Het is dus niet uitsluitend een samenvatting van de tekst en niet uitsluitend een spiegel van de frontmatter, maar de vereniging van beide — met de tekst als ondergrens, niet als plafond.
+   - **Related terms-regel**: elke term die inline gelinkt is in de lopende tekst (Literal meaning, Origin, The Appeal, Friction, Why This Matters) moet ook in de **Related terms**-regel staan — die richting is verplicht. Related terms mag daarnaast wel extra termen bevatten die niet inline worden besproken — een tester bevestigde dat dit voor een lezer geen verwarring oplevert. Alleen ontbrekende inline termen in Related terms is een fout; een rijkere Related terms-lijst dan de lopende tekst is toegestaan.
    - **Sources-trigger**: wordt een primaire bron in de Friction-tekst geciteerd? Dan migreert de entry naar de `Term/index.md + Sources/`-mapstructuur (conform Sigma Male, Looksmaxxing, Tradwife) — in dezelfde werksessie of als expliciet gepland vervolgwerk.
    - **Semantic landscape-trigger**: wordt een Narrative Typography-afbeelding ingebed? Dan wordt het semantic landscape aangemaakt of bijgewerkt in het frontmatter van de entry — de afbeelding is een terugkoppelmoment, het semantic landscape de tekstuele neerslag daarvan.
 7. **log.md bijwerken** — aan het einde van elke werksessie: voeg een entry toe onder de huidige datum met wat er is gedaan (entries, graph, structuur, maintenance, onderzoek). log.md is gitignored — nooit committen.
@@ -47,8 +50,16 @@ Volg de procedure uit Lumo V19 "Adding a new cluster":
 1. Definieer naam, beschrijving en initiële termlijst
 2. Check op term-migraties (dual placement of full move)
 3. Voeg cluster toe aan Lumo's cluster-lijst
-4. Maak About-pagina aan
+4. Maak `index.md` aan als landingspagina van het cluster
 5. Update totale clustertelling overal
+
+---
+
+## Concept-clusters (draft: true)
+
+Een cluster die nog niet uit echte termen bestaat maar wel al beschreven wordt — zoals Digital Deception & Fraud en SF as Inspiration — krijgt een **`Concept.md`** in plaats van `index.md`, naast de reguliere `draft: true` in de frontmatter. De bestandsnaam signaleert de status zelf, los van de titel.
+
+Wikilinks in een `Concept.md` naar termen die nog niet bestaan zijn **verwacht, geen bug**: het document is een vooruitblik op een cluster in opbouw. De wikilink-checker meldt ze wel als broken (dat is correct — de termen bestaan écht nog niet), maar ze hoeven geen actie: zodra de term wordt aangemaakt, resolvet de link vanzelf.
 
 ---
 
@@ -151,7 +162,6 @@ tags: [source, secondary, journalistic]
 ---
 title: "Sources"
 cluster: Clusternaam
-tags: [source-index]
 ---
 ```
 
@@ -258,7 +268,11 @@ valid = set()
 for root, dirs, files in os.walk(vault_dir):
     for f in files:
         if f.endswith('.md') and not f.startswith('._'):
-            valid.add(f[:-3])
+            if f == 'index.md':
+                # folder-structured entry (Term/index.md) — valid target is the folder name
+                valid.add(os.path.basename(root))
+            else:
+                valid.add(f[:-3])
 
 broken_all = {}
 for root, dirs, files in os.walk(vault_dir):
@@ -280,4 +294,64 @@ if broken_all:
             print(f'  [[{l}]]')
 else:
     print('All wikilinks valid.')
+```
+
+---
+
+## Related terms-check script
+
+Controleert de verplichte richting: elke term die inline in de lopende tekst gelinkt is, moet ook in de **Related terms**-regel staan (zie Related terms-regel hierboven). Sluit bronbestanden uit (die tellen niet mee als term-relatie). Draaien vanuit `content/`:
+
+```python
+import os, re
+
+vault_dir = 'Cabinet of Digital Terms'
+
+source_names = set()
+for dirpath, dirnames, filenames in os.walk(vault_dir):
+    for fname in filenames:
+        if not fname.endswith('.md') or fname.startswith('._'):
+            continue
+        fpath = os.path.join(dirpath, fname)
+        is_source = (os.sep + 'Sources' + os.sep) in (fpath + os.sep)
+        if not is_source:
+            with open(fpath, encoding='utf-8', errors='ignore') as f:
+                head = f.read(500)
+            is_source = bool(re.search(r'^type:\s*source', head, re.MULTILINE))
+        if is_source:
+            name = fname[:-3] if fname != 'index.md' else os.path.basename(dirpath)
+            source_names.add(name)
+
+violations = {}
+for dirpath, dirnames, filenames in os.walk(vault_dir):
+    for fname in filenames:
+        if not fname.endswith('.md') or fname.startswith('._'):
+            continue
+        fpath = os.path.join(dirpath, fname)
+        if (os.sep + 'Sources' + os.sep) in (fpath + os.sep):
+            continue
+        with open(fpath, encoding='utf-8', errors='ignore') as f:
+            content = f.read()
+        m = re.search(r'\*\*Related terms:\*\*(.*)', content)
+        if not m:
+            continue
+        related_line = m.group(1)
+        related_targets = set(l.split('|')[0].strip() for l in re.findall(r'\[\[([^\]]+)\]\]', related_line))
+        body = content[:m.start()]
+        fm_end = re.match(r'^---.*?---\s*', body, flags=re.DOTALL)
+        if fm_end:
+            body = body[fm_end.end():]
+        this_term = os.path.basename(dirpath) if fname == 'index.md' else fname[:-3]
+        body_targets = [l.split('|')[0].strip() for l in re.findall(r'\[\[([^\]]+)\]\]', body)]
+        body_targets = [t for t in body_targets if t != this_term and t not in source_names]
+        missing = [t for t in body_targets if t not in related_targets]
+        if missing:
+            violations[fpath] = missing
+
+if violations:
+    print(f'{len(violations)} files with inline terms missing from Related terms:\n')
+    for fpath, missing in sorted(violations.items()):
+        print(f'{fpath}: {missing}')
+else:
+    print('All inline terms are reflected in Related terms.')
 ```

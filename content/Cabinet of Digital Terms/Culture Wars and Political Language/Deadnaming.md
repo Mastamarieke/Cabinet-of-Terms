@@ -32,7 +32,7 @@ related_reaction:
 
 **Why This Matters:** **Deadnaming** makes visible the specific vulnerability of identity at the intersection of digital permanence and trans existence — and, more broadly, the way that data systems designed for commercial purposes produce identity harms as a structural side effect.
 
-**Relevant terms:** [[Algorithmic Violence]] · [[Surveillance Capitalism]] · [[Dehumanization]] · [[Brussels Effect]] · [[Social Contagion]]
+**Related terms:** [[Algorithmic Violence]] · [[Surveillance Capitalism]] · [[Dehumanization]] · [[Brussels Effect]] · [[Social Contagion]]
 
 
 ---

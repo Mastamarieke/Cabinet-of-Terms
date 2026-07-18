@@ -31,7 +31,7 @@ related_reaction:
 
 **Why This Matters:** **Ghosting** makes visible what platform architecture does to the social norms around endings. The absence of friction in digital communication removes the friction that makes difficult conversations happen.
 
-**Relevant terms:** [[Breadcrumbing]] · [[Orbiting]] · [[Phatic Interaction]] · [[Catfishing]] · [[JOMO]]
+**Related terms:** [[Breadcrumbing]] · [[Orbiting]] · [[Phatic Interaction]] · [[Catfishing]] · [[JOMO]]
 
 
 ---

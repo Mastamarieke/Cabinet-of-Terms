@@ -35,7 +35,7 @@ related_reaction:
 
 **Why This Matters:** **Mars colonization** makes visible how SF's species-survival vocabulary can be deployed to frame private commercial projects as universal human necessities. Once you ask who owns the escape route, the universalist framing becomes legible as something more specific.
 
-**Relevant terms:** [[Fortress Futurism]] · [[Longtermism]] · [[Transhumanism]] · [[Objectivism (Rand)]] · [[Situated Knowledge]]
+**Related terms:** [[Fortress Futurism]] · [[Longtermism]] · [[Transhumanism]] · [[Objectivism (Rand)]] · [[Situated Knowledge]]
 
 
 ---

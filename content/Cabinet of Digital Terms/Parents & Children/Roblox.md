@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Roblox** makes visible how a platform name can function as camouflage. "**Roblox**" conveys nothing about currency, social networking, or access risk. Once you know what the platform is — all of it — the parental conversation about "are you playing **Roblox**?" sounds different.
 
-**Relevant terms:** [[Robux]] · [[Online Grooming]] · [[Predatory Design]] · [[Gaming Disorder]] · [[Screen Time]]
+**Related terms:** [[Robux]] · [[Online Grooming]] · [[Predatory Design]] · [[Gaming Disorder]] · [[Screen Time]]
 
 
 ---

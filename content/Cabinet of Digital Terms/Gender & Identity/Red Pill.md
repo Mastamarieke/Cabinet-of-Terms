@@ -32,7 +32,7 @@ related_reaction:
 
 **Why This Matters:** **Red pill** in the gender context makes visible the specific mechanism of **manosphere** radicalisation: a metaphor for seeing clearly becomes a framework for seeing women as adversaries and institutions as enemies. The clarity is real. The picture it produces is constructed.
 
-**Relevant terms:** [[Tradwife]] · [[High Value Man]] · [[SMV (Sexual Market Value)]] · [[Stay-at-home Girlfriend (SAHG)]] · [[Manosphere]] · [[Blackpill]] · [[Incel]] · [[Alpha Male]]
+**Related terms:** [[Tradwife]] · [[High Value Man]] · [[SMV (Sexual Market Value)]] · [[Stay-at-home Girlfriend (SAHG)]] · [[Manosphere]] · [[Blackpill]] · [[Incel]] · [[Alpha Male]] · [[Hypergamy]] · [[Recommender Systems]]
 
 
 ---

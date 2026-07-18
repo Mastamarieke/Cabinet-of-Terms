@@ -32,7 +32,7 @@ related_reaction:
 
 **Why This Matters:** Beauty filters make the unfiltered face into a problem that needs solving. Once you know that, "what do I actually look like?" becomes a harder question than it should be.
 
-**Relevant terms:** [[Clean Girl Aesthetic]] · [[Comparison Culture]] · [[Highlight Reel]] · [[Body Dysmorphic Disorder]] · [[Deinfluencing]]
+**Related terms:** [[Clean Girl Aesthetic]] · [[Comparison Culture]] · [[Highlight Reel]] · [[Body Dysmorphic Disorder]] · [[Deinfluencing]]
 
 
 ---

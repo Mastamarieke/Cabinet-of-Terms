@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Surveillance capitalism** names the economic logic that underlies most of the Platform Mechanisms cluster. Once you see the logic — human experience as raw material — the specific mechanisms (**recommender systems**, **dark patterns**, dopamine loops) become legible as components of a single extractive system.
 
-**Relevant terms:** [[Data Brokers]] · [[Dataïsme]] · [[Privacy Washing]] · [[Algorithmic Violence]] · [[Brussels Effect]]
+**Related terms:** [[Data Brokers]] · [[Dataïsme]] · [[Privacy Washing]] · [[Algorithmic Violence]] · [[Brussels Effect]]
 
 
 ---

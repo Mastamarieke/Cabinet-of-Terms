@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Social contagion** makes visible how scientific-sounding language can function as political rhetoric. The question to ask of any contagion claim is: what evidence standard was applied, and who benefits from the framing?
 
-**Relevant terms:** [[Woke Mind Virus]] · [[Groomer]] · [[Dehumanization]] · [[Purity Culture]] · [[Deadnaming]]
+**Related terms:** [[Woke Mind Virus]] · [[Groomer]] · [[Dehumanization]] · [[Purity Culture]] · [[Deadnaming]]
 
 
 ---

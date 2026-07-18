@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Disaster nationalism** makes visible the political use of crisis as resource. Once you see the reframing — shared problem becomes external threat — you can ask of any nationalist crisis response: what structural condition is being obscured by the emergency frame, and who benefits from that obscuration?
 
-**Relevant terms:** [[Millenarianism]] · [[Armageddon Complex]] · [[Endtime Fascism]] · [[Flood the Zone]] · [[Great Replacement]]
+**Related terms:** [[Millenarianism]] · [[Armageddon Complex]] · [[Endtime Fascism]] · [[Flood the Zone]] · [[Great Replacement]]
 
 
 ---

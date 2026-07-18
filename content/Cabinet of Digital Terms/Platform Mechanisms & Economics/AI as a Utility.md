@@ -32,7 +32,7 @@ related_reaction:
 
 **Why This Matters:** When AI becomes a utility, it stops being a choice. Once something is infrastructure, opting out carries the same cost as opting out of electricity. The moment to ask questions about AI is before it becomes invisible — not after.
 
-**Relevant terms:** [[AI Dependency]] · [[Externalized Costs]] · [[Cognitive Offloading]] · [[Deskilling]] · [[AI Literacy]]
+**Related terms:** [[AI Dependency]] · [[Externalized Costs]] · [[Cognitive Offloading]] · [[Deskilling]] · [[AI Literacy]]
 
 
 ---

@@ -32,7 +32,7 @@ related_reaction:
 
 **Why This Matters:** **Woke mind virus** makes visible a specific argumentative move: framing a political opponent's position as a medical condition removes the obligation to engage with it. Once you recognise the structure, you can ask the same question of any political pathology metaphor.
 
-**Relevant terms:** [[Social Contagion]] · [[Red Pill]] · [[Anti-Woke]] · [[Dehumanization]] · [[Deplatforming]]
+**Related terms:** [[Social Contagion]] · [[Red Pill]] · [[Anti-Woke]] · [[Dehumanization]] · [[Deplatforming]]
 
 
 ---

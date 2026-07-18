@@ -45,9 +45,6 @@ Fear of Better Options. The paralysis that comes from infinite choice — and th
 ### [[Toxic Positivity]]
 The obligation to frame everything as growth. Grief as a learning opportunity. Failure as a gift.
 
-### [[Main Character Energy]]
-Framing yourself as the protagonist of your own story — and everyone else as supporting cast.
-
 ### [[Body Dysmorphic Disorder]]
 The face in the mirror does not match the face in your mind. You have checked seventeen times today. This is the clinical endpoint of the aesthetic optimisation continuum.
 

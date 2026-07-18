@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Gooner** makes visible how a clinical phenomenon (compulsive dissociated consumption) can be named, shared, and made into identity — and how irony is the mechanism that enables the transition from pathology to subcultural vocabulary.
 
-**Relevant terms:** [[Dopamine Feedback Loops]] · [[Gaming Disorder]] · [[Cognitive Surrender]] · [[Crash-out]] · [[Brain Rot]]
+**Related terms:** [[Dopamine Feedback Loops]] · [[Gaming Disorder]] · [[Cognitive Surrender]] · [[Crash-out]] · [[Brain Rot]]
 
 
 ---

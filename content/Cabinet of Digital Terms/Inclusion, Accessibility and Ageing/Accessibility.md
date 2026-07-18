@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Accessibility** makes visible the gap between compliance and genuine inclusion. The standard is a floor, not a ceiling. Once you know the difference, "this site is accessible" is the beginning of the question, not the answer.
 
-**Relevant terms:** [[Universal Design]] · [[Inclusive Design]] · [[Digital Exclusion]] · [[Digital Divide]] · [[Ageism (Digital)]]
+**Related terms:** [[Universal Design]] · [[Inclusive Design]] · [[Digital Exclusion]] · [[Digital Divide]] · [[Ageism (Digital)]]
 
 
 ---

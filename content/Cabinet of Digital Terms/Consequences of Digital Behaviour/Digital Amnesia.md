@@ -14,6 +14,7 @@ related_mechanism:
 related_consequence:
   - Deskilling
   - Cognitive Surrender
+  - Brain Rot
 related_reaction:
   - AI Literacy
   - Digital Detox
@@ -29,11 +30,11 @@ related_reaction:
 
 **The Appeal:** The cognitive trade-off is rational. If information is reliably accessible externally, the memory resources previously committed to storing it can be redirected. This is a well-documented feature of human cognition — we have always used external memory (notebooks, libraries, other people) to extend capacity. The phone is a more efficient external memory than most.
 
-**The Friction:** The efficiency has a cost. Sparrow et al. documented not just reduced retention but a change in the type of memory being exercised: less semantic memory (what things are), more procedural memory (where to find things). [[Cognitive Offloading]] — transferring cognitive work to tools — becomes [[Deskilling]] when the capacity atrophies: if the device is unavailable, the information is gone. [[Cognitive Surrender]] is the broader pattern of which **digital amnesia** is one symptom — the gradual transfer not just of recall but of thinking to digital systems. The Google Effect also found that people who expected to find information later paid less attention to it while learning it — meaning the availability of retrieval affects encoding from the start.
+**The Friction:** The efficiency has a cost. Sparrow et al. documented not just reduced retention but a change in the type of memory being exercised: less semantic memory (what things are), more procedural memory (where to find things). [[Cognitive Offloading]] — transferring cognitive work to tools — becomes [[Deskilling]] when the capacity atrophies: if the device is unavailable, the information is gone. [[Cognitive Surrender]] is the broader pattern of which **digital amnesia** is one symptom — the gradual transfer not just of recall but of thinking to digital systems. The Google Effect also found that people who expected to find information later paid less attention to it while learning it — meaning the availability of retrieval affects encoding from the start. [[Brain Rot]] names the cluster's other prominent cognitive cost — not memory offloading but content-quality dulling, a different mechanism producing a parallel, equally visible kind of harm.
 
 **Why This Matters:** **Digital amnesia** makes visible what happens to memory when the archive is always open. The question is not whether external memory is useful — it is which capacities you are prepared to let become inaccessible when the archive is not.
 
-**Relevant terms:** [[Cognitive Offloading]] · [[Cognitive Surrender]] · [[Deskilling]] · [[AI Dependency]] · [[AI Literacy]]
+**Related terms:** [[Cognitive Offloading]] · [[Cognitive Surrender]] · [[Deskilling]] · [[AI Dependency]] · [[AI Literacy]] · [[Brain Rot]]
 
 
 ---
@@ -49,7 +50,7 @@ related_reaction:
 
 **Cause:** [[AI Dependency]] · [[Cognitive Offloading]]
 **Mechanism:** [[Cognitive Surrender]] · [[Deskilling]]
-**Consequence:** [[Deskilling]] · [[Cognitive Surrender]]
+**Consequence:** [[Deskilling]] · [[Cognitive Surrender]] · [[Brain Rot]]
 **Reaction:** [[AI Literacy]] · [[Digital Detox]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

@@ -34,7 +34,7 @@ The term has since entered mainstream political and technological vocabulary as 
 
 **Why This Matters:** **Skynet** names a cultural shorthand that both enables and forecloses serious discussion. Once you can identify when it is being deployed to communicate and when to deflect, you can navigate the conversation more precisely.
 
-**Relevant terms:** [[Digital Frankenstein]] · [[AGI]] · [[Doomerism]] · [[Red Teamer]] · [[AI Literacy]]
+**Related terms:** [[Digital Frankenstein]] · [[AGI]] · [[Doomerism]] · [[Red Teamer]] · [[AI Literacy]]
 
 
 ---

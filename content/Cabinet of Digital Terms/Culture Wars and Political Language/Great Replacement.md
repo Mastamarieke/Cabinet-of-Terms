@@ -32,7 +32,7 @@ related_reaction:
 
 **Why This Matters:** **Great Replacement** makes visible the pathway from fringe theory to mainstream discourse — and the specific role that digital platforms play in accelerating that migration. The theory did not become mainstream because it became less extreme. It became mainstream because platforms amplified it.
 
-**Relevant terms:** [[Dehumanization]] · [[Subhuman]] · [[QAnon]] · [[Red Pill]] · [[Deplatforming]] · [[Ragebaiting]] · [[Wellness-to-Alt-Right Pipeline]]
+**Related terms:** [[Dehumanization]] · [[Subhuman]] · [[QAnon]] · [[Red Pill]] · [[Deplatforming]] · [[Ragebaiting]] · [[Wellness-to-Alt-Right Pipeline]] · [[Recommender Systems]]
 
 
 ---

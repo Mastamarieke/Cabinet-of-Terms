@@ -31,7 +31,7 @@ related_reaction:
 
 **Why This Matters:** **Provider** names the reduction of care to transaction. Once you see the frame, a great deal of **manosphere** relationship advice becomes legible as market strategy rather than relationship guidance — and the human cost of that reduction becomes visible.
 
-**Relevant terms:** [[SMV (Sexual Market Value)]] · [[Tradwife]] · [[High Value Man]] · [[Alpha Male]] · [[Manosphere]] · [[Comparison Culture]]
+**Related terms:** [[SMV (Sexual Market Value)]] · [[Tradwife]] · [[High Value Man]] · [[Alpha Male]] · [[Manosphere]] · [[Comparison Culture]] · [[Stay-at-home Girlfriend (SAHG)]]
 
 
 ---

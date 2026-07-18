@@ -8,6 +8,8 @@ analysis_version: pending
 related_cause:
   - Comparison Culture
   - Influencer
+  - Looksmaxxing
+  - Tradwife
 related_mechanism:
   - Highlight Reel
   - Curated Life
@@ -28,11 +30,11 @@ related_reaction:
 
 **The Appeal:** **Deinfluencing** addresses a real frustration. Many consumers feel manipulated by **influencer** culture, oversold on products that underperform, and overwhelmed by constant purchase pressure. The deinfluencer offers relief: honesty, frugality, permission not to buy. For creators, it is also a genuine differentiation strategy — trust built on apparent candour.
 
-**The Friction:** The paradox is structural. **Deinfluencing** content is produced for platforms that monetise attention and drive commerce. The deinfluencer still has a brand, still has partnerships, still recommends alternatives. [[About Counter-Movements]] — resistance that reproduces what it resists — is the analytical category: **deinfluencing** operates entirely within **influencer** logic while appearing to oppose it. The critique of overconsumption becomes content, which drives engagement, which drives the platform, which drives the consumption. [[Comparison Culture]] is not disrupted — it is redirected: instead of comparing products to buy, you compare your [consume habits ](https://www.vox.com/culture/23950580/**deinfluencing**-**tiktok**-shop-**influencer**-culture-consumerismption) to the deinfluencer's.
+**The Friction:** The paradox is structural. **Deinfluencing** content is produced for platforms that monetise attention and drive commerce. The deinfluencer still has a brand, still has partnerships, still recommends alternatives. [[Counter-Movements]] — resistance that reproduces what it resists — is the analytical category: **deinfluencing** operates entirely within **influencer** logic while appearing to oppose it. The critique of overconsumption becomes content, which drives engagement, which drives the platform, which drives the consumption. [[Comparison Culture]] is not disrupted — it is redirected: instead of comparing products to buy, you compare your [consume habits ](https://www.vox.com/culture/23950580/**deinfluencing**-**tiktok**-shop-**influencer**-culture-consumerismption) to the deinfluencer's. The same weak-reaction pattern shows up in [[Looksmaxxing]] and [[Tradwife]]: **deinfluencing** is their only reaction node too, and it is just as personal and aesthetic there — critiquing one creator's feed, never the SMV logic or the platform infrastructure underneath it.
 
 **Why This Matters:** **Deinfluencing** makes visible the recuperation mechanism: the platform absorbs critique by making the critique into content. Once you see that move, you see it everywhere.
 
-**Relevant terms:** [[Influencer]] · [[Comparison Culture]] · [[Highlight Reel]] · [[About Counter-Movements]] · [[Digital Detox]]
+**Related terms:** [[Influencer]] · [[Comparison Culture]] · [[Highlight Reel]] · [[Counter-Movements]] · [[Digital Detox]] · [[Looksmaxxing]] · [[Tradwife]]
 
 
 ---
@@ -46,9 +48,9 @@ related_reaction:
 
 **Layer:** Reaction — a content format that critiques consumption while reproducing the platform logic that drives it
 
-**Cause:** [[Comparison Culture]] · [[Influencer]]
+**Cause:** [[Comparison Culture]] · [[Influencer]] · [[Looksmaxxing]] · [[Tradwife]]
 **Mechanism:** [[Highlight Reel]] · [[Curated Life]]
 **Consequence:** [[Comparison Culture]]
-**Reaction:** [[About Counter-Movements]] · [[Digital Detox]]
+**Reaction:** [[Counter-Movements]] · [[Digital Detox]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

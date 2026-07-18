@@ -31,7 +31,7 @@ Chen and Zaman (2024) demonstrate that **shadow banning** can be used to shift o
 **Why This Matters**
 Once you see **shadow banning** as a governance mechanism rather than a content moderation tool, you see that platforms exercise significant political power over speech — invisibly and without appeal.
 
-**Relevant terms:** [[Deplatforming]] · [[Algorithmic Violence]] · [[Unblackboxing]] · [[Recommender Systems]] · [[Algospeak]] · [[Content Moderator]]
+**Related terms:** [[Deplatforming]] · [[Algorithmic Violence]] · [[Unblackboxing]] · [[Recommender Systems]] · [[Algospeak]] · [[Content Moderator]]
 
 
 ---

@@ -32,7 +32,7 @@ related_reaction:
 
 **Why This Matters:** **AI slop** is not a temporary problem. It is the predictable outcome of making content production free and fast. Once you know the term, the question to ask of any piece of content is not just *is this true* but *was this made by someone who thought about it*.
 
-**Relevant terms:** [[Synthetic Generation]] · [[Slopification]] · [[Age of Average]] · [[Recommender Systems]] · [[AI Literacy]]
+**Related terms:** [[Synthetic Generation]] · [[Slopification]] · [[Age of Average]] · [[Recommender Systems]] · [[AI Literacy]]
 
 
 ---

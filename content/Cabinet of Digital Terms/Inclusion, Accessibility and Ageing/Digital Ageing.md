@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Digital ageing** makes visible that the relationship between people and technology changes over a lifetime — and that systems designed for peak-capacity adults exclude people at both ends of that curve. The design question is not "how do we accommodate older users?" but "why did we design for peak capacity in the first place?"
 
-**Relevant terms:** [[Ageism (Digital)]] · [[Tech Abandonment]] · [[Silver Surfer]] · [[Digital Exclusion]] · [[Universal Design]]
+**Related terms:** [[Ageism (Digital)]] · [[Tech Abandonment]] · [[Silver Surfer]] · [[Digital Exclusion]] · [[Universal Design]]
 
 
 ---

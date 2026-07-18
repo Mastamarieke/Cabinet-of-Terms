@@ -31,7 +31,7 @@ related_reaction:
 
 **Why This Matters:** Once you know how hallucination actually works — pattern completion without truth-checking — "the AI said so" becomes a different kind of sentence. The fluency is not evidence of accuracy. It never was.
 
-**Relevant terms:** [[Sycophancy (AI)]] · [[AI Literacy]] · [[AI Dependency]] · [[Cognitive Offloading]] · [[Deskilling]]
+**Related terms:** [[Sycophancy (AI)]] · [[AI Literacy]] · [[AI Dependency]] · [[Cognitive Offloading]] · [[Deskilling]]
 
 
 ---

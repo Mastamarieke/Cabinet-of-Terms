@@ -32,7 +32,7 @@ related_reaction:
 
 **Why This Matters:** **Subhuman** is a word that functions as a stage in a sequence. Knowing the sequence — dehumanisation, persecution, mass violence — makes the word's presence in mainstream discourse a different kind of signal than general offensiveness.
 
-**Relevant terms:** [[Dehumanization]] · [[Great Replacement]] · [[Groomer]] · [[QAnon]] · [[Deplatforming]]
+**Related terms:** [[Dehumanization]] · [[Great Replacement]] · [[Groomer]] · [[QAnon]] · [[Deplatforming]]
 
 
 ---

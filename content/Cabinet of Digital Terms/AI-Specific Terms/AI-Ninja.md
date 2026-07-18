@@ -32,7 +32,7 @@ related_reaction:
 
 **Why This Matters:** The **AI-ninja** identity tells you something about a moment in technological transition — when tools are powerful enough to be impressive but complex enough to require specialisation. That window closes. What you built during it either transferred into deeper understanding or it did not.
 
-**Relevant terms:** [[Prompt Engineer]] · [[AI Literacy]] · [[AI Dependency]] · [[Deskilling]] · [[Cognitive Offloading]]
+**Related terms:** [[Prompt Engineer]] · [[AI Literacy]] · [[AI Dependency]] · [[Deskilling]] · [[Cognitive Offloading]]
 
 
 ---

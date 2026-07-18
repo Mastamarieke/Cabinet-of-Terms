@@ -32,7 +32,7 @@ related_reaction:
 
 **Why This Matters:** **Mindful scrolling** makes visible what happens when a critique of a system is absorbed into the system as a product feature. The awareness is real. The architecture is unchanged.
 
-**Relevant terms:** [[Digital Detox]] · [[Slow Media]] · [[JOMO]] · [[Attention Economy]] · [[Dopamine Feedback Loops]]
+**Related terms:** [[Digital Detox]] · [[Slow Media]] · [[JOMO]] · [[Attention Economy]] · [[Dopamine Feedback Loops]]
 
 
 ---

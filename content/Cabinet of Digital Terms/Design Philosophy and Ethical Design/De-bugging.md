@@ -31,7 +31,7 @@ related_reaction:
 
 **Why This Matters:** **De-bugging** names a practice that is already happening — the act of tracing a harm back to a design choice, a business model, or a structural incentive. Making it explicit as a method gives it transferability: once you have de-bugged one system, you can apply the same process to the next.
 
-**Relevant terms:** [[Unblackboxing]] · [[Dark Patterns]] · [[Obfuscation]] · [[Fair Patterns]]
+**Related terms:** [[Unblackboxing]] · [[Dark Patterns]] · [[Obfuscation]] · [[Fair Patterns]]
 
 
 ---

@@ -32,7 +32,7 @@ related_reaction:
 
 **Why This Matters:** The **tech-free challenge** makes visible how resistance to platforms is continuously reabsorbed as platform content. The format that spreads best is the format that works best for the platform — regardless of what the format is about.
 
-**Relevant terms:** [[Digital Detox]] · [[Slow Media]] · [[Unplugging]] · [[Gamification Creep]] · [[JOMO]]
+**Related terms:** [[Digital Detox]] · [[Slow Media]] · [[Unplugging]] · [[Gamification Creep]] · [[JOMO]] · [[Attention Economy]]
 
 
 ---

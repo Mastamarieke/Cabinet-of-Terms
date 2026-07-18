@@ -32,7 +32,7 @@ related_reaction:
 
 **Why This Matters:** **Deep state** is a case study in how a useful analytical concept becomes unusable through semantic capture. The legitimate concern — unaccountable bureaucratic power — gets absorbed into conspiracy discourse, making it harder to address on its own terms.
 
-**Relevant terms:** [[QAnon]] · [[Red Pill]] · [[Flood the Zone]] · [[Great Replacement]] · [[Deplatforming]]
+**Related terms:** [[QAnon]] · [[Red Pill]] · [[Flood the Zone]] · [[Great Replacement]] · [[Deplatforming]]
 
 
 ---

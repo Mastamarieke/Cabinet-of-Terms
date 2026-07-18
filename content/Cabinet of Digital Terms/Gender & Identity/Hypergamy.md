@@ -32,7 +32,7 @@ related_reaction:
 
 **Why This Matters:** **Hypergamy** makes visible how scientific-sounding vocabulary can function as an unfalsifiable explanation for personal experience. Once the claim is biological and universal, no counter-evidence is possible. That's not science — it's a closed loop.
 
-**Relevant terms:** [[Incel]] · [[SMV (Sexual Market Value)]] · [[Red Pill]] · [[MGTOW]] · [[Looksmaxxing]] · [[Tradwife]] · [[Blackpill]]
+**Related terms:** [[Incel]] · [[SMV (Sexual Market Value)]] · [[Red Pill]] · [[MGTOW]] · [[Looksmaxxing]] · [[Tradwife]] · [[Blackpill]] · [[Womanosphere]]
 
 
 ---

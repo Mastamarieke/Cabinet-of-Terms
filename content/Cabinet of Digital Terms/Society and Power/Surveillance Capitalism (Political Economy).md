@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Surveillance capitalism** in the Society and Power context names the economic foundation of a new political order. Once you see it as political architecture rather than business model, the question is not "how do I opt out?" but "what governance structures would make opting out meaningful?"
 
-**Relevant terms:** [[Technofeudalism]] · [[Panopticon]] · [[Broligarchy]] · [[Muskism]] · [[Brussels Effect]]
+**Related terms:** [[Technofeudalism]] · [[Panopticon]] · [[Broligarchy]] · [[Muskism]] · [[Brussels Effect]]
 
 
 ---

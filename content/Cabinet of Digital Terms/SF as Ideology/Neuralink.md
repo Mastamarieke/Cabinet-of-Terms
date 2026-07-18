@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Neuralink** makes visible how a brand name can serve as ideological positioning — recruiting the cultural capital of SF to a commercial technology project before the technology delivers on what the name implies.
 
-**Relevant terms:** [[Brain-Computer Interface]] · [[Cybernetic Collective]] · [[Mind Uploading]] · [[Transhumanism]] · [[Cyborg Musk]]
+**Related terms:** [[Brain-Computer Interface]] · [[Cybernetic Collective]] · [[Mind Uploading]] · [[Transhumanism]] · [[Cyborg Musk]] · [[VSD (Value Sensitive Design)]]
 
 
 ---

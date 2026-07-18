@@ -32,7 +32,7 @@ related_reaction:
 
 **Why This Matters:** **Cognitive offloading** is not new. What is new is the scope: AI tools can now take on reasoning, judgment, and synthesis — not just memory and calculation. The question is not whether to offload, but which capacities you can afford to let atrophy.
 
-**Relevant terms:** [[AI Dependency]] · [[Deskilling]] · [[AI Hallucination]] · [[Sycophancy (AI)]] · [[AI Literacy]]
+**Related terms:** [[AI Dependency]] · [[Deskilling]] · [[AI Hallucination]] · [[Sycophancy (AI)]] · [[AI Literacy]]
 
 
 ---

@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Enshittification** is the term that explains why a platform you loved became one you tolerate. Once you know the lifecycle, the current state of any platform tells you where it is in the sequence — and what comes next.
 
-**Relevant terms:** [[Vendor Lock-in]] · [[Dark Patterns]] · [[Recommender Systems]] · [[Brussels Effect]] · [[Surveillance Capitalism]] · [[Attention Economy]]
+**Related terms:** [[Vendor Lock-in]] · [[Dark Patterns]] · [[Recommender Systems]] · [[Brussels Effect]] · [[Surveillance Capitalism]] · [[Attention Economy]]
 
 
 ---

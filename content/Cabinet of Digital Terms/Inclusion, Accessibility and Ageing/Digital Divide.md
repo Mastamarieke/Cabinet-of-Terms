@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Digital divide** makes visible that access is necessary but not sufficient. Once you see the multiple layers — access, skills, meaningful use, benefit — the political aspiration of "getting everyone online" looks like the beginning of a much larger project.
 
-**Relevant terms:** [[Digital Exclusion]] · [[Ageism (Digital)]] · [[Digital Colonialism]] · [[Accessibility]] · [[Tech Abandonment]]
+**Related terms:** [[Digital Exclusion]] · [[Ageism (Digital)]] · [[Digital Colonialism]] · [[Accessibility]] · [[Tech Abandonment]] · [[Privacy as a Premium]]
 
 
 ---

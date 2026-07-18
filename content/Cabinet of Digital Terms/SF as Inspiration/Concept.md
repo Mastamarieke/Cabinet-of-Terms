@@ -1,5 +1,5 @@
 ---
-title: About SF as Inspiration
+title: "SF as Inspiration (Concept)"
 draft: true
 tags:
   - cluster-overview

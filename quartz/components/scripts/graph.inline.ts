@@ -247,10 +247,14 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     const isCurrent = d.id === slug
     if (isCurrent) {
       return computedStyleMap["--secondary"]
+    }
+    const cc = clusterColor(d.id)
+    if (cc) {
+      return cc
     } else if (visited.has(d.id) || d.id.startsWith("tags/")) {
       return computedStyleMap["--tertiary"]
     } else {
-      return clusterColor(d.id) ?? computedStyleMap["--gray"]
+      return computedStyleMap["--gray"]
     }
   }
 

@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Phantom vibration syndrome** is the clearest evidence that the phone is not just a tool you carry — it has become part of how your body experiences the world. Once you know that, the question of what you are giving it access to becomes a different kind of question.
 
-**Relevant terms:** [[Nomophobia]] · [[Dopamine Feedback Loops]] · [[Technostress]] · [[Cognitive Surrender]] · [[JOMO]]
+**Related terms:** [[Nomophobia]] · [[Dopamine Feedback Loops]] · [[Technostress]] · [[Cognitive Surrender]] · [[JOMO]]
 
 
 ---

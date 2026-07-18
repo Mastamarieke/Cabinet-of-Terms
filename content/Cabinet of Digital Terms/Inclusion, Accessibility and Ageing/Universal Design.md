@@ -32,7 +32,7 @@ related_reaction:
 
 **Why This Matters:** **Universal design** names the gap between inclusion as compliance and inclusion as commitment. Once you know the difference, you can ask of any design process: was the full range of users present when the decisions were made?
 
-**Relevant terms:** [[Accessibility]] · [[Inclusive Design]] · [[Digital Exclusion]] · [[Ageism (Digital)]] · [[VSD (Value Sensitive Design)]]
+**Related terms:** [[Accessibility]] · [[Inclusive Design]] · [[Digital Exclusion]] · [[Ageism (Digital)]] · [[VSD (Value Sensitive Design)]]
 
 
 ---

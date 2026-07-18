@@ -31,7 +31,7 @@ related_reaction:
 
 **Why This Matters:** **Unblackboxing** names the practice that cartographic prompting itself performs — the work of making a term's hidden assumptions, genealogy, and power relations visible. It is both a method and a stance: systems that present themselves as neutral are always worth opening.
 
-**Relevant terms:** [[Black Box]] · [[Obfuscation]] · [[De-bugging]] · [[Situated Knowledge]]
+**Related terms:** [[Black Box]] · [[Obfuscation]] · [[De-bugging]] · [[Situated Knowledge]]
 
 
 ---

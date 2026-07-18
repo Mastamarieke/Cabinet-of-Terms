@@ -32,7 +32,7 @@ related_reaction:
 
 **Why This Matters:** **Phatic interaction** makes visible the gap between being connected and being in contact. A feed full of responses is not the same as a conversation. Once you know the difference, you can count one without mistaking it for the other.
 
-**Relevant terms:** [[Ghosting]] · [[Orbiting]] · [[Dopamine Feedback Loops]] · [[Parasocial Relationship]] · [[JOMO]]
+**Related terms:** [[Ghosting]] · [[Orbiting]] · [[Dopamine Feedback Loops]] · [[Parasocial Relationship]] · [[JOMO]]
 
 
 ---

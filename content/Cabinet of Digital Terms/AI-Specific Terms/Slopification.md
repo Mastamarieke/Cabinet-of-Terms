@@ -32,7 +32,7 @@ related_reaction:
 
 **Why This Matters:** **Slopification** is the term that names what happens to the commons. Individual AI use is a personal decision. **Slopification** is what that decision looks like at scale, across millions of users, over time.
 
-**Relevant terms:** [[AI Hallucination]] · [[Synthetic Generation]] · [[Age of Average]] · [[AI Dependency]] · [[Cognitive Offloading]]
+**Related terms:** [[AI Hallucination]] · [[Synthetic Generation]] · [[Age of Average]] · [[AI Dependency]] · [[Cognitive Offloading]]
 
 
 ---
