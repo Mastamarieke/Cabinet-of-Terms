@@ -1,3 +1,9 @@
+NOTE: This MIT license applies only to the Quartz software framework
+in this repository. The Cabinet of Digital Terms content is licensed
+separately — see CONTENT-LICENSE.txt.
+
+---
+
 MIT License
 
 Copyright (c) 2021 jackyzha0

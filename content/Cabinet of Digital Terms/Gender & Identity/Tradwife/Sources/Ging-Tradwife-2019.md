@@ -13,7 +13,7 @@ doi: https://doi.org/10.1177/1097184x17706401
 access: open-access
 discipline: [Gender Studies, Media Studies, Sociology]
 cluster: Gender & Identity
-linked_entries: ["[[Tradwife]]", "[[Manosphere]]", "[[Looksmaxxing]]", "[[SMV (Sexual Market Value)]]", "[[Incel]]", "[[Alpha Male]]"]
+linked_entries: ["[[Tradwife]]"]
 tags: [source, primary, academic, peer-reviewed]
 ---
 
@@ -23,11 +23,7 @@ Eerste systematische academische analyse van de manosphere als ecosysteem van ma
 
 ## Waarmee gelinkt
 
-- [[Tradwife]] — SMV-logica als organiserend principe: de tradwife optimaliseert feminiteit en deference als vrouwelijke SMV-strategie; tradwife en manosphere produceren elkaar als spiegelbeeldige content-categorieën.
-- [[Manosphere]] — Ging beschrijft de manosphere als ecosysteem van subcommunities (incels, MGTOWs, PUAs, Red Pillers) met gedeelde SMV-aannames.
-- [[Looksmaxxing]] — optimalisatiepraktijk als directe uitvloeisel van SMV-logica aan de mannelijke kant.
-- [[SMV (Sexual Market Value)]] / [[Alpha Male]] — de hiërarchieschaal die zowel mannelijke als vrouwelijke content stuurt.
-- [[Incel]] — radicaliseringspunt binnen het ecosysteem.
+- [[Tradwife]] — SMV-logica als organiserend principe: de tradwife optimaliseert feminiteit en deference als vrouwelijke SMV-strategie; tradwife en manosphere produceren elkaar als spiegelbeeldige content-categorieën (manosphere, looksmaxxing, SMV, alpha male en incel worden in het artikel besproken als onderdeel van dat ecosysteem, maar hebben elk hun eigen bronvermelding nodig als ze dit artikel zelf inline citeren).
 
 ## Bron
 

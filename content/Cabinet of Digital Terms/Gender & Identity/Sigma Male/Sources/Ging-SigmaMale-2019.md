@@ -14,7 +14,7 @@ access: paywalled
 self_archived_copy_url: https://www.semanticscholar.org/paper/2fe1adb954bcea424f56836787366e5ee67b3614
 discipline: [Gender Studies, Media Studies, Sociology]
 cluster: [Masculinity Studies, Manosphere]
-linked_entries: ["[[Sigma Male]]", "[[Alpha Male]]", "[[Incel]]", "[[Red Pill]]"]
+linked_entries: ["[[Sigma Male]]"]
 tags: [source, primary, academic, peer-reviewed]
 ---
 
@@ -24,10 +24,7 @@ Ging's artikel is een van de eerste systematische academische pogingen om de "ma
 
 ## Waarmee gelinkt
 
-- [[Sigma Male]] — dit artikel levert het kritische kader waarbinnen "sigma" begrepen moet worden: niet als losstaand fenomeen, maar als evolutie/mutatie van de alfa/bèta-hiërarchie die Ging beschrijft.
-- [[Alpha Male]] / beta male — direct object van analyse in dit artikel.
-- [[Incel]] — Ging plaatst de hiërarchie-typologie in de bredere incel- en manosphere-cultuur.
-- [[Red Pill]] — het ideologische frame waarbinnen deze hiërarchie als "objectieve waarheid" wordt gepresenteerd.
+- [[Sigma Male]] — dit artikel levert het kritische kader waarbinnen "sigma" begrepen moet worden: niet als losstaand fenomeen, maar als evolutie/mutatie van de alfa/bèta-hiërarchie die Ging beschrijft (alpha male, incel, red pill zijn onderdeel van dat kader, maar hebben elk hun eigen bronvermelding nodig als ze dit artikel zelf inline citeren).
 
 ## Bron
 

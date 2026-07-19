@@ -13,7 +13,7 @@ doi: https://doi.org/10.1177/1097184x17706401
 access: open-access
 discipline: [Gender Studies, Media Studies, Sociology]
 cluster: Gender & Identity
-linked_entries: ["[[Looksmaxxing]]", "[[Manosphere]]", "[[Incel]]", "[[Alpha Male]]", "[[SMV (Sexual Market Value)]]", "[[Blackpill]]"]
+linked_entries: ["[[Looksmaxxing]]"]
 tags: [source, primary, academic, peer-reviewed]
 ---
 
@@ -23,11 +23,7 @@ Eerste systematische academische analyse van de manosphere als ecosysteem van ma
 
 ## Waarmee gelinkt
 
-- [[Looksmaxxing]] — dit artikel levert het theoretisch kader: looksmaxxing als uitvloeisel van SMV-logica en manosphere-hiërarchiedenken.
-- [[Manosphere]] — Ging beschrijft de manosphere als ecosysteem van subcommunities (incels, MGTOWs, PUAs, Red Pillers) met gedeelde aannames.
-- [[Incel]] — directe analyse van incel-subcultuur als onderdeel van het ecosysteem.
-- [[Alpha Male]] / [[SMV (Sexual Market Value)]] — de hiërarchieschaal die looksmaxxing stuurt.
-- [[Blackpill]] — radicale conclusie binnen de manosphere: als hiërarchie biologisch bepaald is, is optimalisatie zinloos.
+- [[Looksmaxxing]] — dit artikel levert het theoretisch kader: looksmaxxing als uitvloeisel van SMV-logica en manosphere-hiërarchiedenken (manosphere, incel, alpha male, SMV en blackpill worden in het artikel besproken als onderdeel van dat ecosysteem, maar hebben elk hun eigen bronvermelding nodig als ze dit artikel zelf inline citeren).
 
 ## Bron
 
