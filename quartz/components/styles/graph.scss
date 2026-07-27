@@ -22,7 +22,8 @@
 
       .source-toggle,
       .entries-toggle,
-      .cluster-toggle {
+      .cluster-toggle,
+      .backlinks-toggle {
         background: var(--light);
         border-top: 1px solid var(--lightgray);
         border-right: 1px solid var(--lightgray);
@@ -61,9 +62,14 @@
       }
 
       .cluster-toggle {
-        border-radius: 0 6px 0 0;
         summary { color: var(--secondary); }
         &[open] summary::before { border-color: var(--secondary); }
+      }
+
+      .backlinks-toggle {
+        border-radius: 0 6px 0 0;
+        summary { color: var(--tertiary); }
+        &[open] summary::before { border-color: var(--tertiary); }
       }
     }
 

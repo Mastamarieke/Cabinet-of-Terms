@@ -75,6 +75,9 @@ export default ((opts?: Partial<GraphOptions>) => {
             <details class="cluster-toggle">
               <summary>Cluster</summary>
             </details>
+            <details class="backlinks-toggle" open>
+              <summary>Backlinks</summary>
+            </details>
           </div>
           <button class="global-graph-icon" aria-label="Global Graph">
             <svg

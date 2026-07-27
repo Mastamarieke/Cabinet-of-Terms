@@ -653,6 +653,7 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
 
   const sourceToggleEl = graph.closest(".graph")?.querySelector(".source-toggle") as HTMLDetailsElement | null
   const clusterToggleEl = graph.closest(".graph")?.querySelector(".cluster-toggle") as HTMLDetailsElement | null
+  const backlinksToggleEl = graph.closest(".graph")?.querySelector(".backlinks-toggle") as HTMLDetailsElement | null
 
   function isSourceNode(n: NodeData) { return n.tags.includes("source") }
 
@@ -671,6 +672,24 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     )
   }
 
+  // A node is a "backlink" node if the only reason it's in this graph is that
+  // it links to the current page — the current page itself does not link out to it.
+  const directOutgoing = new Set(links.filter((l) => l.source === slug).map((l) => l.target))
+  const directIncoming = new Set(links.filter((l) => l.target === slug).map((l) => l.source))
+  function isBacklinkNode(n: NodeData) {
+    return (
+      n.id !== slug &&
+      directIncoming.has(n.id) &&
+      !directOutgoing.has(n.id) &&
+      !n.tags.includes("source")
+    )
+  }
+
+  const hasBacklinkNodes = nodeRenderData.some((n) => isBacklinkNode(n.simulationData))
+  if (!hasBacklinkNodes && backlinksToggleEl) {
+    backlinksToggleEl.style.display = "none"
+  }
+
   function updateToggleLabels() {
     if (sourceToggleEl) {
       const s = sourceToggleEl.querySelector("summary")
@@ -680,11 +699,16 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
       const s = clusterToggleEl.querySelector("summary")
       if (s) s.textContent = clusterToggleEl.open ? "Hide Cluster" : "Show Cluster"
     }
+    if (backlinksToggleEl) {
+      const s = backlinksToggleEl.querySelector("summary")
+      if (s) s.textContent = backlinksToggleEl.open ? "Hide Backlinks" : "Show Backlinks"
+    }
   }
 
   function applyToggles() {
     const showSources = sourceToggleEl ? sourceToggleEl.open : true
     const showCluster = clusterToggleEl ? clusterToggleEl.open : true
+    const showBacklinks = backlinksToggleEl ? backlinksToggleEl.open : true
     for (const n of nodeRenderData) {
       if (isSourceNode(n.simulationData)) {
         n.gfx.visible = showSources
@@ -692,14 +716,17 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
       } else if (isClusterNode(n.simulationData)) {
         n.gfx.visible = showCluster
         n.label.visible = showCluster
+      } else if (isBacklinkNode(n.simulationData)) {
+        n.gfx.visible = showBacklinks
+        n.label.visible = showBacklinks
       }
     }
     for (const l of linkRenderData) {
       const src = l.simulationData.source as NodeData
       const tgt = l.simulationData.target as NodeData
-      const srcVisible = isSourceNode(src) ? showSources : (isClusterNode(src) ? showCluster : true)
-      const tgtVisible = isSourceNode(tgt) ? showSources : (isClusterNode(tgt) ? showCluster : true)
-      l.gfx.visible = srcVisible && tgtVisible
+      const visibility = (n: NodeData) =>
+        isSourceNode(n) ? showSources : isClusterNode(n) ? showCluster : isBacklinkNode(n) ? showBacklinks : true
+      l.gfx.visible = visibility(src) && visibility(tgt)
     }
     updateToggleLabels()
   }
@@ -707,6 +734,7 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
   updateToggleLabels()
   sourceToggleEl?.addEventListener("toggle", applyToggles)
   clusterToggleEl?.addEventListener("toggle", applyToggles)
+  backlinksToggleEl?.addEventListener("toggle", applyToggles)
 
   return () => {
     stopAnimation = true
