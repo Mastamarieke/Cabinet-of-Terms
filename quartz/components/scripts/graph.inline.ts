@@ -657,6 +657,11 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
 
   function isSourceNode(n: NodeData) { return n.tags.includes("source") }
 
+  // Sources/index.md overview pages aren't tagged "source" themselves, but they're
+  // evidentiary infrastructure, not a term or a real inbound relation — exclude them
+  // from cluster and backlink classification the same way Backlinks.tsx excludes them.
+  function isSourcesFolderPage(id: string) { return id.endsWith("/Sources") || id === "Sources" }
+
   const hasSourceNodes = nodeRenderData.some(n => n.simulationData.tags.includes("source"))
   if (!hasSourceNodes && sourceToggleEl) {
     sourceToggleEl.style.display = "none"
@@ -668,6 +673,7 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
       n.id !== slug &&
       n.id !== clusterIndexSlug &&
       !n.tags.includes("source") &&
+      !isSourcesFolderPage(n.id) &&
       n.id.includes(clusterPath)
     )
   }
@@ -686,7 +692,8 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
       n.id !== slug &&
       directIncoming.has(n.id) &&
       !directOutgoing.has(n.id) &&
-      !n.tags.includes("source")
+      !n.tags.includes("source") &&
+      !isSourcesFolderPage(n.id)
     )
   }
 

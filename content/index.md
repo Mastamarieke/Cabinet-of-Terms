@@ -23,10 +23,10 @@ Welcome to the Cabinet of Digital Terms: a vibrant knowledge bank for the curiou
 Surveillance capitalism. Dopamine loop. Dark pattern. Ghosting. Deinfluencing. Groomer. Red pill.
 You have heard these terms. You probably use some of them. But do you know where they came from? Who introduced them, and why? What they make visible — and what they quietly conceal?
 
-**The Cabinet of Digital Terms** is a knowledge bank developed by **Marieke de Vogel** within **The Project Digital Alertness** at the [[Communication & Multimedia Design program]](https://www.han.nl/opleidingen/hbo/communication-multimedia-design/voltijd/) of the [[HAN University of Applied Sciences]](https://www.hanuniversity.com/en/), in collaboration with the [[Lectorate Media Design]](https://www.han.nl/onderzoek/lectoraten/lectoraat-media-design/). It brings together **250+ terms** from digital media, platform culture, political discourse, and popular culture, organized across **20+ thematic cluster**s. Supported by **859 verified external links** to primary sources, it does something a traditional glossary would never do: it maps them.
+**The Cabinet of Digital Terms** is a knowledge bank developed by **Marieke de Vogel** within **The Project Digital Alertness** at the [[Communication & Multimedia Design program]](https://www.han.nl/opleidingen/hbo/communication-multimedia-design/voltijd/) of the [[HAN University of Applied Sciences]](https://www.hanuniversity.com/en/), in collaboration with the [[Lectorate Media Design]](https://www.han.nl/onderzoek/lectoraten/lectoraat-media-design/). It brings together **250+ terms** from digital media, platform culture, political discourse, and popular culture, organized across **20+ thematic cluster**s. Supported by **800+ verified external links** to primary sources, it does something a traditional glossary would never do: it maps them.
 Not to define, but to connect the dots.
 
-We reject the myth of neutral knowledge. As **Donna Haraway** argued, true objectivity requires acknowledging our position: "Feminist objectivity means quite simply situated knowledges." Instead of offering static definitions, the Cabinet invites you to trace the relationships between terms, revealing the forces that shape our digital reality. The Cabinet of Digital Terms is a knowledge bank of **20+ clusters**, **250+ terms**, **859 source references** from digital media, platform culture, political discourse, and popular culture. Each term is examined for its origin, its use, its power structure, and - most importantly - what it conceals.
+We reject the myth of neutral knowledge. As **Donna Haraway** argued, true objectivity requires acknowledging our position: "Feminist objectivity means quite simply situated knowledges." Instead of offering static definitions, the Cabinet invites you to trace the relationships between terms, revealing the forces that shape our digital reality. The Cabinet of Digital Terms is a knowledge bank of **20+ clusters**, **250+ terms**, **800+ source references** from digital media, platform culture, political discourse, and popular culture. Each term is examined for its origin, its use, its power structure, and - most importantly - what it conceals.
 
 This is not a glossary. A glossary defines. This collection does something different: it identifies terms worth examining - for genealogy, circulation, stakes, and the shifts in meaning that reveal who benefits from a term's existence.
 
@@ -34,13 +34,13 @@ This is not a glossary. A glossary defines. This collection does something diffe
 
 ## Who is this cabinet for?
 
-Here you may lose yourself in a network of **20+ clusters** and **250+ terms**, where every word opens a door to deeper insight. With **859 references** as our foundation, we invite you to discover the forces beneath the screens of the digital world, follow hidden connections, and learn the language that shapes our reality.
+Here you may lose yourself in a network of **20+ clusters** and **250+ terms**, where every word opens a door to deeper insight. With **800+ references** as our foundation, we invite you to discover the forces beneath the screens of the digital world, follow hidden connections, and learn the language that shapes our reality.
 
 This is your place if you are not satisfied with superficial answers, but crave depth behind the algorithms, data, and power structures.
 
 This project is an inspiring resource for:
 
-**Researchers & Academics**: Who seek depth in the genealogy of terms and wish to use the **859 verified sources** for sharp analysis.
+**Researchers & Academics**: Who seek depth in the genealogy of terms and wish to use the **800+ verified sources** for sharp analysis.
 
 **Teachers & Educators**: Who want to inspire their students with the vocabulary,look for more terms, to think critically and remain resilient in a digital world.
 
@@ -59,17 +59,28 @@ Are you ready to lose yourself in the questions of why it works this way, who be
 ---
 ## How it was made — Cartographic Prompting
 
-The Cabinet of Digital Terms is a knowledge bank of **250+ terms** across **20+ clusters**, with **859 verified external sources**. It was produced using **cartographic prompting** - a research method developed within Project Digitale Alertheid at HAN University of Applied Sciences.
+The Cabinet of Digital Terms is a knowledge bank of **250+ terms** across **20+ clusters**, with **800+ verified external sources**. It was produced using **cartographic prompting** - a research method developed within Project Digitale Alertheid at HAN University of Applied Sciences.
 
 The name is deliberate. Where conventional analysis dissects a concept — breaking it into components and defining each one — cartography positions it within a field of forces. A map does not explain a city. It shows where things are in relation to each other, where the borders run, and what lies at the edges.
 
+> **Cartographic prompting** (working definition): a prompting practice that takes cartography itself as input — a large language model is instructed with writing instructions, search directions, and content frameworks — so that the placement of digital terms in a relational network reveals which cluster a term belongs to and why.
+
 Applied to language, cartographic prompting treats each term as a node in a network of power, history, and meaning. Each analysis asks: where did this word come from? Who introduced it, and why? What does it make visible — and what does it conceal? Who benefits from its circulation? What happens to people who encounter it without knowing what it does?
 
-The method uses large language models — Claude (Anthropic), ChatGPT (OpenAI), and Lumo — as analytical partners, guided by a structured prompt (Media Cartografie, currently at version V83). The prompt specifies the analytical layers: etymology, genealogy, power structures, ethical dimensions, labour implications, and societal impact. The model generates a draft. The researcher edits, challenges, redirects, and selects.
+The method uses large language models — Claude (Anthropic), ChatGPT (OpenAI), and Lumo — as analytical partners, guided by a structured prompt. The prompt specifies the analytical layers: etymology, genealogy, power structures, ethical dimensions, labour implications, and societal impact. The model generates a draft. The researcher edits, challenges, redirects, and selects.
 
 This is not AI-generated content in the sense of automated output. It is a collaborative analytical practice in which the model provides generative capacity and the researcher provides judgment. The distinction matters — and it is part of what this vault is about.
 
-Earlier versions of this work operated under the name **Media Cartografie**. Cartographic prompting is its operationalisation: a way of using AI not to generate answers, but to make the hidden visible.
+Two instruments guide the practice: `CLAUDE.md` maintains the vault — indexes, counts, link integrity, retroactive updates — while `Doctor Alert.md` positions each term: which cluster it belongs to, which existing terms it connects to, and why. Maintenance and positioning are deliberately kept separate, so consistency is checked apart from analytical judgment.
+
+A handful of entries — **Sigma Male**, **Looksmaxxing**, **Tradwife**, **Ragebaiting**, **Recommender Systems**, **Virtual Influencer** — carry the method furthest as working prototypes: each has its own Sources folder distinguishing primary from secondary literature, a Narrative Typography image, and a semantic landscape. In the graph, a **Sources** toggle, a **Cluster** toggle, and a **Backlinks** toggle let you reveal or hide that evidentiary layer, a term's cluster-siblings, and its incoming links on demand — the map stays legible at whatever depth you want to read it.
+
+The project began with long-form, eight-section analyses under the name **Media Cartografie**. Cartographic prompting is its operationalisation for the public vault: a way of using AI not to generate answers, but to make the hidden visible.
+
+The Cabinet is not a finished reference — it is a living, iterative practice. Clusters get added, entries get revised, connections get corrected as the network itself reveals what it's missing. What you see today is a snapshot of ongoing work, not a completed atlas.
+
+Read the full methodology: **[Cartographic Prompting](#) *(link to be added)*** — how placement in a relational network reveals connections in digital culture.
+
 ---
 
 ## How an entry is structured
@@ -90,7 +101,7 @@ Every entry in this vault follows the same structure. Understanding it helps you
 
 **Why This Matters** - the analytical conclusion. What changes once you see the term clearly.
 
-**See also** - related terms elsewhere in the vault.
+**Related terms** - other terms discussed inline, elsewhere in the vault.
 
 **Read more** - verified external sources, in the format: `[Title](URL) — Author (year). *Publisher/Journal*`
 

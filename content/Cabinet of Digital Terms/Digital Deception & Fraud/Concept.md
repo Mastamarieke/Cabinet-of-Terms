@@ -120,6 +120,18 @@ Zie ook: [[Inclusion, Accessibility and Ageing]]
 
 ---
 
+### 10. Swatting
+Een vals alarm bij hulpdiensten melden (bijv. een gijzeling, bommelding of gewapende dreiging) op het adres van een slachtoffer, met als doel een gewapende politie-interventie (vaak een SWAT-team) te forceren. Anders dan de meeste fraudevormen hierboven is het doel niet financieel gewin maar intimidatie en fysiek gevaar voor het slachtoffer.
+
+**Voorbeelden:**
+- *Doxing* — het adres van het slachtoffer moet eerst achterhaald worden voordat swatting mogelijk is
+- *VoIP-spoofing* — telefoonnummer en locatie vervalsen bij het misleidende noodgesprek
+- *Livestream Swatting* — swatting getimed tijdens een livestream, zodat de politie-inval gefilmd wordt
+
+Zie ook: Gender & Identity, Subcultural Vocabulary and Platform Language (gaming-/streamingcontext)
+
+---
+
 ## Kernpatroon
 
 Vrijwel alle vormen van digitale fraude draaien om hetzelfde mechanisme: **vertrouwen wekken, urgentie creëren, en handelen vóór het slachtoffer nadenkt**. De technologie verandert — de psychologie niet.
