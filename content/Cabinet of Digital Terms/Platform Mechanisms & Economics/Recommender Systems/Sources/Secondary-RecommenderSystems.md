@@ -5,7 +5,7 @@ source_role: secondary
 discipline: [Journalism, Computer Science, Social Science]
 cluster: Platform Mechanisms & Economics
 linked_entries: ["[[Recommender Systems]]"]
-tags: [source, secondary, journalistic]
+tags: [source, secondary]
 ---
 
 **Tufekci, Z. (2019).** [How Recommendation Algorithms Run the World](https://www.wired.com/story/how-recommendation-algorithms-run-the-world/). *WIRED.* — Journalistic overview of recommendation logic and its societal consequences; accessible framing of the engagement-optimisation problem.

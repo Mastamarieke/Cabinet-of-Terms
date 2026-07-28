@@ -14,7 +14,7 @@ access: open-access
 discipline: [Medicine, Psychology, Media Studies]
 cluster: Gender & Identity
 linked_entries: ["[[Looksmaxxing]]", "[[Body Dysmorphic Disorder]]", "[[Comparison Culture]]"]
-tags: [source, primary, academic, peer-reviewed, open-access]
+tags: [source, primary, open-access]
 ---
 
 ## Korte omschrijving

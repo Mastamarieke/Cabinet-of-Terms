@@ -2,10 +2,10 @@
 title: "Secondary Sources — Sigma Male"
 type: source
 source_role: secondary
-discipline: [Lexicography, Journalism]
+discipline: [Lexicography, Journalism, Self-Help]
 cluster: [Internet Slang, Meme Culture, Social Media, Gender and Identity]
 linked_entries: ["[[Sigma Male]]", "[[Alpha Male]]", "[[Manosphere]]"]
-tags: [source, secondary, popular, journalistic, reference]
+tags: [source, secondary]
 ---
 
 ## 1. What Is a Sigma Male?
@@ -46,6 +46,25 @@ Journalistiek artikel over de virale verspreiding van "sigma male"-content op Ti
 
 ---
 
+## 3. The Sigma Male Bible
+
+**Auteur:** Bud Watson
+**Jaar:** 2021
+**Type:** zelfpublicatie (Amazon KDP) — geen redactie/peer review
+**Analytical layer:** Appeal, Genealogy
+**Source function:** artefact (emic)
+**ISBN:** 9798766034643
+**URL:** https://www.amazon.nl/SIGMA-MALE-BIBLE-Strategies-Self-Discipline/dp/B09M152YVY
+
+### Korte omschrijving
+Zelfpublicatie die het "sigma male"-concept niet analyseert maar actief promoot en verkoopt als zelfontwikkelingsmodel. Bevat geen wetenschappelijke onderbouwing; het is zelf een instantie van het fenomeen dat de entry beschrijft, niet een beschouwing erover — waardevol als bewijsmateriaal voor hoe het concept commercieel wordt ingezet. Auteur Bud Watson heeft geen vindbare academische affiliatie; vermoedelijk een pseudoniem binnen een reeks vergelijkbare KDP-zelfhulptitels.
+
+### Waarmee gelinkt
+- [[Sigma Male]] — het primaire object waarvoor het boek reclame maakt; essentieel voor de "Appeal"-laag van de entry.
+- [[Alpha Male]] — het boek plaatst sigma expliciet tegenover/boven alfa.
+
+---
+
 ## Status
 
-Beide bronnen: secondary — populair/journalistiek, niet peer-reviewed.
+Drie bronnen: secondary. Dictionary.com en Newswise zijn populair/journalistiek, niet peer-reviewed. Watson (2021) is zelf een artefact van het fenomeen — geen kritische of documenterende bron, maar het zelfhulpboek dat het concept verkoopt.

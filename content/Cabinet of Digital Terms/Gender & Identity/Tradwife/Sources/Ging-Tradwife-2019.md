@@ -14,7 +14,7 @@ access: open-access
 discipline: [Gender Studies, Media Studies, Sociology]
 cluster: Gender & Identity
 linked_entries: ["[[Tradwife]]"]
-tags: [source, primary, academic, peer-reviewed]
+tags: [source, primary]
 ---
 
 ## Korte omschrijving

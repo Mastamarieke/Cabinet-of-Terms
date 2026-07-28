@@ -19,7 +19,7 @@ discipline:
   - Network Science
 cluster: Platform Mechanisms & Economics
 linked_entries: ["[[Ragebaiting]]"]
-tags: [source, primary, academic, peer-reviewed]
+tags: [source, primary]
 ---
 
 ## Brady et al. (2017) — Emotion shapes the diffusion of moralized content in social networks

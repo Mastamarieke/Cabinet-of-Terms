@@ -14,7 +14,7 @@ access: paywalled
 discipline: [Marketing, Consumer Psychology, Media Studies]
 cluster: Beauty, Influencers & Self-Image
 linked_entries: ["[[Virtual Influencer]]"]
-tags: [source, primary, academic, peer-reviewed]
+tags: [source, primary]
 ---
 
 Sands, Campbell, Plangger, and Ferraro (2022) examine AI influencers through the lens of **anthropomorphism** — attributing human qualities to non-human entities. They show that anthropomorphism is the mechanism that allows an AI influencer to function as a social actor: it reduces the psychological distance between follower and persona, making the fabricated agent capable of generating trust and social connection.

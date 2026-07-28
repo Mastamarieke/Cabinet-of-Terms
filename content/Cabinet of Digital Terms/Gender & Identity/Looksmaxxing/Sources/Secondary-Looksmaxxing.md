@@ -5,7 +5,7 @@ source_role: secondary
 discipline: [Journalism, Philosophy, Artifact]
 cluster: Gender & Identity
 linked_entries: ["[[Looksmaxxing]]", "[[SMV (Sexual Market Value)]]", "[[Subhuman]]", "[[Body Dysmorphic Disorder]]", "[[Manosphere]]"]
-tags: [source, secondary, journalistic, philosophical, artifact]
+tags: [source, secondary, philosophical]
 ---
 
 ## 1. Looksmaxxing is het gevaarlijke antwoord op de vraag: ben ik iets waard?

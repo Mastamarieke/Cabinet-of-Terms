@@ -60,9 +60,8 @@ semantic_landscape: |
 *Primary:*
 - [[Ging-SigmaMale-2019|Ging, D. (2019)]] — [Alphas, Betas, and Incels](https://doi.org/10.1177/1097184x17706401). *Men and Masculinities*
 - [[Tanner-Gillardin-2025|Tanner & Gillardin (2025)]] — [Toxic Communication on TikTok](https://doi.org/10.1177/20563051251313844). *Social Media + Society*
-- [[Watson-2021|Watson (2021)]] — *The Sigma Male Bible* *(artifact)*
 
 *Secondary:*
-- [[Secondary-SigmaMale|Dictionary.com (2023) · Newswise (2025)]] — lexicografisch + journalistiek
+- [[Secondary-SigmaMale|Dictionary.com (2023) · Newswise (2025) · Watson (2021)]] — lexicografisch + journalistiek + zelfhulpartefact (*The Sigma Male Bible*)
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

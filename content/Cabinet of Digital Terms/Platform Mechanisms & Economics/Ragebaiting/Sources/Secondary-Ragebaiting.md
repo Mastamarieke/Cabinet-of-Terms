@@ -8,7 +8,7 @@ discipline:
   - Popular Science
 cluster: Platform Mechanisms & Economics
 linked_entries: ["[[Ragebaiting]]"]
-tags: [source, secondary, journalistic]
+tags: [source, secondary]
 ---
 
 ## Secondary Sources — Ragebaiting

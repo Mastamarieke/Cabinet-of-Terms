@@ -23,7 +23,7 @@ related_reaction:
 
 **Literal meaning:** **Doomscrolling** describes the compulsive consumption of negative, distressing, or anxiety-inducing news and content through continuous scrolling — particularly on social media and news platforms. The user typically knows the content is harmful to their mental state and continues anyway.
 
-**Origin:** The term circulated in tech and media discourse from around 2018 and gained widespread use during the COVID-19 pandemic in 2020, when a convergence of crisis news, lockdown conditions, and increased smartphone use produced documented increases in compulsive news consumption. Merriam-Webster added it to the dictionary in 2020. The behaviour predates the term — but the term named something people immediately recognised.
+**Origin:** The term circulated in tech and media discourse from around 2018 — Twitter user Ashik Siddique's post on 8 October 2018 ("thank u for breaking the spell of my doom-scrolling down my feed") is among the earliest documented public uses — and gained widespread use during the COVID-19 pandemic in 2020, when a convergence of crisis news, lockdown conditions, and increased smartphone use produced documented increases in compulsive news consumption. Merriam-Webster added it to the dictionary in 2020. The behaviour predates the term — but the term named something people immediately recognised. Journalist Alex Wright traces the same pattern back to the nineteenth-century press: Dickens denounced the American papers of 1842 as a "monster of depravity," and Thoreau, by 1854, already found the news "indispensable." Each surge in publishing technology — the steam press, cheap paper, urbanisation — produced a glut of information that outran readers' capacity to process it, and each glut was eventually absorbed by new gatekeepers (Pulitzer and Hearst then, recommender algorithms and AI now). Doomscrolling, in this reading, is not a new pathology but the current phase of a recurring cycle.
 
 > Compulsive consumption of negative news despite awareness of its psychological cost — a behaviour that platform design makes easier than stopping.
 
@@ -40,6 +40,8 @@ related_reaction:
 **Read more:**
 - [Doomscrolling During COVID-19](https://pubmed.ncbi.nlm.nih.gov/35157484/) — Price, M., Legrand, A. C., Brier, Z. M. F., van Stolk-Cooke, K., Peck, K., Dodds, P. S., Danforth, C. M., Adams, Z. W. (2022). *Psychol Trauma*
 - [Digital Newsreport 2022](https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2022) — Reuters Institute Digital News Report (2022)
+- [A Prehistory of Doomscrolling](https://hiddenfrequencies.alexwright.com/p/a-prehistory-of-doomscrolling) — Wright, A. (2025)
+- [@ahSHEEK](https://x.com/ahSHEEK) — Siddique, A. (8 October 2018), early documented use of "doomscrolling"
 
 ---
 

@@ -14,7 +14,7 @@ access: open-access
 discipline: [Computer Science, Social Science, Media Studies]
 cluster: Platform Mechanisms & Economics
 linked_entries: ["[[Recommender Systems]]"]
-tags: [source, primary, academic, peer-reviewed]
+tags: [source, primary]
 ---
 
 Large-scale audit of radicalization pathways on YouTube: 330,925 videos across 349 channels, classified into mainstream, Alt-lite, Intellectual Dark Web, and Alt-right. Core finding: users consistently migrate from milder to more extreme content through YouTube's recommendation chains. Alt-lite content is easily reachable from mainstream channels; Alt-right content is reachable through subsequent steps. Directly evidences the radicalization pathway described in [[Recommender Systems]].

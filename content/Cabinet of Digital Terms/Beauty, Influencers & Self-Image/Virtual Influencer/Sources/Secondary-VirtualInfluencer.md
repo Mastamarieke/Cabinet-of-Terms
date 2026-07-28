@@ -5,7 +5,7 @@ source_role: secondary
 discipline: [Journalism, Industry Research, Youth Research]
 cluster: Beauty, Influencers & Self-Image
 linked_entries: ["[[Virtual Influencer]]"]
-tags: [source, secondary, journalistic]
+tags: [source, secondary]
 ---
 
 ## VirtualHumans.org (n.d.)

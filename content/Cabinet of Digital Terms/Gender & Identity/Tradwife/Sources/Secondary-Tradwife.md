@@ -5,7 +5,7 @@ source_role: secondary
 discipline: [Journalism, Sociology, Digital Media]
 cluster: Gender & Identity
 linked_entries: ["[[Tradwife]]", "[[Manosphere]]", "[[Purity Culture]]", "[[Womanosphere]]", "[[SMV (Sexual Market Value)]]"]
-tags: [source, secondary, journalistic]
+tags: [source, secondary]
 ---
 
 ## 1. The Housewives of White Supremacy

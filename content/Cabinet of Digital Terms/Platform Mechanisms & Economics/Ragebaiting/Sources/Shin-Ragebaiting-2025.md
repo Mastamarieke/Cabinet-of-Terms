@@ -17,7 +17,7 @@ discipline:
   - Communication Science
 cluster: Platform Mechanisms & Economics
 linked_entries: ["[[Ragebaiting]]"]
-tags: [source, primary, academic, peer-reviewed]
+tags: [source, primary]
 ---
 
 ## Shin et al. (2025) — Emotion Sells: Rage Bait vs. Information Bait in Clickbait News Headlines on Social Media

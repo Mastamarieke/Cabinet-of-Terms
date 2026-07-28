@@ -14,7 +14,7 @@ access: open-access
 discipline: [Criminology, Digital Criminology, Media Studies, Gender Studies]
 cluster: [Internet Slang, Meme Culture, Gender and Identity, Social Media]
 linked_entries: ["[[Sigma Male]]", "[[Alpha Male]]", "[[Manosphere]]"]
-tags: [source, primary, academic, peer-reviewed, open-access]
+tags: [source, primary, open-access]
 ---
 
 ## Korte omschrijving

@@ -15,7 +15,7 @@ self_archived_copy_url: https://www.semanticscholar.org/paper/2fe1adb954bcea424f
 discipline: [Gender Studies, Media Studies, Sociology]
 cluster: [Masculinity Studies, Manosphere]
 linked_entries: ["[[Sigma Male]]"]
-tags: [source, primary, academic, peer-reviewed]
+tags: [source, primary]
 ---
 
 ## Korte omschrijving
