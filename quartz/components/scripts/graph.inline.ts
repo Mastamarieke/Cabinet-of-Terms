@@ -672,6 +672,11 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     )
   }
 
+  const hasClusterNodes = nodeRenderData.some((n) => isClusterNode(n.simulationData))
+  if (!hasClusterNodes && clusterToggleEl) {
+    clusterToggleEl.style.display = "none"
+  }
+
   // A node is a "backlink" node if the only reason it's in this graph is that
   // it links to the current page — the current page itself does not link out to it.
   const directOutgoing = new Set(links.filter((l) => l.source === slug).map((l) => l.target))
