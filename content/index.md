@@ -145,7 +145,7 @@ The Cabinet of Terms is part of a larger project. **Project Digitale Alertheid**
 ## Browse by cluster
 
 <details>
-<summary><strong>Platform Mechanisms & Economics</strong> — 26 terms</summary>
+<summary><strong>Platform Mechanisms & Economics</strong> — 25 terms</summary>
 
 Platforms are not neutral tools. This cluster maps the technical and economic architecture through which platforms shape user behaviour — recommendation algorithms, dark patterns, gamification mechanics, and dopamine loops. The terms here name mechanisms that are easier to resist once they have a name.
 
@@ -154,7 +154,6 @@ Platforms are not neutral tools. This cluster maps the technical and economic ar
 - [[AI Slop]]
 - [[AI as a Utility]]
 - [[Age of Average]]
-- [[Algospeak]]
 - [[Attention Economy]]
 - [[Attention Harvesting]]
 - [[BUMMER]]
