@@ -45,9 +45,6 @@ Framing yourself as the protagonist of your own story. Everyone else as supporti
 ### [[Podcast-bro]]
 The male podcaster as ideological gatekeeper. Long-form, unedited, enormously influential.
 
-### [[Ragebaiting]]
-Content designed to provoke anger. Anger travels faster than any other emotion.
-
 ### [[Ratio'd]]
 More replies than likes. Public punishment via platform metric.
 

@@ -15,6 +15,12 @@ tags: [source, secondary]
 
 ### Journalistic
 
+**Oxford University Press (2025).** The Oxford Word of the Year 2025 is rage bait. *Oxford University Press*. https://corp.oup.com/news/the-oxford-word-of-the-year-2025-is-rage-bait/
+
+Oxford's selection of "rage bait" as Word of the Year 2025 marks the point at which the practice became widely named and recognised outside specialist/journalistic circles. Used in Origin as the naming milestone.
+
+---
+
 **Heijne, B. (10 juli 2026).** Influencers maken onze emoties tot hun handelswaar. Aandacht is het doel. *NRC*. https://www.nrc.nl/nieuws/2026/07/10/influencers-maken-onze-emoties-tot-hun-handelswaar-aandacht-is-het-doel-a4931991
 
 Introduces the concept of *ego-kapitalisme*: the platform creator economy in which emotions — including negative ones — are commodities, and the provocation is the product rather than what it wraps. Uses Braden Peters (Clavicular) as case study for how ridicule generates the same engagement signal as admiration. Used in Friction to scale the mechanism from individual creators to a structural business logic.

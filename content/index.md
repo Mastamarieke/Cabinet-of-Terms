@@ -550,7 +550,7 @@ These jobs exist because something in the system is not working. Content moderat
 </details>
 
 <details>
-<summary><strong>Subcultural Vocabulary and Platform Language</strong> — 12 terms</summary>
+<summary><strong>Subcultural Vocabulary and Platform Language</strong> — 11 terms</summary>
 
 Language that originates online, moves offline, and mutates constantly. This cluster maps how platform architecture shapes language, and how words travel from specific subcultures into general use, carrying their original context invisibly with them.
 
@@ -566,7 +566,6 @@ Language that originates online, moves offline, and mutates constantly. This clu
 - [[Main Character Energy]]
 - [[Podcast-bro]]
 - [[Gooner]]
-- [[Ragebaiting]]
 - [[Ratio'd]]
 - [[Tierlists S-Tier]]
 
