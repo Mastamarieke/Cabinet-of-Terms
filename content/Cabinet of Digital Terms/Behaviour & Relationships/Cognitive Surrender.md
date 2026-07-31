@@ -29,7 +29,7 @@ related_reaction:
 
 **The Appeal:** Delegating thinking is efficient. Search engines find answers faster than memory. AI tools draft text faster than writing from scratch. Recommendation systems surface choices faster than deliberation. The friction is removed — and the removal feels like improvement.
 
-**The Friction:** What looks like efficiency may be atrophy. Nicholas Carr's research documented measurable changes in reading depth and sustained attention in heavy internet users. [[Cognitive Offloading]] — transferring cognitive work to tools — becomes **cognitive surrender** when the capacity to function without the tool diminishes. [[AI Dependency]] — structural reliance without critical reflection — is the contemporary form: not just using AI to think faster, but losing the ability to think without it. [[Doomscrolling]] is a related pattern: the platform does not force you to keep scrolling, it simply made stopping harder than continuing — and over time, the capacity for self-interruption weakens.
+**The Friction:** What looks like efficiency may be atrophy. Nicholas Carr's research documented measurable changes in reading depth and sustained attention in heavy internet users. [[Cognitive Offloading]] — transferring cognitive work to tools — becomes **cognitive surrender** when the capacity to function without the tool diminishes. [[AI Dependency]] — structural reliance without critical reflection — is the contemporary form: not just using AI to think faster, but losing the ability to think without it. A 2025 MIT Media Lab study (Kosmyna et al.) measured this directly: participants who wrote essays with LLM assistance showed the weakest, least distributed brain connectivity of any group tested, and when later asked to write unaided, showed reduced engagement — evidence that the capacity, once surrendered, does not return on demand. Participants who had first written independently showed no such cost when they later used an LLM, suggesting the surrender runs one direction: from self-reliance toward dependency, not back. [[Doomscrolling]] is a related pattern: the platform does not force you to keep scrolling, it simply made stopping harder than continuing — and over time, the capacity for self-interruption weakens.
 
 **Why This Matters:** **Cognitive surrender** is invisible in the moment and visible only in retrospect — when the question is hard and the tool is absent, and the thinking does not come.
 
@@ -40,6 +40,7 @@ related_reaction:
 **Read more:**
 - [The Shallows](https://wwnorton.com/books/the-shallows/) — Carr, N. (2010). *W.W. Norton*
 - [Alone Together](https://www.basicbooks.com/titles/sherry-turkle/alone-together/9780465093656/) — Turkle, S. (2011). *Basic Books*
+- [Your Brain on ChatGPT: Accumulation of Cognitive Debt when Using an AI Assistant for Essay Writing Task](https://arxiv.org/abs/2506.08872) — Kosmyna, N. et al. (2025). *arXiv preprint*
 
 ---
 
