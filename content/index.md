@@ -79,7 +79,7 @@ The project began with long-form, eight-section analyses under the name **Media 
 
 The Cabinet is not a finished reference — it is a living, iterative practice. Clusters get added, entries get revised, connections get corrected as the network itself reveals what it's missing. What you see today is a snapshot of ongoing work, not a completed atlas.
 
-Read the full methodology: **[Cartographic Prompting](#) *(link to be added)*** — how placement in a relational network reveals connections in digital culture.
+Read the full methodology: **[Cartographic Prompting](https://digitale-alertheid.nl/beyond-karpathys-llm-wiki-cartographic-prompting-as-curatorial-practice/)** — how placement in a relational network reveals connections in digital culture.
 
 ---
 
