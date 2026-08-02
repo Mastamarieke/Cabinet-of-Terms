@@ -39,7 +39,7 @@ Once you see **deskilling** as structural rather than personal, you see that the
 📖 **Read more**
 - [Labor and Monopoly Capital: The Degradation of Work in the Twentieth Century](https://caringlabor.wordpress.com/wp-content/uploads/2010/11/8755-labor_and_monopoly_capitalism.pdf) — Braverman, H. (1974). *Monthly Review Press*
 - [Race Against the Machine](https://ide.mit.edu/sites/default/files/publications/Brynjolfsson_McAfee_Race_Against_the_Machine.pdf) — Brynjolfsson, E. & McAfee, A. (2011). *Digital Frontier Press*
-- [Your Brain on ChatGPT: Accumulation of Cognitive Debt when Using an AI Assistant for Essay Writing Task](https://arxiv.org/abs/2506.08872) — Kosmyna, N. et al. (2025). *arXiv preprint*
+- [Your Brain on ChatGPT: Accumulation of Cognitive Debt when Using an AI Assistant for Essay Writing Task](https://www.media.mit.edu/publications/your-brain-on-chatgpt/) — Kosmyna, N. et al. (2025). *MIT Media Lab*
 
 ---
 ---

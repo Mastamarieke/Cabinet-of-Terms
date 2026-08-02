@@ -40,7 +40,7 @@ related_reaction:
 **Read more:**
 - [The Shallows](https://wwnorton.com/books/the-shallows/) — Carr, N. (2010). *W.W. Norton*
 - [Alone Together](https://www.basicbooks.com/titles/sherry-turkle/alone-together/9780465093656/) — Turkle, S. (2011). *Basic Books*
-- [Your Brain on ChatGPT: Accumulation of Cognitive Debt when Using an AI Assistant for Essay Writing Task](https://arxiv.org/abs/2506.08872) — Kosmyna, N. et al. (2025). *arXiv preprint*
+- [Your Brain on ChatGPT: Accumulation of Cognitive Debt when Using an AI Assistant for Essay Writing Task](https://www.media.mit.edu/publications/your-brain-on-chatgpt/) — Kosmyna, N. et al. (2025). *MIT Media Lab*
 
 ---
 
