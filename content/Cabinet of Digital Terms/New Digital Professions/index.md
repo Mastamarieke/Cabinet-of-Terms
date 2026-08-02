@@ -14,12 +14,6 @@ The question this cluster asks: who is doing the work the platform claims the al
 
 ## Terms in this cluster
 
-### 
-Independent assessment of algorithmic systems for bias and harm. The external review the system would not commission itself.
-
-### 
-Institutional role at the intersection of technology and values. The tension between genuine critique and corporate capture is structural.
-
 ### [[Content Moderator]]
 The invisible labour of removing harmful content at scale. The human layer beneath the algorithmic moderation that cannot do it alone.
 
@@ -29,15 +23,6 @@ The platform is your employer. The content is your labour. The algorithm sets yo
 ### [[Personal Branding]]
 You are not a person. You are a product. This is now expected before you graduate.
 
-### 
-Investigating data trails for accountability purposes. Journalism, legal practice, and civic activism meeting in one role.
-
-### 
-Recovering and interpreting digital cultural heritage. What survives, what is lost, and what that means.
-
-### 
-Legal practice at the intersection of technology and human rights. The law catching up with the infrastructure.
-
 ### [[Ghost Work]]
 Gray & Suri, 2019. Invisible on-demand labour that makes AI systems function — erased from the product narrative while essential to its operation. *(new V10)*
 
@@ -46,10 +31,6 @@ Amazon MTurk: the infrastructure for invisible human microlabour that makes AI a
 
 ### [[Prompt Engineer]]
 The person who knows how to talk to the model. New skill or new dependency? Possibly both.
-
-### 
-Platform governance — the human layer that decides what the rules mean in practice.
-
 
 - [[De-installer]]
 - [[Digital Coach]]
