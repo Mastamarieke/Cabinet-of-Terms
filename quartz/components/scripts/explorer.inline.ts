@@ -168,7 +168,14 @@ function createFolderNode(
   const folderIsPrefixOfCurrentSlug =
     simpleFolderPath === currentSlug.slice(0, simpleFolderPath.length)
 
-  if (!isCollapsed || folderIsPrefixOfCurrentSlug) {
+  // also open a folder (e.g. a term's Sources subfolder) when the page
+  // being viewed IS that folder's direct parent (the term's own page) —
+  // so clicking through to a term reveals its Sources, without every
+  // term's Sources staying expanded elsewhere in the tree
+  const folderParentPath = folderPath.split("/").slice(0, -1).join("/")
+  const currentPageIsFolderParent = simplifySlug(currentSlug) === folderParentPath
+
+  if (!isCollapsed || folderIsPrefixOfCurrentSlug || currentPageIsFolderParent) {
     folderOuter.classList.add("open")
   }
 
