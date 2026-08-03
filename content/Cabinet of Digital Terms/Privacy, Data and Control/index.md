@@ -15,8 +15,8 @@ The question this cluster asks: what does "your data is safe with us" actually m
 ### [[Surveillance Capitalism]]
 Zuboff 2019. Human experience as raw material for a new economic logic. Your behaviour, packaged and sold as prediction product.
 
-### [[Dataïsme]]
-De ideologie dat data altijd meer waarde heeft dan menselijk oordeel. En dat meer data altijd beter is.
+### [[Dataism]]
+The ideology that data always outweighs human judgement. And that more data is always better.
 
 ### [[Data Brokers]]
 Companies you have never heard of know where you live, what you earn, and what your health conditions are. They are selling that information right now.

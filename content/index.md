@@ -278,7 +278,7 @@ The privacy policy is forty-seven pages long. You clicked agree. So did everyone
 
 - [[Algorithmic Violence]]
 - [[Data Brokers]]
-- [[Dataïsme]]
+- [[Dataism]]
 - [[Privacy Washing]]
 - [[Privacy as a Premium]]
 - [[Security Theater]]

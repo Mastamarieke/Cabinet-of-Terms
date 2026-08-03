@@ -10,7 +10,7 @@ related_cause:
   - Informatics of Domination
 related_mechanism:
   - Vendor Lock-in
-  - Dataïsme
+  - Dataism
 related_consequence:
   - Digital Exclusion
   - Dehumanization
@@ -29,11 +29,11 @@ related_reaction:
 
 **The Appeal:** Automated decision systems offer efficiency, consistency, and the appearance of objectivity. For governments and organisations managing large populations — benefits claimants, credit applicants, criminal defendants — automation appears to eliminate the inconsistency and potential bias of individual human decisions. The scale and consistency of automated systems are real advantages.
 
-**The Friction:** [[Informatics of Domination]] — **Haraway**'s 1985 framework — predicted this precisely: information systems reinscribe existing hierarchies while appearing neutral. **Eubanks**' research documented that US benefits administration systems systematically disadvantaged poor families; Noble's research documented that Google's search algorithm produced racist results in searches for Black women. [[Dataïsme]] is the ideology that makes **algorithmic violence** invisible: if data is neutral, then data-driven decisions are neutral, and harm is the user's problem rather than the system's design. [[Surveillance Capitalism]] generates the data that encodes the existing inequalities that automated systems then reproduce at scale.
+**The Friction:** [[Informatics of Domination]] — **Haraway**'s 1985 framework — predicted this precisely: information systems reinscribe existing hierarchies while appearing neutral. **Eubanks**' research documented that US benefits administration systems systematically disadvantaged poor families; Noble's research documented that Google's search algorithm produced racist results in searches for Black women. [[Dataism]] is the ideology that makes **algorithmic violence** invisible: if data is neutral, then data-driven decisions are neutral, and harm is the user's problem rather than the system's design. [[Surveillance Capitalism]] generates the data that encodes the existing inequalities that automated systems then reproduce at scale.
 
 **Why This Matters:** **Algorithmic violence** names the specific accountability gap of automated harm. Once you see the structure — harm produced, no individual responsible — you can ask: who designed this system, what data trained it, whose interests does it serve, and who bears the cost of its errors?
 
-**Related terms:** [[Informatics of Domination]] · [[Dataïsme]] · [[Surveillance Capitalism]] · [[Digital Exclusion]] · [[VSD (Value Sensitive Design)]] · [[Brussels Effect]] · [[Dehumanization]] · [[Vendor Lock-in]]
+**Related terms:** [[Informatics of Domination]] · [[Dataism]] · [[Surveillance Capitalism]] · [[Digital Exclusion]] · [[VSD (Value Sensitive Design)]] · [[Brussels Effect]] · [[Dehumanization]] · [[Vendor Lock-in]]
 
 
 ---

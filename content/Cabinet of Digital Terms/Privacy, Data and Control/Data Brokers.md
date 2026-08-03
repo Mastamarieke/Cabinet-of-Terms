@@ -7,7 +7,7 @@ version: V1
 analysis_version: pending
 related_cause:
   - Surveillance Capitalism
-  - Dataïsme
+  - Dataism
 related_mechanism:
   - Privacy Washing
   - Microtargeting
@@ -32,7 +32,7 @@ related_reaction:
 
 **Why This Matters:** **Data brokers** make visible the commercial infrastructure of the surveillance economy. Most people understand that Google and Facebook collect data; almost no one knows that Acxiom has a profile on them that they have never knowingly contributed to. Once you know the industry exists, "your data is private" is a sentence that requires much more specific qualification.
 
-**Related terms:** [[Surveillance Capitalism]] · [[Dataïsme]] · [[Microtargeting]] · [[Privacy Washing]] · [[Brussels Effect]] · [[Deadnaming]] · [[Algorithmic Violence]]
+**Related terms:** [[Surveillance Capitalism]] · [[Dataism]] · [[Microtargeting]] · [[Privacy Washing]] · [[Brussels Effect]] · [[Deadnaming]] · [[Algorithmic Violence]]
 
 
 ---

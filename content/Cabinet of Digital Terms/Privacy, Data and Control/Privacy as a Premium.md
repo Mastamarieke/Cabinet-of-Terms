@@ -10,7 +10,7 @@ related_cause:
   - Digital Divide
 related_mechanism:
   - Privacy Washing
-  - Dataïsme
+  - Dataism
 related_consequence:
   - Digital Divide
   - Algorithmic Violence
@@ -28,11 +28,11 @@ related_reaction:
 
 **The Appeal:** From a commercial perspective, the model resolves a genuine tension: GDPR requires meaningful consent, and meaningful consent reduces advertising revenue. Offering paid privacy as an alternative to data-funded free access appears to satisfy the regulatory requirement while maintaining the advertising business for users who cannot or will not pay. Some users genuinely prefer the trade.
 
-**The Friction:** The structural implication is that privacy becomes a class privilege. [[Digital Divide]] — structural inequality in digital access — is the context: those with less disposable income are disproportionately exposed to surveillance. [[Dataïsme]] — the ideology that data extraction is a neutral good — is the worldview that makes this model feel natural. The EU's EDPB initially contested the Meta pay-or-consent model as not constituting valid consent under GDPR — the issue was whether the choice between paying and being tracked constitutes genuine free choice. [[Brussels Effect]] is simultaneously the pressure that produced the model and the regulatory framework that is contesting it.
+**The Friction:** The structural implication is that privacy becomes a class privilege. [[Digital Divide]] — structural inequality in digital access — is the context: those with less disposable income are disproportionately exposed to surveillance. [[Dataism]] — the ideology that data extraction is a neutral good — is the worldview that makes this model feel natural. The EU's EDPB initially contested the Meta pay-or-consent model as not constituting valid consent under GDPR — the issue was whether the choice between paying and being tracked constitutes genuine free choice. [[Brussels Effect]] is simultaneously the pressure that produced the model and the regulatory framework that is contesting it.
 
 **Why This Matters:** **Privacy as a premium** names the political economy of surveillance: if privacy has a price, those without the price pay with their data. Once you see the class dimension, "free" services become a different kind of offer.
 
-**Related terms:** [[Privacy Washing]] · [[Surveillance Capitalism]] · [[Digital Divide]] · [[Dataïsme]] · [[Brussels Effect]] · [[Algorithmic Violence]]
+**Related terms:** [[Privacy Washing]] · [[Surveillance Capitalism]] · [[Digital Divide]] · [[Dataism]] · [[Brussels Effect]] · [[Algorithmic Violence]]
 
 
 ---
