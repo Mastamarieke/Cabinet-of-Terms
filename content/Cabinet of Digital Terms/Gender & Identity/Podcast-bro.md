@@ -45,15 +45,5 @@ An American study by the USC Annenberg Inclusion Initiative found that popular p
 - [The Future of Podcasting is Women](https://www.acast.com/en-gb/blog/the-future-of-podcasting-is-women). Davies, M., & Aveillan, J. (2026). Acast.
 - [Podcasting the Crisis of Masculinity: Recognition Politics, the Manosphere, and the Joe Rogan Experience Audience](https://preprints.apsanet.org/engage/apsa/article-details/6828c045e561f77ed46269c7) — Stecula, D. (2025). *APSA Preprints*
 
----
-
-## Navigation
-
-**Layer:** Mechanism — a media format whose parasocial intimacy and creator-economy incentives make it an efficient vehicle for manosphere ideology
-
-**Cause:** [[Manosphere]] · [[Creator Economy]]
-**Mechanism:** [[Top 1% Man]] · [[High Value Man]]
-**Consequence:** [[Hustle Culture]] · [[Incel]]
-**Reaction:** [[Deplatforming]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

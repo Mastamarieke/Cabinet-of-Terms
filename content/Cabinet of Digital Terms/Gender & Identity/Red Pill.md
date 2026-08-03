@@ -45,15 +45,5 @@ related_reaction:
 - [Taking the Red Pill: Conspiracy Theories, Gender, and the ‘Manosphere’](https://research-information.bris.ac.uk/en/publications/taking-the-red-pill-conspiracy-theories-gender-and-the-elusive-ep/). Van Veeren, E. S. (2025). *International Feminist Journal of Politics*
 - [The manosphere, the alt-right and the public sphere: overlapping territories of misogyny and extreme right violence](https://www.tandfonline.com/doi/full/10.1080/09589236.2023.2260318) — Ging, D. & Siapera, E. (2023). *Journal of Gender Studies*
 
----
-
-## Navigation
-
-**Layer:** Mechanism — a conversion metaphor that reframes ideological adoption as awakening to a hidden truth
-
-**Cause:** [[SMV (Sexual Market Value)]] · [[Manosphere]]
-**Mechanism:** [[Blackpill]] · [[Hypergamy]]
-**Consequence:** [[Incel]] · [[MGTOW]] · [[Great Replacement]] · [[QAnon]]
-**Reaction:** [[Deplatforming]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>
