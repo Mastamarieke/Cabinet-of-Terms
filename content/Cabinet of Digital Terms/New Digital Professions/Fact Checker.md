@@ -32,7 +32,7 @@ related_reaction:
 
 **Why This Matters:** **Fact checker** makes visible the asymmetry between misinformation production and its correction. Once you see the structural gap, the question shifts from "are there enough fact-checkers?" to "why is the production of false information faster than its correction, and who profits from that asymmetry?"
 
-**Related terms:** [[Bot Farms]] · [[Synthetic Generation]] · [[Flood the Zone]] · [[Content Moderator]] · [[AI Literacy]]
+**Related terms:** [[Bot Farms]] · [[Synthetic Generation]] · [[Flood the Zone]] · [[Content Moderator]] · [[AI Literacy]] · [[Deplatforming]] · [[Slow Media]]
 
 
 ---
@@ -41,16 +41,5 @@ related_reaction:
 - [The Fact Checker rose in an era of false claims. Falsehoods are now winning.](https://www.washingtonpost.com/politics/2025/07/31/fact-checker-falsehoods-glenn-kessler/) — Kessler, G. (2025). _The Washington Post_  
 - [The Impact and Opportunities of Generative AI in Fact-Checking](https://arxiv.org/abs/2405.15985) — Wolfe, R. & Mitra, T. (2024). _arXiv_
   [The toll of fighting misinformation: Precarity in fact-checking organizations](https://journals.sagepub.com/doi/10.1177/14648849251355817) — Bélair-Gagnon, V. et al. (2025). _Journalism_  
-
----
-
-## Navigation
-
-**Layer:** Reaction — a profession whose scale measures the volume of misinformation the ecosystem produces
-
-**Cause:** [[Bot Farms]] · [[Synthetic Generation]]
-**Mechanism:** [[Content Moderator]] · [[Flood the Zone]]
-**Consequence:** [[Deplatforming]]
-**Reaction:** [[AI Literacy]] · [[Slow Media]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

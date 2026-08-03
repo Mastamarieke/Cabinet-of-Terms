@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Kidfluencer** names the commercial endpoint of the **sharenting** logic. Once you see the industry — no labour law, no consent framework, no minimum age — the child with a brand is also a child without protections that adults take for granted.
 
-**Related terms:** [[Momfluencer]] · [[Family Vlogging]] · [[Sharenting]] · [[Online Grooming]] · [[Parasocial Relationship]]
+**Related terms:** [[Momfluencer]] · [[Family Vlogging]] · [[Sharenting]] · [[Online Grooming]] · [[Parasocial Relationship]] · [[Brussels Effect]] · [[Creator Economy]] · [[VSD (Value Sensitive Design)]]
 
 
 ---
@@ -42,16 +42,5 @@ related_reaction:
 - [Child Influencers: How Children Become Entangled with Social Media Fame](https://books.google.com/books/about/Child_Influencers.html?id=EdexEQAAQBAJ) — Abidin, C. (2026). _Polity Press_
 - Kids Are Posting Millions of Videos Online — Lorenz, T. (2019). _The New York Times_
 - [Children’s Data and Privacy Online: Growing Up in a Digital Age](https://www.lse.ac.uk/my-privacy-uk/Assets/Documents/Childrens-data-and-privacy-online-report-for-web.pdf) — Stoilova, M., Livingstone, S. & Nandagiri, R. (2019). _London School of Economics and Political Science_
-
----
-
-## Navigation
-
-**Layer:** Consequence — a child functioning as a commercial entity in an industry with no minimum age requirement or labour protections
-
-**Cause:** [[Sharenting]] · [[Creator Economy]]
-**Mechanism:** [[Momfluencer]] · [[Family Vlogging]]
-**Consequence:** [[Parasocial Relationship]] · [[Online Grooming]]
-**Reaction:** [[Brussels Effect]] · [[VSD (Value Sensitive Design)]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Flexing** makes visible the feedback loop between status display and platform economics. The platform profits from aspiration. Aspiration requires visible standards. **Flexing** sets those standards. The cycle is self-sustaining.
 
-**Related terms:** [[Comparison Culture]] · [[Highlight Reel]] · [[Curated Life]] · [[FOMO]] · [[Deinfluencing]] · [[Attention Economy]]
+**Related terms:** [[Comparison Culture]] · [[Highlight Reel]] · [[Curated Life]] · [[FOMO]] · [[Deinfluencing]] · [[Attention Economy]] · [[JOMO]]
 
 
 ---
@@ -41,16 +41,5 @@ related_reaction:
 - [The Theory of the Leisure Class](https://www.gutenberg.org/ebooks/833) — Veblen, T. (1899). *Project Gutenberg (public domain)*
 - [Flexing culture in the age of social media: From social recognition to self-satisfaction](https://journal.trunojoyo.ac.id/simulacra/article/view/20716) — Rosida, I. (2024). _Simulacra, 13_(1). Open access.
 - [Social media influencers and followers' conspicuous consumption: The mediation of fear of missing out and materialism](https://pmc.ncbi.nlm.nih.gov/articles/PMC11385768/) — Dinh, T. C. T., & Lee, Y. (2024). _Heliyon, 10_(16). Open access (CC BY).
-
----
-
-## Navigation
-
-**Layer:** Mechanism — status display optimised for social media audiences and engagement
-
-**Cause:** [[Comparison Culture]] · [[Attention Economy]]
-**Mechanism:** [[Highlight Reel]] · [[Curated Life]]
-**Consequence:** [[Comparison Culture]] · [[FOMO]]
-**Reaction:** [[Deinfluencing]] · [[JOMO]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

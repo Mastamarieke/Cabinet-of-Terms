@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Prepperism** names an identity structure built on anticipated catastrophe. Once you see the identity investment — not just the practical preparation — you can ask: what would happen to the **prepperism** community if the collapse became evidently unlikely? And who benefits from maintaining the sense of imminence?
 
-**Related terms:** [[Millenarianism]] · [[Doomerism]] · [[Doomsday Prep for the Super-Rich]] · [[Disaster Nationalism]] · [[Fortress Futurism]]
+**Related terms:** [[Millenarianism]] · [[Doomerism]] · [[Doomsday Prep for the Super-Rich]] · [[Disaster Nationalism]] · [[Fortress Futurism]] · [[AI Literacy]] · [[Situated Knowledge]]
 
 
 ---
@@ -41,18 +41,5 @@ related_reaction:
 - [_Bunker: Building for the End Times_](https://www.bradleygarrett.com/bunker/). Garrett, B. (2020). _Penguin Random House_
 - [_Doomsday Preppers_](https://www.natgeotv.com/nl/programmas/natgeo/doomsday-preppers). _National Geographic_ (2012–2014)
 - [_Preppers_](https://haenfler.sites.grinnell.edu/preppers/). Haenfler, R. _Grinnell College_
-
-
-
----
-
-## Navigation
-
-**Layer:** Mechanism — preparation for collapse as both practical activity and identity project, sustained by the ongoing imminence of a crisis that perpetually fails to arrive
-
-**Cause:** [[Millenarianism]] · [[Doomerism]]
-**Mechanism:** [[Doomsday Prep for the Super-Rich]] · [[Disaster Nationalism]]
-**Consequence:** [[Doomsday Prep for the Super-Rich]] · [[Doomerism]]
-**Reaction:** [[Situated Knowledge]] · [[AI Literacy]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

@@ -33,23 +33,12 @@ related_reaction:
 
 **Why This Matters:** **Sovereignty as a Service** names the political condition produced when efficiency arguments consistently win procurement decisions. Once you see the dependency accumulating, "the vendor has access to the data" is not a data security problem — it is a sovereignty problem.
 
-**Related terms:** [[Vendor Lock-in]] · [[CLOUD Act]] · [[Technofeudalism]] · [[Muskism]] · [[Brussels Effect]]
+**Related terms:** [[Vendor Lock-in]] · [[CLOUD Act]] · [[Technofeudalism]] · [[Muskism]] · [[Brussels Effect]] · [[Cybernetic Governance]]
 
 
 ---
 **Read more:**
 - [The Palantir Problem](https://doi.org/10.2139/ssrn.3942399) — Brayne, S. (2021). *SSRN*
 - [Crack-Up Capitalism](https://www.penguinrandomhouse.com/books/699131/crack-up-capitalism-by-quinn-slobodian/) — Slobodian, Q. (2023). *Metropolitan Books*
-
----
-
-## Navigation
-
-**Layer:** Consequence — state sovereignty operationally dependent on private infrastructure it does not own
-
-**Cause:** [[Vendor Lock-in]] · [[Technofeudalism]]
-**Mechanism:** [[Cybernetic Governance]] · [[CLOUD Act]]
-**Consequence:** [[Technofeudalism]] · [[Muskism]]
-**Reaction:** [[Brussels Effect]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

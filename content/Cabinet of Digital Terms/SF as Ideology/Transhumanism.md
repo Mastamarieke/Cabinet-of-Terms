@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Transhumanism** names the ideology that makes Silicon Valley billionaires' personal immortality projects feel like universal human progress. Once you see who the "we" is in "we can transcend human limitations," the universalism of the claim becomes legible as a particular class interest.
 
-**Related terms:** [[The Singularity]] · [[Mind Uploading]] · [[Neuralink]] · [[Longtermism]] · [[Objectivism (Rand)]] · [[Fortress Futurism]]
+**Related terms:** [[The Singularity]] · [[Mind Uploading]] · [[Neuralink]] · [[Longtermism]] · [[Objectivism (Rand)]] · [[Fortress Futurism]] · [[Cyberfeminism]] · [[Situated Knowledge]]
 
 
 ---
@@ -57,16 +57,5 @@ related_reaction:
 
 
 [Neuralink](https://**neuralink**.com/?utm_source=chatgpt.com) — Musk, E. et al. (2016–present). — brain–computer interface company frequently associated with contemporary transhumanist ambitions around cognition and human–machine integration
-
----
-
-## Navigation
-
-**Layer:** Cause — an ideology that frames human biological constraints as engineering problems, positioning enhancement as moral progress
-
-**Cause:** [[The Singularity]] · [[Objectivism (Rand)]]
-**Mechanism:** [[Mind Uploading]] · [[Neuralink]]
-**Consequence:** [[Longtermism]] · [[Fortress Futurism]]
-**Reaction:** [[Cyberfeminism]] · [[Situated Knowledge]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

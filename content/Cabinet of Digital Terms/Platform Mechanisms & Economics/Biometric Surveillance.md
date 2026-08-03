@@ -39,7 +39,7 @@ related_reaction:
 
 **Why This Matters:** **Biometric surveillance** makes the body readable. Once your face is a data point, your presence in a space generates a record you did not choose to create. The body is no longer private by default.
 
-**Related terms:** [[Surveillance Capitalism]] · [[Algorithmic Violence]] · [[Deadnaming]] · [[Brussels Effect]] · [[Microtargeting]]
+**Related terms:** [[Surveillance Capitalism]] · [[Algorithmic Violence]] · [[Deadnaming]] · [[Brussels Effect]] · [[Microtargeting]] · [[Deceptive Design]]
 
 
 ---
@@ -53,16 +53,5 @@ related_reaction:
 - [Meta's Ray-Ban Smart Glasses Used To Dox Strangers In Public Thanks To AI And Facial Recognition](https://www.forbes.com/sites/johnkoetsier/2024/10/03/metas-ray-ban-smart-glasses-used-to-instantly-dox-strangers-in-public-thanks-to-ai-and-facial-recognition/) — Koetsier, J. (2024). _Forbes_
 - [Harvard students used Meta Ray-Bans to do facial recognition. Meta execs once thought this was a good idea.](https://www.businessinsider.com/meta-ray-ban-glasses-facial-recognition-demo-students-2024-10) — Business Insider (2024). _Business Insider_
 - [Privacy laws can't keep up with ‘luxury surveillance’](https://www.theverge.com/tech/807834/meta-smart-glasses-privacy-laws-wearables) — Pierce, D. (2025). _The Verge_
-
----
-
-## Navigation
-
-**Layer:** Mechanism — the collection and analysis of physical body signals as commercial and surveillance data
-
-**Cause:** [[Surveillance Capitalism]] · [[Microtargeting]]
-**Mechanism:** [[Algorithmic Violence]] · [[Deceptive Design]]
-**Consequence:** [[Algorithmic Violence]] · [[Deadnaming]]
-**Reaction:** [[Brussels Effect]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

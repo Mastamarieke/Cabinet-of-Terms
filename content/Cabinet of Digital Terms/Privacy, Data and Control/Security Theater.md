@@ -32,7 +32,7 @@ related_reaction:
 
 **Why This Matters:** **Security theater** names the gap between the performance of security and its substance. Once you can identify the move — visible measure, low actual protection — you can ask of any security requirement: what does this actually prevent, and how was that evaluated?
 
-**Related terms:** [[Privacy Washing]] · [[Obfuscation]] · [[Brussels Effect]] · [[Dark Patterns]]
+**Related terms:** [[Privacy Washing]] · [[Obfuscation]] · [[Brussels Effect]] · [[Dark Patterns]] · [[Algorithmic Violence]] · [[Surveillance Capitalism]] · [[Vendor Lock-in]]
 
 
 ---
@@ -41,16 +41,5 @@ related_reaction:
 - [Security Theater](https://www.schneier.com/tag/security-theater/) — Schneier, B. (ongoing). *schneier.com*
 - [A Different Kind of Security Theater Problem](https://www.theatlantic.com/national/archive/2011/08/a-different-kind-of-security-theater-problem/244107/) — Fallows, J. (2011). _The Atlantic_
 - [Security theater](https://en.wikipedia.org/wiki/Security_theater) — overview of the concept coined by Bruce Schneier and its application to TSA and visible-but-ineffective security measures
-
----
-
-## Navigation
-
-**Layer:** Mechanism — visible security measures that produce the appearance of protection without its substance
-
-**Cause:** [[Privacy Washing]] · [[Surveillance Capitalism]]
-**Mechanism:** [[Privacy Washing]] · [[Obfuscation]]
-**Consequence:** [[Algorithmic Violence]] · [[Vendor Lock-in]]
-**Reaction:** [[Brussels Effect]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

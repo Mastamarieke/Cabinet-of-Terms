@@ -31,23 +31,12 @@ related_reaction:
 
 **Why This Matters:** **Fair patterns** make the design alternative concrete and specific. Once you know what a fair consent dialogue looks like, you can identify every interface that falls short of it. The standard becomes visible — and the gap between the standard and the practice becomes legible as a choice.
 
-**Related terms:** [[Dark Patterns]] · [[Deceptive Design]] · [[VSD (Value Sensitive Design)]] · [[Calm Technology]]
+**Related terms:** [[Dark Patterns]] · [[Deceptive Design]] · [[VSD (Value Sensitive Design)]] · [[Calm Technology]] · [[Unblackboxing]]
 
 
 ---
 **Read more:**
 - [From Dark to Fair Patterns: How Design-Driven Innovation and Neurodesign Help Fighting Deceptive Design](https://www.researchgate.net/publication/371315114_From_dark_to_fair_patterns_How_can_design-driven_innovation_and_neurodesign_help_fighting_against_deceptive_design) — Potel-Saville, M. (2023). *Legal Design Roundtable, Brussels*
 - [EDPB Guidelines on Deceptive Design Patterns](https://edpb.europa.eu/our-work-tools/our-documents/guidelines/guidelines-032022-deceptive-design-patterns-social-media_en) — European Data Protection Board (2022)
-
----
-
-## Navigation
-
-**Layer:** Reaction — interface design that uses structural design tools in the service of user interests
-
-**Cause:** [[Dark Patterns]] · [[Deceptive Design]]
-**Mechanism:** [[VSD (Value Sensitive Design)]] · [[Deceptive Design]]
-**Consequence:** [[Unblackboxing]]
-**Reaction:** [[Calm Technology]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

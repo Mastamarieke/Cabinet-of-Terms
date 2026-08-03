@@ -31,7 +31,7 @@ related_reaction:
 
 **Why This Matters:** **Catfishing** makes visible the gap between identity and persona on digital platforms — and the emotional cost of closing that gap badly.
 
-**Related terms:** [[Ghosting]] · [[Online Grooming]] · [[Parasocial Relationship]] · [[Predatory Design]] · [[AI Literacy]]
+**Related terms:** [[Ghosting]] · [[Online Grooming]] · [[Parasocial Relationship]] · [[Predatory Design]] · [[AI Literacy]] · [[Phatic Interaction]]
 
 
 ---
@@ -39,16 +39,5 @@ related_reaction:
 - [Catfish: The TV Show](https://www.cinema.nl/db/6950804-catfish) —   
 Schulman, A., Joost, H. *MTV (2012) — as primary cultural document*
 - [Detecting and Preventing Online Identity Deception in Social Networking Services](https://www.researchgate.net/publication/277146133_Detecting_and_Preventing_Online_Identity_Deception_in_Social_Networking_Services) — Tsikerdekis, M. & Zeadally, S. (2014). *IEEE Internet Computing*
-
----
-
-## Navigation
-
-**Layer:** Mechanism — sustained identity fabrication in online relationships
-
-**Cause:** [[Predatory Design]] · [[Parasocial Relationship]]
-**Mechanism:** [[Ghosting]] · [[Online Grooming]]
-**Consequence:** [[Phatic Interaction]]
-**Reaction:** [[AI Literacy]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

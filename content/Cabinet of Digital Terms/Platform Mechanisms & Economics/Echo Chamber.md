@@ -40,15 +40,4 @@ related_reaction:
 - [Republic.com 2.0](https://www.amazon.com/Republic-com-2-0-Cass-R-Sunstein/dp/0691133565) — Sunstein, C.R. (2007). *Princeton University Press*
 - [**Echo Chambers on Social Media: A Systematic Review of the Literature**](https://www.rcommunicationr.org/index.php/rcr/article/view/16?utm_source=chatgpt.com) — Terren, L. & Borge-Bravo, R. (2021), _Review of Communication Research_.
 
----
-
-## Navigation
-
-**Layer:** Consequence — an environment of homogeneous viewpoints produced by algorithmic filtering, social self-selection, and exclusion of disagreement
-
-**Cause:** [[Filter Bubble]] · [[Recommender Systems]]
-**Mechanism:** [[Filter Bubble]] · [[Deplatforming]]
-**Consequence:** [[Great Replacement]] · [[QAnon]]
-**Reaction:** [[AI Literacy]]
-
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

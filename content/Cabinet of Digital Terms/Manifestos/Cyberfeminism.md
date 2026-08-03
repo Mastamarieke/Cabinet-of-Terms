@@ -40,15 +40,4 @@ related_reaction:
 - [Cyberfeminist Manifesto for the 21st Century](https://vnsmatrix.net/projects/the-cyberfeminist-manifesto-for-the-21st-century) — VNS Matrix (1991)
 - [Programmed Inequality](https://mitpress.mit.edu/9780262535182/programmed-inequality/) — Hicks, M. (2017). *MIT Press*
 
----
-
-## Navigation
-
-**Layer:** Reaction — feminist engagement with digital technology as contested political terrain
-
-**Cause:** [[Informatics of Domination]] · [[Digital Libertarianism]]
-**Mechanism:** [[Cyborg]] · [[Situated Knowledge]]
-**Consequence:** [[Situated Knowledge]]
-**Reaction:** [[Cyborg]] · [[Inclusive Design]]
-
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

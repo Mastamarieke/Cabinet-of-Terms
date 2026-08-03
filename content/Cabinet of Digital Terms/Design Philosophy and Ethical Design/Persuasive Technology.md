@@ -35,7 +35,7 @@ related_reaction:
 
 **Why This Matters:** **Persuasive technology** names the design intent that platforms rarely disclose. Knowing that an interface was built to change your behaviour — not to serve your goals — reframes every engagement signal. The notification you just responded to was not spontaneous. It was designed.
 
-**Related terms:** [[Dark Patterns]] · [[Nudging]] · [[Dopamine Feedback Loops]] · [[Frictionful Design]] · [[Gamification Creep]]
+**Related terms:** [[Dark Patterns]] · [[Nudging]] · [[Dopamine Feedback Loops]] · [[Frictionful Design]] · [[Gamification Creep]] · [[Calm Technology]] · [[Cognitive Surrender]] · [[Doomscrolling]] · [[Fair Patterns]] · [[Recommender Systems]]
 
 
 ---
@@ -45,16 +45,5 @@ related_reaction:
 - [Fogg Behavior Model](https://behaviordesign.stanford.edu/resources/fogg-behavior-model) — Fogg, B.J. (z.d.). *Stanford Behavior Design Lab*
 - [Hooked: How to Build Habit-Forming Products](https://www.nirandfar.com/hooked/) — Eyal, N. & Hoover, R. (2014). *Penguin / Portfolio*
 - [Influence, New and Expanded: The Psychology of Persuasion](https://www.harpercollins.com/products/influence-new-and-expanded-robert-b-cialdini) — Cialdini, R.B. (2021). *HarperCollins*
-
----
-
-## Navigation
-
-**Layer:** Cause — design intent that makes behaviour change structurally inevitable, without the user's awareness
-
-**Cause:** [[Dark Patterns]] · [[Nudging]]
-**Mechanism:** [[Dopamine Feedback Loops]] · [[Gamification Creep]] · [[Recommender Systems]]
-**Consequence:** [[Cognitive Surrender]] · [[Doomscrolling]]
-**Reaction:** [[Frictionful Design]] · [[Calm Technology]] · [[Fair Patterns]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

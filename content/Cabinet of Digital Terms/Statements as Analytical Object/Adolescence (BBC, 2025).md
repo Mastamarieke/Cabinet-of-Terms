@@ -33,7 +33,7 @@ related_reaction:
 
 **Why this object matters:** *Adolescence* marks a cultural moment that is worth dating. The vocabulary of this vault — **manosphere**, SMV, **incel**, **blackpill** — moved from fringe forums to academic research to mainstream drama in approximately a decade. The drama is evidence of that trajectory. It also marks the entry of **manosphere** radicalisation into policy discourse in a way that previous research coverage had not achieved.
 
-**Related terms:** [[Manosphere]] · [[Incel]] · [[Red Pill]] · [[Recommender Systems]] · [[Blackpill]]
+**Related terms:** [[Manosphere]] · [[Incel]] · [[Red Pill]] · [[Recommender Systems]] · [[Blackpill]] · [[AI Literacy]] · [[Dehumanization]] · [[Deplatforming]] · [[Great Replacement]]
 
 
 ---
@@ -42,16 +42,5 @@ related_reaction:
 - [Alphas, Betas, and Incels](https://doi.org/10.1177/1097184x17706401) — Ging, D. (2019). *Men and Masculinities* — the academic research the drama dramatises
 - [Adolescence scoops four prizes in dominant night at Bafta TV awards](https://www.theguardian.com/tv-and-radio/2026/may/10/adolescence-dominates-bafta-tv-awards) — Yossman, K. (2026). _The Guardian_
 - [Adolescence](https://www.imdb.com/title/tt31806037/?utm_source=chatgpt.com) — Graham, S. & Thorne, J. (2025). _Netflix / IMDb_
-
----
-
-## Navigation
-
-**Layer:** Mechanism — a cultural object that marks the mainstreaming of manosphere radicalisation as a recognised social phenomenon
-
-**Cause:** [[Manosphere]] · [[Recommender Systems]]
-**Mechanism:** [[Red Pill]] · [[Incel]]
-**Consequence:** [[Great Replacement]] · [[Dehumanization]]
-**Reaction:** [[AI Literacy]] · [[Deplatforming]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

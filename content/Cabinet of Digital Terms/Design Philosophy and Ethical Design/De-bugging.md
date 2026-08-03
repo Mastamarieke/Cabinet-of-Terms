@@ -31,7 +31,7 @@ related_reaction:
 
 **Why This Matters:** **De-bugging** names a practice that is already happening — the act of tracing a harm back to a design choice, a business model, or a structural incentive. Making it explicit as a method gives it transferability: once you have de-bugged one system, you can apply the same process to the next.
 
-**Related terms:** [[Unblackboxing]] · [[Dark Patterns]] · [[Obfuscation]] · [[Fair Patterns]]
+**Related terms:** [[Unblackboxing]] · [[Dark Patterns]] · [[Obfuscation]] · [[Fair Patterns]] · [[VSD (Value Sensitive Design)]]
 
 
 ---
@@ -39,16 +39,5 @@ related_reaction:
 - [Speculative Everything](https://mitpress.mit.edu/9780262019842/) — Dunne, A. & Raby, F. (2013). *MIT Press*
 - [Critical Technical Practice](https://gridspinoza.net/sites/default/files/2016-07/Toward%20a%20Critical%20Technical%20Practice%3A%20Lessons%20Learned%20in%20Trying%20to%20Reform%20AI%20Philip%20E.%20Agre.pdf) — Agre, P.E. (1997). *Chapter in the Book _Bridging the_
 _Great Divide: Social Science, Technical Systems, and Cooperative Work_*
-
----
-
-## Navigation
-
-**Layer:** Reaction — the practice of identifying hidden errors and design flaws in technology systems
-
-**Cause:** [[Dark Patterns]] · [[Obfuscation]]
-**Mechanism:** [[Unblackboxing]]
-**Consequence:** [[Unblackboxing]]
-**Reaction:** [[VSD (Value Sensitive Design)]] · [[Fair Patterns]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

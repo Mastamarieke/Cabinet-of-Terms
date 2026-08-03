@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Brave New World** names the dystopia that is harder to resist because it does not feel like dystopia. Once you have Huxley's frame, "people seem to love it" stops being a sufficient defence of any platform, product, or social arrangement.
 
-**Related terms:** [[1984]] · [[Attention Economy]] · [[BUMMER]] · [[Dopamine Feedback Loops]] · [[Cognitive Surrender]]
+**Related terms:** [[1984]] · [[Attention Economy]] · [[BUMMER]] · [[Dopamine Feedback Loops]] · [[Cognitive Surrender]] · [[AI Literacy]] · [[Deskilling]] · [[Slow Media]]
 
 
 ---
@@ -42,16 +42,5 @@ related_reaction:
 - [Amusing Ourselves to Death](https://www.goodreads.com/book/show/74034.Amusing_Ourselves_to_Death) — Postman, N. (1985). _Penguin_
   [Brave New World: The Future of Surveillance and Technology](https://www.crisp-surveillance.com/event/304/brave-new-world-future-surveillance-and-technology) — CRISP / University of Stirling (2025). _Lecture on AI, neurotechnology, surveillance, biotechnology, and emerging technological futures_
 - [The Marriage of Neurotechnologies and Artificial Intelligence](https://pmc.ncbi.nlm.nih.gov/articles/PMC12965113/) — Chiurco, C. (2025). _On the ethical and societal implications of combining AI with neurotechnology_
-
----
-
-## Navigation
-
-**Layer:** Mechanism — the dystopia of voluntary surrender through pleasure, more analytically relevant to platform culture than its more-cited counterpart
-
-**Cause:** [[Attention Economy]] · [[Dopamine Feedback Loops]]
-**Mechanism:** [[1984]] · [[BUMMER]]
-**Consequence:** [[Cognitive Surrender]] · [[Deskilling]]
-**Reaction:** [[Slow Media]] · [[AI Literacy]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

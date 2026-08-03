@@ -34,23 +34,12 @@ related_reaction:
 
 **Why This Matters:** **Digital amnesia** makes visible what happens to memory when the archive is always open. The question is not whether external memory is useful — it is which capacities you are prepared to let become inaccessible when the archive is not.
 
-**Related terms:** [[Cognitive Offloading]] · [[Cognitive Surrender]] · [[Deskilling]] · [[AI Dependency]] · [[AI Literacy]] · [[Brain Rot]]
+**Related terms:** [[Cognitive Offloading]] · [[Cognitive Surrender]] · [[Deskilling]] · [[AI Dependency]] · [[AI Literacy]] · [[Brain Rot]] · [[Digital Detox]]
 
 
 ---
 **Read more:**
 - [Google Effects on Memory: Cognitive Consequences of Having Information at Our Fingertips](https://www.researchgate.net/publication/51498032_Google_Effects_on_Memory_Cognitive_Consequences_of_Having_Information_at_Our_Fingertips) — Sparrow, B., Liu, J. & Wegner, D.M. (2011). *Science*
 - [Digital Amnesia Report](https://media.kaspersky.com/pdf/Kaspersky-Digital-Amnesia-Evolution-report-17-08-16.pdf) — Kaspersky Lab (2015)
-
----
-
-## Navigation
-
-**Layer:** Consequence — reduced memory retention produced by habitual delegation of recall to digital devices
-
-**Cause:** [[AI Dependency]] · [[Cognitive Offloading]]
-**Mechanism:** [[Cognitive Surrender]] · [[Deskilling]]
-**Consequence:** [[Deskilling]] · [[Cognitive Surrender]] · [[Brain Rot]]
-**Reaction:** [[AI Literacy]] · [[Digital Detox]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

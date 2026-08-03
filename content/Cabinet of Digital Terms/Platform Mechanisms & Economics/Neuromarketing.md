@@ -32,23 +32,12 @@ related_reaction:
 
 **Why This Matters:** **Neuromarketing** makes visible the gap between what you consciously decide and what your body responds to. Once that gap is systematically measured and designed into interfaces, the question of whose interests are being optimised for becomes urgent.
 
-**Related terms:** [[Dark Patterns]] · [[Nudging]] · [[Biometric Surveillance]] · [[Attention Harvesting]] · [[Fair Patterns]]
+**Related terms:** [[Dark Patterns]] · [[Nudging]] · [[Biometric Surveillance]] · [[Attention Harvesting]] · [[Fair Patterns]] · [[Attention Economy]] · [[Cognitive Surrender]] · [[VSD (Value Sensitive Design)]]
 
 
 ---
 **Read more:**
 - [How Customers Think: Essential Insights into the Mind of the Market](https://www.amazon.com/How-Customers-Think-Essential-Insights/dp/1578518261) — Zaltman, G. (2003). _Harvard Business School Press_
 - [Neuromarketing For Dummies](https://www.amazon.fr/Neuromarketing-Dummies-Stephen-Genco-ebook/dp/B00EO3ZIIS) — Genco, S., Pohlmann, A. & Steidl, P. (2013). _Wiley_
-
----
-
-## Navigation
-
-**Layer:** Mechanism — the application of neuroscience to marketing design, optimising for subconscious responses
-
-**Cause:** [[Attention Economy]] · [[Biometric Surveillance]]
-**Mechanism:** [[Dark Patterns]] · [[Nudging]]
-**Consequence:** [[Cognitive Surrender]]
-**Reaction:** [[Fair Patterns]] · [[VSD (Value Sensitive Design)]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

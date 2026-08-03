@@ -37,7 +37,7 @@ Today, BCIs are increasingly understood not merely as medical devices, but as in
 
 **Why This Matters:** **Brain-computer interface** is the point where the technology is real and the governance is not. Once you see the data implications — what neural signals reveal, who would own that data, what it would be used for — the clinical frame of "helping paralysed patients" becomes a partial description of a much larger technology trajectory.
 
-**Related terms:** [[Neuralink]] · [[Mind Uploading]] · [[Biometric Surveillance]] · [[Surveillance Capitalism]] · [[VSD (Value Sensitive Design)]] · [[Cybernetic Collective]]
+**Related terms:** [[Neuralink]] · [[Mind Uploading]] · [[Biometric Surveillance]] · [[Surveillance Capitalism]] · [[VSD (Value Sensitive Design)]] · [[Cybernetic Collective]] · [[Brussels Effect]] · [[Technofeudalism]] · [[Transhumanism]]
 
 
 ---
@@ -51,22 +51,5 @@ Today, BCIs are increasingly understood not merely as medical devices, but as in
 - [Brain-machine interfaces: past, present and future](https://pubmed.ncbi.nlm.nih.gov/16859758/) — Lebedev, M. A. & Nicolelis, M. A. L. (2006). _Trends in Neurosciences_ — foundational overview of the history, development, and future implications of brain–machine interfaces
 - [BrainGate](https://www.braingate.org/) — BrainGate Consortium (2000s–present). _Clinical brain–computer interface research consortium developing neural interfaces for communication, mobility, and assistive neurotechnology_
 - [Connecting Cortex to Machines: Recent Advances in Brain Interfaces](https://pubmed.ncbi.nlm.nih.gov/12403992/) — Donoghue, J. P. (2002). _Nature Neuroscience_ — foundational paper on direct cortical interfaces and early brain–computer interface research
-
-
-
-
-
-
-
----
-
-## Navigation
-
-**Layer:** Mechanism — a clinically validated technology whose data and governance implications are substantially underdeveloped
-
-**Cause:** [[Neuralink]] · [[Transhumanism]]
-**Mechanism:** [[Biometric Surveillance]] · [[Mind Uploading]]
-**Consequence:** [[Surveillance Capitalism]] · [[Technofeudalism]]
-**Reaction:** [[VSD (Value Sensitive Design)]] · [[Brussels Effect]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

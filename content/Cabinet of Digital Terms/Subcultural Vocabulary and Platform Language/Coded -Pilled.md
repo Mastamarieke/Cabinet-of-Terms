@@ -32,7 +32,7 @@ related_reaction:
 
 **Why This Matters:** -Coded and -pilled make visible how morphology carries ideology. Once you see the suffix as a structure — not just a word — you can ask: what conversion narrative does "-pilled" import, even when the topic seems trivial? And what identity attribution does "-coded" make, and on whose authority?
 
-**Related terms:** [[Red Pill]] · [[Algospeak]] · [[Manosphere]] · [[Echo Chamber]] · [[Ratio'd]]
+**Related terms:** [[Red Pill]] · [[Algospeak]] · [[Manosphere]] · [[Echo Chamber]] · [[Ratio'd]] · [[AI Literacy]]
 
 
 ---
@@ -43,16 +43,5 @@ related_reaction:
 - [**The Language of Internet Memes**](https://spring2017.designforthe.net/content/6-library/12-language-of-internet-memes/language-of-internet-memes_michaelmandiberg.pdf?utm_source=chatgpt.com) — Davison, P. (2012), _The Social Media Reader_.  
 - [**What Does It Meme? English–Spanish Codeswitching and Enregisterment in Virtual Social Space**](https://www.mdpi.com/2226-471X/8/4/231?utm_source=chatgpt.com) — Dickinson, K. V. (2023), _Languages_.  
 - [From Red Pill to Tradwife](https://doi.org/10.1177/1461444820912341) — Marwick, A. & Lewis, R. (2017). *Data & Society*
-
----
-
-## Navigation
-
-**Layer:** Mechanism — productive suffixes that compress identity attribution and ideological conversion into two-syllable compounds
-
-**Cause:** [[Red Pill]] · [[Manosphere]]
-**Mechanism:** [[Red Pill]] · [[Algospeak]]
-**Consequence:** [[Red Pill]] · [[Echo Chamber]]
-**Reaction:** [[AI Literacy]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

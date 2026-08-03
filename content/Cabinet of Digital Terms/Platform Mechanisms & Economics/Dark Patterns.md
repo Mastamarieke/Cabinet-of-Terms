@@ -35,23 +35,12 @@ related_reaction:
 
 **Why This Matters:** **Dark patterns** name the gap between what an interface appears to offer and what it is designed to do. Once you know the vocabulary — roach motel, confirmshaming, false hierarchy — every interface becomes readable as a set of choices made by someone, for someone's benefit. Usually not yours.
 
-**Related terms:** [[Deceptive Design]] · [[Fair Patterns]] · [[Predatory Design]] · [[Nudging]] · [[VSD (Value Sensitive Design)]] · [[Enshittification]] · [[Gamification Creep]]
+**Related terms:** [[Deceptive Design]] · [[Fair Patterns]] · [[Predatory Design]] · [[Nudging]] · [[VSD (Value Sensitive Design)]] · [[Enshittification]] · [[Gamification Creep]] · [[Attention Economy]] · [[Cognitive Surrender]] · [[Vendor Lock-in]]
 
 
 ---
 **Read more:**
 - [Deceptive Design — About Harry Brignull](https://www.deceptive.design/about-us) — Brignull, H. (2010/2023). *deceptive.design*
 - [An Ontology of Dark Patterns](https://doi.org/10.1145/3613904.3642436) — Gray, C.M., Bielova, N., Santos, C. & Mildner, T. (2024). *ACM CHI*
-
----
-
-## Navigation
-
-**Layer:** Cause — interface design choices that systematically undermine user autonomy in service of platform interests
-
-**Cause:** [[Predatory Design]] · [[Attention Economy]]
-**Mechanism:** [[Deceptive Design]] · [[Nudging]] · [[Gamification Creep]]
-**Consequence:** [[Cognitive Surrender]] · [[Vendor Lock-in]]
-**Reaction:** [[Fair Patterns]] · [[VSD (Value Sensitive Design)]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

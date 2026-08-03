@@ -32,7 +32,7 @@ related_reaction:
 
 **Why This Matters:** **Robux** makes visible the specific mechanism by which real economic transactions are obscured from children. The number is real. The money it represents is less visible. Once you see the conversion as a design choice, the "it's just **Robux**" response to a child's spending becomes a different sentence.
 
-**Related terms:** [[Roblox]] · [[Loot Boxes]] · [[Predatory Design]] · [[Gamification Creep]] · [[Fair Patterns]]
+**Related terms:** [[Roblox]] · [[Loot Boxes]] · [[Predatory Design]] · [[Gamification Creep]] · [[Fair Patterns]] · [[Brussels Effect]] · [[Gaming Disorder]]
 
 
 ---
@@ -40,16 +40,5 @@ related_reaction:
 - [An Ontology of Dark Patterns](https://doi.org/10.1145/3613904.3642436) — Gray, C.M. et al. (2024). *ACM CHI* — on Intermediate Currency as dark pattern
 - [Age Appropriate Design: A Code of Practice for Online Services](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/childrens-information/childrens-code-guidance-and-resources/) — ICO (2021)
 - - [Digital Ecosystems, Children, and Adolescents: Policy Statement](https://publications.aap.org/pediatrics/article/157/2/e2025075320/206129/Digital-Ecosystems-Children-and-Adolescents-Policy) — Munzer, T. et al. (2026). _Pediatrics / American Academy of Pediatrics_
-
----
-
-## Navigation
-
-**Layer:** Mechanism — virtual currency that obscures real monetary value to reduce spending friction for children
-
-**Cause:** [[Roblox]] · [[Predatory Design]]
-**Mechanism:** [[Loot Boxes]]
-**Consequence:** [[Gaming Disorder]] · [[Loot Boxes]]
-**Reaction:** [[Brussels Effect]] · [[Fair Patterns]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

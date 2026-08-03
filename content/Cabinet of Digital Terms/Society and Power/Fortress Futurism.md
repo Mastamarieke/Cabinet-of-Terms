@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Fortress futurism** names the political logic of elite exit. Once you see it, the billionaire's bunker is not eccentric — it is a rational response to a world whose risks they have helped create and whose costs they are engineering not to pay.
 
-**Related terms:** [[Muskism]] · [[Longtermism]] · [[Mars Colonization]] · [[Broligarchy]] · [[Objectivism (Rand)]]
+**Related terms:** [[Muskism]] · [[Longtermism]] · [[Mars Colonization]] · [[Broligarchy]] · [[Objectivism (Rand)]] · [[Cyberfeminism]] · [[Situated Knowledge]] · [[Technofeudalism]]
 
 
 ---
@@ -42,16 +42,5 @@ related_reaction:
 - [Crack-Up Capitalism](https://www.penguin.co.uk/books/316685/crack-up-capitalism-by-slobodian-quinn/9780141993768) — Slobodian, Q. (2023). _Metropolitan Books_ 
 - [The Rise of America’s Broligarchy and What to Do About It](https://www.brennancenter.org/our-work/analysis-opinion/rise-americas-broligarchy-and-what-do-about-it) — _Brennan Center for Justice_ (2025). 
 - [Atlas of AI](https://yalebooks.yale.edu/book/9780300264630/atlas-of-ai/) — Crawford, K. (2021). _Yale University Press_ 
-
----
-
-## Navigation
-
-**Layer:** Mechanism — the ideology and infrastructure of elite exit from shared civilisational risk
-
-**Cause:** [[Muskism]] · [[Objectivism (Rand)]]
-**Mechanism:** [[Longtermism]] · [[Mars Colonization]]
-**Consequence:** [[Technofeudalism]] · [[Broligarchy]]
-**Reaction:** [[Situated Knowledge]] · [[Cyberfeminism]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

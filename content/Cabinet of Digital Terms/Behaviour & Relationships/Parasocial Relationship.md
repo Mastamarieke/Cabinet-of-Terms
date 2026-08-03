@@ -34,7 +34,7 @@ related_reaction:
 
 **Why This Matters:** **Parasocial relationship** names the emotional mechanism that makes digital media intimately engaging. [[Mimetic Desire]] explains why it works: the creator functions as a model — showing followers what is worth wanting, how to live, what to feel — and the follower imitates, without any reciprocal relationship existing. Once you know the term, "they feel like a friend" and "I feel like they know me" are both descriptions of a designed relationship structure.
 
-**Related terms:** [[Family Vlogging]] · [[Kidfluencer]] · [[Online Grooming]] · [[Recommender Systems]] · [[Comparison Culture]] · [[Mimetic Desire]] · [[Virtual Influencer]]
+**Related terms:** [[Family Vlogging]] · [[Kidfluencer]] · [[Online Grooming]] · [[Recommender Systems]] · [[Comparison Culture]] · [[Mimetic Desire]] · [[Virtual Influencer]] · [[AI Literacy]] · [[Digital Detox]] · [[Dopamine Feedback Loops]]
 
 
 ---
@@ -42,16 +42,5 @@ related_reaction:
 - [Mass Communication and Para-Social Interaction](https://doi.org/10.1521/00332747.1956.11023049) — Horton, D. & Wohl, R.R. (1956). *Psychiatry*
 - [Parasocial Relationships in Social Media](https://doi.org/10.1177/1461444817721401) — Dibble, J.L. et al. (2016). *New Media & Society*
 - [De populaire Dutch Travel Maniac reist in zijn vlogs voornamelijk naar een wereld van extreemrechts gedachtegoed](https://www.volkskrant.nl/binnenland/de-populaire-dutch-travel-maniac-reist-in-zijn-vlogs-voornamelijk-naar-een-wereld-van-extreemrechts-gedachtegoed~b31208e1/) — Van de Griend, R. & Pottjewijd, W. (4 juli 2026). *De Volkskrant*
-
----
-
-## Navigation
-
-**Layer:** Consequence — a one-sided emotional bond intensified by platforms designed to maximise intimacy signals
-
-**Cause:** [[Recommender Systems]] · [[Dopamine Feedback Loops]] · [[Mimetic Desire]]
-**Mechanism:** [[Family Vlogging]] · [[Kidfluencer]]
-**Consequence:** [[Online Grooming]] · [[Comparison Culture]]
-**Reaction:** [[AI Literacy]] · [[Digital Detox]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Sharenting** makes visible who owns a child's digital identity before they are old enough to have an opinion about it. Once you see the data infrastructure the images enter, the decision to post looks different.
 
-**Related terms:** [[Momfluencer]] · [[Family Vlogging]] · [[Kidfluencer]] · [[Surveillance Capitalism]] · [[Online Grooming]]
+**Related terms:** [[Momfluencer]] · [[Family Vlogging]] · [[Kidfluencer]] · [[Surveillance Capitalism]] · [[Online Grooming]] · [[Attention Economy]] · [[Digital Detox]] · [[Privacy Washing]] · [[VSD (Value Sensitive Design)]]
 
 
 ---
@@ -42,16 +42,5 @@ related_reaction:
 - [“Sharenting,” Parent Blogging, and the Boundaries of the Digital Self](https://www.researchgate.net/publication/306282338_Sharenting_parent_blogging_and_the_boundaries_of_the_digital_self) — Blum-Ross, A. & Livingstone, S. (2017). _Popular Communication_
 - [Sharenting](https://en.wikipedia.org/wiki/Sharenting?utm_source=chatgpt.com) — overview article on the concept, privacy debates, and digital footprints of children.
 - [Parenting for a Digital Future: How Hopes and Fears About Technology Shape Children's Lives](https://www.amazon.com/Parenting-Digital-Future-Technology-Childrens/dp/0190874694) — Parenting for a Digital Future — Sonia Livingstone & Alicia Blum-Ross (2020). _Oxford University Press_
-
----
-
-## Navigation
-
-**Layer:** Mechanism — the construction of a child's digital identity by a parent before the child can consent
-
-**Cause:** [[Surveillance Capitalism]] · [[Attention Economy]]
-**Mechanism:** [[Momfluencer]] · [[Family Vlogging]]
-**Consequence:** [[Kidfluencer]] · [[Privacy Washing]]
-**Reaction:** [[Digital Detox]] · [[VSD (Value Sensitive Design)]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Social credit system** names a governance technology that is easier to critique at a distance than in the mirror. Once you see the scoring systems already operating in Western financial, employment, and platform contexts, the concern about China is also a concern about what is already here.
 
-**Related terms:** [[Panopticon]] · [[Surveillance Capitalism (Political Economy)]] · [[Algorithmic Violence]] · [[Cybernetic Governance]] · [[Brussels Effect]]
+**Related terms:** [[Panopticon]] · [[Surveillance Capitalism (Political Economy)]] · [[Algorithmic Violence]] · [[Cybernetic Governance]] · [[Brussels Effect]] · [[AI Literacy]]
 
 
 ---
@@ -44,16 +44,5 @@ related_reaction:
   [Far From a **Panopticon**, Social Credit Focuses on Legal Violations](https://jamestown.org/far-from-a-**panopticon**-social-credit-focuses-on-legal-violations/?utm_source=chatgpt.com) — Daum, J. (2021). _Jamestown Foundation / China Brief_
   [Social Credit Action in 2025](https://www.chinalawtranslate.com/en/social-credit-action-in-2025/) — Daum, J. (2024). _China Law Translate_
   
-
----
-
-## Navigation
-
-**Layer:** Mechanism — citizen behaviour scoring used to allocate access, more present in Western analogues than Western discourse acknowledges
-
-**Cause:** [[Surveillance Capitalism (Political Economy)]] · [[Cybernetic Governance]]
-**Mechanism:** [[Panopticon]] · [[Algorithmic Violence]]
-**Consequence:** [[Algorithmic Violence]] · [[Panopticon]]
-**Reaction:** [[Brussels Effect]] · [[AI Literacy]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

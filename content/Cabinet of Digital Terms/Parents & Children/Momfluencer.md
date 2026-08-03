@@ -32,23 +32,12 @@ related_reaction:
 
 **Why This Matters:** **Momfluencer** makes visible the specific commercial structure in which a child's childhood becomes a content asset. The mother's labour is real; the child's exposure is not chosen. Once you see the business model, the family photo is also a product shot.
 
-**Related terms:** [[Sharenting]] · [[Family Vlogging]] · [[Kidfluencer]] · [[Creator Economy]] · [[Comparison Culture]]
+**Related terms:** [[Sharenting]] · [[Family Vlogging]] · [[Kidfluencer]] · [[Creator Economy]] · [[Comparison Culture]] · [[Deinfluencing]]
 
 
 ---
 **Read more:**
 - [(Not) Getting Paid to Do What You Love: Gender, Social Media, and Aspirational Work](https://yalebooks.yale.edu/book/9780300227666/not-getting-paid-to-do-what-you-love/) — Duffy, B.E. (2017). _Yale University Press_  
 - 
-
----
-
-## Navigation
-
-**Layer:** Mechanism — the commercial monetisation of family life with the child as protagonist and unpaid subject
-
-**Cause:** [[Sharenting]] · [[Creator Economy]]
-**Mechanism:** [[Family Vlogging]] · [[Kidfluencer]]
-**Consequence:** [[Kidfluencer]] · [[Comparison Culture]]
-**Reaction:** [[Deinfluencing]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

@@ -32,7 +32,7 @@ related_reaction:
 
 **Why This Matters:** **Hustle culture** names the ideology that makes overwork feel like freedom. Once you see the structure — rest as failure, productivity as virtue — the question shifts from "am I working hard enough?" to "who benefits from my belief that I am not?"
 
-**Related terms:** [[Creator Economy]] · [[Personal Branding]] · [[Doom Spending]] · [[JOMO]] · [[Imposter Syndrome]]
+**Related terms:** [[Creator Economy]] · [[Personal Branding]] · [[Doom Spending]] · [[JOMO]] · [[Imposter Syndrome]] · [[Attention Economy]] · [[Digital Detox]]
 
 
 ---
@@ -44,16 +44,5 @@ related_reaction:
 - [The End of Burnout](https://www.ucpress.edu/book/9780520380011/the-end-of-burnout) — Malesic, J. (2022). *University of California Press*
 - [**Work Won’t Love You Back**](https://workwontloveyouback.org/?utm_source=chatgpt.com) — Jaffe, S. (2021), _Hurst Publishers_.
 - [**Hustle and Gig: Struggling and Surviving in the Sharing Economy**](https://www.jstor.org/stable/j.ctvcwp0kc?utm_source=chatgpt.com) — Ravenelle, A. J. (2019), _University of California Press_.
-
----
-
-## Navigation
-
-**Layer:** Mechanism — a value system that transforms overwork into virtue and obscures the structural conditions that require it
-
-**Cause:** [[Creator Economy]] · [[Attention Economy]]
-**Mechanism:** [[Personal Branding]] · [[Doom Spending]]
-**Consequence:** [[Doom Spending]]
-**Reaction:** [[JOMO]] · [[Digital Detox]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

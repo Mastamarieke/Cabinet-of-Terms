@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Gaming disorder** makes the same structural point as **screen time**: a design problem gets classified as a patient condition. Once you see that, the treatment question — how do we help this child stop? — is incomplete without the design question — why was the product built to make stopping this hard?
 
-**Related terms:** [[Predatory Design]] · [[Loot Boxes]] · [[Dopamine Feedback Loops]] · [[Screen Time]] · [[Roblox]]
+**Related terms:** [[Predatory Design]] · [[Loot Boxes]] · [[Dopamine Feedback Loops]] · [[Screen Time]] · [[Roblox]] · [[Brussels Effect]] · [[Deskilling]] · [[Technostress]] · [[VSD (Value Sensitive Design)]]
 
 
 ---
@@ -41,16 +41,5 @@ related_reaction:
 - [Addictive behaviours: Gaming disorder](https://www.who.int/news-room/q-a-detail/addictive-behaviours-gaming-disorder) — World Health Organization (2018)
 - [(Internet) Gaming Disorder in DSM-5 and ICD-11: A Case of the Glass Half Empty or Half Full](https://pmc.ncbi.nlm.nih.gov/articles/PMC8107956/) — Borges, G., Orozco, R., Benjet, C. et al. (2021). _Canadian Journal of Psychiatry_
 - - [Internet **gaming disorder**: Trends in prevalence 1998–2016](https://www.researchgate.net/publication/317640660_Internet_gaming_disorder_Trends_in_prevalence_1998-2016) — Feng, W., Ramo, D.E., Chan, S.R. & Bourgeois, J.A. (2017). _Addictive Behaviors_
-
----
-
-## Navigation
-
-**Layer:** Consequence — a clinical classification for the outcome of deliberately engineered engagement, locating the condition in the child rather than the design
-
-**Cause:** [[Predatory Design]] · [[Dopamine Feedback Loops]]
-**Mechanism:** [[Loot Boxes]] · [[Screen Time]]
-**Consequence:** [[Technostress]] · [[Deskilling]]
-**Reaction:** [[Brussels Effect]] · [[VSD (Value Sensitive Design)]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

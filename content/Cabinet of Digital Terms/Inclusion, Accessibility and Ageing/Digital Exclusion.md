@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Digital exclusion** names the specific harm of being outside a system that increasingly governs access to services, benefits, healthcare, and civic participation. Once you see it as active exclusion rather than passive absence, the design choices that produce it become legible as decisions with consequences.
 
-**Related terms:** [[Digital Divide]] · [[Ageism (Digital)]] · [[Algorithmic Violence]] · [[Accessibility]] · [[Tech Abandonment]]
+**Related terms:** [[Digital Divide]] · [[Ageism (Digital)]] · [[Algorithmic Violence]] · [[Accessibility]] · [[Tech Abandonment]] · [[Inclusive Design]] · [[Predatory Design]] · [[Universal Design]]
 
 
 ---
@@ -42,16 +42,5 @@ related_reaction:
 - [Tackling Digital Exclusion Counter: Social Inequalities Through Digital Inclusion](https://mragnedda.wordpress.com/wp-content/uploads/2018/08/tackling-digital-exclusion-counter-social-inequalities-through-digital-inclusion.pdf "Tackling Digital Exclusion Counter Social Inequalities Through Digital Inclusion") Massimo Ragnedda (2018) in G. Muschert et al (eds) _[Global Agenda for Social Justice](https://www.sssp1.org/file/2018/Global_Agenda_for_Social_Justice.pdf)_, *Polity Press, pp 151-157.
 - [Identifying and Understanding Digital Exclusion: A Mixed-Methods Study](https://www.tandfonline.com/doi/full/10.1080/0144929X.2024.2368087) — Wilson-Menzfeld, G., et al. (2025). _Behaviour & Information Technology_.
 - [Identifying and Understanding Digital Exclusion: A Mixed-Methods Study](https://www.tandfonline.com/doi/full/10.1080/0144929X.2024.2368087) — Wilson-Menzfeld, G., et al. (2025). _Behaviour & Information Technology_.
-
----
-
-## Navigation
-
-**Layer:** Consequence — active removal from digital participation through design, cost, and policy decisions
-
-**Cause:** [[Digital Divide]] · [[Ageism (Digital)]]
-**Mechanism:** [[Accessibility]] · [[Predatory Design]]
-**Consequence:** [[Tech Abandonment]] · [[Algorithmic Violence]]
-**Reaction:** [[Universal Design]] · [[Inclusive Design]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

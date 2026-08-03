@@ -33,23 +33,12 @@ related_reaction:
 
 **Why This Matters:** **Technofeudalism** names the political-economic structure that **surveillance capitalism** has built. Once you see the feudal analogy, the language of "free markets" and "competition" as descriptions of the digital economy becomes legible as ideology rather than description.
 
-**Related terms:** [[Surveillance Capitalism (Political Economy)]] · [[Muskism]] · [[Vendor Lock-in]] · [[Sovereignty as a Service]] · [[Brussels Effect]]
+**Related terms:** [[Surveillance Capitalism (Political Economy)]] · [[Muskism]] · [[Vendor Lock-in]] · [[Sovereignty as a Service]] · [[Brussels Effect]] · [[Cyberfeminism]]
 
 
 ---
 **Read more:**
 - [Technofeudalism: What Killed Capitalism](https://www.goodreads.com/book/show/75560036-technofeudalism) — Varoufakis, Y. (2023). _Vintage / Goodreads_
 - [Cloud Capital](https://doi.org/10.14452/MR-073-09-2022-01) — Varoufakis, Y. (2022). *Monthly Review*
-
----
-
-## Navigation
-
-**Layer:** Consequence — the political-economic structure produced by platform dominance, where rent extraction replaces market competition
-
-**Cause:** [[Surveillance Capitalism (Political Economy)]] · [[Vendor Lock-in]]
-**Mechanism:** [[Muskism]] · [[Sovereignty as a Service]]
-**Consequence:** [[Muskism]] · [[Sovereignty as a Service]]
-**Reaction:** [[Brussels Effect]] · [[Cyberfeminism]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

@@ -32,22 +32,11 @@ related_reaction:
 
 **Why This Matters:** Content moderation makes visible the human infrastructure behind platform cleanliness. The feed that looks orderly was made orderly by people whose work the platform does not publicly acknowledge. Once you know that, "automated moderation" is a different kind of sentence.
 
-**Related terms:** [[Algospeak]] · [[Deplatforming]] · [[Recommender Systems]] · [[Fact Checker]]
+**Related terms:** [[Algospeak]] · [[Deplatforming]] · [[Recommender Systems]] · [[Fact Checker]] · [[Dark Patterns]] · [[Fair Patterns]] · [[Technostress]]
 
 
 ---
 **Read more:**
 - **[Behind the Screen: Content Moderation in the Shadows of Social Media](https://yalebooks.yale.edu/book/9780300261479/behind-the-screen/)**— Roberts, S.T. (2019). _Yale University Press_
 - [The Cleaners](https://www.pbs.org/independentlens/documentaries/the-cleaners/) — Riesewieck, H. & Block, H. (2018). _PBS / Independent Lens
----
-
-## Navigation
-
-**Layer:** Mechanism — the human infrastructure of platform governance, performed under conditions that externalise psychological harm
-
-**Cause:** [[Dark Patterns]] · [[Recommender Systems]]
-**Mechanism:** [[Algospeak]]
-**Consequence:** [[Technostress]] · [[Deplatforming]]
-**Reaction:** [[Fact Checker]] · [[Fair Patterns]]
-
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

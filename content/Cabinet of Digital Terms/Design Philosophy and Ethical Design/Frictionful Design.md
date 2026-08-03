@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Frictionful design** forces a question about smoothness: whose interests does frictionless design serve? Once you notice that platforms make harmful actions easy and protective actions hard, the political economy of friction becomes readable. Every streamlined interface is a policy decision.
 
-**Related terms:** [[Calm Technology]] · [[Fair Patterns]] · [[Dark Patterns]] · [[Nudging]] · [[Persuasive Technology]]
+**Related terms:** [[Calm Technology]] · [[Fair Patterns]] · [[Dark Patterns]] · [[Nudging]] · [[Persuasive Technology]] · [[Cognitive Surrender]] · [[Doomscrolling]] · [[Dopamine Feedback Loops]]
 
 
 ---
@@ -41,16 +41,5 @@ related_reaction:
 - [Design Frictions for Mindful Interactions: The Case for Microboundaries](https://eprints.whiterose.ac.uk/id/eprint/130554/1/Design_Frictions_CHI2016LBW_v14.pdf) — Cox, A.L. et al. (2016). *CHI '16*
 - [Frictionful Design: A Framework for Introducing Productive Friction in HCI](https://dl.acm.org/doi/pdf/10.1145/3526113.3545678) — Gray, C.M. et al. (2022). *CHI '22*
 - [Slow Technology: Designing for Reflection](https://www.academia.edu/469183/Slow_technology_designing_for_reflection) — Hallnäs, L. & Redström, J. (2001). *Personal and Ubiquitous Computing*
-
----
-
-## Navigation
-
-**Layer:** Reaction — deliberate introduction of pause and resistance to restore conscious decision-making
-
-**Cause:** [[Dark Patterns]] · [[Dopamine Feedback Loops]]
-**Mechanism:** [[Nudging]] · [[Persuasive Technology]]
-**Consequence:** [[Cognitive Surrender]] · [[Doomscrolling]]
-**Reaction:** [[Calm Technology]] · [[Fair Patterns]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

@@ -53,15 +53,4 @@ Recent developments in generative AI have further complicated these debates. Res
 - [Hundreds of nonconsensual AI images being created by Grok on X, data shows](https://www.theguardian.com/technology/2026/jan/08/grok-x-nonconsensual-images) — Milmo, D. (2026). _The Guardian_
 - [Expert Comment: Chatbot-driven sexual abuse? The Grok case is just the tip of the iceberg](https://www.ox.ac.uk/news/2026-01-14-expert-comment-chatbot-driven-sexual-abuse-grok-case-just-tip-iceberg) — University of Oxford (2026). _Oxford News_
 
----
-
-## Navigation
-
-**Layer:** Consequence — a practice that spans adolescent peer communication and coerced abuse, treated identically by a legal framework that harms the former
-
-**Cause:** [[Online Grooming]] · [[Predatory Design]]
-**Mechanism:** [[Catfishing]] · [[Online Grooming]]
-**Consequence:** [[Online Grooming]]
-**Reaction:** [[Brussels Effect]]
-
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

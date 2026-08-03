@@ -33,23 +33,12 @@ related_reaction:
 
 **Why This Matters:** **Surveillance capitalism** in the Society and Power context names the economic foundation of a new political order. Once you see it as political architecture rather than business model, the question is not "how do I opt out?" but "what governance structures would make opting out meaningful?"
 
-**Related terms:** [[Technofeudalism]] · [[Panopticon]] · [[Broligarchy]] · [[Muskism]] · [[Brussels Effect]]
+**Related terms:** [[Technofeudalism]] · [[Panopticon]] · [[Broligarchy]] · [[Muskism]] · [[Brussels Effect]] · [[Algorithmic Violence]] · [[Cyberfeminism]]
 
 
 ---
 **Read more:**
 - [The Age of Surveillance Capitalism](https://www.publicaffairsbooks.com/titles/shoshana-zuboff/the-age-of-surveillance-capitalism/9781610395694/) — Zuboff, S. (2019). *PublicAffairs*
 - [Technofeudalism: What Killed Capitalism](https://www.penguin.co.uk/books/451795/technofeudalism-by-varoufakis-yanis/9781529926095) — Varoufakis, Y. (2024). _Penguin / Bodley Head_
-
----
-
-## Navigation
-
-**Layer:** Cause — the economic logic that is also the political architecture of the digital age
-
-**Cause:** [[Technofeudalism]] · [[Broligarchy]]
-**Mechanism:** [[Muskism]] · [[Panopticon]]
-**Consequence:** [[Technofeudalism]] · [[Algorithmic Violence]]
-**Reaction:** [[Brussels Effect]] · [[Cyberfeminism]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

@@ -33,7 +33,7 @@ The term's existence is its own argument: that physical reality needs a label to
 **Why This Matters**
 Once you see IRL as a symptom of digital dominance rather than just a term, you see that the proliferation of IRL counter-movements — phone-free schools, offline therapy, social prescribing — is the cultural system attempting to correct an imbalance it cannot name structurally.
 
-**Related terms:** [[Digital Detox]] · [[Unplugging|Unplugging]] · [[Slow Media]]
+**Related terms:** [[Digital Detox]] · [[Unplugging|Unplugging]] · [[Slow Media]] · [[Attention Economy]] · [[Surveillance Capitalism]]
 
 
 ---
@@ -41,20 +41,5 @@ Once you see IRL as a symptom of digital dominance rather than just a term, you 
 📖 **Read more**
 - [Alone Together: Why We Expect More From Technology and Less From Each Other](https://www.basicbooks.com/titles/sherry-turkle/alone-together/9780465093663/) — Turkle, S. (2011). *Basic Books*
 - [IRL: Finding Realness, Meaning, and Belonging in Our Digital Lives](https://www.broadleafbooks.com/store/product/9781506485157/IRL) — Stedman, C. (2020). *Broadleaf Books*
-
----
----
-
-## Navigation
-
-**Layer:** Reaction — reaction to digital-as-norm; generates counter-movements including cat cafés, detox evenings, phone-free schools
-
-**Cause:** [[Attention Economy]] · [[Surveillance Capitalism]]
-**Mechanism:** [[Digital Detox]] · [[Unplugging|Unplugging]]
-**Consequence:** *—*
-**Reaction:** *—*
-
-**Public entry:** this document
-**Deep analysis:** *in production*
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

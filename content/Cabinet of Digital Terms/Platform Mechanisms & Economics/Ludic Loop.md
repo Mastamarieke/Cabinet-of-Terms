@@ -30,7 +30,7 @@ The loop is designed to have no natural endpoint. [[Dopamine Feedback Loops]] ar
 **Why This Matters**
 Once you see the **ludic loop** in your phone's notification system, your social media feed, and your inbox, you see that the experience of compulsion is not a weakness — it is a specification.
 
-**Related terms:** [[Dopamine Feedback Loops]] · [[Gamification Creep]] · [[Predatory Design]] · [[Attention Harvesting]] · [[Gaming Disorder]] · [[Loot Boxes]]
+**Related terms:** [[Dopamine Feedback Loops]] · [[Gamification Creep]] · [[Predatory Design]] · [[Attention Harvesting]] · [[Gaming Disorder]] · [[Loot Boxes]] · [[Attention Economy]] · [[Calm Technology]] · [[Cognitive Surrender]] · [[Digital Overload]] · [[Frictionful Design]] · [[Surveillance Capitalism]]
 
 
 ---
@@ -38,20 +38,5 @@ Once you see the **ludic loop** in your phone's notification system, your social
 📖 **Read more**
 - [The Lucid Truth of Ludic Loops](https://medium.com/interactive-designers-cookbook/the-lucid-truth-of-ludic-loops-caec3ad272da) — Dow Schüll, N. (2018). *Medium*
 - [Game Loops, Game Design Loops, Game Terakoya Loops and Ludic Language Pedagogy Loops](https://www.researchgate.net/publication/364204243_Game_loops_Game_design_loops_Game_Terakoya_loops_and_Ludic_Language_Pedagogy_loops) — deHaan, J. (2022). *ResearchGate*
-
----
----
-
-## Navigation
-
-**Layer:** Mechanism — Schüll; cycle of anticipation, action, and reward producing compulsive behaviour
-
-**Cause:** [[Attention Economy]] · [[Surveillance Capitalism]]
-**Mechanism:** [[Dopamine Feedback Loops]] · [[Gamification Creep]]
-**Consequence:** [[Cognitive Surrender]] · [[Digital Overload]]
-**Reaction:** [[Calm Technology]] · [[Frictionful Design]]
-
-**Public entry:** this document
-**Deep analysis:** *in production*
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

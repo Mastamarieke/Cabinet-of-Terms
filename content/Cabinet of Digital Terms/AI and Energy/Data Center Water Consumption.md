@@ -32,7 +32,7 @@ The activist Aurora Gómez of this collective notes that even local mayors have 
 
 **Why This Matters:** Water consumption breaks the abstraction of the cloud more viscerally than electricity statistics. A river is a place. A drought is experienced by people. *Tu Nube Seca Mi Río* names it in four words.
 
-**Related terms:** [[AI Energy Consumption]] · [[Externalized Costs]] · [[Sacrifice Zones]] · [[Digital Colonialism]] · [[Greenwashing]]
+**Related terms:** [[AI Energy Consumption]] · [[Externalized Costs]] · [[Sacrifice Zones]] · [[Digital Colonialism]] · [[Greenwashing]] · [[Training Run]]
 
 
 ---
@@ -40,16 +40,5 @@ The activist Aurora Gómez of this collective notes that even local mayors have 
 - [Making AI Less Thirsty](https://arxiv.org/abs/2304.03271) — Li, P. et al. (2023). *arXiv*
 - [Tu Nube Seca Mi Río](https://tunubesecamirio.com) — Spanish activist collective (ongoing)
  - [ How to Resist Data Centers: A Guide For Local Communities in Europe](https://algorithmwatch.org/en/a-guide-to-data-centers/?utm_source=chatgpt.com) — Shauna Blackmon
-
----
-
-## Navigation
-
-**Layer:** Consequence — the local, material impact of AI infrastructure on water resources
-
-**Cause:** [[AI Energy Consumption]] · [[Training Run]]
-**Mechanism:** [[Externalized Costs]]
-**Consequence:** [[Sacrifice Zones]] · [[Digital Colonialism]]
-**Reaction:** [[Greenwashing]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

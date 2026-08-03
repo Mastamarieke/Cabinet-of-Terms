@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Flood the Zone** names a strategy, not a failure. Once you see it as deliberate, the question shifts from "why is there so much misinformation?" to "who benefits from the volume, and what governance structures are being protected from scrutiny?"
 
-**Related terms:** [[Ragebaiting]] · [[Bot Farms]] · [[Muskism]] · [[Fact Checker]] · [[Broligarchy]] · [[Surveillance Capitalism (Political Economy)]]
+**Related terms:** [[Ragebaiting]] · [[Bot Farms]] · [[Muskism]] · [[Fact Checker]] · [[Broligarchy]] · [[Surveillance Capitalism (Political Economy)]] · [[Brussels Effect]] · [[Great Replacement]] · [[QAnon]]
 
 
 ---
@@ -44,15 +44,4 @@ related_reaction:
 - [Flood the Zone with Shit: Algorithmic Domination in the Modern Republic](https://www.mdpi.com/2076-0760/14/6/391) — Maynor, J. (2025). _Social Sciences_ 
 
 - [De populaire Dutch Travel Maniac reist in zijn vlogs voornamelijk naar een wereld van extreemrechts gedachtegoed](https://www.volkskrant.nl/binnenland/de-populaire-dutch-travel-maniac-reist-in-zijn-vlogs-voornamelijk-naar-een-wereld-van-extreemrechts-gedachtegoed~b31208e1/) — Van de Griend, R. & Pottjewijd, W. (4 juli 2026). *De Volkskrant*
----
-
-## Navigation
-
-**Layer:** Mechanism — information volume deployed as a governance weapon to prevent sustained accountability
-
-**Cause:** [[Muskism]] · [[Broligarchy]]
-**Mechanism:** [[Ragebaiting]] · [[Bot Farms]]
-**Consequence:** [[Great Replacement]] · [[QAnon]]
-**Reaction:** [[Fact Checker]] · [[Brussels Effect]]
-
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

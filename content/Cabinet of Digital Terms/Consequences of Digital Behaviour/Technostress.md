@@ -31,7 +31,7 @@ Tarafdar et al. (2007) document that **technostress** reduces productivity, incr
 **Why This Matters**
 Once you see **technostress** as a design outcome rather than individual incapacity, you see that the question is not how to help people cope with technology — it is why technology is designed in ways that require coping.
 
-**Related terms:** [[Digital Overload]] · [[Tech Abandonment]] · [[Ageism (Digital)]]
+**Related terms:** [[Digital Overload]] · [[Tech Abandonment]] · [[Ageism (Digital)]] · [[Attention Economy]] · [[Digital Exclusion]] · [[Technofeudalism]] · [[Universal Design]]
 
 
 ---
@@ -39,20 +39,5 @@ Once you see **technostress** as a design outcome rather than individual incapac
 📖 **Read more**
 - [Technostress: Dark Side of Technology in the Workplace](https://pmc.ncbi.nlm.nih.gov/articles/PMC7662498/) — Giorgi, G. et al. (2020). *Frontiers in Psychology*
 - [The Impact of Technostress on Role Stress and Productivity](https://www.researchgate.net/publication/220591007_The_Impact_of_Technostress_on_Role_Stress_and_Productivity) — Tarafdar, M. et al. (2007). *Journal of Management Information Systems*
-
----
----
-
-## Navigation
-
-**Layer:** Consequence — stress caused by using or dealing with technology; documented across age groups
-
-**Cause:** [[Attention Economy]] · [[Technofeudalism|Technofeudalism]]
-**Mechanism:** [[Digital Overload]]
-**Consequence:** [[Tech Abandonment]] · [[Digital Exclusion]]
-**Reaction:** [[Universal Design]]
-
-**Public entry:** this document
-**Deep analysis:** *in production*
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

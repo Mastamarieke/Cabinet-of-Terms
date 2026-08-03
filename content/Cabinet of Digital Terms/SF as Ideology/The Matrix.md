@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **The Matrix** makes visible how a film's vocabulary can be entirely separated from its politics. The question to ask of any **red pill** invocation is: what is the deception being revealed, who is responsible for it, and does the answer serve liberation or reaction?
 
-**Related terms:** [[Red Pill]] · [[Simulation Hypothesis]] · [[QAnon]] · [[Cyborg]] · [[Situated Knowledge]], [[Manosphere]]
+**Related terms:** [[Red Pill]] · [[Simulation Hypothesis]] · [[QAnon]] · [[Cyborg]] · [[Situated Knowledge]], [[Manosphere]] · [[Cyberfeminism]]
 
 
 ---
@@ -42,16 +42,5 @@ related_reaction:
 - [The Matrix as Trans Narrative](https://www.vulture.com/2020/08/the-matrix-is-definitely-a-trans-allegory-lilly-wachowski-confirms.html) — Wachowski, L. (2020). *Vulture interview*
 - [Skynet (Terminator)](https://en.wikipedia.org/wiki/Skynet_%28Terminator%29) — on Skynet as a cultural shorthand for runaway artificial intelligence, autonomous weapons, and machine takeover narratives
 - [Red Pill and Blue Pill](https://en.wikipedia.org/wiki/Red_pill_and_blue_pill) — overview of the migration of the “red pill” concept from _The Matrix_ into manosphere, conspiracy, and political internet culture
-
----
-
-## Navigation
-
-**Layer:** Mechanism — a film whose vocabulary was separated from its politics and redeployed as universal awakening metaphor
-
-**Cause:** [[Simulation Hypothesis]] · [[Red Pill]]
-**Mechanism:** [[Red Pill]] · [[Cyborg]]
-**Consequence:** [[Red Pill]] · [[QAnon]]
-**Reaction:** [[Situated Knowledge]] · [[Cyberfeminism]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

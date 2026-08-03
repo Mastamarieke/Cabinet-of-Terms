@@ -33,23 +33,12 @@ related_reaction:
 
 **Why This Matters:** **Digital libertarianism** names the founding ideology of the internet's governance vacuum. Once you know the text, you can read a great deal of contemporary platform politics as variations on the same theme: the state is the problem; the private sector is not.
 
-**Related terms:** [[Objectivism (Rand)]] · [[Muskism]] · [[Hacker Ethic]] · [[Technofeudalism]] · [[Brussels Effect]]
+**Related terms:** [[Objectivism (Rand)]] · [[Muskism]] · [[Hacker Ethic]] · [[Technofeudalism]] · [[Brussels Effect]] · [[Cyberfeminism]]
 
 
 ---
 **Read more:**
 - [A Declaration of the Independence of Cyberspace](https://www.eff.org/cyberspace-independence) — Barlow, J.P. (1996). *Electronic Frontier Foundation*
 - [From Counterculture to Cyberculture](https://press.uchicago.edu/ucp/books/book/chicago/F/bo3773600.html) — Turner, F. (2006). *University of Chicago Press*
-
----
-
-## Navigation
-
-**Layer:** Cause — the founding ideology that declared cyberspace beyond state jurisdiction, creating a vacuum filled by corporate power
-
-**Cause:** [[Objectivism (Rand)]] · [[Muskism]]
-**Mechanism:** [[Hacker Ethic]] · [[Technofeudalism]]
-**Consequence:** [[Muskism]] · [[Technofeudalism]]
-**Reaction:** [[Brussels Effect]] · [[Cyberfeminism]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

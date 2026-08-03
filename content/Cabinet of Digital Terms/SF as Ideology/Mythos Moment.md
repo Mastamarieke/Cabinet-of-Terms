@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Mythos Moment** names the specific governance problem of AI: a technology that may cross consequential thresholds without clear advance warning, in systems whose internal workings are not fully understood by their builders. Once you have the concept, you can ask of any AI capability advance: is this a **mythos moment**, and who is deciding?
 
-**Related terms:** [[AGI]] · [[Red Teamer]] · [[Doomerism]] · [[Digital Frankenstein]] · [[AI Literacy]]
+**Related terms:** [[AGI]] · [[Red Teamer]] · [[Doomerism]] · [[Digital Frankenstein]] · [[AI Literacy]] · [[AI Dependency]]
 
 
 ---
@@ -43,16 +43,5 @@ related_reaction:
 - [What is Mythos AI and why could it be a threat to global cybersecurity?](https://www.theguardian.com/technology/2026/apr/22/what-is-anthropic-mythos-ai-threat-global-cybersecurity) — _The Guardian_ (2026). — on Mythos as a frontier AI cybersecurity system with systemic implications. 
 - [Too powerful for the public: inside Anthropic's bid to win the AI publicity war](https://www.theguardian.com/technology/2026/apr/12/too-powerful-for-the-public-inside-anthropics-bid-to-win-the-ai-publicity-war) — _The Guardian_ (2026). — critique of Mythos as both AI safety narrative and publicity strategy. 
 - [Frankenstein; or, The Modern Prometheus](https://www.gutenberg.org/ebooks/84) — Shelley, M. (1818). _Lackington, Hughes, Harding, Mavor & Jones_ — foundational technological cautionary narrative on creation escaping creator control.
-
----
-
-## Navigation
-
-**Layer:** Mechanism — the governance threshold where AI capability becomes existentially consequential, named in advance of the moment it describes
-
-**Cause:** [[AGI]] · [[Digital Frankenstein]]
-**Mechanism:** [[Red Teamer]] · [[Doomerism]]
-**Consequence:** [[Doomerism]] · [[AI Dependency]]
-**Reaction:** [[Red Teamer]] · [[AI Literacy]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

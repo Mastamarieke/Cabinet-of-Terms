@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Broligarchy** names the social dimension of tech political power — which is important because social networks are harder to regulate than formal organisations. Once you see it as a network rather than a conspiracy, the question shifts from "who is coordinating?" to "what values does the network share, and how does the network reproduce itself?"
 
-**Related terms:** [[Muskism]] · [[Revolving Door]] · [[Founder Mode]] · [[Objectivism (Rand)]] · [[Cyberfeminism]] ·[[Transhumanism]] · [[The Singularity]] · [[The Matrix]] · [[Skynet]]  · [[Brave New World]]
+**Related terms:** [[Muskism]] · [[Revolving Door]] · [[Founder Mode]] · [[Objectivism (Rand)]] · [[Cyberfeminism]] ·[[Transhumanism]] · [[The Singularity]] · [[The Matrix]] · [[Skynet]]  · [[Brave New World]] · [[Brussels Effect]] · [[Technofascism]]
 
 
 ---
@@ -45,16 +45,5 @@ related_reaction:
 - [In the Plutocratic Age of Broligarchy, Democracy Is in Deep Trouble — but There’s Still Hope](https://www.ceps.eu/in-the-plutocratic-age-of-broligarchy-democracy-is-in-deep-trouble-but-theres-still-hope/) — Renda, A. (2025). _CEPS_ 
 - [Broligarchy](https://en.wikipedia.org/wiki/Broligarchy) 
 - [When the Broligarchy Comes to Meta, the Most Vulnerable People Are Threatene](https://www.cigionline.org/articles/when-the-broligarchy-comes-to-meta-the-most-vulnerable-people-are-threatened/) — Kwet, M. (2025). _Centre for International Governance Innovation_ — on tech oligarchy, masculinity politics, anti-DEI backlash, and platform governance under Silicon Valley leadership
-
----
-
-## Navigation
-
-**Layer:** Cause — the social network through which tech oligarchic power operates as a class formation
-
-**Cause:** [[Muskism]] · [[Objectivism (Rand)]]
-**Mechanism:** [[Revolving Door]] · [[Founder Mode]]
-**Consequence:** [[Technofascism]] · [[Muskism]]
-**Reaction:** [[Cyberfeminism]] · [[Brussels Effect]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

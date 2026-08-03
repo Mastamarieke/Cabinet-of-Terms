@@ -31,7 +31,7 @@ related_reaction:
 
 **Why this sentence matters:** Once you hear "like Prime, but with human beings," every logistics metaphor applied to people becomes audible as a category choice. The language is not neutral. It encodes an institutional framework. The sentence revealed it.
 
-**Related terms:** [[Dehumanization]] · [[Algorithmic Violence]] · [[Surveillance Capitalism]] · [[Flood the Zone]]
+**Related terms:** [[Dehumanization]] · [[Algorithmic Violence]] · [[Surveillance Capitalism]] · [[Flood the Zone]] · [[Brussels Effect]]
 
 
 ---
@@ -42,16 +42,5 @@ related_reaction:
 - [ICE Wants to Stash People in Amazon-style Warehouses](https://www.nilc.org/articles/ice-wants-to-stash-people-in-amazon-style-warehouses/) — Mohyeddin, I. (2026). _National Immigration Law Center_
 - [ICE to spend $38bn turning warehouses into detention centers, documents show](https://www.theguardian.com/us-news/2026/feb/13/ice-warehouses-detention-centers-dhs) — Campbell, L. & Dunbar, M. (2026). _The Guardian_
 - [ICE to Use ImmigrationOS by Palantir, a New AI System, to Track Immigrants’ Movements](https://www.americanimmigrationcouncil.org/blog/ice-immigrationos-palantir-ai-track-immigrants/) — American Immigration Council. (2025). _American Immigration Council_
-
----
-
-## Navigation
-
-**Layer:** Mechanism — logistics vocabulary applied to persons, revealing the institutional framework in which people are managed as inventory
-
-**Cause:** [[Surveillance Capitalism]] · [[Algorithmic Violence]]
-**Mechanism:** [[Dehumanization]]
-**Consequence:** [[Dehumanization]] · [[Algorithmic Violence]]
-**Reaction:** [[Brussels Effect]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Surveillance capitalism** names the economic logic that underlies most of the Platform Mechanisms cluster. Once you see the logic — human experience as raw material — the specific mechanisms (**recommender systems**, **dark patterns**, dopamine loops) become legible as components of a single extractive system.
 
-**Related terms:** [[Data Brokers]] · [[Dataïsme]] · [[Privacy Washing]] · [[Algorithmic Violence]] · [[Brussels Effect]]
+**Related terms:** [[Data Brokers]] · [[Dataïsme]] · [[Privacy Washing]] · [[Algorithmic Violence]] · [[Brussels Effect]] · [[Attention Economy]] · [[Fair Patterns]] · [[Informatics of Domination]] · [[Vendor Lock-in]]
 
 
 ---
@@ -41,16 +41,5 @@ related_reaction:
 - [The Age of Surveillance Capitalism](https://www.publicaffairsbooks.com/titles/shoshana-zuboff/the-age-of-surveillance-capitalism/9781610395694/) — Zuboff, S. (2019). *PublicAffairs*
 - [Big Other: Surveillance Capitalism and the Prospects of an Information Civilization](https://doi.org/10.1057/jit.2015.5) — Zuboff, S. (2015). *Journal of Information Technology*
 - [Big Tech maakt van burgers vee](https://www.vn.nl/op-afstand-gestuurde-mens) — Van Iperen, R. (2026). *Vrij Nederland*, 9 juli
-
----
-
-## Navigation
-
-**Layer:** Cause — the economic logic that treats human behavioural experience as raw material for prediction products
-
-**Cause:** [[Attention Economy]] · [[Informatics of Domination]]
-**Mechanism:** [[Data Brokers]] · [[Privacy Washing]]
-**Consequence:** [[Algorithmic Violence]] · [[Vendor Lock-in]]
-**Reaction:** [[Brussels Effect]] · [[Fair Patterns]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

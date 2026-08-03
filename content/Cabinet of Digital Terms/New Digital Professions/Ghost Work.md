@@ -33,7 +33,7 @@ Gray and Suri document the structural precarity: no minimum wage, no benefits, n
 **Why This Matters**
 Once you see **ghost work** as the hidden foundation of AI, you see that every interaction with an "intelligent" system rests on a supply chain of invisible, poorly protected human labour — and that the invisibility is a product decision.
 
-**Related terms:** [[Mechanical Turk]] · [[Technofeudalism|Technofeudalism]] · [[Surveillance Capitalism]]
+**Related terms:** [[Mechanical Turk]] · [[Technofeudalism|Technofeudalism]] · [[Surveillance Capitalism]] · [[Deskilling]]
 
 
 ---
@@ -41,20 +41,5 @@ Once you see **ghost work** as the hidden foundation of AI, you see that every i
 📖 **Read more**
 - [Ghost Work: How to Stop Silicon Valley from Building a New Global Underclass](https://openlibrary.org/works/OL20827527W/Ghost_Work) — Gray, M.L. & Suri, S. (2019). *Houghton Mifflin Harcourt*
 - [Digital Labor and the Inconspicuous Production of Artificial Intelligence](https://www.researchgate.net/publication/384770014_Digital_Labor_and_the_Inconspicuous_Production_of_Artificial_Intelligence) — Casilli, A.A. (2024). *arXiv*
-
----
----
-
-## Navigation
-
-**Layer:** Mechanism — Gray & Suri 2019; invisible digital labour that keeps AI running
-
-**Cause:** [[Surveillance Capitalism]] · [[Technofeudalism|Technofeudalism]]
-**Mechanism:** [[Mechanical Turk]]
-**Consequence:** [[Deskilling|Deskilling]]
-**Reaction:** *—*
-
-**Public entry:** this document
-**Deep analysis:** *in production*
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

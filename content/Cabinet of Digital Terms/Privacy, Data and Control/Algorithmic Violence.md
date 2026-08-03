@@ -33,23 +33,12 @@ related_reaction:
 
 **Why This Matters:** **Algorithmic violence** names the specific accountability gap of automated harm. Once you see the structure — harm produced, no individual responsible — you can ask: who designed this system, what data trained it, whose interests does it serve, and who bears the cost of its errors?
 
-**Related terms:** [[Informatics of Domination]] · [[Dataïsme]] · [[Surveillance Capitalism]] · [[Digital Exclusion]] · [[VSD (Value Sensitive Design)]]
+**Related terms:** [[Informatics of Domination]] · [[Dataïsme]] · [[Surveillance Capitalism]] · [[Digital Exclusion]] · [[VSD (Value Sensitive Design)]] · [[Brussels Effect]] · [[Dehumanization]] · [[Vendor Lock-in]]
 
 
 ---
 **Read more:**
 - [Automating Inequality](https://us.macmillan.com/books/9781250074317/automatinginequality) — Eubanks, V. (2018). *St. Martin's Press*
 - [Algorithms of Oppression](https://nyupress.org/9781479837243/algorithms-of-oppression/) — Noble, S.U. (2018). *NYU Press*
-
----
-
-## Navigation
-
-**Layer:** Consequence — harm produced by automated systems that diffuses individual accountability while concentrating impact on marginalised populations
-
-**Cause:** [[Surveillance Capitalism]] · [[Informatics of Domination]]
-**Mechanism:** [[Vendor Lock-in]] · [[Dataïsme]]
-**Consequence:** [[Digital Exclusion]] · [[Dehumanization]]
-**Reaction:** [[Brussels Effect]] · [[VSD (Value Sensitive Design)]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

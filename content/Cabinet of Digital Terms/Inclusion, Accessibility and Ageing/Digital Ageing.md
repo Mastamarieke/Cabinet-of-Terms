@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Digital ageing** makes visible that the relationship between people and technology changes over a lifetime — and that systems designed for peak-capacity adults exclude people at both ends of that curve. The design question is not "how do we accommodate older users?" but "why did we design for peak capacity in the first place?"
 
-**Related terms:** [[Ageism (Digital)]] · [[Tech Abandonment]] · [[Silver Surfer]] · [[Digital Exclusion]] · [[Universal Design]]
+**Related terms:** [[Ageism (Digital)]] · [[Tech Abandonment]] · [[Silver Surfer]] · [[Digital Exclusion]] · [[Universal Design]] · [[Digital Divide]] · [[Inclusive Design]]
 
 
 ---
@@ -44,16 +44,5 @@ related_reaction:
 - [Ageing and the Media: International Perspectives](https://policy.bristoluniversitypress.co.uk/ageing-and-the-media) — Ageing and the Media: International Perspectives — Dalmer, N., Loos, E., Nimrod, G., & Tembeck, T. (Eds.). (2022). _Bristol University Press_
 - [Ageing and Digital Technology: Designing and Evaluating Emerging Technologies for Older Adults](https://link.springer.com/book/10.1007/978-981-13-3693-5) — Ageing and Digital Technology — Barbara Barbosa Neves & Vetere, F. (Eds.). (2019). _Springer_
   [Visual Ageism in the Media](https://link.springer.com/chapter/10.1007/978-3-319-73820-8_11) — Visual Ageism in the Media — Eugène Loos & Ivan, L. (2018). In _Contemporary Perspectives on Ageis_
-
----
-
-## Navigation
-
-**Layer:** Mechanism — the experience of navigating a digital society as capacity changes in ways systems do not accommodate
-
-**Cause:** [[Ageism (Digital)]] · [[Digital Divide]]
-**Mechanism:** [[Tech Abandonment]] · [[Silver Surfer]]
-**Consequence:** [[Tech Abandonment]] · [[Digital Exclusion]]
-**Reaction:** [[Universal Design]] · [[Inclusive Design]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

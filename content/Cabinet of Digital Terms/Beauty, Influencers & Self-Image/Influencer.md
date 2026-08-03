@@ -34,24 +34,12 @@ related_reaction:
 
 **Why This Matters:** "**Influencer**" is a word that makes a commercial relationship sound like a friendship. Once you know that, the sponsored post is a different kind of sentence.
 
-**Related terms:** [[Fitfluencer]] · [[Highlight Reel]] · [[Curated Life]] · [[Comparison Culture]] · [[Deinfluencing]] · [[Mimetic Desire]] · [[Virtual Influencer]]
+**Related terms:** [[Fitfluencer]] · [[Highlight Reel]] · [[Curated Life]] · [[Comparison Culture]] · [[Deinfluencing]] · [[Mimetic Desire]] · [[Virtual Influencer]] · [[Attention Economy]] · [[Body Dysmorphic Disorder]]
 
 
 ---
 **Read more:**
 - [The Influencer Industry](https://www.researchgate.net/publication/339178289_The_Influencer_Industry_Constructing_And_Commodifying_Authenticity_On_Social_Media) — Dean Hund, E (2019)
 - [Hidden in Plain Sight](https://doi.org/10.1177/1461444820904168) — Wellman, M.L. et al. (2020). *New Media & Society*
-
-
----
-
-## Navigation
-
-**Layer:** Mechanism — a commercial role disguised as a personal relationship
-
-**Cause:** [[Comparison Culture]] · [[Attention Economy]] · [[Mimetic Desire]]
-**Mechanism:** [[Fitfluencer]] · [[Highlight Reel]] · [[Curated Life]]
-**Consequence:** [[Comparison Culture]] · [[Body Dysmorphic Disorder]]
-**Reaction:** [[Deinfluencing]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

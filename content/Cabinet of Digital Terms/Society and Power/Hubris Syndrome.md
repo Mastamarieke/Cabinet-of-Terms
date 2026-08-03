@@ -33,23 +33,12 @@ related_reaction:
 
 **Why This Matters:** **Hubris syndrome** names a predictable consequence of unchecked power — not an individual character flaw. Once you see it as structural rather than personal, the question shifts from "why does this person behave this way?" to "what accountability structures were removed, and when?"
 
-**Related terms:** [[Founder Mode]] · [[Muskism]] · [[Techno King]] · [[Broligarchy]] · [[Situated Knowledge]]
+**Related terms:** [[Founder Mode]] · [[Muskism]] · [[Techno King]] · [[Broligarchy]] · [[Situated Knowledge]] · [[Brussels Effect]] · [[Technofascism]]
 
 
 ---
 **Read more:**
 - [The Hubris Syndrome: Bush, Blair and the Intoxication of Power](https://www.amazon.com/Hubris-Syndrome-Blair-Intoxication-Power/dp/1842752197) — Owen, D. (2007/2018). _Methuen_ 
 [Hubris and Donald Trump: The Dangerous Mix of Populism, Narcissism, and Power](https://www.amazon.fr/Hubris-Donald-Populism-Narcissism-English-ebook/dp/B0D7HZPRTG) — Owen, D. (2024). 
-
----
-
-## Navigation
-
-**Layer:** Mechanism — a condition produced by unchecked power, not a pre-existing character flaw
-
-**Cause:** [[Muskism]] · [[Broligarchy]]
-**Mechanism:** [[Founder Mode]] · [[Techno King]]
-**Consequence:** [[Technofascism]] · [[Muskism]]
-**Reaction:** [[Situated Knowledge]] · [[Brussels Effect]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

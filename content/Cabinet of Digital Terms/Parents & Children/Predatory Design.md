@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Predatory design** names the deliberate exploitation of developmental vulnerability as commercial strategy. Once you see it, "it's just a game" and "the child just needs more self-control" become inadequate responses to a designed condition.
 
-**Related terms:** [[Dark Patterns]] · [[Roblox]] · [[Loot Boxes]] · [[Gaming Disorder]] · [[Screen Time]] · [[Robux]] · [[Online Grooming]]
+**Related terms:** [[Dark Patterns]] · [[Roblox]] · [[Loot Boxes]] · [[Gaming Disorder]] · [[Screen Time]] · [[Robux]] · [[Online Grooming]] · [[Brussels Effect]] · [[Dopamine Feedback Loops]] · [[VSD (Value Sensitive Design)]]
 
 
 ---
@@ -42,16 +42,5 @@ related_reaction:
 - [An Ontology of Dark Patterns](https://doi.org/10.1145/3613904.3642436) — Gray, C.M. et al. (2024). *ACM CHI*
 - [The Internet on Our Own Terms: How Children and Young People Deliberated About Their Digital Rights](https://5rightsfoundation.com/wp-content/uploads/2024/09/internet-on-our-own-terms-a4.pdf) — 5Rights Foundation. (2017). _5Rights Foundation_
 - [Age Appropriate Design: A Code of Practice for Online Services](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/childrens-information/childrens-code-guidance-and-resources/age-appropriate-design-a-code-of-practice-for-online-services/) — Information Commissioner’s Office. (2021). _Information Commissioner’s Office_
-
----
-
-## Navigation
-
-**Layer:** Cause — design that exploits children's developmental vulnerabilities as commercial opportunity
-
-**Cause:** [[Dark Patterns]] · [[Dopamine Feedback Loops]]
-**Mechanism:** [[Roblox]] · [[Loot Boxes]]
-**Consequence:** [[Gaming Disorder]] · [[Screen Time]]
-**Reaction:** [[Brussels Effect]] · [[VSD (Value Sensitive Design)]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

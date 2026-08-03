@@ -35,23 +35,12 @@ Today, versions of this structure appear across very different ideologies — fr
 
 **Why This Matters:** **Millenarianism** names the template, not the content. Once you can identify the structure — corrupt present, catastrophic transition, chosen community — you can see it operating across very different political and religious contexts, and ask: who is identified as the agent of corruption, and what actions does the transition moment justify?
 
-**Related terms:** [[Armageddon Complex]] · [[Endtime Fascism]] · [[Disaster Nationalism]] · [[QAnon]] · [[Doomerism]]
+**Related terms:** [[Armageddon Complex]] · [[Endtime Fascism]] · [[Disaster Nationalism]] · [[QAnon]] · [[Doomerism]] · [[AI Literacy]] · [[Great Replacement]] · [[Situated Knowledge]]
 
 
 ---
 **Read more:**
 - [The Pursuit of the Millennium](https://global.oup.com/academic/product/the-pursuit-of-the-millennium-9780195004564) — Cohn, N. (1957/1970). *Oxford University Press*
 - [A Culture of Conspiracy](https://www.jstor.org/stable/10.1525/j.ctt1pnjvz) — Barkun, M. (2003). *University of California Press*
-
----
-
-## Navigation
-
-**Layer:** Cause — the recurring political-religious structure of corrupt present, catastrophic transition, and chosen community
-
-**Cause:** [[Armageddon Complex]] · [[Great Replacement]]
-**Mechanism:** [[Disaster Nationalism]] · [[Endtime Fascism]]
-**Consequence:** [[Endtime Fascism]] · [[Doomerism]]
-**Reaction:** [[Situated Knowledge]] · [[AI Literacy]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

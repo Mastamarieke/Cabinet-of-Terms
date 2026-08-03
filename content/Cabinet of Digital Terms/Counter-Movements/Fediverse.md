@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** The **fediverse** makes the architecture of platforms visible by contrast. Every design choice that feels natural on **Instagram** — algorithmic feeds, advertising, data extraction, no exit — is revealed as a choice, not a necessity, the moment you encounter a system built differently. Whether the **fediverse** survives commercial capture or quietly becomes another layer of the same infrastructure is the open question. The answer depends not on the protocol but on who governs it.
 
-**Related terms:** [[Surveillance Capitalism]] · [[Vendor Lock-in]] · [[Enshittification]] · [[Technofeudalism]] · [[Privacy by Design]] · [[Digital Detox]] · [[Sovereignty as a Service]]
+**Related terms:** [[Surveillance Capitalism]] · [[Vendor Lock-in]] · [[Enshittification]] · [[Technofeudalism]] · [[Privacy by Design]] · [[Digital Detox]] · [[Sovereignty as a Service]] · [[Digital Exclusion]] · [[Privacy as a Premium]]
 
 ---
 **Read more:**
@@ -42,16 +42,5 @@ related_reaction:
 - [Fediverse — University of Groningen Library](https://www.rug.nl/library/fediverse?lang=en) — University of Groningen (z.d.)
 - [Liever een Fediverse dan een Metaverse](https://sebastix.nl/blog/liever-een-fediverse-dan-een-metaverse/) — Sebastix.nl (z.d.)
 - [Fediverse.info](https://fediverse.info) — Fediverse.info (z.d.)
-
----
-
-## Navigation
-
-**Layer:** Reaction — a decentralised alternative to platform monopolies, now being entered by those same monopolies
-
-**Cause:** [[Surveillance Capitalism]] · [[Vendor Lock-in]]
-**Mechanism:** [[Enshittification]] · [[Technofeudalism]]
-**Consequence:** [[Digital Exclusion]] · [[Privacy as a Premium]]
-**Reaction:** [[Digital Detox]] · [[Privacy by Design]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

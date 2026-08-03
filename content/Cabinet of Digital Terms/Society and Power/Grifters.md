@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Grifters** names the specific harm of ideological cover for financial extraction. Once you see the pattern — manifesto + extraction + community attribution of losses — you can identify it across political movements, cryptocurrency projects, and **influencer** businesses.
 
-**Related terms:** [[Financial Fabulism]] · [[Memecoin]] · [[Reconstruction Economy]] · [[Fact Checker]] · [[Broligarchy]]
+**Related terms:** [[Financial Fabulism]] · [[Memecoin]] · [[Reconstruction Economy]] · [[Fact Checker]] · [[Broligarchy]] · [[Brussels Effect]]
 
 
 ---
@@ -43,18 +43,5 @@ related_reaction:
 - [Bad Blood](https://www.penguinrandomhouse.com/books/549478/bad-blood-by-john-carreyrou/) — Carreyrou, J. (2018). _Knopf_ — on Theranos as a Silicon Valley grift built through founder mythology, venture capital, and media spectacle
 - [The Cult of We](https://www.penguinrandomhouse.com/books/645810/the-cult-of-we-by-eliot-brown-and-maureen-farrell/) — Brown, E. & Farrell, M. (2021). _Crown_ — on WeWork, startup fabulism, founder charisma, and venture-capital hype culture
   [Culture Warlords: My Journey Into the Dark Web of White Supremacy](https://www.amazon.com/Culture-Warlords-Journey-White-Supremacy/dp/0306846438) — Lavin, T. (2020). _Hachette Books_ 
-
-
-
----
-
-## Navigation
-
-**Layer:** Mechanism — ideological performance that provides the trust required for systematic financial extraction
-
-**Cause:** [[Financial Fabulism]] · [[Broligarchy]]
-**Mechanism:** [[Memecoin]] · [[Reconstruction Economy]]
-**Consequence:** [[Memecoin]] · [[Reconstruction Economy]]
-**Reaction:** [[Fact Checker]] · [[Brussels Effect]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Imposter syndrome** makes visible the gap between internal experience and external presentation — and the specific harm that social media does to that gap. Once you know that everyone's backstage is messier than their **highlight reel**, the comparison basis changes.
 
-**Related terms:** [[Comparison Culture]] · [[Highlight Reel]] · [[Personal Branding]] · [[Hustle Culture]] · [[JOMO]]
+**Related terms:** [[Comparison Culture]] · [[Highlight Reel]] · [[Personal Branding]] · [[Hustle Culture]] · [[JOMO]] · [[Digital Detox]] · [[Doom Spending]]
 
 
 ---
@@ -43,15 +43,4 @@ related_reaction:
 - [Compare with care: the impact of social media on predictors of impostor feelings**](https://scholars.csus.edu/esploro/outputs/graduate/Compare-with-care-the-impact-of/99257831160701671?utm_source=chatgpt.com) — Ramm, E. R. (n.d.), _California State University, Sacramento_.  
 - [**Feeling phony online — The impostor phenomenon’s link to online self-presentation, self-esteem, and social network site use**](https://www.sciencedirect.com/science/article/pii/S0001691824002191?utm_source=chatgpt.com) — Ibrahim, F., Herzberg, P. Y. & Stöven, L. M. (2024), _Acta Psychologica_.  
 - [**LinkedIn triggers feelings of imposter syndrome**](https://www.ed.ac.uk/news/2023/linkedin-triggers-feelings-of-imposter-syndrome?utm_source=chatgpt.com) — University of Edinburgh (2023), _University of Edinburgh News_.  
----
-
-## Navigation
-
-**Layer:** Consequence — persistent self-doubt amplified by structural comparison with others' curated successes
-
-**Cause:** [[Comparison Culture]] · [[Highlight Reel]]
-**Mechanism:** [[Personal Branding]] · [[Hustle Culture]]
-**Consequence:** [[Doom Spending]] · [[Hustle Culture]]
-**Reaction:** [[JOMO]] · [[Digital Detox]]
-
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

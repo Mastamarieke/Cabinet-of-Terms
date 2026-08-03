@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Roblox** makes visible how a platform name can function as camouflage. "**Roblox**" conveys nothing about currency, social networking, or access risk. Once you know what the platform is — all of it — the parental conversation about "are you playing **Roblox**?" sounds different.
 
-**Related terms:** [[Robux]] · [[Online Grooming]] · [[Predatory Design]] · [[Gaming Disorder]] · [[Screen Time]]
+**Related terms:** [[Robux]] · [[Online Grooming]] · [[Predatory Design]] · [[Gaming Disorder]] · [[Screen Time]] · [[Brussels Effect]] · [[Gamification Creep]]
 
 
 ---
@@ -41,16 +41,5 @@ related_reaction:
 - [Roblox: Why children are obsessed — and why parents should be worried](https://www.bbc.com/news/technology-48450604) — Kelion, L. (2019). _BBC News_ ([bbc.com](https://www.bbc.com/news/technology-48450604?utm_source=chatgpt.com))
 - [Age Appropriate Design: A Code of Practice for Online Services](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/childrens-information/childrens-code-guidance-and-resources/) — ICO (2021)
 - [Leveling Up Together: Fostering Positive Growth and Safe Online Spaces for Teen Roblox Developers](https://arxiv.org/abs/2502.18120) — Choi, Y., Choi, J. & Seering, J. (2025). _arXiv_
-
----
-
-## Navigation
-
-**Layer:** Cause — a children's platform whose name conceals its function as currency system, social network, and grooming vector
-
-**Cause:** [[Predatory Design]] · [[Gamification Creep]]
-**Mechanism:** [[Robux]] · [[Online Grooming]]
-**Consequence:** [[Gaming Disorder]] · [[Online Grooming]]
-**Reaction:** [[Brussels Effect]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

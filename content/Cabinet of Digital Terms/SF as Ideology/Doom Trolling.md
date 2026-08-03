@@ -36,7 +36,7 @@ The pattern extends beyond any individual statement. When one lab claims existen
 
 The stakes of the confusion are concrete: doom trolling monopolises attention on speculative future dangers while directing it away from present structural harms — algorithmic bias, surveillance infrastructure, labour displacement, energy consumption. The existential AI that might arrive in ten years displaces the [[Surveillance Capitalism]] that is operating right now. Once you can name doom trolling as a strategy, the question changes from *is the doom probable?* to *who needs you to believe it is?*
 
-**Related terms:** [[Doomerism]] · [[Longtermism]] · [[The Singularity]] · [[AGI]] · [[Mimetic Desire]] · [[Digital Frankenstein]] · [[Surveillance Capitalism]] · [[Skynet]]
+**Related terms:** [[Doomerism]] · [[Longtermism]] · [[The Singularity]] · [[AGI]] · [[Mimetic Desire]] · [[Digital Frankenstein]] · [[Surveillance Capitalism]] · [[Skynet]] · [[AI Literacy]]
 
 ---
 **Read more:**
@@ -46,15 +46,5 @@ The stakes of the confusion are concrete: doom trolling monopolises attention on
 - The AI Industry Must Stop Doom Trolling — **Zitron, E.** (2026). *Better Offline Podcast*
 - Cal Newport: AI Labs' Doom Rhetoric Is Morally Indefensible — **AI Weekly** (2026)
 - Feeding the Doom Trolls Comes at a Cost — **Johnson, E.B.** (2024). *Medium*
-
----
-
-## Navigation
-
-**Layer:** Mechanism — self-generated speculative fiction deployed as a market instrument
-
-**Cause:** [[Longtermism]] · [[The Singularity]]
-**Mechanism:** [[AGI]] · [[Doomerism]]
-**Reaction:** [[AI Literacy]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

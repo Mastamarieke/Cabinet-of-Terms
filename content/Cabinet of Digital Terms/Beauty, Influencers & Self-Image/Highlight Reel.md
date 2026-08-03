@@ -32,23 +32,12 @@ related_reaction:
 
 **Why This Matters:** The **highlight reel** is not a lie. It is a selection. Once you know that everyone's feed is a selection, the gap between their life and yours becomes a gap between two curations — not between their reality and yours. [[Virtual Influencer]] is the endpoint of this logic: when the entire persona is designed, there is no reality underneath the selection to begin with.
 
-**Related terms:** [[Curated Life]] · [[Comparison Culture]] · [[Influencer]] · [[Beauty Filter]] · [[Body Dysmorphic Disorder]] · [[Virtual Influencer]]
+**Related terms:** [[Curated Life]] · [[Comparison Culture]] · [[Influencer]] · [[Beauty Filter]] · [[Body Dysmorphic Disorder]] · [[Virtual Influencer]] · [[Deinfluencing]] · [[Recommender Systems]]
 
 
 ---
 **Read more:**
 - [A theory of social comparison processes](https://journals.sagepub.com/doi/10.1177/001872675400700202) — Festinger, L. (1954). *Human Relations*
 - [Social Comparison, Social Media, and Self-Evaluation](https://www.researchgate.net/publication/275507421_Social_comparison_social_media_and_self-esteem) — Vogel, E.A. et al. (2014). *Journal of Social and Personal Relationships*
-
----
-
-## Navigation
-
-**Layer:** Mechanism — the selective presentation of life that makes idealised living the default visible standard
-
-**Cause:** [[Comparison Culture]] · [[Recommender Systems]]
-**Mechanism:** [[Curated Life]] · [[Influencer]]
-**Consequence:** [[Body Dysmorphic Disorder]] · [[Comparison Culture]]
-**Reaction:** [[Deinfluencing]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

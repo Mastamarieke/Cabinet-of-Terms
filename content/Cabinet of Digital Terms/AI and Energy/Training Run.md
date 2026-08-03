@@ -31,24 +31,12 @@ related_reaction:
 
 **Why This Matters:** The **training run** makes visible a structural asymmetry: cost is concentrated in place and time, benefit is diffuse and global. "A new model was released today" becomes a different kind of sentence once you know what it cost.
 
-**Related terms:** [[AI Energy Consumption]] · [[Carbon Footprint of AI]] · [[Inference Cost]] · [[Externalized Costs]] · [[Sacrifice Zones]]
+**Related terms:** [[AI Energy Consumption]] · [[Carbon Footprint of AI]] · [[Inference Cost]] · [[Externalized Costs]] · [[Sacrifice Zones]] · [[Digital Colonialism]] · [[Greenwashing]]
 
 
 ---
 **Read more:**
   -[Energy and Policy Considerations for Deep Learning in NLP](https://arxiv.org/abs/1906.02243) — Strubell, Ganesh & McCallum (2019), ACL
   -[Carbon Emissions and Large Neural Network Training](https://arxiv.org/abs/2104.10350) — Patterson, D. et al. (2021). *arXiv*
-
-
----
-
-## Navigation
-
-**Layer:** Cause — the foundational, one-time event that generates the majority of an AI model's total emissions
-
-**Cause:** [[AI Energy Consumption]]
-**Mechanism:** [[Carbon Footprint of AI]] · [[Externalized Costs]]
-**Consequence:** [[Sacrifice Zones]] · [[Digital Colonialism]]
-**Reaction:** [[Greenwashing]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

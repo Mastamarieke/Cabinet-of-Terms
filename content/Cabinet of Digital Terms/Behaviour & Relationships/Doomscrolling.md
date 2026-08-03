@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Doomscrolling** makes visible the gap between a behaviour and its cause. The scrolling feels like a personal failure of self-control. The design is what makes stopping harder than continuing.
 
-**Related terms:** [[Recommender Systems]] · [[Dopamine Feedback Loops]] · [[Cognitive Surrender]] · [[Technostress]] · [[JOMO]]
+**Related terms:** [[Recommender Systems]] · [[Dopamine Feedback Loops]] · [[Cognitive Surrender]] · [[Technostress]] · [[JOMO]] · [[Attention Economy]] · [[Brain Rot]] · [[Digital Detox]]
 
 
 ---
@@ -42,16 +42,5 @@ related_reaction:
 - [Digital Newsreport 2022](https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2022) — Reuters Institute Digital News Report (2022)
 - [A Prehistory of Doomscrolling](https://hiddenfrequencies.alexwright.com/p/a-prehistory-of-doomscrolling) — Wright, A. (2025)
 - [@ahSHEEK](https://x.com/ahSHEEK) — Siddique, A. (8 October 2018), early documented use of "doomscrolling"
-
----
-
-## Navigation
-
-**Layer:** Consequence — compulsive negative content consumption in a platform environment designed to make stopping harder than continuing
-
-**Cause:** [[Dopamine Feedback Loops]] · [[Recommender Systems]]
-**Mechanism:** [[Cognitive Surrender]] · [[Attention Economy]]
-**Consequence:** [[Technostress]] · [[Brain Rot]]
-**Reaction:** [[JOMO]] · [[Digital Detox]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

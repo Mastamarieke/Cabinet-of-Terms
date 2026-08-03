@@ -34,7 +34,7 @@ related_reaction:
 
 **Why This Matters:** **Financial fabulism** names the genre that makes ordinary accountability metrics inapplicable to certain companies and individuals. Once you see it as a genre with conventions, you can ask: what would this claim look like in a standard financial disclosure? The gap between those two descriptions is the measure of the fabulism.
 
-**Related terms:** [[Grifters]] · [[Memecoin]] · [[Techno King]] · [[Muskism]]
+**Related terms:** [[Grifters]] · [[Memecoin]] · [[Techno King]] · [[Muskism]] · [[Broligarchy]] · [[Fact Checker]] · [[Technofeudalism]]
 
 
 ---
@@ -45,16 +45,5 @@ related_reaction:
 - [Bad Blood: Secrets and Lies in a Silicon Valley Startup](https://www.penguinrandomhouse.com/books/549478/bad-blood-by-john-carreyrou/) — Carreyrou, J. (2018). _Knopf_ 
 - [The Cult of We](https://www.penguinrandomhouse.com/books/645810/the-cult-of-we-by-eliot-brown-and-maureen-farrell/) — Brown, E. & Farrell, M. (2021). _Crown_
 - [Why is anyone listening to Tim O’Reilly?](https://theoutline.com/post/2413/why-is-anyone-listening-to-tim-o-reilly) — _The Outline_ (2017). 
-
----
-
-## Navigation
-
-**Layer:** Mechanism — a genre of corporate communication in which future value claims systematically exceed verifiable present reality
-
-**Cause:** [[Muskism]] · [[Broligarchy]]
-**Mechanism:** [[Techno King]] · [[Grifters]]
-**Consequence:** [[Technofeudalism]] · [[Memecoin]]
-**Reaction:** [[Fact Checker]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

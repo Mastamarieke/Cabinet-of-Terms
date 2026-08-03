@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Nomophobia** makes visible the difference between useful tool and structural dependency. Once you see the design choices that produced the anxiety, "I can't be without my phone" becomes a different kind of sentence.
 
-**Related terms:** [[Phantom Vibration Syndrome]] · [[Predatory Design]] · [[Dopamine Feedback Loops]] · [[Technostress]] · [[Digital Detox]]
+**Related terms:** [[Phantom Vibration Syndrome]] · [[Predatory Design]] · [[Dopamine Feedback Loops]] · [[Technostress]] · [[Digital Detox]] · [[AI Dependency]] · [[Cognitive Surrender]] · [[JOMO]]
 
 
 ---
@@ -41,16 +41,5 @@ related_reaction:
 - [Exploring the dimensions of nomophobia: Development and validation of a self-reported questionnaire](https://www.sciencedirect.com/science/article/abs/pii/S0747563215001806) — Yildirim, C. & Correia, A.P. (2015). *Computers in Human Behavior, Volume 49 *
 - [Nomophobia: Is the Fear of Being Without a Smartphone Associated with Problematic Use?](https://pubmed.ncbi.nlm.nih.gov/32824979/)— Kaviani, M., Mousavi, S. A., et al. (2020). _International Journal of Environmental Research and Public Health, 17_(15), 5496.
 - [Ik gooide mijn iPhone in de wc en ontdekte dat ik 'm helemaal niet nodig had](https://decorrespondent.nl/17010/ik-gooide-mijn-iphone-in-de-wc-en-ontdekte-dat-ik-m-helemaal-niet-nodig-had/35419aa5-e5f7-0880-1e4b-f5a8915e0c53) — Bakker, L. (2026). *De Correspondent*
-
----
-
-## Navigation
-
-**Layer:** Consequence — anxiety produced by smartphone absence, cultivated by dependency design
-
-**Cause:** [[Predatory Design]] · [[Dopamine Feedback Loops]]
-**Mechanism:** [[Phantom Vibration Syndrome]] · [[AI Dependency]]
-**Consequence:** [[Technostress]] · [[Cognitive Surrender]]
-**Reaction:** [[Digital Detox]] · [[JOMO]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

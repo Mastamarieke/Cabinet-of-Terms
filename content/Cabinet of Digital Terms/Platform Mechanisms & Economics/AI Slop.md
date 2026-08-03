@@ -32,22 +32,11 @@ related_reaction:
 
 **Why This Matters:** **AI slop** is not a temporary problem. It is the predictable outcome of making content production free and fast. Once you know the term, the question to ask of any piece of content is not just *is this true* but *was this made by someone who thought about it*.
 
-**Related terms:** [[Synthetic Generation]] · [[Slopification]] · [[Age of Average]] · [[Recommender Systems]] · [[AI Literacy]]
+**Related terms:** [[Synthetic Generation]] · [[Slopification]] · [[Age of Average]] · [[Recommender Systems]] · [[AI Literacy]] · [[AI Dependency]] · [[Deskilling]]
 
 
 ---
 **Read more:**
 - [Slop is the new name for unwanted AI-generated content](https://simonwillison.net/2024/May/8/slop/) — Willison, S. (2024). _Simon Willison’s Weblog_
 - [On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?](https://dl.acm.org/doi/10.1145/3442188.3445922) — Bender, E.M., Gebru, T., McMillan-Major, A. & Shmitchell, S. (2021). _Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency_
----
-
-## Navigation
-
-**Layer:** Consequence — low-quality AI-generated content flooding information environments
-
-**Cause:** [[Synthetic Generation]] · [[AI Dependency]]
-**Mechanism:** [[Recommender Systems]] · [[Slopification]]
-**Consequence:** [[Age of Average]] · [[Deskilling]]
-**Reaction:** [[AI Literacy]]
-
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

@@ -31,23 +31,12 @@ related_reaction:
 
 **Why This Matters:** **Digital colonialism** asks where the infrastructure lives and who benefits. Once you know the term, "cloud" stops being a neutral metaphor. Clouds are in specific places, drawing on specific resources, chosen for reasons that have everything to do with power.
 
-**Related terms:** [[AI Energy Consumption]] · [[Sacrifice Zones]] · [[Externalized Costs]] · [[Data Center Water Consumption]] · [[Greenwashing]]
+**Related terms:** [[AI Energy Consumption]] · [[Sacrifice Zones]] · [[Externalized Costs]] · [[Data Center Water Consumption]] · [[Greenwashing]] · [[Training Run]]
 
 
 ---
 **Read more:**
 - [The Costs of Connection](https://doi.org/10.1515/9781503609754) — Couldry, N., & Mejias, U. A. (2019). *Stanford University Press*
 - [Making AI Less Thirsty](https://arxiv.org/abs/2304.03271) — Li, P. et al. (2023). *arXiv*
-
----
-
-## Navigation
-
-**Layer:** Consequence — the geopolitical asymmetry produced when AI infrastructure extracts local resources without local benefit
-
-**Cause:** [[AI Energy Consumption]] · [[Training Run]]
-**Mechanism:** [[Externalized Costs]] · [[Data Center Water Consumption]]
-**Consequence:** [[Sacrifice Zones]]
-**Reaction:** [[Greenwashing]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

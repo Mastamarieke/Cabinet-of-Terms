@@ -33,23 +33,12 @@ related_reaction:
 
 **Why This Matters:** **Externalized costs** make visible the structural relationship between price and harm. The AI service that appears free is internalising only a fraction of its actual cost. Once you know to ask *who is paying the rest*, the market price of a technology becomes one figure among several — and not the most important one.
 
-**Related terms:** [[AI Energy Consumption]] · [[Carbon Footprint of AI]] · [[Sacrifice Zones]] · [[Digital Colonialism]] · [[Greenwashing]]
+**Related terms:** [[AI Energy Consumption]] · [[Carbon Footprint of AI]] · [[Sacrifice Zones]] · [[Digital Colonialism]] · [[Greenwashing]] · [[Data Center Water Consumption]] · [[Inference Cost]] · [[Training Run]]
 
 
 ---
 **Read more:**
 - [Atlas of AI](https://yalebooks.yale.edu/book/9780300264630/atlas-of-ai/) — Crawford, K. (2021). *Yale University Press*
 - [The growing energy footprint of artificial intelligence](https://doi.org/10.1016/j.joule.2023.09.004) — de Vries, A. (2023). *Joule*
-
----
-
-## Navigation
-
-**Layer:** Mechanism — the economic process through which AI's environmental costs are transferred from companies to communities
-
-**Cause:** [[AI Energy Consumption]] · [[Training Run]] · [[Inference Cost]]
-**Mechanism:** [[Carbon Footprint of AI]] · [[Data Center Water Consumption]]
-**Consequence:** [[Sacrifice Zones]] · [[Digital Colonialism]]
-**Reaction:** [[Greenwashing]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

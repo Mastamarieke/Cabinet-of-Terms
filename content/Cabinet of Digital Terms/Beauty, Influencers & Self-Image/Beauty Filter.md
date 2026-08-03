@@ -32,23 +32,12 @@ related_reaction:
 
 **Why This Matters:** Beauty filters make the unfiltered face into a problem that needs solving. Once you know that, "what do I actually look like?" becomes a harder question than it should be.
 
-**Related terms:** [[Clean Girl Aesthetic]] · [[Comparison Culture]] · [[Highlight Reel]] · [[Body Dysmorphic Disorder]] · [[Deinfluencing]]
+**Related terms:** [[Clean Girl Aesthetic]] · [[Comparison Culture]] · [[Highlight Reel]] · [[Body Dysmorphic Disorder]] · [[Deinfluencing]] · [[Recommender Systems]]
 
 
 ---
 **Read more:**
 - [Is "Snapchat Dysmorphia" a Real Issue?](https://doi.org/10.7759/cureus.2263) — Ramphul, K. & Mejias, S. (2018). *Cureus*
 - [Social Comparison, Social Media, and Self-Esteem](https://www.researchgate.net/publication/275507421_Social_comparison_social_media_and_self-esteem) — Vogel, E.A. et al. (2014). *Journal of Social and Personal Relationships*
-
----
-
-## Navigation
-
-**Layer:** Cause — software that produces a daily gap between screen appearance and mirror appearance
-
-**Cause:** [[Comparison Culture]] · [[Recommender Systems]]
-**Mechanism:** [[Clean Girl Aesthetic]] · [[Highlight Reel]]
-**Consequence:** [[Body Dysmorphic Disorder]] · [[Comparison Culture]]
-**Reaction:** [[Deinfluencing]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

@@ -32,7 +32,7 @@ related_reaction:
 
 **Why This Matters:** **Dual-use technology** names the structural porosity of the civilian/military distinction in advanced technology. Once you see it, "this is a civilian product" is not a sufficient answer to the question of what it enables. The follow-up question is always: by whom, and to what end?
 
-**Related terms:** [[Digital-Military-Industrial Complex]] · [[Military-Industrial Complex]] · [[Revolving Door]] · [["I could definitely see it."]]
+**Related terms:** [[Digital-Military-Industrial Complex]] · [[Military-Industrial Complex]] · [[Revolving Door]] · [["I could definitely see it."]] · [[Brussels Effect]] · [[Reconstruction Economy]] · [[Red Teamer]]
 
 
 ---
@@ -42,16 +42,5 @@ related_reaction:
 - [The European Union Updates Its Control List of Dual-Use Items: Focus on Emerging Technologies](https://www.entropy.law/en/articles-en/the-european-union-updates-its-control-list-of-dual-use-items-focus-on-emerging-technologies) — Pitet, J. (2025). _Entropy Law_ — on emerging technologies treated as simultaneously civilian and security-sensitive under EU export controls
 - [2025 Update of the EU Control List of Dual-Use Items](https://policy.trade.ec.europa.eu/news/2025-update-eu-control-list-dual-use-items-2025-09-08_en) — European Commission (2025). _Directorate-General for Trade and Economic Security_ — on updated EU export controls for dual-use technologies including quantum systems, semiconductors, advanced computing, biotechnology, and AI-related infrastructure
 - [All the Ways Big Tech Fuels ICE and CBP](https://www.wired.com/story/how-big-tech-is-powering-trumps-immigration-crackdown/) — _Wired_ (2026). — on cloud infrastructure, Palantir, data integration, and AI systems supporting immigration enforcement
-
----
-
-## Navigation
-
-**Layer:** Mechanism — the structural inseparability of civilian and military applications in advanced technology
-
-**Cause:** [[Military-Industrial Complex]] · [[Digital-Military-Industrial Complex]]
-**Mechanism:** [[Revolving Door]]
-**Consequence:** [[Digital-Military-Industrial Complex]] · [[Reconstruction Economy]]
-**Reaction:** [[Brussels Effect]] · [[Red Teamer]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

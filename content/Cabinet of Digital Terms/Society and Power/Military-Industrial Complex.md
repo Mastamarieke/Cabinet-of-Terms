@@ -35,7 +35,7 @@ related_reaction:
 
 **Why This Matters:** **Military-industrial complex** names a structural entanglement that persists regardless of the intentions of its participants. Eisenhower's point was not that the participants are corrupt but that the structure produces systematic pressure. Once you see the structure, individual decisions become legible as responses to incentives that are not primarily strategic.
 
-**Related terms:** [[Digital-Military-Industrial Complex]] · [[Revolving Door]] · [[Reconstruction Economy]] · [[Dual-Use Technology]] · [[Situated Knowledge]]
+**Related terms:** [[Digital-Military-Industrial Complex]] · [[Revolving Door]] · [[Reconstruction Economy]] · [[Dual-Use Technology]] · [[Situated Knowledge]] · [[Brussels Effect]]
 
 
 ---
@@ -49,16 +49,5 @@ related_reaction:
 - [Cloud Empires](https://mitpress.mit.edu/9780262047227/cloud-empires/) — Vonderau, P. (2023). _MIT Press_ 
 - [The Age of Surveillance Capitalism](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003320609-27/age-surveillance-capitalism-shoshana-zuboff) — Zuboff, S. (2023). 
  
-
----
-
-## Navigation
-
-**Layer:** Cause — the structural entanglement of military demand, defence industry supply, and political power
-
-**Cause:** [[Reconstruction Economy]] · [[Dual-Use Technology]]
-**Mechanism:** [[Revolving Door]] · [[Digital-Military-Industrial Complex]]
-**Consequence:** [[Digital-Military-Industrial Complex]] · [[Reconstruction Economy]]
-**Reaction:** [[Brussels Effect]] · [[Situated Knowledge]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

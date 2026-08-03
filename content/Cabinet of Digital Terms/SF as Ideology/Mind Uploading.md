@@ -33,23 +33,12 @@ related_reaction:
 
 **Why This Matters:** **Mind uploading** makes visible how SF ideas enter serious discourse as aspirations rather than proposals — without the scrutiny that policy proposals require. Once you ask who would have access and at what cost, the universalist framing of "humanity transcending death" becomes legible as a class project.
 
-**Related terms:** [[Transhumanism]] · [[Neuralink]] · [[Brain-Computer Interface]] · [[The Singularity]] · [[Longtermism]]
+**Related terms:** [[Transhumanism]] · [[Neuralink]] · [[Brain-Computer Interface]] · [[The Singularity]] · [[Longtermism]] · [[Cyberfeminism]] · [[Fortress Futurism]] · [[Situated Knowledge]]
 
 
 ---
 **Read more:**
 - [Mind Children](https://www.hup.harvard.edu/catalog.php?isbn=9780674576186) — Moravec, H. (1988). *Harvard University Press*
 - [The Conscious Mind](https://global.oup.com/academic/product/the-conscious-mind-9780195117899) — Chalmers, D.J. (1996). *Oxford University Press*
-
----
-
-## Navigation
-
-**Layer:** Mechanism — the aspiration to digital consciousness preservation, where philosophical coherence is assumed rather than established
-
-**Cause:** [[Transhumanism]] · [[Brain-Computer Interface]]
-**Mechanism:** [[Neuralink]] · [[The Singularity]]
-**Consequence:** [[Longtermism]] · [[Fortress Futurism]]
-**Reaction:** [[Situated Knowledge]] · [[Cyberfeminism]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

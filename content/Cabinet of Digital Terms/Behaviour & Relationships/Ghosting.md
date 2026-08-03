@@ -31,23 +31,12 @@ related_reaction:
 
 **Why This Matters:** **Ghosting** makes visible what platform architecture does to the social norms around endings. The absence of friction in digital communication removes the friction that makes difficult conversations happen.
 
-**Related terms:** [[Breadcrumbing]] · [[Orbiting]] · [[Phatic Interaction]] · [[Catfishing]] · [[JOMO]]
+**Related terms:** [[Breadcrumbing]] · [[Orbiting]] · [[Phatic Interaction]] · [[Catfishing]] · [[JOMO]] · [[Attention Economy]] · [[Predatory Design]]
 
 
 ---
 **Read more:**
 - [Ghosting in Emerging Adults' Romantic Relationships](https://www.researchgate.net/publication/330235766_Ghosting_in_Emerging_Adults'_Romantic_Relationships_The_Digital_Dissolution_Disappearance_Strategy) — LeFebvre, L. E., Allen, M., Rasner, R. D., Garstad, S., & Wilms, A. (2019). _Imagination, Cognition and Personality, 38_(4).|
 - [Ghosting and destiny](http://static1.1.sqspcdn.com/static/f/984219/27801907/1516117830787/Freedman_Powell_Le_Williams_JSPR_In_Press.pdf) — Freedman, G., Powell, D. N., Le, B., & Williams, K. D. (2019). _Journal of Social and Personal Relationships, 36_(3), 905–924.|
-
----
-
-## Navigation
-
-**Layer:** Mechanism — relationship dissolution through sustained non-response, enabled by digital communication infrastructure
-
-**Cause:** [[Predatory Design]] · [[Attention Economy]]
-**Mechanism:** [[Breadcrumbing]] · [[Orbiting]]
-**Consequence:** [[Phatic Interaction]]
-**Reaction:** [[JOMO]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

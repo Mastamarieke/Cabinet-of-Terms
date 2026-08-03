@@ -32,23 +32,12 @@ related_reaction:
 
 **Why This Matters:** **Obfuscation** makes visible that opacity is a choice with a direction — it protects someone from someone else. Once you ask who is being protected from whom by any given opacity, the politics of the system becomes legible.
 
-**Related terms:** [[Black Box]] · [[Dark Patterns]] · [[Privacy Washing]] · [[Surveillance Capitalism]] · [[Unblackboxing]]
+**Related terms:** [[Black Box]] · [[Dark Patterns]] · [[Privacy Washing]] · [[Surveillance Capitalism]] · [[Unblackboxing]] · [[Algorithmic Violence]] · [[Vendor Lock-in]]
 
 
 ---
 **Read more:**
 - [Obfuscation: A User's Guide for Privacy and Protest](https://mitpress.mit.edu/9780262529860/) — Brunton, F. & Nissenbaum, H. (2015). *MIT Press*
 - [The Black Box Society: The Secret Algorithms That Control Money and Information](https://www.hup.harvard.edu/books/9780674970847) — Pasquale, F. (2015). _Harvard University Press_
-
----
-
-## Navigation
-
-**Layer:** Mechanism — deliberate opacity, deployed by powerful actors to evade accountability and potentially by less powerful actors to evade surveillance
-
-**Cause:** [[Black Box]] · [[Surveillance Capitalism]]
-**Mechanism:** [[Dark Patterns]] · [[Privacy Washing]]
-**Consequence:** [[Algorithmic Violence]] · [[Vendor Lock-in]]
-**Reaction:** [[Unblackboxing]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

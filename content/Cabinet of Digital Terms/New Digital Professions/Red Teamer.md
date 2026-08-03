@@ -31,23 +31,12 @@ related_reaction:
 
 **Why This Matters:** **Red teamer** makes visible the tension between safety and deployment speed that AI development routinely navigates. The profession's structural compromise — hired by the company to find the company's failures — is not incidental. It is a design choice with consequences.
 
-**Related terms:** [[Prompt Engineer]] · [[AI Dependency]] · [[Black Box]] · [[VSD (Value Sensitive Design)]]
+**Related terms:** [[Prompt Engineer]] · [[AI Dependency]] · [[Black Box]] · [[VSD (Value Sensitive Design)]] · [[AI Literacy]] · [[Dark Patterns]]
 
 
 ---
 **Read more:**
 - [Red Teaming Language Models to Reduce Harms: # Methods, Scaling Behaviors, and Lessons Learned](https://arxiv.org/abs/2209.07858) — Ganguli, D. et al. (2022). *arXiv / Anthropic*
 - [Sociotechnical Safety Evaluation of Generative AI Systems](https://doi.org/10.48550/arXiv.2310.11986) — Weidinger, L. et al. (2023). *arXiv / DeepMind*
-
----
-
-## Navigation
-
-**Layer:** Mechanism — adversarial system testing whose value depends on independence that employment compromises
-
-**Cause:** [[AI Dependency]] · [[Dark Patterns]]
-**Mechanism:** [[Prompt Engineer]]
-**Consequence:** [[AI Dependency]]
-**Reaction:** [[AI Literacy]] · [[VSD (Value Sensitive Design)]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

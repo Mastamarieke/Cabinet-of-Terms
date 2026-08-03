@@ -37,15 +37,4 @@ related_reaction:
 **Read more:**
 - [Ghost Work: How to Stop Silicon Valley from Building a New Global Underclass](https://books.google.com/books/about/Ghost_Work.html?id=8AmXDwAAQBAJ) — Gray & Suri (2019), *Houghton Mifflin Harcourt
 - [The Costs of Connection](https://www.sup.org/books/sociology/costs-connection) — Couldry & Mejias (2019), *Stanford University Press
----
-
-## Navigation
-
-**Layer:** Consequence — the structural erosion of independent capacity produced by sustained AI tool integration
-
-**Cause:** [[Cognitive Offloading]] · [[Sycophancy (AI)]]
-**Mechanism:** [[Deskilling]] · [[AI Hallucination]]
-**Consequence:** [[Deskilling]]
-**Reaction:** [[AI Literacy]]
-
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

@@ -33,23 +33,12 @@ related_reaction:
 
 **Why This Matters:** **Gooner** makes visible how a clinical phenomenon (compulsive dissociated consumption) can be named, shared, and made into identity — and how irony is the mechanism that enables the transition from pathology to subcultural vocabulary.
 
-**Related terms:** [[Dopamine Feedback Loops]] · [[Gaming Disorder]] · [[Cognitive Surrender]] · [[Crash-out]] · [[Brain Rot]]
+**Related terms:** [[Dopamine Feedback Loops]] · [[Gaming Disorder]] · [[Cognitive Surrender]] · [[Crash-out]] · [[Brain Rot]] · [[AI Literacy]] · [[Attention Economy]] · [[JOMO]] · [[Looksmaxxing]]
 
 
 ---
 **Read more:**
 - [Hooked: How to Build Habit-Forming Products](https://www.penguinrandomhouse.com/books/220876/hooked-by-nir-eyal/) — Eyal, N. (2014). *Portfolio* — on the designed compulsion loop
 - [Irony and Outrage](https://global.oup.com/academic/product/irony-and-outrage-9780190913083) — Young, D. (2019). *Oxford University Press* — on irony as political and social register
-
----
-
-## Navigation
-
-**Layer:** Mechanism — compulsive fixation named, shared, and made into subcultural identity through ironic register
-
-**Cause:** [[Dopamine Feedback Loops]] · [[Attention Economy]]
-**Mechanism:** [[Looksmaxxing]] · [[Gaming Disorder]]
-**Consequence:** [[Gaming Disorder]] · [[Cognitive Surrender]]
-**Reaction:** [[AI Literacy]] · [[JOMO]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

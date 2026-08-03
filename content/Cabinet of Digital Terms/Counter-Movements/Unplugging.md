@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Unplugging** makes visible the asymmetry between presence and absence on platforms. The platform penalises absence. The resistance to that penalty is itself captured as content. The loop closes before you have left the room.
 
-**Related terms:** [[Digital Detox]] · [[Slow Media]] · [[Tech-Free Challenge]] · [[JOMO]] · [[Attention Economy]] · [[Predatory Design]]
+**Related terms:** [[Digital Detox]] · [[Slow Media]] · [[Tech-Free Challenge]] · [[JOMO]] · [[Attention Economy]] · [[Predatory Design]] · [[Cognitive Surrender]] · [[FOMO]] · [[Mindful Scrolling]]
 
 
 ---
@@ -41,16 +41,5 @@ related_reaction:
 - [Digital detox: Media resistance and the promise of authenticity](https://www.researchgate.net/publication/333171827_Digital_detox_Media_resistance_and_the_promise_of_authenticity) — Syvertsen, T. & Enli, G. (2019). *New Media & Society*
 - [Does putting down your smartphone make you happier? the effects of restricting digital media on well-being](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11472914/) — Wilmer, H.H. et al. (2024). *PLoS ONE*
 - 
-
----
-
-## Navigation
-
-**Layer:** Reaction — deliberate disconnection that generates content and incurs platform-imposed costs
-
-**Cause:** [[Attention Economy]] · [[Predatory Design]]
-**Mechanism:** [[Digital Detox]] · [[Slow Media]]
-**Consequence:** [[FOMO]] · [[Cognitive Surrender]]
-**Reaction:** [[JOMO]] · [[Mindful Scrolling]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

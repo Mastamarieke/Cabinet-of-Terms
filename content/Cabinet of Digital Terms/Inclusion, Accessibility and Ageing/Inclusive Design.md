@@ -32,7 +32,7 @@ related_reaction:
 
 **Why This Matters:** **Inclusive design** names a principle that is counter-intuitive to most design practice: start with the hardest case, not the average case. Once you know that principle, you can ask of any design: who was the hardest user we designed for?
 
-**Related terms:** [[Accessibility]] · [[Universal Design]] · [[Digital Exclusion]] · [[Ageism (Digital)]] · [[VSD (Value Sensitive Design)]]
+**Related terms:** [[Accessibility]] · [[Universal Design]] · [[Digital Exclusion]] · [[Ageism (Digital)]] · [[VSD (Value Sensitive Design)]] · [[Digital Divide]]
 
 
 ---
@@ -42,16 +42,5 @@ related_reaction:
 - [Inclusive by Design: The Evolution of Google’s Product Design Practices](https://cases.haas.berkeley.edu/cases/inclusive-by-design-the-evolution-of-googles-product-design-practices/) — Berkeley Haas Case Series. (2025). _UC Berkeley Haas School of Business_. 
 - [The Value of Inclusive and Equitable Practices in Product Design](https://haas.berkeley.edu/wp-content/uploads/Inclusive-and-Equitable-Product-Design.pdf) — UC Berkeley Center for Equity, Gender & Leadership. (2024). _Berkeley Haas_. 
 - [Microsoft Inclusive Design](https://inclusive.microsoft.design/) — Microsoft. (n.d.). _Microsoft Inclusive Design Toolkit_.
-
----
-
-## Navigation
-
-**Layer:** Reaction — a design methodology that starts from excluded users to produce better products for everyone
-
-**Cause:** [[Digital Exclusion]] · [[Ageism (Digital)]]
-**Mechanism:** [[Universal Design]] · [[Accessibility]]
-**Consequence:** [[Digital Divide]]
-**Reaction:** [[VSD (Value Sensitive Design)]] · [[Universal Design]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

@@ -32,7 +32,7 @@ related_reaction:
 
 **Why This Matters:** **Synthetic generation** changes a basic assumption of digital culture: that seeing or hearing something is evidence that it really happened. As AI-generated content becomes more realistic, the line between authentic and artificial media becomes harder to verify. The danger is not a single dramatic collapse of trust, but a gradual erosion of confidence in digital information itself.
 
-**Related terms:** [[Bot Farms]] · [[AI Slop]] · [[Microtargeting]] · [[Narrative Engineering]] · [[Fact Checker]] · [[AI Literacy]]
+**Related terms:** [[Bot Farms]] · [[AI Slop]] · [[Microtargeting]] · [[Narrative Engineering]] · [[Fact Checker]] · [[AI Literacy]] · [[Age of Average]]
 
 
 ---
@@ -44,16 +44,5 @@ related_reaction:
 - [A Style-Based Generator Architecture for Generative Adversarial Networks](https://arxiv.org/abs/1812.04948) — Karras, T., Laine, S. & Aila, T. (2018). _NVIDIA / arXiv_
 - [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165) — Brown, T.B. et al. (2020). _OpenAI / NeurIPS_
 - [Deepfakes and the New Disinformation War](https://www.foreignaffairs.com/articles/world/2018-12-11/deepfakes-and-new-disinformation-war) — Chesney, R. & Citron, D.K. (2018). _Foreign Affairs_
-
----
-
-## Navigation
-
-**Layer:** Mechanism — AI production of media indistinguishable from human-produced content
-
-**Cause:** [[AI Slop]] · [[Bot Farms]]
-**Mechanism:** [[Microtargeting]]
-**Consequence:** [[AI Slop]] · [[Age of Average]]
-**Reaction:** [[AI Literacy]] · [[Fact Checker]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

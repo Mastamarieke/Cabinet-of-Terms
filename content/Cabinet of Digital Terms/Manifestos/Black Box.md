@@ -32,23 +32,12 @@ related_reaction:
 
 **Why This Matters:** **Black box** names the condition under which accountability becomes impossible. Once a consequential system is opaque, harm becomes structurally unaddressable. The demand for transparency is not a technical request — it is a political one.
 
-**Related terms:** [[Obfuscation]] · [[Unblackboxing]] · [[Algorithmic Violence]] · [[Informatics of Domination]]
+**Related terms:** [[Obfuscation]] · [[Unblackboxing]] · [[Algorithmic Violence]] · [[Informatics of Domination]] · [[AI Dependency]]
 
 
 ---
 **Read more:**
 - [The Black Box Society: The Secret Algorithms That Control Money and Information](https://www.hup.harvard.edu/books/9780674970847) — Pasquale, F. (2015). _Harvard University Press_
 - [Science in Action](https://www.hup.harvard.edu/catalog.php?isbn=9780674792913) — Latour, B. (1987). *Harvard University Press*
-
----
-
-## Navigation
-
-**Layer:** Mechanism — deliberate system opacity that makes accountability structurally impossible
-
-**Cause:** [[Obfuscation]] · [[Informatics of Domination]]
-**Mechanism:** [[Unblackboxing]] · [[Algorithmic Violence]]
-**Consequence:** [[Algorithmic Violence]] · [[AI Dependency]]
-**Reaction:** [[Unblackboxing]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

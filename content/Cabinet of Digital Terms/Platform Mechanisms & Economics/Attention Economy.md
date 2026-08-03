@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** The **attention economy** is the foundational cause of most of this cluster. Once you understand that platforms are paid for your attention rather than your satisfaction, every design choice becomes legible as a revenue decision rather than a user experience decision.
 
-**Related terms:** [[Attention Harvesting]] · [[Dopamine Feedback Loops]] · [[Recommender Systems]] · [[Surveillance Capitalism]] · [[Calm Technology]] · [[Ragebaiting]]
+**Related terms:** [[Attention Harvesting]] · [[Dopamine Feedback Loops]] · [[Recommender Systems]] · [[Surveillance Capitalism]] · [[Calm Technology]] · [[Ragebaiting]] · [[Cognitive Surrender]] · [[Digital Detox]] · [[Doomscrolling]]
 
 
 ---
@@ -43,16 +43,5 @@ related_reaction:
 - [The Attention Merchants: The Epic Scramble to Get Inside Our Heads](https://scholarship.law.columbia.edu/books/64/) — Wu, T. (2016). _Knopf_
 - [Designing Organizations for an Information-Rich World](https://zeus.zeit.de/2007/39/simon.pdf) — Simon, H.A. (1971). In M. Greenberger (Ed.), _Computers, Communication, and the Public Interest_. Johns Hopkins University Press.
   
-
----
-
-## Navigation
-
-**Layer:** Cause — the economic system in which human attention is the scarce resource being captured and sold
-
-**Cause:** [[Surveillance Capitalism]] · [[Recommender Systems]]
-**Mechanism:** [[Attention Harvesting]] · [[Dopamine Feedback Loops]]
-**Consequence:** [[Cognitive Surrender]] · [[Doomscrolling]]
-**Reaction:** [[Calm Technology]] · [[Digital Detox]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

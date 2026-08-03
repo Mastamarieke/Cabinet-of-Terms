@@ -34,7 +34,7 @@ related_reaction:
 
 **Why This Matters:** **Dopamine feedback loops** make visible that platform engagement is not incidental — it is engineered. The pull of the notification is not a personality trait. It is a designed stimulus.
 
-**Related terms:** [[Recommender Systems]] · [[Predatory Design]] · [[Attention Harvesting]] · [[Ludic Loop]] · [[Gamification Creep]] · [[Gaming Disorder]] · [[Nomophobia]]
+**Related terms:** [[Recommender Systems]] · [[Predatory Design]] · [[Attention Harvesting]] · [[Ludic Loop]] · [[Gamification Creep]] · [[Gaming Disorder]] · [[Nomophobia]] · [[Attention Economy]] · [[Calm Technology]] · [[Dark Patterns]] · [[Digital Detox]] · [[Doomscrolling]]
 
 
 ---
@@ -44,16 +44,5 @@ related_reaction:
 - [Persuasive Technology: Using Computers to Change What We Think and Do](https://www.sciencedirect.com/book/9781558606432/persuasive-technology) — Fogg, B.J. (2003). _Morgan Kaufmann_
 - [Irresistible: The Rise of Addictive Technology and the Business of Keeping Us Hooked](https://www.amazon.com/Irresistible-Addictive-Technology-Business-Keeping/dp/1594206643) — Alter, A. (2017). _Penguin Press_
 - [Big Tech maakt van burgers vee](https://www.vn.nl/op-afstand-gestuurde-mens) — Van Iperen, R. (2026). *Vrij Nederland*, 9 juli
-
----
-
-## Navigation
-
-**Layer:** Cause — variable reward schedules engineered into platforms to sustain compulsive engagement
-
-**Cause:** [[Attention Economy]] · [[Predatory Design]]
-**Mechanism:** [[Recommender Systems]] · [[Dark Patterns]]
-**Consequence:** [[Doomscrolling]] · [[Gaming Disorder]] · [[Nomophobia]]
-**Reaction:** [[Calm Technology]] · [[Digital Detox]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

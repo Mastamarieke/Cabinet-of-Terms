@@ -33,23 +33,12 @@ related_reaction:
 
 **Why This Matters:** The **curated life** makes visible what happens when self-presentation becomes continuous and public. The question is not whether curation is authentic — it is what you lose when living and presenting become the same act.
 
-**Related terms:** [[Highlight Reel]] · [[Influencer]] · [[Personal Branding]] · [[Comparison Culture]] · [[Deinfluencing]]
+**Related terms:** [[Highlight Reel]] · [[Influencer]] · [[Personal Branding]] · [[Comparison Culture]] · [[Deinfluencing]] · [[Body Dysmorphic Disorder]] · [[Digital Detox]]
 
 
 ---
 **Read more:**
 - [Alone Together](https://www.basicbooks.com/titles/sherry-turkle/alone-together/9780465093656/) — Turkle, S. (2011). *Basic Books*
 - [The Presentation of Self in Everyday Life](https://monoskop.org/images/1/19/Goffman_Erving_The_Presentation_of_Self_in_Everyday_Life.pdf) — Goffman, E. (1959). *Anchor Books*
-
----
-
-## Navigation
-
-**Layer:** Mechanism — continuous processing of lived experience for public display
-
-**Cause:** [[Comparison Culture]] · [[Influencer]]
-**Mechanism:** [[Highlight Reel]] · [[Personal Branding]]
-**Consequence:** [[Comparison Culture]] · [[Body Dysmorphic Disorder]]
-**Reaction:** [[Deinfluencing]] · [[Digital Detox]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

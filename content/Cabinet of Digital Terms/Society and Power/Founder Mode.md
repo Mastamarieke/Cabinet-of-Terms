@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Founder mode** names an ideology that makes the removal of governance look like operational excellence. Once you see the move — accountability structures framed as bureaucratic obstacles — you can identify it wherever it appears: in companies, in government agencies, and in arguments for why exceptional leaders should not be constrained by ordinary rules.
 
-**Related terms:** [[Muskism]] · [[Hubris Syndrome]] · [[Objectivism (Rand)]] · [[Broligarchy]] · [[Situated Knowledge]]
+**Related terms:** [[Muskism]] · [[Hubris Syndrome]] · [[Objectivism (Rand)]] · [[Broligarchy]] · [[Situated Knowledge]] · [[Brussels Effect]] · [[Technofascism]]
 
 
 ---
@@ -43,16 +43,5 @@ related_reaction:
 - [Airbnb CEO Brian Chesky Goes All-Out Defending “Founder Mode”](https://observer.com/2024/09/airbnbs-brian-chesky-defends-founder-mode-criticisms/) — Tremayne-Pengelly, A. (2024). _Observer_ — on Brian Chesky’s defense of “founder mode” as a hands-on leadership philosophy associated with Steve Jobs and Silicon Valley founder culture
 - [How to Amplify the Advantages of Working at a Founder-Led Company](https://sloanreview.mit.edu/article/how-to-amplify-the-advantages-of-working-at-a-founder-led-company/) — Shen, J. (2024). _MIT Sloan Management Review_ — on organisational culture, innovation, and decision-making dynamics within founder-led companies
 - [Airbnb CEO Brian Chesky on the Gospel of Steve Jobs and What Founder Mode Really Means](https://www.theverge.com/24279570/airbnb-ceo-brian-chesky-founder-mode-apple-steve-jobs-management-decoder-podcast-2024) — Patel, N. (2024). _The Verge / Decoder Podcast_ —
-
----
-
-## Navigation
-
-**Layer:** Mechanism — an ideology that frames accountability structures as managerial obstacles, legitimising their removal as operational excellence
-
-**Cause:** [[Muskism]] · [[Objectivism (Rand)]]
-**Mechanism:** [[Hubris Syndrome]] · [[Broligarchy]]
-**Consequence:** [[Hubris Syndrome]] · [[Technofascism]]
-**Reaction:** [[Brussels Effect]] · [[Situated Knowledge]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

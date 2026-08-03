@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** AGI names a threshold that everyone agrees matters and nobody agrees how to measure. Once you see that ambiguity as functional — not accidental — the race toward AGI is legible as a race to claim a prize whose rules have not been written.
 
-**Related terms:** [[The Singularity]] · [[Digital Frankenstein]] · [[Mythos Moment]] · [[Longtermism]] · [[Doomerism]]
+**Related terms:** [[The Singularity]] · [[Digital Frankenstein]] · [[Mythos Moment]] · [[Longtermism]] · [[Doomerism]] · [[AI Literacy]] · [[AI as a Utility]] · [[Red Teamer]]
 
 
 ---
@@ -46,16 +46,5 @@ related_reaction:
 - [Three Observations](https://blog.samaltman.com/three-observations) — Altman, S. (2025). _Sam Altman Blog_
 - [Position: Stop treating ‘AGI’ as the north-star goal of AI research](https://proceedings.mlr.press/v267/blili-hamelin25a.html) — Blili-Hamelin, B. et al. (2025). _Proceedings of Machine Learning Research (ICML 2025)_
 - [What is AI? We drew you a flowchart to work it out](https://www.technologyreview.com/2018/11/10/139137/is-this-ai-we-drew-you-a-flowchart-to-work-it-out/) — Karen Hao (2018). _MIT Technology Review_
-
----
-
-## Navigation
-
-**Layer:** Mechanism — a contested threshold concept whose definitional instability serves commercial and ideological purposes
-
-**Cause:** [[The Singularity]] · [[AI as a Utility]]
-**Mechanism:** [[Digital Frankenstein]] · [[Mythos Moment]]
-**Consequence:** [[Doomerism]] · [[Longtermism]]
-**Reaction:** [[AI Literacy]] · [[Red Teamer]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

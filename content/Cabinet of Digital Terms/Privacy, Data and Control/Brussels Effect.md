@@ -40,15 +40,4 @@ related_reaction:
 https://www.almendron.com/tribuna/wp-content/uploads/2018/08/the-brussels-effect.pdf) — Bradford, A. (2012). *Oxford University Press*
 - [The Brussels Effect and Artificial Intelligence: How EU regulation will impact the global AI market](https://arxiv.org/abs/2208.12645) — Siegmann, C. & Anderljung, M. (2022). _GovAI / arXiv_
 
----
-
-## Navigation
-
-**Layer:** Reaction — the mechanism by which EU regulatory standards spread globally through commercial market access logic
-
-**Cause:** [[Surveillance Capitalism]] · [[Dark Patterns]]
-**Mechanism:** [[CLOUD Act]]
-**Consequence:** [[Vendor Lock-in]]
-**Reaction:** [[Fair Patterns]]
-
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

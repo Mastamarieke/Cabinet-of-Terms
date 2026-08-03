@@ -43,15 +43,4 @@ related_reaction:
 - [Transfer of EU Personal Data to U.S. Law Enforcement Authorities After the CLOUD Act: Is There a Conflict with the GDPR?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3397047) — Christakis, T. (2019). _SSRN_
 - [EU–US negotiations on law enforcement access to data](https://academic.oup.com/idpl/article/11/2/81/6133744) — Christakis, T. (2021). _International Data Privacy Law_
 
----
-
-## Navigation
-
-**Layer:** Mechanism — US legislation that creates a structural legal conflict between US government data access requirements and EU data protection law
-
-**Cause:** [[Vendor Lock-in]] · [[Surveillance Capitalism]]
-**Mechanism:** [[Brussels Effect]] · [[Vendor Lock-in]]
-**Consequence:** [[Vendor Lock-in]] · [[Algorithmic Violence]]
-**Reaction:** [[Brussels Effect]]
-
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

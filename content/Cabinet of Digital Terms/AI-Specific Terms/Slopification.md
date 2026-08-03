@@ -32,23 +32,12 @@ related_reaction:
 
 **Why This Matters:** **Slopification** is the term that names what happens to the commons. Individual AI use is a personal decision. **Slopification** is what that decision looks like at scale, across millions of users, over time.
 
-**Related terms:** [[AI Hallucination]] · [[Synthetic Generation]] · [[Age of Average]] · [[AI Dependency]] · [[Cognitive Offloading]]
+**Related terms:** [[AI Hallucination]] · [[Synthetic Generation]] · [[Age of Average]] · [[AI Dependency]] · [[Cognitive Offloading]] · [[AI Literacy]] · [[Deskilling]]
 
 
 ---
 **Read more:**
 - [Slop](https://simonwillison.net/2024/May/8/slop/) — Willison, S. (2024). *simonwillison.net*
 - [On the Dangers of Stochastic Parrots](https://doi.org/10.1145/3442188.3445922) — Bender, E.M. et al. (2021). *ACM FAccT*
-
----
-
-## Navigation
-
-**Layer:** Consequence — the large-scale displacement of human-made content by AI-generated output
-
-**Cause:** [[AI Dependency]] · [[Cognitive Offloading]]
-**Mechanism:** [[AI Hallucination]] · [[Synthetic Generation]]
-**Consequence:** [[Deskilling]] · [[Age of Average]]
-**Reaction:** [[AI Literacy]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

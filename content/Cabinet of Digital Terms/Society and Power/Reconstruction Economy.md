@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Reconstruction economy** names the commercial interest in the perpetuation of the conditions it claims to address. Once you see the profit structure, "we are here to help rebuild" requires examination of the incentive structure behind it.
 
-**Related terms:** [[Military-Industrial Complex]] · [[Digital-Military-Industrial Complex]] · [[Revolving Door]] · [[Grifters]] · [[Financial Fabulism]]
+**Related terms:** [[Military-Industrial Complex]] · [[Digital-Military-Industrial Complex]] · [[Revolving Door]] · [[Grifters]] · [[Financial Fabulism]] · [[Brussels Effect]] · [[Situated Knowledge]] · [[Sovereignty as a Service]]
 
 
 ---
@@ -42,15 +42,4 @@ related_reaction:
 - [Disaster Capitalism](https://www.anthropolitics.org/wp-content/uploads/2019/05/Schuller-and-Maldonado-Disaster-capitalism.pdf) — Schuller, M., & Maldonado, J.K. (2016). _Annals of Anthropological Practice_ 
 - [Naomi Klein: how power profits from disaster](https://www.theguardian.com/us-news/2017/jul/06/naomi-klein-how-power-profits-from-disaster) — _The Guardian_ (2017) 
 - [Jared Kushner says Gaza’s ‘waterfront property could be very valuable’](https://www.theguardian.com/us-news/2024/mar/19/jared-kushner-gaza-waterfront-property-israel-negev) — _The Guardian_ (2024
----
-
-## Navigation
-
-**Layer:** Consequence — a commercial ecosystem structurally dependent on the continuation of the destruction it is contracted to address
-
-**Cause:** [[Military-Industrial Complex]] · [[Digital-Military-Industrial Complex]]
-**Mechanism:** [[Revolving Door]] · [[Financial Fabulism]]
-**Consequence:** [[Sovereignty as a Service]] · [[Grifters]]
-**Reaction:** [[Brussels Effect]] · [[Situated Knowledge]]
-
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

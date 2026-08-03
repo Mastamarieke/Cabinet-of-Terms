@@ -31,7 +31,7 @@ related_reaction:
 
 **Why This Matters:** **Breadcrumbing** makes visible how platform affordances enable relational ambiguity at scale. The behaviour is not new; the infrastructure that makes it frictionless is.
 
-**Related terms:** [[Ghosting]] · [[Orbiting]] · [[Dopamine Feedback Loops]] · [[Phatic Interaction]] · [[JOMO]]
+**Related terms:** [[Ghosting]] · [[Orbiting]] · [[Dopamine Feedback Loops]] · [[Phatic Interaction]] · [[JOMO]] · [[Attention Economy]]
 
 
 ---
@@ -41,15 +41,4 @@ related_reaction:
 
 
 Computers in Human Behavior
----
-
-## Navigation
-
-**Layer:** Mechanism — intermittent minimal contact that maintains emotional investment without relational commitment
-
-**Cause:** [[Attention Economy]] · [[Dopamine Feedback Loops]]
-**Mechanism:** [[Ghosting]] · [[Orbiting]]
-**Consequence:** [[Phatic Interaction]]
-**Reaction:** [[JOMO]]
-
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

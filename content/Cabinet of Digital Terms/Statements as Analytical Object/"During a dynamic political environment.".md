@@ -34,7 +34,7 @@ The controversy reflects broader concerns about ambient surveillance: wearable A
 
 **Why this sentence matters:** "Dynamic political environment" is a useful phrase to recognise across contexts. Whenever management language describes a political situation in terms of its implications for product strategy, the question to ask is: what does the neutral vocabulary conceal? The answer is usually the calculation that could not be stated plainly.
 
-**Related terms:** [[Obfuscation]] · [[Biometric Surveillance]] · [[Flood the Zone]] · [[Privacy Washing]] · [["We have never and will never sell user data."]] · [[Dual-Use Technology]]
+**Related terms:** [[Obfuscation]] · [[Biometric Surveillance]] · [[Flood the Zone]] · [[Privacy Washing]] · [["We have never and will never sell user data."]] · [[Dual-Use Technology]] · [[Brussels Effect]] · [[Surveillance Capitalism]]
 
 
 ---
@@ -42,16 +42,5 @@ The controversy reflects broader concerns about ambient surveillance: wearable A
 - [Meta surveillance plans are shockingly far-reaching](https://www.thecanary.co/uk/analysis/2026/02/16/meta-surveillance/) — Freeman, R. (2026). _The Canary_
 - [Meta plans launch of facial recognition to smart glasses in ‘dynamic political environment’](https://www.biometricupdate.com/202602/meta-plans-launch-of-facial-recognition-to-smart-glasses-in-dynamic-political-environment) — Borak, M. (2026). _Biometric Update_
 - [Obfuscation: A User's Guide for Privacy and Protest](https://mitpress.mit.edu/9780262529860/) — Brunton, F. & Nissenbaum, H. (2015). *MIT Press*
-
----
-
-## Navigation
-
-**Layer:** Mechanism — management vocabulary that recommends exploiting distracted public attention for a privacy-sensitive product launch
-
-**Cause:** [[Flood the Zone]] · [[Surveillance Capitalism]]
-**Mechanism:** [[Privacy Washing]] · [[Obfuscation]]
-**Consequence:** [[Surveillance Capitalism]] · [[Biometric Surveillance]]
-**Reaction:** [[Brussels Effect]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

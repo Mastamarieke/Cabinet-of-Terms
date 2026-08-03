@@ -34,7 +34,7 @@ McAdams is useful for _Main Character Energy_ because he frames identity as na
 
 **Why This Matters:** **Main Character Energy** makes visible the specific self-positioning that social media rewards — and the specific cost of that positioning for how people relate to others. [[Situated Knowledge]] — **Haraway**'s insistence that all perspectives are located — is the epistemological corrective: everyone is the main character of their own story, which means no one is.
 
-**Related terms:** [[Aurafarming]] · [[Personal Branding]] · [[Comparison Culture]] · [[Parasocial Relationship]] · [[Situated Knowledge]] · [[Influencer]] · [[Attention Economy]]
+**Related terms:** [[Aurafarming]] · [[Personal Branding]] · [[Comparison Culture]] · [[Parasocial Relationship]] · [[Situated Knowledge]] · [[Influencer]] · [[Attention Economy]] · [[Curated Life]] · [[JOMO]]
 
 
 ---
@@ -43,16 +43,5 @@ McAdams is useful for _Main Character Energy_ because he frames identity as na
 - [Because Internet: Understanding the New Rules of Language**](https://www.penguinrandomhouse.com/books/540664/because-internet-by-gretchen-mcculloch/?utm_source=chatgpt.com) — McCulloch, G. (2019), _Riverhead Books_.
 - [We All Have “Main-Character Energy” Now**](https://www.newyorker.com/culture/infinite-scroll/we-all-have-main-character-energy-now?utm_source=chatgpt.com) — Hess, A. (2021), _The New Yorker_.
 - [Self-branding, ‘micro-celebrity’ and the rise of Social Media Influencers**](https://www.tandfonline.com/doi/abs/10.1080/19392397.2016.1218292?utm_source=chatgpt.com) — Khamis, S., Ang, L. & Welling, R. (2017), _Celebrity Studies_.
-
----
-
-## Navigation
-
-**Layer:** Mechanism — self-positioning as narrative protagonist, intensified by social media's provision of a literal audience
-
-**Cause:** [[Attention Economy]] · [[Personal Branding]]
-**Mechanism:** [[Aurafarming]] · [[Curated Life]]
-**Consequence:** [[Comparison Culture]] · [[Parasocial Relationship]]
-**Reaction:** [[JOMO]] · [[Situated Knowledge]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

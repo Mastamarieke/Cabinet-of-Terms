@@ -33,7 +33,7 @@ related_reaction:
 
 **Waarom dit ertoe doet:** **Dataïsme** benoemt de ideologie die data-verzameling en -gebruik als politieke keuzes onzichtbaar maakt. Als je de ideologie kunt identificeren, kun je de vanzelfsprekende vragen stellen: welke data worden verzameld, door wie, ten behoeve van wie, en wat wordt er niet gemeten?
 
-**Zie ook:** [[Surveillance Capitalism]] · [[Informatics of Domination]] · [[Algorithmic Violence]] · [[Situated Knowledge]] · [[Data Brokers]]
+**Zie ook:** [[Surveillance Capitalism]] · [[Informatics of Domination]] · [[Algorithmic Violence]] · [[Situated Knowledge]] · [[Data Brokers]] · [[AI Literacy]] · [[Privacy as a Premium]]
 
 
 ---
@@ -41,15 +41,5 @@ related_reaction:
 - [Homo Deus](https://www.ynharari.com/book/homo-deus/) — Harari, Y.N. (2016). *Harvill Secker*
 - [Automating Inequality](https://us.macmillan.com/books/9781250074317/automatinginequality) — Eubanks, V. (2018). *St. Martin's Press* — on what data-driven systems miss
 
----
-
-## Navigation
-
-**Layer:** Cause — de ideologie die kwantificering gelijkstelt aan objectiviteit en de politieke dimensies van dataverzameling verbergt
-
-**Cause:** [[Surveillance Capitalism]] · [[Informatics of Domination]]
-**Mechanism:** [[Data Brokers]] · [[Algorithmic Violence]]
-**Consequence:** [[Algorithmic Violence]] · [[Privacy as a Premium]]
-**Reaction:** [[Situated Knowledge]] · [[AI Literacy]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

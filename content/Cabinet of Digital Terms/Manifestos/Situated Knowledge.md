@@ -40,15 +40,4 @@ related_reaction:
 - [Situated Knowledges](https://doi.org/10.2307/3178066) — Haraway, D. (1988). *Feminist Studies*
 - [Simians, Cyborgs, and Women](https://www.routledge.com/Simians-Cyborgs-and-Women-The-Reinvention-of-Nature/Haraway/p/book/9780415903875) — Haraway, D. (1991). *Routledge*
 
----
-
-## Navigation
-
-**Layer:** Mechanism — the epistemological claim that all knowledge is produced from a position, and that acknowledging this is rigour, not relativism
-
-**Cause:** [[Informatics of Domination]] · [[Cyborg]]
-**Mechanism:** [[Unblackboxing]] · [[Black Box]]
-**Consequence:** [[Informatics of Domination]]
-**Reaction:** [[Cyborg]] · [[Cyberfeminism]]
-
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

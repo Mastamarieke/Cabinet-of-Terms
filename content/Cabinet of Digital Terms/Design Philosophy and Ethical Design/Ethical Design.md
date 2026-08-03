@@ -47,15 +47,4 @@ Monteiro's structural observation remains the sharpest: designers who work withi
 - [Ruined by Design](https://www.ruinedby.design/) — Monteiro, M. (2019). *Self-published* — on designer moral responsibility
 - [Guiding the Future of Ethical Design](https://uxdesign.cc/guiding-the-future-of-ethical-design-796e7cc3c9b1) — Buckley, M. UX Design (2024). *Medium* — on systemic challenges to ethical practice
 
----
-
-## Navigation
-
-**Layer:** Reaction — a design practice that treats user wellbeing as a non-negotiable constraint rather than a post-hoc consideration
-
-**Cause:** [[Dark Patterns]] · [[Deceptive Design]]
-**Mechanism:** [[VSD (Value Sensitive Design)]] · [[Fair Patterns]]
-**Consequence:** [[Fair Patterns]]
-**Reaction:** [[VSD (Value Sensitive Design)]] · [[Fair Patterns]]
-
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

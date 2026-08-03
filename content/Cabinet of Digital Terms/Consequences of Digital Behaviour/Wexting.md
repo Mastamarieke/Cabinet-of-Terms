@@ -32,7 +32,7 @@ The analytical sting of **wexting** is not the behaviour itself but the policy r
 **Why This Matters**
 Once you see **wexting** infrastructure as an externalised cost of platform design, you see that the public space is quietly being redesigned around a privately owned distraction mechanism — and that no one voted for it.
 
-**Related terms:** [[Attention Harvesting]] · [[Smombie|Smombie]] · [[Dopamine Feedback Loops]]
+**Related terms:** [[Attention Harvesting]] · [[Smombie|Smombie]] · [[Dopamine Feedback Loops]] · [[Attention Economy]] · [[Technostress]]
 
 
 ---
@@ -40,20 +40,5 @@ Once you see **wexting** infrastructure as an externalised cost of platform desi
 📖 **Read more**
 - [Gait Pattern Alterations During Walking, Texting and Walking and Texting](https://pmc.ncbi.nlm.nih.gov/articles/PMC4519241/) — Licence, S. et al. (2015). *PLoS ONE*
 - [Texting and Walking: Strategies for Postural Control and Implications for Safety](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3898913/) — Licence, S. et al. (2014). *PLoS ONE*
-
----
----
-
-## Navigation
-
-**Layer:** Consequence — walking while texting; pedestrian safety; public space adapts to platform behaviour
-
-**Cause:** [[Attention Economy]] · [[Dopamine Feedback Loops]]
-**Mechanism:** [[Attention Harvesting]]
-**Consequence:** [[Technostress|Technostress]]
-**Reaction:** *—*
-
-**Public entry:** this document
-**Deep analysis:** *in production*
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

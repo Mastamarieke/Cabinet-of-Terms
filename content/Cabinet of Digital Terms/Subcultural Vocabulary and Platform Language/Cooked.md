@@ -32,23 +32,12 @@ related_reaction:
 
 **Why This Matters:** **Cooked** makes visible how one-word verdicts function in internet discourse. Once you see the finality as a rhetorical choice — not a fact — you can ask: by whose criteria, and is the reversibility actually as fixed as the word implies?
 
-**Related terms:** [[Ratio'd]] · [[Doomerism]] · [[Ragebaiting]] · [[Crash-out]]
+**Related terms:** [[Ratio'd]] · [[Doomerism]] · [[Ragebaiting]] · [[Crash-out]] · [[AI Literacy]] · [[Deplatforming]] · [[Flood the Zone]]
 
 
 ---
 **Read more:**
 - [**Slang: The People’s Poetry**](https://books.google.com/books/about/Slang.html?id=UrrCoCUiW3gC&utm_source=chatgpt.com) — Adams, M. (2009), _Oxford University Press_.  .
 - [Because Internet: Understanding the New Rules of Language**](https://www.penguinrandomhouse.com/books/540664/because-internet-by-gretchen-mcculloch/?utm_source=chatgpt.com) — McCulloch, G. (2019), _Riverhead Books / Penguin Random House_.
-
----
-
-## Navigation
-
-**Layer:** Mechanism — a one-word verdict of irreversible failure that forecloses engagement through its finality
-
-**Cause:** [[Ragebaiting]] · [[Flood the Zone]]
-**Mechanism:** [[Ratio'd]] · [[Deplatforming]]
-**Consequence:** [[Doomerism]] · [[Ratio'd]]
-**Reaction:** [[AI Literacy]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

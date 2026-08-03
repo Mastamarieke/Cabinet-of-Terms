@@ -32,23 +32,12 @@ related_reaction:
 
 **Why This Matters:** **Clean Girl Aesthetic** makes visible how "natural" is always constructed — and who gets to define what natural looks like.
 
-**Related terms:** [[That Girl]] · [[Beauty Filter]] · [[Comparison Culture]] · [[Highlight Reel]] · [[Body Dysmorphic Disorder]]
+**Related terms:** [[That Girl]] · [[Beauty Filter]] · [[Comparison Culture]] · [[Highlight Reel]] · [[Body Dysmorphic Disorder]] · [[Deinfluencing]]
 
 
 ---
 **Read more:**
 - [The Beauty Myth](https://www.harpercollins.com/products/the-beauty-myth-naomi-wolf) — Wolf, N. (1990). *HarperCollins*
 - [Aesthetic Labour](https://www.researchgate.net/publication/344782858_Aesthetic_Labour) — Warhurst, C. & Nickson, D. (2020). *Work, Employment and Society*
-
----
-
-## Navigation
-
-**Layer:** Mechanism — a beauty standard that encodes effortlessness as the most demanding performance
-
-**Cause:** [[Comparison Culture]] · [[Beauty Filter]]
-**Mechanism:** [[That Girl]] · [[Highlight Reel]]
-**Consequence:** [[Body Dysmorphic Disorder]] · [[Comparison Culture]]
-**Reaction:** [[Deinfluencing]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

@@ -33,7 +33,7 @@ Eppler and Mengis (2004) established that information overload impairs decision 
 **Why This Matters**
 Once you see **Digital Overload** as a designed condition rather than a personal productivity failure, you see that the solution is not better time management — it is different design.
 
-**Related terms:** [[Doomscrolling|Doomscrolling]] · [[Cognitive Surrender]] · [[Digital Hoarding]] · [[Technostress|Technostress]]
+**Related terms:** [[Doomscrolling|Doomscrolling]] · [[Cognitive Surrender]] · [[Digital Hoarding]] · [[Technostress|Technostress]] · [[Attention Economy]] · [[Attention Harvesting]] · [[Recommender Systems]] · [[Unblackboxing]]
 
 
 ---
@@ -41,20 +41,5 @@ Once you see **Digital Overload** as a designed condition rather than a personal
 📖 **Read more**
 - [Information Overload: An Overview](https://openaccess.city.ac.uk/id/eprint/23544/1/information%20overload%20-%20an%20overview.pdf) — Bawden, D. & Robinson, L. (2020). *Oxford Encyclopedia of Political Decision Making*
 - [The Concept of Information Overload: A Review of Literature](https://doi.org/10.1080/01972240490507974) — Eppler, M.J. & Mengis, J. (2004). *The Information Society*
-
----
----
-
-## Navigation
-
-**Layer:** Consequence — information overload from constant connectivity; overlaps with doomscrolling and cognitive surrender
-
-**Cause:** [[Attention Economy]] · [[Recommender Systems]]
-**Mechanism:** [[Doomscrolling|Doomscrolling]] · [[Attention Harvesting]]
-**Consequence:** [[Cognitive Surrender]] · [[Technostress|Technostress]]
-**Reaction:** [[Unblackboxing|Unblackboxing]]
-
-**Public entry:** this document
-**Deep analysis:** *in production*
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

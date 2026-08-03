@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Simulation hypothesis** makes visible how philosophical speculations travel into ideological territory. The argument's formal validity is real; its social function is different. Once you see the social context of the discourse, "we might be in a simulation" sounds different from its speakers' mouths.
 
-**Related terms:** [[The Matrix]] · [[Longtermism]] · [[Transhumanism]] · [[Doomerism]] · [[Situated Knowledge]]
+**Related terms:** [[The Matrix]] · [[Longtermism]] · [[Transhumanism]] · [[Doomerism]] · [[Situated Knowledge]] · [[AI Literacy]] · [[The Singularity]]
 
 
 ---
@@ -42,16 +42,5 @@ related_reaction:
 - [The Matrix](https://www.warnerbros.com/movies/matrix) — Wachowski, L. & Wachowski, L. (1999). _Warner Bros._ 
 - [Frankenstein; or, The Modern Prometheus](https://www.gutenberg.org/ebooks/84) — Shelley, M. (1818). _Lackington, Hughes, Harding, Mavor & Jones_ —
 - [Code Conference 2016: Elon Musk on the Simulation Hypothesis](https://www.youtube.com/watch?v=2KK_kzrJPS8) — Musk, E. (2016). _Vox Media Code Conference_ —
-
----
-
-## Navigation
-
-**Layer:** Mechanism — a philosophical trilemma repurposed as tech culture cosmology, with ideological functions beyond its formal content
-
-**Cause:** [[The Singularity]] · [[Transhumanism]]
-**Mechanism:** [[The Matrix]] · [[Longtermism]]
-**Consequence:** [[Doomerism]] · [[Longtermism]]
-**Reaction:** [[Situated Knowledge]] · [[AI Literacy]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

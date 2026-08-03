@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Digital-military-industrial complex** names the structural relationship that makes "tech for good" and "tech for war" the same infrastructure. Once you see the entanglement, the question of whether a technology company is a civilian or military actor becomes structurally ambiguous rather than a matter of corporate choice.
 
-**Related terms:** [[Military-Industrial Complex]] · [[Dual-Use Technology]] · [[Revolving Door]] · [[Sovereignty as a Service]] 
+**Related terms:** [[Military-Industrial Complex]] · [[Dual-Use Technology]] · [[Revolving Door]] · [[Sovereignty as a Service]]  · [[Brussels Effect]] · [[Reconstruction Economy]] · [[Situated Knowledge]] · [[Surveillance Capitalism (Political Economy)]]
 
 
 ---
@@ -46,16 +46,5 @@ related_reaction:
 - [Anthropic vs the Pentagon: Why AI firm is taking on Trump administration](https://www.aljazeera.com/news/2026/2/25/anthropic-vs-the-pentagon-why-ai-firm-is-taking-on-trump-administration) — _Al Jazeera_ (2026) 
 - [White House drafts guidance to bypass Anthropic’s risk flag](https://www.reuters.com/legal/government/white-house-drafts-guidance-bypass-anthropics-risk-flag-new-ai-models-axios-2026-04-29/) — _Reuters_ (2026) 
 - [Pentagon asks for $54bn in pivot towards AI-powered war](https://www.theguardian.com/us-news/2026/apr/22/pentagon-asks-for-54bn-in-pivot-towards-ai-powered-war) — _The Guardian_ (2026)
-
----
-
-## Navigation
-
-**Layer:** Consequence — the structural entanglement of technology companies with military and intelligence operations
-
-**Cause:** [[Military-Industrial Complex]] · [[Surveillance Capitalism (Political Economy)]]
-**Mechanism:** [[Revolving Door]] · [[Dual-Use Technology]]
-**Consequence:** [[Sovereignty as a Service]] · [[Reconstruction Economy]]
-**Reaction:** [[Brussels Effect]] · [[Situated Knowledge]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Filter bubble** names the gap between what you see and what is there to be seen. Once you know the term, the absence of counter-evidence is not the same as the absence of counter-evidence — it may be the algorithm's editing.
 
-**Related terms:** [[Echo Chamber]] · [[Recommender Systems]] · [[Microtargeting]] · [[AI Literacy]] · [[Slow Media]]
+**Related terms:** [[Echo Chamber]] · [[Recommender Systems]] · [[Microtargeting]] · [[AI Literacy]] · [[Slow Media]] · [[Attention Economy]] · [[Great Replacement]]
 
 
 ---
@@ -41,16 +41,5 @@ related_reaction:
 - [The Filter Bubble](https://www.penguinrandomhouse.com/books/309214/the-filter-bubble-by-eli-pariser/) — Pariser, E. (2011). *Penguin Press*
 - [Are Filter Bubbles Real?](https://www.wiley.com/en-gb/Are+Filter+Bubbles+Real%3F-p-9781509536443) — Bruns, A. (2019). *Polity Press*
 - [Big Tech maakt van burgers vee](https://www.vn.nl/op-afstand-gestuurde-mens) — Van Iperen, R. (2026). *Vrij Nederland*, 9 juli
-
----
-
-## Navigation
-
-**Layer:** Consequence — an algorithmically constructed information environment that reinforces existing views at the cost of epistemic diversity
-
-**Cause:** [[Recommender Systems]] · [[Attention Economy]]
-**Mechanism:** [[Echo Chamber]] · [[Microtargeting]]
-**Consequence:** [[Echo Chamber]] · [[Great Replacement]]
-**Reaction:** [[AI Literacy]] · [[Slow Media]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

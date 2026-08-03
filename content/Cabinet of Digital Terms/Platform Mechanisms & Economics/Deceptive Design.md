@@ -33,23 +33,12 @@ related_reaction:
 
 **Why This Matters:** **Deceptive design** makes the vocabulary shift analytically significant. The same interface can be described as a dark pattern (a design criticism), a **deceptive design** (a legal category), or a business feature (a commercial decision). Which frame applies determines what consequences follow.
 
-**Related terms:** [[Dark Patterns]] · [[Fair Patterns]] · [[Nudging]] · [[VSD (Value Sensitive Design)]] · [[Vendor Lock-in]]
+**Related terms:** [[Dark Patterns]] · [[Fair Patterns]] · [[Nudging]] · [[VSD (Value Sensitive Design)]] · [[Vendor Lock-in]] · [[Cognitive Surrender]] · [[Predatory Design]]
 
 
 ---
 **Read more:**
 - [Dark Patterns at Scale](https://doi.org/10.1145/3359183) — Mathur, A. et al. (2019). *ACM CSCW*
 - [EDPB Guidelines on Deceptive Design Patterns](https://edpb.europa.eu/our-work-tools/our-documents/guidelines/guidelines-032022-deceptive-design-patterns-social-media_en) — European Data Protection Board (2022)
-
----
-
-## Navigation
-
-**Layer:** Mechanism — the legal and academic reframing of dark patterns as actionable design violations
-
-**Cause:** [[Dark Patterns]] · [[Predatory Design]]
-**Mechanism:** [[Fair Patterns]] · [[Nudging]]
-**Consequence:** [[Cognitive Surrender]] · [[Vendor Lock-in]]
-**Reaction:** [[Fair Patterns]] · [[VSD (Value Sensitive Design)]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

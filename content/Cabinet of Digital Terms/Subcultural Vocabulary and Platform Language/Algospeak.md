@@ -32,7 +32,7 @@ related_reaction:
 
 **Why This Matters:** **Algospeak** is a living record of what platforms suppress. Once you can read it, the vocabulary in use on a platform is also evidence about the architecture's values — a map of what kinds of speech it treats as normal, and what it pushes to the margins.
 
-**Related terms:** [[Content Moderator]] · [[Recommender Systems]] · [[Deplatforming]] · [[Ragebaiting]] · [[Coded -Pilled]]
+**Related terms:** [[Content Moderator]] · [[Recommender Systems]] · [[Deplatforming]] · [[Ragebaiting]] · [[Coded -Pilled]] · [[AI Literacy]] · [[Brain Rot]]
 
 
 ---
@@ -45,16 +45,5 @@ related_reaction:
 - [Enregistering Internet Language](https://www.cambridge.org/core/journals/language-in-society/article/enregistering-internet-language/F8A79BB74879D022D911F3B818B727BF?utm_source=chatgpt.com) — Squires, L. (2010). *Language in Society*
 - [Algospeak: How Social Media Is Transforming the Future of Language](https://www.penguinrandomhouse.com/books/776856/algospeak-by-adam-aleksic/) — Aleksic, A. (2025). *Penguin Random House*
 - [The Internet Is Making Us Fluent in Algospeak](https://www.scientificamerican.com/article/how-social-media-algorithms-are-changing-the-way-people-talk/) — Dingfelder, S. (2025). *Scientific American*
-
----
-
-## Navigation
-
-**Layer:** Reaction — language actively shaped by content moderation, revealing what platforms suppress through what speakers must circumvent
-
-**Cause:** [[Content Moderator]] · [[Recommender Systems]]
-**Mechanism:** [[Content Moderator]] · [[Ragebaiting]]
-**Consequence:** [[Brain Rot]] · [[Deplatforming]]
-**Reaction:** [[AI Literacy]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

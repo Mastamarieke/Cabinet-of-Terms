@@ -32,7 +32,7 @@ related_reaction:
 
 **Why This Matters:** **Universal design** names the gap between inclusion as compliance and inclusion as commitment. Once you know the difference, you can ask of any design process: was the full range of users present when the decisions were made?
 
-**Related terms:** [[Accessibility]] · [[Inclusive Design]] · [[Digital Exclusion]] · [[Ageism (Digital)]] · [[VSD (Value Sensitive Design)]]
+**Related terms:** [[Accessibility]] · [[Inclusive Design]] · [[Digital Exclusion]] · [[Ageism (Digital)]] · [[VSD (Value Sensitive Design)]] · [[Digital Divide]]
 
 
 ---
@@ -40,16 +40,5 @@ related_reaction:
 - [The Principles of Universal Design](https://design.ncsu.edu/research/center-for-universal-design/) — Mace, R. et al. (1997). *NC State University*
 - [Universal Design: Creating Inclusive Environments](https://www.wiley.com/en-be/Universal+Design%3A+Creating+Inclusive+Environments-p-9780470399132) — Steinfeld, E. & Maisel, J. (2012). *Wiley*
 - [The Value of Inclusive and Equitable Practices in Product Design](https://haas.berkeley.edu/wp-content/uploads/Inclusive-and-Equitable-Product-Design.pdf) — UC Berkeley Center for Equity, Gender & Leadership. (2024). _Berkeley Haas_.
-
----
-
-## Navigation
-
-**Layer:** Reaction — design that starts from human diversity rather than retrofitting for it
-
-**Cause:** [[Digital Exclusion]] · [[Ageism (Digital)]]
-**Mechanism:** [[Accessibility]] · [[Inclusive Design]]
-**Consequence:** [[Digital Divide]]
-**Reaction:** [[Inclusive Design]] · [[VSD (Value Sensitive Design)]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

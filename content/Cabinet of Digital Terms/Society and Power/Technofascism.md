@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Technofascism** names a political endpoint on a trajectory that is visible in present conditions. Once you have the term, the question is not whether it has arrived but at what point on the path from **Muskism** to **technofascism** we currently stand — and what governance structures, if any, are capable of interruption.
 
-**Related terms:** [[Muskism]] · [[Cybernetic Governance]] · [[Flood the Zone]] · [[Broligarchy]] · [[Brussels Effect]]
+**Related terms:** [[Muskism]] · [[Cybernetic Governance]] · [[Flood the Zone]] · [[Broligarchy]] · [[Brussels Effect]] · [[Cyberfeminism]] · [[Dehumanization]] · [[Sovereignty as a Service]]
 
 
 ---
@@ -44,16 +44,5 @@ related_reaction:
 - [Technofascism: AI, Big Tech, and the new authoritarianism](https://link.springer.com/article/10.1007/s00146-026-02862-9) — Coeckelbergh, M. (2026). _AI & Society / Springer_
 - [‘Headed for technofascism’: the rightwing roots of Silicon Valley](https://www.theguardian.com/technology/ng-interactive/2025/jan/29/silicon-valley-rightwing-technofascism) — Lewis, B. (2025). _The Guardian_
 - [American technofascism](https://www.tandfonline.com/doi/full/10.1080/00187259.2025.2585410) — González, R.J. (2025). _Human Organization_
-
----
-
-## Navigation
-
-**Layer:** Consequence — the fusion of authoritarian political power with advanced technology infrastructure
-
-**Cause:** [[Muskism]] · [[Broligarchy]]
-**Mechanism:** [[Cybernetic Governance]] · [[Flood the Zone]]
-**Consequence:** [[Sovereignty as a Service]] · [[Dehumanization]]
-**Reaction:** [[Brussels Effect]] · [[Cyberfeminism]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

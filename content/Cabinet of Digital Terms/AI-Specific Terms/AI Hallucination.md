@@ -39,15 +39,4 @@ related_reaction:
 - [Survey of Hallucination in Natural Language Generation](https://arxiv.org/abs/2202.03629) — Ji et al. (2022)
 - [On the Dangers of Stochastic Parrots](https://arxiv.org/abs/2102.02503) — Bender et al. (2021), ACM FAccT
 
----
-
-## Navigation
-
-**Layer:** Mechanism — the production of fluently false output by a system with no mechanism for truth-checking
-
-**Cause:** [[Sycophancy (AI)]] · [[AI Dependency]]
-**Mechanism:** [[AI Literacy]] · [[Cognitive Offloading]]
-**Consequence:** [[Deskilling]]
-**Reaction:** [[AI Literacy]]
-
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

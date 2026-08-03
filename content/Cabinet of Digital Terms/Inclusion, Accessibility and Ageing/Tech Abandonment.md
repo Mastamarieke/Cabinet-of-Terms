@@ -32,7 +32,7 @@ related_reaction:
 
 **Why This Matters:** **Tech abandonment** makes visible the endpoint of a design process that excluded certain users from the start. The person who stopped using the system is not failing to adapt — they are responding rationally to a system that did not work for them. The design failure happened long before the abandonment decision.
 
-**Related terms:** [[Ageism (Digital)]] · [[Digital Ageing]] · [[Digital Exclusion]] · [[Technostress]] · [[Inclusive Design]]
+**Related terms:** [[Ageism (Digital)]] · [[Digital Ageing]] · [[Digital Exclusion]] · [[Technostress]] · [[Inclusive Design]] · [[Universal Design]]
 
 
 ---
@@ -40,16 +40,5 @@ related_reaction:
 - [Impact of the Abandonment of Assistive Technologies for Mobility on Older Adults](https://pmc.ncbi.nlm.nih.gov/articles/PMC9234835/) — Sawadogo, A. R., et al. (2022). _Assistive Technology_
 - [Impact of Internet Use on Loneliness and Contact with Others Among Older Adults: Cross-Sectional Analysis](https://www.jmir.org/2013/2/e39/) — Cotten, S. R., Anderson, W. A., & McCullough, B. M. (2013). _Journal of Medical Internet Research, 15_(2), e39. 
 - [Older Adults’ Perspectives on Using Digital Technology to Maintain Good Mental Health: Interactive Group Study](https://pmc.ncbi.nlm.nih.gov/articles/PMC6391644/) — Andrews, J. A., Brown, L. J. E., Hawley, M. S., & Astell, A. J. (2019). _Journal of Medical Internet Research, 21_(2), e11694
-
----
-
-## Navigation
-
-**Layer:** Consequence — withdrawal from digital participation following a threshold of complexity produced by design choices
-
-**Cause:** [[Ageism (Digital)]] · [[Digital Ageing]]
-**Mechanism:** [[Digital Exclusion]] · [[Technostress]]
-**Consequence:** [[Digital Exclusion]]
-**Reaction:** [[Universal Design]] · [[Inclusive Design]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

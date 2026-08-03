@@ -33,23 +33,12 @@ related_reaction:
 
 **Why This Matters:** Digital ageism makes visible that exclusion is a design choice, not a demographic inevitability. Once you name it as discrimination, the question is not "why can't older people keep up?" but "who is being protected by keeping older people out of the room when design decisions are made?"
 
-**Related terms:** [[Digital Ageing]] · [[Silver Surfer]] · [[Tech Abandonment]] · [[Digital Exclusion]] · [[Inclusive Design]]
+**Related terms:** [[Digital Ageing]] · [[Silver Surfer]] · [[Tech Abandonment]] · [[Digital Exclusion]] · [[Inclusive Design]] · [[Digital Divide]] · [[Universal Design]]
 
 
 ---
 **Read more:**
 - [Digital Ageism](https://library.oapen.org/bitstream/handle/20.500.12657/63221/1/9781000904796.pdf) — Loos, E. & Ivan, L. (2018). *The Gerontologist*
 - [Global Report on Ageism](https://www.who.int/publications/i/item/9789240016866) — WHO (2021)
-
----
-
-## Navigation
-
-**Layer:** Cause — age-based discrimination embedded in digital design, policy, and language
-
-**Cause:** [[Digital Divide]] · [[Digital Exclusion]]
-**Mechanism:** [[Silver Surfer]] · [[Tech Abandonment]]
-**Consequence:** [[Tech Abandonment]] · [[Digital Exclusion]]
-**Reaction:** [[Universal Design]] · [[Inclusive Design]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

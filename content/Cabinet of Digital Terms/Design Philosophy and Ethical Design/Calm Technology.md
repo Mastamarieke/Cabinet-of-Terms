@@ -32,23 +32,12 @@ related_reaction:
 
 **Why This Matters:** **Calm technology** names the road not taken — the design philosophy that describes what technology could be rather than what the **attention economy** makes it. Once you know the concept, every unnecessary notification is a failure of design, not an inevitability.
 
-**Related terms:** [[VSD (Value Sensitive Design)]] · [[Fair Patterns]] · [[Attention Economy]] · [[Dopamine Feedback Loops]] · [[Digital Detox]]
+**Related terms:** [[VSD (Value Sensitive Design)]] · [[Fair Patterns]] · [[Attention Economy]] · [[Dopamine Feedback Loops]] · [[Digital Detox]] · [[Cognitive Surrender]] · [[Mindful Scrolling]]
 
 
 ---
 **Read more:**
 - [Designing Calm Technology](https://calmtech.com/papers/designing-calm-technology.html) — Weiser, M. & Brown, Seely, J.. (1995). *Xerox PARC*
 - [Calm Technology](https://www.oreilly.com/library/view/calm-technology/9781491925874/) — Case, A. (2015). *O'Reilly Media*
-
----
-
-## Navigation
-
-**Layer:** Reaction — a design philosophy that positions technology at the periphery of attention
-
-**Cause:** [[Attention Economy]] · [[Dopamine Feedback Loops]]
-**Mechanism:** [[VSD (Value Sensitive Design)]] · [[Fair Patterns]]
-**Consequence:** [[Cognitive Surrender]]
-**Reaction:** [[Digital Detox]] · [[Mindful Scrolling]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

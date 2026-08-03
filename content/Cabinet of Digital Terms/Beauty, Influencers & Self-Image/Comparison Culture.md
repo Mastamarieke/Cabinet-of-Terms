@@ -35,23 +35,12 @@ related_reaction:
 
 **Why This Matters:** **Comparison culture** is the environment that makes most of this cluster possible. [[Mimetic Desire]] is the engine underneath: we don't compare ourselves to others randomly — we measure ourselves against the people we are already using as models for what to want. Once you know comparison culture is a platform feature rather than a personal tendency, "why do I always feel like I'm falling short?" becomes a structural question, not a personal one.
 
-**Related terms:** [[Highlight Reel]] · [[Beauty Filter]] · [[Influencer]] · [[Body Dysmorphic Disorder]] · [[FOMO]] · [[Mimetic Desire]] · [[Recommender Systems]]
+**Related terms:** [[Highlight Reel]] · [[Beauty Filter]] · [[Influencer]] · [[Body Dysmorphic Disorder]] · [[FOMO]] · [[Mimetic Desire]] · [[Recommender Systems]] · [[Curated Life]] · [[Deinfluencing]] · [[Digital Detox]]
 
 
 ---
 **Read more:**
 - [A theory of social comparison processes](https://www.scribd.com/document/887843345/Festinger-L-1954-a-Theory-of-Social-Comparison-Processes-Human-Relations-7-2-117-140) — Festinger, L. (1954). *Human Relations*
 - [Social Comparison, Social Media, and Self-Esteem](https://www.researchgate.net/publication/275507421_Social_comparison_social_media_and_self-esteem) — Vogel, E.A. et al. (2014). *Journal of Social and Personal Relationships*
-
----
-
-## Navigation
-
-**Layer:** Cause — the structural environment of continuous upward comparison produced by platform architectures
-
-**Cause:** [[Recommender Systems]] · [[Highlight Reel]] · [[Mimetic Desire]]
-**Mechanism:** [[Influencer]] · [[Beauty Filter]] · [[Curated Life]]
-**Consequence:** [[Body Dysmorphic Disorder]] · [[FOMO]]
-**Reaction:** [[Deinfluencing]] · [[Digital Detox]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

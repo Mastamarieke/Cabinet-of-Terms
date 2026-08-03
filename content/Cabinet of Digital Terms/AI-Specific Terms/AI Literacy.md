@@ -32,22 +32,11 @@ related_reaction:
 
 **Why This Matters:** **AI literacy** is the term that most directly determines whether the other terms in this cluster are legible. Without it, hallucination is just an error, sycophancy is just a feature, and dependency is just efficiency.
 
-**Related terms:** [[AI Hallucination]] · [[Sycophancy (AI)]] · [[AI Dependency]] · [[Cognitive Offloading]] · [[Deskilling]]
+**Related terms:** [[AI Hallucination]] · [[Sycophancy (AI)]] · [[AI Dependency]] · [[Cognitive Offloading]] · [[Deskilling]] · [[AI-Ninja]] · [[Prompt Engineer]]
 
 
 ---
 **Read more:**
 - [Artificial Unintelligence](https://mitpress.mit.edu/9780262537018/artificial-unintelligence/) — Broussard, M. (2018). *MIT Press*
 - [What is AI Literacy? Competencies and Design Considerations](https://scholar.google.com/scholar?q=What+is+AI+Literacy+Competencies+and+Design+Considerations) — Long & Magerko (2020), ACM CHI
----
-
-## Navigation
-
-**Layer:** Reaction — the capacity to understand AI systems that makes the failure modes of this cluster legible
-
-**Cause:** [[AI Dependency]] · [[Cognitive Offloading]]
-**Mechanism:** [[AI Hallucination]] · [[Sycophancy (AI)]]
-**Consequence:** [[Deskilling]]
-**Reaction:** [[AI-Ninja]] · [[Prompt Engineer]]
-
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

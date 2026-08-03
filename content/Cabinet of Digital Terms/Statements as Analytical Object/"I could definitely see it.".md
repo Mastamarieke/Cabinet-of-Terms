@@ -30,23 +30,12 @@ related_reaction:
 
 **Why this sentence matters:** "I could definitely see it" is a phrase that does the work of an answer without being one. Once you recognise the structure, you can identify it wherever it appears — in investor calls, in regulatory hearings, in product announcements. The candid tone is the cover. The non-answer is the content.
 
-**Related terms:** [[Dual-Use Technology]] · [[Military-Industrial Complex]] · [[Obfuscation]] · [["Adding amplitude to war is obviously an issue."]]
+**Related terms:** [[Dual-Use Technology]] · [[Military-Industrial Complex]] · [[Obfuscation]] · [["Adding amplitude to war is obviously an issue."]] · [[Brussels Effect]] · [[Digital-Military-Industrial Complex]]
 
 
 ---
 **Read more:**
 - [Science in Action](https://www.hup.harvard.edu/catalog.php?isbn=9780674792913) — Latour, B. (1987). *Harvard University Press* — on how facts and technologies are stabilised through statements
 - [The Future of Geospatial Intelligence with AI and AR](https://www.nianticspatial.com/blog/gdc-2025-niantic-spatial-computing-ar-recap) — Goldstein, C. (2025). _Niantic Spatial_
-
----
-
-## Navigation
-
-**Layer:** Mechanism — a statement that performs transparency while making no commitment and leaving every option open
-
-**Cause:** [[Dual-Use Technology]]
-**Mechanism:** [[Military-Industrial Complex]] · [[Obfuscation]]
-**Consequence:** [[Digital-Military-Industrial Complex]]
-**Reaction:** [[Brussels Effect]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

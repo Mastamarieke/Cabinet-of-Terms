@@ -32,7 +32,7 @@ related_reaction:
 
 **Why This Matters:** **Loot boxes** make visible how gambling mechanics can be embedded in children's products under a different name. Once you see the structural identity, the regulatory question — is this gambling? — is less important than the design question: why was this mechanism deployed to children?
 
-**Related terms:** [[Robux]] · [[Predatory Design]] · [[Gaming Disorder]] · [[Gamification Creep]] · [[Brussels Effect]]
+**Related terms:** [[Robux]] · [[Predatory Design]] · [[Gaming Disorder]] · [[Gamification Creep]] · [[Brussels Effect]] · [[Fair Patterns]]
 
 
 ---
@@ -43,16 +43,5 @@ related_reaction:
 - [What drives demand for loot boxes? An experimental study](https://www.sciencedirect.com/science/article/pii/S016726812400369X) — Cordes, S. et al. (2024). _Journal of Economic Behavior & Organization_
 - [Loot box spending is associated with greater distress when controlling for problem gambling symptomology](https://royalsocietypublishing.org/rsos/article/12/7/231264/235337/Loot-box-spending-is-associated-with-greater) — Drummond, A. et al. (2025). _Royal Society Open Science_
 - [Research reveals “non-existent” enforcement of industry-led standards on loot boxes](https://5rightsfoundation.com/research-reveals-non-existent-enforcement-of-industry-led-standards-on-loot-boxes/) — 5Rights Foundation. (2025). _5Rights Foundation_
-
----
-
-## Navigation
-
-**Layer:** Mechanism — probabilistic purchase mechanics structurally identical to gambling, deployed to children without age restriction
-
-**Cause:** [[Predatory Design]] · [[Gamification Creep]]
-**Mechanism:** [[Robux]] · [[Gaming Disorder]]
-**Consequence:** [[Gaming Disorder]]
-**Reaction:** [[Brussels Effect]] · [[Fair Patterns]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

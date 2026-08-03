@@ -32,23 +32,12 @@ related_reaction:
 
 **Why This Matters:** **Ratio'd** makes visible how platform metrics become social sanctions — and how the same number can represent two entirely different things. Once you know the organic/active distinction, a ratio is no longer just a verdict. It is a question: who replied, and why?
 
-**Related terms:** [[Ragebaiting]] · [[Algospeak]] · [[Deplatforming]] · [[Flood the Zone]] · [[Coded -Pilled]]
+**Related terms:** [[Ragebaiting]] · [[Algospeak]] · [[Deplatforming]] · [[Flood the Zone]] · [[Coded -Pilled]] · [[AI Literacy]] · [[Attention Economy]] · [[Comparison Culture]]
 
 
 ---
 **Read more:**
 - [**Morally Motivated Networked Harassment as Normative Reinforcement**](https://journals.sagepub.com/doi/10.1177/20563051211021378?utm_source=chatgpt.com) — Marwick, A. E. (2021), _Social Media + Society_.
 - [Ratioing the President: An Exploration of Public Engagement With Obama and Trump on Twitter**](https://pmc.ncbi.nlm.nih.gov/articles/PMC8046224/?utm_source=chatgpt.com) — Minot, J. R. et al. (2021), _PLOS ONE_.
-
----
-
-## Navigation
-
-**Layer:** Mechanism — a platform metric repurposed as public verdict, with two structurally distinct mechanisms producing the same visible number
-
-**Cause:** [[Attention Economy]] · [[Ragebaiting]]
-**Mechanism:** [[Ragebaiting]] · [[Deplatforming]]
-**Consequence:** [[Deplatforming]] · [[Comparison Culture]]
-**Reaction:** [[AI Literacy]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

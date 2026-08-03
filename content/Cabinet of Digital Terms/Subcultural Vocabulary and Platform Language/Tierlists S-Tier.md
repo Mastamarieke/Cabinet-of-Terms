@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** Tierlist / S-Tier makes visible how game formats carry game assumptions into non-game territory. Once you see the format as imported rather than natural, you can ask: what assumptions about measurability and comparability does this ranking format bring with it — and are those assumptions appropriate to this subject?
 
-**Related terms:** [[Gamification Creep]] · [[Aurafarming]] · [[Looksmaxxing]] · [[Comparison Culture]] · [[SMV (Sexual Market Value)]]
+**Related terms:** [[Gamification Creep]] · [[Aurafarming]] · [[Looksmaxxing]] · [[Comparison Culture]] · [[SMV (Sexual Market Value)]] · [[AI Literacy]] · [[Situated Knowledge]]
 
 
 ---
@@ -43,16 +43,5 @@ related_reaction:
     Goede journalistieke bron voor de herkomst in fighting-gamecultuur en de latere verspreiding als **YouTube**-/internetformat. 
 - [**S Tier Meaning: What does S Ranking stand for?**](https://tiermaker.com/blog/news/15/s-tier-meaning-what-does-s-tier-stand-for?utm_source=chatgpt.com) — TierMaker (n.d.), _TierMaker_.  
     Praktische bron voor **S-tier** als hoogste categorie in tier-list-formaten
-
----
-
-## Navigation
-
-**Layer:** Mechanism — a game ranking format applied to the social world, importing assumptions of objective measurability into contexts where they do not hold
-
-**Cause:** [[Gamification Creep]] · [[SMV (Sexual Market Value)]]
-**Mechanism:** [[Aurafarming]] · [[Looksmaxxing]]
-**Consequence:** [[Comparison Culture]] · [[Looksmaxxing]]
-**Reaction:** [[AI Literacy]] · [[Situated Knowledge]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

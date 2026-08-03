@@ -32,7 +32,7 @@ related_reaction:
 
 **Why This Matters:** "**That Girl**" makes visible how wellness becomes aspiration content — and how aspiration content distributes norms without distributing the conditions that make them achievable.
 
-**Related terms:** [[Clean Girl Aesthetic]] · [[Fitfluencer]] · [[Comparison Culture]] · [[Highlight Reel]] · [[Toxic Positivity]]
+**Related terms:** [[Clean Girl Aesthetic]] · [[Fitfluencer]] · [[Comparison Culture]] · [[Highlight Reel]] · [[Toxic Positivity]] · [[Body Dysmorphic Disorder]] · [[Deinfluencing]]
 
 
 ---
@@ -40,16 +40,5 @@ related_reaction:
 - [The Influencer Industry](https://www.amazon.nl/Influencer-Industry-Quest-Authenticity-Social/dp/0691231028) — Hund, E. (2023). *Studies in Communication Sciences*
 - [Wellness Culture](
 https://www.researchgate.net/publication/364754565_Wellness_Culture_How_the_Wellness_Movement_has_Been_Used_to_Empower_Profit_and_Misinform) — Lupton, D. (2022). *New Media & Society*
-
----
-
-## Navigation
-
-**Layer:** Mechanism — a lifestyle aesthetic that distributes self-discipline as aspiration content
-
-**Cause:** [[Comparison Culture]] · [[Highlight Reel]]
-**Mechanism:** [[Clean Girl Aesthetic]] · [[Fitfluencer]]
-**Consequence:** [[Body Dysmorphic Disorder]] · [[Toxic Positivity]]
-**Reaction:** [[Deinfluencing]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

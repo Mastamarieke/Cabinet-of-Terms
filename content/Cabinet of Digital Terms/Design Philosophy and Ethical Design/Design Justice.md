@@ -32,22 +32,12 @@ related_reaction:
 
 **Why This Matters:** **Design justice** makes the default visible. Every interface has a default user — and that default is rarely unmarked. Once you see it, the question shifts from "is this accessible?" to "who built this for whom, and who paid the cost of that choice?"
 
-**Related terms:** [[Participatory Design]] · [[VSD (Value Sensitive Design)]] · [[Fair Patterns]] · [[Adversarial Design]] · [[Inclusive Design]]
+**Related terms:** [[Participatory Design]] · [[VSD (Value Sensitive Design)]] · [[Fair Patterns]] · [[Adversarial Design]] · [[Inclusive Design]] · [[Dark Patterns]] · [[Deceptive Design]]
 
 
 ---
 **Read more:**
 - [Design Justice: Community-Led Practices to Build the Worlds We Need](https://design-justice.pubpub.org/) — Costanza-Chock, S. (2020). *MIT Press* (open access)
 - [Design Justice Network Principles](https://designjustice.org/read-the-principles) — Design Justice Network (2018)
-
----
-
-## Navigation
-
-**Layer:** Reaction — a framework that centres marginalised communities as primary agents in design, not afterthoughts
-
-**Cause:** [[Deceptive Design]] · [[Dark Patterns]]
-**Mechanism:** [[Participatory Design]] · [[VSD (Value Sensitive Design)]]
-**Reaction:** [[Fair Patterns]] · [[Adversarial Design]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

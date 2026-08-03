@@ -32,23 +32,12 @@ related_reaction:
 
 **Why This Matters:** **Slow media** makes visible a structural constraint on media criticism: you cannot opt out of platform distribution and still reach an audience. The movement that wants to slow down must use the same infrastructure as the movement it opposes. That constraint is worth naming.
 
-**Related terms:** [[Digital Detox]] · [[Mindful Scrolling]] · [[Unplugging]] · [[Attention Economy]] · [[Clickbait]]
+**Related terms:** [[Digital Detox]] · [[Mindful Scrolling]] · [[Unplugging]] · [[Attention Economy]] · [[Clickbait]] · [[Cognitive Surrender]] · [[Tech-Free Challenge]]
 
 
 ---
 **Read more:**
 - [The Slow Media Manifesto](https://en.slow-media.net/manifesto) — Köhler, B., David, S. & Blumtritt, J. ,  Köhler, B.(2010). *slow-media.net*
 - [Diffusion of Slow Media Innovation](https://www.researchgate.net/publication/322952602_Diffusion_of_Slow_Media_Innovation) — Köhler, B. et al. (2018). *ResearchGate*
-
----
-
-## Navigation
-
-**Layer:** Reaction — deliberate media consumption promoted through the channels it critiques
-
-**Cause:** [[Attention Economy]] · [[Clickbait]]
-**Mechanism:** [[Digital Detox]] · [[Mindful Scrolling]]
-**Consequence:** [[Cognitive Surrender]]
-**Reaction:** [[Unplugging]] · [[Tech-Free Challenge]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

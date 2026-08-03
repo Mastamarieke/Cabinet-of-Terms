@@ -32,23 +32,12 @@ related_reaction:
 
 **Why This Matters:** **FOBO** names the cost of infinite optionality. Once you see it as a structural feature rather than a personal weakness, the inability to decide becomes a different kind of problem — one that can be addressed structurally, not just individually.
 
-**Related terms:** [[FOMO]] · [[Comparison Culture]] · [[Recommender Systems]] · [[Curated Life]] · [[JOMO]]
+**Related terms:** [[FOMO]] · [[Comparison Culture]] · [[Recommender Systems]] · [[Curated Life]] · [[JOMO]] · [[Digital Detox]] · [[Highlight Reel]]
 
 
 ---
 **Read more:**
 - [Fear of Missing Out](https://books.google.nl/books/about/Fear_of_Missing_Out.html?id=zPJixwEACAAJ&redir_esc=y) — McGinnis, P. (2020). *Sourcebooks*
 - [The Paradox of Choice](https://www.harpercollins.com/products/the-paradox-of-choice-barry-schwartz) — Schwartz, B. (2004). *HarperCollins*
-
----
-
-## Navigation
-
-**Layer:** Consequence — decision paralysis produced by the awareness of infinite alternatives
-
-**Cause:** [[Comparison Culture]] · [[Recommender Systems]]
-**Mechanism:** [[Curated Life]] · [[Highlight Reel]]
-**Consequence:** [[Comparison Culture]]
-**Reaction:** [[JOMO]] · [[Digital Detox]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

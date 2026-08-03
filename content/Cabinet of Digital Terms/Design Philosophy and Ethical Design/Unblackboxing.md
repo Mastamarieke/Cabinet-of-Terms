@@ -31,23 +31,12 @@ related_reaction:
 
 **Why This Matters:** **Unblackboxing** names the practice that cartographic prompting itself performs — the work of making a term's hidden assumptions, genealogy, and power relations visible. It is both a method and a stance: systems that present themselves as neutral are always worth opening.
 
-**Related terms:** [[Black Box]] · [[Obfuscation]] · [[De-bugging]] · [[Situated Knowledge]]
+**Related terms:** [[Black Box]] · [[Obfuscation]] · [[De-bugging]] · [[Situated Knowledge]] · [[Fair Patterns]] · [[VSD (Value Sensitive Design)]]
 
 
 ---
 **Read more:**
 - [Science in Action](https://www.hup.harvard.edu/catalog.php?isbn=9780674792913) — Latour, B. (1987). *Harvard University Press*
 - [Unblackboxing mediation in the digital mine](https://www.sciencedirect.com/science/article/pii/S0016718523000714) — Pasquale, F. (2015). *Harvard University Press*
-
----
-
-## Navigation
-
-**Layer:** Reaction — the analytical practice of making opaque systems legible
-
-**Cause:** [[Black Box]] · [[Obfuscation]]
-**Mechanism:** [[De-bugging]]
-**Consequence:** [[Situated Knowledge]]
-**Reaction:** [[VSD (Value Sensitive Design)]] · [[Fair Patterns]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

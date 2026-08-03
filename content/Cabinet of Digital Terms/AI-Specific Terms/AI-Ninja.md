@@ -32,23 +32,12 @@ related_reaction:
 
 **Why This Matters:** The **AI-ninja** identity tells you something about a moment in technological transition — when tools are powerful enough to be impressive but complex enough to require specialisation. That window closes. What you built during it either transferred into deeper understanding or it did not.
 
-**Related terms:** [[Prompt Engineer]] · [[AI Literacy]] · [[AI Dependency]] · [[Deskilling]] · [[Cognitive Offloading]]
+**Related terms:** [[Prompt Engineer]] · [[AI Literacy]] · [[AI Dependency]] · [[Deskilling]] · [[Cognitive Offloading]] · [[Hustle Culture]]
 
 
 ---
 **Read more:**
 - [Prompt engineering](c) — Wikipedia (primary: see ACL and NeurIPS prompt engineering papers 2022–2024)
 - 
-
----
-
-## Navigation
-
-**Layer:** Mechanism — a professional identity built around AI tool proficiency, structurally dependent on the tools remaining difficult
-
-**Cause:** [[AI Dependency]] · [[Hustle Culture]]
-**Mechanism:** [[Prompt Engineer]] · [[Deskilling]]
-**Consequence:** [[AI Dependency]] · [[Cognitive Offloading]]
-**Reaction:** [[AI Literacy]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

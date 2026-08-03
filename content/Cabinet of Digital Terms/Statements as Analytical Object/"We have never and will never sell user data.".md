@@ -32,7 +32,7 @@ related_reaction:
 
 **Why this sentence matters:** Once you understand the gap between what "sell user data" technically means and what it communicates, you can apply the same analysis to any privacy statement. The precision is the deception. The sentence tells a true thing in a way that produces a false impression. That is a design choice.
 
-**Related terms:** [[Privacy Washing]] · [[Surveillance Capitalism]] · [[Microtargeting]] · [[Brussels Effect]] · [["During a dynamic political environment."]]
+**Related terms:** [[Privacy Washing]] · [[Surveillance Capitalism]] · [[Microtargeting]] · [[Brussels Effect]] · [["During a dynamic political environment."]] · [[Algorithmic Violence]]
 
 
 ---
@@ -41,16 +41,5 @@ related_reaction:
 - [Zuckerberg's Congressional Testimony](https://www.c-span.org/video/?443543-1/facebook-ceo-mark-zuckerberg-testifies-senate-judiciary-commerce-committees) — C-SPAN (2018)
 - [Facebook CEO Mark Zuckerberg Hearing on Data Privacy and Protection](https://www.c-span.org/program/senate-committee/facebook-ceo-mark-zuckerberg-hearing-on-data-privacy-and-protection/500690) — C-SPAN. (2018). _C-SPAN_
   
-
----
-
-## Navigation
-
-**Layer:** Mechanism — a technically true statement engineered to be understood as meaning something it does not say
-
-**Cause:** [[Surveillance Capitalism]] · [[Privacy Washing]]
-**Mechanism:** [[Privacy Washing]] · [[Microtargeting]]
-**Consequence:** [[Privacy Washing]] · [[Algorithmic Violence]]
-**Reaction:** [[Brussels Effect]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

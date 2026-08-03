@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Microtargeting** makes visible that the political message you saw was chosen for you specifically. The argument was calibrated to your profile. The anxiety it addressed was inferred from your behaviour. Once you know that, political communication looks different.
 
-**Related terms:** [[Surveillance Capitalism]] · [[Recommender Systems]] · [[Bot Farms]] · [[Filter Bubble]] · [[Data Brokers]] · [[Narrative Engineering]] · [[Brussels Effect]]
+**Related terms:** [[Surveillance Capitalism]] · [[Recommender Systems]] · [[Bot Farms]] · [[Filter Bubble]] · [[Data Brokers]] · [[Narrative Engineering]] · [[Brussels Effect]] · [[Biometric Surveillance]] · [[Great Replacement]]
 
 
 ---
@@ -44,16 +44,5 @@ related_reaction:
   [Privacy in the age of psychological targeting](https://www.sciencedirect.com/science/article/abs/pii/S2352250X19301332) — Matz, S.C. et al. (2020). _Current Opinion in Psychology_
 - [Cambridge Analytica's black box](https://journals.sagepub.com/doi/10.1177/2053951720938091) — Hu, M. (2020). _Big Data & Society_
 - [Big Tech maakt van burgers vee](https://www.vn.nl/op-afstand-gestuurde-mens) — Van Iperen, R. (2026). *Vrij Nederland*, 9 juli
-
----
-
-## Navigation
-
-**Layer:** Mechanism — personalised message delivery based on detailed behavioural profiles
-
-**Cause:** [[Surveillance Capitalism]] · [[Recommender Systems]]
-**Mechanism:** [[Bot Farms]] · [[Biometric Surveillance]]
-**Consequence:** [[Filter Bubble]] · [[Great Replacement]]
-**Reaction:** [[Brussels Effect]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

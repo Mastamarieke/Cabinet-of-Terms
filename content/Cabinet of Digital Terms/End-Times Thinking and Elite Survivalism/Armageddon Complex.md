@@ -33,23 +33,12 @@ Lee Quinby’s _Anti-Apocalypse_ (1994) further argues that apocalyptic narrat
 
 **Why This Matters:** **Armageddon complex** names the structural alignment between apocalyptic belief and power accumulation. Once you see the alignment as structural rather than conspiratorial, you can assess any claim of civilisational emergency by asking: what power does this emergency justify accumulating, and under what conditions would that accumulation be reversed?
 
-**Related terms:** [[Millenarianism]] · [[Endtime Fascism]] · [[Muskism]] · [[Disaster Nationalism]] · [[Doomerism]]
+**Related terms:** [[Millenarianism]] · [[Endtime Fascism]] · [[Muskism]] · [[Disaster Nationalism]] · [[Doomerism]] · [[Situated Knowledge]] · [[Technofascism]]
 
 
 ---
 **Read more:**
 - [Destroying the World to Save It](https://www.amazon.nl/-/en/Destroying-World-Save-Shinrikyo-Apocalyptic/dp/0805065113) — Lifton, R.J. (1999). *Henry Holt*
 - [Anti-Apocalypse: Exercises in Genealogical Criticism](https://www.jstor.org/stable/10.5749/j.cttttd5h) — Quinby, L. (1994). *University of Minnesota Press*
-
----
-
-## Navigation
-
-**Layer:** Mechanism — the structural alignment of apocalyptic belief and power accumulation, where the emergency justifies what the power then requires to sustain
-
-**Cause:** [[Millenarianism]] · [[Muskism]]
-**Mechanism:** [[Endtime Fascism]] · [[Disaster Nationalism]]
-**Consequence:** [[Endtime Fascism]] · [[Technofascism]]
-**Reaction:** [[Situated Knowledge]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

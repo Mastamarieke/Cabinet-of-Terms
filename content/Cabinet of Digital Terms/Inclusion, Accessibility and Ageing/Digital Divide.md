@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Digital divide** makes visible that access is necessary but not sufficient. Once you see the multiple layers — access, skills, meaningful use, benefit — the political aspiration of "getting everyone online" looks like the beginning of a much larger project.
 
-**Related terms:** [[Digital Exclusion]] · [[Ageism (Digital)]] · [[Digital Colonialism]] · [[Accessibility]] · [[Tech Abandonment]] · [[Privacy as a Premium]]
+**Related terms:** [[Digital Exclusion]] · [[Ageism (Digital)]] · [[Digital Colonialism]] · [[Accessibility]] · [[Tech Abandonment]] · [[Privacy as a Premium]] · [[Inclusive Design]] · [[Surveillance Capitalism]] · [[Universal Design]]
 
 
 ---
@@ -43,16 +43,5 @@ related_reaction:
 - [Examining the Second Level of the Digital Divide Through the Lens of Digital Capital](https://firstmonday.org/ojs/index.php/fm/article/view/10855) — Ruiu, M. L., & Ragnedda, M. (2020). _First Monday, 25_(7).
 - [Falling Through the Net: Defining the Digital Divide](https://govinfo.library.unt.edu/ecommerce/document/digital_divide_rpt.pdf) — National Telecommunications and Information Administration (NTIA). (1999). _U.S. Department of Commerce_ (classic source)
 - [Digital Technology and Older People: Towards a Sociological Approach to Technology Adoption in Later Life](https://journals.sagepub.com/doi/10.1177/0038038520975587?utm_source=chatgpt.com) — Barbosa Neves, B., & Mead, G. (2021). _Sociology_
-
----
-
-## Navigation
-
-**Layer:** Cause — multi-layered inequality in digital access, skills, and meaningful use
-
-**Cause:** [[Digital Colonialism]] · [[Surveillance Capitalism]]
-**Mechanism:** [[Digital Exclusion]] · [[Ageism (Digital)]]
-**Consequence:** [[Digital Exclusion]] · [[Tech Abandonment]]
-**Reaction:** [[Universal Design]] · [[Inclusive Design]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

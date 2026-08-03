@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Vibe coder** names a practice that is already common and rarely examined. The question is not whether AI coding assistance is useful — it clearly is — but what you are trading when you accept outputs you cannot explain. Understanding the trade is the beginning of making it intentionally.
 
-**Related terms:** [[Prompt Engineer]] · [[Deskilling]] · [[AI Dependency]] · [[Cognitive Surrender]] · [[AI Literacy]]
+**Related terms:** [[Prompt Engineer]] · [[Deskilling]] · [[AI Dependency]] · [[Cognitive Surrender]] · [[AI Literacy]] · [[Red Teamer]]
 
 
 ---
@@ -43,16 +43,5 @@ related_reaction:
 - [Vibe coding: programming through conversation with artificial intelligence](https://arxiv.org/abs/2506.23253) — Sarkar, A. & Drosos, I. (2025). _arXiv_
 - [Vibe Coding as a Reconfiguration of Intent Mediation in Software Development: Definition, Implications, and Research Agenda](https://arxiv.org/abs/2507.21928) — Meske, C., Hermanns, T., von der Weiden, E., Loser, K.-U. & Berger, T. (2025). _arXiv_
 - [Good Vibrations? A Qualitative Study of Co-Creation, Communication, Flow, and Trust in Vibe Coding](https://arxiv.org/abs/2509.12491) — Pimenova, V., Fakhoury, S., Bird, C., Storey, M.-A. & Endres, M. (2025). _arXiv_
-
----
-
-## Navigation
-
-**Layer:** Consequence — software creation through AI instruction that produces working outputs without comprehension, deferring the consequences of that gap
-
-**Cause:** [[AI Dependency]] · [[Cognitive Surrender]]
-**Mechanism:** [[Prompt Engineer]] · [[Deskilling]]
-**Consequence:** [[Deskilling]] · [[Cognitive Surrender]]
-**Reaction:** [[AI Literacy]] · [[Red Teamer]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

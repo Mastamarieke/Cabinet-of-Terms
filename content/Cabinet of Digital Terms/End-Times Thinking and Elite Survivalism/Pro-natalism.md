@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Pro-natalism** makes visible how demographic data becomes ideological when filtered through prior assumptions about whose reproduction matters. Once you ask "whose children?" the neutral demographic framing dissolves into a political position.
 
-**Related terms:** [[Great Replacement]] · [[Tradwife]] · [[Millenarianism]] · [[Purity Culture]] · [[Disaster Nationalism]]
+**Related terms:** [[Great Replacement]] · [[Tradwife]] · [[Millenarianism]] · [[Purity Culture]] · [[Disaster Nationalism]] · [[Cyberfeminism]] · [[Situated Knowledge]]
 
 
 ---
@@ -41,16 +41,5 @@ related_reaction:
 - [Empty Plante : The Shock of Global Population Decline](https://www.penguinrandomhouse.com/books/562065/empty-planet-by-darrell-bricker-and-john-ibbitson/) — Bricker, D. & Ibbitson, J. (2019). *Crown* — on demographic trends without ideological loading
 - [Empty Planet](https://www.milkenreview.org/articles/empty-planet). Bricker, D. & Ibbitson, J. (2019). _The Milken Institute Review_
 - [Eugenic Nation](https://www.ucpress.edu/books/eugenic-nation/paper) — Stern, A.M. (2015). *University of California Press* — on the history of pro-natalist eugenics
-
----
-
-## Navigation
-
-**Layer:** Mechanism — demographic anxiety converted into ideological urgency, where "more children" conceals a prior question about whose reproduction is being promoted
-
-**Cause:** [[Millenarianism]] · [[Great Replacement]]
-**Mechanism:** [[Disaster Nationalism]] · [[Tradwife]]
-**Consequence:** [[Great Replacement]] · [[Purity Culture]]
-**Reaction:** [[Cyberfeminism]] · [[Situated Knowledge]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

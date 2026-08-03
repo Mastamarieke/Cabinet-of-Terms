@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Screen time** makes visible how a design problem gets reframed as a parenting problem. Once you see that move, the question shifts: whose responsibility is the irresistibility of the product?
 
-**Related terms:** [[Predatory Design]] · [[Dopamine Feedback Loops]] · [[Gaming Disorder]] · [[Brain Rot]] · [[Digital Detox]]
+**Related terms:** [[Predatory Design]] · [[Dopamine Feedback Loops]] · [[Gaming Disorder]] · [[Brain Rot]] · [[Digital Detox]] · [[Calm Technology]]
 
 
 ---
@@ -43,15 +43,4 @@ related_reaction:
 - [Children and Adolescents and Digital Media](https://publications.aap.org/pediatrics/article/138/5/e20162593/60349/Children-and-Adolescents-and-Digital-Media) — Council on Communications and Media. (2016). _Pediatrics / American Academy of Pediatrics_
 - [Digital Ecosystems, Children, and Adolescents: Policy Statement](https://publications.aap.org/pediatrics/article/157/2/e2025075320/206129/Digital-Ecosystems-Children-and-Adolescents-Policy) — Munzer, T. et al. (2026). _Pediatrics / American Academy of Pediatrics_
 - [The Anxious Generation](https://www.anxiousgeneration.com/) — Haidt, J. (2024). _Penguin Press_
----
-
-## Navigation
-
-**Layer:** Mechanism — a parenting concept that makes the child's behaviour the subject while excluding the platform design that produces it
-
-**Cause:** [[Predatory Design]] · [[Dopamine Feedback Loops]]
-**Mechanism:** [[Gaming Disorder]] · [[Brain Rot]]
-**Consequence:** [[Gaming Disorder]] · [[Brain Rot]]
-**Reaction:** [[Digital Detox]] · [[Calm Technology]]
-
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

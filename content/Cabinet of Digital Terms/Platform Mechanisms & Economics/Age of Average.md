@@ -33,23 +33,12 @@ related_reaction:
 
 **Why This Matters:** **Age of Average** names the aesthetic consequence of algorithmic optimisation. Once you can see the convergence, you can ask what has been filtered out — and whose aesthetic got to become the default.
 
-**Related terms:** [[Recommender Systems]] · [[AI Slop]] · [[Synthetic Generation]] · [[Comparison Culture]] · [[Slow Media]]
+**Related terms:** [[Recommender Systems]] · [[AI Slop]] · [[Synthetic Generation]] · [[Comparison Culture]] · [[Slow Media]] · [[Deinfluencing]] · [[Deskilling]]
 
 
 ---
 **Read more:**
 - [The Age of Average](https://www.alexmurrell.co.uk/articles/the-age-of-average) — Murrell, A. (2023). *alexmurrell.co.uk*
 - [On the Dangers of Stochastic Parrots](https://doi.org/10.1145/3442188.3445922) — Bender, E.M. et al. (2021). *ACM FAccT*
-
----
-
-## Navigation
-
-**Layer:** Consequence — the algorithmic homogenisation of culture through optimisation feedback loops
-
-**Cause:** [[Recommender Systems]] · [[AI Slop]]
-**Mechanism:** [[Comparison Culture]] · [[Synthetic Generation]]
-**Consequence:** [[AI Slop]] · [[Deskilling]]
-**Reaction:** [[Deinfluencing]] · [[Slow Media]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

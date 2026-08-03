@@ -39,7 +39,7 @@ This dynamic also connects to broader research on extremist political culture. I
 
 **Why This Matters:** **Dark MAGA** makes visible the irony-to-earnest pipeline in political radicalisation. Once you see the transit mechanism — ironic register as a bridge to earnest adoption — you can identify it wherever aesthetic extremism precedes political extremism.
 
-**Related terms:** [[Endtime Fascism]] · [[Muskism]] · [[Flood the Zone]] · [[Technofascism]] · [[Coded -Pilled]]
+**Related terms:** [[Endtime Fascism]] · [[Muskism]] · [[Flood the Zone]] · [[Technofascism]] · [[Coded -Pilled]] · [[AI Literacy]] · [[Broligarchy]] · [[Fact Checker]]
 
 
 ---
@@ -48,16 +48,5 @@ This dynamic also connects to broader research on extremist political culture. I
 - [Bring the War Home](https://www.hup.harvard.edu/file/feeds/PDF/9780674237698_sample.pdf) — Belew, K. (2018). *Harvard University Press* — on far-right aesthetic culture
 - [What Is Dark MAGA? Trump Supporters Attempt Rebrand for 2024](https://www.newsweek.com/dark-maga-donald-trump-supporters-attempt-rebrand-2024-1697855) — _Newsweek_ (2022) 
 - [How Elon Musk Gave MAGA a Dark, Gothic Makeover](https://www.wsj.com/style/fashion/elon-musk-dark-maga-hat-cap-gothic-trump-81e963cf) — _Wall Street Journal_ (2024)
-
----
-
-## Navigation
-
-**Layer:** Mechanism — aesthetic extremism that serves as transit infrastructure toward earnest authoritarian advocacy
-
-**Cause:** [[Muskism]] · [[Broligarchy]]
-**Mechanism:** [[Endtime Fascism]] · [[Flood the Zone]]
-**Consequence:** [[Technofascism]] · [[Endtime Fascism]]
-**Reaction:** [[AI Literacy]] · [[Fact Checker]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

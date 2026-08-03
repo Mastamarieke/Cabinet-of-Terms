@@ -34,7 +34,7 @@ related_reaction:
 
 **Why This Matters:** **FOMO** names the anxiety that notification systems are designed to produce and maintain. [[Mimetic Desire]] is the engine underneath: when desire is imitative, the fear of missing out is the fear of falling behind your model — of desiring the wrong things, too late. Once you see it as a designed mechanism rather than a personal weakness, "I keep checking my phone" becomes a different kind of observation.
 
-**Related terms:** [[Dopamine Feedback Loops]] · [[Comparison Culture]] · [[Doomscrolling]] · [[JOMO]] · [[Screen Time]] · [[Mimetic Desire]] · [[Recommender Systems]]
+**Related terms:** [[Dopamine Feedback Loops]] · [[Comparison Culture]] · [[Doomscrolling]] · [[JOMO]] · [[Screen Time]] · [[Mimetic Desire]] · [[Recommender Systems]] · [[Digital Detox]]
 
 
 ---
@@ -44,17 +44,5 @@ related_reaction:
 - [Fear of Missing Out](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119011071.iemp0185) — Neumann, D. (2020). _The International Encyclopedia of Media Psychology_
 - [Fear of missing out (FoMO): overview, theoretical underpinnings, and literature review on relations with severity of negative affectivity and problematic technology use](https://pmc.ncbi.nlm.nih.gov/articles/PMC8023172/) — Elhai, J.D., Yang, H., Rozgonjuk, D. & Montag, C. (2021). _Brazilian Journal of Psychiatry_
 - [Following the Joneses: FOMO and conspicuous sociality](https://firstmonday.org/ojs/index.php/fm/article/view/6064) — Reagle, J. (2015). _First Monday_
-
-
----
-
-## Navigation
-
-**Layer:** Consequence — the anxiety of potential social absence, engineered into notification systems as a compulsion-to-check mechanism
-
-**Cause:** [[Dopamine Feedback Loops]] · [[Recommender Systems]] · [[Mimetic Desire]]
-**Mechanism:** [[Comparison Culture]] · [[Screen Time]]
-**Consequence:** [[Doomscrolling]] · [[Comparison Culture]]
-**Reaction:** [[JOMO]] · [[Digital Detox]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

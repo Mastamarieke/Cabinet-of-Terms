@@ -33,23 +33,12 @@ related_reaction:
 
 **Why This Matters:** **Cyborg Musk** makes visible a general mechanism: critical vocabulary can be adopted while its critique is discarded. The aesthetics migrate; the politics do not. Once you see this move, you can identify it wherever it happens — in corporate "disruption" language, in Silicon Valley "moonshot" rhetoric, in any use of countercultural aesthetics in the service of power concentration.
 
-**Related terms:** [[Cyborg]] · [[Muskism]] · [[Transhumanism]] · [[Digital Libertarianism]] · [[Cyberfeminism]]
+**Related terms:** [[Cyborg]] · [[Muskism]] · [[Transhumanism]] · [[Digital Libertarianism]] · [[Cyberfeminism]] · [[Situated Knowledge]] · [[Technofeudalism]]
 
 
 ---
 **Read more:**
 - [A Cyborg Manifesto](https://monoskop.org/images/4/4c/Haraway_Donna_1985_A_Manifesto_for_Cyborgs_Science_Technology_and_Socialist_Feminism_in_the_1980s.pdf) — Haraway, D. (1985). *Socialist Review* — later in *Simians, Cyborgs, and Women* (1991), Routledge
 - [Muskism](https://www.theguardian.com/books/2026/mar/26/muskism-by-quinn-slobodian-and-ben-tarnoff-review-how-elon-musk-is-reshaping-the-world) — Slobodian, Q. & Tarnoff, B. (2026). *The Guardian*
-
----
-
-## Navigation
-
-**Layer:** Consequence — the appropriation of feminist cyborg vocabulary as iconography for power concentration
-
-**Cause:** [[Cyborg]] · [[Digital Libertarianism]]
-**Mechanism:** [[Muskism]] · [[Transhumanism]]
-**Consequence:** [[Muskism]] · [[Technofeudalism]]
-**Reaction:** [[Cyberfeminism]] · [[Situated Knowledge]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

@@ -33,23 +33,12 @@ related_reaction:
 
 **Why This Matters:** **Clickbait** makes visible that the headline is a separate product from the article — engineered for a different metric. Once you know that, the gap between what was promised and what was delivered is not a mistake. It is the design.
 
-**Related terms:** [[Ragebaiting]] · [[Empathy Exploit]] · [[Recommender Systems]] · [[Attention Economy]] · [[AI Slop]]
+**Related terms:** [[Ragebaiting]] · [[Empathy Exploit]] · [[Recommender Systems]] · [[Attention Economy]] · [[AI Slop]] · [[Doomscrolling]] · [[Fact Checker]] · [[Slow Media]]
 
 
 ---
 **Read more:**
 - [Stop Clickbait: Crowdsourcing Detection of Clickbaits in Online News Media](https://doi.org/10.1109/ASONAM.2016.7752207) — Chakraborty, A. et al. (2016). *IEEE ASONAM*
 - [The Attention Merchants](https://www.penguinrandomhouse.com/books/234876/the-attention-merchants-by-tim-wu/) — Wu, T. (2016). *Knopf*
-
----
-
-## Navigation
-
-**Layer:** Mechanism — headlines engineered to generate clicks through emotional triggers, optimised for the click rather than the read
-
-**Cause:** [[Attention Economy]] · [[Recommender Systems]]
-**Mechanism:** [[Ragebaiting]] · [[Empathy Exploit]]
-**Consequence:** [[Doomscrolling]] · [[AI Slop]]
-**Reaction:** [[Slow Media]] · [[Fact Checker]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

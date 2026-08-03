@@ -33,23 +33,12 @@ related_reaction:
 
 **Why This Matters:** The **de-installer** names a profession whose existence is evidence of a design failure. Every device that requires a **de-installer** is a device that was designed against its user. Once you see that, the question is not "who can help me remove this?" but "why was it installed without my consent?"
 
-**Related terms:** [[Digital Coach]] · [[Predatory Design]] · [[Enshittification]] · [[Tech Abandonment]] · [[Fair Patterns]]
+**Related terms:** [[Digital Coach]] · [[Predatory Design]] · [[Enshittification]] · [[Tech Abandonment]] · [[Fair Patterns]] · [[Digital Exclusion]]
 
 
 ---
 **Read more:**
 - [The Internet Con: How to Seize the Means of Computation](https://www.versobooks.com/products/3035-the-internet-con) — Doctorow, C. (2023). *Verso Books*
 - [Technically Wrong](https://wwnorton.com/books/technically-wrong/) — Wachter-Boettcher, S. (2017). *W.W. Norton*
-
----
-
-## Navigation
-
-**Layer:** Reaction — an informal role that exists because devices are designed against their users' interests
-
-**Cause:** [[Predatory Design]] · [[Enshittification]]
-**Mechanism:** [[Digital Coach]] · [[Tech Abandonment]]
-**Consequence:** [[Tech Abandonment]] · [[Digital Exclusion]]
-**Reaction:** [[Digital Coach]] · [[Fair Patterns]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

@@ -32,7 +32,7 @@ related_reaction:
 
 **Why This Matters:** **Privacy washing** makes visible the gap between a privacy statement and a privacy practice. Once you know the move — reassuring language deployed as a substitute for substance — you can ask of any privacy claim: what specifically does this prevent, and how is it enforced?
 
-**Related terms:** [[Security Theater]] · [[Surveillance Capitalism]] · [[Dark Patterns]] · [[Brussels Effect]] · [["We have never and will never sell user data."]]
+**Related terms:** [[Security Theater]] · [[Surveillance Capitalism]] · [[Dark Patterns]] · [[Brussels Effect]] · [["We have never and will never sell user data."]] · [[Algorithmic Violence]] · [[Deceptive Design]] · [[Vendor Lock-in]]
 
 
 ---
@@ -41,17 +41,5 @@ related_reaction:
 - [Oversharing the super safe stuff: “Privacy-washing” in Apple iPhone and Google Pixel commercials](https://firstmonday.org/ojs/index.php/fm/article/view/13321) — Cirucci, A.M. (2024). _First Monday_
 - [Privacy Washing and the Regulation of Online Platforms](https://scholarlycommons.law.emory.edu/cgi/viewcontent.cgi?article=1560&context=elj) — Waldman, A.E. (2021). _Emory Law Journal_
 - [Revealed: 50 million Facebook profiles harvested for Cambridge Analytica in major data breach](https://www.theguardian.com/news/2018/mar/17/cambridge-analytica-facebook-influence-us-election) — Cadwalladr, C. & Graham-Harrison, E. (2018). _The Guardian_
-
-
----
-
-## Navigation
-
-**Layer:** Mechanism — privacy rhetoric deployed as a substitute for privacy practice
-
-**Cause:** [[Surveillance Capitalism]] · [[Dark Patterns]]
-**Mechanism:** [[Security Theater]] · [[Deceptive Design]]
-**Consequence:** [[Algorithmic Violence]] · [[Vendor Lock-in]]
-**Reaction:** [[Brussels Effect]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

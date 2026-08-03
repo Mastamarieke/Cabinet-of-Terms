@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Memecoin** makes visible the convergence of cultural community, financial speculation, and political power. Once you see the structure — community as distribution network for financial extraction — the question is not "is this a scam?" but "whose financial interests are served by the community's belief?"
 
-**Related terms:** [[Grifters]] · [[Financial Fabulism]] · [[Broligarchy]] · [[Brussels Effect]] · [[AI Literacy]]
+**Related terms:** [[Grifters]] · [[Financial Fabulism]] · [[Broligarchy]] · [[Brussels Effect]] · [[AI Literacy]] · [[Subcultural Vocabulary and Platform Language]]
 
 
 ---
@@ -46,16 +46,5 @@ related_reaction:
 - [Is every memecoin just a scam?](https://www.theguardian.com/technology/2025/may/30/is-memecoin-scam-crypto-trump) — _The Guardian_ (2025). — on memecoins as attention-driven speculative systems associated with pump-and-dump dynamics, influencer culture, and online financial extraction
 - [Meme Coin Craze! Which Will Shine Bright in 2025? Pepe, Shiba Inu, Trump Coin, or Remittix](https://www.binance.com/en/square/post/19257927512129) — _Binance Square_(2025). — example of speculative memecoin culture blending political branding, influencer hype, viral attention economies, and high-risk retail crypto speculation.
   [Meme Coin Craze! Which Will Shine Bright in 2025? Pepe, Shiba Inu, Trump Coin, or Remittix](https://www.binance.com/en/square/post/19257927512129) — _Binance Square_(2025). — example of speculative **memecoin** culture blending political branding, **influencer** hype, viral attention economies, and high-risk retail crypto speculation.
-
----
-
-## Navigation
-
-**Layer:** Mechanism — cultural community deployed as the distribution and trust infrastructure for financial speculation
-
-**Cause:** [[Financial Fabulism]] · [[Broligarchy]]
-**Mechanism:** [[Grifters]] · [[Subcultural Vocabulary and Platform Language]]
-**Consequence:** [[Grifters]] · [[Financial Fabulism]]
-**Reaction:** [[Brussels Effect]] · [[AI Literacy]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

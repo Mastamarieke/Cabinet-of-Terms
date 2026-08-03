@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Bot farms** make visible that social proof — the signal that tells you what others think — can be manufactured at scale. Once you know that, "trending" and "viral" become different kinds of sentences.
 
-**Related terms:** [[Recommender Systems]] · [[Flood the Zone]] · [[Microtargeting]] · [[Synthetic Generation]] · [[Narrative Engineering]] · [[Ragebaiting]] · [[Fact Checker]]
+**Related terms:** [[Recommender Systems]] · [[Flood the Zone]] · [[Microtargeting]] · [[Synthetic Generation]] · [[Narrative Engineering]] · [[Ragebaiting]] · [[Fact Checker]] · [[Deplatforming]] · [[Great Replacement]] · [[QAnon]]
 
 
 ---
@@ -42,16 +42,5 @@ related_reaction:
 - [Inside the Macedonian Fake-News Complex](https://www.wired.com/2017/02/veles-macedonia-fake-news/) — Subramanian, S. (2017). _WIRED_
 - [Troll farm](https://en.wikipedia.org/wiki/Troll_farm) — overview of organised online propaganda operations, including Macedonia, the Philippines, and Russia.
   [The Global Disinformation Order: 2019 Global Inventory of Organised Social Media Manipulation](https://demtech.oii.ox.ac.uk/research/posts/the-global-disinformation-order-2019-global-inventory-of-organised-social-media-manipulation/) — Bradshaw, S. & Howard, P. (2019). _Oxford Internet Institute_
-
----
-
-## Navigation
-
-**Layer:** Mechanism — automated account networks that manufacture the appearance of organic opinion
-
-**Cause:** [[Flood the Zone]] · [[Synthetic Generation]]
-**Mechanism:** [[Recommender Systems]] · [[Microtargeting]]
-**Consequence:** [[Great Replacement]] · [[QAnon]]
-**Reaction:** [[Deplatforming]] · [[Fact Checker]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

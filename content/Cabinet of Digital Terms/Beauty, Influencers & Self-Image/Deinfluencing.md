@@ -34,23 +34,12 @@ related_reaction:
 
 **Why This Matters:** **Deinfluencing** makes visible the recuperation mechanism: the platform absorbs critique by making the critique into content. Once you see that move, you see it everywhere.
 
-**Related terms:** [[Influencer]] · [[Comparison Culture]] · [[Highlight Reel]] · [[Counter-Movements]] · [[Digital Detox]] · [[Looksmaxxing]] · [[Tradwife]]
+**Related terms:** [[Influencer]] · [[Comparison Culture]] · [[Highlight Reel]] · [[Counter-Movements]] · [[Digital Detox]] · [[Looksmaxxing]] · [[Tradwife]] · [[Curated Life]]
 
 
 ---
 **Read more:**
 - [# The Influencer Industry: The Quest for Authenticity on Social Media](https://press.princeton.edu/books/hardcover/9780691231020/the-influencer-industry?srsltid=AfmBOor4zg-QWFHQeHwgkb6UNw9yzshMv_SAphGsbYnuNL5pz1jrR3zX) — Huns, E. (2023). *Princeton University Press*
 - [The lie of "deinfluencing"](https://www.vox.com/culture/23950580/deinfluencing-tiktok-shop-influencer-culture-consumerism) — Vox (2023)
-
----
-
-## Navigation
-
-**Layer:** Reaction — a content format that critiques consumption while reproducing the platform logic that drives it
-
-**Cause:** [[Comparison Culture]] · [[Influencer]] · [[Looksmaxxing]] · [[Tradwife]]
-**Mechanism:** [[Highlight Reel]] · [[Curated Life]]
-**Consequence:** [[Comparison Culture]]
-**Reaction:** [[Counter-Movements]] · [[Digital Detox]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

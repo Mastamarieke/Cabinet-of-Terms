@@ -32,7 +32,7 @@ related_reaction:
 
 **Why This Matters:** **Family vlogging** makes visible the specific harm of using a child's childhood as content before the child can assess the trade. The audience feels like community. The content is also a permanent record the child did not choose to create.
 
-**Related terms:** [[Momfluencer]] · [[Kidfluencer]] · [[Sharenting]] · [[Parasocial Relationship]] · [[Creator Economy]]
+**Related terms:** [[Momfluencer]] · [[Kidfluencer]] · [[Sharenting]] · [[Parasocial Relationship]] · [[Creator Economy]] · [[Deinfluencing]]
 
 
 ---
@@ -41,16 +41,5 @@ related_reaction:
 - [From Privacy to Power: Children’s Rights in a Digital Age](https://freedomreport.5rightsfoundation.com/from-privacy-to-power-childrens-rights-in-a-digital-age) — 5Rights Foundation. (2020). _5Rights Foundation_
 - [#familygoals: Family Influencers, Calibrated Amateurism, and Justifying Young Digital Labor](https://journals.sagepub.com/doi/10.1177/2056305117707191) — Abidin, C. (2017). _Social Media + Society_
   [Child Influencers](https://www.jstor.org/stable/27221042) — Abidin, C. (2023). _Dissent_
-
----
-
-## Navigation
-
-**Layer:** Mechanism — the production of children's daily lives as content for a commercial audience
-
-**Cause:** [[Sharenting]] · [[Creator Economy]]
-**Mechanism:** [[Momfluencer]] · [[Kidfluencer]]
-**Consequence:** [[Kidfluencer]] · [[Parasocial Relationship]]
-**Reaction:** [[Deinfluencing]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

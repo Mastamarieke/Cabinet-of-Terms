@@ -33,23 +33,12 @@ related_reaction:
 
 **Why This Matters:** **Neuralink** makes visible how a brand name can serve as ideological positioning — recruiting the cultural capital of SF to a commercial technology project before the technology delivers on what the name implies.
 
-**Related terms:** [[Brain-Computer Interface]] · [[Cybernetic Collective]] · [[Mind Uploading]] · [[Transhumanism]] · [[Cyborg Musk]] · [[VSD (Value Sensitive Design)]]
+**Related terms:** [[Brain-Computer Interface]] · [[Cybernetic Collective]] · [[Mind Uploading]] · [[Transhumanism]] · [[Cyborg Musk]] · [[VSD (Value Sensitive Design)]] · [[Brussels Effect]] · [[Muskism]] · [[Technofeudalism]]
 
 
 ---
 **Read more:**
 - [The Battle for Your Brain: Defending the Right to Think Freely in the Age of Neurotechnology](https://www.amazon.com/Battle-Your-Brain-Defending-Neurotechnology/dp/1250272955) — Farahany, N. A. (2023). _St. Martin’s Press_ — on neurotechnology, cognitive liberty, brain data, and the emerging politics
 - [Neuralink Human Trial](https://neuralink.com/blog/prime-study-progress-update/) — Neuralink (2024)
-
----
-
-## Navigation
-
-**Layer:** Mechanism — a neurotechnology brand whose name and narrative draw from SF to position medical technology as civilisational transformation
-
-**Cause:** [[Brain-Computer Interface]] · [[Transhumanism]]
-**Mechanism:** [[Cybernetic Collective]] · [[Cyborg Musk]]
-**Consequence:** [[Technofeudalism]] · [[Muskism]]
-**Reaction:** [[Brussels Effect]] · [[VSD (Value Sensitive Design)]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

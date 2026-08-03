@@ -33,23 +33,12 @@ related_reaction:
 
 **Why This Matters:** **Accessibility** makes visible the gap between compliance and genuine inclusion. The standard is a floor, not a ceiling. Once you know the difference, "this site is accessible" is the beginning of the question, not the answer.
 
-**Related terms:** [[Universal Design]] · [[Inclusive Design]] · [[Digital Exclusion]] · [[Digital Divide]] · [[Ageism (Digital)]]
+**Related terms:** [[Universal Design]] · [[Inclusive Design]] · [[Digital Exclusion]] · [[Digital Divide]] · [[Ageism (Digital)]] · [[Predatory Design]] · [[Tech Abandonment]]
 
 
 ---
 **Read more:**
 - [Web Content Accessibility Guidelines (WCAG) 2.1](https://www.w3.org/TR/WCAG21/) — W3C Web Accessibility Initiative (2018)
 - [A Web for Everyone](https://rosenfeldmedia.com/books/a-web-for-everyone/) — Horton, S. & Quesenbery, W. (2014). *Rosenfeld Media*
-
----
-
-## Navigation
-
-**Layer:** Mechanism — the technical and legal standard for digital inclusion, defining a floor that leaves structural barriers above it unaddressed
-
-**Cause:** [[Digital Exclusion]] · [[Predatory Design]]
-**Mechanism:** [[Universal Design]] · [[Inclusive Design]]
-**Consequence:** [[Digital Divide]] · [[Tech Abandonment]]
-**Reaction:** [[Universal Design]] · [[Inclusive Design]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

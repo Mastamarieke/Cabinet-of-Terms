@@ -32,7 +32,7 @@ related_reaction:
 
 **Why This Matters:** When AI becomes a utility, it stops being a choice. Once something is infrastructure, opting out carries the same cost as opting out of electricity. The moment to ask questions about AI is before it becomes invisible — not after.
 
-**Related terms:** [[AI Dependency]] · [[Externalized Costs]] · [[Cognitive Offloading]] · [[Deskilling]] · [[AI Literacy]]
+**Related terms:** [[AI Dependency]] · [[Externalized Costs]] · [[Cognitive Offloading]] · [[Deskilling]] · [[AI Literacy]] · [[Attention Economy]]
 
 
 ---
@@ -41,16 +41,5 @@ related_reaction:
 - [Power and Progress](https://www.publicaffairsbooks.com/titles/daron-acemoglu/power-and-progress/9781541702530/)
 - [Sam Altman wants to turn AI into a utility - and meter "intelligence" like electricity](https://www.windowscentral.com/artificial-intelligence/sam-altman-wants-to-turn-ai-into-a-utility-and-meter-intelligence-like-electricity) 
 - [AI as Public Infrastructure: A Critical Review of the Transition from Tool to Societal Necessity](https://www.researchgate.net/publication/399504193_AI_AS_PUBLIC_INFRASTRUCTURE_A_CRITICAL_REVIEW_OF_THE_TRANSITION_FROM_TOOL_TO_SOCIETAL_NECESSITY) — Ahmed, R. et al. (2026). _ResearchGate preprin_— Warren, T. (2026). _
-
----
-
-## Navigation
-
-**Layer:** Mechanism — the infrastructure framing that makes AI invisible and its dependencies unexamined
-
-**Cause:** [[Attention Economy]] · [[AI Dependency]]
-**Mechanism:** [[Externalized Costs]] · [[Cognitive Offloading]]
-**Consequence:** [[AI Dependency]] · [[Deskilling]]
-**Reaction:** [[AI Literacy]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

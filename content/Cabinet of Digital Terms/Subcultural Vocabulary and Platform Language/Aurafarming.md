@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Aurafarming** makes visible the labour behind apparently effortless presence. Once you see the farming metaphor, the "naturally cool" person is also a person managing resources — and the status hierarchy they inhabit is also a designed environment.
 
-**Related terms:** [[Main Character Energy]] · [[Personal Branding]] · [[Curated Life]] · [[Comparison Culture]] · [[Tierlists S-Tier]]
+**Related terms:** [[Main Character Energy]] · [[Personal Branding]] · [[Curated Life]] · [[Comparison Culture]] · [[Tierlists S-Tier]] · [[Attention Economy]] · [[Deinfluencing]] · [[Imposter Syndrome]] · [[JOMO]]
 
 
 ---
@@ -42,16 +42,5 @@ related_reaction:
 - [The Presentation of Self in Everyday Life**](https://monoskop.org/images/1/19/Goffman_Erving_The_Presentation_of_Self_in_Everyday_Life.pdf) — Goffman, E. (1959), _Doubleday / Anchor Books_.
 - [**You Might Be Losing ‘Aura Points’ and Not Even Know It**](https://www.gq.com/story/aura-points?utm_source=chatgpt.com) — Yang, J. (2024), _GQ_.  
 Goede journalistieke bron over “aura” als Gen Z-statussysteem: coolness, cringe, sociale valuta en zelfpresentatie.
-
----
-
-## Navigation
-
-**Layer:** Mechanism — the deliberate systematic cultivation of perceived social presence and mystique
-
-**Cause:** [[Attention Economy]] · [[Personal Branding]]
-**Mechanism:** [[Main Character Energy]] · [[Curated Life]]
-**Consequence:** [[Comparison Culture]] · [[Imposter Syndrome]]
-**Reaction:** [[JOMO]] · [[Deinfluencing]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

@@ -33,23 +33,12 @@ related_reaction:
 
 **Why This Matters:** **Grokipedia** makes visible the specific harm of AI-generated reference content: not that it is always wrong, but that it is indistinguishable in format from verified reference while being unverified. Once you see the format as a rhetorical move rather than a guarantee, every **Grokipedia** entry requires the same scrutiny as any other AI output.
 
-**Related terms:** [[Synthetic Generation]] · [[Flood the Zone]] · [[Muskism]] · [[AI Literacy]] · [[Fact Checker]]
+**Related terms:** [[Synthetic Generation]] · [[Flood the Zone]] · [[Muskism]] · [[AI Literacy]] · [[Fact Checker]] · [[Dehumanization]] · [[Financial Fabulism]]
 
 
 ---
 **Read more:**
 - [Stochastic Parrots](https://doi.org/10.1145/3442188.3445922) — Bender, E.M. et al. (2021). *ACM FAccT* — on what AI-generated text is and is not
 - [Grok and xAI](https://x.ai) — xAI (2023–)
-
----
-
-## Navigation
-
-**Layer:** Mechanism — encyclopedic format deployed to give AI-generated politically aligned content the appearance of neutral reference
-
-**Cause:** [[Muskism]] · [[Financial Fabulism]]
-**Mechanism:** [[Flood the Zone]] · [[Synthetic Generation]]
-**Consequence:** [[Flood the Zone]] · [[Dehumanization]]
-**Reaction:** [[AI Literacy]] · [[Fact Checker]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

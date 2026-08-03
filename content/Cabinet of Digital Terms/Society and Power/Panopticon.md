@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Panopticon** provides the analytical vocabulary for asking: has the awareness of surveillance already changed how you behave, before any surveillance has occurred? Once you ask that question, the political effect of surveillance systems is visible even when no specific observation has happened.
 
-**Related terms:** [[Surveillance Capitalism (Political Economy)]] · [[Social Credit System]] · [[Biometric Surveillance]] · [[Cybernetic Governance]] · [[Obfuscation]]
+**Related terms:** [[Surveillance Capitalism (Political Economy)]] · [[Social Credit System]] · [[Biometric Surveillance]] · [[Cybernetic Governance]] · [[Obfuscation]] · [[Algorithmic Violence]] · [[Brussels Effect]]
 
 
 ---
@@ -41,16 +41,5 @@ related_reaction:
 - [Discipline and Punish](https://www.penguinrandomhouse.com/books/108900/discipline-and-punish-by-michel-foucault/) — Foucault, M. (1975/1977). *Pantheon Books*
 - [The Panopticon Writings](https://www.versobooks.com/products/1572-the-panopticon-writings) — Bentham, J. (ed. Božovič, M.) (1995). *Verso*
 - [Big Tech maakt van burgers vee](https://www.vn.nl/op-afstand-gestuurde-mens) — Van Iperen, R. (2026). *Vrij Nederland*, 9 juli
-
----
-
-## Navigation
-
-**Layer:** Mechanism — a structure of surveillance whose power derives from the uncertainty of observation rather than its certainty
-
-**Cause:** [[Surveillance Capitalism (Political Economy)]] · [[Cybernetic Governance]]
-**Mechanism:** [[Social Credit System]] · [[Biometric Surveillance]]
-**Consequence:** [[Social Credit System]] · [[Algorithmic Violence]]
-**Reaction:** [[Obfuscation]] · [[Brussels Effect]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

@@ -33,23 +33,12 @@ related_reaction:
 
 **Why This Matters:** **The Singularity** names the rhetorical move of making AI sound inevitable and transcendent — which forecloses questions about who is building it, who benefits, and who bears the costs. Once you see the move, "**the Singularity** is near" is not a prediction. It is a political position.
 
-**Related terms:** [[AGI]] · [[Transhumanism]] · [[Longtermism]] · [[Doomerism]] · [[AI Literacy]]
+**Related terms:** [[AGI]] · [[Transhumanism]] · [[Longtermism]] · [[Doomerism]] · [[AI Literacy]] · [[Situated Knowledge]]
 
 
 ---
 **Read more:**
 - [The Singularity Is Near](https://www.goodreads.com/book/show/83518.The_Singularity_Is_Near) — Kurzweil, R. (2005). *Viking* — influential argument that accelerating technological progress will culminate in superhuman artificial intelligence and radical transformation of human civilisation
 - [The Coming Technological Singularity](https://ntrs.nasa.gov/citations/19940022856) — Vinge, V. (1993). *NASA Technical Reports*
-
----
-
-## Navigation
-
-**Layer:** Mechanism — a forecast of AI transcendence that makes present governance questions seem inadequate to cosmological stakes
-
-**Cause:** [[AGI]] · [[Transhumanism]]
-**Mechanism:** [[Longtermism]] · [[Doomerism]]
-**Consequence:** [[Longtermism]] · [[Doomerism]]
-**Reaction:** [[AI Literacy]] · [[Situated Knowledge]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

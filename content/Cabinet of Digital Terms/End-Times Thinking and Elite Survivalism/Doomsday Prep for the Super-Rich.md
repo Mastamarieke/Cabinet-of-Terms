@@ -33,23 +33,12 @@ related_reaction:
 
 **Why This Matters:** **Doomsday prep for the super-rich** makes visible the political decision embedded in the logistics question. Once you see the framing choice — collapse as logistics, not politics — the bunker in New Zealand is also a statement about whose survival counts as civilisational continuity.
 
-**Related terms:** [[Fortress Futurism]] · [[Prepperism]] · [[Seasteading]] · [[Longtermism]] · [[Armageddon Complex]]
+**Related terms:** [[Fortress Futurism]] · [[Prepperism]] · [[Seasteading]] · [[Longtermism]] · [[Armageddon Complex]] · [[Brussels Effect]] · [[Situated Knowledge]] · [[Technofeudalism]]
 
 
 ---
 **Read more:**
 - [Survival of the Richest](https://wwnorton.com/books/survival-of-the-richest) — Rushkoff, D. (2022). *W.W. Norton*
 - [Bunker: Building for the End Times](https://www.press.uchicago.edu/ucp/books/book/chicago/B/bo48668894.html) — Garrett, B.L. (2020). *University of Chicago Press*
-
----
-
-## Navigation
-
-**Layer:** Consequence — civilisational collapse anxiety converted into private escape infrastructure
-
-**Cause:** [[Fortress Futurism]] · [[Longtermism]]
-**Mechanism:** [[Seasteading]] · [[Prepperism]]
-**Consequence:** [[Fortress Futurism]] · [[Technofeudalism]]
-**Reaction:** [[Situated Knowledge]] · [[Brussels Effect]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

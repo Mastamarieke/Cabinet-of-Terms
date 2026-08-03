@@ -33,23 +33,12 @@ related_reaction:
 
 **Why This Matters:** **Crash-out** makes visible how emotional states become content in the **attention economy**. Once you see the content/event ambiguity, "I can't believe they actually did that" is a response that is also part of the distribution mechanism.
 
-**Related terms:** [[Ragebaiting]] · [[Main Character Energy]] · [[Ratio'd]] · [[Attention Economy]] · [[Aurafarming]]
+**Related terms:** [[Ragebaiting]] · [[Main Character Energy]] · [[Ratio'd]] · [[Attention Economy]] · [[Aurafarming]] · [[AI Literacy]] · [[Deplatforming]] · [[JOMO]]
 
 
 ---
 **Read more:**
 -  [Crashing out: how Gen Z adopted the perfect term for our unstable era**](https://www.theguardian.com/lifeandstyle/2025/jun/18/crashing-out-gen-z-perfect-term-unstable-era?utm_source=chatgpt.com) — The Guardian (2025), _The Guardian_.  
 - [Crash Out: The Gen Z Slang That May Also be a Real Mental Health Red Flag**](https://www.crisistextline.org/blog/2025/08/18/crashing-out-defined/?utm_source=chatgpt.com) — Crisis Text Line (2025), _Crisis Text Line_.
-
----
-
-## Navigation
-
-**Layer:** Consequence — a public emotional breakdown made socially legible through documentation and distribution
-
-**Cause:** [[Ragebaiting]] · [[Attention Economy]]
-**Mechanism:** [[Ragebaiting]] · [[Main Character Energy]]
-**Consequence:** [[Ratio'd]] · [[Deplatforming]]
-**Reaction:** [[JOMO]] · [[AI Literacy]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

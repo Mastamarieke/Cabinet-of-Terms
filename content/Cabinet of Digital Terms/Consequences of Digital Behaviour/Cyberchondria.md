@@ -32,7 +32,7 @@ Starcevic and Berle (2021) document that **cyberchondria** intensified during CO
 **Why This Matters**
 Once you see **cyberchondria** as an algorithmic design outcome rather than individual anxiety, you see that the platform profiting from the health search loop is indifferent to whether the information helps or harms the user.
 
-**Related terms:** [[Recommender Systems]] · [[Digital Overload]] · [[Dopamine Feedback Loops]]
+**Related terms:** [[Recommender Systems]] · [[Digital Overload]] · [[Dopamine Feedback Loops]] · [[Attention Economy]] · [[Cognitive Surrender]] · [[Technostress]]
 
 
 ---
@@ -40,20 +40,5 @@ Once you see **cyberchondria** as an algorithmic design outcome rather than indi
 📖 **Read more**
 - [Cyberchondria in the Time of the COVID-19 Pandemic](https://pmc.ncbi.nlm.nih.gov/articles/PMC7753572/) — Starcevic, V. & Berle, D. (2021). *Journal of Anxiety Disorders*
 - [Cyberchondria: Challenges of Problematic Online Searches for Health-Related Information](https://karger.com/pps/article/86/3/129/282998/Cyberchondria-Challenges-of-Problematic-Online) — Starcevic, V. & Berle, D. (2017). *Psychotherapy and Psychosomatics*
-
----
----
-
-## Navigation
-
-**Layer:** Consequence — health anxiety amplified by online symptom searching; algorithms reinforce the spiral
-
-**Cause:** [[Recommender Systems]] · [[Attention Economy]]
-**Mechanism:** [[Dopamine Feedback Loops]]
-**Consequence:** [[Technostress|Technostress]] · [[Cognitive Surrender]]
-**Reaction:** *—*
-
-**Public entry:** this document
-**Deep analysis:** *in production*
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

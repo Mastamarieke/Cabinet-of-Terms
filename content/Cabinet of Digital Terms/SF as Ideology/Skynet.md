@@ -48,15 +48,4 @@ The term has since entered mainstream political and technological vocabulary as 
 - [Skynet Isn’t Sci-Fi – It’s a Governance Pattern We Know Too Well](https://regulatorystudies.columbian.gwu.edu/skynet-isnt-sci-fi-its-governance-pattern-we-know-too-well) — GW Regulatory Studies Center (2026). — explicitly reframes Skynet as a governance metaphor rather than merely a fictional villain. 
 - [Skynet Is AI Apocalypse](https://www.metaphorex.org/entries/skynet-is-ai-apocalypse/) — on how the Skynet metaphor simultaneously clarifies and distorts public understanding of AI risk.
 
----
-
-## Navigation
-
-**Layer:** Mechanism — a fictional AI villain whose cultural availability makes AI risk both communicable and dismissible
-
-**Cause:** [[AGI]] · [[Digital Frankenstein]]
-**Mechanism:** [[Doomerism]] · [[Digital Frankenstein]]
-**Consequence:** [[Doomerism]]
-**Reaction:** [[Red Teamer]] · [[AI Literacy]]
-
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

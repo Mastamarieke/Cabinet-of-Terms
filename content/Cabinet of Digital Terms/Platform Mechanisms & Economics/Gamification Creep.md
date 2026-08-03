@@ -33,23 +33,12 @@ related_reaction:
 
 **Why This Matters:** **Gamification creep** makes visible that the game has spread beyond the game. Once you recognise the mechanic — the streak, the badge, the progress bar — you can ask what behaviour it is designed to sustain, and for whose benefit.
 
-**Related terms:** [[Dopamine Feedback Loops]] · [[Ludic Loop]] · [[Dark Patterns]] · [[Predatory Design]] · [[Gaming Disorder]] · [[Fair Patterns]] · [[Loot Boxes]]
+**Related terms:** [[Dopamine Feedback Loops]] · [[Ludic Loop]] · [[Dark Patterns]] · [[Predatory Design]] · [[Gaming Disorder]] · [[Fair Patterns]] · [[Loot Boxes]] · [[Attention Economy]] · [[Deskilling]] · [[VSD (Value Sensitive Design)]]
 
 
 ---
 **Read more:**
 - [From Game Design Elements to Gamefulness](https://doi.org/10.1145/2181037.2181040) — Deterding, S. et al. (2011). *ACM MindTrek*
 - [An Ontology of Dark Patterns](https://doi.org/10.1145/3613904.3642436) — Gray, C.M. et al. (2024). *ACM CHI*
-
----
-
-## Navigation
-
-**Layer:** Mechanism — the spread of game design elements into non-game contexts to sustain engagement
-
-**Cause:** [[Dopamine Feedback Loops]] · [[Attention Economy]]
-**Mechanism:** [[Dark Patterns]] · [[Predatory Design]]
-**Consequence:** [[Gaming Disorder]] · [[Deskilling]]
-**Reaction:** [[Fair Patterns]] · [[VSD (Value Sensitive Design)]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

@@ -31,7 +31,7 @@ related_reaction:
 
 **Why this sentence matters:** Once you hear the structure — "X is obviously an issue" — you can identify it wherever it appears. It is the rhetorical form of corporate ethical consciousness that produces no constraint. The acknowledgement is the performance. The refusal is what was not said.
 
-**Related terms:** [[Dual-Use Technology]] · [[Military-Industrial Complex]] · [[Digital-Military-Industrial Complex]] · [["500 million people installed that app in 60 days."]]
+**Related terms:** [[Dual-Use Technology]] · [[Military-Industrial Complex]] · [[Digital-Military-Industrial Complex]] · [["500 million people installed that app in 60 days."]] · [[Brussels Effect]] · [[Sacrifice Zones]] · [[Surveillance Capitalism]]
 
 
 ---
@@ -39,16 +39,5 @@ related_reaction:
 - [Pokémon Go Data “Adding Amplitude to War Is Obviously an Issue,” Niantic Exec Says](https://www.404media.co/pokemon-go-data-adding-amplitude-to-war-is-obviously-an-issue-niantic-exec-says/) — Koebler, J. (2025). _404 Media_
 - [Pokemon Go Developer Doesn't Want Its AI Mapping Data Used For War](https://www.gamespot.com/articles/pokemon-go-developer-doesnt-want-its-ai-mapping-data-used-for-war/1100-6528057/) — Marnell, B. (2024). _GameSpot_
 - [The Pentagon’s Silicon Valley Problem: How Big Tech Is Losing the Wars of the Future](https://harpers.org/archive/2024/03/the-pentagons-silicon-valley-problem-andrew-cockburn/) — Cockburn, A. (2024). _Harper’s Magazine_
-
----
-
-## Navigation
-
-**Layer:** Mechanism — ethical acknowledgement without ethical commitment, performed through the word "issue"
-
-**Cause:** [[Dual-Use Technology]]
-**Mechanism:** [[Military-Industrial Complex]] · [[Surveillance Capitalism]]
-**Consequence:** [[Sacrifice Zones]] · [[Digital-Military-Industrial Complex]]
-**Reaction:** [[Brussels Effect]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

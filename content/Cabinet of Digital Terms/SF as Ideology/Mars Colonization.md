@@ -35,7 +35,7 @@ related_reaction:
 
 **Why This Matters:** **Mars colonization** makes visible how SF's species-survival vocabulary can be deployed to frame private commercial projects as universal human necessities. Once you ask who owns the escape route, the universalist framing becomes legible as something more specific.
 
-**Related terms:** [[Fortress Futurism]] · [[Longtermism]] · [[Transhumanism]] · [[Objectivism (Rand)]] · [[Situated Knowledge]]
+**Related terms:** [[Fortress Futurism]] · [[Longtermism]] · [[Transhumanism]] · [[Objectivism (Rand)]] · [[Situated Knowledge]] · [[Brussels Effect]] · [[Externalized Costs]]
 
 
 ---
@@ -44,16 +44,5 @@ related_reaction:
 - [The Case for Mars](https://www.amazon.com/Sirens-Mars-Searching-Another-World/dp/1101904836) — Zubrin, R. (2011). _Simon & Schuster_
 - [Making Humans a Multi-Planetary Species](https://journals.sagepub.com/doi/10.1089/space.2017.29009.emu) — Musk, E. (2017). _New Space_
 - [Mars Trilogy](https://www.fnac.com/livre-numerique/a8842120/Kim-Stanley-Robinson-The-Complete-Mars-Trilogy-Red-Mars-Green-Mars-Blue-Mars) — Robinson, K. S. (1992–1996). *Bantam Spectra* 
-
----
-
-## Navigation
-
-**Layer:** Mechanism — species-survival vocabulary deployed to frame private exit infrastructure as a universal human project
-
-**Cause:** [[Transhumanism]] · [[Objectivism (Rand)]]
-**Mechanism:** [[Fortress Futurism]] · [[Longtermism]]
-**Consequence:** [[Fortress Futurism]] · [[Externalized Costs]]
-**Reaction:** [[Situated Knowledge]] · [[Brussels Effect]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

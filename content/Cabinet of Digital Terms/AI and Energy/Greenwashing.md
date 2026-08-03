@@ -31,23 +31,12 @@ related_reaction:
 
 **Why This Matters:** Once you know **greenwashing**, a press release is never only a press release. Pledges set in the future are not actions in the present. The gap between those two sentences is where scrutiny lives.
 
-**Related terms:** [[AI Energy Consumption]] · [[Carbon Footprint of AI]] · [[Externalized Costs]] · [[Nuclear Renaissance]] · [[Sacrifice Zones]]
+**Related terms:** [[AI Energy Consumption]] · [[Carbon Footprint of AI]] · [[Externalized Costs]] · [[Nuclear Renaissance]] · [[Sacrifice Zones]] · [[Digital Colonialism]]
 
 
 ---
 **Read more:**
 - [Scrutiny, Norms, and Selective Disclosure: A Global Study of Greenwashing](https://www.researchgate.net/publication/299547875_Scrutiny_Norms_and_Selective_Disclosure_A_Global_Study_of_Greenwashing) — Marquis, C. & Toffel, M., Zhou Y (2016). *Review of Economic Studies*
 - [Big Tech’s Dirty Secret](https://www.globalactionplan.org.uk/files/big_tech_report.pdf) — Alegre (2022)
-
----
-
-## Navigation
-
-**Layer:** Reaction — a communicative strategy that absorbs environmental critique without changing underlying behaviour
-
-**Cause:** [[AI Energy Consumption]] · [[Carbon Footprint of AI]]
-**Mechanism:** [[Externalized Costs]]
-**Consequence:** [[Sacrifice Zones]] · [[Digital Colonialism]]
-**Reaction:** [[Nuclear Renaissance]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

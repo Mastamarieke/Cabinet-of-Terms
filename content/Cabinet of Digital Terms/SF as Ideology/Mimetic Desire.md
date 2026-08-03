@@ -34,7 +34,7 @@ related_reaction:
 
 **Mimetic desire** names the engine beneath much of what digital platforms are built on. [[Influencer]] culture is mimetic desire as infrastructure: you want what they have because they are your model. [[Recommender Systems]] surface what others watched, bought, endorsed — constantly refreshing your model. [[Attention Economy]] is sustained by mimetic anxiety: the fear of desiring the wrong thing, being behind, missing out. [[FOMO]] is mimetic desire made anxious. And the scapegoat mechanism explains online pile-ons with uncomfortable precision: the sudden unanimity, the disproportionate intensity, the relief of being on the right side.
 
-**Related terms:** [[Comparison Culture]] · [[FOMO]] · [[Attention Economy]] · [[Recommender Systems]] · [[Influencer]] · [[Parasocial Relationship]] · [[Surveillance Capitalism]]
+**Related terms:** [[Comparison Culture]] · [[FOMO]] · [[Attention Economy]] · [[Recommender Systems]] · [[Influencer]] · [[Parasocial Relationship]] · [[Surveillance Capitalism]] · [[Deinfluencing]]
 
 
 ---
@@ -46,16 +46,5 @@ related_reaction:
 - Girard, R. (1961). *Deceit, Desire, and the Novel*. Johns Hopkins University Press.
 - Girard, R. (1972). *Violence and the Sacred*. Johns Hopkins University Press.
 - Thiel, P. (2014). *Zero to One*. Crown Business. — bevat Thiels expliciete toepassing van Girard op tech-concurrentie
-
----
-
-## Navigation
-
-**Layer:** Mechanism — the imitative structure of desire that drives rivalry, platform engagement, and collective violence
-
-**Cause:** [[Attention Economy]] · [[Recommender Systems]]
-**Mechanism:** [[Comparison Culture]] · [[Influencer]]
-**Consequence:** [[FOMO]] · [[Parasocial Relationship]]
-**Reaction:** [[Deinfluencing]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

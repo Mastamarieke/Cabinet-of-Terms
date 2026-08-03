@@ -33,23 +33,12 @@ related_reaction:
 
 **Why This Matters:** **Hacker ethic** names the original values of the digital age and their subsequent commercialisation. Once you know the ethic, you can ask of any tech company claiming its inheritance: which parts did you keep?
 
-**Related terms:** [[Digital Libertarianism]] · [[Obfuscation]] · [[Unblackboxing]] · [[Black Box]] · [[Cyberfeminism]]
+**Related terms:** [[Digital Libertarianism]] · [[Obfuscation]] · [[Unblackboxing]] · [[Black Box]] · [[Cyberfeminism]] · [[Objectivism (Rand)]] · [[Situated Knowledge]]
 
 
 ---
 **Read more:**
 - [Hackers: Heroes of the Computer Revolution](https://www.stevenlevy.com/hackers-heroes-of-the-computer-revolution) — Levy, S. (1984). *Anchor Press/Doubleday*
 - [The Hacker Ethic and the Spirit of the Information Age](https://www.penguin.co.uk/books/356837/the-hacker-ethic-by-pekka-himanen/9781407064291) — Himanen, P. (2001). *Random House*
-
----
-
-## Navigation
-
-**Layer:** Mechanism — the founding values of the digital age, now selectively absorbed by commercial platforms
-
-**Cause:** [[Digital Libertarianism]] · [[Objectivism (Rand)]]
-**Mechanism:** [[Unblackboxing]] · [[Black Box]]
-**Consequence:** [[Digital Libertarianism]] · [[Obfuscation]]
-**Reaction:** [[Cyberfeminism]] · [[Situated Knowledge]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

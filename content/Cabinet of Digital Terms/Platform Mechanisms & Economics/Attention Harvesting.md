@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Attention harvesting** reframes the relationship between user and platform. The user is not the customer — they are the product. Once you know the transaction, "free" platform means something different.
 
-**Related terms:** [[Attention Economy]] · [[Dopamine Feedback Loops]] · [[Recommender Systems]] · [[Dark Patterns]] · [[Cognitive Surrender]]
+**Related terms:** [[Attention Economy]] · [[Dopamine Feedback Loops]] · [[Recommender Systems]] · [[Dark Patterns]] · [[Cognitive Surrender]] · [[Calm Technology]] · [[Digital Detox]] · [[Doomscrolling]]
 
 
 ---
@@ -43,16 +43,5 @@ related_reaction:
 - [Stand Out of Our Light: Freedom and Resistance in the Attention Economy](https://www.cambridge.org/core/books/stand-out-of-our-light/3F8D7BA2C0FE3A7126A4D9B73A89415D) — Williams, J. (2018). _Cambridge University Press_
 - [The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power](https://books.google.fr/books/about/The_Age_of_Surveillance_Capitalism.html?id=lRqrDQAAQBAJ&redir_esc=y) — Zuboff, S. (2019). _PublicAffairs_
   [Shoshana **Zuboff**, The age of **surveillance capitalism**: the fight for a human future at the new frontier of power](https://www.researchgate.net/publication/346844216_Shoshana_Zuboff_The_age_of_surveillance_capitalism_the_fight_for_a_human_future_at_the_new_frontier_of_power_New_York_Public_Affairs_2019_704_pp_ISBN_978-1-61039-569-4_hardcover_978-1-61039-270-0_eboo) — Hongladarom, S. (2020). _AI & Society_
-
----
-
-## Navigation
-
-**Layer:** Mechanism — the systematic extraction of human attention as a commercial resource
-
-**Cause:** [[Attention Economy]] · [[Dopamine Feedback Loops]]
-**Mechanism:** [[Recommender Systems]] · [[Dark Patterns]]
-**Consequence:** [[Cognitive Surrender]] · [[Doomscrolling]]
-**Reaction:** [[Calm Technology]] · [[Digital Detox]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

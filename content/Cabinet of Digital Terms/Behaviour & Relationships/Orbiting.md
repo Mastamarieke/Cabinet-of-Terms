@@ -31,7 +31,7 @@ related_reaction:
 
 **Why This Matters:** **Orbiting** makes visible what platform observation features do to the experience of endings. A relationship that ended is not over if the signal keeps arriving.
 
-**Related terms:** [[Ghosting]] · [[Breadcrumbing]] · [[Phatic Interaction]] · [[Recommender Systems]] · [[JOMO]]
+**Related terms:** [[Ghosting]] · [[Breadcrumbing]] · [[Phatic Interaction]] · [[Recommender Systems]] · [[JOMO]] · [[Attention Economy]]
 
 
 ---
@@ -39,17 +39,5 @@ related_reaction:
 - [Ghosting in Emerging Adults' Romantic Relationships](https://www.researchgate.net/publication/330235766_Ghosting_in_Emerging_Adults'_Romantic_Relationships_The_Digital_Dissolution_Disappearance_Strategy) — LeFebvre, L. E., Allen, M., Rasner, R. D., Garstad, S., & Wilms, A. (2019). _Imagination, Cognition and Personality, 38_(4).
 - [Ghosting and destiny](http://static1.1.sqspcdn.com/static/f/984219/27801907/1516117830787/Freedman_Powell_Le_Williams_JSPR_In_Press.pdf) — Freedman, G., Powell, D. N., Le, B., & Williams, K. D. (2019). _Journal of Social and Personal Relationships, 36_(3), 905–924.
 - [Relationship dissolution strategies](https://cyberpsychology.eu/article/view/14691) — Pancani, L., Aureli, N., & Riva, P. (2021). _Cyberpsychology: Journal of Psychosocial Research on Cyberspace, 15_(2).
-
-
----
-
-## Navigation
-
-**Layer:** Mechanism — passive digital presence after ending direct contact, sustained by platform observation features
-
-**Cause:** [[Attention Economy]] · [[Recommender Systems]]
-**Mechanism:** [[Ghosting]] · [[Breadcrumbing]]
-**Consequence:** [[Phatic Interaction]]
-**Reaction:** [[JOMO]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

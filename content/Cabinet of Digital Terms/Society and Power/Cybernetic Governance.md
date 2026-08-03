@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Cybernetic governance** names the political stakes of what looks like administrative efficiency. Once you see algorithms as governance — not just tools — the question of who designs them, whose values they encode, and who bears their errors becomes a constitutional question.
 
-**Related terms:** [[Algorithmic Violence]] · [[Panopticon]] · [[Sovereignty as a Service]] · [[Surveillance Capitalism (Political Economy)]] · [["Like Prime, but with human beings."]]
+**Related terms:** [[Algorithmic Violence]] · [[Panopticon]] · [[Sovereignty as a Service]] · [[Surveillance Capitalism (Political Economy)]] · [["Like Prime, but with human beings."]] · [[Brussels Effect]] · [[Technofeudalism]] · [[VSD (Value Sensitive Design)]]
 
 
 ---
@@ -45,16 +45,5 @@ related_reaction:
 - [Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence](https://yalebooks.yale.edu/book/9780300264630/atlas-of-ai/) — Crawford, K. (2021). _Yale University Press_ 
 - [Anatomy of an AI System](https://anatomyof.ai/) — Crawford, K. & Joler, V. (2018). _AI Now Institute & SHARE Lab_
 - [The Human Use of Human Beings: Cybernetics and Society](https://monoskop.org/images/9/90/Wiener_Norbert_The_Human_Use_of_Human_Beings_1950.pdf) — Wiener, N. (1950). _Houghton Mifflin_
-
----
-
-## Navigation
-
-**Layer:** Mechanism — public administration through algorithmic systems that diffuse accountability while encoding existing inequalities
-
-**Cause:** [[Surveillance Capitalism (Political Economy)]] · [[Technofeudalism]]
-**Mechanism:** [[Algorithmic Violence]] · [[Panopticon]]
-**Consequence:** [[Algorithmic Violence]] · [[Sovereignty as a Service]]
-**Reaction:** [[Brussels Effect]] · [[VSD (Value Sensitive Design)]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

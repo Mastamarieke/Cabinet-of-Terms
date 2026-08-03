@@ -32,22 +32,11 @@ related_reaction:
 
 **Why This Matters:** The term teaches a specific reading practice: ask not just *what is the number* but *what does the number include*. A disclosed footprint is not the same as a small one.
 
-**Related terms:** [[AI Energy Consumption]] · [[Training Run]] · [[Inference Cost]] · [[Greenwashing]] · [[Externalized Costs]]
+**Related terms:** [[AI Energy Consumption]] · [[Training Run]] · [[Inference Cost]] · [[Greenwashing]] · [[Externalized Costs]] · [[Digital Colonialism]] · [[Sacrifice Zones]]
 
 
 ---
 **Read more:**
 - [Energy and Policy Considerations for Deep Learning in NLP](https://arxiv.org/abs/1906.02243) — Strubell, E., Ganesh, A. & McCallum, A. (2019). *ACL*
 [Chasing Carbon: The Elusive Environmental Footprint of Computing](https://doi.org/10.1109/HPCA51647.2021.00076) — Gupta, U. et al. (2021). *IEEE HPCA*
----
-
-## Navigation
-
-**Layer:** Mechanism — the accounting framework that makes AI's climate impact measurable and communicable
-
-**Cause:** [[Training Run]] · [[Inference Cost]]
-**Mechanism:** [[AI Energy Consumption]] · [[Externalized Costs]]
-**Consequence:** [[Sacrifice Zones]] · [[Digital Colonialism]]
-**Reaction:** [[Greenwashing]]
-
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

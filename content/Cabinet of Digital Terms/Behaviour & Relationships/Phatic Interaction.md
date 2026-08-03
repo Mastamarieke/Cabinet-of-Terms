@@ -32,7 +32,7 @@ related_reaction:
 
 **Why This Matters:** **Phatic interaction** makes visible the gap between being connected and being in contact. A feed full of responses is not the same as a conversation. Once you know the difference, you can count one without mistaking it for the other.
 
-**Related terms:** [[Ghosting]] · [[Orbiting]] · [[Dopamine Feedback Loops]] · [[Parasocial Relationship]] · [[JOMO]]
+**Related terms:** [[Ghosting]] · [[Orbiting]] · [[Dopamine Feedback Loops]] · [[Parasocial Relationship]] · [[JOMO]] · [[Attention Economy]] · [[Cognitive Surrender]]
 
 
 ---
@@ -43,15 +43,4 @@ related_reaction:
 -  [Closing Statement: Linguistics and Poetics](https://monoskop.org/images/8/84/Jakobson_Roman_1960_Closing_statement_Linguistics_and_Poetics.pdf) — Jacobson, Roman Jacobson (1960)
 - [Phatic, the: Communication and Communion](https://anthropology.ucsd.edu/people/faculty/faculty-profiles/The_Phatic_Communication_and_Communion.pdf), Zuckerman C. (2020) *In The International Encyclopedia of Linguistic Anthropology, J. Stanlaw*
   
----
-
-## Navigation
-
-**Layer:** Mechanism — communication whose function is social maintenance rather than information exchange
-
-**Cause:** [[Dopamine Feedback Loops]] · [[Attention Economy]]
-**Mechanism:** [[Ghosting]] · [[Orbiting]]
-**Consequence:** [[Cognitive Surrender]] · [[Parasocial Relationship]]
-**Reaction:** [[JOMO]]
-
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

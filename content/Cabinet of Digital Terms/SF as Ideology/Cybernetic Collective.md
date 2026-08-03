@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Cybernetic collective** names the sleight of hand by which private technology projects are framed as collective human advancement. Once you identify the ownership structure behind the "we," the collective vocabulary becomes legible as branding.
 
-**Related terms:** [[Neuralink]] · [[Brain-Computer Interface]] · [[Cyborg Musk]] · [[Technofeudalism]] · [[Cyberfeminism]]
+**Related terms:** [[Neuralink]] · [[Brain-Computer Interface]] · [[Cyborg Musk]] · [[Technofeudalism]] · [[Cyberfeminism]] · [[Brussels Effect]] · [[Muskism]] · [[Transhumanism]]
 
 
 ---
@@ -44,16 +44,5 @@ related_reaction:
 - [Cybernetics: Or Control and Communication in the Animal and the Machine](https://archive.org/details/cyberneticsorcon0000wien) — Wiener, N. (1948). _MIT Press_ — foundational cybernetics text introducing feedback, communication systems, and machine–human coordination
 - [A Cyborg Manifesto](https://monoskop.org/images/4/4c/Haraway_Donna_1985_A_Manifesto_for_Cyborgs_Science_Technology_and_Socialist_Feminism_in_the_1980s.pdf) — Haraway, D. (1985). _Socialist Review_ — on hybrid human–machine identities, networked subjectivity, and technological collectivities
 - [The Californian Ideology](https://monoskop.org/images/d/dc/Barbrook_Richard_Cameron_Andy_1996_The_Californian_Ideology.pdf) — Barbrook, R. & Cameron, A. (1996). _Science as Culture_ — critique of Silicon Valley techno-libertarianism and cybernetic governance culture
-
----
-
-## Navigation
-
-**Layer:** Mechanism — networked human-AI consciousness framed as species-level collective while built on privately owned infrastructure
-
-**Cause:** [[Transhumanism]] · [[Neuralink]]
-**Mechanism:** [[Cyborg Musk]] · [[Brain-Computer Interface]]
-**Consequence:** [[Technofeudalism]] · [[Muskism]]
-**Reaction:** [[Cyberfeminism]] · [[Brussels Effect]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

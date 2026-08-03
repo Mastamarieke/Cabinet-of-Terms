@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Digital coach** names the human response to systemic design failure. Once you see the profession as an indicator — more coaches needed means more people excluded — the question shifts from "how do we train more coaches?" to "why does the design keep producing the same exclusions?"
 
-**Related terms:** [[De-installer]] · [[Digital Divide]] · [[Ageism (Digital)]] · [[Tech Abandonment]] · [[Inclusive Design]]
+**Related terms:** [[De-installer]] · [[Digital Divide]] · [[Ageism (Digital)]] · [[Tech Abandonment]] · [[Inclusive Design]] · [[Digital Exclusion]] · [[Universal Design]]
 
 
 ---
@@ -42,16 +42,5 @@ related_reaction:
 -  [The **Digital Coach**: discover identity, role, and path to success](https://www.digital-coach.com/articles/lucapapa/how-to-become-a-digital-coach/) — Papa, L. (2022). _Digital Coach_
 - [Digital Coaching Certification](https://www.digital-coach.com/digital-coaching-certification-course/) — Digital Coach. (2022). _Digital Coach_
 - [What Is Digital Coaching? A Wellness Resource on the Rise](https://www.a-plancoaching.com/blog/what-is-digital-coaching/) — A-Plan Coaching. (2023). _A-Plan Coaching_
-
----
-
-## Navigation
-
-**Layer:** Reaction — a profession that absorbs at the individual level the consequences of design that excluded certain users
-
-**Cause:** [[Digital Divide]] · [[Ageism (Digital)]]
-**Mechanism:** [[De-installer]] · [[Tech Abandonment]]
-**Consequence:** [[Tech Abandonment]] · [[Digital Exclusion]]
-**Reaction:** [[Inclusive Design]] · [[Universal Design]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

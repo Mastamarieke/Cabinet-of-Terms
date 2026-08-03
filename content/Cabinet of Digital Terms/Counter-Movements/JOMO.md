@@ -32,23 +32,12 @@ related_reaction:
 
 **Why This Matters:** **JOMO** makes visible the recuperation mechanism of the **attention economy**: critique becomes content, resistance becomes a product, and the platform profits from both the anxiety and its rebranded relief.
 
-**Related terms:** [[FOMO]] · [[Digital Detox]] · counter-movements · [[Slow Media]] · [[Doomscrolling]]
+**Related terms:** [[FOMO]] · [[Digital Detox]] · counter-movements · [[Slow Media]] · [[Doomscrolling]] · [[Attention Economy]]
 
 
 ---
 **Read more:**
 - [JOMO: The Original Post](https://www.anildash.com/2012/07/19/jomo/) — Dash, A. (2012). *anildash.com*
 - [Motivational, emotional, and behavioral correlates of fear of missing out](https://www.sciencedirect.com/science/article/abs/pii/S0747563213000800) — Przybylski, A.K. et al. (2013). *Journal of Social and Clinical Psychology*
-
----
-
-## Navigation
-
-**Layer:** Reaction — deliberate absence reframed as joy, distributed through the platforms it opposes
-
-**Cause:** [[FOMO]] · [[Attention Economy]]
-**Mechanism:** [[Digital Detox]] · counter-movements
-**Consequence:** [[FOMO]]
-**Reaction:** [[Digital Detox]] · [[Slow Media]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

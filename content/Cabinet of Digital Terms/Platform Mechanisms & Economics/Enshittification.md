@@ -33,23 +33,12 @@ related_reaction:
 
 **Why This Matters:** **Enshittification** is the term that explains why a platform you loved became one you tolerate. Once you know the lifecycle, the current state of any platform tells you where it is in the sequence — and what comes next.
 
-**Related terms:** [[Vendor Lock-in]] · [[Dark Patterns]] · [[Recommender Systems]] · [[Brussels Effect]] · [[Surveillance Capitalism]] · [[Attention Economy]]
+**Related terms:** [[Vendor Lock-in]] · [[Dark Patterns]] · [[Recommender Systems]] · [[Brussels Effect]] · [[Surveillance Capitalism]] · [[Attention Economy]] · [[Cognitive Surrender]] · [[Deplatforming]] · [[Deskilling]]
 
 
 ---
 **Read more:**
 - [The 'Enshittification' of TikTok](https://www.wired.com/story/tiktok-platforms-cory-doctorow/) — Doctorow, C. (2023). *Wired*
 - [The Internet Con](https://www.versobooks.com/products/3035-the-internet-con) — Doctorow, C. (2023). *Verso Books*
-
----
-
-## Navigation
-
-**Layer:** Mechanism — the predictable deterioration of platform quality as dominance replaces competition
-
-**Cause:** [[Attention Economy]] · [[Vendor Lock-in]]
-**Mechanism:** [[Dark Patterns]] · [[Recommender Systems]]
-**Consequence:** [[Deskilling]] · [[Cognitive Surrender]]
-**Reaction:** [[Deplatforming]] · [[Brussels Effect]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

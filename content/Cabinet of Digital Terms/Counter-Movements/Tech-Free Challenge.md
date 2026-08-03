@@ -32,7 +32,7 @@ related_reaction:
 
 **Why This Matters:** The **tech-free challenge** makes visible how resistance to platforms is continuously reabsorbed as platform content. The format that spreads best is the format that works best for the platform — regardless of what the format is about.
 
-**Related terms:** [[Digital Detox]] · [[Slow Media]] · [[Unplugging]] · [[Gamification Creep]] · [[JOMO]] · [[Attention Economy]]
+**Related terms:** [[Digital Detox]] · [[Slow Media]] · [[Unplugging]] · [[Gamification Creep]] · [[JOMO]] · [[Attention Economy]] · [[FOMO]]
 
 
 ---
@@ -41,15 +41,4 @@ related_reaction:
 - [Does putting down your smartphone make you happier? the effects of restricting digital media on well-being](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11472914/) — Wilmer, H.H. et al. (2024). *PLOS ONE*
 - [https://oudersenonderwijs.nl/en/mobile-phone-ban/]
 (https://oudersenonderwijs.nl/en/mobile-phone-ban/) *Ouders en Onderwijs*
----
-
-## Navigation
-
-**Layer:** Reaction — technology abstinence as a viral content format, distributed on the platforms it abstains from
-
-**Cause:** [[Attention Economy]] · [[Gamification Creep]]
-**Mechanism:** [[Digital Detox]] · [[Slow Media]]
-**Consequence:** [[FOMO]]
-**Reaction:** [[Unplugging]] · [[JOMO]]
-
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

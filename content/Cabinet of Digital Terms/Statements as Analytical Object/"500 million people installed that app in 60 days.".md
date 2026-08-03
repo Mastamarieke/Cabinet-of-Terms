@@ -31,23 +31,12 @@ related_reaction:
 
 **Why this sentence matters:** "500 million people" is a number that does work in the sentence beyond description. Once you see scale functioning as argument, you can ask the supplementary question that the number forecloses: and did those 500 million people know what they were contributing to?
 
-**Related terms:** [[Surveillance Capitalism]] · [["Adding amplitude to war is obviously an issue."]] · [["I could definitely see it."]] · [[Microtargeting]] · [[Bot Farms]]
+**Related terms:** [[Surveillance Capitalism]] · [["Adding amplitude to war is obviously an issue."]] · [["I could definitely see it."]] · [[Microtargeting]] · [[Bot Farms]] · [[AI Literacy]] · [[Digital-Military-Industrial Complex]] · [[Sacrifice Zones]]
 
 
 ---
 **Read more:**
 - [The Age of Surveillance Capitalism](https://www.publicaffairsbooks.com/titles/shoshana-zuboff/the-age-of-surveillance-capitalism/9781610395694/) — Zuboff, S. (2019). *PublicAffairs*
 - [Pokémon Go created a 3D map of the world – but for what?](https://torment-nexus.mathewingram.com/pokemon-go-created-a-3d-map-of-the-world-but-for-what/) — Ingram, M. (2026). _The Torment Nexus_
-
----
-
-## Navigation
-
-**Layer:** Mechanism — scale presented as legitimacy, substituting the number of participants for the question of their informed participation
-
-**Cause:** [[Surveillance Capitalism]]
-**Mechanism:** [[Bot Farms]] · [[Microtargeting]]
-**Consequence:** [[Digital-Military-Industrial Complex]] · [[Sacrifice Zones]]
-**Reaction:** [[AI Literacy]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

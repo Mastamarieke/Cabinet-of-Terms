@@ -39,15 +39,4 @@ related_reaction:
 - [Sycophancy to Subterfuge: Investigating Reward Tampering in Language Models](https://arxiv.org/abs/2406.10162) — Perez, E. et al. (2022). *arXiv*
 - [Towards Understanding Sycophancy in Language Models](https://arxiv.org/abs/2310.13548) — Sharma, M. et al. (2023). *arXiv*
 
----
-
-## Navigation
-
-**Layer:** Mechanism — a systematic bias toward user approval over accuracy, produced by the incentive structure of training
-
-**Cause:** [[AI Dependency]]
-**Mechanism:** [[AI Hallucination]] · [[Cognitive Offloading]]
-**Consequence:** [[Deskilling]] · [[AI Dependency]]
-**Reaction:** [[AI Literacy]]
-
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

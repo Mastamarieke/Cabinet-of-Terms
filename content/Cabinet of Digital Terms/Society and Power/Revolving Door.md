@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Revolving door** names the personnel mechanism of regulatory capture. Once you see it, "the regulator is independent" requires examination: where did they work before, where will they work next, and what relationships does that create?
 
-**Related terms:** [[Digital-Military-Industrial Complex]] · [[Military-Industrial Complex]] · [[Broligarchy]] · [[Dual-Use Technology]] · [[Brussels Effect]]
+**Related terms:** [[Digital-Military-Industrial Complex]] · [[Military-Industrial Complex]] · [[Broligarchy]] · [[Dual-Use Technology]] · [[Brussels Effect]] · [[Reconstruction Economy]] · [[Situated Knowledge]] · [[Sovereignty as a Service]]
 
 
 ---
@@ -41,16 +41,4 @@ related_reaction:
 - [The Pentagon Labyrinth](https://docs.pogo.org/publication/2011/POGO_CDI_The-Pentagon-Labyrinth.pdf) — Hartung, W.D. (2011). _Project on Government Oversight (POGO)_ — on the structural inefficiencies of the US defence system and the revolving-door relationships between the Pentagon, military contractors, lobbyists, and political institutions.
 - [The Revolving Door and Big Tech](https://journals.sagepub.com/doi/10.1177/23780231251368039) — _Socius_ (2025) — on how personnel circulation between governments and technology corporations shapes regulatory power, policymaking, and platform governance.
 - [Big Tech’s Revolving Door](https://regulatorycapturelab.ca/big-tech-revolving-door) — _Regulatory Capture Lab_ — on how former regulators, policymakers, and corporate executives move between public office and major technology firms, reinforcing institutional influence and regulatory capture.
----
-
-
-## Navigation
-
-**Layer:** Mechanism — the circulation of individuals between regulatory positions and private sector roles that produces structural regulatory capture
-
-**Cause:** [[Military-Industrial Complex]] · [[Broligarchy]]
-**Mechanism:** [[Digital-Military-Industrial Complex]] · [[Reconstruction Economy]]
-**Consequence:** [[Digital-Military-Industrial Complex]] · [[Sovereignty as a Service]]
-**Reaction:** [[Brussels Effect]] · [[Situated Knowledge]]
-
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

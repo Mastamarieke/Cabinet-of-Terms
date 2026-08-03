@@ -33,7 +33,7 @@ Hara et al. (2018) document earnings averaging $2/hour with no labour protection
 **Why This Matters**
 Once you see **Mechanical Turk** as a labour infrastructure rather than a technology platform, you see that the AI systems presented as autonomous are dependent on an invisible, poorly paid, unprotected global workforce.
 
-**Related terms:** [[Ghost Work]] · [[Surveillance Capitalism]] · [[Technofeudalism|Technofeudalism]]
+**Related terms:** [[Ghost Work]] · [[Surveillance Capitalism]] · [[Technofeudalism|Technofeudalism]] · [[Deskilling]]
 
 
 ---
@@ -41,20 +41,5 @@ Once you see **Mechanical Turk** as a labour infrastructure rather than a techno
 📖 **Read more**
 - [A Data-Driven Analysis of Workers' Earnings on Amazon Mechanical Turk](https://arxiv.org/abs/1712.05796) — Hara, K. et al. (2018). *CHI Conference on Human Factors in Computing Systems*
 - [Amazon Mechanical Turk: The Human Sciences' Labor Problem](https://read.dukeupress.edu/labor/article/21/3/6/390482/Amazon-Mechanical-Turk-The-Human-Sciences-Labor) — Shapiro, A. (2024). *Labor: Studies in Working-Class History*
-
----
----
-
-## Navigation
-
-**Layer:** Mechanism — Amazon MTurk; invisible human labour behind AI systems; the name itself is symptomatic
-
-**Cause:** [[Surveillance Capitalism]] · [[Technofeudalism|Technofeudalism]]
-**Mechanism:** [[Ghost Work]]
-**Consequence:** [[Deskilling|Deskilling]]
-**Reaction:** *—*
-
-**Public entry:** this document
-**Deep analysis:** *in production*
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

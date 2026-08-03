@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Phantom vibration syndrome** is the clearest evidence that the phone is not just a tool you carry — it has become part of how your body experiences the world. Once you know that, the question of what you are giving it access to becomes a different kind of question.
 
-**Related terms:** [[Nomophobia]] · [[Dopamine Feedback Loops]] · [[Technostress]] · [[Cognitive Surrender]] · [[JOMO]] · [[Predatory Design]]
+**Related terms:** [[Nomophobia]] · [[Dopamine Feedback Loops]] · [[Technostress]] · [[Cognitive Surrender]] · [[JOMO]] · [[Predatory Design]] · [[AI Dependency]] · [[Digital Detox]]
 
 
 ---
@@ -42,15 +42,4 @@ related_reaction:
 - [Phantom vibrations among undergraduates: Prevalence and associated psychological characteristics](https://wolfmd.me/blog/phantomvibration/phantomvibration1.pdf) — Drouin, M., Kaiser, D. H., & Miller, D. A. (2012). _Computers in Human Behavior, 28_(4), 1490–1496.
 - [Prevalence of phantom vibration syndrome and its associated factors among undergraduate students in a public university](https://doi.org/10.1016/j.chbr.2024.100552) — Hamdan, A.B., Mohd Zulkefli, N.A. & Ahmad Fauzi, F. (2025). *Computers in Human Behavior Reports*
 - [Ik gooide mijn iPhone in de wc en ontdekte dat ik 'm helemaal niet nodig had](https://decorrespondent.nl/17010/ik-gooide-mijn-iphone-in-de-wc-en-ontdekte-dat-ik-m-helemaal-niet-nodig-had/35419aa5-e5f7-0880-1e4b-f5a8915e0c53) — Bakker, L. (2026). *De Correspondent*
----
-
-## Navigation
-
-**Layer:** Consequence — a sensory hallucination that makes device incorporation into the body schema visible
-
-**Cause:** [[Dopamine Feedback Loops]] · [[Predatory Design]]
-**Mechanism:** [[Nomophobia]] · [[AI Dependency]]
-**Consequence:** [[Technostress]] · [[Cognitive Surrender]]
-**Reaction:** [[Digital Detox]] · [[JOMO]]
-
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

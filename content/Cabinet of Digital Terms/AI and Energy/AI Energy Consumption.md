@@ -32,23 +32,12 @@ related_reaction:
 
 **Why This Matters:** Once you know this term, a simple question shifts: *whose electricity is this?* The speed and fluency of an AI response starts to carry weight. Not moral paralysis — but a new kind of legibility.
 
-**Related terms:** [[Training Run]] · [[Inference Cost]] · [[Externalized Costs]] · [[Sacrifice Zones]] · [[Greenwashing]]
+**Related terms:** [[Training Run]] · [[Inference Cost]] · [[Externalized Costs]] · [[Sacrifice Zones]] · [[Greenwashing]] · [[Data Center Water Consumption]] · [[Digital Colonialism]]
 
 
 ---
 **Read more:**
 - [Energy and Policy Considerations for Deep Learning in NLP](https://arxiv.org/abs/1906.02243) — Strubell, E., Ganesh, A. & McCallum, A. (2019). *ACL*
 - [The growing energy footprint of artificial intelligence](https://doi.org/10.1016/j.joule.2023.09.004) — de Vries, A. (2023). *Joule*
-
----
-
-## Navigation
-
-**Layer:** Consequence — the aggregate energy demand produced by AI infrastructure at scale
-
-**Cause:** [[Training Run]] · [[Inference Cost]]
-**Mechanism:** [[Externalized Costs]] · [[Data Center Water Consumption]]
-**Consequence:** [[Sacrifice Zones]] · [[Digital Colonialism]]
-**Reaction:** [[Greenwashing]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

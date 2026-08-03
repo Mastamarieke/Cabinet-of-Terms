@@ -39,15 +39,4 @@ related_reaction:
 - [Emotional Agility](https://susandavid.com/book/) — David, S. (2016). *Avery*
 - [Toxic Positivity: Keeping It Real](https://books.google.nl/books/about/Toxic_Positivity.html?id=aNstEAAAQBAJ&redir_esc=y) — Brans, K. et al. (2013). *Journal of Consumer Research*
 
----
-
-## Navigation
-
-**Layer:** Consequence — the compulsory performance of positive affect produced by wellness culture and platform norms
-
-**Cause:** [[Comparison Culture]] · [[That Girl]]
-**Mechanism:** [[Highlight Reel]] · [[Curated Life]]
-**Consequence:** [[Comparison Culture]]
-**Reaction:** [[Deinfluencing]]
-
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

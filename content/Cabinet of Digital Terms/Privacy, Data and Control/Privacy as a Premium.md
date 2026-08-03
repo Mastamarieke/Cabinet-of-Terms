@@ -32,23 +32,12 @@ related_reaction:
 
 **Why This Matters:** **Privacy as a premium** names the political economy of surveillance: if privacy has a price, those without the price pay with their data. Once you see the class dimension, "free" services become a different kind of offer.
 
-**Related terms:** [[Privacy Washing]] · [[Surveillance Capitalism]] · [[Digital Divide]] · [[Dataïsme]] · [[Brussels Effect]]
+**Related terms:** [[Privacy Washing]] · [[Surveillance Capitalism]] · [[Digital Divide]] · [[Dataïsme]] · [[Brussels Effect]] · [[Algorithmic Violence]]
 
 
 ---
 **Read more:**
 - [Privacy, Poverty, and Big Data: A Matrix of Vulnerabilities for Poor Americans](https://openscholarship.wustl.edu/law_lawreview/vol95/iss1/6/) — Eubanks, V. (2017). _Washington University Law Review_
 - [Opinion 08/2024 on Valid Consent in the Context of Consent or Pay Models Implemented by Large Online Platforms](https://www.edpb.europa.eu/system/files/2024-04/edpb_opinion_202408_consentorpay_en.pdf) — European Data Protection Board (2024). _EDPB_
-
----
-
-## Navigation
-
-**Layer:** Mechanism — the commercial model that makes surveillance the default and privacy a paid upgrade
-
-**Cause:** [[Surveillance Capitalism]] · [[Digital Divide]]
-**Mechanism:** [[Privacy Washing]] · [[Dataïsme]]
-**Consequence:** [[Digital Divide]] · [[Algorithmic Violence]]
-**Reaction:** [[Brussels Effect]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

@@ -31,23 +31,12 @@ related_reaction:
 
 **Why This Matters:** **Text claw** is the most literal evidence that platform design has physical consequences. The pain in your thumb is a design outcome. Not a side effect — a predictable result of systems engineered to maximise the time you spend using them.
 
-**Related terms:** [[Tech Neck]] · [[Nomophobia]] · [[Predatory Design]] · [[Dopamine Feedback Loops]] · [[Technostress]]
+**Related terms:** [[Tech Neck]] · [[Nomophobia]] · [[Predatory Design]] · [[Dopamine Feedback Loops]] · [[Technostress]] · [[Digital Detox]]
 
 
 ---
 **Read more:**
 - [Texting Thumb, Trigger Finger, and Other Smartphone Injuries](https://www.carolynbarbermd.com/texting-thumb-trigger-finger-gamers-thumb-and-other-smartphone-injuries/) — Barber, C.*Scientific American* (2021)
 - [Smartphone pinky and other injuries caused by excessive phone use](https://theconversation.com/smartphone-pinky-and-other-injuries-caused-by-excessive-phone-use-148861) — Taylor, A. (2020). *The Conversation*
-
----
-
-## Navigation
-
-**Layer:** Consequence — physical injury in the hands produced by sustained smartphone engagement
-
-**Cause:** [[Predatory Design]] · [[Dopamine Feedback Loops]]
-**Mechanism:** [[Tech Neck]] · [[Nomophobia]]
-**Consequence:** [[Technostress]]
-**Reaction:** [[Digital Detox]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

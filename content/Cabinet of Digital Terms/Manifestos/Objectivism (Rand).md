@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** Objectivism names the moral philosophy that makes extractive platform capitalism feel like virtue. Once you see it in operation — in how founders talk about disruption, in how taxation is discussed, in how "parasites" are identified — a great deal of tech culture becomes readable as philosophy, not just business strategy.
 
-**Related terms:** [[Digital Libertarianism]] · [[Muskism]] · [[Technofeudalism]] · [[Fortress Futurism]] · [[Cyberfeminism]]
+**Related terms:** [[Digital Libertarianism]] · [[Muskism]] · [[Technofeudalism]] · [[Fortress Futurism]] · [[Cyberfeminism]] · [[Brussels Effect]]
 
 
 ---
@@ -41,16 +41,5 @@ related_reaction:
 - [Atlas Shrugged](https://www.penguinrandomhouse.com/books/296832/atlas-shrugged-centennial-ed-hc-by-ayn-rand/) — Rand, A. (1957). *Random House*
 - [From Ayn Rand to Silicon Valley](https://doi.org/10.1093/oxfordhb/9780190456368.013.11) — Metcalf, S. (2017). *The Guardian*
 - [The Virtue of Selfishness](https://aynrand.org/novels/the-virtue-of-selfishness/) — Rand, A. (1964). _New American Library_ ([aynrand.org](https://aynrand.org/novels/the-virtue-of-selfishness/?utm_source=chatgpt.com))
-
----
-
-## Navigation
-
-**Layer:** Cause — the moral philosophy of individual sovereignty that provides ideological foundation for tech extractivism
-
-**Cause:** [[Digital Libertarianism]] · [[Muskism]]
-**Mechanism:** [[Technofeudalism]] · [[Fortress Futurism]]
-**Consequence:** [[Muskism]] · [[Digital Libertarianism]]
-**Reaction:** [[Cyberfeminism]] · [[Brussels Effect]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

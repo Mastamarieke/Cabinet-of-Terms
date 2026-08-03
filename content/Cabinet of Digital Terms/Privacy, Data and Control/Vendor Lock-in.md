@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Vendor lock-in** names the specific mechanism by which temporary commercial relationships become permanent structural dependencies. Once you see the pattern — integration that deepens until exit becomes impossible — you can ask at the point of adoption: what would it cost to leave in five years?
 
-**Related terms:** [[Enshittification]] · [[CLOUD Act]] · [[Technofeudalism]] · [[Surveillance Capitalism]] · [[Brussels Effect]]
+**Related terms:** [[Enshittification]] · [[CLOUD Act]] · [[Technofeudalism]] · [[Surveillance Capitalism]] · [[Brussels Effect]] · [[Algorithmic Violence]] · [[Fair Patterns]]
 
 
 ---
@@ -43,16 +43,5 @@ related_reaction:
 - [Critical Review of Vendor Lock-in and its Impact on Adoption of Cloud Computing](https://www.researchgate.net/publication/272015526_Critical_Review_of_Vendor_Lock-in_and_its_Impact_on_Adoption_of_Cloud_Computing) — Opara-Martins, J., Sahandi, R. & Tian, F. (2014). _International Conference on Information Society (i-Society 2014)_
 - [From Cloud Giants to Local LLMs: Escaping Vendor Lock-In in 2025](https://www.northatlantic.fi/from-cloud-giants-to-local-llms-escaping-vendor-lock-in-in-2025/) — North Atlantic (2025). _North Atlantic_
   [From Cloud Giants to Local LLMs: Escaping **Vendor Lock-In** in 2025](https://www.northatlantic.fi/from-cloud-giants-to-local-llms-escaping-vendor-lock-in-in-2025/) — North Atlantic (2025). _North Atlantic_
-
----
-
-## Navigation
-
-**Layer:** Consequence — structural dependency on a technology vendor from which exit is practically impossible
-
-**Cause:** [[Enshittification]] · [[Surveillance Capitalism]]
-**Mechanism:** [[CLOUD Act]] · [[Technofeudalism]]
-**Consequence:** [[Technofeudalism]] · [[Algorithmic Violence]]
-**Reaction:** [[Brussels Effect]] · [[Fair Patterns]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

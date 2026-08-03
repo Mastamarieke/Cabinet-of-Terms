@@ -33,23 +33,12 @@ related_reaction:
 
 **Why This Matters:** **Seasteading** makes visible the political philosophy of exit: the idea that the appropriate response to bad governance is to leave rather than to improve it. Once you see that move, you can ask: for whom is exit available, and who remains in the governance they cannot escape?
 
-**Related terms:** [[Fortress Futurism]] · [[Muskism]] · [[Objectivism (Rand)]] · [[Sovereignty as a Service]] · [[Doomsday Prep for the Super-Rich]]
+**Related terms:** [[Fortress Futurism]] · [[Muskism]] · [[Objectivism (Rand)]] · [[Sovereignty as a Service]] · [[Doomsday Prep for the Super-Rich]] · [[Brussels Effect]] · [[Situated Knowledge]] · [[Technofeudalism]]
 
 
 ---
 **Read more:**
 - [Seasteading: How Floating Nations Will Restore the Environment, Enrich the Poor, Cure the Sick, and Liberate Humanity from Politicians](https://www.simonandschuster.com/books/Seasteading/Joe-Quirk/9781451699265) — Quirk, J. & Friedman, P. (2017). *Free Press*
 - [Crack-Up Capitalism](https://cdn.penguin.co.uk/dam-assets/books/9780141993768/9780141993768-sample.pdf) — Slobodian, Q. (2023). *Metropolitan Books* — on exit politics
-
----
-
-## Navigation
-
-**Layer:** Mechanism — the aspiration to escape governance by building new jurisdictions in ungoverned space
-
-**Cause:** [[Muskism]] · [[Objectivism (Rand)]]
-**Mechanism:** [[Fortress Futurism]] · [[Sovereignty as a Service]]
-**Consequence:** [[Fortress Futurism]] · [[Technofeudalism]]
-**Reaction:** [[Brussels Effect]] · [[Situated Knowledge]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

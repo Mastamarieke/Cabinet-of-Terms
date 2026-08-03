@@ -34,7 +34,7 @@ related_reaction:
 
 **Why This Matters:** **Doomerism** names a political position disguised as a prediction. Once you see the political consequences of widespread fatalism — the inaction it produces — the question shifts from "is the doom probable?" to "who benefits from everyone believing it is inevitable?" That question points directly to [[Doom Trolling]]: where doomerism is a sincere affective state, doom trolling is the deliberate strategy of spreading the same narratives for market gain. The line between them is kept intentionally unclear.
 
-**Related terms:** [[Longtermism]] · [[Skynet]] · [[Digital Frankenstein]] · [[AGI]] · [[AI Literacy]] · [[Doom Trolling]]
+**Related terms:** [[Longtermism]] · [[Skynet]] · [[Digital Frankenstein]] · [[AGI]] · [[AI Literacy]] · [[Doom Trolling]] · [[Situated Knowledge]]
 
 
 ---
@@ -46,15 +46,4 @@ related_reaction:
 diummag.com/2025/01/31/the-failed-strategy-of-artificial-intelligence-doomers/) — Landau-Taylor, B. (2025). _Palladium Magazine_
 - [Pause Giant AI Experiments: An Open Letter](https://futureoflife.org/open-letter/pause-giant-ai-experiments/) — Future of Life Institute (2023). 
 - [The Adolescence of Technology](https://www.darioamodei.com/essay/the-adolescence-of-technology) — Amodei, D. (2026). 
----
-
-## Navigation
-
-**Layer:** Consequence — fatalism disguised as realism, producing the political inaction that makes catastrophic outcomes more likely
-
-**Cause:** [[Digital Frankenstein]] · [[Longtermism]]
-**Mechanism:** [[Skynet]] · [[AGI]]
-**Consequence:** [[Longtermism]]
-**Reaction:** [[AI Literacy]] · [[Situated Knowledge]]
-
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

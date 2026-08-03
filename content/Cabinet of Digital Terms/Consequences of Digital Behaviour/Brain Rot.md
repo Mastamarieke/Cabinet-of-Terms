@@ -36,7 +36,7 @@ related_reaction:
 
 **Why This Matters:** **Brain rot** is evidence of something specific: a community naming its own platform-produced cognitive experience, in the language of the platform, and doing so publicly, repeatedly, at scale — without that naming producing change. That combination is what clinical language struggles to capture. Once you have the term, the forty minutes of scrolling is retrospectively legible as something that was produced, not just experienced.
 
-**Related terms:** [[Recommender Systems]] · [[Dopamine Feedback Loops]] · [[Ragebaiting]] · [[Doomscrolling]] · [[Cognitive Surrender]] · [[Deskilling]] · [[Digital Amnesia]] · [[Slow Media]] · [[Digital Detox]]
+**Related terms:** [[Recommender Systems]] · [[Dopamine Feedback Loops]] · [[Ragebaiting]] · [[Doomscrolling]] · [[Cognitive Surrender]] · [[Deskilling]] · [[Digital Amnesia]] · [[Slow Media]] · [[Digital Detox]] · [[Attention Economy]] · [[Gooner]]
 
 
 ---
@@ -44,16 +44,5 @@ related_reaction:
 - [‘Brain rot’ named Oxford Word of the Year 2024](https://corp.oup.com/news/brain-rot-named-oxford-word-of-the-year-2024/) — Oxford University Press (2024). *Oxford University Press*
 - [Think ‘brain rot’ summed up 2024? Oxford agrees it was the word of the year](https://apnews.com/article/b43d864aed7f7d9d039edbd9b8a19ffb) — Associated Press (2024). *AP News*
 - [Walden](https://archive.org/details/waldenorlifeinwo1854thor) — Thoreau, H.D. (1854). *Ticknor and Fields* — origin of the term: "While England endeavours to cure the potato-rot, will not any endeavour to cure the brain-rot…"
-
----
-
-## Navigation
-
-**Layer:** Consequence — a subcultural self-diagnosis for platform-produced cognitive flatness, notable for its self-awareness and its limits
-
-**Cause:** [[Recommender Systems]] · [[Dopamine Feedback Loops]] · [[Attention Economy]]
-**Mechanism:** [[Ragebaiting]] · [[Doomscrolling]] · [[Gooner]]
-**Consequence:** [[Cognitive Surrender]] · [[Deskilling]] · [[Digital Amnesia]]
-**Reaction:** [[Slow Media]] · [[Digital Detox]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

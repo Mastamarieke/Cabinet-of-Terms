@@ -31,7 +31,7 @@ Chen and Zaman (2024) demonstrate that **shadow banning** can be used to shift o
 **Why This Matters**
 Once you see **shadow banning** as a governance mechanism rather than a content moderation tool, you see that platforms exercise significant political power over speech — invisibly and without appeal.
 
-**Related terms:** [[Deplatforming]] · [[Algorithmic Violence]] · [[Unblackboxing]] · [[Recommender Systems]] · [[Algospeak]] · [[Content Moderator]]
+**Related terms:** [[Deplatforming]] · [[Algorithmic Violence]] · [[Unblackboxing]] · [[Recommender Systems]] · [[Algospeak]] · [[Content Moderator]] · [[Attention Economy]] · [[Cognitive Surrender]] · [[Surveillance Capitalism]]
 
 
 ---
@@ -39,20 +39,5 @@ Once you see **shadow banning** as a governance mechanism rather than a content 
 📖 **Read more**
 - [Shaping Opinions in Social Networks with Shadow Banning](https://pmc.ncbi.nlm.nih.gov/articles/PMC10971755/) — Chen, Y. & Zaman, T. (2024). *PLoS ONE*
 - [The Shadow Banning Controversy: Perceived Governance and Algorithmic Folklore](https://www.researchgate.net/publication/359198081_The_shadow_banning_controversy_perceived_governance_and_algorithmic_folklore) — Savolainen, L. (2022). *Media, Culture & Society*
-
----
----
-
-## Navigation
-
-**Layer:** Mechanism — invisibly restricting reach without the user knowing; moderation without transparency
-
-**Cause:** [[Surveillance Capitalism]] · [[Attention Economy]]
-**Mechanism:** [[Recommender Systems]] · [[Algorithmic Violence]]
-**Consequence:** [[Cognitive Surrender]]
-**Reaction:** [[Unblackboxing|Unblackboxing]]
-
-**Public entry:** this document
-**Deep analysis:** *in production*
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

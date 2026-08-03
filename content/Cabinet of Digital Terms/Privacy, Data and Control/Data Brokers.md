@@ -32,7 +32,7 @@ related_reaction:
 
 **Why This Matters:** **Data brokers** make visible the commercial infrastructure of the surveillance economy. Most people understand that Google and Facebook collect data; almost no one knows that Acxiom has a profile on them that they have never knowingly contributed to. Once you know the industry exists, "your data is private" is a sentence that requires much more specific qualification.
 
-**Related terms:** [[Surveillance Capitalism]] · [[Dataïsme]] · [[Microtargeting]] · [[Privacy Washing]] · [[Brussels Effect]] · [[Deadnaming]]
+**Related terms:** [[Surveillance Capitalism]] · [[Dataïsme]] · [[Microtargeting]] · [[Privacy Washing]] · [[Brussels Effect]] · [[Deadnaming]] · [[Algorithmic Violence]]
 
 
 ---
@@ -41,16 +41,5 @@ related_reaction:
 - [The Scored Society: Due Process for Automated Predictions](https://digitalcommons.law.uw.edu/wlr/vol89/iss1/2/) — Citron, D.K. & Pasquale, F. (2014). _Washington Law Review_
 - [The Scored Society: Due Process for Automated Predictions](https://digitalcommons.law.uw.edu/wlr/vol89/iss1/2/) — Citron, D.K. & Pasquale, F. (2014). _Washington Law Review_
 - [The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power](https://books.google.fr/books/about/The_Age_of_Surveillance_Capitalism.html?id=lRqrDQAAQBAJ&redir_esc=y) — Zuboff, S. (2019). _PublicAffairs_
-
----
-
-## Navigation
-
-**Layer:** Mechanism — the commercial infrastructure that assembles and sells personal profiles assembled from aggregated data without individual knowledge or consent
-
-**Cause:** [[Surveillance Capitalism]] · [[Dataïsme]]
-**Mechanism:** [[Privacy Washing]] · [[Microtargeting]]
-**Consequence:** [[Algorithmic Violence]] · [[Deadnaming]]
-**Reaction:** [[Brussels Effect]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

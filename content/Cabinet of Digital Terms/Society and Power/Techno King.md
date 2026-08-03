@@ -33,7 +33,7 @@ The pattern repeats across Musk’s public persona and platform governance. He f
 
 **Why This Matters:** **Techno King** makes visible how irony functions as a power gesture. The joke is the point. Once you see that the absurdity is deliberate and functional — establishing that normal rules don't apply — the laugh becomes a different kind of response.
 
-**Related terms:** [[Muskism]] · [[Financial Fabulism]] · [[Hubris Syndrome]] · [[Broligarchy]] · [[Founder Mode]]
+**Related terms:** [[Muskism]] · [[Financial Fabulism]] · [[Hubris Syndrome]] · [[Broligarchy]] · [[Founder Mode]] · [[Brussels Effect]]
 
 
 ---
@@ -42,16 +42,5 @@ The pattern repeats across Musk’s public persona and platform governance. He f
 - [Elon Musk](https://www.simonandschuster.com/books/Elon-Musk/Walter-Isaacson/9781982181284) — Isaacson, W. (2023). *Simon & Schuster*
 - [Muskism](https://www.theguardian.com/books/2026/mar/26/muskism-by-quinn-slobodian-and-ben-tarnoff-review-how-elon-musk-is-reshaping-the-world) -Slobodian, Q. & Tarnoff, B. (2026). *The Guardian*
 - [Elon Musk: “TechnoKing Of Tesla” Really? Really!](https://www.forbes.com/sites/eliamdur/2021/03/17/elon-musk-technoking-of-tesla-really-really/) — Amdur, E. (2021). _Forbes_
-
----
-
-## Navigation
-
-**Layer:** Mechanism — irony deployed as a power gesture that establishes exemption from conventional accountability
-
-**Cause:** [[Muskism]] · [[Broligarchy]]
-**Mechanism:** [[Financial Fabulism]] · [[Hubris Syndrome]]
-**Consequence:** [[Muskism]]
-**Reaction:** [[Brussels Effect]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

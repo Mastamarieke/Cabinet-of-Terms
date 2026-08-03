@@ -33,7 +33,7 @@ related_reaction:
 
 **Why This Matters:** **Longtermism** names a framework that can make almost anything in the present justifiable in terms of future benefit. Once you see the structure — infinite future value discounting present harm to zero — you can identify it wherever it appears, not just in explicit EA discourse.
 
-**Related terms:** [[Doomerism]] · [[The Singularity]] · [[Transhumanism]] · [[Fortress Futurism]] · [[Situated Knowledge]]
+**Related terms:** [[Doomerism]] · [[The Singularity]] · [[Transhumanism]] · [[Fortress Futurism]] · [[Situated Knowledge]] · [[Brussels Effect]] · [[Mars Colonization]] · [[Objectivism (Rand)]]
 
 
 ---
@@ -43,17 +43,5 @@ related_reaction:
 - [Why longtermism is the world’s most dangerous secular credo](https://aeon.co/essays/why-longtermism-is-the-worlds-most-dangerous-secular-credo) — Torres, É. P. (2021). _Aeon_ — expanded critique of existential-risk culture, Effective Altruism, and longtermist philosophy as a politically influential worldview. 
 - [The toxic ideology of longtermism](https://www.radicalphilosophy.com/commentary/the-toxic-ideology-of-longtermism) — Crary, A. (2023). _Radical Philosophy_ — critique of longtermism’s fixation on existential risk and its relationship to concentrated wealth and technocratic power
 - [Superintelligence: Paths, Dangers, Strategies](https://global.oup.com/academic/product/superintelligence-9780199678112) — Bostrom, N. (2014). _Oxford University Press_ — foundational work on existential AI risk, superintelligence, and longtermist reasoning.
-
-
----
-
-## Navigation
-
-**Layer:** Mechanism — a moral framework that makes the present infinitely less important than a speculative future, creating a license to defer present moral action
-
-**Cause:** [[Transhumanism]] · [[Objectivism (Rand)]]
-**Mechanism:** [[Doomerism]] · [[The Singularity]]
-**Consequence:** [[Fortress Futurism]] · [[Mars Colonization]]
-**Reaction:** [[Situated Knowledge]] · [[Brussels Effect]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

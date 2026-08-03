@@ -37,7 +37,7 @@ The **Digital Frankenstein** narrative recurs throughout the history of computin
 
 **Why This Matters:** **Digital Frankenstein** makes visible how science fiction frames shape the reception of real technical developments. Once you can identify the narrative being deployed, you can ask: who is using it, to what end, and what is it displacing from view?
 
-**Related terms:** [[Skynet]] · [[AGI]] · [[Doomerism]] · [[AI Literacy]] · [[Red Teamer]]
+**Related terms:** [[Skynet]] · [[AGI]] · [[Doomerism]] · [[AI Literacy]] · [[Red Teamer]] · [[AI Dependency]]
 
 ---
 **Read more:**
@@ -46,16 +46,5 @@ The **Digital Frankenstein** narrative recurs throughout the history of computin
 - [Frankenstein AI: a monster made by many](https://medium.com/columbia-dsl/frankenstein-ai-a-monster-made-by-many-ae6664dd26e5) — Weiler, L. (2017). _Columbia Digital Storytelling Lab_ — immersive AI storytelling project using Mary Shelley’s Frankenstein as a framework for exploring artificial intelligence, robotics, and emergent technologies
 - [Jeeves or Digital Frankenstein? The AI Genie Came Out of the Bottle in 2017](https://www.business-standard.com/article/economy-policy/jeeves-or-digital-frankenstein-the-ai-genie-came-out-of-the-bottle-in-2017-117122900163_1.html) — Narayanan, M. (2017). _Business Standard_ — on AI assistants, automation, and fears of uncontrolled machine intelligence
 - [Will the Use of AI in Human Resources Create a Digital Frankenstein?](https://www.sciencedirect.com/science/article/abs/pii/S0090261624000068) — Lukaszewski, K. M. & Stone, D. L. (2024). _Organizational Dynamics_ — on AI systems in HR, algorithmic bias, privacy, discrimination, and ethical risks explicitly framed as a “digital Frankenstein”
-
----
-
-## Navigation
-
-**Layer:** Mechanism — the recurring narrative of technology escaping its maker, deployable as warning or as resignation
-
-**Cause:** [[AGI]] · [[AI Dependency]]
-**Mechanism:** [[Doomerism]] · [[Skynet]]
-**Consequence:** [[Doomerism]] · [[AI Dependency]]
-**Reaction:** [[AI Literacy]] · [[Red Teamer]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

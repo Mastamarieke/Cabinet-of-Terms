@@ -30,23 +30,12 @@ related_reaction:
 
 **Why This Matters:** Once you understand **adversarial design**, you can ask a different question about any designed object: is this thing making a conflict visible, or is it hiding one? A platform's clean interface may be **adversarial design**'s opposite — it smooths over the extraction it performs.
 
-**Related terms:** [[Fair Patterns]] · [[Deceptive Design]] · [[Unblackboxing]] · [[VSD (Value Sensitive Design)]]
+**Related terms:** [[Fair Patterns]] · [[Deceptive Design]] · [[Unblackboxing]] · [[VSD (Value Sensitive Design)]] · [[Dark Patterns]] · [[Persuasive Technology]]
 
 
 ---
 **Read more:**
 - [Adversarial Design](https://mars1980.github.io/resources/AdversarialDesign2.pdf) — DiSalvo, C. (2012). *MIT Press*
 - [Design, Democracy and Agonistic Pluralism](https://www.drs2010.umontreal.ca/data/PDF/031.pdf) — DiSalvo, C. (2010). *Design Research Society*
-
----
-
-## Navigation
-
-**Layer:** Reaction — design that makes power structures and political conflict visible without resolving them
-
-**Cause:** [[Deceptive Design]] · [[Dark Patterns]]
-**Mechanism:** [[Persuasive Technology]]
-**Consequence:** [[Unblackboxing]]
-**Reaction:** [[Fair Patterns]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

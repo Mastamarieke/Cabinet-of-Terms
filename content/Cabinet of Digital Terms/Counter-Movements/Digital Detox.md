@@ -35,23 +35,12 @@ The detox is also distributed by the platforms it critiques. The retreat gets bo
 
 **Why This Matters:** **Digital detox** makes individual behaviour the solution to a structural problem. Once you see that move, you see it everywhere — in **screen time** advice, in mindfulness apps, in every wellness product that turns platform damage into a personal growth opportunity.
 
-**Related terms:** [[Slow Media]] · [[Unplugging]] · [[Tech-Free Challenge]] · [[Attention Harvesting]] · [[Predatory Design]]
+**Related terms:** [[Slow Media]] · [[Unplugging]] · [[Tech-Free Challenge]] · [[Attention Harvesting]] · [[Predatory Design]] · [[Cognitive Surrender]] · [[Dopamine Feedback Loops]] · [[Screen Time]]
 
 
 ---
 **Read more:**
 - [Digital detox: Media resistance and the promise of authenticity](https://www.researchgate.net/publication/333171827_Digital_detox_Media_resistance_and_the_promise_of_authenticity) — Syvertsen, T. & Enli, G. (2019). *# Convergence The International Journal of Research into New Media Technologies*
 - [Media Resistance: Protest, Dislike, Abstention](https://www.researchgate.net/publication/315793095_Media_Resistance_Protest_Dislike_Abstention) — Syvertsen, T. (2017). *Springer Nature*
-
----
-
-## Navigation
-
-**Layer:** Reaction — resistance to platform logic that reproduces platform logic
-
-**Cause:** [[Attention Harvesting]] · [[Predatory Design]]
-**Mechanism:** [[Dopamine Feedback Loops]] · [[Screen Time]]
-**Consequence:** [[Cognitive Surrender]]
-**Reaction:** [[Slow Media]] · [[Unplugging]] · [[Tech-Free Challenge]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>
