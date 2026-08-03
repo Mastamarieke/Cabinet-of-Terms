@@ -245,7 +245,7 @@ The manosphere gave normative gender hierarchy a vocabulary, a ranking system, a
 </details>
 
 <details>
-<summary><strong>Culture Wars and Political Language</strong> — 16 terms</summary>
+<summary><strong>Culture Wars and Political Language</strong> — 15 terms</summary>
 
 Some political vocabulary does not describe disagreements — it terminates them. This cluster maps terms that frame political positions as medical threats, hostile infiltration, or biological facts. Understanding the mechanism is the first step toward resisting it.
 
@@ -262,7 +262,6 @@ Some political vocabulary does not describe disagreements — it terminates them
 - [[Groomer]]
 - [[Purity Culture]]
 - [[QAnon]]
-- [[Red Pill]]
 - [[Social Contagion]]
 - [[Subhuman]]
 - [[Wellness-to-Alt-Right Pipeline]]
@@ -550,7 +549,7 @@ These jobs exist because something in the system is not working. Content moderat
 </details>
 
 <details>
-<summary><strong>Subcultural Vocabulary and Platform Language</strong> — 11 terms</summary>
+<summary><strong>Subcultural Vocabulary and Platform Language</strong> — 10 terms</summary>
 
 Language that originates online, moves offline, and mutates constantly. This cluster maps how platform architecture shapes language, and how words travel from specific subcultures into general use, carrying their original context invisibly with them.
 
@@ -564,7 +563,6 @@ Language that originates online, moves offline, and mutates constantly. This clu
 - [[Cooked]]
 - [[Crash-out]]
 - [[Main Character Energy]]
-- [[Podcast-bro]]
 - [[Gooner]]
 - [[Ratio'd]]
 - [[Tierlists S-Tier]]

@@ -14,6 +14,8 @@ related_mechanism:
 related_consequence:
   - Incel
   - MGTOW
+  - Great Replacement
+  - QAnon
 related_reaction:
   - Deplatforming
 ---
@@ -28,11 +30,11 @@ related_reaction:
 
 **The Appeal:** The **red pill** offers a complete framework: it explains romantic rejection (female **hypergamy**), male social disadvantage (feminist capture of institutions), and the behaviour of women (SMV logic). The epistemological structure is satisfying — once you take the pill, everything makes sense. The community of fellow red-pillers provides belonging and validation.
 
-**The Friction:** The **red pill** in this context is the gateway to the **manosphere** ecosystem. [[SMV (Sexual Market Value)]] is the analytical framework it teaches. [[Hypergamy]] is the female behaviour pattern it explains. [[Blackpill]] is the terminus for those who conclude that the truth the **red pill** reveals cannot be changed. [[Incel]] is the identity for those who have taken the pill and concluded they are permanently at the bottom. [[Recommender Systems]] have been documented amplifying the pathway: **YouTube** and **TikTok** algorithms surface increasingly extreme content to viewers who engage with red-pill adjacent material. The Wachowski sisters' original meaning — liberation from imposed identity — is not lost by accident. It is inverted by design.
+**The Friction:** The **red pill** in this context is the gateway to the **manosphere** ecosystem. [[SMV (Sexual Market Value)]] is the analytical framework it teaches. [[Hypergamy]] is the female behaviour pattern it explains. [[Blackpill]] is the terminus for those who conclude that the truth the **red pill** reveals cannot be changed. [[Incel]] is the identity for those who have taken the pill and concluded they are permanently at the bottom. [[Recommender Systems]] have been documented amplifying the pathway: **YouTube** and **TikTok** algorithms surface increasingly extreme content to viewers who engage with red-pill adjacent material. The Wachowski sisters' original meaning — liberation from imposed identity — is not lost by accident. It is inverted by design. The metaphor migrated further still, beyond the manosphere: into [[Great Replacement]] rhetoric (the truth about demographic replacement), into anti-vaccine communities (the truth about medicine), and into [[QAnon]] (the truth about elites) — each appropriation sharing the same structure of hidden truth, awakening, and a community of those who know.
 
 **Why This Matters:** **Red pill** in the gender context makes visible the specific mechanism of **manosphere** radicalisation: a metaphor for seeing clearly becomes a framework for seeing women as adversaries and institutions as enemies. The clarity is real. The picture it produces is constructed.
 
-**Related terms:** [[Tradwife]] · [[High Value Man]] · [[SMV (Sexual Market Value)]] · [[Stay-at-home Girlfriend (SAHG)]] · [[Manosphere]] · [[Blackpill]] · [[Incel]] · [[Alpha Male]] · [[Hypergamy]] · [[Recommender Systems]]
+**Related terms:** [[Tradwife]] · [[High Value Man]] · [[SMV (Sexual Market Value)]] · [[Stay-at-home Girlfriend (SAHG)]] · [[Manosphere]] · [[Blackpill]] · [[Incel]] · [[Alpha Male]] · [[Hypergamy]] · [[Recommender Systems]] · [[Great Replacement]] · [[QAnon]]
 
 
 ---
@@ -41,6 +43,17 @@ related_reaction:
 - [Media Manipulation and Disinformation Online](https://datasociety.net/library/media-manipulation-and-disinfo-online/) — Marwick, A. & Lewis, R. (2017). *Data & Society*
 - [The Red Pill](https://www.imdb.com/title/tt3686998/). Cassie Jaye. (2016).*IMD Productions*
 - [Taking the Red Pill: Conspiracy Theories, Gender, and the ‘Manosphere’](https://research-information.bris.ac.uk/en/publications/taking-the-red-pill-conspiracy-theories-gender-and-the-elusive-ep/). Van Veeren, E. S. (2025). *International Feminist Journal of Politics*
+- [The manosphere, the alt-right and the public sphere: overlapping territories of misogyny and extreme right violence](https://www.tandfonline.com/doi/full/10.1080/09589236.2023.2260318) — Ging, D. & Siapera, E. (2023). *Journal of Gender Studies*
 
+---
+
+## Navigation
+
+**Layer:** Mechanism — a conversion metaphor that reframes ideological adoption as awakening to a hidden truth
+
+**Cause:** [[SMV (Sexual Market Value)]] · [[Manosphere]]
+**Mechanism:** [[Blackpill]] · [[Hypergamy]]
+**Consequence:** [[Incel]] · [[MGTOW]] · [[Great Replacement]] · [[QAnon]]
+**Reaction:** [[Deplatforming]]
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

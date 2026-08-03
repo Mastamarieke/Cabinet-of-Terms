@@ -42,9 +42,6 @@ Physical reality announcing itself to distinguish from the digital default. The 
 ### [[Main Character Energy]]
 Framing yourself as the protagonist of your own story. Everyone else as supporting cast or obstacle.
 
-### [[Podcast-bro]]
-The male podcaster as ideological gatekeeper. Long-form, unedited, enormously influential.
-
 ### [[Ratio'd]]
 More replies than likes. Public punishment via platform metric.
 

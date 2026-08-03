@@ -47,9 +47,6 @@ Obsession with the pure body as political metaphor. The logic connects clean eat
 ### [[QAnon]]
 Conspiracy theory as platform phenomenon. Began on an imageboard, reached parliaments.
 
-### [[Red Pill]]
-Ideological awakening framed as revelation. The metaphor does the work of making the ideology feel inevitable.
-
 ### [[Social Contagion]]
 Medical vocabulary applied to transgender identity. The scientific framing lends authority the evidence does not support.
 
