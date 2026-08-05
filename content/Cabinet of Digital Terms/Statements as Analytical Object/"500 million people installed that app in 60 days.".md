@@ -10,6 +10,7 @@ related_cause:
 related_mechanism:
   - Bot Farms
   - Microtargeting
+  - Dual-Use Technology
 related_consequence:
   - Digital-Military-Industrial Complex
   - Sacrifice Zones
@@ -27,11 +28,11 @@ related_reaction:
 
 > Scale presented as legitimacy — where the number of participants substitutes for the question of whether they knew what they were participating in.
 
-**The analytical work the sentence does:** It is a case study in how scale functions as a rhetorical substitute for consent. The implicit argument: if 500 million people did it, it was wanted, therefore legitimate. But the data was collected for a purpose — geospatial AI training for commercial and potentially military applications — that was not visible to the people whose gameplay generated it. [[Surveillance Capitalism]] — human behaviour as raw material — is the model: the game was the bait; the data was the catch.  is the downstream application. [[Microtargeting]] and [[Bot Farms]] are the adjacent mechanisms where scale similarly substitutes for legitimacy.
+**The analytical work the sentence does:** It is a case study in how scale functions as a rhetorical substitute for consent. The implicit argument: if 500 million people did it, it was wanted, therefore legitimate. But the data was collected for a purpose — geospatial AI training for commercial and potentially military applications — that was not visible to the people whose gameplay generated it. [[Surveillance Capitalism]] — human behaviour as raw material — is the model: the game was the bait; the data was the catch. [[Dual-Use Technology]] is the downstream application: the same geospatial model trained on that data serves civilian mapping and military spatial intelligence. [[Microtargeting]] and [[Bot Farms]] are the adjacent mechanisms where scale similarly substitutes for legitimacy.
 
 **Why this sentence matters:** "500 million people" is a number that does work in the sentence beyond description. Once you see scale functioning as argument, you can ask the supplementary question that the number forecloses: and did those 500 million people know what they were contributing to?
 
-**Related terms:** [[Surveillance Capitalism]] · [["Adding amplitude to war is obviously an issue."]] · [["I could definitely see it."]] · [[Microtargeting]] · [[Bot Farms]] · [[AI Literacy]] · [[Digital-Military-Industrial Complex]] · [[Sacrifice Zones]]
+**Related terms:** [[Surveillance Capitalism]] · [[Dual-Use Technology]] · [["Adding amplitude to war is obviously an issue."]] · [["I could definitely see it."]] · [[Microtargeting]] · [[Bot Farms]] · [[AI Literacy]] · [[Digital-Military-Industrial Complex]] · [[Sacrifice Zones]]
 
 
 ---

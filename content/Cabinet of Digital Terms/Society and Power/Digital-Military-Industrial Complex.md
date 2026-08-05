@@ -46,5 +46,6 @@ related_reaction:
 - [Anthropic vs the Pentagon: Why AI firm is taking on Trump administration](https://www.aljazeera.com/news/2026/2/25/anthropic-vs-the-pentagon-why-ai-firm-is-taking-on-trump-administration) — _Al Jazeera_ (2026) 
 - [White House drafts guidance to bypass Anthropic’s risk flag](https://www.reuters.com/legal/government/white-house-drafts-guidance-bypass-anthropics-risk-flag-new-ai-models-axios-2026-04-29/) — _Reuters_ (2026) 
 - [Pentagon asks for $54bn in pivot towards AI-powered war](https://www.theguardian.com/us-news/2026/apr/22/pentagon-asks-for-54bn-in-pivot-towards-ai-powered-war) — _The Guardian_ (2026)
+- [Anthropic to disable its most advanced AI models after US order limiting foreign access](https://www.theguardian.com/technology/2026/jun/13/anthropic-disable-advanced-ai-models-us-government-order) — Reuters, in *The Guardian* (2026, 13 juni)
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>
