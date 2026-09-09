@@ -11,6 +11,7 @@ related_cause:
 related_mechanism:
   - Social Contagion
   - Woke Mind Virus
+  - Ragebaiting
 related_consequence:
   - Subhuman
   - Great Replacement
@@ -28,17 +29,18 @@ related_reaction:
 
 **The Appeal:** Dehumanisation serves a psychological function for those who engage in it: it resolves the cognitive dissonance between moral self-image and harmful intent. If the target is not fully human, harming them is not a moral violation. The rhetorical forms vary — animal metaphors, disease metaphors, criminality metaphors — but the function is consistent.
 
-**The Friction:** The research is unusually robust. Bandura's moral disengagement framework, developed across decades of empirical work, identifies dehumanisation as a reliable mechanism. Waller's interviews with genocide perpetrators document how dehumanising language preceded and enabled violence. This makes digital platforms' treatment of dehumanising language as protected expression analytically significant: the platforms are not merely hosting offensive speech, they are providing infrastructure for a documented harm precursor. [[Subhuman]] is the endpoint of the language. [[Groomer]], [[Social Contagion]], and [[Woke Mind Virus]] are less extreme instances of the same mechanism — applying pathology or predator frames that reduce target group's perceived humanity. [[Deplatforming]] is the primary response; its effectiveness at preventing downstream harm is contested.
+**The Friction:** The research is unusually robust. Bandura's moral disengagement framework, developed across decades of empirical work, identifies dehumanisation as a reliable mechanism. Waller's interviews with genocide perpetrators document how dehumanising language preceded and enabled violence. This makes digital platforms' treatment of dehumanising language as protected expression analytically significant: the platforms are not merely hosting offensive speech, they are providing infrastructure for a documented harm precursor. That infrastructure can also be profitable. [[Ragebaiting]] networks that manufacture outrage for advertising revenue routinely surface comments deploying the classic vermin frame. In one network documented by Justice for Prosperity (2026), the comment "ongedierte mag je bestrijden" ("vermin may be exterminated") drew 133 likes and no moderation, even though it breaches Meta's own rule against comparing groups to animals. Here dehumanisation is not the actors' conviction but a byproduct of engagement sold for money. [[Subhuman]] is the endpoint of the language. [[Groomer]], [[Social Contagion]], and [[Woke Mind Virus]] are less extreme instances of the same mechanism — applying pathology or predator frames that reduce target group's perceived humanity. [[Deplatforming]] is the primary response; its effectiveness at preventing downstream harm is contested.
 
 **Why This Matters:** **Dehumanization** names the mechanism, not just the outcome. Once you know the sequence — dehumanising language, reduced inhibitions, escalated harm — the presence of dehumanising rhetoric in mainstream discourse is not merely offensive. It is a stage in a process.
 
-**Related terms:** [[Subhuman]] · [[Groomer]] · [[Social Contagion]] · [[Great Replacement]] · [[Deplatforming]] · [[Woke Mind Virus]]
+**Related terms:** [[Subhuman]] · [[Groomer]] · [[Social Contagion]] · [[Great Replacement]] · [[Ragebaiting]] · [[Deplatforming]] · [[Woke Mind Virus]]
 
 
 ---
 **Read more:**
 - [Selective Moral Disengagement in the Exercise of Moral Agency](https://centrodocumentacion.psicosocial.net/wp-content/uploads/2003/01/bandura-selective-moral-disengagement-in-the-exercise-of-moral-agency.pdf?utm_source=chatgpt.com) — Bandura, A. (2010). *Journal of Moral Education, 31_(2), 101–119.*
 - [Becoming Evil](https://global.oup.com/academic/product/becoming-evil-9780195314564) — Waller, J. (2002). *Oxford University Press*
+- [Polarisatie als verdienmodel](https://justiceforprosperity.org) — Justice for Prosperity (2026). *JfP* — on outrage manufactured for ad revenue, including unmoderated vermin-frame comments
 
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

@@ -11,6 +11,7 @@ related_cause:
 related_mechanism:
   - QAnon
   - Flood the Zone
+  - Ragebaiting
 related_consequence:
   - Subhuman
   - Dark MAGA
@@ -28,7 +29,7 @@ related_reaction:
 
 **The Appeal:** The theory provides a coherent explanatory framework for demographic change, economic insecurity, and cultural transformation — phenomena that many people experience as real and threatening. It names an enemy (the orchestrating elite), identifies victims (white populations), and implies a response. This is the standard structure of conspiracy theories: a clear narrative that assigns cause and blame.
 
-**The Friction:** The link to mass violence is documented, not inferential. The Christchurch shooter's manifesto explicitly named the **Great Replacement** as motivation. This makes the theory's circulation in mainstream political discourse analytically distinct from ordinary political controversy: it is not merely offensive but empirically connected to atrocity. [[Dehumanization]] — the documented precursor to mass violence — is the ideological substrate. [[QAnon]] shares structural features: a hidden elite, a threatened group, a truth accessible to those who know. [[Recommender Systems]] — algorithms that determine what you see — have been documented amplifying radicalisation pathways toward the theory. [[Deplatforming]] is the primary policy response; research on its effectiveness is mixed. The theory's contemporary distribution is not confined to forums: Van de Griend & Pottjewijd (2026) document Dutch "decline porn" vloggers who frame European urban neighborhoods as evidence of *omvolking* — building audiences of hundreds of thousands on this frame, amplified by Russian bot farms and Kremlin-linked platforms.
+**The Friction:** The link to mass violence is documented, not inferential. The Christchurch shooter's manifesto explicitly named the **Great Replacement** as motivation. This makes the theory's circulation in mainstream political discourse analytically distinct from ordinary political controversy: it is not merely offensive but empirically connected to atrocity. [[Dehumanization]] — the documented precursor to mass violence — is the ideological substrate. [[QAnon]] shares structural features: a hidden elite, a threatened group, a truth accessible to those who know. [[Recommender Systems]] — algorithms that determine what you see — have been documented amplifying radicalisation pathways toward the theory. [[Deplatforming]] is the primary policy response; research on its effectiveness is mixed. The theory's contemporary distribution is not confined to forums: Van de Griend & Pottjewijd (2026) document Dutch "decline porn" vloggers who frame European urban neighborhoods as evidence of *omvolking* — building audiences of hundreds of thousands on this frame, amplified by Russian bot farms and Kremlin-linked platforms. Not every amplifier is ideological. [[Ragebaiting]] networks mapped by Justice for Prosperity (2026) manufacture the same replacement-style framing about migrants and asylum seekers with no conviction behind it, purely because outrage about "nieuwkomers" routes clicks to advertising. The narrative reaches the mainstream not only through believers but through actors indifferent to whether it is true.
 
 **Why This Matters:** **Great Replacement** makes visible the pathway from fringe theory to mainstream discourse — and the specific role that digital platforms play in accelerating that migration. The theory did not become mainstream because it became less extreme. It became mainstream because platforms amplified it.
 
@@ -40,6 +41,7 @@ related_reaction:
 - [The Buffalo Attack – An Analysis of the Manifesto](https://icct.nl/publication/buffalo-attack-analysis-manifesto) — Abbas, T., Bolaños Somoano, I., Cook, J., Frens, I., Klein, G.R., & McNeil-Willson, R., International Centre for Counter-Terrorism (2022) — _gratis_
 - [The Great Replacement: The Violent Consequences of Mainstreamed Extremism](https://www.isdglobal.org/wp-content/uploads/2019/07/The-Great-Replacement-The-Violent-Consequences-of-Mainstreamed-Extremism-by-ISD.pdf) — Davey, J. & Ebner, J., _Institute for Strategic Dialogue (2019)_ — _gratis PDF_
 - [What is the 'great replacement theory'? A scholar of race relations explains](https://theconversation.com/what-is-the-great-replacement-theory-a-scholar-of-race-relations-explains-224835) — Coates, R. _The Conversation (2022)_
+- [Polarisatie als verdienmodel](https://justiceforprosperity.org) — Justice for Prosperity (2026). *JfP* — on replacement-style framing about migrants manufactured for ad revenue
 
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>
