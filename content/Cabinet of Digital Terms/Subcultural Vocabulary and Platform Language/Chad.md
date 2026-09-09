@@ -38,7 +38,7 @@ Once you see **Chad** as a normative standard rather than slang, you see that th
 
 ---
 
-📖 **Read more**
+**Read more:**
 - [Misogynist Incels Gone Mainstream](https://journals.sagepub.com/doi/10.1177/17416590231196125) — Czerwinsky, A. (2024). *Men and Masculinities*
 - [Hegemonic Masculinities in the Manosphere](https://spssi.onlinelibrary.wiley.com/doi/10.1111/asap.12308) — Vallerga, M. & Zurbriggen, E.L. (2022). *Analyses of Social Issues and Public Policy*
 - [**Men Won’t Stop ‘Chad Facing’ Online**](https://www.gq.com/story/chad-facing-gen-z-lip-sync-face?utm_source=chatgpt.com) — Yang, J. (2023), _GQ_.  

@@ -39,8 +39,8 @@ related_reaction:
 **Read more:**
 - [Alles wat je moet weten over het Fediverse](https://publicspaces.net/alles-wat-je-moet-weten-over-het-fediverse/) — PublicSpaces.net (2024)
 - [The fediverse promises social media without Big Tech – if it can avoid familiar pitfalls](https://www.american.edu/soc/news/the-fediverse-promises-social-media-without-big-tech-if-it-can-avoid-familiar-pitfalls.cfm) — Sinnreich, A. (2025). *American University / The Conversation*
-- [Fediverse — University of Groningen Library](https://www.rug.nl/library/fediverse?lang=en) — University of Groningen (z.d.)
-- [Liever een Fediverse dan een Metaverse](https://sebastix.nl/blog/liever-een-fediverse-dan-een-metaverse/) — Sebastix.nl (z.d.)
-- [Fediverse.info](https://fediverse.info) — Fediverse.info (z.d.)
+- [Fediverse — University of Groningen Library](https://www.rug.nl/library/fediverse?lang=en) — University of Groningen (n.d.)
+- [Liever een Fediverse dan een Metaverse](https://sebastix.nl/blog/liever-een-fediverse-dan-een-metaverse/) — Sebastix.nl (n.d.)
+- [Fediverse.info](https://fediverse.info) — Fediverse.info (n.d.)
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

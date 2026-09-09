@@ -38,7 +38,7 @@ Once you see **Mechanical Turk** as a labour infrastructure rather than a techno
 
 ---
 
-📖 **Read more**
+**Read more:**
 - [A Data-Driven Analysis of Workers' Earnings on Amazon Mechanical Turk](https://arxiv.org/abs/1712.05796) — Hara, K. et al. (2018). *CHI Conference on Human Factors in Computing Systems*
 - [Amazon Mechanical Turk: The Human Sciences' Labor Problem](https://read.dukeupress.edu/labor/article/21/3/6/390482/Amazon-Mechanical-Turk-The-Human-Sciences-Labor) — Shapiro, A. (2024). *Labor: Studies in Working-Class History*
 

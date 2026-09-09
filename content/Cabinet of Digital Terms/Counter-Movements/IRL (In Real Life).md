@@ -38,7 +38,7 @@ Once you see IRL as a symptom of digital dominance rather than just a term, you 
 
 ---
 
-📖 **Read more**
+**Read more:**
 - [Alone Together: Why We Expect More From Technology and Less From Each Other](https://www.basicbooks.com/titles/sherry-turkle/alone-together/9780465093663/) — Turkle, S. (2011). *Basic Books*
 - [IRL: Finding Realness, Meaning, and Belonging in Our Digital Lives](https://www.broadleafbooks.com/store/product/9781506485157/IRL) — Stedman, C. (2020). *Broadleaf Books*
 

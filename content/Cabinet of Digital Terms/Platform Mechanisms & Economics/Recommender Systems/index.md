@@ -42,13 +42,13 @@ related_reaction:
 **Related terms:** [[Filter Bubble]] · [[Echo Chamber]] · [[Microtargeting]] · [[Dopamine Feedback Loops]] · [[Attention Harvesting]] · [[BUMMER]] · [[Surveillance Capitalism]] · [[Virtual Influencer]] · [[Ragebaiting]] · [[SMV (Sexual Market Value)]]
 
 ---
-**Further reading:**
+**Read more:**
 
 *Primary:*
 - [[Ribeiro-2020|Ribeiro et al. (2020)]] — [Auditing Radicalization Pathways on YouTube](https://arxiv.org/pdf/1908.08313). *FAccT*
 - [[Bail-2023|Bail et al. (2023)]] — [Exposure to opposing views on social media can increase political polarization](https://www.pnas.org/doi/10.1073/pnas.2213020120). *PNAS*
 
 *Secondary:*
-- [[Secondary-RecommenderSystems|Tufekci (2019) · Tufekci (2018) · Ledwich & Zaitsev (2019) · Brady et al. (2017) · Kang et al. (2025) · Hope, Fear, or Anger? (2023)]] — journalistiek, tegengeluid, emotie-onderzoek en theoretische kaders
+- [[Secondary-RecommenderSystems|Tufekci (2019) · Tufekci (2018) · Ledwich & Zaitsev (2019) · Brady et al. (2017) · Kang et al. (2025) · Hope, Fear, or Anger? (2023)]] — journalism, counter-evidence, emotion research and theoretical frameworks
 
 <div class="ai-attribution">Created with AI assistance (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

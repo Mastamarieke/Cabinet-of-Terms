@@ -38,7 +38,7 @@ Once you see **ghost work** as the hidden foundation of AI, you see that every i
 
 ---
 
-📖 **Read more**
+**Read more:**
 - [Ghost Work: How to Stop Silicon Valley from Building a New Global Underclass](https://openlibrary.org/works/OL20827527W/Ghost_Work) — Gray, M.L. & Suri, S. (2019). *Houghton Mifflin Harcourt*
 - [Digital Labor and the Inconspicuous Production of Artificial Intelligence](https://www.researchgate.net/publication/384770014_Digital_Labor_and_the_Inconspicuous_Production_of_Artificial_Intelligence) — Casilli, A.A. (2024). *arXiv*
 

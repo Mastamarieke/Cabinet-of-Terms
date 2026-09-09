@@ -58,13 +58,13 @@ At the extreme end: **De Coninck** (2026) documents AI-generated personas posing
 
 ---
 
-**Further reading:**
+**Read more:**
 
 *Primary:*
 - [[Kim-2023|Kim et al. (2023)]] — [The next hype in social media advertising](https://doi.org/10.3389/fpsyg.2023.1089051). *Frontiers in Psychology*
 - [[Sands-2022|Sands et al. (2022)]] — [Unreal influence: Leveraging AI in influencer marketing](https://doi.org/10.1108/EJM-12-2019-0949). *European Journal of Marketing*
 
 *Secondary:*
-- [[Secondary-VirtualInfluencer|VirtualHumans.org (n.d.) · De Coninck (2026) · Internet Matters (2023) · VRT NWS (2023) · Youngworks (2025) · Sprout Social (2025) · The Marketing Cloud (2024)]] — branchedirectory, journalistiek, jeugdonderzoek, industrie-documentatie
+- [[Secondary-VirtualInfluencer|VirtualHumans.org (n.d.) · De Coninck (2026) · Internet Matters (2023) · VRT NWS (2023) · Youngworks (2025) · Sprout Social (2025) · The Marketing Cloud (2024)]] — industry directory, journalism, youth research, industry documentation
 
 <div class="ai-attribution">Created with AI assistance (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

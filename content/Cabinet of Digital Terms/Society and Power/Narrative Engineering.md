@@ -36,7 +36,7 @@ Once you see **Narrative Engineering** as infrastructure rather than persuasion,
 
 ---
 
-📖 **Read more**
+**Read more:**
 - [Information Disorder: Toward an Interdisciplinary Framework for Research and Policy Making](https://rm.coe.int/information-disorder-toward-an-interdisciplinary-framework-for-researc/168076277c) — Wardle, C. & Derakhshan, H. (2017). *Council of Europe*
 - [Network Propaganda: Manipulation, Disinformation, and Radicalization in American Politics](https://academic.oup.com/book/26406) — Benkler, Y., Faris, R. & Roberts, H. (2018). *Oxford University Press*
 

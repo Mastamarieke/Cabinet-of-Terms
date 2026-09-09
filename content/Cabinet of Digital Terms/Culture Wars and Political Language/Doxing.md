@@ -39,7 +39,7 @@ Once you see **doxing** as infrastructure rather than an individual act, you see
 
 ---
 
-📖 **Read more**
+**Read more:**
 - [Doxing: A Conceptual Analysis](https://link.springer.com/article/10.1007/s10676-016-9406-0) — Douglas, D.M. (2016). *Ethics and Information Technology*
 - [Doxing: What Adolescents Look for and Their Intentions](https://pmc.ncbi.nlm.nih.gov/articles/PMC6352099/) — Chen, M., Chan, K.L. & Cheung, A.S.Y. (2019). *International Journal of Environmental Research and Public Health*
 

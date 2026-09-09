@@ -37,7 +37,7 @@ Once you see **wexting** infrastructure as an externalised cost of platform desi
 
 ---
 
-📖 **Read more**
+**Read more:**
 - [Gait Pattern Alterations During Walking, Texting and Walking and Texting](https://pmc.ncbi.nlm.nih.gov/articles/PMC4519241/) — Licence, S. et al. (2015). *PLoS ONE*
 - [Texting and Walking: Strategies for Postural Control and Implications for Safety](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3898913/) — Licence, S. et al. (2014). *PLoS ONE*
 

@@ -37,7 +37,7 @@ Once you see **cyberchondria** as an algorithmic design outcome rather than indi
 
 ---
 
-📖 **Read more**
+**Read more:**
 - [Cyberchondria in the Time of the COVID-19 Pandemic](https://pmc.ncbi.nlm.nih.gov/articles/PMC7753572/) — Starcevic, V. & Berle, D. (2021). *Journal of Anxiety Disorders*
 - [Cyberchondria: Challenges of Problematic Online Searches for Health-Related Information](https://karger.com/pps/article/86/3/129/282998/Cyberchondria-Challenges-of-Problematic-Online) — Starcevic, V. & Berle, D. (2017). *Psychotherapy and Psychosomatics*
 

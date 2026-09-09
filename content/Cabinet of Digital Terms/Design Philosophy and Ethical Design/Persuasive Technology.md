@@ -42,7 +42,7 @@ related_reaction:
 **Read more:**
 - [Persuasive Technology: Using Computers to Change What We Think and Do](https://archive.org/details/persuasivetechno0000fogg) — Fogg, B.J. (2003). *Morgan Kaufmann*
 - [A Behavior Model for Persuasive Design](https://www.demenzemedicinagenerale.net/images/mens-sana/Captology_Fogg_Behavior_Model.pdf) — Fogg, B.J. (2009). *ACM*
-- [Fogg Behavior Model](https://behaviordesign.stanford.edu/resources/fogg-behavior-model) — Fogg, B.J. (z.d.). *Stanford Behavior Design Lab*
+- [Fogg Behavior Model](https://behaviordesign.stanford.edu/resources/fogg-behavior-model) — Fogg, B.J. (n.d.). *Stanford Behavior Design Lab*
 - [Hooked: How to Build Habit-Forming Products](https://www.nirandfar.com/hooked/) — Eyal, N. & Hoover, R. (2014). *Penguin / Portfolio*
 - [Influence, New and Expanded: The Psychology of Persuasion](https://www.harpercollins.com/products/influence-new-and-expanded-robert-b-cialdini) — Cialdini, R.B. (2021). *HarperCollins*
 

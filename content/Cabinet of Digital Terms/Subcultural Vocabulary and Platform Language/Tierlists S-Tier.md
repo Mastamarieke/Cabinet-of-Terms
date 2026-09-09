@@ -40,8 +40,8 @@ related_reaction:
 **Read more:**
 - [**Rethinking Gamification**](https://meson.press/books/rethinking-gamification/) — Fuchs, M., Fizek, S., Ruffino, P. & Schrape, N. (eds.) (2014), _Meson Press_.
 - [**How fighting games kicked off a bizarre YouTube meme**](https://www.inverse.com/gaming/tier-list-meaning-definition-origins-video-games?utm_source=chatgpt.com) — Webb, K. (2020), _Inverse_.  
-    Goede journalistieke bron voor de herkomst in fighting-gamecultuur en de latere verspreiding als **YouTube**-/internetformat. 
+    Solid journalistic source on the origins in fighting-game culture and the later spread as a **YouTube**/internet format. 
 - [**S Tier Meaning: What does S Ranking stand for?**](https://tiermaker.com/blog/news/15/s-tier-meaning-what-does-s-tier-stand-for?utm_source=chatgpt.com) — TierMaker (n.d.), _TierMaker_.  
-    Praktische bron voor **S-tier** als hoogste categorie in tier-list-formaten
+    Practical source on **S-tier** as the highest category in tier-list formats
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

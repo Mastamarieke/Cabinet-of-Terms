@@ -35,7 +35,7 @@ Once you see the **ludic loop** in your phone's notification system, your social
 
 ---
 
-📖 **Read more**
+**Read more:**
 - [The Lucid Truth of Ludic Loops](https://medium.com/interactive-designers-cookbook/the-lucid-truth-of-ludic-loops-caec3ad272da) — Dow Schüll, N. (2018). *Medium*
 - [Game Loops, Game Design Loops, Game Terakoya Loops and Ludic Language Pedagogy Loops](https://www.researchgate.net/publication/364204243_Game_loops_Game_design_loops_Game_Terakoya_loops_and_Ludic_Language_Pedagogy_loops) — deHaan, J. (2022). *ResearchGate*
 

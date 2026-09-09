@@ -18,6 +18,7 @@ related_consequence:
   - Dehumanization
   - Doomscrolling
   - Wellness-to-Alt-Right Pipeline
+  - Great Replacement
 related_reaction:
   - Slow Media
   - Fact Checker
@@ -41,17 +42,17 @@ That last case has a geopolitical actor behind it; **ragebaiting** does not requ
 
 **Why This Matters:** **Ragebaiting** makes visible that your anger is a product. The provocation was designed for a metric. Once you know that, the outrage is still real — but the question of who benefits from it is worth asking.
 
-**Related terms:** [[Clickbait]] · [[Recommender Systems]] · [[Flood the Zone]] · [[Dehumanization]] · [[Attention Economy]] · [[Wellness-to-Alt-Right Pipeline]] · [[Bot Farms]] · [[Empathy Exploit]]
+**Related terms:** [[Clickbait]] · [[Recommender Systems]] · [[Flood the Zone]] · [[Dehumanization]] · [[Great Replacement]] · [[Attention Economy]] · [[Wellness-to-Alt-Right Pipeline]] · [[Bot Farms]] · [[Fact Checker]] · [[Empathy Exploit]]
 
 
 ---
-**Further reading:**
+**Read more:**
 
 *Primary:*
 - [[Brady-Ragebaiting-2017|Brady et al. (2017)]] — [Emotion shapes the diffusion of moralized content in social networks](https://doi.org/10.1073/pnas.1618923114). *PNAS*
 - [[Rathje-Ragebaiting-2021|Rathje, Van Bavel & Van der Linden (2021)]] — [Out-group animosity drives engagement on social media](https://doi.org/10.1073/pnas.2024292118). *PNAS*
 
 *Secondary:*
-- [[Secondary-Ragebaiting|Shin et al. (2025) · Heijne (2026) · Van de Griend & Pottjewijd (2026) · Justice for Prosperity (2026) · Pronk (2026) · Neurink (2026) · Berger (2013) · Wikipedia]] — rage-bait headlines, ego-kapitalisme, decline porn als disinformatievoertuig, polarisatie als verdienmodel (OSINT), viraliteitsmechanisme
+- [[Secondary-Ragebaiting|Shin et al. (2025) · Heijne (2026) · Van de Griend & Pottjewijd (2026) · Justice for Prosperity (2026) · Pronk (2026) · Neurink (2026) · Berger (2013) · Wikipedia]] — rage-bait headlines, ego-capitalism, decline porn as a disinformation vehicle, polarisation as a business model (OSINT), virality mechanism
 
 <div class="ai-attribution">Created with AI assistance (Claude, Anthropic) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

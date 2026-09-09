@@ -38,7 +38,7 @@ Once you see **Digital Overload** as a designed condition rather than a personal
 
 ---
 
-📖 **Read more**
+**Read more:**
 - [Information Overload: An Overview](https://openaccess.city.ac.uk/id/eprint/23544/1/information%20overload%20-%20an%20overview.pdf) — Bawden, D. & Robinson, L. (2020). *Oxford Encyclopedia of Political Decision Making*
 - [The Concept of Information Overload: A Review of Literature](https://doi.org/10.1080/01972240490507974) — Eppler, M.J. & Mengis, J. (2004). *The Information Society*
 

@@ -53,13 +53,13 @@ semantic_landscape: |
 
 ---
 
-**Further reading:**
+**Read more:**
 
 *Primary:*
 - [[Ging-Looksmaxxing-2019|Ging, D. (2019)]] — [Alphas, Betas, and Incels](https://doi.org/10.1177/1097184x17706401). *Men and Masculinities*
 - [[Konig-2025|Konig et al. (2025)]] — [Looksmaxxing: Straddling the Inflection Between Self-Enhancement and Self-Harm](https://journals.sagepub.com/doi/10.1177/26893614251409793). *SAGE Open Medicine*
 
 *Secondary:*
-- [[Secondary-Looksmaxxing|Hofstede (2026) · Usborne (2024) · Murdoch (1970)]] — journalistiek + filosofisch
+- [[Secondary-Looksmaxxing|Hofstede (2026) · Usborne (2024) · Murdoch (1970)]] — journalism + philosophy
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

@@ -36,7 +36,7 @@ Once you see **shadow banning** as a governance mechanism rather than a content 
 
 ---
 
-📖 **Read more**
+**Read more:**
 - [Shaping Opinions in Social Networks with Shadow Banning](https://pmc.ncbi.nlm.nih.gov/articles/PMC10971755/) — Chen, Y. & Zaman, T. (2024). *PLoS ONE*
 - [The Shadow Banning Controversy: Perceived Governance and Algorithmic Folklore](https://www.researchgate.net/publication/359198081_The_shadow_banning_controversy_perceived_governance_and_algorithmic_folklore) — Savolainen, L. (2022). *Media, Culture & Society*
 

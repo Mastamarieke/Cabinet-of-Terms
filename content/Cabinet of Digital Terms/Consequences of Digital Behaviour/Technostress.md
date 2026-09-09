@@ -36,7 +36,7 @@ Once you see **technostress** as a design outcome rather than individual incapac
 
 ---
 
-📖 **Read more**
+**Read more:**
 - [Technostress: Dark Side of Technology in the Workplace](https://pmc.ncbi.nlm.nih.gov/articles/PMC7662498/) — Giorgi, G. et al. (2020). *Frontiers in Psychology*
 - [The Impact of Technostress on Role Stress and Productivity](https://www.researchgate.net/publication/220591007_The_Impact_of_Technostress_on_Role_Stress_and_Productivity) — Tarafdar, M. et al. (2007). *Journal of Management Information Systems*
 
