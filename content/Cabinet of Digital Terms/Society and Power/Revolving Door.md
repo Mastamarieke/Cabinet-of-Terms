@@ -15,7 +15,6 @@ related_consequence:
   - Digital-Military-Industrial Complex
   - Sovereignty as a Service
 related_reaction:
-  - Brussels Effect
   - Situated Knowledge
 ---
 
@@ -33,7 +32,7 @@ related_reaction:
 
 **Why This Matters:** **Revolving door** names the personnel mechanism of regulatory capture. Once you see it, "the regulator is independent" requires examination: where did they work before, where will they work next, and what relationships does that create?
 
-**Related terms:** [[Digital-Military-Industrial Complex]] · [[Military-Industrial Complex]] · [[Broligarchy]] · [[Dual-Use Technology]] · [[Brussels Effect]] · [[Reconstruction Economy]] · [[Situated Knowledge]] · [[Sovereignty as a Service]]
+**Related terms:** [[Digital-Military-Industrial Complex]] · [[Military-Industrial Complex]] · [[Broligarchy]] · [[Dual-Use Technology]] · [[Reconstruction Economy]] · [[Situated Knowledge]] · [[Sovereignty as a Service]]
 
 
 ---

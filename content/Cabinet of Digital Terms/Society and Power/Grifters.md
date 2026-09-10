@@ -16,7 +16,6 @@ related_consequence:
   - Reconstruction Economy
 related_reaction:
   - Fact Checker
-  - Brussels Effect
 ---
 
 ***The ideology is the product. The followers are the market.***
@@ -33,7 +32,7 @@ related_reaction:
 
 **Why This Matters:** **Grifters** names the specific harm of ideological cover for financial extraction. Once you see the pattern — manifesto + extraction + community attribution of losses — you can identify it across political movements, cryptocurrency projects, and **influencer** businesses.
 
-**Related terms:** [[Financial Fabulism]] · [[Memecoin]] · [[Reconstruction Economy]] · [[Fact Checker]] · [[Broligarchy]] · [[Brussels Effect]]
+**Related terms:** [[Financial Fabulism]] · [[Memecoin]] · [[Reconstruction Economy]] · [[Fact Checker]] · [[Broligarchy]]
 
 
 ---

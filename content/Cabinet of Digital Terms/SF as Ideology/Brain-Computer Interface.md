@@ -16,7 +16,6 @@ related_consequence:
   - Technofeudalism
 related_reaction:
   - VSD (Value Sensitive Design)
-  - Brussels Effect
 ---
 
 ***Direct connection between brain and machine. The technology is real. The implications are still being written.***
@@ -37,7 +36,7 @@ Today, BCIs are increasingly understood not merely as medical devices, but as in
 
 **Why This Matters:** **Brain-computer interface** is the point where the technology is real and the governance is not. Once you see the data implications — what neural signals reveal, who would own that data, what it would be used for — the clinical frame of "helping paralysed patients" becomes a partial description of a much larger technology trajectory.
 
-**Related terms:** [[Neuralink]] · [[Mind Uploading]] · [[Biometric Surveillance]] · [[Surveillance Capitalism]] · [[VSD (Value Sensitive Design)]] · [[Cybernetic Collective]] · [[Brussels Effect]] · [[Technofeudalism]] · [[Transhumanism]]
+**Related terms:** [[Neuralink]] · [[Mind Uploading]] · [[Biometric Surveillance]] · [[Surveillance Capitalism]] · [[VSD (Value Sensitive Design)]] · [[Cybernetic Collective]] · [[Technofeudalism]] · [[Transhumanism]]
 
 
 ---

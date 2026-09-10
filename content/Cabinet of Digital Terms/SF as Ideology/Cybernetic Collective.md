@@ -16,7 +16,6 @@ related_consequence:
   - Muskism
 related_reaction:
   - Cyberfeminism
-  - Brussels Effect
 ---
 
 ***Human-machine fusion as collective project. The collective framing obscures who owns the infrastructure.***
@@ -33,7 +32,7 @@ related_reaction:
 
 **Why This Matters:** **Cybernetic collective** names the sleight of hand by which private technology projects are framed as collective human advancement. Once you identify the ownership structure behind the "we," the collective vocabulary becomes legible as branding.
 
-**Related terms:** [[Neuralink]] · [[Brain-Computer Interface]] · [[Cyborg Musk]] · [[Technofeudalism]] · [[Cyberfeminism]] · [[Brussels Effect]] · [[Muskism]] · [[Transhumanism]]
+**Related terms:** [[Neuralink]] · [[Brain-Computer Interface]] · [[Cyborg Musk]] · [[Technofeudalism]] · [[Cyberfeminism]] · [[Muskism]] · [[Transhumanism]]
 
 
 ---

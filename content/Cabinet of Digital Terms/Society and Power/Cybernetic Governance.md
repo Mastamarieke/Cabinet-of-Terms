@@ -15,7 +15,6 @@ related_consequence:
   - Algorithmic Violence
   - Sovereignty as a Service
 related_reaction:
-  - Brussels Effect
   - VSD (Value Sensitive Design)
 ---
 
@@ -33,7 +32,7 @@ related_reaction:
 
 **Why This Matters:** **Cybernetic governance** names the political stakes of what looks like administrative efficiency. Once you see algorithms as governance — not just tools — the question of who designs them, whose values they encode, and who bears their errors becomes a constitutional question.
 
-**Related terms:** [[Algorithmic Violence]] · [[Panopticon]] · [[Sovereignty as a Service]] · [[Surveillance Capitalism (Political Economy)]] · [["Like Prime, but with human beings."]] · [[Brussels Effect]] · [[Technofeudalism]] · [[VSD (Value Sensitive Design)]]
+**Related terms:** [[Algorithmic Violence]] · [[Panopticon]] · [[Sovereignty as a Service]] · [[Surveillance Capitalism (Political Economy)]] · [["Like Prime, but with human beings."]] · [[Technofeudalism]] · [[VSD (Value Sensitive Design)]]
 
 
 ---

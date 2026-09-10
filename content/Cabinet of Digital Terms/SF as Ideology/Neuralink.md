@@ -15,7 +15,6 @@ related_consequence:
   - Technofeudalism
   - Muskism
 related_reaction:
-  - Brussels Effect
   - VSD (Value Sensitive Design)
 ---
 
@@ -33,7 +32,7 @@ related_reaction:
 
 **Why This Matters:** **Neuralink** makes visible how a brand name can serve as ideological positioning — recruiting the cultural capital of SF to a commercial technology project before the technology delivers on what the name implies.
 
-**Related terms:** [[Brain-Computer Interface]] · [[Cybernetic Collective]] · [[Mind Uploading]] · [[Transhumanism]] · [[Cyborg Musk]] · [[VSD (Value Sensitive Design)]] · [[Brussels Effect]] · [[Muskism]] · [[Technofeudalism]]
+**Related terms:** [[Brain-Computer Interface]] · [[Cybernetic Collective]] · [[Mind Uploading]] · [[Transhumanism]] · [[Cyborg Musk]] · [[VSD (Value Sensitive Design)]] · [[Muskism]] · [[Technofeudalism]]
 
 
 ---
