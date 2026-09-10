@@ -8,6 +8,7 @@ analysis_version: pending
 related_cause:
   - Bot Farms
   - Synthetic Generation
+  - Ragebaiting
 related_mechanism:
   - Content Moderator
   - Flood the Zone
@@ -28,11 +29,11 @@ related_reaction:
 
 **The Appeal:** Fact-checking provides a genuine public service. Independent verification of political claims, debunking of viral misinformation, and systematic documentation of false narratives have measurable effects on public information. Research by Brendan Nyhan and Jason Reifler documented that fact-check labels reduce belief in corrected misinformation.
 
-**The Friction:** The scale problem is structural. [[Bot Farms]] can produce false claims faster than fact-checkers can assess them. [[Synthetic Generation]] produces synthetic media — fake quotes, fabricated videos — that requires new verification techniques as fast as they develop. [[Flood the Zone]] — information overload as strategic destabilisation — is designed to outpace fact-checking by volume: if false claims arrive at ten times the rate of corrections, corrections lose. The profession's growth is not evidence of health — it is evidence that the information ecosystem is producing more misinformation than it did before the profession was needed. A world with more fact-checkers is not a better-informed world; it is a world with more misinformation.
+**The Friction:** The scale problem is structural. [[Bot Farms]] can produce false claims faster than fact-checkers can assess them. [[Synthetic Generation]] produces synthetic media — fake quotes, fabricated videos — that requires new verification techniques as fast as they develop. [[Flood the Zone]] — information overload as strategic destabilisation — is designed to outpace fact-checking by volume: if false claims arrive at ten times the rate of corrections, corrections lose. [[Ragebaiting]] networks add a commercial engine to the same asymmetry: coordinated pages fabricate false stories purely to route outraged clicks to advertising, and they replicate faster than any correction can travel. The platforms have meanwhile retreated from the work. Meta ended its US fact-checking partnerships in early 2025, even as independent checkers like Nieuwscheckers keep debunking individual fabrications, such as a Vietnamese network's invented homophobic incidents about the Dutch prime minister. The profession's growth is not evidence of health — it is evidence that the information ecosystem is producing more misinformation than it did before the profession was needed. A world with more fact-checkers is not a better-informed world; it is a world with more misinformation.
 
 **Why This Matters:** **Fact checker** makes visible the asymmetry between misinformation production and its correction. Once you see the structural gap, the question shifts from "are there enough fact-checkers?" to "why is the production of false information faster than its correction, and who profits from that asymmetry?"
 
-**Related terms:** [[Bot Farms]] · [[Synthetic Generation]] · [[Flood the Zone]] · [[Content Moderator]] · [[AI Literacy]] · [[Deplatforming]] · [[Slow Media]]
+**Related terms:** [[Bot Farms]] · [[Synthetic Generation]] · [[Ragebaiting]] · [[Flood the Zone]] · [[Content Moderator]] · [[AI Literacy]] · [[Deplatforming]] · [[Slow Media]]
 
 
 ---
@@ -40,6 +41,7 @@ related_reaction:
 - [Misinformation and Its Correction: Continued Influence and Successful Debiasing](https://journals.sagepub.com/doi/10.1177/1529100612451018) — Lewandowsky, S., Ecker, U.K.H., Seifert, C.M., Schwarz, N. & Cook, J. (2012). *Psychological Science in the Public Interest.
 - [The Fact Checker rose in an era of false claims. Falsehoods are now winning.](https://www.washingtonpost.com/politics/2025/07/31/fact-checker-falsehoods-glenn-kessler/) — Kessler, G. (2025). _The Washington Post_  
 - [The Impact and Opportunities of Generative AI in Fact-Checking](https://arxiv.org/abs/2405.15985) — Wolfe, R. & Mitra, T. (2024). _arXiv_
-  [The toll of fighting misinformation: Precarity in fact-checking organizations](https://journals.sagepub.com/doi/10.1177/14648849251355817) — Bélair-Gagnon, V. et al. (2025). _Journalism_  
+  [The toll of fighting misinformation: Precarity in fact-checking organizations](https://journals.sagepub.com/doi/10.1177/14648849251355817) — Bélair-Gagnon, V. et al. (2025). _Journalism_
+- [Pulpnieuwsproducenten verspreiden nepnieuws over homofobe incidenten met Rob Jetten](https://nieuwscheckers.nl/pulpnieuwsproducenten-verspreiden-nepnieuws-over-homofobe-incidenten-met-rob-jetten/) — Neurink, Y. (2026). *Nieuwscheckers* — factcheck debunking a Vietnamese pulp-news network  
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>
