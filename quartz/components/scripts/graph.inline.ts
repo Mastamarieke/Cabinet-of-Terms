@@ -9,7 +9,8 @@ import {
   forceLink,
   forceCollide,
   forceRadial,
-  zoomIdentity,
+  forceX,
+  forceY,
   select,
   drag,
   zoom,
@@ -45,12 +46,21 @@ type LinkData = {
 
 type LinkRenderData = GraphicsInfo & {
   simulationData: LinkData
+  label?: Text
+  // where along the line the relation word sits, 0.5 being the middle
+  labelT?: number
+  // colour of the line when nothing is hovered: the cluster it leads to
+  restColor?: string
 }
 
 type NodeRenderData = GraphicsInfo & {
   simulationData: NodeData
   label: Text
-  labelBg?: Graphics
+  // which of the candidate spots this label last settled on — tried first next time, so a
+  // label that already has a good place is not shuffled to an equally good one every pass
+  placement?: number
+  // angle on the ring in the radial layout, where the label hangs straight outwards
+  angle?: number
 }
 
 const localStorageKey = "graph-visited"
@@ -100,10 +110,16 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
   )
   const links: SimpleLinkData[] = []
   const tags: SimpleSlug[] = []
-  const validLinks = new Set(data.keys())
+  // The vault's own front page links to every cluster and half the terms, so as a node it
+  // is a hub that carries no meaning: everything is one hop from it. Leave it out.
+  // simplifySlug("index") returns "/", not "" — and "/".split("/") has two parts, which is
+  // why a check on segment count let the front page through and even put it in capitals.
+  const isVaultIndex = (id: string) => id === "/" || id === "" || id.split("/").length <= 1
+  const validLinks = new Set([...data.keys()].filter((k) => !isVaultIndex(k)))
 
   const tweens = new Map<string, TweenNode>()
   for (const [source, details] of data.entries()) {
+    if (isVaultIndex(source)) continue
     const outgoing = details.links ?? []
 
     for (const dest of outgoing) {
@@ -129,6 +145,10 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
   const slugParts = slug.split('/')
   const clusterPath = slugParts.length >= 2 ? slugParts[1] : null
   const clusterIndexSlug = slugParts.length >= 2 ? (slugParts.slice(0, 2).join('/') as SimpleSlug) : null
+
+  // depth is counted down to -1 while the neighbourhood is walked below, so anything that
+  // still needs to know whether this is a local or a global graph has to read it first.
+  const isLocalGraph = depth >= 0
 
   const neighbourhood = new Set<SimpleSlug>()
   const wl: (SimpleSlug | "__SENTINEL")[] = [slug, "__SENTINEL"]
@@ -167,8 +187,13 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     }
   }
 
+  // A cluster's About page is two slug segments deep. Setting it in capitals gives the
+  // graph the same reading order as the vault itself: cluster above term.
+  const isClusterIndex = (url: SimpleSlug) => url !== "/" && url.split("/").length === 2
+
   const nodes = [...neighbourhood].map((url) => {
-    const text = url.startsWith("tags/") ? "#" + url.substring(5) : (data.get(url)?.title ?? url)
+    const title = url.startsWith("tags/") ? "#" + url.substring(5) : (data.get(url)?.title ?? url)
+    const text = isClusterIndex(url) ? title.toUpperCase() : title
     return {
       id: url,
       text,
@@ -194,6 +219,81 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     .force("center", forceCenter().strength(centerForce))
     .force("link", forceLink(graphData.links).distance(linkDistance))
     .force("collide", forceCollide<NodeData>((n) => nodeRadius(n)).iterations(3))
+
+  // The entry you are reading is the centre of its own graph, so it is pinned there
+  // instead of drifting wherever the forces happen to push it. Everything else arranges
+  // itself around that fixed point, which also keeps the layout stable between visits.
+  const centreNode = isLocalGraph ? graphData.nodes.find((n) => n.id === slug) : undefined
+  if (centreNode) {
+    centreNode.fx = 0
+    centreNode.fy = 0
+  }
+
+  // Terms group by cluster around that centre, each cluster in its own direction, so the
+  // graph reads the way the vault is organised instead of as one undifferentiated cloud.
+  const clusterOf = (id: SimpleSlug | string) => {
+    const parts = id.split("/")
+    return parts.length >= 2 ? parts[1] : null
+  }
+
+  // EXPERIMENT (10-09) — short names for the map only, easy to remove: delete this map and
+  // the lookup below it. Cluster titles are written as headings for the vault, which makes
+  // them good descriptions and poor captions: "Subcultural Vocabulary and Platform
+  // Language" is forty-four characters beside a ring. The full title stays untouched
+  // everywhere else. If this survives its first audience, it belongs in the cluster's own
+  // frontmatter as `short_title` rather than in code.
+  const shortClusterTitles: Record<string, string> = {
+    "Beauty,-Influencers--and--Self-Image": "Beauty & Self-Image",
+    "Consequences-of-Digital-Behaviour": "Consequences",
+    "Culture-Wars-and-Political-Language": "Culture Wars",
+    "Design-Philosophy-and-Ethical-Design": "Ethical Design",
+    "End-Times-Thinking-and-Elite-Survivalism": "End-Times Thinking",
+    "Inclusion,-Accessibility-and-Ageing": "Inclusion & Ageing",
+    "New-Digital-Professions": "Digital Professions",
+    "Platform-Mechanisms--and--Economics": "Platform Mechanisms",
+    "Privacy,-Data-and-Control": "Privacy & Data",
+    "Statements-as-Analytical-Object": "Statements",
+    "Subcultural-Vocabulary-and-Platform-Language": "Subcultural Vocabulary",
+  }
+
+  const clusterTitle = (segment: string) => {
+    const short = shortClusterTitles[segment]
+    const indexTitle = data.get(`${slugParts[0]}/${segment}` as SimpleSlug)?.title
+    return (short ?? indexTitle ?? segment.replaceAll("--and--", " & ").replaceAll("-", " ")).toUpperCase()
+  }
+
+  const clusterSegments = [
+    ...new Set(
+      graphData.nodes
+        .map((n) => clusterOf(n.id))
+        .filter((c): c is string => !!c && c !== clusterOf(slug)),
+    ),
+  ].sort()
+
+  // The reading entry's own cluster keeps the top of the circle; the rest fan out around it.
+  const ownCluster = clusterOf(slug)
+  const orderedClusters = ownCluster ? [ownCluster, ...clusterSegments] : clusterSegments
+  const clusterAngle = new Map<string, number>(
+    orderedClusters.map((c, i) => [c, (i / orderedClusters.length) * 2 * Math.PI - Math.PI / 2]),
+  )
+  const groupRadius = (Math.min(width, height) / 2) * 0.55
+
+  const clusterAnchor = (n: NodeData) => {
+    const c = clusterOf(n.id)
+    const angle = c ? clusterAngle.get(c) : undefined
+    if (angle === undefined) return { x: 0, y: 0 }
+    return { x: Math.cos(angle) * groupRadius, y: Math.sin(angle) * groupRadius }
+  }
+
+  if (isLocalGraph && orderedClusters.length > 1) {
+    // Strong enough that a cluster becomes a visible clump you can point at. The earlier
+    // 0.09 left the groups so loose that their names landed on top of each other in the
+    // middle, which is what made the picture unreadable.
+    const groupStrength = (n: NodeData) => (n.id === slug ? 0 : 0.17)
+    simulation
+      .force("clusterGroupX", forceX<NodeData>((n) => clusterAnchor(n).x).strength(groupStrength))
+      .force("clusterGroupY", forceY<NodeData>((n) => clusterAnchor(n).y).strength(groupStrength))
+  }
 
   const radius = (Math.min(width, height) / 2) * 0.8
   if (enableRadial) simulation.force("radial", forceRadial(radius).strength(0.2))
@@ -271,6 +371,7 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
   const nodeRenderData: NodeRenderData[] = []
   function updateHoverInfo(newHoveredId: string | null) {
     hoveredNodeId = newHoveredId
+    labelsNeedPlacing = true
 
     if (newHoveredId === null) {
       hoveredNeighbours = new Set()
@@ -301,6 +402,7 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
 
   let dragStartTime = 0
   let dragging = false
+  let draggedNodeId: string | null = null
 
   function renderLinks() {
     tweens.get("link")?.stop()
@@ -315,7 +417,9 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
         alpha = l.active ? 1 : 0.2
       }
 
-      l.color = l.active ? computedStyleMap["--gray"] : computedStyleMap["--lightgray"]
+      // A line takes the colour of the cluster it runs to, so a glance shows where a term
+      // reaches outside its own neighbourhood. Hovering still darkens the ones you touch.
+      l.color = l.active ? computedStyleMap["--gray"] : (l.restColor ?? computedStyleMap["--lightgray"])
       tweenGroup.add(new Tweened<LinkRenderData>(l).to({ alpha }, 200))
     }
 
@@ -328,11 +432,14 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     })
   }
 
+  // Adjustable from the sliders in the loupe overlay; 1 keeps the original size.
+  let labelSizeFactor = 1
+
   function renderLabels() {
     tweens.get("label")?.stop()
     const tweenGroup = new TweenGroup()
 
-    const defaultScale = 1 / scale
+    const defaultScale = (1 / scale) * labelSizeFactor
     const activeScale = defaultScale * 1.1
     for (const n of nodeRenderData) {
       const nodeId = n.simulationData.id
@@ -422,7 +529,20 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
   const labelsContainer = new Container<Text>({ zIndex: 3, isRenderGroup: true })
   const nodesContainer = new Container<Graphics>({ zIndex: 2, isRenderGroup: true })
   const linkContainer = new Container<Graphics>({ zIndex: 1, isRenderGroup: true })
-  stage.addChild(nodesContainer, labelsContainer, linkContainer)
+  const linkLabelsContainer = new Container<Text>({ zIndex: 2, isRenderGroup: true })
+  const clusterLabelsContainer = new Container<Text>({ zIndex: 0, isRenderGroup: true })
+  stage.addChild(
+    clusterLabelsContainer,
+    nodesContainer,
+    labelsContainer,
+    linkContainer,
+    linkLabelsContainer,
+  )
+
+  // The global graph has hundreds of nodes, so there the labels keep fading in with zoom.
+  // In the local graph — and in the loupe, which uses the same config — the words are the
+  // point, so they stay readable without hovering.
+  const labelsAlwaysVisible = isLocalGraph
 
   for (const n of graphData.nodes) {
     const nodeId = n.id
@@ -431,12 +551,14 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
       interactive: false,
       eventMode: "none",
       text: n.text,
-      alpha: 0,
+      alpha: labelsAlwaysVisible ? 1 : 0,
       anchor: { x: 0.5, y: 1.2 },
       style: {
-        fontSize: fontSize * 15,
+        fontSize: fontSize * (nodeId === slug ? 19 : 15),
         fill: computedStyleMap["--dark"],
         fontFamily: "'Barlow Condensed', sans-serif",
+        fontWeight: nodeId === slug ? "700" : "400",
+        stroke: { color: computedStyleMap["--light"], width: 4, join: "round" },
       },
       resolution: window.devicePixelRatio * 4,
     })
@@ -492,17 +614,10 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     nodesContainer.addChild(gfx)
     labelsContainer.addChild(label)
 
-    let labelBg: Graphics | undefined
-    if (nodeId === slug) {
-      labelBg = new Graphics()
-      labelsContainer.addChild(labelBg)
-    }
-
     const nodeRenderDatum: NodeRenderData = {
       simulationData: n,
       gfx,
       label,
-      labelBg,
       color: color(n),
       alpha: 1,
       active: false,
@@ -511,14 +626,90 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     nodeRenderData.push(nodeRenderDatum)
   }
 
+  // What kind of relation a line stands for. The vault distinguishes these anyway — a
+  // source file is not a sibling term, and a link you made is not a link someone made to
+  // you — but until now the graph drew all four the same way.
+  function linkRelation(src: NodeData, tgt: NodeData): string {
+    const isLiterature = (n: NodeData) => n.tags.includes("source") || isSourcesFolderPage(n.id)
+    if (isLiterature(src) || isLiterature(tgt)) return "literature"
+    if (src.id === clusterIndexSlug || tgt.id === clusterIndexSlug) return "cluster"
+    if (src.id === slug) return "wikilink"
+    if (tgt.id === slug) return "backlink"
+    return "related term"
+  }
+
+  // Only in the loupe: at 250px the lines are too short to carry a word, and a cluster
+  // name laid over a panel that size hides more than it explains.
+  const showLinkLabels = !!graph.closest(".expanded-graph-outer")
+
+  // One faint name per cluster, sitting behind its own group of terms.
+  const clusterNameLabels = new Map<string, Text>()
+  if (showLinkLabels && isLocalGraph && orderedClusters.length > 1) {
+    for (const segment of orderedClusters) {
+      const nameLabel = new Text({
+        interactive: false,
+        eventMode: "none",
+        text: clusterTitle(segment),
+        alpha: 0.3,
+        anchor: { x: 0.5, y: 0.5 },
+        style: {
+          fontSize: fontSize * 12,
+          fill: clusterColor(`x/${segment}`) ?? computedStyleMap["--gray"],
+          fontFamily: "'Barlow Condensed', sans-serif",
+          fontWeight: "400",
+          letterSpacing: 2.5,
+          // Cluster names run long — "End-Times Thinking and Elite Survivalism" is forty
+          // characters. On one line it sweeps across half the picture; wrapped, it sits as
+          // a block beside its own arc.
+          wordWrap: true,
+          wordWrapWidth: 150,
+          align: "center",
+          lineHeight: fontSize * 15,
+        },
+        resolution: window.devicePixelRatio * 4,
+      })
+      nameLabel.scale.set(1 / scale)
+      clusterLabelsContainer.addChild(nameLabel)
+      clusterNameLabels.set(segment, nameLabel)
+    }
+  }
+
   for (const l of graphData.links) {
     const gfx = new Graphics({ interactive: false, eventMode: "none" })
     linkContainer.addChild(gfx)
 
+    let label: Text | undefined
+    if (showLinkLabels) {
+      label = new Text({
+        interactive: false,
+        eventMode: "none",
+        text: linkRelation(l.source as NodeData, l.target as NodeData),
+        alpha: 0.95,
+        // Sits on the line, not above it, with a halo in the background colour so the line
+        // reads as interrupted by the word rather than drawn through it.
+        anchor: { x: 0.5, y: 0.5 },
+        style: {
+          fontSize: fontSize * 10,
+          fill: computedStyleMap["--darkgray"],
+          fontFamily: "'Barlow Condensed', sans-serif",
+          fontStyle: "italic",
+          stroke: { color: computedStyleMap["--light"], width: 5, join: "round" },
+        },
+        resolution: window.devicePixelRatio * 4,
+      })
+      label.scale.set(1 / scale)
+      linkLabelsContainer.addChild(label)
+    }
+
+    const away = (l.source as NodeData).id === slug ? (l.target as NodeData) : (l.source as NodeData)
+    const restColor = clusterColor(away.id) ?? computedStyleMap["--lightgray"]
+
     const linkRenderDatum: LinkRenderData = {
       simulationData: l,
       gfx,
-      color: computedStyleMap["--lightgray"],
+      label,
+      color: restColor,
+      restColor,
       alpha: 1,
       active: false,
     }
@@ -538,19 +729,21 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     const tgt = l.simulationData.target as NodeData
     if (isClusterNode(src) || isClusterNode(tgt)) {
       l.gfx.visible = false
+      if (l.label) l.label.visible = false
     }
   }
 
-  let currentTransform = zoomIdentity
+  let viewAdjustedByReader = false
   if (enableDrag) {
     select<HTMLCanvasElement, NodeData | undefined>(app.canvas).call(
       drag<HTMLCanvasElement, NodeData | undefined>()
         .container(() => app.canvas)
         .subject(() => graphData.nodes.find((n) => n.id === hoveredNodeId))
         .on("start", function dragstarted(event) {
-          if (!event.active) simulation.alphaTarget(1).restart()
-          event.subject.fx = event.subject.x
-          event.subject.fy = event.subject.y
+          // Kept for what it really does here — telling a click apart from a scroll — but
+          // the node itself no longer follows the pointer. Dragging rearranged a layout
+          // that had already been worked out, and answered no question about the vault.
+          draggedNodeId = event.subject.id
           event.subject.__initialDragPos = {
             x: event.subject.x,
             y: event.subject.y,
@@ -560,15 +753,14 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
           dragStartTime = Date.now()
           dragging = true
         })
-        .on("drag", function dragged(event) {
-          const initPos = event.subject.__initialDragPos
-          event.subject.fx = initPos.x + (event.x - initPos.x) / currentTransform.k
-          event.subject.fy = initPos.y + (event.y - initPos.y) / currentTransform.k
+        .on("drag", function dragged() {
+          // deliberately empty: nodes stay where the layout put them
         })
         .on("end", function dragended(event) {
           if (!event.active) simulation.alphaTarget(0)
           event.subject.fx = null
           event.subject.fy = null
+          draggedNodeId = null
           dragging = false
 
           // if the time between mousedown and mouseup is short, we consider it a click
@@ -589,15 +781,16 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
   }
 
   if (enableZoom) {
-    select<HTMLCanvasElement, NodeData>(app.canvas).call(
-      zoom<HTMLCanvasElement, NodeData>()
+    const zoomBehaviour = zoom<HTMLCanvasElement, NodeData>()
         .extent([
           [0, 0],
           [width, height],
         ])
         .scaleExtent([0.25, 4])
-        .on("zoom", ({ transform }) => {
-          currentTransform = transform
+        .on("zoom", ({ transform, sourceEvent }) => {
+          // Once the reader zooms or drags, the view is theirs and nothing recentres it.
+          if (sourceEvent) viewAdjustedByReader = true
+          labelsNeedPlacing = true
           stage.scale.set(transform.k, transform.k)
           stage.position.set(transform.x, transform.y)
 
@@ -608,29 +801,176 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
 
           for (const label of labelsContainer.children) {
             if (!activeNodes.includes(label)) {
-              label.alpha = scaleOpacity
+              label.alpha = labelsAlwaysVisible ? 1 : scaleOpacity
             }
           }
-        }),
+        })
+
+    select<HTMLCanvasElement, NodeData>(app.canvas).call(zoomBehaviour)
+  }
+
+  // No two words may sit on top of each other. Every few frames the labels are laid out in
+  // order of importance — the node you are hovering, then the entry itself, then the
+  // best-connected neighbours, and only then the relation labels — and anything that would
+  // land on a box already taken is left unrendered. Raising Node spacing makes room and
+  // the suppressed words come back on their own.
+  function labelBox(label: Text) {
+    const b = label.getBounds()
+    return { x0: b.x - 2, y0: b.y - 1, x1: b.x + b.width + 2, y1: b.y + b.height + 1 }
+  }
+
+  type LabelBox = ReturnType<typeof labelBox>
+
+  function updateLabelOcclusion() {
+    const taken: LabelBox[] = []
+    const overlaps = (b: LabelBox) =>
+      taken.some((o) => !(b.x1 < o.x0 || b.x0 > o.x1 || b.y1 < o.y0 || b.y0 > o.y1))
+
+    // Hiding a word was the wrong trade: a term you cannot read is a term that is not in
+    // the graph. So a label that would land on an occupied spot moves instead — above the
+    // node, below it, to its left, to its right — and only if none of those are free does
+    // it give way.
+    const placements: { x: number; y: number }[] = [
+      { x: 0.5, y: 1.2 },
+      { x: 0.5, y: -0.25 },
+      { x: 1.1, y: 0.55 },
+      { x: -0.1, y: 0.55 },
+      { x: 0.5, y: 2.1 },
+    ]
+
+    const place = (n: NodeRenderData, unsuppressable = false) => {
+      const label = n.label
+      if (!label.visible) return
+      const order = [n.placement ?? 0, ...placements.map((_, i) => i)]
+      for (const index of order) {
+        const anchor = placements[index]
+        label.anchor.set(anchor.x, anchor.y)
+        const box = labelBox(label)
+        if (!overlaps(box)) {
+          n.placement = index
+          label.renderable = true
+          taken.push(box)
+          return
+        }
+      }
+      label.anchor.set(placements[0].x, placements[0].y)
+      n.placement = 0
+      label.renderable = unsuppressable
+      if (unsuppressable) taken.push(labelBox(label))
+    }
+
+    // Every line carries its relation, including the ones between two neighbours — those
+    // are the "related term" connections, and leaving them blank made the picture look as
+    // if only some links had a kind. The entry's own relations (or the hovered node's) are
+    // laid out first, so when space runs out it is never one of those that gives way.
+    const focus = hoveredNodeId ?? slug
+    const touchesFocus = (l: LinkRenderData) =>
+      (l.simulationData.source as NodeData).id === focus ||
+      (l.simulationData.target as NodeData).id === focus
+
+    const priority = (n: NodeRenderData) => {
+      if (n.simulationData.id === hoveredNodeId) return Number.POSITIVE_INFINITY
+      if (n.simulationData.id === slug) return Number.MAX_SAFE_INTEGER
+      return nodeRadius(n.simulationData)
+    }
+
+    for (const n of [...nodeRenderData].sort((a, b) => priority(b) - priority(a))) {
+      if (radialLayout && n.simulationData.id !== slug) {
+        // Its slot is reserved by the geometry; there is nothing to dodge.
+        n.label.renderable = n.label.visible
+        if (n.label.visible) taken.push(labelBox(n.label))
+        continue
+      }
+      // The entry you are reading always keeps its name, whatever else wants the space.
+      place(n, n.simulationData.id === slug)
+    }
+    // Relation labels come last: a term you can read matters more than the word for the
+    // kind of line it sits on.
+    // Every line states its relation, always. A relation word cannot leave its line without
+    // lying about which connection it describes, but it can slide along it: the middle
+    // first, then either side of the middle. If nothing is free it is drawn anyway — a line
+    // without a word would read as a connection of no particular kind, and there is no such
+    // thing in this vault.
+    const alongLine = [0.5, 0.38, 0.62, 0.28, 0.72]
+    const alongLineFor = (l: LinkRenderData) =>
+      l.labelT === undefined ? alongLine : [l.labelT, ...alongLine]
+    const orderedLinks = [...linkRenderData].sort(
+      (a, b) => Number(touchesFocus(b)) - Number(touchesFocus(a)),
+    )
+    for (const l of orderedLinks) {
+      if (!l.label || !l.label.visible) continue
+      const src = l.simulationData.source as NodeData
+      const tgt = l.simulationData.target as NodeData
+      l.label.renderable = true
+      let settled = false
+      for (const fraction of alongLineFor(l)) {
+        l.label.position.set(
+          (src.x ?? 0) + ((tgt.x ?? 0) - (src.x ?? 0)) * fraction + width / 2,
+          (src.y ?? 0) + ((tgt.y ?? 0) - (src.y ?? 0)) * fraction + height / 2,
+        )
+        if (!overlaps(labelBox(l.label))) {
+          l.labelT = fraction
+          taken.push(labelBox(l.label))
+          settled = true
+          break
+        }
+      }
+      if (!settled) l.labelT = 0.5
+    }
+  }
+
+  // The legend lists only the clusters actually present in this graph, so a term that is
+  // the sole representative of its cluster — and therefore gets no cluster name in the
+  // picture — is still placed by its colour.
+  const legendEl = graph
+    .closest(".expanded-graph-outer")
+    ?.querySelector(".graph-legend") as HTMLElement | null
+
+  if (legendEl) {
+    const present = [
+      ...new Set(
+        graphData.nodes
+          .map((n) => clusterOf(n.id))
+          .filter((c): c is string => !!c),
+      ),
+    ].sort((a, b) => clusterTitle(a).localeCompare(clusterTitle(b)))
+
+    legendEl.replaceChildren(
+      ...present.map((segment) => {
+        const row = document.createElement("span")
+        const swatch = document.createElement("i")
+        swatch.style.backgroundColor =
+          clusterColor(`x/${segment}`) ?? computedStyleMap["--gray"]
+        row.append(swatch, document.createTextNode(clusterTitle(segment)))
+        return row
+      }),
     )
   }
 
+  let labelsNeedPlacing = true
   let stopAnimation = false
   function animate(time: number) {
     if (stopAnimation) return
     for (const n of nodeRenderData) {
       const { x, y } = n.simulationData
-      if (!x || !y) continue
+      // Not `!x || !y`: the entry sits at exactly 0,0, and a falsy check on a coordinate
+      // skipped the one node that is always there — it kept the position pixi gave it, in
+      // the top-left corner, while its links were drawn from the real centre.
+      if (x === undefined || y === undefined) continue
       n.gfx.position.set(x + width / 2, y + height / 2)
       if (n.label) {
-        n.label.position.set(x + width / 2, y + height / 2)
-        if (n.labelBg) {
-          const b = n.label.getBounds()
-          n.labelBg.clear()
-          n.labelBg.roundRect(b.x - 4, b.y - 2, b.width + 8, b.height + 4, 4)
-          n.labelBg.fill({ color: "#FF6B00", alpha: 0.15 })
-          n.labelBg.stroke({ width: 1, color: "#FF6B00", alpha: 0.7 })
-          n.labelBg.alpha = n.label.alpha
+        if (radialLayout && n.angle !== undefined) {
+          // Straight outwards from the ring, reading away from the centre, so every name
+          // has the sector of its own node to itself.
+          const out = nodeRadius(n.simulationData) + 9
+          const facingRight = Math.cos(n.angle) >= 0
+          n.label.anchor.set(facingRight ? 0 : 1, 0.5)
+          n.label.position.set(
+            x + Math.cos(n.angle) * out + width / 2,
+            y + Math.sin(n.angle) * out + height / 2,
+          )
+        } else {
+          n.label.position.set(x + width / 2, y + height / 2)
         }
       }
     }
@@ -641,12 +981,222 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
       l.gfx.moveTo(linkData.source.x! + width / 2, linkData.source.y! + height / 2)
       l.gfx
         .lineTo(linkData.target.x! + width / 2, linkData.target.y! + height / 2)
-        .stroke({ alpha: l.alpha, width: 1, color: l.color })
+        .stroke({ alpha: l.active ? l.alpha : l.alpha * 0.3, width: 1, color: l.color })
+
+      if (l.label) {
+        const t = l.labelT ?? 0.5
+        l.label.position.set(
+          linkData.source.x! + (linkData.target.x! - linkData.source.x!) * t + width / 2,
+          linkData.source.y! + (linkData.target.y! - linkData.source.y!) * t + height / 2,
+        )
+        // Run the word along the line, and flip it where the line points leftwards so it
+        // never ends up upside down.
+        let angle = Math.atan2(
+          linkData.target.y! - linkData.source.y!,
+          linkData.target.x! - linkData.source.x!,
+        )
+        if (angle > Math.PI / 2 || angle < -Math.PI / 2) {
+          angle += Math.PI
+        }
+        l.label.rotation = angle
+      }
+    }
+
+    // Put the entry in the middle rather than asking the simulation to keep it there. fx/fy
+    // are only honoured while the simulation ticks, so once it cools — or a drag ends off
+    // canvas and never reports back — the entry stays wherever it happened to be. Writing
+    // the coordinates here, every frame, leaves no route by which it can drift off centre.
+    // The one exception is the entry being dragged, which has to be allowed to follow the
+    // pointer until it is let go.
+    if (centreNode && draggedNodeId !== slug) {
+      centreNode.fx = 0
+      centreNode.fy = 0
+      centreNode.x = 0
+      centreNode.y = 0
+      centreNode.vx = 0
+      centreNode.vy = 0
+    }
+
+    // Being at (0, 0) in the layout is not the same as being in the middle of the picture:
+    // that depends on the canvas actually having the size the layout was measured against.
+    // Rather than trust the measurement, aim the view — at the entry when this graph has
+    // one, and otherwise at the middle of whatever is visible, so no page can end up with
+    // its graph hanging in a corner.
+    if (!viewAdjustedByReader) {
+      let targetX = 0
+      let targetY = 0
+      if (!centreNode) {
+        let count = 0
+        for (const n of nodeRenderData) {
+          if (!n.gfx.visible) continue
+          targetX += n.simulationData.x ?? 0
+          targetY += n.simulationData.y ?? 0
+          count++
+        }
+        if (count > 0) {
+          targetX /= count
+          targetY /= count
+        }
+      }
+      const visibleWidth = app.canvas.clientWidth || width
+      const visibleHeight = app.canvas.clientHeight || height
+      stage.position.set(
+        visibleWidth / 2 - (targetX + width / 2) * stage.scale.x,
+        visibleHeight / 2 - (targetY + height / 2) * stage.scale.y,
+      )
+    }
+
+    // A cluster name sits in the middle of its own group, which only works because the
+    // grouping force is strong enough to make that group a clump. A cluster with a single
+    // visible term gets no name — the legend places that one by its colour instead.
+    if (radialLayout) {
+      clusterArc.clear()
+      for (const [segment, nameLabel] of clusterNameLabels) {
+        const angle = clusterArcAngles.get(segment)
+        const members = nodeRenderData.filter(
+          (n) => n.gfx.visible && clusterOf(n.simulationData.id) === segment,
+        ).length
+        nameLabel.visible = angle !== undefined && members > 0
+        if (angle === undefined || members === 0) continue
+        const nameRadius = ringRadius + 74
+        nameLabel.anchor.set(0.5, 0.5)
+        nameLabel.position.set(
+          Math.cos(angle) * nameRadius + width / 2,
+          Math.sin(angle) * nameRadius + height / 2,
+        )
+        // a tick from the ring out to its name, so the name belongs to that arc and not
+        // to whatever happens to sit nearest
+        clusterArc
+          .moveTo(
+            Math.cos(angle) * (ringRadius + 26) + width / 2,
+            Math.sin(angle) * (ringRadius + 26) + height / 2,
+          )
+          .lineTo(
+            Math.cos(angle) * (nameRadius - 16) + width / 2,
+            Math.sin(angle) * (nameRadius - 16) + height / 2,
+          )
+          .stroke({
+            width: 1,
+            alpha: 0.35,
+            color: clusterColor(`x/${segment}`) ?? computedStyleMap["--gray"],
+          })
+      }
+    } else
+    for (const [segment, nameLabel] of clusterNameLabels) {
+      let sx = 0
+      let sy = 0
+      let count = 0
+      for (const n of nodeRenderData) {
+        if (!n.gfx.visible || clusterOf(n.simulationData.id) !== segment) continue
+        const nx = n.simulationData.x ?? 0
+        const ny = n.simulationData.y ?? 0
+        sx += nx
+        sy += ny
+        count++
+      }
+      nameLabel.visible = count > 1
+      if (count > 1) {
+        // Back in the middle of its own group now that the groups actually hold together.
+        nameLabel.position.set(sx / count + width / 2, sy / count + height / 2)
+      }
+    }
+
+    // Place the words once and leave them alone. Recomputing on a timer meant that two
+    // equally good spots kept swapping, which reads as a shiver even though nothing in the
+    // layout is moving. The placement is redone only when something actually changed: the
+    // layout, a toggle, a slider, the zoom, or what you are hovering.
+    if (labelsNeedPlacing) {
+      labelsNeedPlacing = false
+      updateLabelOcclusion()
     }
 
     tweens.forEach((t) => t.update(time))
     app.renderer.render(stage)
     requestAnimationFrame(animate)
+  }
+
+  // A knowledge map should stand still. The simulation is run to rest in one go and then
+  // stopped, so the picture is finished the moment it appears: no drift while you read, no
+  // sixty ticks a second spent rearranging what was already settled, and the same entry
+  // laid out the same way every time you open it.
+  function settleLayout(alpha = 1, ticks = 320) {
+    simulation.stop()
+    simulation.alpha(alpha)
+    for (let i = 0; i < ticks; i++) {
+      simulation.tick()
+    }
+    labelsNeedPlacing = true
+  }
+
+  // A term with its direct neighbours is not a physics problem, it is a circle. Placing the
+  // neighbours in fixed slots around the entry — clustered by colour, one arc per cluster —
+  // reserves a place for every node and its name in advance. Nothing can collide, because
+  // the geometry rules it out, and the same term is laid out the same way every time.
+  const radialLayout = isLocalGraph && !!centreNode && showLinkLabels
+  const baseRingRadius = (Math.min(width, height) / 2) * 0.62
+  // Node spacing widens the ring here rather than pushing on forces that no longer run.
+  let ringRadius = baseRingRadius
+
+  function layoutRadial() {
+    if (!radialLayout || !centreNode) return
+
+    const onRing = nodeRenderData.filter(
+      (n) => n.gfx.visible && n.simulationData.id !== slug,
+    )
+    if (onRing.length === 0) return
+
+    const groups = new Map<string, NodeRenderData[]>()
+    for (const n of onRing) {
+      const key = clusterOf(n.simulationData.id) ?? "~"
+      const group = groups.get(key)
+      if (group) group.push(n)
+      else groups.set(key, [n])
+    }
+
+    const own = clusterOf(slug)
+    const order = [...groups.keys()].sort((a, b) => {
+      if (a === own) return -1
+      if (b === own) return 1
+      return clusterTitle(a).localeCompare(clusterTitle(b))
+    })
+
+    // A gap between clusters is what makes them read as groups rather than as one ring.
+    const gap = 0.16
+    const budget = 2 * Math.PI - gap * order.length
+    const step = budget / onRing.length
+    let angle = -Math.PI / 2 + gap / 2
+
+    clusterArc.clear()
+    for (const key of order) {
+      const members = groups.get(key)!
+      const from = angle
+      for (const n of members) {
+        n.angle = angle + step / 2
+        n.simulationData.x = Math.cos(n.angle) * ringRadius
+        n.simulationData.y = Math.sin(n.angle) * ringRadius
+        n.simulationData.fx = n.simulationData.x
+        n.simulationData.fy = n.simulationData.y
+        angle += step
+      }
+      clusterArcAngles.set(key, (from + angle - step + step / 2) / 2)
+      angle += gap
+    }
+
+    centreNode.x = 0
+    centreNode.y = 0
+    centreNode.fx = 0
+    centreNode.fy = 0
+    labelsNeedPlacing = true
+  }
+
+  const clusterArc = new Graphics()
+  const clusterArcAngles = new Map<string, number>()
+  clusterLabelsContainer.addChild(clusterArc as unknown as Text)
+
+  if (radialLayout) {
+    layoutRadial()
+  } else {
+    settleLayout()
   }
 
   requestAnimationFrame(animate)
@@ -681,6 +1231,54 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
   const hasClusterNodes = nodeRenderData.some((n) => isClusterNode(n.simulationData))
   if (!hasClusterNodes && clusterToggleEl) {
     clusterToggleEl.style.display = "none"
+  }
+
+  // Cluster ring — only meaningful in the local graph, where cluster siblings are loaded
+  // purely so the toggle can reveal them. Most of them have no link to the current page,
+  // and the link filter above drops any link with an invisible endpoint, so without this
+  // they drift as unanchored noise. The cluster's About page acts as the hub, its sibling
+  // terms settle on a ring around it. On the global graph baseNeighbourhood covers every
+  // node, so isClusterNode is false throughout and none of this activates.
+  const clusterRingCount = nodeRenderData.filter((n) => isClusterNode(n.simulationData)).length
+  // Grow the ring when a cluster has too many terms to fit at a readable spacing
+  const clusterRingRadius = Math.max(
+    (Math.min(width, height) / 2) * 0.75,
+    (clusterRingCount * 34) / (2 * Math.PI),
+  )
+  const ringForce = forceRadial<NodeData>(clusterRingRadius)
+  const hubForceX = forceX<NodeData>(0)
+  const hubForceY = forceY<NodeData>(0)
+  let clusterRingStrength = 0
+
+  // d3 caches strength values at initialize time, so re-calling .strength() is what
+  // actually re-applies them — assigning to clusterRingStrength alone does nothing.
+  function applyClusterRingStrength() {
+    ringForce.strength((n) => (isClusterNode(n) ? clusterRingStrength : 0))
+    hubForceX.strength((n) => (n.id === clusterIndexSlug ? clusterRingStrength * 0.6 : 0))
+    hubForceY.strength((n) => (n.id === clusterIndexSlug ? clusterRingStrength * 0.6 : 0))
+  }
+
+  if (hasClusterNodes) {
+    applyClusterRingStrength()
+    simulation
+      .force("clusterRing", ringForce)
+      .force("clusterHubX", hubForceX)
+      .force("clusterHubY", hubForceY)
+
+    // TEMPORARY tuning handle — remove before committing. Lets the ring be compared
+    // against the old behaviour on the same page, live, without a rebuild:
+    // ring(0) is the old graph, ring(0.35) is the current setting.
+    let tunedRadius = clusterRingRadius
+    ;(window as any).ring = (strength?: number, radius?: number) => {
+      if (typeof radius === "number") {
+        tunedRadius = radius
+        ringForce.radius(radius)
+      }
+      if (typeof strength === "number") clusterRingStrength = strength
+      applyClusterRingStrength()
+      simulation.alpha(0.6).restart()
+      return { strength: clusterRingStrength, radius: Math.round(tunedRadius), onRing: clusterRingCount }
+    }
   }
 
   // A node is a "backlink" node if the only reason it's in this graph is that
@@ -739,7 +1337,19 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
       const visibility = (n: NodeData) =>
         isSourceNode(n) ? showSources : isClusterNode(n) ? showCluster : isBacklinkNode(n) ? showBacklinks : true
       l.gfx.visible = visibility(src) && visibility(tgt)
+      if (l.label) l.label.visible = l.gfx.visible
     }
+
+    // Only pull the ring into shape while the cluster is actually on screen — hidden
+    // siblings shouldn't push the visible nodes around from behind the toggle.
+    const nextRingStrength = showCluster ? 0.35 : 0
+    if (hasClusterNodes && nextRingStrength !== clusterRingStrength) {
+      clusterRingStrength = nextRingStrength
+      applyClusterRingStrength()
+      if (radialLayout) layoutRadial()
+      else settleLayout(0.5, 200)
+    }
+
     updateToggleLabels()
   }
 
@@ -748,8 +1358,118 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
   clusterToggleEl?.addEventListener("toggle", applyToggles)
   backlinksToggleEl?.addEventListener("toggle", applyToggles)
 
+  // Sliders for spacing, node size and label size. They live in the loupe overlay only —
+  // the sidebar panel is too small to tune anything in — so the sidebar graph finds no
+  // controls element and skips all of this. Values are kept in localStorage, because the
+  // point of tuning is that the next entry you open is laid out the same way.
+  const controlsEl = graph
+    .closest(".expanded-graph-outer")
+    ?.querySelector(".graph-controls") as HTMLElement | null
+
+  const controlDefaults: Record<string, number> = { spacing: 1, nodeSize: 1, labelSize: 1 }
+  const controlValues: Record<string, number> = { ...controlDefaults }
+
+  function readStoredControls() {
+    for (const key of Object.keys(controlDefaults)) {
+      try {
+        const raw = localStorage.getItem(`graph-control-${key}`)
+        const parsed = raw === null ? NaN : Number.parseFloat(raw)
+        if (Number.isFinite(parsed)) controlValues[key] = parsed
+      } catch (_) {
+        // private mode or blocked storage: defaults are fine
+      }
+    }
+  }
+
+  function storeControl(key: string, value: number) {
+    try {
+      localStorage.setItem(`graph-control-${key}`, String(value))
+    } catch (_) {}
+  }
+
+  function applyControls(restart: boolean) {
+    const { spacing, nodeSize, labelSize } = controlValues
+
+    const linkForce = simulation.force("link") as ReturnType<typeof forceLink> | undefined
+    linkForce?.distance(linkDistance * spacing)
+    const chargeForce = simulation.force("charge") as ReturnType<typeof forceManyBody> | undefined
+    chargeForce?.strength(-100 * repelForce * spacing)
+    // The collision radius is what actually keeps labels apart: it reserves room around
+    // each node, so raising spacing pushes neighbours out of each other's text.
+    const collideForce = simulation.force("collide") as
+      | ReturnType<typeof forceCollide<NodeData>>
+      | undefined
+    collideForce?.radius((n: NodeData) => (nodeRadius(n) * nodeSize + 14) * spacing)
+
+    for (const n of nodeRenderData) {
+      n.gfx.scale.set(nodeSize)
+    }
+
+    labelSizeFactor = labelSize
+    for (const l of linkRenderData) {
+      l.label?.scale.set((1 / scale) * labelSize)
+    }
+    renderLabels()
+
+    if (radialLayout) {
+      ringRadius = baseRingRadius * Math.min(spacing, 1.6)
+    }
+
+    if (restart) {
+      if (radialLayout) layoutRadial()
+      else settleLayout(0.4, 200)
+    }
+  }
+
+  function syncControlInputs() {
+    if (!controlsEl) return
+    for (const key of Object.keys(controlDefaults)) {
+      const input = controlsEl.querySelector(`input[data-control="${key}"]`) as HTMLInputElement | null
+      const out = controlsEl.querySelector(`output[data-control-value="${key}"]`) as HTMLElement | null
+      if (input) input.value = String(controlValues[key])
+      if (out) out.textContent = controlValues[key].toFixed(2)
+    }
+  }
+
+  function onControlInput(e: Event) {
+    const input = e.target as HTMLInputElement
+    const key = input.dataset["control"]
+    if (!key || !(key in controlValues)) return
+    const value = Number.parseFloat(input.value)
+    if (!Number.isFinite(value)) return
+    controlValues[key] = value
+    storeControl(key, value)
+    const out = controlsEl?.querySelector(`output[data-control-value="${key}"]`) as HTMLElement | null
+    if (out) out.textContent = value.toFixed(2)
+    applyControls(true)
+  }
+
+  function onControlReset() {
+    for (const key of Object.keys(controlDefaults)) {
+      controlValues[key] = controlDefaults[key]
+      storeControl(key, controlDefaults[key])
+    }
+    syncControlInputs()
+    applyControls(true)
+  }
+
+  const resetButton = controlsEl?.querySelector(".graph-controls-reset") as HTMLButtonElement | null
+
+  readStoredControls()
+  if (controlsEl) {
+    syncControlInputs()
+    applyControls(false)
+    controlsEl.addEventListener("input", onControlInput)
+    resetButton?.addEventListener("click", onControlReset)
+  }
+
   return () => {
     stopAnimation = true
+    sourceToggleEl?.removeEventListener("toggle", applyToggles)
+    clusterToggleEl?.removeEventListener("toggle", applyToggles)
+    backlinksToggleEl?.removeEventListener("toggle", applyToggles)
+    controlsEl?.removeEventListener("input", onControlInput)
+    resetButton?.removeEventListener("click", onControlReset)
     app.destroy()
   }
 }
@@ -769,6 +1489,15 @@ function cleanupGlobalGraphs() {
     cleanup()
   }
   globalGraphCleanups = []
+}
+
+let expandedGraphCleanups: (() => void)[] = []
+
+function cleanupExpandedGraphs() {
+  for (const cleanup of expandedGraphCleanups) {
+    cleanup()
+  }
+  expandedGraphCleanups = []
 }
 
 document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
@@ -832,6 +1561,71 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
     }
   }
 
+  // Loupe: the same local graph as in the sidebar, opened at full size. The toggles are
+  // moved into the overlay rather than duplicated, so both views read the same state —
+  // renderGraph finds them with closest(".graph"), which holds either way.
+  const expandedContainers = [
+    ...document.getElementsByClassName("expanded-graph-outer"),
+  ] as HTMLElement[]
+
+  async function renderExpandedGraph() {
+    const slug = getFullSlug(window)
+    for (const container of expandedContainers) {
+      container.classList.add("active")
+      const sidebar = container.closest(".sidebar") as HTMLElement
+      if (sidebar) {
+        sidebar.style.zIndex = "1"
+      }
+
+      const graphContainer = container.querySelector(".expanded-graph-container") as HTMLElement
+      registerEscapeHandler(container, hideExpandedGraph)
+      if (graphContainer) {
+        // renderGraph empties its container, so anything still parked in there from a
+        // previous open has to go home first or it is destroyed with the old canvas.
+        returnTogglesHome(container)
+        expandedGraphCleanups.push(await renderGraph(graphContainer, slug))
+        const toggles = container.closest(".graph")?.querySelector(".graph-toggles")
+        if (toggles) {
+          graphContainer.appendChild(toggles)
+        }
+      }
+    }
+  }
+
+  // The switches live in the sidebar and are lent to the overlay, so every route out of
+  // the overlay has to give them back — including leaving the page by clicking a node in
+  // the enlarged graph, which never passes through hideExpandedGraph at all.
+  function returnTogglesHome(container: HTMLElement) {
+    const toggles = container.querySelector(".graph-toggles")
+    const home = container.closest(".graph")?.querySelector(".graph-outer")
+    if (toggles && home) {
+      home.appendChild(toggles)
+    }
+  }
+
+  function hideExpandedGraph() {
+    for (const container of expandedContainers) {
+      returnTogglesHome(container)
+      container.classList.remove("active")
+      const sidebar = container.closest(".sidebar") as HTMLElement
+      if (sidebar) {
+        sidebar.style.zIndex = ""
+      }
+    }
+    cleanupExpandedGraphs()
+  }
+
+  function toggleExpandedGraph() {
+    const anyOpen = expandedContainers.some((container) => container.classList.contains("active"))
+    anyOpen ? hideExpandedGraph() : void renderExpandedGraph()
+  }
+
+  const expandIcons = document.getElementsByClassName("expand-graph-icon")
+  Array.from(expandIcons).forEach((icon) => {
+    icon.addEventListener("click", toggleExpandedGraph)
+    window.addCleanup(() => icon.removeEventListener("click", toggleExpandedGraph))
+  })
+
   const containerIcons = document.getElementsByClassName("global-graph-icon")
   Array.from(containerIcons).forEach((icon) => {
     icon.addEventListener("click", renderGlobalGraph)
@@ -841,7 +1635,9 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
   document.addEventListener("keydown", shortcutHandler)
   window.addCleanup(() => {
     document.removeEventListener("keydown", shortcutHandler)
+    hideExpandedGraph()
     cleanupLocalGraphs()
     cleanupGlobalGraphs()
+    cleanupExpandedGraphs()
   })
 })

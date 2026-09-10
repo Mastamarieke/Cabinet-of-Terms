@@ -6,20 +6,9 @@
     margin: 0;
   }
 
-  & > .graph-outer {
-    box-sizing: border-box;
-    height: 250px;
-    margin: 0.5em 0;
-    position: relative;
-    overflow: hidden;
-
-    & > .graph-toggles {
-      position: absolute;
-      bottom: 0;
-      left: 0;
-      z-index: 10;
-      display: flex;
-
+  // Styling of the three switches, independent of where they hang: the sidebar graph
+  // or the loupe overlay, which borrows the same element instead of copying it.
+  .graph-toggles {
       .source-toggle,
       .entries-toggle,
       .cluster-toggle,
@@ -71,6 +60,42 @@
         summary { color: var(--tertiary); }
         &[open] summary::before { border-color: var(--tertiary); }
       }
+  }
+
+  & > .graph-outer {
+    box-sizing: border-box;
+    height: 250px;
+    margin: 0.5em 0;
+    position: relative;
+    overflow: hidden;
+
+    & > .graph-toggles {
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      z-index: 10;
+      display: flex;
+    }
+
+    & > .expand-graph-icon {
+      cursor: pointer;
+      background: none;
+      border: none;
+      color: var(--dark);
+      opacity: 0.5;
+      width: 24px;
+      height: 24px;
+      position: absolute;
+      padding: 0.2rem;
+      margin: 0.3rem;
+      top: 0;
+      right: 1.8rem;
+      border-radius: 4px;
+      background-color: transparent;
+      transition: background-color 0.5s ease;
+      &:hover {
+        background-color: var(--lightgray);
+      }
     }
 
     & > .global-graph-icon {
@@ -93,6 +118,170 @@
       &:hover {
         background-color: var(--lightgray);
       }
+    }
+  }
+
+  & > .expanded-graph-outer {
+    position: fixed;
+    z-index: 9999;
+    left: 0;
+    top: 0;
+    width: 100vw;
+    height: 100%;
+    backdrop-filter: blur(4px);
+    display: none;
+    overflow: hidden;
+
+    &.active {
+      display: inline-block;
+    }
+
+    & > .expanded-graph-container {
+      border: 1px solid var(--lightgray);
+      background-color: var(--light);
+      border-radius: 5px;
+      box-sizing: border-box;
+      position: fixed;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      height: 80vh;
+      width: 80vw;
+      overflow: hidden;
+
+      @media all and not ($desktop) {
+        width: 90%;
+      }
+
+      // The toggles move in here while the loupe is open, so the same three switches
+      // keep working at full size instead of sitting behind the overlay.
+      & > .graph-toggles {
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        z-index: 10;
+        display: flex;
+      }
+    }
+  }
+
+  // Slider panel in the loupe overlay: tune spacing and sizes until the labels stop
+  // colliding. Sits over the top-right corner of the enlarged graph, which is centred
+  // at 80vw/80vh, hence the 10vw/10vh offsets.
+  .graph-controls {
+    position: fixed;
+    top: calc(10vh + 0.75rem);
+    right: calc(10vw + 0.75rem);
+    z-index: 10;
+    display: flex;
+    flex-direction: column;
+    gap: 0.6em;
+    width: 190px;
+    padding: 0.8em 0.9em;
+    box-sizing: border-box;
+    background: var(--light);
+    border: 1px solid var(--lightgray);
+    border-radius: 6px;
+
+    label {
+      display: grid;
+      grid-template-columns: 1fr auto;
+      align-items: baseline;
+      gap: 0.2em 0.5em;
+
+      span {
+        color: var(--secondary);
+        font-size: 0.68em;
+        font-weight: 400;
+        letter-spacing: 0.03em;
+      }
+
+      output {
+        color: #ff6b00;
+        font-size: 0.68em;
+        font-weight: 400;
+        font-variant-numeric: tabular-nums;
+      }
+
+      input[type="range"] {
+        grid-column: 1 / -1;
+        width: 100%;
+        accent-color: #ff6b00;
+        cursor: pointer;
+      }
+    }
+
+    .graph-controls-reset {
+      align-self: flex-start;
+      background: none;
+      border: 1px solid var(--lightgray);
+      border-radius: 4px;
+      color: var(--darkgray);
+      cursor: pointer;
+      font-size: 0.64em;
+      font-weight: 400;
+      letter-spacing: 0.06em;
+      padding: 0.25em 0.7em;
+      text-transform: uppercase;
+
+      &:hover {
+        background-color: var(--lightgray);
+      }
+    }
+
+    // Narrower than the desktop breakpoint the panel gets thinner, but it stays: the
+    // loupe fills the screen at any width, so hiding its controls there made the tools
+    // disappear on exactly the laptop screens this is used on.
+    @media all and not ($desktop) {
+      width: 150px;
+      padding: 0.6em 0.7em;
+      gap: 0.45em;
+    }
+  }
+
+  // Which cluster a node belongs to is carried by its colour, and a colour is unreadable
+  // without a key — especially for a cluster with a single term in this graph, which gets
+  // no name of its own in the picture.
+  .graph-legend {
+    position: fixed;
+    top: calc(10vh + 0.75rem + 230px);
+    right: calc(10vw + 0.75rem);
+    z-index: 10;
+    display: flex;
+    flex-direction: column;
+    gap: 0.3em;
+    width: 190px;
+    padding: 0.7em 0.9em;
+    box-sizing: border-box;
+    background: var(--light);
+    border: 1px solid var(--lightgray);
+    border-radius: 6px;
+
+    &:empty {
+      display: none;
+    }
+
+    span {
+      display: flex;
+      align-items: center;
+      gap: 0.5em;
+      font-size: 0.62em;
+      font-weight: 400;
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
+      color: var(--darkgray);
+    }
+
+    i {
+      width: 9px;
+      height: 9px;
+      border-radius: 50%;
+      flex-shrink: 0;
+    }
+
+    @media all and not ($desktop) {
+      width: 150px;
+      padding: 0.5em 0.7em;
     }
   }
 

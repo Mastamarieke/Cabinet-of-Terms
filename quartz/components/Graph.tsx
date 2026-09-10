@@ -79,6 +79,22 @@ export default ((opts?: Partial<GraphOptions>) => {
               <summary>Backlinks</summary>
             </details>
           </div>
+          <button class="expand-graph-icon" aria-label="Enlarge this graph">
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              viewBox="0 0 24 24"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="2"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+            >
+              <circle cx="10.5" cy="10.5" r="6.5" />
+              <line x1="15.5" y1="15.5" x2="21" y2="21" />
+              <line x1="10.5" y1="7.5" x2="10.5" y2="13.5" />
+              <line x1="7.5" y1="10.5" x2="13.5" y2="10.5" />
+            </svg>
+          </button>
           <button class="global-graph-icon" aria-label="Global Graph">
             <svg
               version="1.1"
@@ -105,6 +121,28 @@ export default ((opts?: Partial<GraphOptions>) => {
               />
             </svg>
           </button>
+        </div>
+        <div class="expanded-graph-outer">
+          <div class="expanded-graph-container" data-cfg={JSON.stringify(localGraph)}></div>
+          <div class="graph-controls">
+            <label>
+              <span>Node spacing</span>
+              <output data-control-value="spacing">1.00</output>
+              <input type="range" min="0.5" max="3" step="0.05" value="1" data-control="spacing" />
+            </label>
+            <label>
+              <span>Node size</span>
+              <output data-control-value="nodeSize">1.00</output>
+              <input type="range" min="0.5" max="3" step="0.05" value="1" data-control="nodeSize" />
+            </label>
+            <label>
+              <span>Label size</span>
+              <output data-control-value="labelSize">1.00</output>
+              <input type="range" min="0.5" max="2" step="0.05" value="1" data-control="labelSize" />
+            </label>
+            <button type="button" class="graph-controls-reset">Reset</button>
+          </div>
+          <div class="graph-legend"></div>
         </div>
         <div class="global-graph-outer">
           <div class="global-graph-container" data-cfg={JSON.stringify(globalGraph)}></div>
