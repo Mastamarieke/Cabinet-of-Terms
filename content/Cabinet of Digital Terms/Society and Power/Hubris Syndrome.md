@@ -16,7 +16,6 @@ related_consequence:
   - Muskism
 related_reaction:
   - Situated Knowledge
-  - Brussels Effect
 ---
 
 ***He stopped listening. Not suddenly — gradually, as the accountability structures were removed one by one.***
@@ -33,7 +32,7 @@ related_reaction:
 
 **Why This Matters:** **Hubris syndrome** names a predictable consequence of unchecked power — not an individual character flaw. Once you see it as structural rather than personal, the question shifts from "why does this person behave this way?" to "what accountability structures were removed, and when?"
 
-**Related terms:** [[Founder Mode]] · [[Muskism]] · [[Techno King]] · [[Broligarchy]] · [[Situated Knowledge]] · [[Brussels Effect]] · [[Technofascism]]
+**Related terms:** [[Founder Mode]] · [[Muskism]] · [[Techno King]] · [[Broligarchy]] · [[Situated Knowledge]] · [[Technofascism]]
 
 
 ---

@@ -16,7 +16,6 @@ related_consequence:
   - Externalized Costs
 related_reaction:
   - Situated Knowledge
-  - Brussels Effect
 ---
 
 ***Escape from Earth, privately funded, personally led. The philanthropy of leaving.***
@@ -35,7 +34,7 @@ related_reaction:
 
 **Why This Matters:** **Mars colonization** makes visible how SF's species-survival vocabulary can be deployed to frame private commercial projects as universal human necessities. Once you ask who owns the escape route, the universalist framing becomes legible as something more specific.
 
-**Related terms:** [[Fortress Futurism]] · [[Longtermism]] · [[Transhumanism]] · [[Objectivism (Rand)]] · [[Situated Knowledge]] · [[Brussels Effect]] · [[Externalized Costs]]
+**Related terms:** [[Fortress Futurism]] · [[Longtermism]] · [[Transhumanism]] · [[Objectivism (Rand)]] · [[Situated Knowledge]] · [[Externalized Costs]]
 
 
 ---

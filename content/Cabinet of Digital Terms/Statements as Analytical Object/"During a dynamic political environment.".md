@@ -15,7 +15,6 @@ related_consequence:
   - Surveillance Capitalism
   - Biometric Surveillance
 related_reaction:
-  - Brussels Effect
 ---
 
 ***"Dynamic" means distracted. Launch when attention is elsewhere.***
@@ -34,7 +33,7 @@ The controversy reflects broader concerns about ambient surveillance: wearable A
 
 **Why this sentence matters:** "Dynamic political environment" is a useful phrase to recognise across contexts. Whenever management language describes a political situation in terms of its implications for product strategy, the question to ask is: what does the neutral vocabulary conceal? The answer is usually the calculation that could not be stated plainly.
 
-**Related terms:** [[Obfuscation]] · [[Biometric Surveillance]] · [[Flood the Zone]] · [[Privacy Washing]] · [["We have never and will never sell user data."]] · [[Dual-Use Technology]] · [[Brussels Effect]] · [[Surveillance Capitalism]]
+**Related terms:** [[Obfuscation]] · [[Biometric Surveillance]] · [[Flood the Zone]] · [[Privacy Washing]] · [["We have never and will never sell user data."]] · [[Dual-Use Technology]] · [[Surveillance Capitalism]]
 
 
 ---

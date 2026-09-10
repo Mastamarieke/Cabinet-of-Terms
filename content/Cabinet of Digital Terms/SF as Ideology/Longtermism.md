@@ -16,7 +16,6 @@ related_consequence:
   - Mars Colonization
 related_reaction:
   - Situated Knowledge
-  - Brussels Effect
 ---
 
 ***The suffering of future people outweighs the suffering of present people. By a lot. This framework has consequences.***
@@ -33,7 +32,7 @@ related_reaction:
 
 **Why This Matters:** **Longtermism** names a framework that can make almost anything in the present justifiable in terms of future benefit. Once you see the structure — infinite future value discounting present harm to zero — you can identify it wherever it appears, not just in explicit EA discourse.
 
-**Related terms:** [[Doomerism]] · [[The Singularity]] · [[Transhumanism]] · [[Fortress Futurism]] · [[Situated Knowledge]] · [[Brussels Effect]] · [[Mars Colonization]] · [[Objectivism (Rand)]]
+**Related terms:** [[Doomerism]] · [[The Singularity]] · [[Transhumanism]] · [[Fortress Futurism]] · [[Situated Knowledge]] · [[Mars Colonization]] · [[Objectivism (Rand)]]
 
 
 ---

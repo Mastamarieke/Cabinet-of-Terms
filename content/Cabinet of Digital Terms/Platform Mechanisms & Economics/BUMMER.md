@@ -15,7 +15,6 @@ related_consequence:
   - Cognitive Surrender
   - Echo Chamber
 related_reaction:
-  - Brussels Effect
   - AI Literacy
 ---
 
@@ -33,7 +32,7 @@ related_reaction:
 
 **Why This Matters:** **BUMMER** gives a single name to a distributed system. Once you have the name, the system is visible as a system — not as a series of individual platform decisions, but as an architecture with consistent properties across all its implementations.
 
-**Related terms:** [[Surveillance Capitalism]] · [[Attention Economy]] · [[Recommender Systems]] · [[Dopamine Feedback Loops]] · [[Microtargeting]] · [[Bot Farms]] · [[Ragebaiting]] · [[AI Literacy]] · [[Brussels Effect]] · [[Cognitive Surrender]] · [[Echo Chamber]]
+**Related terms:** [[Surveillance Capitalism]] · [[Attention Economy]] · [[Recommender Systems]] · [[Dopamine Feedback Loops]] · [[Microtargeting]] · [[Bot Farms]] · [[Ragebaiting]] · [[AI Literacy]] · [[Cognitive Surrender]] · [[Echo Chamber]]
 
 
 ---

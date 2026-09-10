@@ -16,7 +16,6 @@ related_consequence:
   - QAnon
 related_reaction:
   - Fact Checker
-  - Brussels Effect
 ---
 
 ***There is no single lie to disprove. There is only noise.***
@@ -33,7 +32,7 @@ related_reaction:
 
 **Why This Matters:** **Flood the Zone** names a strategy, not a failure. Once you see it as deliberate, the question shifts from "why is there so much misinformation?" to "who benefits from the volume, and what governance structures are being protected from scrutiny?"
 
-**Related terms:** [[Ragebaiting]] · [[Bot Farms]] · [[Muskism]] · [[Fact Checker]] · [[Broligarchy]] · [[Surveillance Capitalism (Political Economy)]] · [[Brussels Effect]] · [[Great Replacement]] · [[QAnon]]
+**Related terms:** [[Ragebaiting]] · [[Bot Farms]] · [[Muskism]] · [[Fact Checker]] · [[Broligarchy]] · [[Surveillance Capitalism (Political Economy)]] · [[Great Replacement]] · [[QAnon]]
 
 
 ---

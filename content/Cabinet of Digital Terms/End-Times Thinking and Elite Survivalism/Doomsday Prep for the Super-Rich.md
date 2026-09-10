@@ -16,7 +16,6 @@ related_consequence:
   - Technofeudalism
 related_reaction:
   - Situated Knowledge
-  - Brussels Effect
 ---
 
 ***The bunker is in New Zealand. The staff have been hired but not told what for.***
@@ -33,7 +32,7 @@ related_reaction:
 
 **Why This Matters:** **Doomsday prep for the super-rich** makes visible the political decision embedded in the logistics question. Once you see the framing choice — collapse as logistics, not politics — the bunker in New Zealand is also a statement about whose survival counts as civilisational continuity.
 
-**Related terms:** [[Fortress Futurism]] · [[Prepperism]] · [[Seasteading]] · [[Longtermism]] · [[Armageddon Complex]] · [[Brussels Effect]] · [[Situated Knowledge]] · [[Technofeudalism]]
+**Related terms:** [[Fortress Futurism]] · [[Prepperism]] · [[Seasteading]] · [[Longtermism]] · [[Armageddon Complex]] · [[Situated Knowledge]] · [[Technofeudalism]]
 
 
 ---

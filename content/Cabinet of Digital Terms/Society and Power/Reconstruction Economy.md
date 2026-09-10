@@ -15,7 +15,6 @@ related_consequence:
   - Sovereignty as a Service
   - Grifters
 related_reaction:
-  - Brussels Effect
   - Situated Knowledge
 ---
 
@@ -33,7 +32,7 @@ related_reaction:
 
 **Why This Matters:** **Reconstruction economy** names the commercial interest in the perpetuation of the conditions it claims to address. Once you see the profit structure, "we are here to help rebuild" requires examination of the incentive structure behind it.
 
-**Related terms:** [[Military-Industrial Complex]] · [[Digital-Military-Industrial Complex]] · [[Revolving Door]] · [[Grifters]] · [[Financial Fabulism]] · [[Brussels Effect]] · [[Situated Knowledge]] · [[Sovereignty as a Service]]
+**Related terms:** [[Military-Industrial Complex]] · [[Digital-Military-Industrial Complex]] · [[Revolving Door]] · [[Grifters]] · [[Financial Fabulism]] · [[Situated Knowledge]] · [[Sovereignty as a Service]]
 
 
 ---

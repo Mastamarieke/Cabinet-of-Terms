@@ -15,7 +15,6 @@ related_consequence:
   - Grifters
   - Financial Fabulism
 related_reaction:
-  - Brussels Effect
   - AI Literacy
 ---
 
@@ -33,7 +32,7 @@ related_reaction:
 
 **Why This Matters:** **Memecoin** makes visible the convergence of cultural community, financial speculation, and political power. Once you see the structure — community as distribution network for financial extraction — the question is not "is this a scam?" but "whose financial interests are served by the community's belief?"
 
-**Related terms:** [[Grifters]] · [[Financial Fabulism]] · [[Broligarchy]] · [[Brussels Effect]] · [[AI Literacy]] · [[Subcultural Vocabulary and Platform Language]]
+**Related terms:** [[Grifters]] · [[Financial Fabulism]] · [[Broligarchy]] · [[AI Literacy]] · [[Subcultural Vocabulary and Platform Language]]
 
 
 ---

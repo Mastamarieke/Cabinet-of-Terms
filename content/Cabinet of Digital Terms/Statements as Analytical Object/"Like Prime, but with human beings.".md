@@ -14,7 +14,6 @@ related_consequence:
   - Dehumanization
   - Algorithmic Violence
 related_reaction:
-  - Brussels Effect
 ---
 
 ***Logistics language applied to deportation. Said without noticing it was said.***
@@ -31,7 +30,7 @@ related_reaction:
 
 **Why this sentence matters:** Once you hear "like Prime, but with human beings," every logistics metaphor applied to people becomes audible as a category choice. The language is not neutral. It encodes an institutional framework. The sentence revealed it.
 
-**Related terms:** [[Dehumanization]] · [[Algorithmic Violence]] · [[Surveillance Capitalism]] · [[Flood the Zone]] · [[Brussels Effect]]
+**Related terms:** [[Dehumanization]] · [[Algorithmic Violence]] · [[Surveillance Capitalism]] · [[Flood the Zone]]
 
 
 ---

@@ -15,7 +15,6 @@ related_consequence:
   - Subhuman
 related_reaction:
   - Deplatforming
-  - Brussels Effect
 ---
 
 ***The old name is still indexed. The search engine does not forget.***
@@ -32,7 +31,7 @@ related_reaction:
 
 **Why This Matters:** **Deadnaming** makes visible the specific vulnerability of identity at the intersection of digital permanence and trans existence — and, more broadly, the way that data systems designed for commercial purposes produce identity harms as a structural side effect.
 
-**Related terms:** [[Algorithmic Violence]] · [[Surveillance Capitalism]] · [[Dehumanization]] · [[Brussels Effect]] · [[Social Contagion]]
+**Related terms:** [[Algorithmic Violence]] · [[Surveillance Capitalism]] · [[Dehumanization]] · [[Social Contagion]]
 
 
 ---
