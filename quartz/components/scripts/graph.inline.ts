@@ -51,6 +51,8 @@ type LinkRenderData = GraphicsInfo & {
   labelT?: number
   // colour of the line when nothing is hovered: the cluster it leads to
   restColor?: string
+  // which kind of relation this line carries, for the legend
+  relation?: string
 }
 
 type NodeRenderData = GraphicsInfo & {
@@ -61,6 +63,10 @@ type NodeRenderData = GraphicsInfo & {
   placement?: number
   // angle on the ring in the radial layout, where the label hangs straight outwards
   angle?: number
+  // which ring: terms sit on the outer one, sources on an inner one of their own
+  ring?: number
+  // sources read inwards, so their names stay in the band between the two rings
+  inward?: boolean
 }
 
 const localStorageKey = "graph-visited"
@@ -190,6 +196,20 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
   // A cluster's About page is two slug segments deep. Setting it in capitals gives the
   // graph the same reading order as the vault itself: cluster above term.
   const isClusterIndex = (url: SimpleSlug) => url !== "/" && url.split("/").length === 2
+
+  // Only this entry's own literature. A source that belongs to a neighbour — Virtual
+  // Influencer's secondary sources, say — reached the graph because the neighbour is one
+  // hop away, and then sat here as if it supported the term being read. It does not.
+  for (const id of [...neighbourhood]) {
+    if (id === slug) continue
+    const isSource = (data.get(id)?.tags ?? []).includes("source") || isSourcesFolderPage(id)
+    if (!isSource) continue
+    // Living in the entry's own folder is the test, not being linked to it: a source file
+    // lists the entries it covers, so "Secondary Sources — Virtual Influencer" links here
+    // and passed a link-based check while belonging to another term entirely.
+    const livesHere = id.startsWith(`${slug}/`)
+    if (!livesHere) neighbourhood.delete(id)
+  }
 
   const nodes = [...neighbourhood].map((url) => {
     const title = url.startsWith("tags/") ? "#" + url.substring(5) : (data.get(url)?.title ?? url)
@@ -550,12 +570,16 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     const label = new Text({
       interactive: false,
       eventMode: "none",
-      text: n.text,
+      // The book says this is literature before the name is read; the dotted tie says whose.
+      text: n.tags.includes("source") || isSourcesFolderPage(nodeId) ? `📖 ${n.text}` : n.text,
       alpha: labelsAlwaysVisible ? 1 : 0,
       anchor: { x: 0.5, y: 1.2 },
       style: {
         fontSize: fontSize * (nodeId === slug ? 19 : 15),
-        fill: computedStyleMap["--dark"],
+        // A term's name carries its cluster colour, like its dot does — so the ring reads
+        // as coloured groups even where the arc name has scrolled out of view. The entry
+        // itself stays in the text colour: it is the subject, not one of the neighbours.
+        fill: nodeId === slug ? computedStyleMap["--dark"] : (color(n) ?? computedStyleMap["--dark"]),
         fontFamily: "'Barlow Condensed', sans-serif",
         fontWeight: nodeId === slug ? "700" : "400",
         stroke: { color: computedStyleMap["--light"], width: 4, join: "round" },
@@ -631,16 +655,53 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
   // you — but until now the graph drew all four the same way.
   function linkRelation(src: NodeData, tgt: NodeData): string {
     const isLiterature = (n: NodeData) => n.tags.includes("source") || isSourcesFolderPage(n.id)
-    if (isLiterature(src) || isLiterature(tgt)) return "literature"
+    if (isLiterature(src) || isLiterature(tgt)) return "source"
     if (src.id === clusterIndexSlug || tgt.id === clusterIndexSlug) return "cluster"
-    if (src.id === slug) return "wikilink"
+    if (src.id === slug) return "related term"
     if (tgt.id === slug) return "backlink"
-    return "related term"
+    return "between neighbours"
   }
 
-  // Only in the loupe: at 250px the lines are too short to carry a word, and a cluster
-  // name laid over a panel that size hides more than it explains.
+  // Only in the loupe: at 250px the lines are too short to carry a mark.
   const showLinkLabels = !!graph.closest(".expanded-graph-outer")
+
+  // A mark instead of a word. The arrow does double duty: rotated onto the line it points
+  // from the page that links to the page linked, so wikilink, backlink and related term are
+  // one symbol read three ways depending on where the entry sits. What it cannot show is
+  // the two kinds that are not links between terms at all, and those get their own mark.
+  // The words here are the vault's own. A line running out of the entry is a related term,
+  // because that is exactly what the Related terms line at the foot of the entry lists —
+  // "wikilink" is Quartz's word for the same thing and appears nowhere a reader can see.
+  // "Backlink" is kept: the sidebar panel already calls it that.
+  // Arrows rather than triangles: at ten pixels on a line a chain-link icon turns to mud,
+  // but the idea behind it survives in the return arrow — a link that comes back to you
+  // without you having linked out.
+  // Both arrows read the same way once they lie along their line: pointing at the end they
+  // mean. ↩ points leftwards by itself, so aligned with the line it aimed back at the
+  // neighbour — the opposite of what a backlink is. ↪ points the way the line runs.
+  const relationGlyphs: Record<string, string> = {
+    "related term": "→",
+    backlink: "↪",
+    cluster: "◇",
+  }
+  // A line between two neighbours gets no mark. The other four say something the picture
+  // cannot: which way a link runs, whether the other end is a source, whether it is the
+  // cluster page. That two neighbours are linked is already visible in the line not
+  // touching the centre — a mark there only repeats the geometry, and those are the most
+  // numerous lines of all.
+  const relationGlyph = (relation: string) => relationGlyphs[relation] ?? ""
+
+  const relationMeanings: Record<string, string> = {
+    "→": "related term",
+    "↪": "backlink",
+    "◇": "cluster page",
+    "┄": "source",
+  }
+
+  // Set along the arc of its own group, one letter at a time: a cluster name on a map
+  // follows the shape it describes. Straight text can only sit beside a curve and point at
+  // it; curved text is part of it.
+  const clusterArcChars = new Map<string, Text[]>()
 
   // One faint name per cluster, sitting behind its own group of terms.
   const clusterNameLabels = new Map<string, Text>()
@@ -671,6 +732,28 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
       nameLabel.scale.set(1 / scale)
       clusterLabelsContainer.addChild(nameLabel)
       clusterNameLabels.set(segment, nameLabel)
+
+      const chars = [...clusterTitle(segment)].map((character) => {
+        const glyph = new Text({
+          interactive: false,
+          eventMode: "none",
+          text: character,
+          alpha: 0.45,
+          anchor: { x: 0.5, y: 0.5 },
+          style: {
+            fontSize: fontSize * 12,
+            fill: clusterColor(`x/${segment}`) ?? computedStyleMap["--gray"],
+            fontFamily: "'Barlow Condensed', sans-serif",
+            fontWeight: "400",
+          },
+          resolution: window.devicePixelRatio * 4,
+        })
+        glyph.scale.set(1 / scale)
+        glyph.visible = false
+        clusterLabelsContainer.addChild(glyph)
+        return glyph
+      })
+      clusterArcChars.set(segment, chars)
     }
   }
 
@@ -678,22 +761,25 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     const gfx = new Graphics({ interactive: false, eventMode: "none" })
     linkContainer.addChild(gfx)
 
+    const relation = linkRelation(l.source as NodeData, l.target as NodeData)
+    const away = (l.source as NodeData).id === slug ? (l.target as NodeData) : (l.source as NodeData)
+    const restColor = clusterColor(away.id) ?? computedStyleMap["--lightgray"]
+
     let label: Text | undefined
-    if (showLinkLabels) {
+    if (showLinkLabels && relationGlyph(relation)) {
       label = new Text({
         interactive: false,
         eventMode: "none",
-        text: linkRelation(l.source as NodeData, l.target as NodeData),
+        text: relationGlyph(relation),
         alpha: 0.95,
         // Sits on the line, not above it, with a halo in the background colour so the line
         // reads as interrupted by the word rather than drawn through it.
         anchor: { x: 0.5, y: 0.5 },
         style: {
-          fontSize: fontSize * 10,
-          fill: computedStyleMap["--darkgray"],
+          fontSize: fontSize * 13,
+          fill: restColor,
           fontFamily: "'Barlow Condensed', sans-serif",
-          fontStyle: "italic",
-          stroke: { color: computedStyleMap["--light"], width: 5, join: "round" },
+          stroke: { color: computedStyleMap["--light"], width: 4, join: "round" },
         },
         resolution: window.devicePixelRatio * 4,
       })
@@ -701,13 +787,11 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
       linkLabelsContainer.addChild(label)
     }
 
-    const away = (l.source as NodeData).id === slug ? (l.target as NodeData) : (l.source as NodeData)
-    const restColor = clusterColor(away.id) ?? computedStyleMap["--lightgray"]
-
     const linkRenderDatum: LinkRenderData = {
       simulationData: l,
       gfx,
       label,
+      relation,
       color: restColor,
       restColor,
       alpha: 1,
@@ -935,16 +1019,32 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
       ),
     ].sort((a, b) => clusterTitle(a).localeCompare(clusterTitle(b)))
 
-    legendEl.replaceChildren(
-      ...present.map((segment) => {
-        const row = document.createElement("span")
-        const swatch = document.createElement("i")
-        swatch.style.backgroundColor =
-          clusterColor(`x/${segment}`) ?? computedStyleMap["--gray"]
-        row.append(swatch, document.createTextNode(clusterTitle(segment)))
-        return row
-      }),
-    )
+    // Only the marks that actually occur in this graph, so the key never explains a symbol
+    // the reader cannot find.
+    const glyphsUsed = [
+      ...new Set(linkRenderData.map((l) => relationGlyph(l.relation ?? ""))),
+    ]
+      .filter((glyph) => glyph !== "")
+      .sort()
+
+    const glyphRows = glyphsUsed.map((glyph) => {
+      const row = document.createElement("span")
+      const mark = document.createElement("b")
+      mark.textContent = glyph
+      row.append(mark, document.createTextNode(relationMeanings[glyph] ?? ""))
+      return row
+    })
+
+    const clusterRows = present.map((segment) => {
+      const row = document.createElement("span")
+      const swatch = document.createElement("i")
+      swatch.style.backgroundColor = clusterColor(`x/${segment}`) ?? computedStyleMap["--gray"]
+      row.append(swatch, document.createTextNode(clusterTitle(segment)))
+      return row
+    })
+
+    const divider = document.createElement("hr")
+    legendEl.replaceChildren(...glyphRows, divider, ...clusterRows)
   }
 
   let labelsNeedPlacing = true
@@ -962,12 +1062,12 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
         if (radialLayout && n.angle !== undefined) {
           // Straight outwards from the ring, reading away from the centre, so every name
           // has the sector of its own node to itself.
-          const out = nodeRadius(n.simulationData) + 9
-          const facingRight = Math.cos(n.angle) >= 0
+          const reach = (nodeRadius(n.simulationData) + 9) * (n.inward ? -1 : 1)
+          const facingRight = Math.cos(n.angle) * (n.inward ? -1 : 1) >= 0
           n.label.anchor.set(facingRight ? 0 : 1, 0.5)
           n.label.position.set(
-            x + Math.cos(n.angle) * out + width / 2,
-            y + Math.sin(n.angle) * out + height / 2,
+            x + Math.cos(n.angle) * reach + width / 2,
+            y + Math.sin(n.angle) * reach + height / 2,
           )
         } else {
           n.label.position.set(x + width / 2, y + height / 2)
@@ -978,10 +1078,31 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     for (const l of linkRenderData) {
       const linkData = l.simulationData
       l.gfx.clear()
-      l.gfx.moveTo(linkData.source.x! + width / 2, linkData.source.y! + height / 2)
-      l.gfx
-        .lineTo(linkData.target.x! + width / 2, linkData.target.y! + height / 2)
-        .stroke({ alpha: l.active ? l.alpha : l.alpha * 0.3, width: 1, color: l.color })
+      // A source hangs from its term by a dotted tie, drawn below; a second solid line for
+      // the same relation would say it twice.
+      if (radialLayout && l.relation === "source") continue
+
+      const sx = linkData.source.x! + width / 2
+      const sy = linkData.source.y! + height / 2
+      const tx = linkData.target.x! + width / 2
+      const ty = linkData.target.y! + height / 2
+
+      l.gfx.moveTo(sx, sy)
+      if (radialLayout && l.relation === "between neighbours") {
+        // A chord, not a straight line. Two neighbours linked to each other have nothing to
+        // do with the middle, and a straight line between them cuts right through the entry
+        // that the whole picture is about. Bending the line towards the centre keeps it
+        // near the rim where both its ends are, and leaves the middle to the spokes.
+        const cx = ((sx + tx) / 2 - width / 2) * 0.45 + width / 2
+        const cy = ((sy + ty) / 2 - height / 2) * 0.45 + height / 2
+        l.gfx
+          .quadraticCurveTo(cx, cy, tx, ty)
+          .stroke({ alpha: l.active ? l.alpha : l.alpha * 0.3, width: 1, color: l.color })
+      } else {
+        l.gfx
+          .lineTo(tx, ty)
+          .stroke({ alpha: l.active ? l.alpha : l.alpha * 0.3, width: 1, color: l.color })
+      }
 
       if (l.label) {
         const t = l.labelT ?? 0.5
@@ -989,16 +1110,13 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
           linkData.source.x! + (linkData.target.x! - linkData.source.x!) * t + width / 2,
           linkData.source.y! + (linkData.target.y! - linkData.source.y!) * t + height / 2,
         )
-        // Run the word along the line, and flip it where the line points leftwards so it
-        // never ends up upside down.
-        let angle = Math.atan2(
+        // Aligned with the line it belongs to. An arrow that lies along its own line points
+        // at the end it means; upright, it only says "there is a direction here" and leaves
+        // the reader to work out which.
+        l.label.rotation = Math.atan2(
           linkData.target.y! - linkData.source.y!,
           linkData.target.x! - linkData.source.x!,
         )
-        if (angle > Math.PI / 2 || angle < -Math.PI / 2) {
-          angle += Math.PI
-        }
-        l.label.rotation = angle
       }
     }
 
@@ -1051,35 +1169,38 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     // visible term gets no name — the legend places that one by its colour instead.
     if (radialLayout) {
       clusterArc.clear()
+
+      // The names ride on one common circle, just outside the longest term label, so they
+      // read as a rim around the whole picture rather than as eleven separate captions.
+      // One outlier — "Secondary Sources — Virtual Influencer" is twice the length of any
+      // term — should not push the whole rim off the canvas, so the width that sets the
+      // radius is capped.
+      let widest = 0
+      for (const n of nodeRenderData) {
+        if (n.gfx.visible && n.simulationData.id !== slug && !n.inward) {
+          widest = Math.max(widest, n.label.width)
+        }
+      }
+      widest = Math.min(widest, (Math.min(width, height) / 2) * 0.34)
+      const arcRadius = Math.min(
+        ringRadius + widest + 30,
+        (Math.min(width, height) / 2) * 0.97,
+      )
+
       for (const [segment, nameLabel] of clusterNameLabels) {
+        nameLabel.visible = false
+        const chars = clusterArcChars.get(segment) ?? []
         const angle = clusterArcAngles.get(segment)
         const members = nodeRenderData.filter(
           (n) => n.gfx.visible && clusterOf(n.simulationData.id) === segment,
         ).length
-        nameLabel.visible = angle !== undefined && members > 0
-        if (angle === undefined || members === 0) continue
-        const nameRadius = ringRadius + 74
-        nameLabel.anchor.set(0.5, 0.5)
-        nameLabel.position.set(
-          Math.cos(angle) * nameRadius + width / 2,
-          Math.sin(angle) * nameRadius + height / 2,
-        )
-        // a tick from the ring out to its name, so the name belongs to that arc and not
-        // to whatever happens to sit nearest
-        clusterArc
-          .moveTo(
-            Math.cos(angle) * (ringRadius + 26) + width / 2,
-            Math.sin(angle) * (ringRadius + 26) + height / 2,
-          )
-          .lineTo(
-            Math.cos(angle) * (nameRadius - 16) + width / 2,
-            Math.sin(angle) * (nameRadius - 16) + height / 2,
-          )
-          .stroke({
-            width: 1,
-            alpha: 0.35,
-            color: clusterColor(`x/${segment}`) ?? computedStyleMap["--gray"],
-          })
+
+        if (angle === undefined || members === 0) {
+          for (const glyph of chars) glyph.visible = false
+          continue
+        }
+
+        setOnArc(chars, angle, arcRadius)
       }
     } else
     for (const [segment, nameLabel] of clusterNameLabels) {
@@ -1105,6 +1226,29 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     // equally good spots kept swapping, which reads as a shiver even though nothing in the
     // layout is moving. The placement is redone only when something actually changed: the
     // layout, a toggle, a slider, the zoom, or what you are hovering.
+    // The dotted ties between a source and the term it belongs to.
+    sourceTies.clear()
+    if (radialLayout) {
+      for (const [id, parent] of sourceParents) {
+        const source = nodeRenderData.find((n) => n.simulationData.id === id)
+        if (!source || !source.gfx.visible || !parent.gfx.visible) continue
+        const x1 = (source.simulationData.x ?? 0) + width / 2
+        const y1 = (source.simulationData.y ?? 0) + height / 2
+        const x2 = (parent.simulationData.x ?? 0) + width / 2
+        const y2 = (parent.simulationData.y ?? 0) + height / 2
+        const span = Math.hypot(x2 - x1, y2 - y1)
+        const steps = Math.max(2, Math.round(span / 6))
+        for (let i = 0; i < steps; i += 2) {
+          const a = i / steps
+          const b = Math.min((i + 1) / steps, 1)
+          sourceTies
+            .moveTo(x1 + (x2 - x1) * a, y1 + (y2 - y1) * a)
+            .lineTo(x1 + (x2 - x1) * b, y1 + (y2 - y1) * b)
+            .stroke({ width: 1, alpha: 0.5, color: source.color })
+        }
+      }
+    }
+
     if (labelsNeedPlacing) {
       labelsNeedPlacing = false
       updateLabelOcclusion()
@@ -1132,17 +1276,30 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
   // neighbours in fixed slots around the entry — clustered by colour, one arc per cluster —
   // reserves a place for every node and its name in advance. Nothing can collide, because
   // the geometry rules it out, and the same term is laid out the same way every time.
-  const radialLayout = isLocalGraph && !!centreNode && showLinkLabels
-  const baseRingRadius = (Math.min(width, height) / 2) * 0.62
+  // Also in the sidebar panel, not only in the loupe: one entry with its neighbours is the
+  // same picture at both sizes, and it is confusing to open a graph that reorganises itself.
+  const radialLayout = isLocalGraph && !!centreNode
+  const baseRingRadius = (Math.min(width, height) / 2) * 0.5
   // Node spacing widens the ring here rather than pushing on forces that no longer run.
   let ringRadius = baseRingRadius
 
   function layoutRadial() {
     if (!radialLayout || !centreNode) return
 
-    const onRing = nodeRenderData.filter(
+    const visible = nodeRenderData.filter(
       (n) => n.gfx.visible && n.simulationData.id !== slug,
     )
+    if (visible.length === 0) return
+
+    // Literature is not vocabulary, so it does not belong among the terms. Sources — the
+    // primary files and the Sources overview pages alike — take an inner ring of their own,
+    // in the band between the entry and its neighbours.
+    const isLiteratureNode = (n: NodeRenderData) =>
+      n.simulationData.tags.includes("source") || isSourcesFolderPage(n.simulationData.id)
+
+    const sources = visible.filter(isLiteratureNode)
+    const onRing = visible.filter((n) => !isLiteratureNode(n))
+
     if (onRing.length === 0) return
 
     const groups = new Map<string, NodeRenderData[]>()
@@ -1172,8 +1329,21 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
       const from = angle
       for (const n of members) {
         n.angle = angle + step / 2
-        n.simulationData.x = Math.cos(n.angle) * ringRadius
-        n.simulationData.y = Math.sin(n.angle) * ringRadius
+        // The ring breathes rather than holding everyone at arm's length. A term with more
+        // ties to this entry sits a little closer in, so the picture keeps saying something
+        // about degree of relatedness that the plain circle had flattened away.
+        const ties = linkRenderData.filter((l) => {
+          const a = (l.simulationData.source as NodeData).id
+          const b = (l.simulationData.target as NodeData).id
+          return (
+            (a === n.simulationData.id && b === slug) || (b === n.simulationData.id && a === slug)
+          )
+        }).length
+        const pull = Math.min(ties, 3) * 0.045
+        n.ring = ringRadius * (1.06 - pull)
+        n.inward = false
+        n.simulationData.x = Math.cos(n.angle) * n.ring
+        n.simulationData.y = Math.sin(n.angle) * n.ring
         n.simulationData.fx = n.simulationData.x
         n.simulationData.fy = n.simulationData.y
         angle += step
@@ -1182,6 +1352,43 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
       angle += gap
     }
 
+    // A source is not a term and does not belong in the ring, but it does belong to one:
+    // it sits just inside the ring at the angle of the term it supports, tied to it with a
+    // dotted line. Literature hangs beneath its own term rather than floating in the middle.
+    sourceParents.clear()
+    // A source belongs to a term, not to the picture. Ranged along the top it read as the
+    // entry's own literature, while "Secondary Sources — Virtual Influencer" is Virtual
+    // Influencer's, not Parasocial Relationship's. So each source sits just inside the ring
+    // at the angle of the term it supports, on a dotted tie to it — and the entry's own
+    // sources, if it has any, keep close to the centre where the same rule puts them.
+    const perTerm = new Map<string, number>()
+    sources.forEach((n) => {
+      const parent = onRing.find((term) =>
+        linkRenderData.some((l) => {
+          const a = (l.simulationData.source as NodeData).id
+          const b = (l.simulationData.target as NodeData).id
+          return (
+            (a === n.simulationData.id && b === term.simulationData.id) ||
+            (b === n.simulationData.id && a === term.simulationData.id)
+          )
+        }),
+      )
+      const seen = parent ? (perTerm.get(parent.simulationData.id) ?? 0) : 0
+      if (parent) perTerm.set(parent.simulationData.id, seen + 1)
+
+      const at = (parent?.angle ?? -Math.PI / 2) + seen * 0.09
+      const radius = parent ? ringRadius * 0.78 : ringRadius * 0.3
+
+      n.angle = at
+      n.ring = radius
+      n.inward = true
+      n.simulationData.x = Math.cos(at) * radius
+      n.simulationData.y = Math.sin(at) * radius
+      n.simulationData.fx = n.simulationData.x
+      n.simulationData.fy = n.simulationData.y
+      if (parent) sourceParents.set(n.simulationData.id, parent)
+    })
+
     centreNode.x = 0
     centreNode.y = 0
     centreNode.fx = 0
@@ -1189,9 +1396,35 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     labelsNeedPlacing = true
   }
 
+  // Text follows a circle by placing each letter at its own angle. Below the middle the arc
+  // curves the other way: the letters keep their order and their rotation is mirrored while
+  // the cursor walks backwards — reversing the letters as well mirrors the word, which is
+  // how GENDER & IDENTITY once came out as YTITNEDI & REDNEG.
+  function setOnArc(chars: Text[], centreAngle: number, radius: number) {
+    const flipped = Math.sin(centreAngle) > 0
+    const widths = chars.map((glyph) => glyph.width + 1)
+    const span = widths.reduce((sum, w) => sum + w, 0) / radius
+    let cursor = centreAngle - (flipped ? -span / 2 : span / 2)
+
+    chars.forEach((glyph, i) => {
+      const step = widths[i] / radius
+      const at = cursor + (flipped ? -step / 2 : step / 2)
+      glyph.visible = true
+      glyph.position.set(
+        Math.cos(at) * radius + width / 2,
+        Math.sin(at) * radius + height / 2,
+      )
+      glyph.rotation = flipped ? at - Math.PI / 2 : at + Math.PI / 2
+      cursor += flipped ? -step : step
+    })
+  }
+
+  const sourceParents = new Map<string, NodeRenderData>()
+  const sourceTies = new Graphics()
   const clusterArc = new Graphics()
   const clusterArcAngles = new Map<string, number>()
   clusterLabelsContainer.addChild(clusterArc as unknown as Text)
+  linkContainer.addChild(sourceTies)
 
   if (radialLayout) {
     layoutRadial()
