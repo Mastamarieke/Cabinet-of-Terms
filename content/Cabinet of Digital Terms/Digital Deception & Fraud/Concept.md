@@ -132,6 +132,18 @@ Zie ook: Gender & Identity, Subcultural Vocabulary and Platform Language (gaming
 
 ---
 
+### 11. Affiliate-/Advertentiefraude
+Manipulatie van advertentie- en affiliate-attributiesystemen om ten onrechte commissie of advertentie-inkomsten te claimen. Anders dan de meeste fraudevormen hierboven wordt niet de eindgebruiker misleid, maar het trackingsysteem zelf — de adverteerder en legitieme affiliates zijn het slachtoffer.
+
+**Voorbeelden:**
+- *Cookie Stuffing* — affiliate-tracking cookies stiekem op de browser van een bezoeker plaatsen (via onzichtbare iframes, pop-unders of pixels) zonder dat die bezoeker daadwerkelijk op een affiliate-link heeft geklikt, zodat een latere aankoop ten onrechte aan de fraudeur wordt toegeschreven
+- *Click Fraud* — geautomatiseerd of handmatig op advertenties klikken om advertentiebudget te verspillen of eigen advertentie-inkomsten kunstmatig te verhogen
+- *Brand Bidding* — bieden op de merknaam van de adverteerder zelf in zoekadvertenties om organisch verkeer te onderscheppen
+
+Zie ook: typosquatting (onder Phishing hierboven)
+
+---
+
 ## Kernpatroon
 
 Vrijwel alle vormen van digitale fraude draaien om hetzelfde mechanisme: **vertrouwen wekken, urgentie creëren, en handelen vóór het slachtoffer nadenkt**. De technologie verandert — de psychologie niet.
@@ -161,3 +173,6 @@ Zie ook: social engineering, [[Dark Patterns]], Privacy, Data and Control, [[Sur
 
 **Over dark patterns:**
 - Brignull, H. (2010–heden). *Dark Patterns*. darkpatterns.org
+
+**Over affiliate-/advertentiefraude:**
+- Commission Factory. *Cookie Stuffing*. help.commissionfactory.com/cookie-stuffing
