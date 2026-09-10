@@ -18,26 +18,30 @@ linked_entries: ["[[Sigma Male]]"]
 tags: [source, primary]
 ---
 
-## Korte omschrijving
+## Ging (2019) — Alphas, Betas, and Incels: Theorizing the Masculinities of the Manosphere
 
-Ging's artikel is een van de eerste systematische academische pogingen om de "manosphere" te typeren als een online masculiniteiten-ecosysteem, met de alfa/bèta-hiërarchie als organiserend principe. Ze laat zien hoe deze typologie functioneert als een pseudo-wetenschappelijk (evolutionair-psychologisch geframed) rangschikkingssysteem van mannelijkheid, en hoe dit rangschikkingsdenken de voedingsbodem vormt voor latere, memetische varianten zoals de "sigma male".
+**Ging, D. (2019).** Alphas, Betas, and Incels: Theorizing the Masculinities of the Manosphere. *Men and Masculinities* (SAGE). https://doi.org/10.1177/1097184x17706401
 
-## Waarmee gelinkt
+---
 
-- [[Sigma Male]] — dit artikel levert het kritische kader waarbinnen "sigma" begrepen moet worden: niet als losstaand fenomeen, maar als evolutie/mutatie van de alfa/bèta-hiërarchie die Ging beschrijft (alpha male, incel, red pill zijn onderdeel van dat kader, maar hebben elk hun eigen bronvermelding nodig als ze dit artikel zelf inline citeren).
+### What this source contributes
 
-## Bron
+One of the first systematic academic attempts to characterise the manosphere as an online masculinities ecosystem, with the alpha/beta hierarchy as its organising principle. Ging shows how the typology works as a pseudo-scientific ranking system for masculinity, framed in evolutionary-psychological language, and how that ranking habit becomes the ground for later memetic variants.
 
-- **Tijdschrift:** Men and Masculinities (SAGE)
-- **Jaar:** 2019
-- **DOI:** https://doi.org/10.1177/1097184x17706401
-- **Toegang:** officiële SAGE-versie is paywalled. Er circuleert een door de auteur zelf gearchiveerde kopie (geen officiële open access) via [Semantic Scholar](https://www.semanticscholar.org/paper/2fe1adb954bcea424f56836787366e5ee67b3614) — kan zonder aankondiging offline gaan en is niet altijd zonder account te downloaden.
-- **Vakgebied:** Gender Studies / Media Studies (Sociologie van gender en digitale media)
+### Analytical function in Sigma Male
 
-## Over de auteur
+Supplies the critical frame within which "sigma" has to be understood. Not a standalone phenomenon, but a mutation of the alpha/beta hierarchy Ging describes, which is why the sigma claim to stand outside the hierarchy still depends on the hierarchy existing.
 
-**Debbie Ging** is hoogleraar Digital Media and Gender aan de School of Communications, Dublin City University, en directeur van het DCU Institute for Research on Genders and Sexualities. Haar onderzoek richt zich op gender, seksualiteit en digitale media, met specifieke aandacht voor online haat, anti-feministische mannenrechtenpolitiek, incel-subcultuur en de radicalisering van jongens en mannen richting mannelijk-suprematistische ideologieën. Ze is co-redacteur van *Gender Hate Online: Understanding the New Antifeminism* (Routledge, 2019) en Ireland Corresponding Editor van het tijdschrift Men and Masculinities.
+Alpha male, incel and red pill are part of that frame in the article, but each needs its own source reference if it cites this article inline.
 
-## Status
+### About the author
 
-Primary source — peer-reviewed, vormt de analytische basis van de entry.
+**Debbie Ging** is Professor of Digital Media and Gender at the School of Communications, Dublin City University, and director of the DCU Institute for Research on Genders and Sexualities. Her research covers gender, sexuality and digital media, with particular attention to online hate, anti-feminist men's rights politics, incel subculture, and the radicalisation of boys and men toward male-supremacist ideologies. She co-edited *Gender Hate Online: Understanding the New Antifeminism* (Routledge, 2019) and is Ireland Corresponding Editor of *Men and Masculinities*.
+
+### Access note
+
+The official SAGE version is paywalled. An author-archived copy circulates via [Semantic Scholar](https://www.semanticscholar.org/paper/2fe1adb954bcea424f56836787366e5ee67b3614), but this is not formal open access: it may go offline without notice and is not always downloadable without an account.
+
+### Related entries
+
+- [[Sigma Male]] — the alpha/beta hierarchy that sigma positions itself against

@@ -3,13 +3,13 @@ title: "Sources"
 cluster: Platform Mechanisms & Economics
 ---
 
-Bronmateriaal gebruikt bij de analyse van [[Recommender Systems]].
+Source material used in the analysis of [[Recommender Systems]].
 
 **Primary:**
-- [[Ribeiro-2020|Ribeiro et al. (2020)]] — large-scale audit van radicalisatiepaden op YouTube via aanbevelingsketens
-- [[Bail-2023|Bail et al. (2023)]] — blootstelling aan tegengestelde views vergroot polarisatie; emotionele respons als engagement-signaal
+- [[Ribeiro-2020|Ribeiro et al. (2020)]] — large-scale audit of radicalization pathways on YouTube through recommendation chains
+- [[Bail-2023|Bail et al. (2023)]] — exposure to opposing views increases polarisation; emotional response as engagement signal
 
 **Secondary:**
-- [[Secondary-RecommenderSystems|Tufekci (2019) · Tufekci (2018) · Ledwich & Zaitsev (2019) · Brady et al. (2017) · Kang et al. (2025) · Hope, Fear, or Anger? (2023)]] — journalistiek, tegengeluid, emotie-onderzoek en theoretische kaders
+- [[Secondary-RecommenderSystems|Tufekci (2019) · Tufekci (2018) · Ledwich & Zaitsev (2019) · Brady et al. (2017) · Kang et al. (2025) · Hope, Fear, or Anger? (2023)]] — journalism, the dissenting reading, emotion research, and theoretical frames
 
-**Behandelde entries:** [[Recommender Systems]] · [[Filter Bubble]] · [[Echo Chamber]] · [[Ragebaiting]]
+**Entries covered:** [[Recommender Systems]] · [[Filter Bubble]] · [[Echo Chamber]] · [[Ragebaiting]]

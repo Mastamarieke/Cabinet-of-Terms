@@ -42,4 +42,4 @@ The out-group animosity finding is the bridge between the abstract claim that "a
 
 ### Related entries
 
-[[Ragebaiting]] — the designed deployment of out-group animosity as an engagement strategy
+- [[Ragebaiting]] — the designed deployment of out-group animosity as an engagement strategy

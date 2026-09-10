@@ -42,4 +42,4 @@ The 20% per moral-emotional word figure is the specific, quantified mechanism be
 
 ### Related entries
 
-[[Ragebaiting]] — the designed deployment of this diffusion mechanism as content strategy
+- [[Ragebaiting]] — the designed deployment of this diffusion mechanism as content strategy

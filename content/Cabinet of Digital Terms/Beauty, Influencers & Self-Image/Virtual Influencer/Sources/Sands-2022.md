@@ -17,8 +17,22 @@ linked_entries: ["[[Virtual Influencer]]"]
 tags: [source, primary]
 ---
 
-Sands, Campbell, Plangger, and Ferraro (2022) examine AI influencers through the lens of **anthropomorphism** — attributing human qualities to non-human entities. They show that anthropomorphism is the mechanism that allows an AI influencer to function as a social actor: it reduces the psychological distance between follower and persona, making the fabricated agent capable of generating trust and social connection.
+## Sands et al. (2022) — Unreal influence: Leveraging AI in influencer marketing
 
-A key boundary condition in their model is **agency**: whether a persona is perceived as autonomous (acting on its own initiative) versus externally managed affects how followers respond. An influencer that appears to act autonomously feels more trustworthy than one visibly controlled — even when both are equally fabricated. This places the *appearance* of autonomous selfhood at the center of the virtual influencer's trust architecture.
+**Sands, S., Campbell, C.L., Plangger, K. & Ferraro, C. (2022).** Unreal influence: Leveraging AI in influencer marketing. *European Journal of Marketing*. https://doi.org/10.1108/EJM-12-2019-0949
 
-**Analytical function in the Virtual Influencer entry:** Reframes anthropomorphism from an aesthetic choice to a design mechanism. Complements Kim et al. (2023) by showing the trust effect operates even when the audience knows the persona is artificial — the response is automatic, not belief-based. The agency dimension adds a further layer: the virtual influencer must appear not just human, but self-directed.
+---
+
+### What this source contributes
+
+Examines AI influencers through the lens of **anthropomorphism**, the attribution of human qualities to non-human entities. The authors show that anthropomorphism is the mechanism allowing an AI influencer to function as a social actor: it reduces the psychological distance between follower and persona, making a fabricated agent capable of generating trust and social connection.
+
+A key boundary condition in their model is **agency**. Whether a persona is perceived as autonomous or as externally managed affects how followers respond, and an influencer that appears to act on its own initiative reads as more trustworthy than one visibly controlled, even when both are equally fabricated. This places the *appearance* of autonomous selfhood at the centre of the trust architecture.
+
+### Analytical function in Virtual Influencer
+
+Reframes anthropomorphism from an aesthetic choice into a design mechanism. Complements Kim et al. (2023) by showing the trust effect operates even when the audience knows the persona is artificial, because the response is automatic rather than belief-based. The agency dimension adds a further requirement: the virtual influencer must appear not merely human but self-directed.
+
+### Related entries
+
+- [[Virtual Influencer]] — anthropomorphism and apparent agency as the design mechanisms behind the persona

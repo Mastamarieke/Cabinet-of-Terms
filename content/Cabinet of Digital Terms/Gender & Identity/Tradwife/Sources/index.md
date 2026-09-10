@@ -3,13 +3,13 @@ title: "Sources"
 cluster: Gender & Identity
 ---
 
-Bronmateriaal gebruikt bij de analyse van [[Tradwife]].
+Source material used in the analysis of [[Tradwife]].
 
 **Primary:**
-- [[Betz-2026|Betz, Liss & Ramsey (2026)]] — feminist-psychologisch kader; drie enabling conditions van de tradwife-beweging
-- [[Ging-Tradwife-2019|Ging (2019)]] — manosphere als ecosysteem; SMV-logica als verbindend principe tussen tradwife en looksmaxxing
+- [[Betz-2026|Betz, Liss & Ramsey (2026)]] — feminist-psychological frame; the three enabling conditions of the tradwife movement
+- [[Sykes-Tradwife-2024|Sykes & Hopner (2024)]] — netnography of 36 tradwife profiles; platform calibration as the mechanism behind the soft and hard versions of the same account
 
 **Secondary:**
-- [[Secondary-Tradwife|Kelly (2018) · UvA (2024) · Vogue (2024) · Parents (2024)]] — journalistiek + beschouwend; ideologisch spectrum, publieke duiding, maatschappelijke context
+- [[Secondary-Tradwife|Kelly (2018) · Agnew (2024) · Ashcraft (2024) · Bower (2024) · Ging (2019) · UvA (2024) · Parents (2024) · Vogue (2024) · Wikipedia (ongoing)]] — the naming moment and its oppositional reading, a black feminist typology, the manosphere frame, and public commentary
 
-**Behandelde entries:** [[Tradwife]] · [[Manosphere]] · [[Looksmaxxing]] · [[Purity Culture]] · [[SMV (Sexual Market Value)]] · [[Womanosphere]] · [[Provider]] · [[Stay-at-home Girlfriend (SAHG)]]
+**Entries covered:** [[Tradwife]] · [[Manosphere]] · [[Looksmaxxing]] · [[Purity Culture]] · [[SMV (Sexual Market Value)]] · [[Womanosphere]] · [[Provider]] · [[Stay-at-home Girlfriend (SAHG)]] · [[Wellness-to-Alt-Right Pipeline]] · [[Great Replacement]] · [[Comparison Culture]]

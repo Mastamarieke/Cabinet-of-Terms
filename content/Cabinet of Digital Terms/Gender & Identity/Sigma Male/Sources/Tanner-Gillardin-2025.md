@@ -17,31 +17,30 @@ linked_entries: ["[[Sigma Male]]", "[[Alpha Male]]", "[[Manosphere]]"]
 tags: [source, primary, open-access]
 ---
 
-## Korte omschrijving
+## Tanner & Gillardin (2025) — Toxic Communication on TikTok: Sigma Masculinities and Gendered Disinformation
 
-Peer-reviewed onderzoek, direct over sigma male zelf (niet over de manosphere in het algemeen). De auteurs analyseerden 195 TikTok-video's (uit een steekproef van 960, verzameld via de hashtags sigma, sigmamale en sigmamalegrindset) en identificeren vier communicatiecategorieën waarin sigma-content zich manifesteert: onverschilligheid, afwijzing, vernedering en haat jegens vrouwen en non-binaire mensen. Ze plaatsen sigma-content binnen het kader van "gendered disinformation" en digitale criminologie, en beschrijven het als een "ready-to-think"-kader dat mannen een pasklaar antwoord biedt op een gepercipieerde masculiniteitscrisis.
+**Tanner, S. & Gillardin, F. (2025).** Toxic Communication on TikTok: Sigma Masculinities and Gendered Disinformation. *Social Media + Society*, 11(1). https://doi.org/10.1177/20563051251313844
 
-## Waarmee gelinkt
+---
 
-- [[Sigma Male]] — het directe en enige object van analyse; sterkere match dan algemene manosphere-literatuur.
-- [[Alpha Male]] — sigma wordt gepositioneerd als alternatief voor/superieur aan alfa.
-- [[Manosphere]] — plaatst sigma-content in de bredere online masculiniteitscultuur.
-- TikTok — platform-specifieke analyse (methodologie, dataverzameling, virale verspreiding).
+### What this source contributes
 
-## Bron
+Peer-reviewed research on sigma male specifically, rather than on the manosphere in general. The authors analysed 195 TikTok videos drawn from a sample of 960, collected through the hashtags sigma, sigmamale and sigmamalegrindset, and identify four communication categories in which sigma content appears: indifference, rejection, humiliation, and hatred toward women and non-binary people.
 
-- **Tijdschrift:** Social Media + Society (SAGE), vol. 11(1)
-- **Jaar:** 2025 (gepubliceerd 22 januari 2025)
-- **DOI:** https://doi.org/10.1177/20563051251313844
-- **Toegang:** volledig open access (SAGE open access journal, geen betaalmuur)
-- **Vakgebied:** Criminologie / Digital Criminology / Media Studies / Gender Studies
+They place sigma content within the frames of gendered disinformation and digital criminology, describing it as a "ready-to-think" package that offers men a prefabricated answer to a perceived crisis of masculinity.
 
-## Over de auteurs
+### Analytical function in Sigma Male
 
-**Samuel Tanner** is hoogleraar aan de École de criminologie, Université de Montréal. Zijn onderzoek richt zich op desinformatie, online radicalisering en de impact van technologie op veiligheid.
+The direct and only object of analysis, which makes it a closer match for the entry than general manosphere literature. The four-category breakdown gives the entry its empirical spine, and the "ready-to-think" framing explains the appeal without treating its audience as simply gullible.
 
-**François Gillardin** is promovendus criminologie aan dezelfde instelling (École de criminologie, Université de Montréal). Zijn onderzoek richt zich op desinformatie, propaganda en hate speech.
+### About the authors
 
-## Status
+**Samuel Tanner** is a professor at the École de criminologie, Université de Montréal. His research covers disinformation, online radicalisation, and the impact of technology on security.
 
-Primary source — peer-reviewed, open access, direct over sigma male.
+**François Gillardin** is a doctoral researcher in criminology at the same institution. His research covers disinformation, propaganda and hate speech.
+
+### Related entries
+
+- [[Sigma Male]] — the direct and sole object of analysis
+- [[Alpha Male]] — sigma is positioned as an alternative to, and above, alpha
+- [[Manosphere]] — places sigma content in the wider online masculinity culture

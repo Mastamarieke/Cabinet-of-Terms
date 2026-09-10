@@ -3,13 +3,13 @@ title: "Sources"
 cluster: Gender & Identity
 ---
 
-Bronmateriaal gebruikt bij de analyse van [[Looksmaxxing]].
+Source material used in the analysis of [[Looksmaxxing]].
 
 **Primary:**
-- [[Ging-Looksmaxxing-2019|Ging (2019)]] — academisch kader manosphere & SMV-logica
-- [[Konig-2025|Konig et al. (2025)]] — klinische analyse self-enhancement vs. self-harm
+- [[Ging-Looksmaxxing-2019|Ging (2019)]] — academic frame for the manosphere and SMV logic
+- [[Konig-2025|Konig et al. (2025)]] — clinical analysis of self-enhancement against self-harm
 
 **Secondary:**
-- [[Secondary-Looksmaxxing|Hofstede (2026) · Usborne (2024) · Murdoch (1970)]] — journalistiek + filosofisch achtergrondmateriaal
+- [[Secondary-Looksmaxxing|Hofstede (2026) · Usborne (2024) · Murdoch (1970) · The Power Moves (n.d.) · Bernstein (2026) · Theirlynck (2026) · looksmaxxing.com (n.d.) · Doers of London (2024)]] — journalism, philosophical background, and the phenomenon itself as forum, platform and consumer product
 
-**Behandelde entries:** [[Looksmaxxing]] · [[SMV (Sexual Market Value)]] · [[Blackpill]] · [[Manosphere]] · [[Body Dysmorphic Disorder]] · [[Comparison Culture]] · [[Subhuman]]
+**Entries covered:** [[Looksmaxxing]] · [[SMV (Sexual Market Value)]] · [[Blackpill]] · [[Manosphere]] · [[Body Dysmorphic Disorder]] · [[Comparison Culture]] · [[Subhuman]]

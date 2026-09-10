@@ -17,25 +17,28 @@ linked_entries: ["[[Looksmaxxing]]"]
 tags: [source, primary]
 ---
 
-## Korte omschrijving
+## Ging (2019) — Alphas, Betas, and Incels: Theorizing the Masculinities of the Manosphere
 
-Eerste systematische academische analyse van de manosphere als ecosysteem van masculiniteitsideologieën. Ging laat zien hoe SMV (Sexual Market Value) functioneert als organiserend principe, en hoe de alfa/bèta-hiërarchie de voedingsbodem vormt voor latere varianten — waaronder looksmaxxing als optimalisatiepraktijk binnen diezelfde logica.
+**Ging, D. (2019).** Alphas, Betas, and Incels: Theorizing the Masculinities of the Manosphere. *Men and Masculinities* (SAGE). https://doi.org/10.1177/1097184x17706401
 
-## Waarmee gelinkt
+---
 
-- [[Looksmaxxing]] — dit artikel levert het theoretisch kader: looksmaxxing als uitvloeisel van SMV-logica en manosphere-hiërarchiedenken (manosphere, incel, alpha male, SMV en blackpill worden in het artikel besproken als onderdeel van dat ecosysteem, maar hebben elk hun eigen bronvermelding nodig als ze dit artikel zelf inline citeren).
+### What this source contributes
 
-## Bron
+The first systematic academic analysis of the manosphere as an ecosystem of masculinity ideologies rather than a set of unrelated communities. Ging shows how SMV (Sexual Market Value) operates as its organising principle, and how the alpha/beta hierarchy provides the ground from which later variants grow.
 
-- **Tijdschrift:** Men and Masculinities (SAGE)
-- **Jaar:** 2019
-- **DOI:** https://doi.org/10.1177/1097184x17706401
-- **Toegang:** open access
+The hierarchy functions as a pseudo-scientific ranking system for masculinity, framed in the language of evolutionary psychology. That framing is what allows a ranking to present itself as a description of nature rather than a claim about worth.
 
-## Over de auteur
+### Analytical function in Looksmaxxing
 
-**Debbie Ging** is hoogleraar Digital Media and Gender aan Dublin City University. Haar onderzoek richt zich op gender, seksualiteit en digitale media, met specifieke aandacht voor online haat en anti-feministische mannenrechtenpolitiek.
+Supplies the theoretical frame: looksmaxxing is an optimisation practice operating inside SMV logic, not a separate grooming trend. The article establishes why a hierarchy of faces feels to its participants like a discovery rather than an invention.
 
-## Status
+Manosphere, incel, alpha male, SMV and blackpill are all discussed in the article as parts of that ecosystem, but each needs its own source reference if it cites this article inline.
 
-Primary source — peer-reviewed, vormt het analytisch fundament voor de manosphere-context van looksmaxxing.
+### About the author
+
+**Debbie Ging** is Professor of Digital Media and Gender at Dublin City University. Her research covers gender, sexuality and digital media, with particular attention to online hate and anti-feminist men's rights politics.
+
+### Related entries
+
+- [[Looksmaxxing]] — SMV logic and manosphere hierarchy as the frame the practice operates inside
