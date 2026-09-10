@@ -230,6 +230,12 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
       })),
   }
 
+  // Brussels Effect has sixty neighbours where most terms have fifteen. Past a certain
+  // number the same picture stops working: the marks become a swarm, the chords a mesh, and
+  // one ring cannot give sixty names room to be read. So above the threshold the drawing
+  // gives things up in order of what it can most afford to lose.
+  const manyNeighbours = graphData.nodes.length > 28
+
   const width = graph.offsetWidth
   const height = Math.max(graph.offsetHeight, 250)
 
@@ -663,7 +669,7 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
   }
 
   // Only in the loupe: at 250px the lines are too short to carry a mark.
-  const showLinkLabels = !!graph.closest(".expanded-graph-outer")
+  const showLinkLabels = !!graph.closest(".expanded-graph-outer") && !manyNeighbours
 
   // A mark instead of a word. The arrow does double duty: rotated onto the line it points
   // from the page that links to the page linked, so wikilink, backlink and related term are
@@ -1081,6 +1087,8 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
       // A source hangs from its term by a dotted tie, drawn below; a second solid line for
       // the same relation would say it twice.
       if (radialLayout && l.relation === "source") continue
+      // The lines between neighbours are the many, and the least about the term being read.
+      if (radialLayout && manyNeighbours && l.relation === "between neighbours") continue
 
       const sx = linkData.source.x! + width / 2
       const sy = linkData.source.y! + height / 2
@@ -1322,6 +1330,7 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     const budget = 2 * Math.PI - gap * order.length
     const step = budget / onRing.length
     let angle = -Math.PI / 2 + gap / 2
+    let placed = 0
 
     clusterArc.clear()
     for (const key of order) {
@@ -1340,7 +1349,11 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
           )
         }).length
         const pull = Math.min(ties, 3) * 0.045
-        n.ring = ringRadius * (1.06 - pull)
+        // Every other name steps inwards, which doubles the room each one has along the
+        // circle without making the circle itself any bigger.
+        const stagger = manyNeighbours && placed % 2 === 1 ? 0.78 : 1
+        n.ring = ringRadius * (1.06 - pull) * stagger
+        placed += 1
         n.inward = false
         n.simulationData.x = Math.cos(n.angle) * n.ring
         n.simulationData.y = Math.sin(n.angle) * n.ring
@@ -1688,6 +1701,39 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
 
   const resetButton = controlsEl?.querySelector(".graph-controls-reset") as HTMLButtonElement | null
 
+  // A picture of the graph as it stands, for a slide or a note. The renderer is asked for
+  // the pixels rather than the canvas element: with webgl the drawing buffer is not kept
+  // around after a frame, so reading the element straight off gives an empty image.
+  const shotButton = graph
+    .closest(".expanded-graph-outer")
+    ?.querySelector(".graph-shot") as HTMLButtonElement | null
+
+  async function saveGraphImage() {
+    try {
+      // The graph is drawn on a transparent background, which a PNG keeps and most viewers
+      // show as black. Paint the page colour underneath first, so the image looks like what
+      // was on screen.
+      const rendered = app.renderer.extract.canvas({ target: stage }) as unknown as HTMLCanvasElement
+      const out = document.createElement("canvas")
+      out.width = rendered.width
+      out.height = rendered.height
+      const ctx = out.getContext("2d")
+      if (!ctx) return
+      ctx.fillStyle = computedStyleMap["--light"]
+      ctx.fillRect(0, 0, out.width, out.height)
+      ctx.drawImage(rendered, 0, 0)
+
+      const link = document.createElement("a")
+      link.href = out.toDataURL("image/png")
+      link.download = `${data.get(slug)?.title ?? "graph"} — graph.png`
+      link.click()
+    } catch (_) {
+      // nothing to be done for the reader here; the graph itself is unaffected
+    }
+  }
+
+  shotButton?.addEventListener("click", saveGraphImage)
+
   readStoredControls()
   if (controlsEl) {
     syncControlInputs()
@@ -1703,6 +1749,7 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     backlinksToggleEl?.removeEventListener("toggle", applyToggles)
     controlsEl?.removeEventListener("input", onControlInput)
     resetButton?.removeEventListener("click", onControlReset)
+    shotButton?.removeEventListener("click", saveGraphImage)
     app.destroy()
   }
 }
@@ -1852,6 +1899,12 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
     const anyOpen = expandedContainers.some((container) => container.classList.contains("active"))
     anyOpen ? hideExpandedGraph() : void renderExpandedGraph()
   }
+
+  const closeButtons = document.getElementsByClassName("graph-close")
+  Array.from(closeButtons).forEach((button) => {
+    button.addEventListener("click", hideExpandedGraph)
+    window.addCleanup(() => button.removeEventListener("click", hideExpandedGraph))
+  })
 
   const expandIcons = document.getElementsByClassName("expand-graph-icon")
   Array.from(expandIcons).forEach((icon) => {

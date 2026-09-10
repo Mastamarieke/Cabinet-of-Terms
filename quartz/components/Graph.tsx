@@ -143,6 +143,21 @@ export default ((opts?: Partial<GraphOptions>) => {
             <button type="button" class="graph-controls-reset">Reset</button>
           </div>
           <div class="graph-legend"></div>
+          <div class="graph-overlay-actions">
+            <button type="button" class="graph-shot" aria-label="Save this graph as an image">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"
+                stroke-linecap="round" stroke-linejoin="round">
+                <path d="M4 8h3l1.5-2h7L17 8h3v11H4z" />
+                <circle cx="12" cy="13" r="3.4" />
+              </svg>
+            </button>
+            <button type="button" class="graph-close" aria-label="Close this graph">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"
+                stroke-linecap="round">
+                <path d="M6 6l12 12M18 6L6 18" />
+              </svg>
+            </button>
+          </div>
         </div>
         <div class="global-graph-outer">
           <div class="global-graph-container" data-cfg={JSON.stringify(globalGraph)}></div>
