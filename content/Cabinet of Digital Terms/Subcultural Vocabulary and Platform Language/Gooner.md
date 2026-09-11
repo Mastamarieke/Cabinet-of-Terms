@@ -17,6 +17,10 @@ related_consequence:
 related_reaction:
   - AI Literacy
   - JOMO
+semantic_landscape: |
+  **Gooner** sits at the edge of **Subcultural Vocabulary and Platform Language**, where a clinical state acquires a word and the word becomes an identity. The graph shows the compulsion from three sides — **Dopamine Feedback Loops** as its mechanism, **Brain Rot** as its effect, **Attention Economy** as the industry that keeps asking for it — with **Looksmaxxing** as a way in: the same fixation with another object.
+
+  The exits are thin. **JOMO** and **AI Literacy** are the only reaction nodes, and both ask the reader to step outside a state this term describes as dissociated. What the graph cannot show is that the word exists because it is funny, and that the irony is what makes the state comfortable to stay in.
 ---
 
 ***Compulsive fixation as public vocabulary. A private behaviour named, shared, and made into identity.***

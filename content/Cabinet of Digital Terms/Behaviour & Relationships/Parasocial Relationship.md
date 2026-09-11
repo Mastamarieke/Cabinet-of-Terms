@@ -19,6 +19,10 @@ related_consequence:
 related_reaction:
   - AI Literacy
   - Digital Detox
+semantic_landscape: |
+  **Parasocial Relationship** sits in **Behaviour & Relationships** as a consequence that behaves like a cause: most terms around it describe what the bond makes possible rather than what makes the bond. The revealing direction is inward — **Catfishing**, **Kidfluencer**, **Family Vlogging** and **Podcast-bro** each argue this term from their own side, as deception, as a child's audience, as a business, as a persona — while the entry itself points outward to the machinery: **Recommender Systems**, **Dopamine Feedback Loops**, **Creator Economy**.
+
+  What the graph cannot show is the asymmetry inside the bond itself: every line here runs both ways, and the relation it describes does not.
 ---
 
 ***The child talks about the YouTuber as if they know them. They feel they do. The YouTuber does not know the child exists.***
