@@ -208,6 +208,11 @@
 
   // Same on a phone: no sliders, the map slightly smaller, the buttons where the thumb is.
   @media all and (max-width: 720px) {
+    &.active {
+      background: var(--light);
+      backdrop-filter: none;
+    }
+
     .vault-map-stage {
       width: 94vw;
       height: 64vh;

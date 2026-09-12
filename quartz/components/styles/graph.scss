@@ -378,6 +378,13 @@
   // on a narrow one, so here the sliders go, the drawing gives up its lowest stretch, and
   // the legend lies in that stretch as a single wrapped row under the picture.
   @media all and (max-width: 720px) {
+    // Opaque rather than blurred behind the loupe: with the drawing made shorter, the
+    // page's own small graph showed through under the legend as a second picture.
+    & > .expanded-graph-outer {
+      background: var(--light);
+      backdrop-filter: none;
+    }
+
     & > .expanded-graph-outer > .expanded-graph-container {
       width: 94vw;
       height: 60vh;
