@@ -2,7 +2,7 @@
 title: "Beauty, Influencers & Self-Image"
 ---
 
-***The filter makes your skin smoother, your eyes larger, your nose smaller. It takes one second. The comparison it produces lasts longer.***
+***The filter makes your skin smoother, your eyes larger, your nose smaller. It takes one second to believe in your filtered self.***
 
 This cluster maps the platform economy of appearance — how body norms are distributed as aspiration content, how comparison becomes ambient, and what happens at the clinical end of that process.
 

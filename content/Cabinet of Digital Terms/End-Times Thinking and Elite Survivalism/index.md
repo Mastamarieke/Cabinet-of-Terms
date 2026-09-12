@@ -2,7 +2,7 @@
 title: "End-Times Thinking and Elite Survivalism"
 ---
 
-***The world is ending. Only I can navigate what comes next. Therefore, what I accumulate is not for me — it is for everyone.***
+***The people preaching the end of the world are the ones buying and owning most of it.***
 
 This cluster maps ideologies that take civilisational collapse as given and build a power or identity project on top of it. The apocalypse as premise. The bunker as conclusion.
 

@@ -2,7 +2,7 @@
 title: "AI-Specific Terms"
 ---
 
-***AI systems produce convincing text, agree with whatever you say, and gradually make certain skills feel unnecessary. None of this is accidental.***
+***AI systems produce convincing text, agree with whatever you say, and gradually make certain skills feel unnecessary.***
 
 This cluster maps the vocabulary you need to understand not just what these systems can do, but what they quietly do to the people who use them.
 
