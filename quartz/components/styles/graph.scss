@@ -374,6 +374,49 @@
     }
   }
 
+  // A phone. The loupe's panels sit beside the drawing on a wide screen and on top of it
+  // on a narrow one, so here the sliders go, the drawing gives up its lowest stretch, and
+  // the legend lies in that stretch as a single wrapped row under the picture.
+  @media all and (max-width: 720px) {
+    & > .expanded-graph-outer > .expanded-graph-container {
+      width: 94vw;
+      height: 60vh;
+      top: 42%;
+    }
+
+    .graph-controls {
+      display: none;
+    }
+
+    .graph-legend {
+      top: auto;
+      bottom: 6vh;
+      left: 3vw;
+      right: 3vw;
+      width: auto;
+      transform: none;
+      flex-direction: row;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 0.25em 0.9em;
+
+      hr {
+        display: none;
+      }
+
+      small.stamp {
+        width: 100%;
+        text-align: center;
+        margin-top: 0.2em;
+      }
+    }
+
+    .graph-overlay-actions {
+      top: calc(12vh + 0.5rem);
+      left: calc(3vw + 0.5rem);
+    }
+  }
+
   & > .global-graph-outer {
     position: fixed;
     z-index: 9999;

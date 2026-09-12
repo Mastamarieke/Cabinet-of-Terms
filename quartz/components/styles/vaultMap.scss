@@ -206,6 +206,29 @@
     }
   }
 
+  // Same on a phone: no sliders, the map slightly smaller, the buttons where the thumb is.
+  @media all and (max-width: 720px) {
+    .vault-map-stage {
+      width: 94vw;
+      height: 64vh;
+      top: 46%;
+
+      .vault-map {
+        width: min(94vw, 64vh);
+        height: min(94vw, 64vh);
+      }
+    }
+
+    .vault-map-controls {
+      display: none;
+    }
+
+    .vault-map-actions {
+      top: calc(14vh + 0.5rem);
+      right: calc(3vw + 0.5rem);
+    }
+  }
+
   .vault-map-hint {
     position: fixed;
     bottom: calc(10vh + 0.7rem);
