@@ -130,6 +130,9 @@ button.desktop-explorer {
       color: var(--cluster-color, var(--dark));
       opacity: 0.75;
       pointer-events: all;
+      display: inline-block;
+      line-height: 1.2;
+      padding: 0.2rem 0;
 
       &.active {
         opacity: 1;
@@ -171,7 +174,8 @@ button.desktop-explorer {
     font-family: var(--headerFont);
     font-size: 0.95rem;
     font-weight: $semiBoldWeight;
-    line-height: 1.5rem;
+    line-height: 1.2;
+    padding: 0.2rem 0;
     display: inline-block;
   }
 
@@ -197,7 +201,8 @@ button.desktop-explorer {
       color: var(--cluster-color, var(--secondary));
       font-weight: $semiBoldWeight;
       margin: 0;
-      line-height: 1.5rem;
+      line-height: 1.2;
+      padding: 0.2rem 0;
       pointer-events: none;
     }
   }

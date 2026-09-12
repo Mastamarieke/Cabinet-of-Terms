@@ -243,6 +243,21 @@ article p small {
   text-align: center;
 }
 
+.site-update {
+  border: 1px solid var(--lightgray);
+  border-radius: 8px;
+  padding: 0.6em 1em;
+  margin: 0.25em 0 1.5em;
+  font-size: 0.82em;
+  font-weight: 400;
+  line-height: 1.6;
+  color: var(--darkgray);
+  text-align: left;
+
+  p { margin: 0; }
+  p + p { margin-top: 0.4em; }
+}
+
 .callout[data-callout="abstract"] {
   border: 1px solid var(--lightgray);
   border-radius: 8px;

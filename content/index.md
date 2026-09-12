@@ -2,7 +2,14 @@
 title: Cabinet of Digital Terms
 ---
 
-# Cabinet of Digital Terms
+<div class="site-update">
+
+**12 September 2026: the graphs have been redrawn.**
+
+Every entry's graph now puts the term in the middle, with its neighbours on a ring grouped by cluster, its sources marked as books, and a legend that filters the picture. A map of all twenty clusters and every link between them sits on [[Cabinet of Digital Terms|All Clusters]]. [[Reading the graph]] explains how to read both. The point is the landscape: you can now see at a glance which cluster a term belongs to, which clusters it sits between, what it rests on, and what points at it.
+
+</div>
+
 ## Welcome to the Cabinet of Digital Terms: a vibrant knowledge bank for the curious mind. 
 
 ---
@@ -10,12 +17,6 @@ title: Cabinet of Digital Terms
 > *Capturing moving language. Every word here is a node in a power structure. Not a definition — a map.*
 
 ---
-
-*For information about this project, its method, and its terms of use, see [[Disclaimer of the Cabinet of Digital Terms]].*
-
----
-
-Welcome to the Cabinet of Digital Terms: a vibrant knowledge bank for the curious mind.
 
 ## What this is
 
@@ -139,8 +140,6 @@ The Cabinet of Terms is part of a larger project. **Project Digitale Alertheid**
 **By term** - use the search to find a specific word. Every entry connects to related terms across clusters.
 
 **By connection** - open the graph view to see which terms are most central, which clusters are most connected, and where the unexpected bridges are. The most connected terms in this vault — [[Surveillance Capitalism]], [[Recommender Systems]], [[Cognitive Surrender]], [[AI Literacy]] — describe the infrastructure everything else runs on.
-
-**12 September 2026 — the graphs have been redrawn.** Every entry's graph now puts the term in the middle, with its neighbours on a ring grouped by cluster, its sources marked as books, and a legend that filters the picture. A map of all twenty clusters and every link between them sits on [[Cabinet of Digital Terms|All Clusters]]. [[Reading the graph]] explains how to read both. The point is the landscape: you can now see at a glance which cluster a term belongs to, which clusters it sits between, what it rests on, and what points at it.
 
 ---
 
@@ -609,3 +608,6 @@ Executives speak in public. Sometimes they reveal more than they intended. This 
 
 </details>
 
+---
+
+*For information about this project, its method, and its terms of use, see [[Disclaimer of the Cabinet of Digital Terms]].*

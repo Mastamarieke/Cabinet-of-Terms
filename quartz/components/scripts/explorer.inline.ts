@@ -231,13 +231,19 @@ async function setupExplorer(currentSlug: FullSlug) {
     }
 
     // Get folder paths for state management
+    // Folders that start open on every page load, so a first visitor sees that the
+    // clusters unfold: the vault itself and one example cluster.
+    const openByDefault = new Set<string>([
+      "Cabinet-of-Digital-Terms",
+      "Cabinet-of-Digital-Terms/Beauty,-Influencers--and--Self-Image",
+    ])
     const folderPaths = trie.getFolderPaths()
     currentExplorerState = folderPaths.map((path) => {
       const previousState = oldIndex.get(path)
+      const defaultCollapsed = openByDefault.has(path) ? false : opts.folderDefaultState === "collapsed"
       return {
         path,
-        collapsed:
-          previousState === undefined ? opts.folderDefaultState === "collapsed" : previousState,
+        collapsed: previousState === undefined ? defaultCollapsed : previousState,
       }
     })
 
