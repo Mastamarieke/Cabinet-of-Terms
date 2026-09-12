@@ -5,17 +5,6 @@ analytical_layer: reaction
 status: publieksversie
 version: V3
 analysis_version: pending
-related_cause:
-  - Content Moderator
-  - Recommender Systems
-related_mechanism:
-  - Content Moderator
-  - Ragebaiting
-related_consequence:
-  - Brain Rot
-  - Deplatforming
-related_reaction:
-  - AI Literacy
 ---
 
 ***People write "unalive" instead of "die" — not to be clever, but because the algorithm removes the real words.***
@@ -28,7 +17,7 @@ related_reaction:
 
 **The Appeal:** **Algospeak** enables communication about suppressed topics — mental health, LGBTQ+ identity, sexuality, political content — in contexts where direct expression is prevented. For marginalised communities in particular, it preserves access to platforms they depend on: "unalive" allows discussion of suicidality without triggering suppression of crisis support content itself. It creates community through shared code: knowing the substitution signals membership. It is also creative: the language is playful, inventive, and evolves faster than moderation can follow.
 
-**The Friction:** **Algospeak** reveals what the algorithm suppresses, and the suppression is not neutral. [[Content Moderator]] decisions — and the training data of automated systems — determine which topics require circumvention. LGBTQ+ vocabulary, disability language, and discussion of mental health are documented to require more **algospeak** than, say, financial or political content, revealing whose speech the moderation architecture treats as risky. The euphemism has a cost of its own: mental health crisis language and harm reduction information, once coded, become harder to find for the people who need them and harder to study for the researchers who track them. [[Recommender Systems]] shape the conditions: demotion rather than removal is often the mechanism, so creators code their language to avoid the penalty without triggering outright removal. The code also fails: when moderation catches up with a substitution, the community must invent another — an ongoing linguistic arms race that ends, for some, in [[Deplatforming]] anyway.
+**The Friction:** **Algospeak** reveals what the algorithm suppresses, and the suppression is not neutral. [[Content Moderator]] decisions — and the training data of automated systems — determine which topics require circumvention. LGBTQ+ vocabulary, disability language, and discussion of mental health are documented to require more **algospeak** than, say, financial or political content, revealing whose speech the moderation architecture treats as risky. The euphemism has a cost of its own: mental health crisis language and harm reduction information, once coded, become harder to find for the people who need them and harder to study for the researchers who track them. [[Recommender Systems]] shape the conditions: demotion rather than removal is often the mechanism, so creators code their language to avoid the penalty without triggering outright removal. The code also fails: when moderation catches up with a substitution, the community must invent another — an ongoing linguistic arms race that ends, for some, in [[Deplatforming]] anyway. [[AI Literacy]] is what the vocabulary amounts to in practice: a working model of the classifier, built collectively from what it punishes rather than from anything the platform discloses. That is also the limit of it, because a model inferred only from effects is always one moderation update behind.
 
 **Why This Matters:** **Algospeak** is a living record of what platforms suppress. Once you can read it, the vocabulary in use on a platform is also evidence about the architecture's values — a map of what kinds of speech it treats as normal, and what it pushes to the margins.
 

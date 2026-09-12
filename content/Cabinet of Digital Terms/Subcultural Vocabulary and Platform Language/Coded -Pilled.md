@@ -5,17 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V1
 analysis_version: pending
-related_cause:
-  - Red Pill
-  - Manosphere
-related_mechanism:
-  - Red Pill
-  - Algospeak
-related_consequence:
-  - Red Pill
-  - Echo Chamber
-related_reaction:
-  - AI Literacy
 ---
 
 ***Red-coded. Autism-coded. NATO-pilled. The suffix converts a noun into an identity verdict.***
@@ -32,7 +21,7 @@ related_reaction:
 
 **Why This Matters:** -Coded and -pilled make visible how morphology carries ideology. Once you see the suffix as a structure — not just a word — you can ask: what conversion narrative does "-pilled" import, even when the topic seems trivial? And what identity attribution does "-coded" make, and on whose authority?
 
-**Related terms:** [[Red Pill]] · [[Algospeak]] · [[Manosphere]] · [[Echo Chamber]] · [[Ratio'd]] · [[AI Literacy]]
+**Related terms:** [[Red Pill]] · [[Algospeak]] · [[Manosphere]] · [[Echo Chamber]] · [[Ratio'd]]
 
 
 ---

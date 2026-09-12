@@ -5,18 +5,6 @@ analytical_layer: consequence
 status: publieksversie
 version: V1
 analysis_version: pending
-related_cause:
-  - Ragebaiting
-  - Attention Economy
-related_mechanism:
-  - Ragebaiting
-  - Main Character Energy
-related_consequence:
-  - Ratio'd
-  - Deplatforming
-related_reaction:
-  - JOMO
-  - AI Literacy
 ---
 
 ***She lost it publicly. Everyone watched. Some recorded.***
@@ -33,7 +21,7 @@ related_reaction:
 
 **Why This Matters:** **Crash-out** makes visible how emotional states become content in the **attention economy**. Once you see the content/event ambiguity, "I can't believe they actually did that" is a response that is also part of the distribution mechanism.
 
-**Related terms:** [[Ragebaiting]] · [[Main Character Energy]] · [[Ratio'd]] · [[Attention Economy]] · [[Aurafarming]] · [[AI Literacy]] · [[Deplatforming]] · [[JOMO]]
+**Related terms:** [[Ragebaiting]] · [[Main Character Energy]] · [[Ratio'd]] · [[Attention Economy]] · [[Aurafarming]] · [[Deplatforming]] · [[JOMO]]
 
 
 ---

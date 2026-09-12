@@ -5,18 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V1
 analysis_version: pending
-related_cause:
-  - Gamification Creep
-  - SMV (Sexual Market Value)
-related_mechanism:
-  - Aurafarming
-  - Looksmaxxing
-related_consequence:
-  - Comparison Culture
-  - Looksmaxxing
-related_reaction:
-  - AI Literacy
-  - Situated Knowledge
 ---
 
 ***Ranking everything — characters, fast food, people — on a scale from S to F. Game logic applied to the world.***
@@ -33,7 +21,7 @@ related_reaction:
 
 **Why This Matters:** Tierlist / S-Tier makes visible how game formats carry game assumptions into non-game territory. Once you see the format as imported rather than natural, you can ask: what assumptions about measurability and comparability does this ranking format bring with it — and are those assumptions appropriate to this subject?
 
-**Related terms:** [[Gamification Creep]] · [[Aurafarming]] · [[Looksmaxxing]] · [[Comparison Culture]] · [[SMV (Sexual Market Value)]] · [[AI Literacy]] · [[Situated Knowledge]]
+**Related terms:** [[Gamification Creep]] · [[Aurafarming]] · [[Looksmaxxing]] · [[Comparison Culture]] · [[SMV (Sexual Market Value)]] · [[Situated Knowledge]]
 
 
 ---

@@ -5,18 +5,6 @@ analytical_layer: cause
 status: publieksversie
 version: V1
 analysis_version: pending
-related_cause:
-  - Surveillance Capitalism
-  - Informatics of Domination
-related_mechanism:
-  - Data Brokers
-  - Algorithmic Violence
-related_consequence:
-  - Algorithmic Violence
-  - Privacy as a Premium
-related_reaction:
-  - Situated Knowledge
-  - AI Literacy
 ---
 
 ***The ideology that data always outweighs human judgement. And that more data is always better.***
@@ -29,7 +17,7 @@ related_reaction:
 
 **The Appeal:** **Dataism** rests on real insights. Data-driven decisions can reduce human cognitive bias. Large-scale data analysis reveals patterns that qualitative approaches miss. More information is, in many contexts, better than less. The assumption is not irrational — it is incomplete.
 
-**The Friction:** The ideology conceals the political dimensions of what gets measured. Which variables are included in a dataset? Whose experiences are easiest to quantify? Which outcomes get optimised for? [[Informatics of Domination]] — Haraway's 1985 framework — shows precisely this: data systems encode existing hierarchies while claiming neutrality. [[Algorithmic Violence]] is the result: systems trained on historically biased data reproduce that bias at scale, while projecting an appearance of objectivity. [[Data Brokers]] are the commercial infrastructure that operationalises **dataism**. [[Situated Knowledge]] is the epistemological corrective: all knowledge, including data, is produced from a position.
+**The Friction:** The ideology conceals the political dimensions of what gets measured. Which variables are included in a dataset? Whose experiences are easiest to quantify? Which outcomes get optimised for? [[Informatics of Domination]] — Haraway's 1985 framework — shows precisely this: data systems encode existing hierarchies while claiming neutrality. [[Algorithmic Violence]] is the result: systems trained on historically biased data reproduce that bias at scale, while projecting an appearance of objectivity. [[Data Brokers]] are the commercial infrastructure that operationalises **dataism**. [[Situated Knowledge]] is the epistemological corrective: all knowledge, including data, is produced from a position. [[AI Literacy]] is that same correction at the scale of a single user: knowing that a model's output is produced rather than found is what keeps an answer from being read as a measurement.
 
 **Why This Matters:** **Dataism** names the ideology that renders data collection and use invisible as political choices. Once you can identify the ideology, you can ask the questions it obscures: what data is collected, by whom, for whose benefit, and what goes unmeasured?
 

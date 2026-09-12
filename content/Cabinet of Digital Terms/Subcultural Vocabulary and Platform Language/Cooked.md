@@ -5,17 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V1
 analysis_version: pending
-related_cause:
-  - Ragebaiting
-  - Flood the Zone
-related_mechanism:
-  - Ratio'd
-  - Deplatforming
-related_consequence:
-  - Doomerism
-  - Ratio'd
-related_reaction:
-  - AI Literacy
 ---
 
 ***One word. Absolute certainty. No appeal.***
@@ -32,7 +21,7 @@ related_reaction:
 
 **Why This Matters:** **Cooked** makes visible how one-word verdicts function in internet discourse. Once you see the finality as a rhetorical choice — not a fact — you can ask: by whose criteria, and is the reversibility actually as fixed as the word implies?
 
-**Related terms:** [[Ratio'd]] · [[Doomerism]] · [[Ragebaiting]] · [[Crash-out]] · [[AI Literacy]] · [[Deplatforming]] · [[Flood the Zone]]
+**Related terms:** [[Ratio'd]] · [[Doomerism]] · [[Ragebaiting]] · [[Crash-out]] · [[Deplatforming]] · [[Flood the Zone]]
 
 
 ---

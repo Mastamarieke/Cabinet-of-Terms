@@ -5,22 +5,10 @@ analytical_layer: mechanism
 status: publieksversie
 version: V1
 analysis_version: pending
-related_cause:
-  - Dopamine Feedback Loops
-  - Attention Economy
-related_mechanism:
-  - Looksmaxxing
-  - Gaming Disorder
-related_consequence:
-  - Gaming Disorder
-  - Cognitive Surrender
-related_reaction:
-  - AI Literacy
-  - JOMO
 semantic_landscape: |
-  **Gooner** sits at the edge of **Subcultural Vocabulary and Platform Language**, where a clinical state acquires a word and the word becomes an identity. The graph shows the compulsion from three sides — **Dopamine Feedback Loops** as its mechanism, **Brain Rot** as its effect, **Attention Economy** as the industry that keeps asking for it — with **Looksmaxxing** as a way in: the same fixation with another object.
+  **Gooner** sits at the edge of **Subcultural Vocabulary and Platform Language**, where a clinical state acquires a word and the word becomes an identity. The graph shows the compulsion from three sides — **Dopamine Feedback Loops** as its mechanism, **Brain Rot** as its effect, **Attention Economy** as the industry that keeps asking for it — with **Looksmaxxing** upstream: the same compulsive loop aimed at one's own body, which can end up here once optimising stops paying out.
 
-  The exits are thin. **JOMO** and **AI Literacy** are the only reaction nodes, and both ask the reader to step outside a state this term describes as dissociated. What the graph cannot show is that the word exists because it is funny, and that the irony is what makes the state comfortable to stay in.
+  The exit is thin. **JOMO** is the only reaction node, and what it offers is a deliberate choice to miss something. This term describes the state in which choosing is the thing that has been suspended. What the graph cannot show is that the word exists because it is funny, and that the irony is what makes the state comfortable to stay in.
 ---
 
 ***Compulsive fixation as public vocabulary. A private behaviour named, shared, and made into identity.***
@@ -37,7 +25,7 @@ semantic_landscape: |
 
 **Why This Matters:** **Gooner** makes visible how a clinical phenomenon (compulsive dissociated consumption) can be named, shared, and made into identity — and how irony is the mechanism that enables the transition from pathology to subcultural vocabulary.
 
-**Related terms:** [[Dopamine Feedback Loops]] · [[Gaming Disorder]] · [[Cognitive Surrender]] · [[Crash-out]] · [[Brain Rot]] · [[AI Literacy]] · [[Attention Economy]] · [[JOMO]] · [[Looksmaxxing]]
+**Related terms:** [[Dopamine Feedback Loops]] · [[Gaming Disorder]] · [[Cognitive Surrender]] · [[Crash-out]] · [[Brain Rot]] · [[Attention Economy]] · [[JOMO]] · [[Looksmaxxing]]
 
 
 ---
