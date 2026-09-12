@@ -200,19 +200,35 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
   // Only this entry's own literature. A source that belongs to a neighbour — Virtual
   // Influencer's secondary sources, say — reached the graph because the neighbour is one
   // hop away, and then sat here as if it supported the term being read. It does not.
+  const centreIsLit = (data.get(slug)?.tags ?? []).includes("source") || isSourcesFolderPage(slug)
   for (const id of [...neighbourhood]) {
     if (id === slug) continue
     const isSource = (data.get(id)?.tags ?? []).includes("source") || isSourcesFolderPage(id)
     if (!isSource) continue
+    // The Sources overview is a table of contents, not literature: on a term page the two
+    // primaries and the bundle already say everything it would, so it stays off the graph
+    // there. On its own page and on a source file's page it remains a neighbour.
+    if (isSourcesFolderPage(id) && !centreIsLit) {
+      neighbourhood.delete(id)
+      continue
+    }
     // Living in the entry's own folder is the test, not being linked to it: a source file
     // lists the entries it covers, so "Secondary Sources — Virtual Influencer" links here
     // and passed a link-based check while belonging to another term entirely.
-    const livesHere = id.startsWith(`${slug}/`)
+    // A folder entry's slug ends in a slash ("…/Incel/"), a flat entry's does not; without
+    // the trim the test looked for "…/Incel//" and threw the entry's own literature away.
+    const livesHere = id.startsWith(`${slug.replace(/\/$/, "")}/`)
     if (!livesHere) neighbourhood.delete(id)
   }
 
   const nodes = [...neighbourhood].map((url) => {
-    const title = url.startsWith("tags/") ? "#" + url.substring(5) : (data.get(url)?.title ?? url)
+    let title = url.startsWith("tags/") ? "#" + url.substring(5) : (data.get(url)?.title ?? url)
+    // On the entry's own page its bundle is just "Secondary Sources": the " — Term" suffix
+    // says nothing here, and as the longest name on the ring it was setting where the rim
+    // sits for the whole picture.
+    if (url !== slug && (data.get(url)?.tags ?? []).includes("secondary")) {
+      title = title.replace(/\s+[—–-]\s+.*$/, "")
+    }
     const text = isClusterIndex(url) ? title.toUpperCase() : title
     return {
       id: url,
@@ -229,12 +245,6 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
         target: nodes.find((n) => n.id === l.target)!,
       })),
   }
-
-  // Brussels Effect has sixty neighbours where most terms have fifteen. Past a certain
-  // number the same picture stops working: the marks become a swarm, the chords a mesh, and
-  // one ring cannot give sixty names room to be read. So above the threshold the drawing
-  // gives things up in order of what it can most afford to lose.
-  const manyNeighbours = graphData.nodes.length > 28
 
   const width = graph.offsetWidth
   const height = Math.max(graph.offsetHeight, 250)
@@ -393,6 +403,53 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
 
   let hoveredNodeId: string | null = null
   let hoveredNeighbours: Set<string> = new Set()
+
+  // Pointing at a cluster — its name on the rim, or its row in the legend — lights up its
+  // terms on the ring and the lines to them, and fades the rest. Pointing at a term does the
+  // reverse in the draw loop: its cluster's name and arc come forward.
+  let hoveredCluster: string | null = null
+  // One mechanism for every row of the legend: keep what the row names, fade the rest.
+  function setFocus(
+    keepNode: ((n: NodeRenderData) => boolean) | null,
+    keepLink: ((l: LinkRenderData) => boolean) | null,
+  ) {
+    for (const n of nodeRenderData) {
+      if (n.simulationData.id === slug) continue
+      const dim = keepNode !== null && !keepNode(n)
+      n.gfx.alpha = dim ? 0.3 : 1
+      if (n.label) n.label.alpha = dim ? 0.3 : 1
+    }
+    for (const l of linkRenderData) {
+      l.active = keepLink !== null && keepLink(l)
+    }
+  }
+  const endsOf = (l: LinkRenderData) => [
+    (l.simulationData.source as NodeData).id,
+    (l.simulationData.target as NodeData).id,
+  ]
+  function setHoveredCluster(segment: string | null) {
+    hoveredCluster = segment
+    setFocus(
+      segment === null ? null : (n) => clusterOf(n.simulationData.id) === segment,
+      segment === null ? null : (l) => endsOf(l).some((id) => clusterOf(id) === segment),
+    )
+  }
+  // A relation row (related term, backlink, cluster page) keeps the lines of that kind and
+  // the terms at their far end.
+  function setHoveredRelation(kind: string | null) {
+    if (kind === null) return setFocus(null, null)
+    const far = new Set<string>()
+    for (const l of linkRenderData) {
+      if (l.relation !== kind) continue
+      for (const id of endsOf(l)) if (id !== slug) far.add(id)
+    }
+    setFocus((n) => far.has(n.simulationData.id), (l) => l.relation === kind)
+  }
+  // A literature row keeps the books of that kind.
+  function setHoveredLiterature(mark: string | null) {
+    if (mark === null) return setFocus(null, null)
+    setFocus((n) => literatureMark(n.simulationData, n.simulationData.id) === mark, () => false)
+  }
   const linkRenderData: LinkRenderData[] = []
   const nodeRenderData: NodeRenderData[] = []
   function updateHoverInfo(newHoveredId: string | null) {
@@ -574,10 +631,16 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     const nodeId = n.id
 
     const label = new Text({
-      interactive: false,
-      eventMode: "none",
+      // The name is the target you actually aim at: a node drawn at 0.65 size is a dot of
+      // four pixels, and the label beside it is twenty times the area.
+      interactive: true,
+      eventMode: "static",
+      cursor: "pointer",
       // The book says this is literature before the name is read; the dotted tie says whose.
-      text: n.tags.includes("source") || isSourcesFolderPage(nodeId) ? `📖 ${n.text}` : n.text,
+      // Which book says which kind: the protocol allows two primary sources per entry and
+      // bundles the rest, and that difference should be countable in the picture.
+      // Literature carries its mark on the node itself (below), so the name stays a name.
+      text: n.text,
       alpha: labelsAlwaysVisible ? 1 : 0,
       anchor: { x: 0.5, y: 1.2 },
       style: {
@@ -603,11 +666,28 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
       interactive: true,
       label: nodeId,
       eventMode: "static",
-      hitArea: new Circle(0, 0, nodeRadius(n) + 2),
+      hitArea: new Circle(0, 0, Math.max(nodeRadius(n) + 2, 9)),
       cursor: "pointer",
     })
 
-    if (isSourceNode) {
+    const mark = literatureMark(n, nodeId)
+    if (mark) {
+      // The mark is the node. A book where a dot would be says "literature" before the
+      // name is read, and it stays put whichever way the label runs along its spoke —
+      // a mark inside the label flipped sides on the left half of the ring.
+      const icon = new Text({
+        interactive: false,
+        eventMode: "none",
+        text: mark,
+        anchor: { x: 0.5, y: 0.5 },
+        style: { fontSize: Math.max(nodeRadius(n) * 3.2, 11) },
+        resolution: window.devicePixelRatio * 2,
+      })
+      gfx.addChild(icon)
+      if (nodeId === slug) {
+        gfx.circle(0, 0, nodeRadius(n) + 6).fill({ color: 0x000000, alpha: 0 })
+      }
+    } else if (isSourceNode) {
       // Ring: transparent fill + colored stroke
       gfx.circle(0, 0, nodeRadius(n) + 1)
         .fill({ color: 0x000000, alpha: 0 })
@@ -641,6 +721,23 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
       gfx.stroke({ width: 3, color: "#FF6B00" })
     }
 
+    label
+      .on("pointerover", () => {
+        updateHoverInfo(nodeId)
+        if (!dragging) renderPixiFromD3()
+      })
+      .on("pointerleave", () => {
+        updateHoverInfo(null)
+        if (!dragging) renderPixiFromD3()
+      })
+      .on("pointertap", () => {
+        window.spaNavigate(new URL(resolveRelative(fullSlug, nodeId), window.location.toString()))
+      })
+
+    gfx.on("pointertap", () => {
+      window.spaNavigate(new URL(resolveRelative(fullSlug, nodeId), window.location.toString()))
+    })
+
     nodesContainer.addChild(gfx)
     labelsContainer.addChild(label)
 
@@ -659,9 +756,18 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
   // What kind of relation a line stands for. The vault distinguishes these anyway — a
   // source file is not a sibling term, and a link you made is not a link someone made to
   // you — but until now the graph drew all four the same way.
+  // On a term page, a line to a source file is literature hanging off the entry, and it gets
+  // the dotted tie. On a source page the page itself is the literature, so that rule would
+  // turn every line out of the middle into "source" and draw none of them: the entries
+  // this source serves floated on the ring with no line back. There, the ordinary readings
+  // apply — the entries are what this page is related to.
+  const centreIsLiterature = (() => {
+    const centre = graphData.nodes.find((n) => n.id === slug)
+    return !!centre && (centre.tags.includes("source") || isSourcesFolderPage(centre.id))
+  })()
   function linkRelation(src: NodeData, tgt: NodeData): string {
     const isLiterature = (n: NodeData) => n.tags.includes("source") || isSourcesFolderPage(n.id)
-    if (isLiterature(src) || isLiterature(tgt)) return "source"
+    if (!centreIsLiterature && (isLiterature(src) || isLiterature(tgt))) return "source"
     if (src.id === clusterIndexSlug || tgt.id === clusterIndexSlug) return "cluster"
     if (src.id === slug) return "related term"
     if (tgt.id === slug) return "backlink"
@@ -669,7 +775,9 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
   }
 
   // Only in the loupe: at 250px the lines are too short to carry a mark.
-  const showLinkLabels = !!graph.closest(".expanded-graph-outer") && !manyNeighbours
+  // Also on a crowded entry. They were dropped there while the picture was still a cloud;
+  // with a ring, cluster arcs and spoke labels it can carry them.
+  const showLinkLabels = !!graph.closest(".expanded-graph-outer")
 
   // A mark instead of a word. The arrow does double duty: rotated onto the line it points
   // from the page that links to the page linked, so wikilink, backlink and related term are
@@ -697,6 +805,23 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
   // numerous lines of all.
   const relationGlyph = (relation: string) => relationGlyphs[relation] ?? ""
 
+  // Three kinds of literature, three marks. A closed book for a primary source (the entry
+  // may have two), a stack for the secondary bundle, a folder for the Sources overview.
+  // A function declaration, because the labels are built before this point in the file.
+  function literatureMark(n: NodeData, id: string): string {
+    if (isSourcesFolderPage(id)) return "🗂"
+    if (!n.tags.includes("source")) return ""
+    if (n.tags.includes("primary")) return "📕"
+    if (n.tags.includes("secondary")) return "📚"
+    return "📖"
+  }
+  const literatureMeanings: Record<string, string> = {
+    "📕": "primary source",
+    "📚": "secondary sources",
+    "🗂": "sources overview",
+    "📖": "source",
+  }
+
   const relationMeanings: Record<string, string> = {
     "→": "related term",
     "↪": "backlink",
@@ -709,9 +834,12 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
   // it; curved text is part of it.
   const clusterArcChars = new Map<string, Text[]>()
 
-  // One faint name per cluster, sitting behind its own group of terms.
+  // One faint name per cluster, sitting behind its own group of terms. Not tied to the
+  // relation marks: those are dropped on a crowded entry, and that is exactly where the
+  // cluster names are needed most.
+  const showClusterNames = !!graph.closest(".expanded-graph-outer") && isLocalGraph
   const clusterNameLabels = new Map<string, Text>()
-  if (showLinkLabels && isLocalGraph && orderedClusters.length > 1) {
+  if (showClusterNames && orderedClusters.length > 1) {
     for (const segment of orderedClusters) {
       const nameLabel = new Text({
         interactive: false,
@@ -739,29 +867,77 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
       clusterLabelsContainer.addChild(nameLabel)
       clusterNameLabels.set(segment, nameLabel)
 
+      // The name is a link to the cluster's About page, letter by letter: each glyph is its
+      // own hit target, so clicking anywhere on the name works.
+      const clusterPage = `${slugParts[0]}/${segment}` as SimpleSlug
       const chars = [...clusterTitle(segment)].map((character) => {
         const glyph = new Text({
-          interactive: false,
-          eventMode: "none",
+          interactive: true,
+          eventMode: "static",
+          cursor: "pointer",
           text: character,
-          alpha: 0.45,
+          // Set out at the rim, bold so it reads as a heading over its arc rather than as
+          // one more label among the terms.
+          alpha: 0.7,
           anchor: { x: 0.5, y: 0.5 },
           style: {
-            fontSize: fontSize * 12,
+            fontSize: fontSize * 18,
             fill: clusterColor(`x/${segment}`) ?? computedStyleMap["--gray"],
             fontFamily: "'Barlow Condensed', sans-serif",
-            fontWeight: "400",
+            fontWeight: "700",
+            letterSpacing: 3.5,
+            stroke: { color: computedStyleMap["--light"], width: 3, join: "round" },
           },
           resolution: window.devicePixelRatio * 4,
         })
         glyph.scale.set(1 / scale)
         glyph.visible = false
+        glyph.on("pointertap", () => {
+          window.spaNavigate(new URL(resolveRelative(fullSlug, clusterPage), window.location.toString()))
+        })
+        glyph.on("pointerover", () => setHoveredCluster(segment))
+        glyph.on("pointerout", () => setHoveredCluster(null))
         clusterLabelsContainer.addChild(glyph)
         return glyph
       })
       clusterArcChars.set(segment, chars)
     }
   }
+
+  // The word over the literature's arc. Grey, because literature has no cluster colour;
+  // a link to the Sources overview where the entry has one.
+  const sourcesOverview = `${slug.replace(/\/$/, "")}/Sources/` as SimpleSlug
+  const hasOverview = data.has(sourcesOverview)
+  const sourceChars: Text[] = showClusterNames
+    ? [..."SOURCES"].map((character) => {
+        const glyph = new Text({
+          interactive: hasOverview,
+          eventMode: hasOverview ? "static" : "none",
+          cursor: hasOverview ? "pointer" : "default",
+          text: character,
+          alpha: 0.7,
+          anchor: { x: 0.5, y: 0.5 },
+          style: {
+            fontSize: fontSize * 18,
+            fill: computedStyleMap["--gray"],
+            fontFamily: "'Barlow Condensed', sans-serif",
+            fontWeight: "700",
+            letterSpacing: 3.5,
+            stroke: { color: computedStyleMap["--light"], width: 3, join: "round" },
+          },
+          resolution: window.devicePixelRatio * 4,
+        })
+        glyph.scale.set(1 / scale)
+        glyph.visible = false
+        if (hasOverview) {
+          glyph.on("pointertap", () => {
+            window.spaNavigate(new URL(resolveRelative(fullSlug, sourcesOverview), window.location.toString()))
+          })
+        }
+        clusterLabelsContainer.addChild(glyph)
+        return glyph
+      })
+    : []
 
   for (const l of graphData.links) {
     const gfx = new Graphics({ interactive: false, eventMode: "none" })
@@ -1017,6 +1193,19 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     ?.querySelector(".graph-legend") as HTMLElement | null
 
   if (legendEl) {
+    const literatureRows = Object.entries(literatureMeanings)
+      .filter(([mark]) => graphData.nodes.some((n) => literatureMark(n, n.id) === mark))
+      .map(([mark, meaning]) => {
+        const row = document.createElement("span")
+        row.className = "filter"
+        const glyph = document.createElement("b")
+        glyph.textContent = mark
+        row.append(glyph, document.createTextNode(meaning))
+        row.addEventListener("mouseenter", () => setHoveredLiterature(mark))
+        row.addEventListener("mouseleave", () => setHoveredLiterature(null))
+        return row
+      })
+
     const present = [
       ...new Set(
         graphData.nodes
@@ -1035,22 +1224,36 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
 
     const glyphRows = glyphsUsed.map((glyph) => {
       const row = document.createElement("span")
+      row.className = "filter"
       const mark = document.createElement("b")
       mark.textContent = glyph
-      row.append(mark, document.createTextNode(relationMeanings[glyph] ?? ""))
+      const meaning = relationMeanings[glyph] ?? ""
+      row.append(mark, document.createTextNode(meaning))
+      const kind = meaning === "cluster page" ? "cluster" : meaning
+      row.addEventListener("mouseenter", () => setHoveredRelation(kind))
+      row.addEventListener("mouseleave", () => setHoveredRelation(null))
       return row
     })
 
     const clusterRows = present.map((segment) => {
       const row = document.createElement("span")
+      row.className = "cluster"
       const swatch = document.createElement("i")
       swatch.style.backgroundColor = clusterColor(`x/${segment}`) ?? computedStyleMap["--gray"]
       row.append(swatch, document.createTextNode(clusterTitle(segment)))
+      // The legend is not only a key. Pointing at a row lights the cluster up in the
+      // picture, and clicking it opens the cluster's page, like the name on the rim.
+      row.addEventListener("mouseenter", () => setHoveredCluster(segment))
+      row.addEventListener("mouseleave", () => setHoveredCluster(null))
+      row.addEventListener("click", () => {
+        const clusterPage = `${slugParts[0]}/${segment}` as SimpleSlug
+        window.spaNavigate(new URL(resolveRelative(fullSlug, clusterPage), window.location.toString()))
+      })
       return row
     })
 
     const divider = document.createElement("hr")
-    legendEl.replaceChildren(...glyphRows, divider, ...clusterRows)
+    legendEl.replaceChildren(...glyphRows, ...literatureRows, divider, ...clusterRows)
   }
 
   let labelsNeedPlacing = true
@@ -1066,15 +1269,24 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
       n.gfx.position.set(x + width / 2, y + height / 2)
       if (n.label) {
         if (radialLayout && n.angle !== undefined) {
-          // Straight outwards from the ring, reading away from the centre, so every name
-          // has the sector of its own node to itself.
           const reach = (nodeRadius(n.simulationData) + 9) * (n.inward ? -1 : 1)
-          const facingRight = Math.cos(n.angle) * (n.inward ? -1 : 1) >= 0
+          // The direction the text runs: outward along the spoke, or, for a name that reads
+          // inward, towards the centre. If that direction points left the text would stand
+          // on its head, so it is turned around and anchored at its end instead — it then
+          // still occupies the same stretch of spoke, read the right way up.
+          const heading = n.inward ? n.angle + Math.PI : n.angle
+          const facingRight = Math.cos(heading) >= 0
           n.label.anchor.set(facingRight ? 0 : 1, 0.5)
           n.label.position.set(
             x + Math.cos(n.angle) * reach + width / 2,
             y + Math.sin(n.angle) * reach + height / 2,
           )
+          // The names run along their own spoke, like the spokes of a wheel: each one owns
+          // its own wedge and cannot land on its neighbour. This used to switch on only past
+          // the crowding threshold, with horizontal text kept wherever there was room — but
+          // that made a sparse entry and a busy one into two different pictures, and reading
+          // one is then no preparation for reading the next.
+          n.label.rotation = facingRight ? heading : heading + Math.PI
         } else {
           n.label.position.set(x + width / 2, y + height / 2)
         }
@@ -1087,8 +1299,6 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
       // A source hangs from its term by a dotted tie, drawn below; a second solid line for
       // the same relation would say it twice.
       if (radialLayout && l.relation === "source") continue
-      // The lines between neighbours are the many, and the least about the term being read.
-      if (radialLayout && manyNeighbours && l.relation === "between neighbours") continue
 
       const sx = linkData.source.x! + width / 2
       const sy = linkData.source.y! + height / 2
@@ -1189,27 +1399,153 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
           widest = Math.max(widest, n.label.width)
         }
       }
-      widest = Math.min(widest, (Math.min(width, height) / 2) * 0.34)
+      // The cap keeps one outlier from pushing the rim off the canvas. It is relative to the
+      // ring, not the canvas, so that when the labels are enlarged and the ring is small the
+      // rim still follows the names instead of stopping halfway through them.
+      widest = Math.min(widest, ringRadius * 1.1)
+      // Literature reads outward from the ring like the terms, but its names are longer
+      // than most, so on an entry with sources the rim moves out until the dotted arc —
+      // drawn 52 inside the rim — clears the longest of them.
+      let literatureReach = 0
+      for (const n of nodeRenderData) {
+        if (n.gfx.visible && isLiteratureNode(n) && n.ring !== undefined) {
+          literatureReach = Math.max(literatureReach, n.ring + n.label.width + 14)
+        }
+      }
       const arcRadius = Math.min(
-        ringRadius + widest + 30,
+        Math.max(ringRadius + widest + 30, literatureReach + 52 + 10),
         (Math.min(width, height) / 2) * 0.97,
       )
 
+      // Every cluster that is present gets its arc and its name, however few terms it has
+      // here. A single term with neither reads as unattached, when what it really is is the
+      // one member of its group this entry happens to touch.
+      // The literature closes the circle: a dotted arc over the band, with SOURCES on it
+      // in the same letters as the cluster names. Dotted, because these are not terms.
+      if (sourceArcSpan && sourceChars.length) {
+        const [from, to] = sourceArcSpan
+        const dash = 0.035
+        for (let a = from; a < to; a += dash * 2) {
+          clusterArc
+            .arc(width / 2, height / 2, arcRadius - 52, a, Math.min(a + dash, to))
+            .stroke({ width: 3, alpha: 0.6, color: computedStyleMap["--gray"] })
+        }
+        for (const glyph of sourceChars) glyph.scale.set((1 / scale) * labelSizeFactor)
+        setOnArc(sourceChars, -Math.PI / 2, arcRadius)
+      } else {
+        for (const glyph of sourceChars) glyph.visible = false
+      }
+
+      // Which cluster comes forward: the one pointed at on the rim or in the legend, or the
+      // cluster of the term under the pointer.
+      const focusCluster =
+        hoveredCluster ?? (hoveredNodeId && hoveredNodeId !== slug ? clusterOf(hoveredNodeId) : null)
+      const named: { segment: string; chars: Text[]; angle: number; full: number; members: number }[] = []
       for (const [segment, nameLabel] of clusterNameLabels) {
         nameLabel.visible = false
         const chars = clusterArcChars.get(segment) ?? []
+        for (const glyph of chars) glyph.visible = false
         const angle = clusterArcAngles.get(segment)
+        const span = clusterArcSpans.get(segment)
         const members = nodeRenderData.filter(
           (n) => n.gfx.visible && clusterOf(n.simulationData.id) === segment,
         ).length
+        if (angle === undefined || !span || members === 0) continue
 
-        if (angle === undefined || members === 0) {
-          for (const glyph of chars) glyph.visible = false
-          continue
-        }
+        const [from, to] = span
+        const inFocus = focusCluster === segment
+        clusterArc
+          .arc(width / 2, height / 2, arcRadius - 52, from - 0.02, to + 0.02)
+          .stroke({
+            width: inFocus ? 6 : 3,
+            alpha: focusCluster ? (inFocus ? 0.95 : 0.3) : 0.6,
+            color: clusterColor(`x/${segment}`) ?? computedStyleMap["--gray"],
+          })
 
-        setOnArc(chars, angle, arcRadius)
+        // Measured at full size, whatever the letters are scaled to right now, so the
+        // fitting below starts from the same number every frame instead of chasing its own
+        // result from the frame before.
+        const full = chars.reduce(
+          (sum, glyph) => sum + (glyph.scale.x ? glyph.width / glyph.scale.x : 0) + 1,
+          0,
+        )
+        named.push({ segment, chars, angle, full, members })
       }
+
+      // Three clusters with a single term each, side by side, all want the same stretch of
+      // rim. Dropping the names that collide loses exactly the ones the reader most needs,
+      // because a lone term is the one whose group cannot be guessed from its neighbours.
+      // So they shrink to fit instead: the name stays, a little smaller, which also says
+      // something true — this cluster is barely present here.
+      named.sort((a, b) => a.angle - b.angle)
+      const between = (i: number, j: number) => {
+        let apart = Math.abs(named[j].angle - named[i].angle)
+        return apart > Math.PI ? 2 * Math.PI - apart : apart
+      }
+
+      // Two lanes. A name that would collide with its neighbour on the rim steps out one
+      // line, straight over its own arc, where the rim's names are no longer in its way; two
+      // small clusters in a row then alternate. Thirteen clusters around one entry used to
+      // cost the small ones their names, and those are the ones a reader cannot guess.
+      const laneStep = (fontSize * 18 * labelSizeFactor) / scale + 6
+      const lane = named.map(() => 0)
+      const radiusOf = (i: number) => arcRadius + lane[i] * laneStep
+      const halfAt = (i: number, f: number) =>
+        ((named[i].full * f * labelSizeFactor) / scale / radiusOf(i)) / 2 + 0.03
+      const clash = (i: number, j: number) => halfAt(i, 1) + halfAt(j, 1) > between(i, j)
+      const lastIn = (l: number, before: number) => {
+        for (let k = before - 1; k >= 0; k--) if (lane[k] === l) return k
+        return -1
+      }
+      for (let i = 1; i < named.length; i++) {
+        const prev0 = lastIn(0, i)
+        if (prev0 < 0 || !clash(i, prev0)) continue
+        const prev1 = lastIn(1, i)
+        if (prev1 < 0 || !clash(i, prev1)) lane[i] = 1
+      }
+      // the ring closes: the last name meets the first again
+      if (named.length > 2) {
+        const last = named.length - 1
+        if (lane[last] === lane[0] && clash(last, 0)) {
+          const other = lane[last] === 0 ? 1 : 0
+          const prevOther = lastIn(other, last)
+          if (prevOther < 0 || !clash(last, prevOther)) lane[last] = other
+        }
+      }
+
+      // Within a lane, what still collides shrinks to fit, as before.
+      const fit = named.map(() => 1)
+      const nextInLane = (i: number) => {
+        for (let k = 1; k < named.length; k++) {
+          const j = (i + k) % named.length
+          if (lane[j] === lane[i]) return j
+        }
+        return i
+      }
+      for (let pass = 0; pass < 3; pass++) {
+        for (let i = 0; i < named.length; i++) {
+          const next = nextInLane(i)
+          if (next === i) continue
+          const apart = between(i, next)
+          const needed = halfAt(i, fit[i]) + halfAt(next, fit[next])
+          if (needed <= apart) continue
+          const shrink = apart / needed
+          fit[i] *= shrink
+          fit[next] *= shrink
+        }
+      }
+      named.forEach((entry, i) => {
+        // Past this point the name would be smaller than the terms it frames, which reads as
+        // dirt on the rim rather than as a word. Then the arc carries it alone.
+        if (fit[i] < 0.55) return
+        const inFocus = focusCluster === entry.segment
+        const boost = inFocus ? 1.25 : 1
+        for (const glyph of entry.chars) {
+          glyph.scale.set(((fit[i] * boost) / scale) * labelSizeFactor)
+          glyph.alpha = focusCluster ? (inFocus ? 1 : 0.3) : 0.7
+        }
+        setOnArc(entry.chars, entry.angle, radiusOf(i))
+      })
     } else
     for (const [segment, nameLabel] of clusterNameLabels) {
       let sx = 0
@@ -1302,9 +1638,6 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     // Literature is not vocabulary, so it does not belong among the terms. Sources — the
     // primary files and the Sources overview pages alike — take an inner ring of their own,
     // in the band between the entry and its neighbours.
-    const isLiteratureNode = (n: NodeRenderData) =>
-      n.simulationData.tags.includes("source") || isSourcesFolderPage(n.simulationData.id)
-
     const sources = visible.filter(isLiteratureNode)
     const onRing = visible.filter((n) => !isLiteratureNode(n))
 
@@ -1327,9 +1660,17 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
 
     // A gap between clusters is what makes them read as groups rather than as one ring.
     const gap = 0.16
-    const budget = 2 * Math.PI - gap * order.length
+    // The ring makes room at the top when there is literature to hang there: the opening
+    // between the last cluster and the first widens with the number of sources, so no term
+    // sits under the band and no cluster arc runs through a source name.
+    const topSpread = Math.min(1.0, 0.3 * Math.max(sources.length - 1, 1))
+    const topGap = sources.length ? Math.min(1.1, topSpread + 0.45) : gap
+    sourceArcSpan = sources.length
+      ? [-Math.PI / 2 - topGap / 2 + gap * 0.6, -Math.PI / 2 + topGap / 2 - gap * 0.6]
+      : null
+    const budget = 2 * Math.PI - gap * (order.length - 1) - topGap
     const step = budget / onRing.length
-    let angle = -Math.PI / 2 + gap / 2
+    let angle = -Math.PI / 2 + topGap / 2
     let placed = 0
 
     clusterArc.clear()
@@ -1338,63 +1679,48 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
       const from = angle
       for (const n of members) {
         n.angle = angle + step / 2
-        // The ring breathes rather than holding everyone at arm's length. A term with more
-        // ties to this entry sits a little closer in, so the picture keeps saying something
-        // about degree of relatedness that the plain circle had flattened away.
-        const ties = linkRenderData.filter((l) => {
-          const a = (l.simulationData.source as NodeData).id
-          const b = (l.simulationData.target as NodeData).id
-          return (
-            (a === n.simulationData.id && b === slug) || (b === n.simulationData.id && a === slug)
-          )
-        }).length
-        const pull = Math.min(ties, 3) * 0.045
-        // Every other name steps inwards, which doubles the room each one has along the
-        // circle without making the circle itself any bigger.
-        const stagger = manyNeighbours && placed % 2 === 1 ? 0.78 : 1
-        n.ring = ringRadius * (1.06 - pull) * stagger
-        placed += 1
+        // One true circle. Until 2026-09-12 a term with more ties to the entry sat a little
+        // further in (4.5% per tie, up to three), an encoding nobody could read as such —
+        // it only showed as the ring not being round once the literature sat on it too.
+        // The size of a dot already says how many lines meet there.
+        n.ring = ringRadius * 1.06
         n.inward = false
+        placed += 1
         n.simulationData.x = Math.cos(n.angle) * n.ring
         n.simulationData.y = Math.sin(n.angle) * n.ring
         n.simulationData.fx = n.simulationData.x
         n.simulationData.fy = n.simulationData.y
         angle += step
       }
-      clusterArcAngles.set(key, (from + angle - step + step / 2) / 2)
+      const first = from + step / 2
+      const last = angle - step / 2
+      const mid = (first + last) / 2
+      // A cluster with one term on the ring ran from its own centre to its own centre: an
+      // arc of nothing, so that term sat on the rim looking unattached. Every cluster gets
+      // at least the width of the slot it occupies.
+      const half = Math.max((last - first) / 2, step * 0.42)
+      clusterArcAngles.set(key, mid)
+      clusterArcSpans.set(key, [mid - half, mid + half])
       angle += gap
     }
 
-    // A source is not a term and does not belong in the ring, but it does belong to one:
-    // it sits just inside the ring at the angle of the term it supports, tied to it with a
-    // dotted line. Literature hangs beneath its own term rather than floating in the middle.
     sourceParents.clear()
-    // A source belongs to a term, not to the picture. Ranged along the top it read as the
-    // entry's own literature, while "Secondary Sources — Virtual Influencer" is Virtual
-    // Influencer's, not Parasocial Relationship's. So each source sits just inside the ring
-    // at the angle of the term it supports, on a dotted tie to it — and the entry's own
-    // sources, if it has any, keep close to the centre where the same rule puts them.
-    const perTerm = new Map<string, number>()
-    sources.forEach((n) => {
-      const parent = onRing.find((term) =>
-        linkRenderData.some((l) => {
-          const a = (l.simulationData.source as NodeData).id
-          const b = (l.simulationData.target as NodeData).id
-          return (
-            (a === n.simulationData.id && b === term.simulationData.id) ||
-            (b === n.simulationData.id && a === term.simulationData.id)
-          )
-        }),
-      )
-      const seen = parent ? (perTerm.get(parent.simulationData.id) ?? 0) : 0
-      if (parent) perTerm.set(parent.simulationData.id, seen + 1)
-
-      const at = (parent?.angle ?? -Math.PI / 2) + seen * 0.09
-      const radius = parent ? ringRadius * 0.78 : ringRadius * 0.3
+    // Only the entry's own literature reaches this graph, so it hangs from the entry itself:
+    // a short band across the top, between the ring of terms and the rim of cluster names,
+    // tied back to the middle with a dotted line.
+    sources.forEach((n, i) => {
+      const parent = nodeRenderData.find((x) => x.simulationData.id === slug)
+      const share = sources.length === 1 ? 0 : i / (sources.length - 1) - 0.5
+      const at = -Math.PI / 2 + share * topSpread
+      // On the ring itself, in the row with the terms, in the opening the ring leaves at the
+      // top. The names read outward like every other name on the ring; the dotted SOURCES
+      // arc is pushed out far enough to clear them (see arcRadius in the draw loop). An
+      // inward band was tried twice on 2026-09-12 and read worse both times.
+      const radius = ringRadius * 1.06
 
       n.angle = at
       n.ring = radius
-      n.inward = true
+      n.inward = false
       n.simulationData.x = Math.cos(at) * radius
       n.simulationData.y = Math.sin(at) * radius
       n.simulationData.fx = n.simulationData.x
@@ -1432,10 +1758,18 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     })
   }
 
+  const isLiteratureNode = (n: NodeRenderData) =>
+    n.simulationData.tags.includes("source") || isSourcesFolderPage(n.simulationData.id)
+
   const sourceParents = new Map<string, NodeRenderData>()
   const sourceTies = new Graphics()
   const clusterArc = new Graphics()
   const clusterArcAngles = new Map<string, number>()
+  // start- and end angle per cluster, so the arc itself can be drawn: a name on its own
+  // says which spot it belongs to, an arc says which stretch of the ring it owns
+  const clusterArcSpans = new Map<string, [number, number]>()
+  // the stretch of rim the literature occupies, so a dotted arc can close the circle there
+  let sourceArcSpan: [number, number] | null = null
   clusterLabelsContainer.addChild(clusterArc as unknown as Text)
   linkContainer.addChild(sourceTies)
 
@@ -1456,7 +1790,12 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
   // Sources/index.md overview pages aren't tagged "source" themselves, but they're
   // evidentiary infrastructure, not a term or a real inbound relation — exclude them
   // from cluster and backlink classification the same way Backlinks.tsx excludes them.
-  function isSourcesFolderPage(id: string) { return id.endsWith("/Sources") || id === "Sources" }
+  // The overview page's id carries a trailing slash ("…/Sources/"); without the trim it
+  // passed as a term and sat on the ring among the vocabulary.
+  function isSourcesFolderPage(id: string) {
+    const s = id.replace(/\/$/, "")
+    return s.endsWith("/Sources") || s === "Sources"
+  }
 
   const hasSourceNodes = nodeRenderData.some(n => n.simulationData.tags.includes("source"))
   if (!hasSourceNodes && sourceToggleEl) {
@@ -1714,14 +2053,69 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
       // show as black. Paint the page colour underneath first, so the image looks like what
       // was on screen.
       const rendered = app.renderer.extract.canvas({ target: stage }) as unknown as HTMLCanvasElement
+
+      // The legend lives in the page, not on the canvas, so extracting the drawing alone
+      // produced an image whose colours nothing explained. It is redrawn here from the same
+      // rows the panel is built from, in a margin beside the picture.
+      const rows = [...(legendEl?.querySelectorAll("span") ?? [])].map((row) => {
+        const swatch = row.querySelector("i")
+        const mark = row.querySelector("b")
+        const glyph = mark?.textContent ?? ""
+        return {
+          colour: swatch ? swatch.style.backgroundColor : "",
+          glyph,
+          label: (row.textContent ?? "").slice(glyph.length).trim(),
+        }
+      })
+
+      const fontPx = Math.max(11, Math.round(rendered.height / 48))
+      const lineHeight = Math.round(fontPx * 2)
+      const pad = Math.round(fontPx * 1.6)
+      const panel = rows.length ? Math.round(rendered.width * 0.2) + pad : 0
+
       const out = document.createElement("canvas")
-      out.width = rendered.width
+      out.width = rendered.width + panel
       out.height = rendered.height
       const ctx = out.getContext("2d")
       if (!ctx) return
       ctx.fillStyle = computedStyleMap["--light"]
       ctx.fillRect(0, 0, out.width, out.height)
       ctx.drawImage(rendered, 0, 0)
+
+      if (rows.length) {
+        const left = rendered.width + pad
+        let y = Math.round((rendered.height - rows.length * lineHeight) / 2) + lineHeight
+        ctx.textBaseline = "middle"
+        ctx.font = `${fontPx}px ui-sans-serif, system-ui, -apple-system, sans-serif`
+        if ("letterSpacing" in ctx) (ctx as any).letterSpacing = `${(fontPx * 0.06).toFixed(1)}px`
+        let previous = rows[0]?.colour !== ""
+        for (const row of rows) {
+          const isCluster = row.colour !== ""
+          // The panel puts a rule where the relation marks end and the clusters begin; the
+          // image keeps that break, because the two halves answer different questions.
+          if (isCluster !== previous) {
+            ctx.strokeStyle = computedStyleMap["--lightgray"]
+            ctx.lineWidth = Math.max(1, Math.round(fontPx / 11))
+            ctx.beginPath()
+            ctx.moveTo(left, y - lineHeight * 0.55)
+            ctx.lineTo(left + fontPx * 4, y - lineHeight * 0.55)
+            ctx.stroke()
+            previous = isCluster
+          }
+          if (isCluster) {
+            ctx.fillStyle = row.colour
+            ctx.beginPath()
+            ctx.arc(left + fontPx * 0.4, y, fontPx * 0.34, 0, 2 * Math.PI)
+            ctx.fill()
+          } else {
+            ctx.fillStyle = computedStyleMap["--darkgray"]
+            ctx.fillText(row.glyph, left, y)
+          }
+          ctx.fillStyle = computedStyleMap["--darkgray"]
+          ctx.fillText(row.label.toUpperCase(), left + fontPx * 1.3, y)
+          y += lineHeight
+        }
+      }
 
       const link = document.createElement("a")
       link.href = out.toDataURL("image/png")
@@ -1804,6 +2198,12 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
 
   const containers = [...document.getElementsByClassName("global-graph-outer")] as HTMLElement[]
   async function renderGlobalGraph() {
+    // The button that shows the whole vault now shows the map of it. The force layout it
+    // used to open said less about the same 261 terms than the twenty circles do.
+    if (document.querySelector("#vault-map .vault-map-overlay")) {
+      document.dispatchEvent(new CustomEvent("open-vault-map", { detail: {} }))
+      return
+    }
     const slug = getFullSlug(window)
     for (const container of containers) {
       container.classList.add("active")

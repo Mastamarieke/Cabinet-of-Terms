@@ -1,0 +1,364 @@
+@use "../../styles/variables.scss" as *;
+
+.vault-map-outer {
+  position: relative;
+  margin: 0 0 1.5rem;
+
+  // On a term page only the overlay is wanted; the panel, its heading and its own loupe
+  // button would be a second graph beside the entry's own.
+  &.folded {
+    margin: 0;
+
+    & > h3,
+    & > .vault-map-inner,
+    & > .vault-map-expand {
+      display: none;
+    }
+  }
+
+  & > h3 {
+    font-size: 1rem;
+    margin: 0;
+  }
+}
+
+// A plain block, not a flex box: an SVG sized in percentages inside a flex container can
+// end up with no height at all, and then the drawing is there but invisible.
+.vault-map-inner {
+  position: relative;
+  height: 420px;
+  margin: 0.5em 0;
+  overflow: hidden;
+
+  @media all and not ($desktop) {
+    height: 300px;
+  }
+}
+
+.vault-map-expand {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 26px;
+  height: 26px;
+  padding: 0.2rem;
+  background: none;
+  border: none;
+  color: var(--dark);
+  opacity: 0.5;
+  border-radius: 4px;
+  cursor: pointer;
+  transition:
+    background-color 0.4s ease,
+    opacity 0.4s ease;
+
+  &:hover {
+    opacity: 1;
+    background-color: var(--lightgray);
+  }
+
+  svg {
+    width: 100%;
+    height: 100%;
+  }
+}
+
+// Same shape as the graph loupe elsewhere on the site: a blurred page behind, one framed
+// panel in the middle. A reader who has opened one has already learned how to close it.
+.vault-map-overlay {
+  display: none;
+  position: fixed;
+  inset: 0;
+  z-index: 9999;
+  backdrop-filter: blur(4px);
+
+  &.active {
+    display: block;
+  }
+
+  .vault-map-stage {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 80vw;
+    height: 80vh;
+    box-sizing: border-box;
+    border: 1px solid var(--lightgray);
+    border-radius: 5px;
+    background-color: var(--light);
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    @media all and not ($desktop) {
+      width: 92vw;
+    }
+
+    .vault-map {
+      width: min(80vw, 80vh);
+      height: min(80vw, 80vh);
+      touch-action: none;
+      cursor: grab;
+
+      &.dragging {
+        cursor: grabbing;
+      }
+    }
+  }
+
+  .vault-map-actions {
+    position: fixed;
+    top: calc(10vh + 0.6rem);
+    right: calc(10vw + 0.6rem);
+    z-index: 2;
+    display: flex;
+    gap: 0.3em;
+
+    @media all and not ($desktop) {
+      right: calc(4vw + 0.6rem);
+    }
+
+    button {
+      width: 28px;
+      height: 28px;
+      padding: 0.3rem;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: none;
+      border: none;
+      color: var(--darkgray);
+      opacity: 0.6;
+      cursor: pointer;
+      transition: opacity 0.2s ease;
+
+      &:hover {
+        opacity: 1;
+      }
+
+      svg {
+        width: 100%;
+        height: 100%;
+      }
+    }
+  }
+
+  // Against the inner edge of the panel, without a box of its own, exactly like the loupe of
+  // the entry graph.
+  .vault-map-controls {
+    position: fixed;
+    top: calc(10vh + 0.6rem);
+    left: calc(10vw + 0.6rem);
+    z-index: 2;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5em;
+    width: 168px;
+
+    @media all and not ($desktop) {
+      left: calc(4vw + 0.6rem);
+      width: 132px;
+    }
+
+    label {
+      display: grid;
+      grid-template-columns: 1fr auto;
+      align-items: baseline;
+      gap: 0.2em 0.5em;
+
+      span {
+        color: var(--secondary);
+        font-size: 0.6em;
+        letter-spacing: 0.03em;
+      }
+
+      output {
+        color: #ff6b00;
+        font-size: 0.6em;
+        font-variant-numeric: tabular-nums;
+      }
+
+      input[type="range"] {
+        grid-column: 1 / -1;
+        width: 100%;
+        accent-color: #ff6b00;
+        cursor: pointer;
+      }
+    }
+
+    .vault-map-controls-reset {
+      align-self: flex-start;
+      background: none;
+      border: 1px solid var(--lightgray);
+      border-radius: 4px;
+      color: var(--darkgray);
+      cursor: pointer;
+      font-size: 0.6em;
+      letter-spacing: 0.06em;
+      padding: 0.25em 0.7em;
+      text-transform: uppercase;
+
+      &:hover {
+        background-color: var(--lightgray);
+      }
+    }
+  }
+
+  .vault-map-hint {
+    position: fixed;
+    bottom: calc(10vh + 0.7rem);
+    left: 0;
+    right: 0;
+    margin: 0;
+    text-align: center;
+    font-size: 0.6rem;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--gray);
+    pointer-events: none;
+  }
+}
+
+.vault-map {
+  width: 100%;
+  height: 100%;
+  display: block;
+  overflow: visible;
+
+  .vm-edge {
+    fill: none;
+    stroke-width: 0.9;
+    opacity: 0.16;
+    transition: opacity 0.15s ease;
+
+    // Links that cross from one cluster into another are the ones worth looking at, so the
+    // traffic inside a cluster sits back a step.
+    &.across {
+      stroke-width: 1.1;
+      opacity: 0.13;
+    }
+  }
+
+  // While something is pointed at, everything else recedes rather than disappearing: the
+  // density around the highlighted line is part of what the line means.
+  &.focused .vm-edge {
+    opacity: 0.035;
+  }
+
+  &.focused .vm-edge.lit {
+    opacity: 0.75;
+    stroke-width: 1.6;
+  }
+
+  // Transparent rather than unfilled: an unfilled circle can only be pointed at on the
+  // hairline of its own outline, so the whole disc takes the pointer instead.
+  .vm-ring {
+    fill: transparent;
+    stroke-width: 1.2;
+    opacity: 0.5;
+  }
+
+  .vm-hit {
+    fill: transparent;
+    cursor: pointer;
+  }
+
+  .vm-cluster {
+    cursor: pointer;
+
+    &:hover .vm-ring,
+    &:focus-visible .vm-ring {
+      opacity: 1;
+      stroke-width: 2;
+    }
+  }
+
+  // The name sits outside its circle now, which meant clicking the name hit nothing at all.
+  // It belongs to the cluster, so it answers for it.
+  .vm-cluster-name {
+    font-family: "Barlow Condensed", var(--headerFont), sans-serif;
+    font-size: 11px;
+    letter-spacing: 0.06em;
+    text-anchor: middle;
+    opacity: 0.85;
+    cursor: pointer;
+  }
+
+  .vm-term-label {
+    font-family: var(--bodyFont), sans-serif;
+    font-size: 8px;
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.2s ease;
+  }
+
+  &.zoomed .vm-term-label {
+    opacity: 0.95;
+  }
+
+  &.focused.zoomed .vm-term-label {
+    opacity: 0.25;
+  }
+
+  .vm-count {
+    font-family: var(--bodyFont), sans-serif;
+    font-size: 10px;
+    text-anchor: middle;
+    opacity: 0.45;
+    pointer-events: none;
+  }
+
+  .vm-node {
+    cursor: pointer;
+    opacity: 0.9;
+
+    &:hover,
+    &.lit {
+      opacity: 1;
+      stroke: var(--light);
+      stroke-width: 1.5;
+    }
+  }
+
+  &.focused .vm-node {
+    opacity: 0.35;
+  }
+
+  &.focused .vm-node.lit {
+    opacity: 1;
+  }
+
+  .vm-centre-name {
+    font-family: "Barlow Condensed", var(--headerFont), sans-serif;
+    font-size: 26px;
+    letter-spacing: 0.04em;
+    fill: var(--dark);
+    paint-order: stroke;
+    stroke: var(--light);
+    stroke-width: 10px;
+    stroke-linejoin: round;
+    cursor: pointer;
+
+    &:hover {
+      fill: var(--secondary);
+    }
+  }
+
+  .vm-term-name {
+    font-family: var(--bodyFont), sans-serif;
+    font-size: 13px;
+    text-anchor: middle;
+    paint-order: stroke;
+    stroke: var(--light);
+    stroke-width: 4px;
+    stroke-linejoin: round;
+    opacity: 0;
+    pointer-events: none;
+
+    &.shown {
+      opacity: 1;
+    }
+  }
+}

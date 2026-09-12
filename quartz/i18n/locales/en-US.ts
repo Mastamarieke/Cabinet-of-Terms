@@ -57,7 +57,10 @@ export default {
       title: "Table of Contents",
     },
     contentMeta: {
-      readingTime: ({ minutes }) => `${minutes} min read`,
+      // Reading time as what it buys rather than what it costs. Attention is the currency
+      // the vault examines; a sharper eye is what an entry gives back for it.
+      readingTime: ({ minutes }) =>
+        `${minutes} ${minutes === 1 ? "minute" : "minutes"} of your attention for a sharper eye.`,
     },
   },
   pages: {

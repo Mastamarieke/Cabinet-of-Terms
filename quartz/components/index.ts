@@ -14,6 +14,7 @@ import Explorer from "./Explorer"
 import TagList from "./TagList"
 import Graph from "./Graph"
 import GraphStory from "./GraphStory"
+import VaultMap from "./VaultMap"
 import EntryImage from "./EntryImage"
 import Backlinks from "./Backlinks"
 import Search from "./Search"
@@ -42,6 +43,7 @@ export {
   TagList,
   Graph,
   GraphStory,
+  VaultMap,
   EntryImage,
   Backlinks,
   Search,

@@ -121,6 +121,21 @@
     }
   }
 
+  & > .graph-help {
+    margin: 0.15em 0 0;
+    font-size: 0.7em;
+    text-align: right;
+
+    a {
+      color: var(--gray);
+      text-decoration: none;
+
+      &:hover {
+        color: var(--secondary);
+      }
+    }
+  }
+
   & > .expanded-graph-outer {
     position: fixed;
     z-index: 9999;
@@ -170,18 +185,18 @@
   // at 80vw/80vh, hence the 10vw/10vh offsets.
   .graph-controls {
     position: fixed;
-    top: calc(10vh + 0.75rem);
-    right: calc(10vw + 0.75rem);
+    top: calc(10vh + 0.6rem);
+    right: calc(10vw + 0.6rem);
     z-index: 10;
     display: flex;
     flex-direction: column;
-    gap: 0.6em;
-    width: 190px;
-    padding: 0.8em 0.9em;
+    gap: 0.5em;
+    width: 168px;
+    padding: 0;
     box-sizing: border-box;
-    background: var(--light);
-    border: 1px solid var(--lightgray);
-    border-radius: 6px;
+    background: none;
+    border: none;
+    border-radius: 0;
 
     label {
       display: grid;
@@ -191,14 +206,14 @@
 
       span {
         color: var(--secondary);
-        font-size: 0.68em;
+        font-size: 0.6em;
         font-weight: 400;
         letter-spacing: 0.03em;
       }
 
       output {
         color: #ff6b00;
-        font-size: 0.68em;
+        font-size: 0.6em;
         font-weight: 400;
         font-variant-numeric: tabular-nums;
       }
@@ -233,9 +248,8 @@
     // loupe fills the screen at any width, so hiding its controls there made the tools
     // disappear on exactly the laptop screens this is used on.
     @media all and not ($desktop) {
-      width: 150px;
-      padding: 0.6em 0.7em;
-      gap: 0.45em;
+      width: 132px;
+      gap: 0.4em;
     }
   }
 
@@ -243,19 +257,21 @@
   // without a key — especially for a cluster with a single term in this graph, which gets
   // no name of its own in the picture.
   .graph-legend {
+    // At the edge, without a box: the picture it explains has no frame either, and a
+    // bordered panel beside an unbordered drawing reads as the louder of the two.
     position: fixed;
-    top: calc(10vh + 0.75rem + 230px);
-    right: calc(10vw + 0.75rem);
+    top: 50%;
+    right: calc(10vw + 0.6rem);
+    transform: translateY(-50%);
     z-index: 10;
     display: flex;
     flex-direction: column;
-    gap: 0.3em;
-    width: 190px;
-    padding: 0.7em 0.9em;
+    gap: 0.28em;
+    width: 168px;
+    padding: 0;
     box-sizing: border-box;
-    background: var(--light);
-    border: 1px solid var(--lightgray);
-    border-radius: 6px;
+    background: none;
+    border: none;
 
     &:empty {
       display: none;
@@ -265,16 +281,16 @@
       display: flex;
       align-items: center;
       gap: 0.5em;
-      font-size: 0.62em;
+      font-size: 0.54em;
       font-weight: 400;
-      letter-spacing: 0.04em;
+      letter-spacing: 0.08em;
       text-transform: uppercase;
-      color: var(--darkgray);
+      color: var(--gray);
     }
 
     i {
-      width: 9px;
-      height: 9px;
+      width: 7px;
+      height: 7px;
       border-radius: 50%;
       flex-shrink: 0;
     }
@@ -287,16 +303,24 @@
       color: var(--darkgray);
     }
 
+    span.cluster {
+      cursor: pointer;
+    }
+
+    span.cluster:hover,
+    span.filter:hover {
+      color: var(--dark);
+    }
+
     hr {
       border: none;
       border-top: 1px solid var(--lightgray);
-      margin: 0.25em 0;
-      width: 100%;
+      margin: 0.4em 0;
+      width: 40%;
     }
 
     @media all and not ($desktop) {
-      width: 150px;
-      padding: 0.5em 0.7em;
+      width: 132px;
     }
   }
 

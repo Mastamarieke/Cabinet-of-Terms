@@ -4,6 +4,7 @@ import script from "./scripts/graph.inline"
 import style from "./styles/graph.scss"
 import { i18n } from "../i18n"
 import { classNames } from "../util/lang"
+import { FullSlug, resolveRelative } from "../util/path"
 
 export interface D3Config {
   drag: boolean
@@ -60,7 +61,9 @@ const defaultOptions: GraphOptions = {
 }
 
 export default ((opts?: Partial<GraphOptions>) => {
-  const Graph: QuartzComponent = ({ displayClass, cfg }: QuartzComponentProps) => {
+  const Graph: QuartzComponent = ({ displayClass, cfg, fileData }: QuartzComponentProps) => {
+    // One door, the same on every page, instead of an explanation under every graph.
+    const howToRead = resolveRelative(fileData.slug!, "Reading-the-graph" as FullSlug)
     const localGraph = { ...defaultOptions.localGraph, ...opts?.localGraph }
     const globalGraph = { ...defaultOptions.globalGraph, ...opts?.globalGraph }
     return (
@@ -122,6 +125,9 @@ export default ((opts?: Partial<GraphOptions>) => {
             </svg>
           </button>
         </div>
+        <p class="graph-help">
+          <a href={howToRead} class="internal">How to read this graph →</a>
+        </p>
         <div class="expanded-graph-outer">
           <div class="expanded-graph-container" data-cfg={JSON.stringify(localGraph)}></div>
           <div class="graph-controls">
