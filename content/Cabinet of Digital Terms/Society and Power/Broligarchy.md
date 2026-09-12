@@ -5,18 +5,6 @@ analytical_layer: cause
 status: publieksversie
 version: V1
 analysis_version: pending
-related_cause:
-  - Muskism
-  - Objectivism (Rand)
-related_mechanism:
-  - Revolving Door
-  - Founder Mode
-related_consequence:
-  - Technofascism
-  - Muskism
-related_reaction:
-  - Cyberfeminism
-  - Brussels Effect
 ---
 
 ***The consolidation of power at the top of the tech industry has a social structure. It looks like a friend group.***
@@ -33,7 +21,7 @@ related_reaction:
 
 **Why This Matters:** **Broligarchy** names the social dimension of tech political power — which is important because social networks are harder to regulate than formal organisations. Once you see it as a network rather than a conspiracy, the question shifts from "who is coordinating?" to "what values does the network share, and how does the network reproduce itself?"
 
-**Related terms:** [[Muskism]] · [[Revolving Door]] · [[Founder Mode]] · [[Objectivism (Rand)]] · [[Cyberfeminism]] ·[[Transhumanism]] · [[The Singularity]] · [[The Matrix]] · [[Skynet]]  · [[Brave New World]] · [[Brussels Effect]] · [[Technofascism]]
+**Related terms:** [[Muskism]] · [[Revolving Door]] · [[Founder Mode]] · [[Objectivism (Rand)]] · [[Cyberfeminism]] ·[[Transhumanism]] · [[The Singularity]] · [[The Matrix]] · [[Skynet]]  · [[Brave New World]] · [[Brussels Effect]] · [[Technofascism]] · [[AI-Ninja]]
 
 
 ---

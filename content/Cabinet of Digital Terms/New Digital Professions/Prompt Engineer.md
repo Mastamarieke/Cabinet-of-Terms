@@ -5,18 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - AI Dependency
-  - AI as a Utility
-related_mechanism:
-  - Vibe Coder
-  - Cognitive Offloading
-related_consequence:
-  - Deskilling
-  - AI Dependency
-related_reaction:
-  - AI Literacy
-  - Red Teamer
 ---
 
 ***She has learned to talk to the model in a way that works. Whether this is a skill or a workaround is not yet clear.***
@@ -29,11 +17,11 @@ related_reaction:
 
 **The Appeal:** Prompt engineering captures a real skill. Understanding how AI systems process instructions, what failure modes to anticipate, and how to structure multi-step tasks for reliable AI completion — these require knowledge and practice. For organisations deploying AI at scale, the skill difference between a good and bad **prompt engineer** is measurable in output quality.
 
-**The Friction:** The profession is temporally bounded by design. As AI systems improve, their ability to interpret poorly structured or ambiguous inputs improves — reducing the value of expert prompt formulation. [[AI Dependency]] — structural reliance without critical reflection — is the consequence: organisations that have invested in prompt engineering as a core skill are dependent on the specific capability profiles of the AI systems they have designed for. [[Vibe Coder]] is the extreme case: outsourcing the translation entirely, accepting output whose logic cannot be interrogated. [[Cognitive Offloading]] becomes [[Deskilling]] when the expertise is in operating the AI rather than in the underlying domain the AI is operating in.
+**The Friction:** The profession is temporally bounded by design. As AI systems improve, their ability to interpret poorly structured or ambiguous inputs improves — reducing the value of expert prompt formulation. That was measured early: [[Zhou-AINinja-2023|Zhou et al. (2023)]] had a model write its own instructions and match or beat human prompts on 19 of 24 tasks. [[AI-Ninja]] is the person who has made this skill into an identity. When the skill goes, the identity goes with it. [[AI Dependency]] — structural reliance without critical reflection — is the consequence: organisations that have invested in prompt engineering as a core skill are dependent on the specific capability profiles of the AI systems they have designed for. [[Vibe Coder]] is the extreme case: outsourcing the translation entirely, accepting output whose logic cannot be interrogated. [[Cognitive Offloading]] becomes [[Deskilling]] when the expertise is in operating the AI rather than in the underlying domain the AI is operating in.
 
 **Why This Matters:** **Prompt engineer** names the temporary value of a translation skill that exists because AI systems are not yet transparent enough to require no translation. The profession's lifespan is a measure of how fast that transparency improves.
 
-**Related terms:** [[Vibe Coder]] · [[AI Dependency]] · [[Cognitive Offloading]] · [[Deskilling]] · [[AI Literacy]] · [[AI as a Utility]] · [[Red Teamer]]
+**Related terms:** [[Vibe Coder]] · [[AI Dependency]] · [[Cognitive Offloading]] · [[Deskilling]] · [[AI Literacy]] · [[AI as a Utility]] · [[Red Teamer]] · [[AI-Ninja]]
 
 
 ---
