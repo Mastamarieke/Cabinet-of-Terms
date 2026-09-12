@@ -24,6 +24,12 @@ def main():
                     valid.add(os.path.basename(root))
                 else:
                     valid.add(f[:-3])
+    # Pages that live directly in content/ (the homepage, the Disclaimer, Reading the graph)
+    # are valid link targets too. Until 2026-09-12 only the homepage linked to them, and the
+    # homepage itself is not scanned, so their absence from this set never showed.
+    for f in os.listdir(CONTENT_DIR):
+        if f.endswith(".md") and not f.startswith("._") and f != "index.md":
+            valid.add(f[:-3])
 
     broken_all = {}
     for root, dirs, files in os.walk(VAULT_DIR):
