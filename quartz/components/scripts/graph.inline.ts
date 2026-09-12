@@ -14,6 +14,7 @@ import {
   select,
   drag,
   zoom,
+  zoomIdentity,
 } from "d3"
 import { Text, Graphics, Application, Container, Circle } from "pixi.js"
 import { Group as TweenGroup, Tween as Tweened } from "@tweenjs/tween.js"
@@ -1053,8 +1054,10 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     }
   }
 
+  // Kept outside the block so the radial layout can set the opening view through it.
+  let zoomBehaviour: ReturnType<typeof zoom<HTMLCanvasElement, NodeData>> | null = null
   if (enableZoom) {
-    const zoomBehaviour = zoom<HTMLCanvasElement, NodeData>()
+    zoomBehaviour = zoom<HTMLCanvasElement, NodeData>()
         .extent([
           [0, 0],
           [width, height],
@@ -1080,6 +1083,26 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
         })
 
     select<HTMLCanvasElement, NodeData>(app.canvas).call(zoomBehaviour)
+  }
+
+  // On a small canvas the drawing is larger than the window it sits in: names and arcs
+  // have fixed sizes, so on a phone the rim fell outside the loupe and the middle looked
+  // zoomed in. Once the rim's radius is known, the whole stage is scaled to fit it, through
+  // the zoom behaviour so that the reader's own zoom starts from the same place. Done once;
+  // after that the view is the reader's.
+  let fittedToCanvas = false
+  function fitToCanvas(extent: number) {
+    if (fittedToCanvas || viewAdjustedByReader || !zoomBehaviour) return
+    fittedToCanvas = true
+    const visibleWidth = app.canvas.clientWidth || width
+    const visibleHeight = app.canvas.clientHeight || height
+    const k = Math.min(scale, (Math.min(visibleWidth, visibleHeight) / 2 - 6) / extent)
+    if (k >= scale) return
+    const transform = zoomIdentity
+      .translate(visibleWidth / 2 - (width / 2) * k, visibleHeight / 2 - (height / 2) * k)
+      .scale(k)
+    select<HTMLCanvasElement, NodeData>(app.canvas).call(zoomBehaviour.transform, transform)
+    viewAdjustedByReader = true
   }
 
   // No two words may sit on top of each other. Every few frames the labels are laid out in
@@ -1431,6 +1454,8 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
         Math.max(ringRadius + widest + 30, literatureReach + 52 + 10),
         (Math.min(width, height) / 2) * 0.97,
       )
+      // the names on the rim can take a second lane and stand about one line tall
+      fitToCanvas(arcRadius + 2 * ((fontSize * 18 * labelSizeFactor) / scale + 6) + 12)
 
       // Every cluster that is present gets its arc and its name, however few terms it has
       // here. A single term with neither reads as unattached, when what it really is is the
