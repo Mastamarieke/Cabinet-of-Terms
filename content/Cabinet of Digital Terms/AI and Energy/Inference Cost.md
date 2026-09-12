@@ -5,16 +5,6 @@ analytical_layer: cause
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - AI Energy Consumption
-  - Training Run
-related_mechanism:
-  - Carbon Footprint of AI
-  - Externalized Costs
-related_consequence:
-  - Sacrifice Zones
-related_reaction:
-  - Greenwashing
 ---
 
 ***Every question has a bill. Small per query. Enormous in aggregate.***
@@ -27,11 +17,11 @@ related_reaction:
 
 **The Appeal:** Per query, inference costs are genuinely small — fractions of watt-hours for a typical exchange. AI can answer questions faster and at lower marginal cost than many human-staffed alternatives. Researchers and companies building on AI infrastructure have legitimate reasons to find this cost acceptable.
 
-**The Friction:** The problem is aggregation and invisibility. At hundreds of millions of daily queries, small numbers compound into large ones — and [[Carbon Footprint of AI]] calculations almost never include them. Companies regularly publish training emissions; inference emissions are rarely disclosed. The interface is designed to feel weightless: instant, frictionless, free. [[Externalized Costs]] make the weightlessness possible. Someone pays. It just is not the person typing.
+**The Friction:** The problem is aggregation and invisibility. At hundreds of millions of daily queries, small numbers compound into large ones — and [[Carbon Footprint of AI]] calculations almost never include them. Companies regularly publish training emissions; inference emissions are rarely disclosed. The interface is designed to feel weightless: instant, frictionless, free. [[Externalized Costs]] make the weightlessness possible. The [[Attention Economy]] sets the volume: a business that earns more as it raises the number of interactions per user is also raising the number of inferences per user. The design that makes an interface hard to put down is the design that runs up the bill. Someone pays. It just is not the person typing.
 
 **Why This Matters:** **Inference cost** introduces a new environmental reading: *how often* matters as much as *how large*. A daily habit becomes infrastructure. The daily conversation with an AI assistant is a recurring small claim on shared energy resources, invisible by design.
 
-**Related terms:** [[Training Run]] · [[AI Energy Consumption]] · [[Carbon Footprint of AI]] · [[Externalized Costs]] · [[Greenwashing]] · [[Sacrifice Zones]]
+**Related terms:** [[Training Run]] · [[AI Energy Consumption]] · [[Carbon Footprint of AI]] · [[Externalized Costs]] · [[Greenwashing]] · [[Sacrifice Zones]] · [[Attention Economy]]
 
 
 ---

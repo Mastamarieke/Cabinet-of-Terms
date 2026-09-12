@@ -5,17 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Comparison Culture
-  - Beauty Filter
-related_mechanism:
-  - That Girl
-  - Highlight Reel
-related_consequence:
-  - Body Dysmorphic Disorder
-  - Comparison Culture
-related_reaction:
-  - Deinfluencing
 ---
 
 ***No makeup. Slicked bun. Gold hoops. Glowing skin. It took two hours.***
@@ -28,11 +17,11 @@ related_reaction:
 
 **The Appeal:** The aesthetic offers a framework — approachable, achievable-seeming, health-coded rather than glamour-coded. For people exhausted by heavily produced beauty content, "clean" reads as relief. It also travels well across contexts: professional, social, casual.
 
-**The Friction:** The "natural" appearance is constructed. The glass skin requires a twelve-step skincare routine. The "no-makeup" look requires expensive products. The slicked bun requires the right hair texture. [[Comparison Culture]] — permanent ambient comparison as a platform feature — operates here with particular force because the standard appears accessible while depending on invisible labour, cost, and genetics. [[Beauty Filter]] — realtime facial adjustment — is the technological infrastructure that makes "clean" skin look achievable: the pores disappear before anyone sees them. The aesthetic also has a documented racial dimension: many of its signature features — thin nose, light skin, straight hair — are European. When the aesthetic was credited to white creators while Black and brown women had been doing it for decades, the "new" label itself became a form of erasure.
+**The Friction:** The "natural" appearance is constructed. The glass skin requires a twelve-step skincare routine. The "no-makeup" look requires expensive products. The slicked bun requires the right hair texture. [[Comparison Culture]] — permanent ambient comparison as a platform feature — operates here with particular force because the standard appears accessible while depending on invisible labour, cost, and genetics. [[Beauty Filter]] — realtime facial adjustment — is the technological infrastructure that makes "clean" skin look achievable: the pores disappear before anyone sees them. [[Looksmaxxing]] is the same optimisation carried out in the open, and the comparison is instructive: there the routine is the whole point and the score is stated out loud, here the routine is the thing that must not show. The work is equally systematic. Only its visibility differs. The aesthetic also has a documented racial dimension: many of its signature features — thin nose, light skin, straight hair — are European. When the aesthetic was credited to white creators while Black and brown women had been doing it for decades, the "new" label itself became a form of erasure.
 
 **Why This Matters:** **Clean Girl Aesthetic** makes visible how "natural" is always constructed — and who gets to define what natural looks like.
 
-**Related terms:** [[That Girl]] · [[Beauty Filter]] · [[Comparison Culture]] · [[Highlight Reel]] · [[Body Dysmorphic Disorder]] · [[Deinfluencing]]
+**Related terms:** [[That Girl]] · [[Beauty Filter]] · [[Comparison Culture]] · [[Highlight Reel]] · [[Body Dysmorphic Disorder]] · [[Deinfluencing]] · [[Looksmaxxing]]
 
 
 ---

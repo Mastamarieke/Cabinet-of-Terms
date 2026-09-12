@@ -5,15 +5,6 @@ analytical_layer: reaction
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - AI Energy Consumption
-related_mechanism:
-  - Externalized Costs
-related_consequence:
-  - Sacrifice Zones
-related_reaction:
-  - Greenwashing
-  - Digital Colonialism
 ---
 
 ***Tech companies are reopening nuclear plants. Not because governments asked — because AI needs the electricity.***
@@ -26,11 +17,11 @@ related_reaction:
 
 **The Appeal:** Nuclear energy produces large amounts of low-carbon electricity reliably, without the intermittency of wind and solar. For companies with sustainability pledges and rapidly growing energy needs, nuclear is a genuinely attractive solution. For climate advocates who support nuclear as part of decarbonisation, tech investment provides welcome momentum.
 
-**The Friction:** The **nuclear renaissance** reframes a public infrastructure question as a corporate procurement decision. Nuclear plants involve long time horizons, waste management challenges, and risks ultimately borne by the communities and states where they are built — not by the companies signing the power agreements. [[Sacrifice Zones]] may expand to include regions hosting reactors financed by AI demand. The energy transition is real. Who controls it, and for whose purposes, is a different question.
+**The Friction:** The **nuclear renaissance** reframes a public infrastructure question as a corporate procurement decision. Nuclear plants involve long time horizons, waste management challenges, and risks ultimately borne by the communities and states where they are built — not by the companies signing the power agreements. [[Sacrifice Zones]] may expand to include regions hosting reactors financed by AI demand. [[Sovereignty as a Service]] names what the arrangement amounts to: a decision that used to sit with a state is taken by a company, because the company is the party with the demand and the capital. The reactor is public infrastructure either way. What moves is who decided it should exist. The energy transition is real. Who controls it, and for whose purposes, is a different question.
 
 **Why This Matters:** When a technology company's infrastructure demand becomes large enough to reshape national energy policy, the line between private interest and public infrastructure disappears. That disappearance deserves a name.
 
-**Related terms:** [[AI Energy Consumption]] · [[Greenwashing]] · [[Externalized Costs]] · [[Sacrifice Zones]] · [[Digital Colonialism]]
+**Related terms:** [[AI Energy Consumption]] · [[Greenwashing]] · [[Externalized Costs]] · [[Sacrifice Zones]] · [[Digital Colonialism]] · [[Sovereignty as a Service]]
 
 
 ---

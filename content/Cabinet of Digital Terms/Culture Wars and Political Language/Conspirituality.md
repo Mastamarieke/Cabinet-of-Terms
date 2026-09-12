@@ -5,17 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Wellness-to-Alt-Right Pipeline
-  - QAnon
-related_mechanism:
-  - Purity Culture
-  - Social Contagion
-related_consequence:
-  - Great Replacement
-  - QAnon
-related_reaction:
-  - Deplatforming
 ---
 
 ***She started with essential oils. The algorithm did the rest.***
@@ -28,11 +17,11 @@ related_reaction:
 
 **The Appeal:** The overlap is not accidental. Both wellness culture and conspiracy thinking are organised around the same premise: mainstream institutions are hiding something that threatens you, and knowledge of the hidden truth empowers you to protect yourself. The move from "big pharma hides the cure" to "global elites control governments" is structurally small. The community, the sense of mission, and the insider knowledge are identical in form.
 
-**The Friction:** [[Purity Culture]] — obsession with the clean body as political metaphor — is the shared substrate: the body that must be protected from toxins, vaccines, and corruption maps cleanly onto the nation that must be protected from infiltration. [[QAnon]] is the most prominent **conspirituality** destination: wellness communities became documented entry points during the pandemic. [[Wellness-to-Alt-Right Pipeline]] is the trajectory; **conspirituality** is the mechanism that makes the journey feel continuous rather than discontinuous. [[Social Contagion]] rhetoric is common in **conspirituality**: both apply contagion framing to phenomena (identity, belief, political change) that are not actually contagious.
+**The Friction:** [[Purity Culture]] — obsession with the clean body as political metaphor — is the shared substrate: the body that must be protected from toxins, vaccines, and corruption maps cleanly onto the nation that must be protected from infiltration. [[QAnon]] is the most prominent **conspirituality** destination: wellness communities became documented entry points during the pandemic. [[Wellness-to-Alt-Right Pipeline]] is the trajectory; **conspirituality** is the mechanism that makes the journey feel continuous rather than discontinuous. [[Social Contagion]] rhetoric is common in **conspirituality**: both apply contagion framing to phenomena (identity, belief, political change) that are not actually contagious. The algorithm in the opening line has a name: [[Recommender Systems]] supply the continuity, carrying a viewer from wellness content to adjacent material that shares its vocabulary of purity and hidden harm. The pipeline is not only a set of ideas that happen to fit together, it is also a ranking that keeps offering the next step.
 
 **Why This Matters:** **Conspirituality** makes visible that the path to extremism does not always run through explicit political content. The yoga class, the health food shop, the essential oils community — these are documented entry points. Once you know the shared structure, you can read the pathway.
 
-**Related terms:** [[Wellness-to-Alt-Right Pipeline]] · [[Purity Culture]] · [[QAnon]] · [[Social Contagion]] · [[Deplatforming]]
+**Related terms:** [[Wellness-to-Alt-Right Pipeline]] · [[Purity Culture]] · [[QAnon]] · [[Social Contagion]] · [[Deplatforming]] · [[Great Replacement]] · [[Recommender Systems]]
 
 
 ---
