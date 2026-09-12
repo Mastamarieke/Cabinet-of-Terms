@@ -5,17 +5,6 @@ analytical_layer: consequence
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Filter Bubble
-  - Recommender Systems
-related_mechanism:
-  - Filter Bubble
-  - Deplatforming
-related_consequence:
-  - Great Replacement
-  - QAnon
-related_reaction:
-  - AI Literacy
 ---
 
 ***Everyone around you agrees. Not because you are right — because the dissenters left.***
@@ -28,11 +17,11 @@ related_reaction:
 
 **The Appeal:** Homogeneous communities provide belonging, validation, and clarity. For students navigating complex social and political environments, spaces of shared belief offer cognitive relief — the effort of constantly negotiating with disagreement is genuinely demanding. Some echo chambers are also communities of genuine solidarity rather than mere confirmation.
 
-**The Friction:** The distinction between **echo chamber** and community is important and contested. What makes an environment an **echo chamber** rather than a legitimate community of shared values is the exclusion of relevant counter-evidence rather than simply shared perspective. [[Filter Bubble]] is what the algorithm produces; the **echo chamber** is what social dynamics maintain. [[Deplatforming]] — removing communities from platforms — can intensify **echo chamber** effects by driving communities to more isolated spaces where the boundaries are maintained more tightly. [[QAnon]] and [[Great Replacement]] are documented examples of radicalisations that develop in conditions of intense **echo chamber** dynamics. Deliberately seeking out the strongest version of opposing arguments — steelmanning — is one counter-practice; [[AI Literacy]] is the structural one.
+**The Friction:** The distinction between **echo chamber** and community is important and contested. What makes an environment an **echo chamber** rather than a legitimate community of shared values is the exclusion of relevant counter-evidence rather than simply shared perspective. [[Filter Bubble]] is what the algorithm produces; the **echo chamber** is what social dynamics maintain. [[Deplatforming]] — removing communities from platforms — can intensify **echo chamber** effects by driving communities to more isolated spaces where the boundaries are maintained more tightly. [[QAnon]] and [[Great Replacement]] are documented examples of radicalisations that develop in conditions of intense **echo chamber** dynamics. [[Incel]] forums are a third, and the best measured: [[DeVettor-Incel-2025|De Vettor et al. (2025)]] name the echo chamber as one of the main ways red pill ideology is taught, and a survey of over 250 forum members found that participation hardens the views of those already most hostile. Deliberately seeking out the strongest version of opposing arguments — steelmanning — is one counter-practice; [[AI Literacy]] is the structural one.
 
 **Why This Matters:** **Echo chamber** makes visible a specific epistemic risk: not that you are being lied to, but that you are hearing only confirming voices. Once you can name the condition, you can ask: who is absent from this conversation, and why?
 
-**Related terms:** [[Filter Bubble]] · [[Recommender Systems]] · [[QAnon]] · [[Flood the Zone]] · [[Narrative Engineering]] · [[AI Literacy]] · [[Deplatforming]] · [[Great Replacement]]
+**Related terms:** [[Filter Bubble]] · [[Recommender Systems]] · [[QAnon]] · [[Flood the Zone]] · [[Narrative Engineering]] · [[AI Literacy]] · [[Deplatforming]] · [[Great Replacement]] · [[Incel]]
 
 
 ---
