@@ -5,12 +5,6 @@ analytical_layer: consequence
 status: publieksversie
 version: V1
 analysis_version: pending
-related_cause:
-related_mechanism:
-related_consequence:
-  - technostress
-related_reaction:
-  - []
 ---
 
 ***Your downloads folder has 4,000 files. You have not opened most of them. You have never once decided to keep them.***

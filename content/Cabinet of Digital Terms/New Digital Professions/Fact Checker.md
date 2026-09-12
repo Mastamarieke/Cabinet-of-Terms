@@ -5,18 +5,6 @@ analytical_layer: reaction
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Bot Farms
-  - Synthetic Generation
-  - Ragebaiting
-related_mechanism:
-  - Content Moderator
-  - Flood the Zone
-related_consequence:
-  - Deplatforming
-related_reaction:
-  - AI Literacy
-  - Slow Media
 ---
 
 ***The claim spread in four hours. The correction took two days. The correction reached fewer people.***

@@ -5,18 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V1
 analysis_version: pending
-related_cause:
-  - The Singularity
-  - Transhumanism
-related_mechanism:
-  - The Matrix
-  - Longtermism
-related_consequence:
-  - Doomerism
-  - Longtermism
-related_reaction:
-  - Situated Knowledge
-  - AI Literacy
 ---
 
 ***We are probably living in a simulation. Bostrom calculated the odds. Musk brought it up at a party.***

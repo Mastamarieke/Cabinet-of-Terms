@@ -5,16 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Surveillance Capitalism
-  - Privacy Washing
-related_mechanism:
-  - Privacy Washing
-  - Microtargeting
-related_consequence:
-  - Privacy Washing
-  - Algorithmic Violence
-related_reaction:
 ---
 
 ***Technically true. Designed to be understood as meaning something it does not say.***

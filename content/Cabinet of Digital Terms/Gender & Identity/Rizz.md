@@ -5,16 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - SMV (Sexual Market Value)
-  - Subcultural Vocabulary and Platform Language
-related_mechanism:
-  - Looksmaxxing
-  - Top 1% Man
-related_consequence:
-  - Comparison Culture
-related_reaction:
-  - Podcast-bro
 ---
 
 ***Charisma has been quantified, ranked, and turned into a skill you can train. The training is sold online.***
@@ -31,7 +21,7 @@ related_reaction:
 
 **Why This Matters:** **Rizz** is a useful reminder that subcultural vocabulary travels with its original context stripped away — and that the new context it enters shapes what the word becomes. In its original register, rizz was descriptive. In the self-improvement ecosystem, it became a product.
 
-**Related terms:** [[Looksmaxxing]] · [[Hypergamy]] · [[Incel]] · [[SMV (Sexual Market Value)]] · [[High Value Man]] · [[Manosphere]]
+**Related terms:** [[Looksmaxxing]] · [[Hypergamy]] · [[Incel]] · [[SMV (Sexual Market Value)]] · [[High Value Man]] · [[Manosphere]] · [[Top 1% Man]] · [[Comparison Culture]] · [[Podcast-bro]]
 
 
 ---

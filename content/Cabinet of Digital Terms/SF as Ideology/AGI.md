@@ -5,18 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V1
 analysis_version: pending
-related_cause:
-  - The Singularity
-  - AI as a Utility
-related_mechanism:
-  - Digital Frankenstein
-  - Mythos Moment
-related_consequence:
-  - Doomerism
-  - Longtermism
-related_reaction:
-  - AI Literacy
-  - Red Teamer
 ---
 
 ***Nobody agrees on what it means. Everyone agrees it will change everything. The funding continues.***

@@ -5,18 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Flood the Zone
-  - Synthetic Generation
-related_mechanism:
-  - Recommender Systems
-  - Microtargeting
-related_consequence:
-  - Great Replacement
-  - QAnon
-related_reaction:
-  - Deplatforming
-  - Fact Checker
 ---
 
 ***The opinion was trending. Thousands of accounts were sharing it. Most of those accounts were created last month.***

@@ -5,11 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V1
 analysis_version: pending
-related_cause:
-related_mechanism:
-related_consequence:
-related_reaction:
-  - unblackboxing
 ---
 
 ***The story was not true. It was not meant to be believed. It was meant to be repeated.***

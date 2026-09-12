@@ -5,11 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V1
 analysis_version: pending
-related_cause:
-related_mechanism:
-related_consequence:
-related_reaction:
-  - unblackboxing
 ---
 
 ***Your posts are still up. You can still see them. Nobody else can.***

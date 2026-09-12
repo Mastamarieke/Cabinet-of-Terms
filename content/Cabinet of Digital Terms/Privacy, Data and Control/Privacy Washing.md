@@ -5,17 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Surveillance Capitalism
-  - Dark Patterns
-related_mechanism:
-  - Security Theater
-  - Deceptive Design
-related_consequence:
-  - Algorithmic Violence
-  - Vendor Lock-in
-related_reaction:
-  - Brussels Effect
 ---
 
 ***The privacy policy is fourteen pages long. The data collection continues unchanged.***

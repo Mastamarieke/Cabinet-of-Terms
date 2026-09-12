@@ -5,18 +5,6 @@ analytical_layer: cause
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Attention Economy
-  - Recommender Systems
-related_mechanism:
-  - Hustle Culture
-  - Personal Branding
-related_consequence:
-  - Hustle Culture
-  - Deskilling
-related_reaction:
-  - Fair Patterns
-  - AI Literacy
 ---
 
 ***The platform is your employer. The algorithm sets your hours. The content is your labour.***

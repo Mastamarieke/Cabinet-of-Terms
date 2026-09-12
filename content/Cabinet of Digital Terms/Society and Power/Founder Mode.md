@@ -5,18 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V1
 analysis_version: pending
-related_cause:
-  - Muskism
-  - Objectivism (Rand)
-related_mechanism:
-  - Hubris Syndrome
-  - Broligarchy
-related_consequence:
-  - Hubris Syndrome
-  - Technofascism
-related_reaction:
-  - Brussels Effect
-  - Situated Knowledge
 ---
 
 ***The founder knows best. The governance structures are friction. The employees should get out of the way.***

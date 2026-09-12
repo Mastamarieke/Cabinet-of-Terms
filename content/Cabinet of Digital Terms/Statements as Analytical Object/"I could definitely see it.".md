@@ -5,14 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Dual-Use Technology
-related_mechanism:
-  - Military-Industrial Complex
-  - Obfuscation
-related_consequence:
-  - Digital-Military-Industrial Complex
-related_reaction:
 ---
 
 ***Neither yes nor no. Every door left open.***

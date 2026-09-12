@@ -5,18 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V1
 analysis_version: pending
-related_cause:
-  - Manosphere
-  - Recommender Systems
-related_mechanism:
-  - Red Pill
-  - Incel
-related_consequence:
-  - Great Replacement
-  - Dehumanization
-related_reaction:
-  - AI Literacy
-  - Deplatforming
 ---
 
 ***A television drama as evidence. The mainstream caught up with what researchers had been documenting for years.***

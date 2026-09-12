@@ -5,17 +5,6 @@ analytical_layer: reaction
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Dark Patterns
-  - Predatory Design
-related_mechanism:
-  - Fair Patterns
-  - Deceptive Design
-related_consequence:
-  - Unblackboxing
-related_reaction:
-  - Calm Technology
-  - Fair Patterns
 ---
 
 ***Before building the system, someone asked: whose values does this embed — and who did not get a seat at the table?***

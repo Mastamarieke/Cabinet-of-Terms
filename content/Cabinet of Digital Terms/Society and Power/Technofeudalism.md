@@ -5,18 +5,6 @@ analytical_layer: consequence
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Surveillance Capitalism
-  - Vendor Lock-in
-related_mechanism:
-  - Muskism
-  - Sovereignty as a Service
-related_consequence:
-  - Muskism
-  - Sovereignty as a Service
-related_reaction:
-  - Brussels Effect
-  - Cyberfeminism
 ---
 
 ***You work on their platform. They set the terms. You have nowhere else to go.***
@@ -33,7 +21,7 @@ related_reaction:
 
 **Why This Matters:** **Technofeudalism** names the political-economic structure that **surveillance capitalism** has built. Once you see the feudal analogy, the language of "free markets" and "competition" as descriptions of the digital economy becomes legible as ideology rather than description.
 
-**Related terms:** [[Surveillance Capitalism (Political Economy)]] · [[Muskism]] · [[Vendor Lock-in]] · [[Sovereignty as a Service]] · [[Brussels Effect]] · [[Cyberfeminism]]
+**Related terms:** [[Surveillance Capitalism (Political Economy)]] · [[Muskism]] · [[Vendor Lock-in]] · [[Sovereignty as a Service]] · [[Brussels Effect]] · [[Cyberfeminism]] · [[Surveillance Capitalism]]
 
 
 ---

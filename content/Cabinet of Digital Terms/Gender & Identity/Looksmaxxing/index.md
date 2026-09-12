@@ -8,18 +8,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V3
 analysis_version: pending
-related_cause:
-  - SMV (Sexual Market Value)
-  - Manosphere
-related_mechanism:
-  - Comparison Culture
-  - Blackpill
-related_consequence:
-  - Body Dysmorphic Disorder
-  - Blackpill
-  - Subhuman
-related_reaction:
-  - Deinfluencing
 entry_image: looksmaxxing.png
 entry_image_caption: "By the Narrative Typographer Anne-Marie Bruinsma"
 semantic_landscape: |

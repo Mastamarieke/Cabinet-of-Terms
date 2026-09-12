@@ -5,17 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Surveillance Capitalism
-  - Technofeudalism
-related_mechanism:
-  - Algorithmic Violence
-  - Panopticon
-related_consequence:
-  - Algorithmic Violence
-  - Sovereignty as a Service
-related_reaction:
-  - VSD (Value Sensitive Design)
 ---
 
 ***The decision was made by the system. No one is responsible. No one can be appealed to.***
@@ -32,7 +21,7 @@ related_reaction:
 
 **Why This Matters:** **Cybernetic governance** names the political stakes of what looks like administrative efficiency. Once you see algorithms as governance — not just tools — the question of who designs them, whose values they encode, and who bears their errors becomes a constitutional question.
 
-**Related terms:** [[Algorithmic Violence]] · [[Panopticon]] · [[Sovereignty as a Service]] · [[Surveillance Capitalism (Political Economy)]] · [["Like Prime, but with human beings."]] · [[Technofeudalism]] · [[VSD (Value Sensitive Design)]]
+**Related terms:** [[Algorithmic Violence]] · [[Panopticon]] · [[Sovereignty as a Service]] · [[Surveillance Capitalism (Political Economy)]] · [["Like Prime, but with human beings."]] · [[Technofeudalism]] · [[VSD (Value Sensitive Design)]] · [[Surveillance Capitalism]]
 
 
 ---

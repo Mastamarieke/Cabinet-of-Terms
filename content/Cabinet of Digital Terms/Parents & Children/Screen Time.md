@@ -5,18 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Predatory Design
-  - Dopamine Feedback Loops
-related_mechanism:
-  - Gaming Disorder
-  - Brain Rot
-related_consequence:
-  - Gaming Disorder
-  - Brain Rot
-related_reaction:
-  - Digital Detox
-  - Calm Technology
 ---
 
 ***The paediatrician asks how many hours. The app tracks it. The platform that designed the product to be irresistible is not part of the conversation.***

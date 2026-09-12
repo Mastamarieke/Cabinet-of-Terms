@@ -5,18 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Creator Economy
-  - Hustle Culture
-related_mechanism:
-  - Curated Life
-  - Highlight Reel
-related_consequence:
-  - Imposter Syndrome
-  - Comparison Culture
-related_reaction:
-  - JOMO
-  - Deinfluencing
 ---
 
 ***You are not a person. You are a product. This is now expected before you graduate.***

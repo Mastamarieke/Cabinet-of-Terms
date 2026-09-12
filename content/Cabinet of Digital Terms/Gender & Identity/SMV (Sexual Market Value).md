@@ -5,20 +5,6 @@ analytical_layer: cause
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Manosphere
-  - Recommender Systems
-related_mechanism:
-  - Looksmaxxing
-  - Tradwife
-  - Hypergamy
-related_consequence:
-  - Incel
-  - Blackpill
-  - Comparison Culture
-  - Body Dysmorphic Disorder
-related_reaction:
-  - Womanosphere
 ---
 
 ***Attractiveness, status, and income reduced to a single number. The number determines your worth.***
@@ -35,7 +21,7 @@ related_reaction:
 
 **Why This Matters:** SMV is the conceptual foundation of the entire cluster. Once you understand it, the rest of the vocabulary becomes readable as a single system: all the other terms are positions, strategies, or responses within the same market framework.
 
-**Related terms:** [[Hypergamy]] · [[Blackpill]] · [[Incel]] · [[Manosphere]] · [[Alpha Male]] · [[Sigma Male]] · [[Looksmaxxing]] · [[Tradwife]] · [[Body Dysmorphic Disorder]] · [[Recommender Systems]]
+**Related terms:** [[Hypergamy]] · [[Blackpill]] · [[Incel]] · [[Manosphere]] · [[Alpha Male]] · [[Sigma Male]] · [[Looksmaxxing]] · [[Tradwife]] · [[Body Dysmorphic Disorder]] · [[Recommender Systems]] · [[Comparison Culture]] · [[Womanosphere]]
 
 
 ---

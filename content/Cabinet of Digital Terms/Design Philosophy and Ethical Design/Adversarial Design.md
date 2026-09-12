@@ -5,15 +5,6 @@ analytical_layer: reaction
 status: publieksversie
 version: V1
 analysis_version: pending
-related_cause:
-  - Deceptive Design
-  - Dark Patterns
-related_mechanism:
-  - Persuasive Technology
-related_consequence:
-  - Unblackboxing
-related_reaction:
-  - Fair Patterns
 ---
 
 ***The poster does not explain the problem. It makes you feel the problem — and asks who benefits from it staying that way.***

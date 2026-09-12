@@ -5,16 +5,6 @@ analytical_layer: consequence
 status: publieksversie
 version: V1
 analysis_version: pending
-related_cause:
-  - Predatory Design
-  - Dopamine Feedback Loops
-related_mechanism:
-  - Tech Neck
-  - Nomophobia
-related_consequence:
-  - Technostress
-related_reaction:
-  - Digital Detox
 ---
 
 ***Your fingers cramp after an hour of scrolling. Your physiotherapist has started seeing a pattern.***

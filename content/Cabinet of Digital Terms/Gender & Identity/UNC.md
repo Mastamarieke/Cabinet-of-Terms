@@ -5,16 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Subcultural Vocabulary and Platform Language
-  - Manosphere
-related_mechanism:
-  - NPC
-  - Sigma Male
-related_consequence:
-  - Ageism (Digital)
-related_reaction:
-  - Digital Coach
 ---
 
 ***The adult in the room who does not understand the reference. The label ends the conversation.***
@@ -31,7 +21,7 @@ related_reaction:
 
 **Why This Matters:** UNC is a small term that does a specific job: it marks a generational and cultural boundary and assigns the person outside it as irrelevant. Once you see boundary terms for what they do, you can ask what conversation they are protecting — and who they are keeping out of it.
 
-**Related terms:** [[NPC]] · [[Sigma Male]] · [[Ageism (Digital)]] · [[Podcast-bro]] · [[Brain Rot]]
+**Related terms:** [[NPC]] · [[Sigma Male]] · [[Ageism (Digital)]] · [[Podcast-bro]] · [[Brain Rot]] · [[Manosphere]] · [[Digital Coach]]
 
 
 ---

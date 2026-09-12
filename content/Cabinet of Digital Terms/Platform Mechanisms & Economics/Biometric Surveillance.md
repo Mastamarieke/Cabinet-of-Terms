@@ -5,18 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Surveillance Capitalism
-  - Microtargeting
-related_mechanism:
-  - Algorithmic Violence
-  - Deceptive Design
-related_consequence:
-  - Algorithmic Violence
-  - Deadnaming
-related_reaction:
-  - Brussels Effect
-  - Privacy, Data and Control
 ---
 
 ***The camera does not just see you. It measures you — your face, your pace, your pulse — and stores the result.***

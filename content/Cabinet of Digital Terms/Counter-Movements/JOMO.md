@@ -5,17 +5,6 @@ analytical_layer: reaction
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - FOMO
-  - Attention Economy
-related_mechanism:
-  - Digital Detox
-  - Counter-Movements
-related_consequence:
-  - FOMO
-related_reaction:
-  - Digital Detox
-  - Slow Media
 ---
 
 ***She turned off notifications on a Tuesday and did not miss anything.***

@@ -5,15 +5,6 @@ analytical_layer: consequence
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Beauty Filter
-  - Comparison Culture
-  - SMV (Sexual Market Value)
-related_mechanism:
-  - Looksmaxxing
-  - Highlight Reel
-related_consequence: []
-related_reaction: []
 ---
 
 ***The face in the mirror does not match the face in her mind. She has checked seventeen times today.***

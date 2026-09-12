@@ -5,17 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Obfuscation
-  - Informatics of Domination
-related_mechanism:
-  - Unblackboxing
-  - Algorithmic Violence
-related_consequence:
-  - Algorithmic Violence
-  - AI Dependency
-related_reaction:
-  - Unblackboxing
 ---
 
 ***The system made a decision. The criteria are proprietary. The appeal process does not exist.***

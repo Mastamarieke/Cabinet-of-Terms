@@ -5,17 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Attention Economy
-  - AI Dependency
-related_mechanism:
-  - Externalized Costs
-  - Cognitive Offloading
-related_consequence:
-  - AI Dependency
-  - Deskilling
-related_reaction:
-  - AI Literacy
 ---
 
 ***You use it every day. You have no idea where it runs, who owns it, or what it costs.***

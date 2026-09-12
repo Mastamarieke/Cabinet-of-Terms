@@ -5,16 +5,6 @@ analytical_layer: consequence
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - AI Energy Consumption
-  - Training Run
-related_mechanism:
-  - Externalized Costs
-related_consequence:
-  - Sacrifice Zones
-  - Digital Colonialism
-related_reaction:
-  - Greenwashing
 ---
 
 ***Cooling requires water. Enormous amounts. Often drawn from regions where water is already scarce.***

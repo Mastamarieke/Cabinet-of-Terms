@@ -5,18 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V1
 analysis_version: pending
-related_cause:
-  - Muskism
-  - Financial Fabulism
-related_mechanism:
-  - Flood the Zone
-  - Synthetic Generation
-related_consequence:
-  - Flood the Zone
-  - Dehumanization
-related_reaction:
-  - AI Literacy
-  - Fact Checker
 ---
 
 ***It looks like Wikipedia. It is produced by an AI owned by someone with documented political positions.***

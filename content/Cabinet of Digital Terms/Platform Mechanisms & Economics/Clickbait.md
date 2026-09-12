@@ -5,18 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Attention Economy
-  - Recommender Systems
-related_mechanism:
-  - Ragebaiting
-  - Empathy Exploit
-related_consequence:
-  - Doomscrolling
-  - AI Slop
-related_reaction:
-  - Slow Media
-  - Fact Checker
 ---
 
 ***You clicked because you had to know. The article told you nothing.***

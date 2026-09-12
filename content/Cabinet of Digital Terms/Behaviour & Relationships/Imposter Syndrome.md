@@ -5,18 +5,6 @@ analytical_layer: consequence
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Comparison Culture
-  - Highlight Reel
-related_mechanism:
-  - Personal Branding
-  - Hustle Culture
-related_consequence:
-  - Doom Spending
-  - Hustle Culture
-related_reaction:
-  - JOMO
-  - Digital Detox
 ---
 
 ***Everyone else seems to know what they are doing. You feel one question away from being found out.***

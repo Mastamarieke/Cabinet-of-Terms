@@ -5,18 +5,6 @@ analytical_layer: cause
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Recommender Systems
-  - Attention Economy
-related_mechanism:
-  - SMV (Sexual Market Value)
-  - Red Pill
-related_consequence:
-  - Incel
-  - Blackpill
-  - Great Replacement
-related_reaction:
-  - Deplatforming
 ---
 
 ***The forums do not advertise themselves as ideology. They advertise themselves as self-improvement.***
@@ -35,7 +23,7 @@ Influencers commonly associated with the **manosphere** include Andrew Tate, who
 
 **Why This Matters:** **Manosphere** names an ecosystem, not a monolith. Once you see it as an ecosystem — with entry points, graduation pathways, and community structures — "he watches those videos" becomes a different kind of observation.
 
-**Related terms:** [[Incel]] · [[MGTOW]] · [[Sigma Male]] · [[Alpha Male]] · [[SMV (Sexual Market Value)]] · [[Blackpill]] · [[Red Pill]] · [[Tradwife]] · [[Dehumanization]] · [[Recommender Systems]]
+**Related terms:** [[Incel]] · [[MGTOW]] · [[Sigma Male]] · [[Alpha Male]] · [[SMV (Sexual Market Value)]] · [[Blackpill]] · [[Red Pill]] · [[Tradwife]] · [[Dehumanization]] · [[Recommender Systems]] · [[Attention Economy]] · [[Great Replacement]] · [[Deplatforming]]
 
 
 ---

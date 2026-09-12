@@ -5,17 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Comparison Culture
-  - Recommender Systems
-related_mechanism:
-  - Curated Life
-  - Influencer
-related_consequence:
-  - Body Dysmorphic Disorder
-  - Comparison Culture
-related_reaction:
-  - Deinfluencing
 ---
 
 ***Everyone shows their best. You compare your worst to their best.***

@@ -5,17 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Surveillance Capitalism
-related_mechanism:
-  - Bot Farms
-  - Microtargeting
-  - Dual-Use Technology
-related_consequence:
-  - Digital-Military-Industrial Complex
-  - Sacrifice Zones
-related_reaction:
-  - AI Literacy
 ---
 
 ***Scale as self-evident value. Five hundred million unknowing data contributors.***

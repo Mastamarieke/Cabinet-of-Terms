@@ -5,18 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V1
 analysis_version: pending
-related_cause:
-  - Attention Economy
-  - Personal Branding
-related_mechanism:
-  - Main Character Energy
-  - Curated Life
-related_consequence:
-  - Comparison Culture
-  - Imposter Syndrome
-related_reaction:
-  - JOMO
-  - Deinfluencing
 ---
 
 ***He does not explain himself. He does not need to. The mystique is the content.***

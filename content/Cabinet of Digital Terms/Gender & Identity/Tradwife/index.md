@@ -8,21 +8,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V3
 analysis_version: pending
-related_cause:
-  - SMV (Sexual Market Value)
-  - Womanosphere
-  - Manosphere
-  - Purity Culture
-related_mechanism:
-  - Provider
-  - Highlight Reel
-  - Looksmaxxing
-related_consequence:
-  - Comparison Culture
-  - Stay-at-home Girlfriend (SAHG)
-  - Wellness-to-Alt-Right Pipeline
-related_reaction:
-  - Deinfluencing
 entry_image: tradwife.jpg
 entry_image_caption: "By Narrative Typographer Marieke de Vogel"
 semantic_landscape: |

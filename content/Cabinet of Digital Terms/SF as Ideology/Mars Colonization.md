@@ -5,17 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V1
 analysis_version: pending
-related_cause:
-  - Transhumanism
-  - Objectivism (Rand)
-related_mechanism:
-  - Fortress Futurism
-  - Longtermism
-related_consequence:
-  - Fortress Futurism
-  - Externalized Costs
-related_reaction:
-  - Situated Knowledge
 ---
 
 ***Escape from Earth, privately funded, personally led. The philanthropy of leaving.***

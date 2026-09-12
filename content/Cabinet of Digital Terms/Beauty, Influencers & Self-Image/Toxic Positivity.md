@@ -5,16 +5,6 @@ analytical_layer: consequence
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Comparison Culture
-  - That Girl
-related_mechanism:
-  - Highlight Reel
-  - Curated Life
-related_consequence:
-  - Comparison Culture
-related_reaction:
-  - Deinfluencing
 ---
 
 ***She lost her job. The comments said: everything happens for a reason.***

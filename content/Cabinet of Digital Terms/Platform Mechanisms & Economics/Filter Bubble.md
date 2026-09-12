@@ -5,18 +5,6 @@ analytical_layer: consequence
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Recommender Systems
-  - Attention Economy
-related_mechanism:
-  - Echo Chamber
-  - Microtargeting
-related_consequence:
-  - Echo Chamber
-  - Great Replacement
-related_reaction:
-  - AI Literacy
-  - Slow Media
 ---
 
 ***You see what confirms what you already think. The algorithm is not lying — it is optimising.***

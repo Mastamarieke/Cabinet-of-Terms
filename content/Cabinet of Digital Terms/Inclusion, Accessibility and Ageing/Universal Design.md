@@ -5,17 +5,6 @@ analytical_layer: reaction
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Digital Exclusion
-  - Ageism (Digital)
-related_mechanism:
-  - Accessibility
-  - Inclusive Design
-related_consequence:
-  - Digital Divide
-related_reaction:
-  - Inclusive Design
-  - VSD (Value Sensitive Design)
 ---
 
 ***The curb cut was designed for wheelchair users. Everyone uses it — cyclists, parents with prams, delivery workers.***

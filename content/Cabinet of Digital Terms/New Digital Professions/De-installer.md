@@ -5,18 +5,6 @@ analytical_layer: reaction
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Predatory Design
-  - Enshittification
-related_mechanism:
-  - Digital Coach
-  - Tech Abandonment
-related_consequence:
-  - Tech Abandonment
-  - Digital Exclusion
-related_reaction:
-  - Digital Coach
-  - Fair Patterns
 ---
 
 ***The app is gone. The data is not.***

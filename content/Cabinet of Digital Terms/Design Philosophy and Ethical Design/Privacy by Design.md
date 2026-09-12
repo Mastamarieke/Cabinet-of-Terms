@@ -5,16 +5,6 @@ analytical_layer: reaction
 status: publieksversie
 version: V1
 analysis_version: pending
-related_cause:
-  - Deceptive Design
-  - Dark Patterns
-related_mechanism:
-  - VSD (Value Sensitive Design)
-  - Surveillance Capitalism
-related_consequence:
-  - Unblackboxing
-related_reaction:
-  - Fair Patterns
 ---
 
 ***The privacy settings are not in the menu. They are in the architecture.***

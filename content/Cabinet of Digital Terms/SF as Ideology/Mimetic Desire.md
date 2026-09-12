@@ -5,17 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V1
 analysis_version: pending
-related_cause:
-  - Attention Economy
-  - Recommender Systems
-related_mechanism:
-  - Comparison Culture
-  - Influencer
-related_consequence:
-  - FOMO
-  - Parasocial Relationship
-related_reaction:
-  - Deinfluencing
 ---
 
 ***You think you want it. But watch who taught you to want it.***

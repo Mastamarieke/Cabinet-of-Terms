@@ -5,18 +5,6 @@ analytical_layer: consequence
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Dopamine Feedback Loops
-  - Predatory Design
-related_mechanism:
-  - Nomophobia
-  - AI Dependency
-related_consequence:
-  - Technostress
-  - Cognitive Surrender
-related_reaction:
-  - Digital Detox
-  - JOMO
 ---
 
 ***Your phone is not vibrating. You feel it anyway.***

@@ -5,16 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - AI Dependency
-  - Dark Patterns
-related_mechanism:
-  - Prompt Engineer
-related_consequence:
-  - AI Dependency
-related_reaction:
-  - AI Literacy
-  - VSD (Value Sensitive Design)
 ---
 
 ***Their job is to break the system before someone else does. Their independence is their value. Their structural position compromises it.***

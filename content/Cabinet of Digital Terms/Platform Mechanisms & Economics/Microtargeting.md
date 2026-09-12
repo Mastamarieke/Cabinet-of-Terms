@@ -5,18 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Surveillance Capitalism
-  - Recommender Systems
-related_mechanism:
-  - Bot Farms
-  - Biometric Surveillance
-related_consequence:
-  - Filter Bubble
-  - Great Replacement
-related_reaction:
-  - Brussels Effect
-  - Privacy, Data and Control
 ---
 
 ***Two people search the same thing. They see different ads. Different prices. Different messages.***

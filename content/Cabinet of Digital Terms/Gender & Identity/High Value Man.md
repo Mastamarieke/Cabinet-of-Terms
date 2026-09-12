@@ -5,17 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - SMV (Sexual Market Value)
-  - Manosphere
-related_mechanism:
-  - Top 1% Man
-  - Provider
-related_consequence:
-  - Hustle Culture
-  - Comparison Culture
-related_reaction:
-  - Podcast-bro
 ---
 
 ***Self-improvement as a product, a community, and a ranking system — sold to men who feel they are losing.***
@@ -32,7 +21,7 @@ related_reaction:
 
 **Why This Matters:** **High value man** makes the market metaphor explicit where other masculinity frameworks keep it implicit. Once you see the language — value, investment, return — the relationship between self-improvement content and its commercial infrastructure becomes visible.
 
-**Related terms:** [[SMV (Sexual Market Value)]] · [[Top 1% Man]] · [[Alpha Male]] · [[Provider]] · [[Manosphere]] · [[Podcast-bro]] · [[Hustle Culture]]
+**Related terms:** [[SMV (Sexual Market Value)]] · [[Top 1% Man]] · [[Alpha Male]] · [[Provider]] · [[Manosphere]] · [[Podcast-bro]] · [[Hustle Culture]] · [[Comparison Culture]]
 
 
 ---

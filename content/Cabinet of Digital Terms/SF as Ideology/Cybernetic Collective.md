@@ -5,17 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V1
 analysis_version: pending
-related_cause:
-  - Transhumanism
-  - Neuralink
-related_mechanism:
-  - Cyborg Musk
-  - Brain-Computer Interface
-related_consequence:
-  - Technofeudalism
-  - Muskism
-related_reaction:
-  - Cyberfeminism
 ---
 
 ***Human-machine fusion as collective project. The collective framing obscures who owns the infrastructure.***

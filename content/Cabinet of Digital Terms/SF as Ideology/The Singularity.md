@@ -5,18 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V1
 analysis_version: pending
-related_cause:
-  - AGI
-  - Transhumanism
-related_mechanism:
-  - Longtermism
-  - Doomerism
-related_consequence:
-  - Longtermism
-  - Doomerism
-related_reaction:
-  - AI Literacy
-  - Situated Knowledge
 ---
 
 ***Kurzweil set a date. The date keeps moving. The belief does not.***

@@ -5,17 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - SMV (Sexual Market Value)
-  - Manosphere
-related_mechanism:
-  - Womanosphere
-  - Incel
-related_consequence:
-  - Blackpill
-  - Incel
-related_reaction:
-  - MGTOW
 ---
 
 ***The claim: women always want someone higher on the hierarchy. The evidence: personal anecdote, presented as evolutionary biology.***
@@ -32,7 +21,7 @@ related_reaction:
 
 **Why This Matters:** **Hypergamy** makes visible how scientific-sounding vocabulary can function as an unfalsifiable explanation for personal experience. Once the claim is biological and universal, no counter-evidence is possible. That's not science — it's a closed loop.
 
-**Related terms:** [[Incel]] · [[SMV (Sexual Market Value)]] · [[Red Pill]] · [[MGTOW]] · [[Looksmaxxing]] · [[Tradwife]] · [[Blackpill]] · [[Womanosphere]]
+**Related terms:** [[Incel]] · [[SMV (Sexual Market Value)]] · [[Red Pill]] · [[MGTOW]] · [[Looksmaxxing]] · [[Tradwife]] · [[Blackpill]] · [[Womanosphere]] · [[Manosphere]]
 
 
 ---

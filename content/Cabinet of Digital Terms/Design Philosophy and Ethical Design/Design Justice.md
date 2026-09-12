@@ -5,17 +5,6 @@ analytical_layer: reaction
 status: publieksversie
 version: V1
 analysis_version: pending
-related_cause:
-  - Deceptive Design
-  - Dark Patterns
-related_mechanism:
-  - Participatory Design
-  - VSD (Value Sensitive Design)
-related_consequence:
-  - Unblackboxing
-related_reaction:
-  - Fair Patterns
-  - Adversarial Design
 ---
 
 ***The app was designed for everyone. Everyone who looks like the design team.***
@@ -32,7 +21,7 @@ related_reaction:
 
 **Why This Matters:** **Design justice** makes the default visible. Every interface has a default user — and that default is rarely unmarked. Once you see it, the question shifts from "is this accessible?" to "who built this for whom, and who paid the cost of that choice?"
 
-**Related terms:** [[Participatory Design]] · [[VSD (Value Sensitive Design)]] · [[Fair Patterns]] · [[Adversarial Design]] · [[Inclusive Design]] · [[Dark Patterns]] · [[Deceptive Design]]
+**Related terms:** [[Participatory Design]] · [[VSD (Value Sensitive Design)]] · [[Fair Patterns]] · [[Adversarial Design]] · [[Inclusive Design]] · [[Dark Patterns]] · [[Deceptive Design]] · [[Unblackboxing]]
 
 
 ---

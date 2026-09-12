@@ -5,19 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Comparison Culture
-  - Attention Economy
-  - Mimetic Desire
-related_mechanism:
-  - Fitfluencer
-  - Highlight Reel
-  - Curated Life
-related_consequence:
-  - Comparison Culture
-  - Body Dysmorphic Disorder
-related_reaction:
-  - Deinfluencing
 ---
 
 ***She recommends a product. You do not know she was paid to. Neither label is visible.***

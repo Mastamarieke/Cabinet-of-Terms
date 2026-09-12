@@ -5,17 +5,6 @@ analytical_layer: cause
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Attention Economy
-  - Surveillance Capitalism
-related_mechanism:
-  - Recommender Systems
-  - Dopamine Feedback Loops
-related_consequence:
-  - Cognitive Surrender
-  - Echo Chamber
-related_reaction:
-  - AI Literacy
 ---
 
 ***Jaron Lanier spent years inside Silicon Valley before writing down what it actually is: a machine for modifying human behaviour and renting the results.***

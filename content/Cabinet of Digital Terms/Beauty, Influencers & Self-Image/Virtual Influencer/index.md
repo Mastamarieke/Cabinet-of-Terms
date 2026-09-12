@@ -8,20 +8,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V1
 analysis_version: pending
-related_cause:
-  - Influencer
-  - Synthetic Generation
-  - Attention Economy
-  - Recommender Systems
-related_mechanism:
-  - Parasocial Relationship
-  - Highlight Reel
-related_consequence:
-  - Comparison Culture
-  - Catfishing
-  - Body Dysmorphic Disorder
-related_reaction:
-  - Deinfluencing
 semantic_landscape: |
   **Virtual Influencer** occupies a position at the outer limit of the **Beauty, Influencers & Self-Image** cluster — the point at which the influencer form completes itself. Every mechanism the graph already maps — **Highlight Reel**, **Curated Life**, **Comparison Culture** — operates through human influencers who must still edit, select, and maintain the gap between their real and performed selves. The virtual influencer eliminates that gap. There is no self underneath the curation. The highlight reel is not a selection; it is the entire ontology.
 

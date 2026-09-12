@@ -5,18 +5,6 @@ analytical_layer: cause
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Surveillance Capitalism
-  - Recommender Systems
-related_mechanism:
-  - Attention Harvesting
-  - Dopamine Feedback Loops
-related_consequence:
-  - Cognitive Surrender
-  - Doomscrolling
-related_reaction:
-  - Calm Technology
-  - Digital Detox
 ---
 
 ***Every app, every notification, every autoplay is competing for the same thing: the next few seconds of your focus.***

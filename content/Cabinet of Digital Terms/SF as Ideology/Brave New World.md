@@ -5,18 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V1
 analysis_version: pending
-related_cause:
-  - Attention Economy
-  - Dopamine Feedback Loops
-related_mechanism:
-  - 1984
-  - BUMMER
-related_consequence:
-  - Cognitive Surrender
-  - Deskilling
-related_reaction:
-  - Slow Media
-  - AI Literacy
 ---
 
 ***Control through pleasure, not fear. Huxley wrote it in 1932. Platform designers did not need to read it.***

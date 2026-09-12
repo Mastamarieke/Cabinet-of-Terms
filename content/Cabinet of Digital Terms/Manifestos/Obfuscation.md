@@ -5,17 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Black Box
-  - Surveillance Capitalism
-related_mechanism:
-  - Dark Patterns
-  - Privacy Washing
-related_consequence:
-  - Algorithmic Violence
-  - Vendor Lock-in
-related_reaction:
-  - Unblackboxing
 ---
 
 ***The terms and conditions are forty-seven pages. This is not an accident.***

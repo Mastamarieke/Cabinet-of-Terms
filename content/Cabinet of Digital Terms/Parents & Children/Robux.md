@@ -5,17 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Roblox
-  - Predatory Design
-related_mechanism:
-  - Loot Boxes
-related_consequence:
-  - Gaming Disorder
-  - Loot Boxes
-related_reaction:
-  - Brussels Effect
-  - Fair Patterns
 ---
 
 ***The money is not called money. It is called Robux. The child does not notice the difference.***

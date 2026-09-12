@@ -5,18 +5,6 @@ analytical_layer: consequence
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Enshittification
-  - Surveillance Capitalism
-related_mechanism:
-  - CLOUD Act
-  - Technofeudalism
-related_consequence:
-  - Technofeudalism
-  - Algorithmic Violence
-related_reaction:
-  - Brussels Effect
-  - Fair Patterns
 ---
 
 ***The state cannot cancel the contract. There is no alternative supplier. There is no exit.***

@@ -5,17 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - AI Slop
-  - Bot Farms
-related_mechanism:
-  - Microtargeting
-related_consequence:
-  - AI Slop
-  - Age of Average
-related_reaction:
-  - AI Literacy
-  - Fact Checker
 ---
 
 ***The photo looks real. The voice sounds familiar. The person never existed. The statement was never made.***

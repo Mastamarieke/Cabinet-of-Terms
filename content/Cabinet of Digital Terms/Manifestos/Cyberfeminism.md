@@ -5,17 +5,6 @@ analytical_layer: reaction
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Informatics of Domination
-  - Digital Libertarianism
-related_mechanism:
-  - Cyborg
-  - Situated Knowledge
-related_consequence:
-  - Situated Knowledge
-related_reaction:
-  - Cyborg
-  - Inclusive Design
 ---
 
 ***VNS Matrix published the manifesto in 1991. The tech industry ignored it. The internet was built anyway.***

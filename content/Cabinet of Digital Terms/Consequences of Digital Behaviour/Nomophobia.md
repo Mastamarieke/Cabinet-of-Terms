@@ -5,18 +5,6 @@ analytical_layer: consequence
 status: publieksversie
 version: V1
 analysis_version: pending
-related_cause:
-  - Predatory Design
-  - Dopamine Feedback Loops
-related_mechanism:
-  - Phantom Vibration Syndrome
-  - AI Dependency
-related_consequence:
-  - Technostress
-  - Cognitive Surrender
-related_reaction:
-  - Digital Detox
-  - JOMO
 ---
 
 ***You left the phone at home. You turned back after three minutes.***

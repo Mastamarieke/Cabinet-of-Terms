@@ -5,17 +5,6 @@ analytical_layer: consequence
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Training Run
-  - Inference Cost
-related_mechanism:
-  - Externalized Costs
-  - Data Center Water Consumption
-related_consequence:
-  - Sacrifice Zones
-  - Digital Colonialism
-related_reaction:
-  - Greenwashing
 ---
 
 ***Every question you ask a model costs electricity. The bill goes somewhere. Not to you.***

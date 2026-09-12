@@ -5,17 +5,6 @@ analytical_layer: consequence
 status: publieksversie
 version: V1
 analysis_version: pending
-related_cause:
-  - Digital Frankenstein
-  - Longtermism
-related_mechanism:
-  - Skynet
-  - AGI
-related_consequence:
-  - Longtermism
-related_reaction:
-  - AI Literacy
-  - Situated Knowledge
 ---
 
 ***The disaster is inevitable. Resistance is futile. This belief is very convenient for the people causing the disaster.***

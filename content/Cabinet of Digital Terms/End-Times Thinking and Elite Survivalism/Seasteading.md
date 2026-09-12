@@ -5,17 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V1
 analysis_version: pending
-related_cause:
-  - Muskism
-  - Objectivism (Rand)
-related_mechanism:
-  - Fortress Futurism
-  - Sovereignty as a Service
-related_consequence:
-  - Fortress Futurism
-  - Technofeudalism
-related_reaction:
-  - Situated Knowledge
 ---
 
 ***Build a new society in international waters, outside any jurisdiction. The design is still in progress.***

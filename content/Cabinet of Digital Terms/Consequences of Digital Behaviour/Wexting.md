@@ -5,12 +5,6 @@ analytical_layer: consequence
 status: publieksversie
 version: V1
 analysis_version: pending
-related_cause:
-related_mechanism:
-related_consequence:
-  - technostress
-related_reaction:
-  - []
 ---
 
 ***The traffic light is now on the ground. The street adapted to the phone.***

@@ -5,18 +5,6 @@ analytical_layer: consequence
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Vendor Lock-in
-  - Technofeudalism
-related_mechanism:
-  - Cybernetic Governance
-  - CLOUD Act
-related_consequence:
-  - Technofeudalism
-  - Muskism
-related_reaction:
-  - Brussels Effect
-  - Situated Knowledge
 ---
 
 ***The state runs on AWS. The military uses Microsoft. Sovereignty has been outsourced.***
@@ -33,7 +21,7 @@ related_reaction:
 
 **Why This Matters:** **Sovereignty as a Service** names the political condition produced when efficiency arguments consistently win procurement decisions. Once you see the dependency accumulating, "the vendor has access to the data" is not a data security problem — it is a sovereignty problem.
 
-**Related terms:** [[Vendor Lock-in]] · [[CLOUD Act]] · [[Technofeudalism]] · [[Muskism]] · [[Brussels Effect]] · [[Cybernetic Governance]]
+**Related terms:** [[Vendor Lock-in]] · [[CLOUD Act]] · [[Technofeudalism]] · [[Muskism]] · [[Brussels Effect]] · [[Cybernetic Governance]] · [[Situated Knowledge]]
 
 
 ---

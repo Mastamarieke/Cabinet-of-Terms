@@ -5,17 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Comparison Culture
-  - Highlight Reel
-related_mechanism:
-  - Influencer
-  - That Girl
-related_consequence:
-  - Body Dysmorphic Disorder
-  - Comparison Culture
-related_reaction:
-  - Deinfluencing
 ---
 
 ***The workout is real. The caption is content. The body is a platform.***

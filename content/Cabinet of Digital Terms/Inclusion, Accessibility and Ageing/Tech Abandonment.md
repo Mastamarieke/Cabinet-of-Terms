@@ -5,17 +5,6 @@ analytical_layer: consequence
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Ageism (Digital)
-  - Digital Ageing
-related_mechanism:
-  - Digital Exclusion
-  - Technostress
-related_consequence:
-  - Digital Exclusion
-related_reaction:
-  - Universal Design
-  - Inclusive Design
 ---
 
 ***They tried. The interface changed again. The password reset failed. They stopped trying.***

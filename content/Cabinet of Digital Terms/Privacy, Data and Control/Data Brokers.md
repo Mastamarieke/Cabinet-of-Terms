@@ -5,17 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V1
 analysis_version: pending
-related_cause:
-  - Surveillance Capitalism
-  - Dataism
-related_mechanism:
-  - Privacy Washing
-  - Microtargeting
-related_consequence:
-  - Algorithmic Violence
-  - Deadnaming
-related_reaction:
-  - Brussels Effect
 ---
 
 ***Companies you have never heard of know where you live, what you earn, and what your health conditions are.***

@@ -5,16 +5,6 @@ analytical_layer: cause
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - AI Energy Consumption
-related_mechanism:
-  - Carbon Footprint of AI
-  - Externalized Costs
-related_consequence:
-  - Sacrifice Zones
-  - Digital Colonialism
-related_reaction:
-  - Greenwashing
 ---
 
 ***Training one model consumed more energy than most households use in years. Then they trained the next version.***

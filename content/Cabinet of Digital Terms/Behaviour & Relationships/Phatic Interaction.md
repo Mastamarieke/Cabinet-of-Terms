@@ -5,17 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Dopamine Feedback Loops
-  - Attention Economy
-related_mechanism:
-  - Ghosting
-  - Orbiting
-related_consequence:
-  - Cognitive Surrender
-  - Parasocial Relationship
-related_reaction:
-  - JOMO
 ---
 
 ***How are you. Fine. The exchange happened. Nobody meant either sentence.***

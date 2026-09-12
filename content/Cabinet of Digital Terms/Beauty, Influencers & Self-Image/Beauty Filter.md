@@ -5,17 +5,6 @@ analytical_layer: cause
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Comparison Culture
-  - Recommender Systems
-related_mechanism:
-  - Clean Girl Aesthetic
-  - Highlight Reel
-related_consequence:
-  - Body Dysmorphic Disorder
-  - Comparison Culture
-related_reaction:
-  - Deinfluencing
 ---
 
 ***The face in the camera is not your face. You have been looking at it for three years.***

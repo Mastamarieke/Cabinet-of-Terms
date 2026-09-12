@@ -5,18 +5,6 @@ analytical_layer: cause
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Reconstruction Economy
-  - Dual-Use Technology
-related_mechanism:
-  - Revolving Door
-  - Digital-Military-Industrial Complex
-related_consequence:
-  - Digital-Military-Industrial Complex
-  - Reconstruction Economy
-related_reaction:
-  - Brussels Effect
-  - Situated Knowledge
 ---
 
 ***Eisenhower warned about it in his farewell address. The industry he described has since absorbed the internet.***

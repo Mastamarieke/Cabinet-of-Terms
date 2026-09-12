@@ -5,18 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Woke Mind Virus
-  - Groomer
-related_mechanism:
-  - Dehumanization
-  - Social Contagion
-related_consequence:
-  - Subhuman
-  - Purity Culture
-related_reaction:
-  - Deadnaming
-  - Deplatforming
 ---
 
 ***Medical vocabulary, applied to an identity. The scientific framing does the work the evidence cannot.***
@@ -33,7 +21,7 @@ related_reaction:
 
 **Why This Matters:** **Social contagion** makes visible how scientific-sounding language can function as political rhetoric. The question to ask of any contagion claim is: what evidence standard was applied, and who benefits from the framing?
 
-**Related terms:** [[Woke Mind Virus]] · [[Groomer]] · [[Dehumanization]] · [[Purity Culture]] · [[Deadnaming]]
+**Related terms:** [[Woke Mind Virus]] · [[Groomer]] · [[Dehumanization]] · [[Purity Culture]] · [[Deadnaming]] · [[Subhuman]] · [[Deplatforming]]
 
 
 ---

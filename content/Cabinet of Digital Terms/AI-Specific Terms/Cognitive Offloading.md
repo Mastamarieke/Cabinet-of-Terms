@@ -5,17 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - AI Dependency
-  - Sycophancy (AI)
-related_mechanism:
-  - Deskilling
-  - AI Hallucination
-related_consequence:
-  - AI Dependency
-  - Deskilling
-related_reaction:
-  - AI Literacy
 ---
 
 ***You stopped remembering phone numbers when you got a smartphone. You are doing the same thing with thinking.***

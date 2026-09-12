@@ -5,16 +5,6 @@ analytical_layer: consequence
 status: publieksversie
 version: V1
 analysis_version: pending
-related_cause:
-  - Predatory Design
-  - Dopamine Feedback Loops
-related_mechanism:
-  - Text Claw
-  - Smombie
-related_consequence:
-  - Technostress
-related_reaction:
-  - Digital Detox
 ---
 
 ***Your neck hurts. You know why. You are still looking down.***

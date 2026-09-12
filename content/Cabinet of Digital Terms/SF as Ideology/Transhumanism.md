@@ -5,18 +5,6 @@ analytical_layer: cause
 status: publieksversie
 version: V1
 analysis_version: pending
-related_cause:
-  - The Singularity
-  - Objectivism (Rand)
-related_mechanism:
-  - Mind Uploading
-  - Neuralink
-related_consequence:
-  - Longtermism
-  - Fortress Futurism
-related_reaction:
-  - Cyberfeminism
-  - Situated Knowledge
 ---
 
 ***Death is an engineering problem. Aging is a bug. The body is legacy hardware.***

@@ -5,18 +5,6 @@ analytical_layer: cause
 status: publieksversie
 version: V1
 analysis_version: pending
-related_cause:
-  - Muskism
-  - Objectivism (Rand)
-related_mechanism:
-  - Longtermism
-  - Technofascism
-related_consequence:
-  - Technofascism
-  - Doomerism
-related_reaction:
-  - Brussels Effect
-  - AI Literacy
 ---
 
 ***Accelerate everything. Safety concerns are obstacles. The faster we go, the better the outcome. Probably.***

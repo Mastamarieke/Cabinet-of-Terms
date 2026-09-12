@@ -5,17 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Sharenting
-  - Creator Economy
-related_mechanism:
-  - Momfluencer
-  - Kidfluencer
-related_consequence:
-  - Kidfluencer
-  - Parasocial Relationship
-related_reaction:
-  - Deinfluencing
 ---
 
 ***The family vacation is content. The argument at breakfast is content. The child's first day of school is content.***

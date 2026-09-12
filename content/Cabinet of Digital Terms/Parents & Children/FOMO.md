@@ -5,19 +5,6 @@ analytical_layer: consequence
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Dopamine Feedback Loops
-  - Recommender Systems
-  - Mimetic Desire
-related_mechanism:
-  - Comparison Culture
-  - Screen Time
-related_consequence:
-  - Doomscrolling
-  - Comparison Culture
-related_reaction:
-  - JOMO
-  - Digital Detox
 ---
 
 ***Everyone was there. You were not. You saw the photos the next morning.***

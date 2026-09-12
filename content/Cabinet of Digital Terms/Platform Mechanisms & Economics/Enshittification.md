@@ -5,18 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Attention Economy
-  - Vendor Lock-in
-related_mechanism:
-  - Dark Patterns
-  - Recommender Systems
-related_consequence:
-  - Deskilling
-  - Cognitive Surrender
-related_reaction:
-  - Deplatforming
-  - Brussels Effect
 ---
 
 ***Facebook was useful. Then it got worse. Then it got worse again.***

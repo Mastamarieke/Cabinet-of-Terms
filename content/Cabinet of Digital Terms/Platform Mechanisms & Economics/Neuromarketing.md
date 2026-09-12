@@ -5,17 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Attention Economy
-  - Biometric Surveillance
-related_mechanism:
-  - Dark Patterns
-  - Nudging
-related_consequence:
-  - Cognitive Surrender
-related_reaction:
-  - Fair Patterns
-  - VSD (Value Sensitive Design)
 ---
 
 ***Before a product launches, test subjects wear electrodes while watching the ad. Their brain responses — not their opinions — determine what gets changed.***

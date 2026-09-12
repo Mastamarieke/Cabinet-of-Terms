@@ -5,16 +5,6 @@ analytical_layer: reaction
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - AI Energy Consumption
-  - Carbon Footprint of AI
-related_mechanism:
-  - Externalized Costs
-related_consequence:
-  - Sacrifice Zones
-  - Digital Colonialism
-related_reaction:
-  - Nuclear Renaissance
 ---
 
 ***The sustainability pledge was published the same week as the data centre expansion announcement.***

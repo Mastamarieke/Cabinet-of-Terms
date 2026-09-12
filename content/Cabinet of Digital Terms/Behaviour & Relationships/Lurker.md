@@ -5,17 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Attention Economy
-  - Dopamine Feedback Loops
-related_mechanism:
-  - Phatic Interaction
-  - Orbiting
-related_consequence:
-  - Phatic Interaction
-  - Cognitive Surrender
-related_reaction:
-  - JOMO
 ---
 
 ***Present but invisible. Reading without responding.***

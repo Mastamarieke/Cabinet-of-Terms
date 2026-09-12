@@ -5,17 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Creator Economy
-  - Attention Economy
-related_mechanism:
-  - Personal Branding
-  - Doom Spending
-related_consequence:
-  - Doom Spending
-related_reaction:
-  - JOMO
-  - Digital Detox
 ---
 
 ***He works evenings, weekends, holidays. He calls it passion. His manager calls it dedication.***

@@ -5,10 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V1
 analysis_version: pending
-related_cause:
-related_mechanism:
-related_consequence:
-related_reaction:
 ---
 
 ***You opened the app to check one thing. Forty minutes later you are still there.***

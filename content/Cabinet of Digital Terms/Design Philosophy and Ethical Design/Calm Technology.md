@@ -5,17 +5,6 @@ analytical_layer: reaction
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Attention Economy
-  - Dopamine Feedback Loops
-related_mechanism:
-  - VSD (Value Sensitive Design)
-  - Fair Patterns
-related_consequence:
-  - Cognitive Surrender
-related_reaction:
-  - Digital Detox
-  - Mindful Scrolling
 ---
 
 ***The technology is there when you need it. When you do not, you do not notice it.***

@@ -5,18 +5,6 @@ analytical_layer: cause
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Surveillance Capitalism
-  - Algorithmic Violence
-related_mechanism:
-  - Situated Knowledge
-  - Black Box
-related_consequence:
-  - Algorithmic Violence
-  - Digital Colonialism
-related_reaction:
-  - Cyberfeminism
-  - Unblackboxing
 ---
 
 ***The new hierarchies do not announce themselves. They are built into the classification systems.***

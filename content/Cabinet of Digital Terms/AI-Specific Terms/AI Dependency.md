@@ -5,16 +5,6 @@ analytical_layer: consequence
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Cognitive Offloading
-  - Sycophancy (AI)
-related_mechanism:
-  - Deskilling
-  - AI Hallucination
-related_consequence:
-  - Deskilling
-related_reaction:
-  - AI Literacy
 ---
 
 ***You could do this without AI. You no longer remember how.***

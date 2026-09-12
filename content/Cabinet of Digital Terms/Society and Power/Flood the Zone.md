@@ -5,17 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Muskism
-  - Broligarchy
-related_mechanism:
-  - Ragebaiting
-  - Bot Farms
-related_consequence:
-  - Great Replacement
-  - QAnon
-related_reaction:
-  - Fact Checker
 ---
 
 ***There is no single lie to disprove. There is only noise.***

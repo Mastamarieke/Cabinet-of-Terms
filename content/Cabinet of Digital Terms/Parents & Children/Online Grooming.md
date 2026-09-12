@@ -5,17 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Roblox
-  - Predatory Design
-related_mechanism:
-  - Catfishing
-  - Kidfluencer
-related_consequence:
-  - Sexting
-related_reaction:
-  - Brussels Effect
-  - Age Appropriate Design
 ---
 
 ***The contact started as friendship. It took months. The child thought they were the exception.***

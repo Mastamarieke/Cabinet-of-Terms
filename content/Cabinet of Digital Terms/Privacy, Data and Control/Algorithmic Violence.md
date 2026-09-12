@@ -5,18 +5,6 @@ analytical_layer: consequence
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Surveillance Capitalism
-  - Informatics of Domination
-related_mechanism:
-  - Vendor Lock-in
-  - Dataism
-related_consequence:
-  - Digital Exclusion
-  - Dehumanization
-related_reaction:
-  - Brussels Effect
-  - VSD (Value Sensitive Design)
 ---
 
 ***The algorithm denied the benefit. No one decided. No one is responsible.***

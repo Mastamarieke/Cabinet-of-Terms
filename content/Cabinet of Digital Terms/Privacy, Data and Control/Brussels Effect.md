@@ -5,18 +5,6 @@ analytical_layer: reaction
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Surveillance Capitalism
-  - Dark Patterns
-  - Roblox
-  - Robux
-related_mechanism:
-  - CLOUD Act
-related_consequence:
-  - Vendor Lock-in
-related_reaction:
-  - Fair Patterns
-  - Algorithmic Violence
 ---
 
 ***The EU passed a law. A company in California changed its global product.***
@@ -37,7 +25,7 @@ That reach comes at the cost of speed, and a comparison makes the trade visible.
 
 **Why This Matters:** **Brussels Effect** names the most consequential mechanism of global technology governance currently in operation. Once you see how it works — EU market access as regulatory lever — you can read EU digital regulation as having global scope, and assess its adequacy accordingly.
 
-**Related terms:** [[CLOUD Act]] · [[Vendor Lock-in]] · [[Surveillance Capitalism]] · [[Dark Patterns]] · [[Fair Patterns]] · [[Roblox]] · [[Robux]]
+**Related terms:** [[CLOUD Act]] · [[Vendor Lock-in]] · [[Surveillance Capitalism]] · [[Dark Patterns]] · [[Fair Patterns]] · [[Roblox]] · [[Robux]] · [[Algorithmic Violence]]
 
 
 ---

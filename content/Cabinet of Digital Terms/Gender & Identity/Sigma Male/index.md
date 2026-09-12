@@ -8,17 +8,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - SMV (Sexual Market Value)
-  - Alpha Male
-related_mechanism:
-  - Manosphere
-  - NPC
-related_consequence:
-  - Incel
-  - MGTOW
-related_reaction:
-  - Podcast-bro
 entry_image: sigma-male.jpg
 entry_image_caption: "By the Narrative Typographer Anne-Marie Bruinsma"
 semantic_landscape: |

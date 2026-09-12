@@ -5,16 +5,6 @@ analytical_layer: consequence
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Blackpill
-  - Manosphere
-related_mechanism:
-  - Sigma Male
-  - JOMO
-related_consequence:
-  - Incel
-related_reaction:
-  - Deplatforming
 ---
 
 ***He withdrew from relationships with women entirely. He posts about it every day.***
@@ -31,7 +21,7 @@ related_reaction:
 
 **Why This Matters:** **MGTOW** makes visible how personal choices get politicised — and how a community organised around withdrawal can become organised around resentment. The choice to be alone is entirely legitimate. The ideology built on top of it is something different.
 
-**Related terms:** [[Blackpill]] · [[SMV (Sexual Market Value)]] · [[Manosphere]] · [[Incel]] · [[Red Pill]] · [[Hypergamy]] · [[Sigma Male]] · [[JOMO]]
+**Related terms:** [[Blackpill]] · [[SMV (Sexual Market Value)]] · [[Manosphere]] · [[Incel]] · [[Red Pill]] · [[Hypergamy]] · [[Sigma Male]] · [[JOMO]] · [[Deplatforming]]
 
 
 ---

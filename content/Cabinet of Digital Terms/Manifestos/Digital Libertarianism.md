@@ -5,18 +5,6 @@ analytical_layer: cause
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Objectivism (Rand)
-  - Muskism
-related_mechanism:
-  - Hacker Ethic
-  - Technofeudalism
-related_consequence:
-  - Muskism
-  - Technofeudalism
-related_reaction:
-  - Brussels Effect
-  - Cyberfeminism
 ---
 
 ***Barlow declared cyberspace free in 1996. The declaration was made before the platforms arrived.***

@@ -5,18 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V1
 analysis_version: pending
-related_cause:
-  - AGI
-  - Digital Frankenstein
-related_mechanism:
-  - Red Teamer
-  - Doomerism
-related_consequence:
-  - Doomerism
-  - AI Dependency
-related_reaction:
-  - Red Teamer
-  - AI Literacy
 ---
 
 ***The threshold where a model becomes too dangerous to release. The line keeps moving.***

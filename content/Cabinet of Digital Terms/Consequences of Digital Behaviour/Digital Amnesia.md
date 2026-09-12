@@ -5,19 +5,6 @@ analytical_layer: consequence
 status: publieksversie
 version: V1
 analysis_version: pending
-related_cause:
-  - AI Dependency
-  - Cognitive Offloading
-related_mechanism:
-  - Cognitive Surrender
-  - Deskilling
-related_consequence:
-  - Deskilling
-  - Cognitive Surrender
-  - Brain Rot
-related_reaction:
-  - AI Literacy
-  - Digital Detox
 ---
 
 ***You knew the phone number by heart. You have not needed to remember it for four years.***

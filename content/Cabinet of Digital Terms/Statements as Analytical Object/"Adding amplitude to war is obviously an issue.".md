@@ -5,15 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Dual-Use Technology
-related_mechanism:
-  - Military-Industrial Complex
-  - Surveillance Capitalism
-related_consequence:
-  - Sacrifice Zones
-  - Digital-Military-Industrial Complex
-related_reaction:
 ---
 
 ***An acknowledgement that is not a refusal. The word "issue" doing all the work.***

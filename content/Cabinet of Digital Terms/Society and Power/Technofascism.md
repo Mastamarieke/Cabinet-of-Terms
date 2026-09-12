@@ -5,18 +5,6 @@ analytical_layer: consequence
 status: publieksversie
 version: V1
 analysis_version: pending
-related_cause:
-  - Muskism
-  - Broligarchy
-related_mechanism:
-  - Cybernetic Governance
-  - Flood the Zone
-related_consequence:
-  - Sovereign as a Service
-  - Dehumanization
-related_reaction:
-  - Brussels Effect
-  - Cyberfeminism
 ---
 
 ***The historical reference is deliberate.***

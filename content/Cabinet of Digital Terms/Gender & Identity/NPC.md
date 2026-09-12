@@ -5,16 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Gamification Creep
-  - Manosphere
-related_mechanism:
-  - Sigma Male
-  - Dehumanization
-related_consequence:
-  - Dehumanization
-related_reaction:
-  - Red Pill
 ---
 
 ***They walk the same route every day, say the same things, react the same way. The word borrowed from gaming to describe people.***

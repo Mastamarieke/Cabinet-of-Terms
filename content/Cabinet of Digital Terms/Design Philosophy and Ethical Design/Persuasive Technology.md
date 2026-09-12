@@ -5,20 +5,6 @@ analytical_layer: cause
 status: publieksversie
 version: V1
 analysis_version: pending
-related_cause:
-  - Dark Patterns
-  - Nudging
-related_mechanism:
-  - Dopamine Feedback Loops
-  - Gamification Creep
-  - Recommender Systems
-related_consequence:
-  - Cognitive Surrender
-  - Doomscrolling
-related_reaction:
-  - Frictionful Design
-  - Calm Technology
-  - Fair Patterns
 ---
 
 ***The app does not force you to keep scrolling. It simply makes stopping feel like the unnatural option.***

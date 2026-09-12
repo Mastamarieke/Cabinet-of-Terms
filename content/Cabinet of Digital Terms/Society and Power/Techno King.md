@@ -5,16 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Muskism
-  - Broligarchy
-related_mechanism:
-  - Financial Fabulism
-  - Hubris Syndrome
-related_consequence:
-  - Muskism
-related_reaction:
-  - Brussels Effect
 ---
 
 ***He gave himself the title. The SEC investigated. He kept it.***

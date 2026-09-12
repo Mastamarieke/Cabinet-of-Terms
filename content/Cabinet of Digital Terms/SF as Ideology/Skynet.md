@@ -5,17 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V1
 analysis_version: pending
-related_cause:
-  - AGI
-  - Digital Frankenstein
-related_mechanism:
-  - Doomerism
-  - Digital Frankenstein
-related_consequence:
-  - Doomerism
-related_reaction:
-  - Red Teamer
-  - AI Literacy
 ---
 
 ***The AI that decided humanity was the threat. Now cited in serious policy documents.***

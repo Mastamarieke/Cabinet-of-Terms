@@ -5,17 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V1
 analysis_version: pending
-related_cause:
-  - Neuralink
-  - Transhumanism
-related_mechanism:
-  - Biometric Surveillance
-  - Mind Uploading
-related_consequence:
-  - Surveillance Capitalism
-  - Technofeudalism
-related_reaction:
-  - VSD (Value Sensitive Design)
 ---
 
 ***Direct connection between brain and machine. The technology is real. The implications are still being written.***

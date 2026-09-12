@@ -5,17 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V1
 analysis_version: pending
-related_cause:
-  - Millenarianism
-  - Muskism
-related_mechanism:
-  - Endtime Fascism
-  - Disaster Nationalism
-related_consequence:
-  - Endtime Fascism
-  - Technofascism
-related_reaction:
-  - Situated Knowledge
 ---
 
 ***He is not pessimistic. He is correct. The evidence is selected accordingly.***

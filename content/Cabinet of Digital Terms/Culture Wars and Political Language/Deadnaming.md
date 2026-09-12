@@ -5,16 +5,6 @@ analytical_layer: consequence
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Surveillance Capitalism
-  - Social Contagion
-related_mechanism:
-  - Algorithmic Violence
-  - Dehumanization
-related_consequence:
-  - Subhuman
-related_reaction:
-  - Deplatforming
 ---
 
 ***The old name is still indexed. The search engine does not forget.***
@@ -31,7 +21,7 @@ related_reaction:
 
 **Why This Matters:** **Deadnaming** makes visible the specific vulnerability of identity at the intersection of digital permanence and trans existence — and, more broadly, the way that data systems designed for commercial purposes produce identity harms as a structural side effect.
 
-**Related terms:** [[Algorithmic Violence]] · [[Surveillance Capitalism]] · [[Dehumanization]] · [[Social Contagion]]
+**Related terms:** [[Algorithmic Violence]] · [[Surveillance Capitalism]] · [[Dehumanization]] · [[Social Contagion]] · [[Subhuman]] · [[Deplatforming]]
 
 
 ---

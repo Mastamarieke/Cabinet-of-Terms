@@ -5,18 +5,6 @@ analytical_layer: cause
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Digital Colonialism
-  - Surveillance Capitalism
-related_mechanism:
-  - Digital Exclusion
-  - Ageism (Digital)
-related_consequence:
-  - Digital Exclusion
-  - Tech Abandonment
-related_reaction:
-  - Universal Design
-  - Inclusive Design
 ---
 
 ***The government service moved online. Not everyone can get online.***

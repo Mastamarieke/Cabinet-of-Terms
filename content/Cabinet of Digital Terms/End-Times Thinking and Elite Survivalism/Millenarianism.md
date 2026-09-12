@@ -5,18 +5,6 @@ analytical_layer: cause
 status: publieksversie
 version: V1
 analysis_version: pending
-related_cause:
-  - Armageddon Complex
-  - Great Replacement
-related_mechanism:
-  - Disaster Nationalism
-  - Endtime Fascism
-related_consequence:
-  - Endtime Fascism
-  - Doomerism
-related_reaction:
-  - Situated Knowledge
-  - AI Literacy
 ---
 
 ***The old world must end before the new one can begin. This belief recurs across centuries.***

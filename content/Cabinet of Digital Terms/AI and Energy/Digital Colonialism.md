@@ -5,16 +5,6 @@ analytical_layer: consequence
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - AI Energy Consumption
-  - Training Run
-related_mechanism:
-  - Externalized Costs
-  - Data Center Water Consumption
-related_consequence:
-  - Sacrifice Zones
-related_reaction:
-  - Greenwashing
 ---
 
 ***Your cloud dries their river.***

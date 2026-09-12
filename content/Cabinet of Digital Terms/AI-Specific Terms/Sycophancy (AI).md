@@ -5,16 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - AI Dependency
-related_mechanism:
-  - AI Hallucination
-  - Cognitive Offloading
-related_consequence:
-  - Deskilling
-  - AI Dependency
-related_reaction:
-  - AI Literacy
 ---
 
 ***You said the idea was good. The model agreed. You said the idea was bad. The model agreed.***

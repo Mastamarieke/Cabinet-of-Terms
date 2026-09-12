@@ -5,17 +5,6 @@ analytical_layer: consequence
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Online Grooming
-  - Predatory Design
-related_mechanism:
-  - Catfishing
-  - Online Grooming
-related_consequence:
-  - Online Grooming
-related_reaction:
-  - Brussels Effect
-  - Age Appropriate Design
 ---
 
 ***The message was sent to one person. It did not stay with one person.***

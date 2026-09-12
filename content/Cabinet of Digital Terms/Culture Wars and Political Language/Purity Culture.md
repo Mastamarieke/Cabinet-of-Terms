@@ -5,18 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Wellness-to-Alt-Right Pipeline
-  - Conspirituality
-related_mechanism:
-  - Great Replacement
-  - Social Contagion
-  - Tradwife
-related_consequence:
-  - Subhuman
-  - Anti-Woke
-related_reaction:
-  - Deplatforming
 ---
 
 ***The body must be clean. The food must be clean. The community must be clean.***
@@ -33,7 +21,7 @@ related_reaction:
 
 **Why This Matters:** **Purity culture** names the connecting logic across apparently unrelated movements — dietary, religious, nationalist. Once you see the structure, you can read what the contamination anxiety is actually protecting.
 
-**Related terms:** [[Wellness-to-Alt-Right Pipeline]] · [[Great Replacement]] · [[Social Contagion]] · [[Anti-Woke]] · [[Subhuman]] · [[Tradwife]]
+**Related terms:** [[Wellness-to-Alt-Right Pipeline]] · [[Great Replacement]] · [[Social Contagion]] · [[Anti-Woke]] · [[Subhuman]] · [[Tradwife]] · [[Deplatforming]] · [[Conspirituality]]
 
 
 ---

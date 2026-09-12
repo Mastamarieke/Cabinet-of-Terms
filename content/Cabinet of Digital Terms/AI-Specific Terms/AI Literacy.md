@@ -5,17 +5,6 @@ analytical_layer: reaction
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - AI Dependency
-  - Cognitive Offloading
-related_mechanism:
-  - AI Hallucination
-  - Sycophancy (AI)
-related_consequence:
-  - Deskilling
-related_reaction:
-  - AI-Ninja
-  - Prompt Engineer
 ---
 
 ***Using AI is not the same as understanding it. The gap between the two is where the problems are.***

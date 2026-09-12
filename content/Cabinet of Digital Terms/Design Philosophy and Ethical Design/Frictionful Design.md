@@ -5,18 +5,6 @@ analytical_layer: reaction
 status: publieksversie
 version: V1
 analysis_version: pending
-related_cause:
-  - Dark Patterns
-  - Dopamine Feedback Loops
-related_mechanism:
-  - Nudging
-  - Persuasive Technology
-related_consequence:
-  - Cognitive Surrender
-  - Doomscrolling
-related_reaction:
-  - Calm Technology
-  - Fair Patterns
 ---
 
 ***You want to delete your account. The platform asks: are you sure? Are you really sure? Have you considered what you'll lose?***

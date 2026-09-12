@@ -5,17 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V1
 analysis_version: pending
-related_cause:
-  - Military-Industrial Complex
-  - Digital-Military-Industrial Complex
-related_mechanism:
-  - Revolving Door
-related_consequence:
-  - Digital-Military-Industrial Complex
-  - Reconstruction Economy
-related_reaction:
-  - Brussels Effect
-  - Red Teamer
 ---
 
 ***The GPS in your phone was developed by the military. The AI writing your emails is training drone targeting.***

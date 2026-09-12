@@ -5,18 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V1
 analysis_version: pending
-related_cause:
-  - Muskism
-  - Broligarchy
-related_mechanism:
-  - Endtime Fascism
-  - Flood the Zone
-related_consequence:
-  - Technofascism
-  - Endtime Fascism
-related_reaction:
-  - AI Literacy
-  - Fact Checker
 ---
 
 ***The first term was not radical enough. This one is.***

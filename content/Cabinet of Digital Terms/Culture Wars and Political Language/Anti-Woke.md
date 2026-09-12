@@ -5,17 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Woke Mind Virus
-  - Red Pill
-related_mechanism:
-  - Dehumanization
-  - Flood the Zone
-related_consequence:
-  - Purity Culture
-  - Great Replacement
-related_reaction:
-  - Deplatforming
 ---
 
 ***The identity is entirely defined by what it opposes. Remove the target and there is nothing left.***
@@ -32,7 +21,7 @@ related_reaction:
 
 **Why This Matters:** **Anti-woke** makes visible what happens when a political identity is constituted entirely by negation. The movement cannot win, because winning would dissolve the identity. The opposition is the point.
 
-**Related terms:** [[Woke Mind Virus]] · [[Red Pill]] · [[Dehumanization]] · [[Flood the Zone]] · [[Purity Culture]]
+**Related terms:** [[Woke Mind Virus]] · [[Red Pill]] · [[Dehumanization]] · [[Flood the Zone]] · [[Purity Culture]] · [[Great Replacement]] · [[Deplatforming]]
 
 
 ---

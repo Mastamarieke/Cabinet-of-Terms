@@ -5,17 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Dark Patterns
-  - Recommender Systems
-related_mechanism:
-  - Algospeak
-related_consequence:
-  - Technostress
-  - Deplatforming
-related_reaction:
-  - Fact Checker
-  - Fair Patterns
 ---
 
 ***She reviews graphic violence for eight hours a day. The platform calls this trust and safety.***

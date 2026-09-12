@@ -5,17 +5,6 @@ analytical_layer: consequence
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Synthetic Generation
-  - AI Dependency
-related_mechanism:
-  - Recommender Systems
-  - Slopification
-related_consequence:
-  - Age of Average
-  - Deskilling
-related_reaction:
-  - AI Literacy
 ---
 
 ***You read the article to the end and retained nothing. Not because you were distracted — because there was nothing there.***

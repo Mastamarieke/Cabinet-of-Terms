@@ -5,16 +5,6 @@ analytical_layer: consequence
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - SMV (Sexual Market Value)
-  - Tradwife
-related_mechanism:
-  - Provider
-  - Womanosphere
-related_consequence:
-  - Comparison Culture
-related_reaction:
-  - Womanosphere
 ---
 
 ***Financial dependence without marriage. A relationship model promoted as freedom — on platforms built by investors.***

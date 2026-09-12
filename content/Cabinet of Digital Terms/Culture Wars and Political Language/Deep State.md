@@ -5,17 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Red Pill
-  - QAnon
-related_mechanism:
-  - Flood the Zone
-  - Great Replacement
-related_consequence:
-  - QAnon
-  - Dark MAGA
-related_reaction:
-  - Deplatforming
 ---
 
 ***Two incompatible definitions sharing one word. The confusion is useful to one of them.***
@@ -32,7 +21,7 @@ related_reaction:
 
 **Why This Matters:** **Deep state** is a case study in how a useful analytical concept becomes unusable through semantic capture. The legitimate concern — unaccountable bureaucratic power — gets absorbed into conspiracy discourse, making it harder to address on its own terms.
 
-**Related terms:** [[QAnon]] · [[Red Pill]] · [[Flood the Zone]] · [[Great Replacement]] · [[Deplatforming]]
+**Related terms:** [[QAnon]] · [[Red Pill]] · [[Flood the Zone]] · [[Great Replacement]] · [[Deplatforming]] · [[Dark MAGA]]
 
 
 ---

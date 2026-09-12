@@ -5,18 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V1
 analysis_version: pending
-related_cause:
-  - Transhumanism
-  - Brain-Computer Interface
-related_mechanism:
-  - Neuralink
-  - The Singularity
-related_consequence:
-  - Longtermism
-  - Fortress Futurism
-related_reaction:
-  - Situated Knowledge
-  - Cyberfeminism
 ---
 
 ***Live forever in a server. Whether that is still you is a question for philosophers. The engineers have already moved on.***

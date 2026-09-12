@@ -5,13 +5,6 @@ analytical_layer: consequence
 status: publieksversie
 version: V1
 analysis_version: pending
-related_cause:
-related_mechanism:
-  - doomscrolling
-related_consequence:
-  - technostress
-related_reaction:
-  - unblackboxing
 ---
 
 ***You have read everything and retained nothing.***

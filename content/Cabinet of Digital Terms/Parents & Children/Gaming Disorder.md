@@ -5,18 +5,6 @@ analytical_layer: consequence
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Predatory Design
-  - Dopamine Feedback Loops
-related_mechanism:
-  - Loot Boxes
-  - Screen Time
-related_consequence:
-  - Technostress
-  - Deskilling
-related_reaction:
-  - Brussels Effect
-  - VSD (Value Sensitive Design)
 ---
 
 ***He plays every night until 3am. He stops eating regularly. His parents call it a phase.***

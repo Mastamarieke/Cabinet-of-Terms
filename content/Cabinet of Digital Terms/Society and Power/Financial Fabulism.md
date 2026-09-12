@@ -5,17 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Muskism
-  - Broligarchy
-related_mechanism:
-  - Techno King
-  - Grifters
-related_consequence:
-  - Technofeudalism
-  - Memecoin
-related_reaction:
-  - Fact Checker
 ---
 
 ***The valuation does not reflect the revenue. The revenue does not reflect the users. People lost real money.***

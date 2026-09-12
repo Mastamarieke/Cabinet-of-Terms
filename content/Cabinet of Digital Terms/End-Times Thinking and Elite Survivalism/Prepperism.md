@@ -5,18 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V1
 analysis_version: pending
-related_cause:
-  - Millenarianism
-  - Doomerism
-related_mechanism:
-  - Doomsday Prep for the Super-Rich
-  - Disaster Nationalism
-related_consequence:
-  - Doomsday Prep for the Super-Rich
-  - Doomerism
-related_reaction:
-  - Situated Knowledge
-  - AI Literacy
 ---
 
 ***He has six months of food in the basement. He does not tell his neighbours.***

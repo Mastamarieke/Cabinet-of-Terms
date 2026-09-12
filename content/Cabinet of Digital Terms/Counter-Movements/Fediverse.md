@@ -5,18 +5,6 @@ analytical_layer: reaction
 status: publieksversie
 version: V1
 analysis_version: pending
-related_cause:
-  - Surveillance Capitalism
-  - Vendor Lock-in
-related_mechanism:
-  - Enshittification
-  - Technofeudalism
-related_consequence:
-  - Digital Exclusion
-  - Privacy as a Premium
-related_reaction:
-  - Digital Detox
-  - Privacy by Design
 ---
 
 ***You left Twitter because of Musk. You joined Mastodon. Then Meta arrived there too.***

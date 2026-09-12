@@ -5,17 +5,6 @@ analytical_layer: reaction
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Attention Economy
-  - Gamification Creep
-related_mechanism:
-  - Digital Detox
-  - Slow Media
-related_consequence:
-  - FOMO
-related_reaction:
-  - Unplugging
-  - JOMO
 ---
 
 ***No phone for 24 hours. Document it on TikTok.***

@@ -5,18 +5,6 @@ analytical_layer: reaction
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Attention Harvesting
-  - Predatory Design
-related_mechanism:
-  - Dopamine Feedback Loops
-  - Screen Time
-related_consequence:
-  - Cognitive Surrender
-related_reaction:
-  - Slow Media
-  - Unplugging
-  - Tech-Free Challenge
 ---
 
 ***She booked the offline retreat online. She posted about it when she got back.***

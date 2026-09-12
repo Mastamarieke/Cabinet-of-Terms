@@ -5,18 +5,6 @@ analytical_layer: consequence
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Hustle Culture
-  - Comparison Culture
-related_mechanism:
-  - Dopamine Feedback Loops
-  - FOBO
-related_consequence:
-  - FOBO
-  - Comparison Culture
-related_reaction:
-  - JOMO
-  - Digital Detox
 ---
 
 ***The future feels uncertain. You buy something. It does not help. You buy something else.***

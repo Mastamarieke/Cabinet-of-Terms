@@ -5,17 +5,6 @@ analytical_layer: reaction
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Subhuman
-  - Great Replacement
-related_mechanism:
-  - Flood the Zone
-  - Algorithmic Violence
-related_consequence:
-  - QAnon
-  - Deep State
-related_reaction:
-  - Brussels Effect
 ---
 
 ***He was removed from the platform. His follower count on the remaining platforms increased.***
@@ -32,7 +21,7 @@ related_reaction:
 
 **Why This Matters:** **Deplatforming** makes visible the limits of content moderation as a response to political violence. The platform can remove the account. It cannot remove the ideology. The question of what comes next — and who is responsible for it — remains unanswered.
 
-**Related terms:** [[Subhuman]] · [[Great Replacement]] · [[QAnon]] · [[Deep State]] · [[Brussels Effect]] · [[Flood the Zone]]
+**Related terms:** [[Subhuman]] · [[Great Replacement]] · [[QAnon]] · [[Deep State]] · [[Brussels Effect]] · [[Flood the Zone]] · [[Algorithmic Violence]]
 
 
 ---

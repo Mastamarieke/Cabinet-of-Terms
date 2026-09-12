@@ -5,18 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Situated Knowledge
-  - Informatics of Domination
-related_mechanism:
-  - Cyborg Musk
-  - Transhumanism
-related_consequence:
-  - Cyborg Musk
-  - Digital Libertarianism
-related_reaction:
-  - Cyberfeminism
-  - Situated Knowledge
 ---
 
 ***Haraway wrote it in 1985. She was not describing a machine. She was describing a politics.***

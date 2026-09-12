@@ -5,19 +5,6 @@ analytical_layer: cause
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Attention Economy
-  - Predatory Design
-related_mechanism:
-  - Recommender Systems
-  - Dark Patterns
-related_consequence:
-  - Doomscrolling
-  - Gaming Disorder
-  - Nomophobia
-related_reaction:
-  - Calm Technology
-  - Digital Detox
 ---
 
 ***Sometimes there are new likes. Sometimes there are none. You check anyway.***

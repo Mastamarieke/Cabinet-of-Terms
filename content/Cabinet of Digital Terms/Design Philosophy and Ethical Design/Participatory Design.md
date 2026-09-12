@@ -5,17 +5,6 @@ analytical_layer: reaction
 status: publieksversie
 version: V1
 analysis_version: pending
-related_cause:
-  - Deceptive Design
-  - Dark Patterns
-related_mechanism:
-  - VSD (Value Sensitive Design)
-  - Design Justice
-related_consequence:
-  - Unblackboxing
-related_reaction:
-  - Fair Patterns
-  - Adversarial Design
 ---
 
 ***The users were consulted. Their input was noted. The designers made the original decision anyway.***

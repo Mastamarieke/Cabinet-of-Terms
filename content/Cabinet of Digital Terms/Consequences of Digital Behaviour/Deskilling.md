@@ -5,11 +5,6 @@ analytical_layer: consequence
 status: publieksversie
 version: V1
 analysis_version: pending
-related_cause:
-related_mechanism:
-related_consequence:
-related_reaction:
-  - []
 ---
 
 ***The tool does it faster. You use the tool. One day the tool is unavailable.***

@@ -5,20 +5,6 @@ analytical_layer: cause
 status: publieksversie
 version: V1
 analysis_version: pending
-related_cause:
-  - Predatory Design
-  - Attention Economy
-related_mechanism:
-  - Deceptive Design
-  - Nudging
-  - Gamification Creep
-related_consequence:
-  - Cognitive Surrender
-  - Vendor Lock-in
-  - AI Dependency
-related_reaction:
-  - Fair Patterns
-  - VSD (Value Sensitive Design)
 ---
 
 ***The unsubscribe button is grey and tiny. The stay-subscribed button is large and green. Someone made that choice.***
@@ -35,7 +21,7 @@ related_reaction:
 
 **Why This Matters:** **Dark patterns** name the gap between what an interface appears to offer and what it is designed to do. Once you know the vocabulary — roach motel, confirmshaming, false hierarchy — every interface becomes readable as a set of choices made by someone, for someone's benefit. Usually not yours.
 
-**Related terms:** [[Deceptive Design]] · [[Fair Patterns]] · [[Predatory Design]] · [[Nudging]] · [[VSD (Value Sensitive Design)]] · [[Enshittification]] · [[Gamification Creep]] · [[Attention Economy]] · [[Cognitive Surrender]] · [[Vendor Lock-in]]
+**Related terms:** [[Deceptive Design]] · [[Fair Patterns]] · [[Predatory Design]] · [[Nudging]] · [[VSD (Value Sensitive Design)]] · [[Enshittification]] · [[Gamification Creep]] · [[Attention Economy]] · [[Cognitive Surrender]] · [[Vendor Lock-in]] · [[AI Dependency]]
 
 
 ---

@@ -5,18 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Ageism (Digital)
-  - Digital Divide
-related_mechanism:
-  - Tech Abandonment
-  - Silver Surfer
-related_consequence:
-  - Tech Abandonment
-  - Digital Exclusion
-related_reaction:
-  - Universal Design
-  - Inclusive Design
 ---
 
 ***You did not choose to grow older in a world that redesigns its interfaces every two years.***

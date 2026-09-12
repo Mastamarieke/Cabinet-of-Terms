@@ -5,18 +5,6 @@ analytical_layer: consequence
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - AI Dependency
-  - Cognitive Surrender
-related_mechanism:
-  - Prompt Engineer
-  - Deskilling
-related_consequence:
-  - Deskilling
-  - Cognitive Surrender
-related_reaction:
-  - AI Literacy
-  - Red Teamer
 ---
 
 ***You describe what you want. The AI writes the code. It works — mostly. You do not know why. You do not need to. Until you do.***

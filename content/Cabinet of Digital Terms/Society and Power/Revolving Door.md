@@ -5,17 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V1
 analysis_version: pending
-related_cause:
-  - Military-Industrial Complex
-  - Broligarchy
-related_mechanism:
-  - Digital-Military-Industrial Complex
-  - Reconstruction Economy
-related_consequence:
-  - Digital-Military-Industrial Complex
-  - Sovereignty as a Service
-related_reaction:
-  - Situated Knowledge
 ---
 
 ***The regulator becomes the lobbyist. The general becomes the board member.***

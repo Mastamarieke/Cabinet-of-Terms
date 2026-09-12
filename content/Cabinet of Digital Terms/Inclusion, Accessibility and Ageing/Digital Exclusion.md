@@ -5,18 +5,6 @@ analytical_layer: consequence
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Digital Divide
-  - Ageism (Digital)
-related_mechanism:
-  - Accessibility
-  - Predatory Design
-related_consequence:
-  - Tech Abandonment
-  - Algorithmic Violence
-related_reaction:
-  - Universal Design
-  - Inclusive Design
 ---
 
 ***The benefit claim form is online only. The pensioner does not have internet. This is described as a technical limitation.***

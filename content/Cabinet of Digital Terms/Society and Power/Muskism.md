@@ -5,18 +5,6 @@ analytical_layer: cause
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Technofeudalism
-  - Objectivism (Rand)
-related_mechanism:
-  - Broligarchy
-  - Flood the Zone
-related_consequence:
-  - Technofeudalism
-  - Technofascism
-related_reaction:
-  - Brussels Effect
-  - Cyberfeminism
 ---
 
 ***This is not about one man. It is about what one man's accumulation of infrastructure reveals about the system that allowed it.***

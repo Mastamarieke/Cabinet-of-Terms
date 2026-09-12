@@ -5,15 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Surveillance Capitalism
-  - Algorithmic Violence
-related_mechanism:
-  - Dehumanization
-related_consequence:
-  - Dehumanization
-  - Algorithmic Violence
-related_reaction:
 ---
 
 ***Logistics language applied to deportation. Said without noticing it was said.***

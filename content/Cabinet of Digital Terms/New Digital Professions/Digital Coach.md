@@ -5,18 +5,6 @@ analytical_layer: reaction
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Digital Divide
-  - Ageism (Digital)
-related_mechanism:
-  - De-installer
-  - Tech Abandonment
-related_consequence:
-  - Tech Abandonment
-  - Digital Exclusion
-related_reaction:
-  - Inclusive Design
-  - Universal Design
 ---
 
 ***She helps people navigate systems that were not designed to be navigated.***

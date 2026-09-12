@@ -5,17 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Training Run
-  - Inference Cost
-related_mechanism:
-  - AI Energy Consumption
-  - Externalized Costs
-related_consequence:
-  - Sacrifice Zones
-  - Digital Colonialism
-related_reaction:
-  - Greenwashing
 ---
 
 ***The CO2 cost per query exists. It is rarely disclosed.***

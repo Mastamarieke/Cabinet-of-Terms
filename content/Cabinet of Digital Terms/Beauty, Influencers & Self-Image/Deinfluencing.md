@@ -5,19 +5,6 @@ analytical_layer: reaction
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Comparison Culture
-  - Influencer
-  - Looksmaxxing
-  - Tradwife
-related_mechanism:
-  - Highlight Reel
-  - Curated Life
-related_consequence:
-  - Comparison Culture
-related_reaction:
-  - Counter-Movements
-  - Digital Detox
 ---
 
 ***She is telling you not to buy it. She has two million followers. The video is sponsored.***

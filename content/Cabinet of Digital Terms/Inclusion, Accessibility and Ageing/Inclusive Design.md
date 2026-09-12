@@ -5,17 +5,6 @@ analytical_layer: reaction
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Digital Exclusion
-  - Ageism (Digital)
-related_mechanism:
-  - Universal Design
-  - Accessibility
-related_consequence:
-  - Digital Divide
-related_reaction:
-  - VSD (Value Sensitive Design)
-  - Universal Design
 ---
 
 ***Designing for the person with the greatest need produces a solution that works better for everyone else.***

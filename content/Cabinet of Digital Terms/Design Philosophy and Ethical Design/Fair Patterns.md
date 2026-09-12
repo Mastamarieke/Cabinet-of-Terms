@@ -5,16 +5,6 @@ analytical_layer: reaction
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Dark Patterns
-  - Deceptive Design
-related_mechanism:
-  - VSD (Value Sensitive Design)
-  - Deceptive Design
-related_consequence:
-  - Unblackboxing
-related_reaction:
-  - Calm Technology
 ---
 
 ***The cancel button is the same size as the confirm button. The default is the option that serves you.***

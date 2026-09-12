@@ -5,17 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - SMV (Sexual Market Value)
-  - Manosphere
-related_mechanism:
-  - Sigma Male
-  - Top 1% Man
-related_consequence:
-  - Provider
-  - Incel
-related_reaction:
-  - Podcast-bro
 ---
 
 ***The term comes from a study of wolves that was later retracted by its own author. The influencers did not update their content.***
@@ -32,7 +21,7 @@ related_reaction:
 
 **Why This Matters:** **Alpha male** makes visible how scientific language can legitimise social ideology even after the science has been corrected. The correction happened. The ideology kept going. The gap between those two facts is worth examining.
 
-**Related terms:** [[Sigma Male]] · [[SMV (Sexual Market Value)]] · [[Manosphere]] · [[Incel]] · [[Blackpill]] · [[High Value Man]] · [[Hypergamy]]
+**Related terms:** [[Sigma Male]] · [[SMV (Sexual Market Value)]] · [[Manosphere]] · [[Incel]] · [[Blackpill]] · [[High Value Man]] · [[Hypergamy]] · [[Podcast-bro]] · [[Top 1% Man]] · [[Provider]]
 
 
 ---

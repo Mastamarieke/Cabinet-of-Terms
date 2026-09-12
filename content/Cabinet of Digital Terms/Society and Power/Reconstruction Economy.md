@@ -5,17 +5,6 @@ analytical_layer: consequence
 status: publieksversie
 version: V1
 analysis_version: pending
-related_cause:
-  - Military-Industrial Complex
-  - Digital-Military-Industrial Complex
-related_mechanism:
-  - Revolving Door
-  - Financial Fabulism
-related_consequence:
-  - Sovereignty as a Service
-  - Grifters
-related_reaction:
-  - Situated Knowledge
 ---
 
 ***The contractor builds what the bomb destroys. This is not a paradox.***

@@ -5,18 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Muskism
-  - Objectivism (Rand)
-related_mechanism:
-  - Longtermism
-  - Mars Colonization
-related_consequence:
-  - Technofeudalism
-  - Broligarchy
-related_reaction:
-  - Situated Knowledge
-  - Cyberfeminism
 ---
 
 ***The wall is not against the past. It is for a future available only to some.***

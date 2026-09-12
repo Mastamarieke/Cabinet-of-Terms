@@ -5,18 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V1
 analysis_version: pending
-related_cause:
-  - AGI
-  - AI Dependency
-related_mechanism:
-  - Doomerism
-  - Skynet
-related_consequence:
-  - Doomerism
-  - AI Dependency
-related_reaction:
-  - AI Literacy
-  - Red Teamer
 ---
 
 ***The technology outgrew its creator. The creator is still talking about potential.***

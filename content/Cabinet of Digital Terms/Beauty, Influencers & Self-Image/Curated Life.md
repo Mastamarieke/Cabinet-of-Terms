@@ -5,18 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Comparison Culture
-  - Influencer
-related_mechanism:
-  - Highlight Reel
-  - Personal Branding
-related_consequence:
-  - Comparison Culture
-  - Body Dysmorphic Disorder
-related_reaction:
-  - Deinfluencing
-  - Digital Detox
 ---
 
 ***The flat lay took forty minutes. The caption took twenty. None of that is visible in the photo.***

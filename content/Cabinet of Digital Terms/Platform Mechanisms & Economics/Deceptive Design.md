@@ -5,18 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Dark Patterns
-  - Predatory Design
-related_mechanism:
-  - Fair Patterns
-  - Nudging
-related_consequence:
-  - Cognitive Surrender
-  - Vendor Lock-in
-related_reaction:
-  - Fair Patterns
-  - VSD (Value Sensitive Design)
 ---
 
 ***"Dark patterns" sounds like a design critique. "Deceptive design" sounds like a legal charge. The EU chose the second one deliberately.***

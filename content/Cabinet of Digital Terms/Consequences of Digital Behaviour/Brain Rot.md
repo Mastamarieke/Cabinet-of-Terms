@@ -5,21 +5,6 @@ analytical_layer: consequence
 status: publieksversie
 version: V3
 analysis_version: pending
-related_cause:
-  - Recommender Systems
-  - Dopamine Feedback Loops
-  - Attention Economy
-related_mechanism:
-  - Ragebaiting
-  - Doomscrolling
-  - Gooner
-related_consequence:
-  - Cognitive Surrender
-  - Deskilling
-  - Digital Amnesia
-related_reaction:
-  - Slow Media
-  - Digital Detox
 ---
 
 ***You picked up a book. You could not finish the first paragraph.***

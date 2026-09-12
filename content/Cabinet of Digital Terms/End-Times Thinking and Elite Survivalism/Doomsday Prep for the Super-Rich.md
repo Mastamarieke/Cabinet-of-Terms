@@ -5,17 +5,6 @@ analytical_layer: consequence
 status: publieksversie
 version: V1
 analysis_version: pending
-related_cause:
-  - Fortress Futurism
-  - Longtermism
-related_mechanism:
-  - Seasteading
-  - Prepperism
-related_consequence:
-  - Fortress Futurism
-  - Technofeudalism
-related_reaction:
-  - Situated Knowledge
 ---
 
 ***The bunker is in New Zealand. The staff have been hired but not told what for.***

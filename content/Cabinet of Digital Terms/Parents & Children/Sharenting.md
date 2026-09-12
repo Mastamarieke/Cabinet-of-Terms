@@ -5,18 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Surveillance Capitalism
-  - Attention Economy
-related_mechanism:
-  - Momfluencer
-  - Family Vlogging
-related_consequence:
-  - Kidfluencer
-  - Privacy Washing
-related_reaction:
-  - Digital Detox
-  - VSD (Value Sensitive Design)
 ---
 
 ***The photo was posted before the child could speak. By the time they are old enough to object, there are thousands.***

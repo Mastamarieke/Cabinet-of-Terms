@@ -5,19 +5,6 @@ analytical_layer: cause
 status: publieksversie
 version: V1
 analysis_version: pending
-related_cause:
-  - Attention Economy
-  - Informatics of Domination
-related_mechanism:
-  - Data Brokers
-  - Privacy Washing
-  - "500 million people installed that app in 60 days."
-related_consequence:
-  - Algorithmic Violence
-  - Vendor Lock-in
-related_reaction:
-  - Brussels Effect
-  - Fair Patterns
 ---
 
 ***Your behaviour is the raw material. Your prediction is the product.***

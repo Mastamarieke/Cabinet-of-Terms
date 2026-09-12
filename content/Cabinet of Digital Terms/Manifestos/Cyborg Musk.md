@@ -5,18 +5,6 @@ analytical_layer: consequence
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Cyborg
-  - Digital Libertarianism
-related_mechanism:
-  - Muskism
-  - Transhumanism
-related_consequence:
-  - Muskism
-  - Technofeudalism
-related_reaction:
-  - Cyberfeminism
-  - Situated Knowledge
 ---
 
 ***He merges his identity with his machines. This is presented as vision. It is also a brand.***

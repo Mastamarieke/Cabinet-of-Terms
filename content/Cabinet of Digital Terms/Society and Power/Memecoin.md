@@ -5,17 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V1
 analysis_version: pending
-related_cause:
-  - Financial Fabulism
-  - Broligarchy
-related_mechanism:
-  - Grifters
-  - Subcultural Vocabulary
-related_consequence:
-  - Grifters
-  - Financial Fabulism
-related_reaction:
-  - AI Literacy
 ---
 
 ***The coin was a joke. People lost real money. The person who created it did not.***

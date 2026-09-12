@@ -5,18 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Ageism (Digital)
-  - Digital Ageing
-related_mechanism:
-  - Digital Exclusion
-  - Ageism (Digital)
-related_consequence:
-  - Tech Abandonment
-  - Digital Exclusion
-related_reaction:
-  - Inclusive Design
-  - Universal Design
 ---
 
 ***The term is meant to be positive. It is also slightly condescending. Both things are true.***

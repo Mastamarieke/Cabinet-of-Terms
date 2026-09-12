@@ -5,19 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - SMV (Sexual Market Value)
-  - Manosphere
-related_mechanism:
-  - Blackpill
-  - Hypergamy
-related_consequence:
-  - Incel
-  - MGTOW
-  - Great Replacement
-  - QAnon
-related_reaction:
-  - Deplatforming
 ---
 
 ***A film about escaping a false reality, repurposed as a metaphor for discovering that women have too many rights.***
@@ -34,7 +21,7 @@ related_reaction:
 
 **Why This Matters:** **Red pill** in the gender context makes visible the specific mechanism of **manosphere** radicalisation: a metaphor for seeing clearly becomes a framework for seeing women as adversaries and institutions as enemies. The clarity is real. The picture it produces is constructed.
 
-**Related terms:** [[Tradwife]] · [[High Value Man]] · [[SMV (Sexual Market Value)]] · [[Stay-at-home Girlfriend (SAHG)]] · [[Manosphere]] · [[Blackpill]] · [[Incel]] · [[Alpha Male]] · [[Hypergamy]] · [[Recommender Systems]] · [[Great Replacement]] · [[QAnon]]
+**Related terms:** [[Tradwife]] · [[High Value Man]] · [[SMV (Sexual Market Value)]] · [[Stay-at-home Girlfriend (SAHG)]] · [[Manosphere]] · [[Blackpill]] · [[Incel]] · [[Alpha Male]] · [[Hypergamy]] · [[Recommender Systems]] · [[Great Replacement]] · [[QAnon]] · [[Deplatforming]] · [[MGTOW]]
 
 
 ---

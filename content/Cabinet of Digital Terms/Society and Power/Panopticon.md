@@ -5,18 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Surveillance Capitalism
-  - Cybernetic Governance
-related_mechanism:
-  - Social Credit System
-  - Biometric Surveillance
-related_consequence:
-  - Social Credit System
-  - Algorithmic Violence
-related_reaction:
-  - Obfuscation
-  - Brussels Effect
 ---
 
 ***You do not know if you are being watched right now.***
@@ -33,7 +21,7 @@ related_reaction:
 
 **Why This Matters:** **Panopticon** provides the analytical vocabulary for asking: has the awareness of surveillance already changed how you behave, before any surveillance has occurred? Once you ask that question, the political effect of surveillance systems is visible even when no specific observation has happened.
 
-**Related terms:** [[Surveillance Capitalism (Political Economy)]] · [[Social Credit System]] · [[Biometric Surveillance]] · [[Cybernetic Governance]] · [[Obfuscation]] · [[Algorithmic Violence]] · [[Brussels Effect]]
+**Related terms:** [[Surveillance Capitalism (Political Economy)]] · [[Social Credit System]] · [[Biometric Surveillance]] · [[Cybernetic Governance]] · [[Obfuscation]] · [[Algorithmic Violence]] · [[Brussels Effect]] · [[Surveillance Capitalism]]
 
 
 ---

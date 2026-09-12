@@ -5,16 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Predatory Design
-  - Parasocial Relationship
-related_mechanism:
-  - Ghosting
-  - Online Grooming
-related_consequence:
-  - Phatic Interaction
-related_reaction:
-  - AI Literacy
 ---
 
 ***The relationship lasted six months. The person did not exist.***

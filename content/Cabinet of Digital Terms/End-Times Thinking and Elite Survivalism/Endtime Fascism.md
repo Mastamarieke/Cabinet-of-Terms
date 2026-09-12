@@ -5,17 +5,6 @@ analytical_layer: consequence
 status: publieksversie
 version: V1
 analysis_version: pending
-related_cause:
-  - Millenarianism
-  - Armageddon Complex
-related_mechanism:
-  - Disaster Nationalism
-  - Dark MAGA
-related_consequence:
-  - Technofascism
-  - Dehumanization
-related_reaction:
-  - Situated Knowledge
 ---
 
 ***The end is coming. Only one group deserves to survive it.***

@@ -5,16 +5,6 @@ analytical_layer: reaction
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Black Box
-  - Obfuscation
-related_mechanism:
-  - De-bugging
-related_consequence:
-  - Situated Knowledge
-related_reaction:
-  - VSD (Value Sensitive Design)
-  - Fair Patterns
 ---
 
 ***The system made a decision. You want to know why. The answer exists. You are not allowed to see it.***

@@ -5,17 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Red Pill
-  - Flood the Zone
-related_mechanism:
-  - Social Contagion
-  - Dehumanization
-related_consequence:
-  - Anti-Woke
-  - Purity Culture
-related_reaction:
-  - Deplatforming
 ---
 
 ***If your opponent's beliefs are a virus, you do not need to argue with them. You need to cure them.***
@@ -32,7 +21,7 @@ related_reaction:
 
 **Why This Matters:** **Woke mind virus** makes visible a specific argumentative move: framing a political opponent's position as a medical condition removes the obligation to engage with it. Once you recognise the structure, you can ask the same question of any political pathology metaphor.
 
-**Related terms:** [[Social Contagion]] · [[Red Pill]] · [[Anti-Woke]] · [[Dehumanization]] · [[Deplatforming]]
+**Related terms:** [[Social Contagion]] · [[Red Pill]] · [[Anti-Woke]] · [[Dehumanization]] · [[Deplatforming]] · [[Flood the Zone]] · [[Purity Culture]]
 
 
 ---

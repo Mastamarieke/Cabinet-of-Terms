@@ -5,16 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Predatory Design
-  - Attention Economy
-related_mechanism:
-  - Breadcrumbing
-  - Orbiting
-related_consequence:
-  - Phatic Interaction
-related_reaction:
-  - JOMO
 ---
 
 ***No explanation. No ending. Just absence.***

@@ -5,17 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Predatory Design
-  - Gamification Creep
-related_mechanism:
-  - Robux
-  - Gaming Disorder
-related_consequence:
-  - Gaming Disorder
-related_reaction:
-  - Brussels Effect
-  - Fair Patterns
 ---
 
 ***You pay for a chance. Sometimes you get what you wanted. Sometimes you do not. You can pay again.***

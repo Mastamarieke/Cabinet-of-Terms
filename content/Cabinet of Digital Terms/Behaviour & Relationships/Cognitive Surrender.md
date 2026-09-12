@@ -5,18 +5,6 @@ analytical_layer: consequence
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - AI Dependency
-  - Dopamine Feedback Loops
-related_mechanism:
-  - Cognitive Offloading
-  - Doomscrolling
-related_consequence:
-  - Deskilling
-  - AI Dependency
-related_reaction:
-  - AI Literacy
-  - Digital Detox
 ---
 
 ***You used to have an opinion before you searched. Now you search first.***

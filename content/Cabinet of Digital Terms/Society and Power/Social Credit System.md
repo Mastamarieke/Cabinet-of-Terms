@@ -5,18 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Surveillance Capitalism
-  - Cybernetic Governance
-related_mechanism:
-  - Panopticon
-  - Algorithmic Violence
-related_consequence:
-  - Algorithmic Violence
-  - Panopticon
-related_reaction:
-  - Brussels Effect
-  - AI Literacy
 ---
 
 ***The Chinese version is described as dystopia. The Western version is described as fintech.***
@@ -33,7 +21,7 @@ related_reaction:
 
 **Why This Matters:** **Social credit system** names a governance technology that is easier to critique at a distance than in the mirror. Once you see the scoring systems already operating in Western financial, employment, and platform contexts, the concern about China is also a concern about what is already here.
 
-**Related terms:** [[Panopticon]] · [[Surveillance Capitalism (Political Economy)]] · [[Algorithmic Violence]] · [[Cybernetic Governance]] · [[Brussels Effect]] · [[AI Literacy]]
+**Related terms:** [[Panopticon]] · [[Surveillance Capitalism (Political Economy)]] · [[Algorithmic Violence]] · [[Cybernetic Governance]] · [[Brussels Effect]] · [[AI Literacy]] · [[Surveillance Capitalism]]
 
 
 ---

@@ -5,18 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Comparison Culture
-  - Attention Economy
-related_mechanism:
-  - Highlight Reel
-  - Curated Life
-related_consequence:
-  - Comparison Culture
-  - FOMO
-related_reaction:
-  - Deinfluencing
-  - JOMO
 ---
 
 ***The watch, the holiday, the car — photographed at the right angle, posted at the right time.***

@@ -5,17 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V1
 analysis_version: pending
-related_cause:
-  - Flood the Zone
-  - Millenarianism
-related_mechanism:
-  - Endtime Fascism
-  - Armageddon Complex
-related_consequence:
-  - Technofascism
-  - Endtime Fascism
-related_reaction:
-  - Situated Knowledge
 ---
 
 ***The crisis is an opportunity — for the right nation, led by the right people.***

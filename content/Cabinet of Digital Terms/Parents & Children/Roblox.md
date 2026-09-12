@@ -5,18 +5,6 @@ analytical_layer: cause
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Predatory Design
-  - Gamification Creep
-related_mechanism:
-  - Robux
-  - Online Grooming
-related_consequence:
-  - Gaming Disorder
-  - Online Grooming
-related_reaction:
-  - Predatory Design
-  - Brussels Effect
 ---
 
 ***It looks like a game. It has its own currency. It has its own economy. It is designed for children.***

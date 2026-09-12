@@ -5,17 +5,6 @@ analytical_layer: consequence
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Deep State
-  - Red Pill
-related_mechanism:
-  - Conspirituality
-  - Flood the Zone
-related_consequence:
-  - Dark MAGA
-  - Great Replacement
-related_reaction:
-  - Deplatforming
 ---
 
 ***It began on an imageboard in 2017. By 2021, it had reached parliaments.***
@@ -32,7 +21,7 @@ related_reaction:
 
 **Why This Matters:** **QAnon** makes visible the full arc of digital radicalisation: from anonymous imageboard post to parliamentary storming in four years. The speed is new. The structure — hidden elite, awakened community, imminent reckoning — is ancient.
 
-**Related terms:** [[Deep State]] · [[Red Pill]] · [[Conspirituality]] · [[Flood the Zone]] · [[Deplatforming]] · [[Recommender Systems]]
+**Related terms:** [[Deep State]] · [[Red Pill]] · [[Conspirituality]] · [[Flood the Zone]] · [[Deplatforming]] · [[Recommender Systems]] · [[Dark MAGA]] · [[Great Replacement]]
 
 
 ---

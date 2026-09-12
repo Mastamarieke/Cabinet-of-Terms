@@ -5,17 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Sharenting
-  - Creator Economy
-related_mechanism:
-  - Family Vlogging
-  - Kidfluencer
-related_consequence:
-  - Kidfluencer
-  - Comparison Culture
-related_reaction:
-  - Deinfluencing
 ---
 
 ***The child is in every video. The child is also the product.***

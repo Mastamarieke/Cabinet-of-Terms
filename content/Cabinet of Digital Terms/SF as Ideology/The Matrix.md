@@ -5,18 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V1
 analysis_version: pending
-related_cause:
-  - Simulation Hypothesis
-  - Red Pill
-related_mechanism:
-  - Red Pill
-  - Cyborg
-related_consequence:
-  - Red Pill
-  - QAnon
-related_reaction:
-  - Situated Knowledge
-  - Cyberfeminism
 ---
 
 ***A film about liberation, released in 1999, now used to recruit people into the opposite.***

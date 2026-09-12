@@ -5,18 +5,6 @@ analytical_layer: cause
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Dark Patterns
-  - Dopamine Feedback Loops
-related_mechanism:
-  - Roblox
-  - Loot Boxes
-related_consequence:
-  - Gaming Disorder
-  - Screen Time
-related_reaction:
-  - Brussels Effect
-  - VSD (Value Sensitive Design)
 ---
 
 ***The game is free. The rewards come quickly at first, then slow down. Speeding them up costs money. The target audience is eight years old.***

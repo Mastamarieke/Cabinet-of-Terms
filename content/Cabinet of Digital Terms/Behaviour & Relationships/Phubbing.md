@@ -5,18 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Dopamine Feedback Loops
-  - Predatory Design
-related_mechanism:
-  - Smombie
-  - Cognitive Surrender
-related_consequence:
-  - Technostress
-  - Phatic Interaction
-related_reaction:
-  - JOMO
-  - Digital Detox
 ---
 
 ***Someone is talking to you. You are looking at your phone.***

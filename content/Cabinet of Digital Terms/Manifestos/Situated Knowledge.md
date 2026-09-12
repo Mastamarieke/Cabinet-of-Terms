@@ -5,17 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Informatics of Domination
-  - Cyborg
-related_mechanism:
-  - Unblackboxing
-  - Black Box
-related_consequence:
-  - Informatics of Domination
-related_reaction:
-  - Cyborg
-  - Cyberfeminism
 ---
 
 ***There is no view from nowhere. Every claim is made from somewhere, by someone.***

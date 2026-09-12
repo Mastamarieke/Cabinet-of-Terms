@@ -5,18 +5,6 @@ analytical_layer: consequence
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Dehumanization
-  - Red Pill
-related_mechanism:
-  - QAnon
-  - Flood the Zone
-  - Ragebaiting
-related_consequence:
-  - Subhuman
-  - Dark MAGA
-related_reaction:
-  - Deplatforming
 ---
 
 ***A conspiracy theory from a French book in 2011, cited in three mass shooting manifestos by 2022.***
@@ -33,7 +21,7 @@ related_reaction:
 
 **Why This Matters:** **Great Replacement** makes visible the pathway from fringe theory to mainstream discourse — and the specific role that digital platforms play in accelerating that migration. The theory did not become mainstream because it became less extreme. It became mainstream because platforms amplified it.
 
-**Related terms:** [[Dehumanization]] · [[Subhuman]] · [[QAnon]] · [[Red Pill]] · [[Deplatforming]] · [[Ragebaiting]] · [[Wellness-to-Alt-Right Pipeline]] · [[Recommender Systems]]
+**Related terms:** [[Dehumanization]] · [[Subhuman]] · [[QAnon]] · [[Red Pill]] · [[Deplatforming]] · [[Ragebaiting]] · [[Wellness-to-Alt-Right Pipeline]] · [[Recommender Systems]] · [[Dark MAGA]] · [[Flood the Zone]]
 
 
 ---

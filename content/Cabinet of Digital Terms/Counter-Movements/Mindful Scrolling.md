@@ -5,17 +5,6 @@ analytical_layer: reaction
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Attention Economy
-  - Dopamine Feedback Loops
-related_mechanism:
-  - Digital Detox
-  - Slow Media
-related_consequence:
-  - Cognitive Surrender
-related_reaction:
-  - JOMO
-  - Tech-Free Challenge
 ---
 
 ***Pay attention to how you scroll. This advice was sent to you by the app you are trying to use less.***

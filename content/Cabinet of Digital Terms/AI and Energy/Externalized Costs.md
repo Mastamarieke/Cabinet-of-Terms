@@ -5,18 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - AI Energy Consumption
-  - Training Run
-  - Inference Cost
-related_mechanism:
-  - Carbon Footprint of AI
-  - Data Center Water Consumption
-related_consequence:
-  - Sacrifice Zones
-  - Digital Colonialism
-related_reaction:
-  - Greenwashing
 ---
 
 ***The price of AI does not include what the surrounding communities pay.***

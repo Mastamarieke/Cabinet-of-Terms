@@ -5,17 +5,6 @@ analytical_layer: reaction
 status: publieksversie
 version: V1
 analysis_version: pending
-related_cause:
-  - AI Energy Consumption
-  - Digital Colonialism
-related_mechanism:
-  - Sacrifice Zones
-  - Externalized Costs
-related_consequence:
-  - Sacrifice Zones
-  - Digital Colonialism
-related_reaction:
-  - AI Literacy
 ---
 
 ***Spanish activist collective. Your cloud dries my river. Four words that name what a data centre does to a watershed.***

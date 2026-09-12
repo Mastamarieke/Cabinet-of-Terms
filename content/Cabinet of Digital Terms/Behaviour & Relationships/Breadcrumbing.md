@@ -5,16 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Attention Economy
-  - Dopamine Feedback Loops
-related_mechanism:
-  - Ghosting
-  - Orbiting
-related_consequence:
-  - Phatic Interaction
-related_reaction:
-  - JOMO
 ---
 
 ***Enough contact to stay interested. Not enough to mean anything.***

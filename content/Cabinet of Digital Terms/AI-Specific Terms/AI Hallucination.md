@@ -5,16 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Sycophancy (AI)
-  - AI Dependency
-related_mechanism:
-  - AI Literacy
-  - Cognitive Offloading
-related_consequence:
-  - Deskilling
-related_reaction:
-  - AI Literacy
 ---
 
 ***The answer was confident. Detailed. Completely wrong. The model did not know it was wrong.***

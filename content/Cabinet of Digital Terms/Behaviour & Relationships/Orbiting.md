@@ -5,16 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Attention Economy
-  - Recommender Systems
-related_mechanism:
-  - Ghosting
-  - Breadcrumbing
-related_consequence:
-  - Phatic Interaction
-related_reaction:
-  - JOMO
 ---
 
 ***You ended the relationship. You still watch every story.***

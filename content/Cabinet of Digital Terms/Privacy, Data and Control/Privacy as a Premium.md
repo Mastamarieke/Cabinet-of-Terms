@@ -5,17 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Surveillance Capitalism
-  - Digital Divide
-related_mechanism:
-  - Privacy Washing
-  - Dataism
-related_consequence:
-  - Digital Divide
-  - Algorithmic Violence
-related_reaction:
-  - Brussels Effect
 ---
 
 ***The paid version has no ads. The free version watches everything you do.***

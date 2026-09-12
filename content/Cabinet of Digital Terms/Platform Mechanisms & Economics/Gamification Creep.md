@@ -5,18 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Dopamine Feedback Loops
-  - Attention Economy
-related_mechanism:
-  - Dark Patterns
-  - Predatory Design
-related_consequence:
-  - Gaming Disorder
-  - Deskilling
-related_reaction:
-  - Fair Patterns
-  - VSD (Value Sensitive Design)
 ---
 
 ***Your fitness app gives you a streak. Your bank gives you points. Your workplace tracks your score. None of these are games.***

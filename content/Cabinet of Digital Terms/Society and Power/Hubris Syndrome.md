@@ -5,17 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V1
 analysis_version: pending
-related_cause:
-  - Muskism
-  - Broligarchy
-related_mechanism:
-  - Founder Mode
-  - Techno King
-related_consequence:
-  - Technofascism
-  - Muskism
-related_reaction:
-  - Situated Knowledge
 ---
 
 ***He stopped listening. Not suddenly — gradually, as the accountability structures were removed one by one.***

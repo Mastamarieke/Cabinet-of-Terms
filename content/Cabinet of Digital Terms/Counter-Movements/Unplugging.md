@@ -5,18 +5,6 @@ analytical_layer: reaction
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Attention Economy
-  - Predatory Design
-related_mechanism:
-  - Digital Detox
-  - Slow Media
-related_consequence:
-  - FOMO
-  - Cognitive Surrender
-related_reaction:
-  - JOMO
-  - Mindful Scrolling
 ---
 
 ***She announced she was taking a break from social media. On social media.***

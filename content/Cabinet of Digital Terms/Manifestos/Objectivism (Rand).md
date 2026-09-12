@@ -5,18 +5,6 @@ analytical_layer: cause
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Digital Libertarianism
-  - Muskism
-related_mechanism:
-  - Technofeudalism
-  - Fortress Futurism
-related_consequence:
-  - Muskism
-  - Digital Libertarianism
-related_reaction:
-  - Cyberfeminism
-  - Brussels Effect
 ---
 
 ***Self-interest is a virtue. Altruism is a vice. Silicon Valley found this useful.***

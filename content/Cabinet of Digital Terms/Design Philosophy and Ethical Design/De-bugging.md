@@ -5,16 +5,6 @@ analytical_layer: reaction
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Dark Patterns
-  - Obfuscation
-related_mechanism:
-  - Unblackboxing
-related_consequence:
-  - Unblackboxing
-related_reaction:
-  - VSD (Value Sensitive Design)
-  - Fair Patterns
 ---
 
 ***In software, a bug is an error in the code. In thinking, a bug is an error in the reasoning.***

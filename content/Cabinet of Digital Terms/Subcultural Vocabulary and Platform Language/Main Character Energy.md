@@ -5,18 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V1
 analysis_version: pending
-related_cause:
-  - Attention Economy
-  - Personal Branding
-related_mechanism:
-  - Aurafarming
-  - Curated Life
-related_consequence:
-  - Comparison Culture
-  - Parasocial Relationship
-related_reaction:
-  - JOMO
-  - Situated Knowledge
 ---
 
 ***He narrates his commute as if someone is watching.***

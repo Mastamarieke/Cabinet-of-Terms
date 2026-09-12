@@ -5,17 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Manosphere
-  - Creator Economy
-related_mechanism:
-  - Top 1% Man
-  - High Value Man
-related_consequence:
-  - Hustle Culture
-  - Incel
-related_reaction:
-  - Deplatforming
 ---
 
 ***Three hours, unedited, enormously influential. Nobody fact-checked it.***
@@ -34,7 +23,7 @@ An American study by the USC Annenberg Inclusion Initiative found that popular p
 
 **Why This Matters:** **Podcast-bro** names a specific media format and its ideological function. Once you know the structural features — long-form, unedited, parasocial — you can analyse any podcast host through the same lens, regardless of their explicit political positions.
 
-**Related terms:** [[Manosphere]] · [[Parasocial Relationship]] · [[Creator Economy]] · [[Top 1% Man]] · [[Recommender Systems]] · [[Filter Bubble]] · [[Echo Chamber]]
+**Related terms:** [[Manosphere]] · [[Parasocial Relationship]] · [[Creator Economy]] · [[Top 1% Man]] · [[Recommender Systems]] · [[Filter Bubble]] · [[Echo Chamber]] · [[Hustle Culture]] · [[Incel]] · [[Deplatforming]] · [[High Value Man]]
 
 
 ---

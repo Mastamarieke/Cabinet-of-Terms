@@ -5,18 +5,6 @@ analytical_layer: consequence
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Recommender Systems
-  - AI Slop
-related_mechanism:
-  - Comparison Culture
-  - Synthetic Generation
-related_consequence:
-  - AI Slop
-  - Deskilling
-related_reaction:
-  - Deinfluencing
-  - Slow Media
 ---
 
 ***The café in Tokyo looks like the one in Amsterdam looks like the one in São Paulo. Nobody planned it that way.***

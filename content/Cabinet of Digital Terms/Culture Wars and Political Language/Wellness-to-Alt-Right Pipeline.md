@@ -5,18 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Conspirituality
-  - Recommender Systems
-  - Tradwife
-related_mechanism:
-  - Purity Culture
-  - QAnon
-related_consequence:
-  - Great Replacement
-  - Dark MAGA
-related_reaction:
-  - Deplatforming
 ---
 
 ***The entry point was gluten. The algorithm built the bridge.***
@@ -33,7 +21,7 @@ related_reaction:
 
 **Why This Matters:** The **wellness-to-alt-right pipeline** makes visible that extremism recruitment does not require extremist entry points. The doorway is detox. The destination is somewhere else. Once you know the pathway, you can read its stages.
 
-**Related terms:** [[Conspirituality]] · [[Purity Culture]] · [[Tradwife]] · [[QAnon]] · [[Recommender Systems]] · [[Great Replacement]] · [[Ragebaiting]]
+**Related terms:** [[Conspirituality]] · [[Purity Culture]] · [[Tradwife]] · [[QAnon]] · [[Recommender Systems]] · [[Great Replacement]] · [[Ragebaiting]] · [[Dark MAGA]] · [[Deplatforming]]
 
 
 ---

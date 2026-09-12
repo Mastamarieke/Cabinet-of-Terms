@@ -8,20 +8,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V3
 analysis_version: pending
-related_cause:
-  - Attention Economy
-  - Recommender Systems
-related_mechanism:
-  - Clickbait
-  - Flood the Zone
-related_consequence:
-  - Dehumanization
-  - Doomscrolling
-  - Wellness-to-Alt-Right Pipeline
-  - Great Replacement
-related_reaction:
-  - Slow Media
-  - Fact Checker
 ---
 
 ***The post made you angry. Or anxious. You clicked anyway. Someone else is making the money.***

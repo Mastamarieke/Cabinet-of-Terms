@@ -5,18 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Digital Exclusion
-  - Predatory Design
-related_mechanism:
-  - Universal Design
-  - Inclusive Design
-related_consequence:
-  - Digital Divide
-  - Tech Abandonment
-related_reaction:
-  - Universal Design
-  - Inclusive Design
 ---
 
 ***The website has an accessibility statement. The form cannot be completed with a screen reader.***

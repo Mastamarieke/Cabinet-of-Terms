@@ -5,17 +5,6 @@ analytical_layer: consequence
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Comparison Culture
-  - Recommender Systems
-related_mechanism:
-  - Curated Life
-  - Highlight Reel
-related_consequence:
-  - Comparison Culture
-related_reaction:
-  - JOMO
-  - Digital Detox
 ---
 
 ***You chose the restaurant. Then you checked the one next door. You are still not sure.***

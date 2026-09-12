@@ -5,17 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V1
 analysis_version: pending
-related_cause:
-  - Brain-Computer Interface
-  - Transhumanism
-related_mechanism:
-  - Cybernetic Collective
-  - Cyborg Musk
-related_consequence:
-  - Technofeudalism
-  - Muskism
-related_reaction:
-  - VSD (Value Sensitive Design)
 ---
 
 ***Brain-computer interface. The name sounds like science fiction because it was designed to.***

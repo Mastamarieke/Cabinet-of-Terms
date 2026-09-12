@@ -5,17 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Privacy Washing
-  - Surveillance Capitalism
-related_mechanism:
-  - Privacy Washing
-  - Obfuscation
-related_consequence:
-  - Algorithmic Violence
-  - Vendor Lock-in
-related_reaction:
-  - Brussels Effect
 ---
 
 ***You took off your shoes at the airport. You are not safer.***

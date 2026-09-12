@@ -5,18 +5,6 @@ analytical_layer: cause
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Digital Divide
-  - Digital Exclusion
-related_mechanism:
-  - Silver Surfer
-  - Tech Abandonment
-related_consequence:
-  - Tech Abandonment
-  - Digital Exclusion
-related_reaction:
-  - Universal Design
-  - Inclusive Design
 ---
 
 ***The interface was not designed to exclude older users. It was designed without them.***

@@ -5,17 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - SMV (Sexual Market Value)
-  - Manosphere
-related_mechanism:
-  - Hypergamy
-  - Tradwife
-related_consequence:
-  - Comparison Culture
-  - High Value Man
-related_reaction:
-  - Deinfluencing
 ---
 
 ***The female-facing mirror of the manosphere. Same SMV logic, different costume. High value women, hypergamy, female strategy — packaged as empowerment.***
@@ -32,7 +21,7 @@ related_reaction:
 
 **Why This Matters:** **Womanosphere** makes visible how a framework can be adopted even by those it positions as objects rather than subjects. Once you see the shared architecture, the opposition between **manosphere** and **womanosphere** collapses — they are not adversaries but co-inhabitants of the same conceptual system.
 
-**Related terms:** [[SMV (Sexual Market Value)]] · [[Manosphere]] · [[Tradwife]] · [[Looksmaxxing]] · [[High Value Man]] · [[Purity Culture]] · [[Stay-at-home Girlfriend (SAHG)]] · [[Hypergamy]] · [[Recommender Systems]]
+**Related terms:** [[SMV (Sexual Market Value)]] · [[Manosphere]] · [[Tradwife]] · [[Looksmaxxing]] · [[High Value Man]] · [[Purity Culture]] · [[Stay-at-home Girlfriend (SAHG)]] · [[Hypergamy]] · [[Recommender Systems]] · [[Comparison Culture]] · [[Deinfluencing]]
 
 
 ---

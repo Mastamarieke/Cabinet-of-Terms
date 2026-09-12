@@ -5,17 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Online Grooming
-  - Dehumanization
-related_mechanism:
-  - Social Contagion
-  - Woke Mind Virus
-related_consequence:
-  - Subhuman
-  - Deplatforming
-related_reaction:
-  - Deplatforming
 ---
 
 ***A child protection term, borrowed and applied to teachers, librarians, and politicians. The original meaning did not disappear — it was used as a weapon.***
@@ -32,7 +21,7 @@ related_reaction:
 
 **Why This Matters:** **Groomer** makes visible how child safety discourse can be weaponised — and how semantic ambiguity serves as both rhetorical weapon and moderation shield. Once you see the capture, the invocation of child safety is never automatically authoritative.
 
-**Related terms:** [[Online Grooming]] · [[Social Contagion]] · [[Dehumanization]] · [[Subhuman]] · [[Deplatforming]]
+**Related terms:** [[Online Grooming]] · [[Social Contagion]] · [[Dehumanization]] · [[Subhuman]] · [[Deplatforming]] · [[Woke Mind Virus]]
 
 
 ---

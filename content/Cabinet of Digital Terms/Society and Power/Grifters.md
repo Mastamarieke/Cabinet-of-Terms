@@ -5,17 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V1
 analysis_version: pending
-related_cause:
-  - Financial Fabulism
-  - Broligarchy
-related_mechanism:
-  - Memecoin
-  - Reconstruction Economy
-related_consequence:
-  - Memecoin
-  - Reconstruction Economy
-related_reaction:
-  - Fact Checker
 ---
 
 ***The ideology is the product. The followers are the market.***

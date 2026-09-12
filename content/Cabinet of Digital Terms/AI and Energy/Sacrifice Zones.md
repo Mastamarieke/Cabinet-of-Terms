@@ -5,15 +5,6 @@ analytical_layer: consequence
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - AI Energy Consumption
-  - Data Center Water Consumption
-related_mechanism:
-  - Externalized Costs
-  - Digital Colonialism
-related_reaction:
-  - Greenwashing
-  - Nuclear Renaissance
 ---
 
 ***Someone lives next to the data centre.***

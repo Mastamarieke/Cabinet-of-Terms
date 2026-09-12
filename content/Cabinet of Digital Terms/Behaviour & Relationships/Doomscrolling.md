@@ -5,18 +5,6 @@ analytical_layer: consequence
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Dopamine Feedback Loops
-  - Recommender Systems
-related_mechanism:
-  - Cognitive Surrender
-  - Attention Economy
-related_consequence:
-  - Technostress
-  - Brain Rot
-related_reaction:
-  - JOMO
-  - Digital Detox
 ---
 
 ***You know the news is bad. You keep scrolling.***

@@ -5,18 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V1
 analysis_version: pending
-related_cause:
-  - Millenarianism
-  - Great Replacement
-related_mechanism:
-  - Disaster Nationalism
-  - Tradwife
-related_consequence:
-  - Great Replacement
-  - Purity Culture
-related_reaction:
-  - Cyberfeminism
-  - Situated Knowledge
 ---
 
 ***The birthrate is falling. This is presented as a crisis. The solution is more children — from the right families.***

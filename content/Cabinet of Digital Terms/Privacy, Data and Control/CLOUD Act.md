@@ -5,18 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Vendor Lock-in
-  - Surveillance Capitalism
-related_mechanism:
-  - Brussels Effect
-  - Vendor Lock-in
-related_consequence:
-  - Vendor Lock-in
-  - Algorithmic Violence
-related_reaction:
-  - Brussels Effect
-  - Sovereign Cloud
 ---
 
 ***Your data is stored in Ireland. The server is owned by an American company. US law applies.***

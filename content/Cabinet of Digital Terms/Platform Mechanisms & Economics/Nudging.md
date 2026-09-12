@@ -5,17 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Attention Economy
-  - Dark Patterns
-related_mechanism:
-  - Dark Patterns
-  - Deceptive Design
-related_consequence:
-  - Cognitive Surrender
-related_reaction:
-  - VSD (Value Sensitive Design)
-  - Fair Patterns
 ---
 
 ***The healthy option is at eye level. The unhealthy one is on the bottom shelf. Nobody forced you.***

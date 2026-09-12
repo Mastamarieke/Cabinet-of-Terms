@@ -5,18 +5,6 @@ analytical_layer: cause
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Technofeudalism
-  - Broligarchy
-related_mechanism:
-  - Muskism
-  - Panopticon
-related_consequence:
-  - Technofeudalism
-  - Algorithmic Violence
-related_reaction:
-  - Brussels Effect
-  - Cyberfeminism
 ---
 
 ***Your behaviour is the raw material. Your prediction is the product.***

@@ -5,16 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Flood the Zone
-  - Surveillance Capitalism
-related_mechanism:
-  - Privacy Washing
-  - Obfuscation
-related_consequence:
-  - Surveillance Capitalism
-  - Biometric Surveillance
-related_reaction:
 ---
 
 ***"Dynamic" means distracted. Launch when attention is elsewhere.***

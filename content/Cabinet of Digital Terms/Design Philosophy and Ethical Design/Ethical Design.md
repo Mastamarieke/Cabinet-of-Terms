@@ -5,17 +5,6 @@ analytical_layer: reaction
 status: publieksversie
 version: V1
 analysis_version: pending
-related_cause:
-  - Dark Patterns
-  - Deceptive Design
-related_mechanism:
-  - VSD (Value Sensitive Design)
-  - Fair Patterns
-related_consequence:
-  - Fair Patterns
-related_reaction:
-  - VSD (Value Sensitive Design)
-  - Fair Patterns
 ---
 
 ***Design that starts with the question: what does this do to the people who use it?***

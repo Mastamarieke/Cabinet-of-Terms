@@ -5,17 +5,6 @@ analytical_layer: consequence
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Dehumanization
-  - Great Replacement
-related_mechanism:
-  - Groomer
-  - Social Contagion
-related_consequence:
-  - Great Replacement
-  - QAnon
-related_reaction:
-  - Deplatforming
 ---
 
 ***The word has a history. Every time it has been used at scale, something worse followed.***
@@ -32,7 +21,7 @@ related_reaction:
 
 **Why This Matters:** **Subhuman** is a word that functions as a stage in a sequence. Knowing the sequence — dehumanisation, persecution, mass violence — makes the word's presence in mainstream discourse a different kind of signal than general offensiveness.
 
-**Related terms:** [[Dehumanization]] · [[Great Replacement]] · [[Groomer]] · [[QAnon]] · [[Deplatforming]]
+**Related terms:** [[Dehumanization]] · [[Great Replacement]] · [[Groomer]] · [[QAnon]] · [[Deplatforming]] · [[Social Contagion]]
 
 
 ---

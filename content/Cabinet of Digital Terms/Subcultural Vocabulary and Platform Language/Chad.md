@@ -5,13 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V1
 analysis_version: pending
-related_cause:
-related_mechanism:
-  - incel
-related_consequence:
-  - looksmaxxing
-related_reaction:
-  - []
 ---
 
 ***The ideal against which everyone else is measured. The standard nobody asked for.***

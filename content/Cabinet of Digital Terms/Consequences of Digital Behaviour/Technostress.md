@@ -5,11 +5,6 @@ analytical_layer: consequence
 status: publieksversie
 version: V1
 analysis_version: pending
-related_cause:
-  - technofeudalism
-related_mechanism:
-related_consequence:
-related_reaction:
 ---
 
 ***The update changed everything. You do not know where anything is.***

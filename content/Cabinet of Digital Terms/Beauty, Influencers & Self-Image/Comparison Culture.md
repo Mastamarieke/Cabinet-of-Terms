@@ -5,20 +5,6 @@ analytical_layer: cause
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Recommender Systems
-  - Highlight Reel
-  - Mimetic Desire
-related_mechanism:
-  - Influencer
-  - Beauty Filter
-  - Curated Life
-related_consequence:
-  - Body Dysmorphic Disorder
-  - FOMO
-related_reaction:
-  - Deinfluencing
-  - Digital Detox
 ---
 
 ***You opened the app. Within thirty seconds you had evaluated your life against three other people's.***

@@ -5,18 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Attention Economy
-  - Dopamine Feedback Loops
-related_mechanism:
-  - Recommender Systems
-  - Dark Patterns
-related_consequence:
-  - Cognitive Surrender
-  - Doomscrolling
-related_reaction:
-  - Calm Technology
-  - Digital Detox
 ---
 
 ***The notification arrives. You pick up the phone. You did not decide to do that.***

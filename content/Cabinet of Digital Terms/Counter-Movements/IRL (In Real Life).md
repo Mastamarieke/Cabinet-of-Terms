@@ -5,13 +5,6 @@ analytical_layer: reaction
 status: publieksversie
 version: V1
 analysis_version: pending
-related_cause:
-related_mechanism:
-  - unplugging
-related_consequence:
-  - []
-related_reaction:
-  - []
 ---
 
 ***Physical presence now needs a name to distinguish itself from the default.***

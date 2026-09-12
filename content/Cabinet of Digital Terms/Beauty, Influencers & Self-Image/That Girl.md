@@ -5,17 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Comparison Culture
-  - Highlight Reel
-related_mechanism:
-  - Clean Girl Aesthetic
-  - Fitfluencer
-related_consequence:
-  - Body Dysmorphic Disorder
-  - Toxic Positivity
-related_reaction:
-  - Deinfluencing
 ---
 
 ***Up at 5am. Green juice. Journalling. A lifestyle that performs wellness without requiring it.***

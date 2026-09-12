@@ -5,13 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V1
 analysis_version: pending
-related_cause:
-  - technofeudalism
-related_mechanism:
-related_consequence:
-  - deskilling
-related_reaction:
-  - []
 ---
 
 ***The platform runs on human labour. The interface shows none of it.***

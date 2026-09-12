@@ -5,17 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - SMV (Sexual Market Value)
-  - Manosphere
-related_mechanism:
-  - High Value Man
-  - Looksmaxxing
-related_consequence:
-  - Hustle Culture
-  - Comparison Culture
-related_reaction:
-  - Podcast-bro
 ---
 
 ***The target is always moving. Whatever you have achieved, the standard is slightly higher.***
@@ -32,7 +21,7 @@ related_reaction:
 
 **Why This Matters:** **Top 1% man** makes visible the commercial function of aspirational standards in self-improvement content. The goal is not your success — it is your continued engagement. Once you see that, the relationship between the content creator and the viewer becomes a different kind of transaction.
 
-**Related terms:** [[SMV (Sexual Market Value)]] · [[Hypergamy]] · [[Tradwife]] · [[Manosphere]] · [[High Value Man]] · [[Alpha Male]] · [[Comparison Culture]] · [[Looksmaxxing]] · [[Hustle Culture]]
+**Related terms:** [[SMV (Sexual Market Value)]] · [[Hypergamy]] · [[Tradwife]] · [[Manosphere]] · [[High Value Man]] · [[Alpha Male]] · [[Comparison Culture]] · [[Looksmaxxing]] · [[Hustle Culture]] · [[Podcast-bro]]
 
 
 ---

@@ -5,18 +5,6 @@ analytical_layer: consequence
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Sharenting
-  - Creator Economy
-related_mechanism:
-  - Momfluencer
-  - Family Vlogging
-related_consequence:
-  - Parasocial Relationship
-  - Online Grooming
-related_reaction:
-  - Brussels Effect
-  - VSD (Value Sensitive Design)
 ---
 
 ***She is nine. She has more followers than most adults. She has no legal protection from her own employer.***

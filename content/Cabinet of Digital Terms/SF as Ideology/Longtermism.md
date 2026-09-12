@@ -5,17 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V1
 analysis_version: pending
-related_cause:
-  - Transhumanism
-  - Objectivism (Rand)
-related_mechanism:
-  - Doomerism
-  - The Singularity
-related_consequence:
-  - Fortress Futurism
-  - Mars Colonization
-related_reaction:
-  - Situated Knowledge
 ---
 
 ***The suffering of future people outweighs the suffering of present people. By a lot. This framework has consequences.***

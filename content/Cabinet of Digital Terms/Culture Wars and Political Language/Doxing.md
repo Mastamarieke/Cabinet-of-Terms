@@ -5,14 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V1
 analysis_version: pending
-related_cause:
-related_mechanism:
-  - dehumanization
-  - ragebaiting
-related_consequence:
-  - []
-related_reaction:
-  - unblackboxing
 ---
 
 ***The address is now public. The employer has been contacted. None of this required hacking.***

@@ -5,12 +5,6 @@ analytical_layer: consequence
 status: publieksversie
 version: V1
 analysis_version: pending
-related_cause:
-related_mechanism:
-related_consequence:
-  - technostress
-related_reaction:
-  - []
 ---
 
 ***You searched the symptom. An hour later you had three diagnoses, all serious.***

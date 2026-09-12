@@ -5,18 +5,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Digital Libertarianism
-  - Objectivism (Rand)
-related_mechanism:
-  - Unblackboxing
-  - Black Box
-related_consequence:
-  - Digital Libertarianism
-  - Obfuscation
-related_reaction:
-  - Cyberfeminism
-  - Situated Knowledge
 ---
 
 ***Information wants to be free. This was a moral claim before it was a business model.***

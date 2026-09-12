@@ -5,17 +5,6 @@ analytical_layer: consequence
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Incel
-  - SMV (Sexual Market Value)
-related_mechanism:
-  - Blackpill
-  - Dehumanization
-related_consequence:
-  - MGTOW
-  - Great Replacement
-related_reaction:
-  - Deplatforming
 ---
 
 ***The hierarchy is fixed. Your position in it is determined at birth. Nothing you do will change it.***
@@ -32,7 +21,7 @@ related_reaction:
 
 **Why This Matters:** **Blackpill** makes visible how deterministic ideology functions as a closed system: it explains everything, can be confirmed by any outcome, and makes exit difficult. The pain underneath it is real. The framework makes it permanent.
 
-**Related terms:** [[SMV (Sexual Market Value)]] · [[Incel]] · [[Manosphere]] · [[Sigma Male]] · [[MGTOW]] · [[Looksmaxxing]] · [[Red Pill]]
+**Related terms:** [[SMV (Sexual Market Value)]] · [[Incel]] · [[Manosphere]] · [[Sigma Male]] · [[MGTOW]] · [[Looksmaxxing]] · [[Red Pill]] · [[Dehumanization]] · [[Great Replacement]] · [[Deplatforming]]
 
 
 ---

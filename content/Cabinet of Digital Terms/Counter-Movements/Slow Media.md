@@ -5,17 +5,6 @@ analytical_layer: reaction
 status: publieksversie
 version: V2
 analysis_version: pending
-related_cause:
-  - Attention Economy
-  - Clickbait
-related_mechanism:
-  - Digital Detox
-  - Mindful Scrolling
-related_consequence:
-  - Cognitive Surrender
-related_reaction:
-  - Unplugging
-  - Tech-Free Challenge
 ---
 
 ***He reads one newspaper instead of fourteen feeds. He found out about it on Twitter.***

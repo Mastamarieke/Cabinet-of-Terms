@@ -8,21 +8,6 @@ analytical_layer: mechanism
 status: publieksversie
 version: V3
 analysis_version: pending
-related_cause:
-  - Attention Economy
-  - Dopamine Feedback Loops
-related_mechanism:
-  - Filter Bubble
-  - Microtargeting
-related_consequence:
-  - Echo Chamber
-  - Great Replacement
-  - Radicalization
-  - Ragebaiting
-  - SMV (Sexual Market Value)
-related_reaction:
-  - Brussels Effect
-  - AI Literacy
 ---
 
 ***You watched one video about a topic. The next ten appeared automatically. You did not search for them.***
