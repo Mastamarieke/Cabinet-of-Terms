@@ -69,6 +69,9 @@ type NodeRenderData = GraphicsInfo & {
   inward?: boolean
 }
 
+// Bump when the graph changes visibly; shown at the foot of the legend.
+const GRAPH_BUILD = "graph 2026-09-12 · 20:05"
+
 const localStorageKey = "graph-visited"
 function getVisited(): Set<SimpleSlug> {
   return new Set(JSON.parse(localStorage.getItem(localStorageKey) ?? "[]"))
@@ -697,8 +700,12 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
         .fill({ color: computedStyleMap["--light"] })
         .stroke({ width: 2, color: computedStyleMap["--tertiary"] })
     } else {
+      // The entry itself wears its cluster's colour, with the orange ring on top saying
+      // "you are here": the graph never said which cluster the term belonged to, only
+      // which clusters its neighbours did.
+      const fillColor = nodeId === slug ? (clusterColor(nodeId) ?? nodeColor) : nodeColor
       gfx.circle(0, 0, nodeRadius(n))
-        .fill({ color: nodeColor })
+        .fill({ color: fillColor })
     }
 
     gfx
@@ -1240,6 +1247,9 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
       row.className = "cluster"
       const swatch = document.createElement("i")
       swatch.style.backgroundColor = clusterColor(`x/${segment}`) ?? computedStyleMap["--gray"]
+      // The row of the entry's own cluster is set bold and its dot ringed, the same ring
+      // the entry wears in the middle; no words, because the legend has no room for them.
+      if (segment === clusterOf(slug) && slug !== clusterIndexSlug) row.classList.add("own")
       row.append(swatch, document.createTextNode(clusterTitle(segment)))
       // The legend is not only a key. Pointing at a row lights the cluster up in the
       // picture, and clicking it opens the cluster's page, like the name on the rim.
@@ -1253,7 +1263,12 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     })
 
     const divider = document.createElement("hr")
-    legendEl.replaceChildren(...glyphRows, ...literatureRows, divider, ...clusterRows)
+    // A build stamp, so that "which version am I looking at" is answered by the legend
+    // instead of by guessing at browser caches.
+    const stamp = document.createElement("small")
+    stamp.className = "stamp"
+    stamp.textContent = GRAPH_BUILD
+    legendEl.replaceChildren(...glyphRows, ...literatureRows, divider, ...clusterRows, stamp)
   }
 
   let labelsNeedPlacing = true
@@ -1454,11 +1469,12 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
 
         const [from, to] = span
         const inFocus = focusCluster === segment
+        const home = segment === clusterOf(slug)
         clusterArc
           .arc(width / 2, height / 2, arcRadius - 52, from - 0.02, to + 0.02)
           .stroke({
-            width: inFocus ? 6 : 3,
-            alpha: focusCluster ? (inFocus ? 0.95 : 0.3) : 0.6,
+            width: inFocus ? 6 : home ? 4.5 : 3,
+            alpha: focusCluster ? (inFocus ? 0.95 : 0.3) : home ? 0.85 : 0.6,
             color: clusterColor(`x/${segment}`) ?? computedStyleMap["--gray"],
           })
 

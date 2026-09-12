@@ -307,6 +307,23 @@
       cursor: pointer;
     }
 
+    span.own {
+      font-weight: 700;
+      color: var(--dark);
+
+      i {
+        box-shadow: 0 0 0 2px #ff6b00;
+      }
+    }
+
+    small.stamp {
+      margin-top: 0.4em;
+      font-size: 0.5em;
+      letter-spacing: 0.06em;
+      color: var(--gray);
+      opacity: 0.7;
+    }
+
     span.cluster:hover,
     span.filter:hover {
       color: var(--dark);
