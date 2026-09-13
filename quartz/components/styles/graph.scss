@@ -6,6 +6,51 @@
     margin: 0;
   }
 
+  // On a term page the panel is one card with the Semantic Landscape block under it:
+  // same frame, same header bar, the drawing between the two headers.
+  &.graph-card {
+    border: 1px solid var(--lightgray);
+    border-radius: 8px;
+    overflow: hidden;
+    margin: 0.5em 0;
+
+    & > h3.graph-title {
+      margin: 0;
+      padding: 0.4em 1em;
+      background: var(--light);
+      border-bottom: 1px solid var(--lightgray);
+      // the landscape header is 0.8em inside a 0.82em block; match that exactly
+      font-size: calc(0.82em * 0.8);
+      font-weight: 400;
+      letter-spacing: 0;
+      text-transform: none;
+      color: var(--darkgray);
+      line-height: 1.5;
+      display: flex;
+      align-items: center;
+      gap: 0.4em;
+      flex-wrap: wrap;
+    }
+
+    & > .graph-outer {
+      margin: 0;
+      padding: 0 0.6em;
+    }
+
+    & > .graph-help {
+      margin: 0;
+      padding: 0.25em 0.8em 0.35em;
+    }
+
+    // followed by the landscape block: the two join into one card
+    &:has(+ .graph-story) {
+      border-bottom-left-radius: 0;
+      border-bottom-right-radius: 0;
+      border-bottom: none;
+      margin-bottom: 0;
+    }
+  }
+
   // Styling of the three switches, independent of where they hang: the sidebar graph
   // or the loupe overlay, which borrows the same element instead of copying it.
   .graph-toggles {
@@ -186,12 +231,12 @@
   .graph-controls {
     position: fixed;
     top: calc(10vh + 0.6rem);
-    right: calc(10vw + 0.6rem);
+    right: calc(10vw + 2.2rem);
     z-index: 10;
     display: flex;
     flex-direction: column;
     gap: 0.5em;
-    width: 168px;
+    width: 186px;
     padding: 0;
     box-sizing: border-box;
     background: none;
@@ -261,13 +306,13 @@
     // bordered panel beside an unbordered drawing reads as the louder of the two.
     position: fixed;
     top: 50%;
-    right: calc(10vw + 0.6rem);
+    right: calc(10vw + 2.2rem);
     transform: translateY(-50%);
     z-index: 10;
     display: flex;
     flex-direction: column;
     gap: 0.28em;
-    width: 168px;
+    width: 186px;
     padding: 0;
     box-sizing: border-box;
     background: none;

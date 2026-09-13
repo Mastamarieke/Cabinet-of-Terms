@@ -4,7 +4,6 @@ import script from "./scripts/graph.inline"
 import style from "./styles/graph.scss"
 import { i18n } from "../i18n"
 import { classNames } from "../util/lang"
-import { FullSlug, resolveRelative } from "../util/path"
 
 export interface D3Config {
   drag: boolean
@@ -63,12 +62,25 @@ const defaultOptions: GraphOptions = {
 export default ((opts?: Partial<GraphOptions>) => {
   const Graph: QuartzComponent = ({ displayClass, cfg, fileData }: QuartzComponentProps) => {
     // One door, the same on every page, instead of an explanation under every graph.
-    const howToRead = resolveRelative(fileData.slug!, "Reading-the-graph" as FullSlug)
+    // One line naming what the visitor sees: the ring is the term's field, the block under it its landscape.
+    const fm = fileData.frontmatter as Record<string, unknown> | undefined
+    const term = typeof fm?.term === "string" ? (fm.term as string) : undefined
+    const possessive = term ? (term.endsWith("s") ? `${term}'` : `${term}'s`) : ""
     const localGraph = { ...defaultOptions.localGraph, ...opts?.localGraph }
     const globalGraph = { ...defaultOptions.globalGraph, ...opts?.globalGraph }
     return (
-      <div class={classNames(displayClass, "graph")}>
-        <h3>{i18n(cfg.locale).components.graph.title}</h3>
+      <div class={classNames(displayClass, "graph", term ? "graph-card" : "")}>
+        {term ? (
+          <h3 class="graph-title">
+            <span class="graph-title-name">Semantic field</span>
+            <span class="graph-title-rest">
+              {" "}
+              — the map of <strong>{possessive}</strong> related terms (the graph)
+            </span>
+          </h3>
+        ) : (
+          <h3>{i18n(cfg.locale).components.graph.title}</h3>
+        )}
         <div class="graph-outer">
           <div class="graph-container" data-cfg={JSON.stringify(localGraph)}></div>
           <div class="graph-toggles">
@@ -125,9 +137,6 @@ export default ((opts?: Partial<GraphOptions>) => {
             </svg>
           </button>
         </div>
-        <p class="graph-help">
-          <a href={howToRead} class="internal">How to read this graph →</a>
-        </p>
         <div class="expanded-graph-outer">
           <div class="expanded-graph-container" data-cfg={JSON.stringify(localGraph)}></div>
           <div class="graph-controls">

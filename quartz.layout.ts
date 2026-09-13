@@ -69,8 +69,8 @@ export const defaultListPageLayout: PageLayout = {
       component: Component.Graph({ localGraph: { depth: 1, scale: 0.9, showTags: false }, globalGraph: { removeTags: ["source"] } }),
       condition: (page) => !isWholeVaultPage(page.fileData.slug ?? ""),
     }),
-    Component.VaultMap({ showPanel: true }),
     Component.GraphStory(),
+    Component.VaultMap({ showPanel: true }),
   ],
   left: [
     Component.PageTitle(),

@@ -66,6 +66,11 @@ An entry that cites literature has a page for it, and that page has a graph of i
 
 That makes the source graph the one picture in the vault that reports on the work rather than on the network. An entry with an arrow in has been brought into line with the literature. An entry with only an arrow out has not.
 
+
+## Where the form comes from
+
+None of the drawing is new. The ring with cluster arcs and names along its rim is the form of [Circos](https://doi.org/10.1101/gr.092759.109) (Krzywinski et al., 2009), built for showing relations between chromosome segments: the rim carries the categories, the middle carries the traffic. The term in the centre with its neighbours around it is an [ego network](https://doi.org/10.1016/0165-4896(82)90076-2) (Freeman, 1982), the network seen from one node, which is why two entry graphs can be compared while two force-directed layouts cannot. The map of all twenty clusters bends its lines through the centre in the manner of [hierarchical edge bundling](https://doi.org/10.1109/TVCG.2006.147) (Holten, 2006), so that a thousand links read as traffic between groups. What none of the three provides is the legend as a filter; that came out of curating this vault.
+
 ---
 
 *The whole vault has a picture of its own, on All Clusters: twenty circles, one per cluster, with every link drawn between them, and the Cabinet itself in the middle.*

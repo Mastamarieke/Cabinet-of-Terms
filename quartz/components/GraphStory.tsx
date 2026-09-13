@@ -12,10 +12,18 @@ const GraphStory: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
   if (!fm?.term || !fm?.semantic_landscape) return null
 
   const landscape = fm.semantic_landscape as string
+  const term = fm.term as string
+  const possessive = term.endsWith("s") ? `${term}'` : `${term}'s`
 
   return (
     <details class="graph-story">
-      <summary class="graph-story-header">Semantic Landscape</summary>
+      <summary class="graph-story-header">
+        <span class="graph-title-name">Semantic landscape</span>
+        <span class="graph-title-rest">
+          {" "}
+          — the tour through <strong>{possessive}</strong> landscape
+        </span>
+      </summary>
       <div class="gs-landscape">
         {landscape.split("\n\n").map((para, i) => (
           <p key={i}>{parseBold(para.trim())}</p>
