@@ -85,6 +85,7 @@ async function renderVaultMap() {
   const overlay = container.querySelector(".vault-map-overlay") as HTMLElement | null
   if (!inner || !stage || !overlay) return
   inner.innerHTML = ""
+  stage.innerHTML = ""
 
   const data = await fetchData
   const here = getFullSlug(window)
@@ -732,10 +733,19 @@ async function renderVaultMap() {
     image.src = "data:image/svg+xml;charset=utf-8," + encodeURIComponent(source)
   }
 
-  container.querySelector(".vault-map-shot")?.addEventListener("click", shoot)
-  container.querySelector(".vault-map-expand")?.addEventListener("click", open)
-  container.querySelector(".vault-map-close")?.addEventListener("click", close)
-  container.querySelector(".vault-map-reset")?.addEventListener("click", toHome)
+  // Every listener is taken off again on the next navigation. Without that, a second visit
+  // to the same page (the SPA keeps the buttons) left the old handlers in place beside the
+  // new ones, and opening the loupe put two maps on the stage: the old drawing and the new.
+  const wire = (selector: string, handler: () => void) => {
+    const el = container.querySelector(selector)
+    if (!el) return
+    el.addEventListener("click", handler)
+    window.addCleanup(() => el.removeEventListener("click", handler))
+  }
+  wire(".vault-map-shot", shoot)
+  wire(".vault-map-expand", open)
+  wire(".vault-map-close", close)
+  wire(".vault-map-reset", toHome)
   registerEscapeHandler(overlay, close)
   // The sidebar's "whole vault" button hands over to the map instead of the force graph.
   document.addEventListener("open-vault-map", open)
