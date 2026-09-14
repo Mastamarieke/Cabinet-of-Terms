@@ -231,12 +231,12 @@ async function setupExplorer(currentSlug: FullSlug) {
     }
 
     // Get folder paths for state management
-    // Folders that start open on every page load, so a first visitor sees that the
-    // clusters unfold: the vault itself and one example cluster.
-    const openByDefault = new Set<string>([
-      "Cabinet-of-Digital-Terms",
-      "Cabinet-of-Digital-Terms/Beauty,-Influencers--and--Self-Image",
-    ])
+    // The vault folder starts open on every page load, so a first visitor sees the twenty
+    // clusters at once; the clusters themselves stay closed, their chevrons say there is more.
+    // A folder's path in the trie ends in "/index" (see FileTrieNode.slug), whatever the
+    // folder holds; without that suffix these two never matched, and the front page opened
+    // on a closed vault.
+    const openByDefault = new Set<string>(["Cabinet-of-Digital-Terms/index"])
     const folderPaths = trie.getFolderPaths()
     currentExplorerState = folderPaths.map((path) => {
       const previousState = oldIndex.get(path)

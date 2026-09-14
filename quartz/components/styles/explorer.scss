@@ -260,7 +260,9 @@ li:has(> .folder-outer:not(.open)) > .folder-container > svg {
         transform 200ms ease,
         visibility 200ms ease;
       overflow: hidden;
-      padding: 4rem 0 2rem 0;
+      // the site name wraps to two lines on a phone, so the top bar is taller than the 4rem
+      // Quartz assumes; the list starts below the bar, clear of the menu icon
+      padding: 6.5rem 0 2rem 0;
       height: 100dvh;
       max-height: 100dvh;
       visibility: hidden;
