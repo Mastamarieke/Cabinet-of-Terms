@@ -9,11 +9,13 @@
   &.folded {
     margin: 0;
 
+    // named in full so this outranks the header rule below, which also sets display
     & > h3,
+    & > h3.vault-map-title,
     & > .vault-map-inner,
     & > .vault-map-foot,
     & > .vault-map-expand {
-      display: none;
+      display: none !important;
     }
   }
 
@@ -86,12 +88,13 @@
 }
 
 .vault-map-expand {
+  // sits inside the header bar, centred on its text line
   position: absolute;
-  top: 0.3em;
-  right: 0.5em;
-  width: 26px;
-  height: 26px;
-  padding: 0.2rem;
+  top: 3px;
+  right: 0.6em;
+  width: 20px;
+  height: 20px;
+  padding: 0.15rem;
   background: none;
   border: none;
   color: var(--dark);
@@ -378,6 +381,12 @@
 
   &.focused.zoomed .vm-term-label {
     opacity: 0.25;
+  }
+
+  // the peeked cluster's names stay legible and a little larger than at ordinary zoom
+  &.peek .vm-term-label.peeked {
+    opacity: 1;
+    font-size: 10.5px;
   }
 
   .vm-count {

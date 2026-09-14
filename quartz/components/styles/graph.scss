@@ -109,10 +109,16 @@
 
   & > .graph-outer {
     box-sizing: border-box;
-    height: 250px;
+    height: 300px;
     margin: 0.5em 0;
     position: relative;
     overflow: hidden;
+
+    // the canvas measures this element for its height; without it the drawing keeps the
+    // old 250 and leaves a blank band at the foot of a taller panel
+    & > .graph-container {
+      height: 100%;
+    }
 
     & > .graph-toggles {
       position: absolute;

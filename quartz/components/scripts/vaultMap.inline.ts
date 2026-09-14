@@ -293,11 +293,15 @@ async function renderVaultMap() {
 
     const target = `${VAULT}/${cluster}/index` as FullSlug
     const lit = clusterEdges.get(cluster)!
+    // In the loupe the ring itself carries the hover; in the small panel the peek below does,
+    // over the whole disc, so these stay out of its way there.
     group.addEventListener("pointerenter", () => {
+      if (!enlarged()) return
       svg.classList.add("focused")
       for (const path of lit) path.classList.add("lit")
     })
     group.addEventListener("pointerleave", () => {
+      if (!enlarged()) return
       svg.classList.remove("focused")
       for (const path of lit) path.classList.remove("lit")
     })
@@ -485,6 +489,26 @@ async function renderVaultMap() {
     applyView()
   }
 
+  // A short glide of the viewBox between two frames, for the peek below: a jump would
+  // read as a different drawing, a glide as the same one coming closer.
+  let gliding = 0
+  const glideTo = (to: { x: number; y: number; w: number; h: number }, ms = 520) => {
+    cancelAnimationFrame(gliding)
+    const from = { ...view }
+    const t0 = performance.now()
+    const step = (now: number) => {
+      const k = Math.min(1, (now - t0) / ms)
+      const e = 1 - Math.pow(1 - k, 3)
+      view.x = from.x + (to.x - from.x) * e
+      view.y = from.y + (to.y - from.y) * e
+      view.w = from.w + (to.w - from.w) * e
+      view.h = from.h + (to.h - from.h) * e
+      applyView()
+      if (k < 1) gliding = requestAnimationFrame(step)
+    }
+    gliding = requestAnimationFrame(step)
+  }
+
   // Every mark keeps a reference to itself, so a change of spacing moves the drawing rather
   // than building it again: 1700 elements rebuilt on every step of a slider would stutter.
   const applyLayout = () => {
@@ -571,6 +595,56 @@ async function renderVaultMap() {
     { passive: false },
   )
 
+  // In the small panel, resting the pointer on a cluster brings that circle close enough to
+  // read its names, and the names appear because the view counts as zoomed. The hover area
+  // is the whole disc plus a margin, measured in map units, so moving from the ring onto a
+  // term does not let go; the frame glides back once the pointer has left the neighbourhood.
+  let peeked: string | null = null
+  const peekAt = (cluster: string | null) => {
+    if (cluster === peeked) return
+    if (peeked) {
+      svg.classList.remove("focused")
+      for (const path of clusterEdges.get(peeked) ?? []) path.classList.remove("lit")
+    }
+    peeked = cluster
+    svg.classList.toggle("peek", !!cluster)
+    for (const m of marks) m.name.classList.toggle("peeked", !!cluster && m.term.cluster === cluster)
+    if (!cluster) {
+      glideTo(home)
+      return
+    }
+    svg.classList.add("focused")
+    for (const path of clusterEdges.get(cluster) ?? []) path.classList.add("lit")
+    const g = geometry.get(cluster)!
+    // room around the circle, so that there is somewhere inside the frame to let go
+    const half = g.r + 150
+    glideTo({ x: g.x - half, y: g.y - half, w: 2 * half, h: 2 * half })
+  }
+  svg.addEventListener("pointermove", (e) => {
+    if (enlarged() || dragging) return
+    const box = svg.getBoundingClientRect()
+    const mx = view.x + ((e.clientX - box.left) / box.width) * view.w
+    const my = view.y + ((e.clientY - box.top) / box.height) * view.h
+    // stay with the current cluster while the pointer is on the circle or its names; the
+    // band along the edge of the frame is where it lets go
+    if (peeked) {
+      const g = geometry.get(peeked)!
+      if (Math.hypot(mx - g.x, my - g.y) <= g.r + 100) return
+    }
+    let hit: string | null = null
+    for (const cluster of clusters) {
+      const g = geometry.get(cluster)!
+      if (Math.hypot(mx - g.x, my - g.y) <= g.r + 40) {
+        hit = cluster
+        break
+      }
+    }
+    peekAt(hit)
+  })
+  svg.addEventListener("pointerleave", () => {
+    if (!enlarged()) peekAt(null)
+  })
+
   let dragging: { x: number; y: number } | null = null
   svg.addEventListener("pointerdown", (e) => {
     if (!enlarged()) return
@@ -597,6 +671,8 @@ async function renderVaultMap() {
   svg.addEventListener("pointercancel", endDrag)
 
   const open = () => {
+    peekAt(null)
+    cancelAnimationFrame(gliding)
     stage.appendChild(svg)
     overlay.classList.add("active")
     toHome()

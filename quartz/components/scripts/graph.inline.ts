@@ -527,7 +527,8 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     const tweenGroup = new TweenGroup()
 
     const defaultScale = (1 / scale) * labelSizeFactor
-    const activeScale = defaultScale * 1.1
+    // the term under the pointer steps forward a size, enough to be the one you read first
+    const activeScale = defaultScale * 1.3
     for (const n of nodeRenderData) {
       const nodeId = n.simulationData.id
 
@@ -845,6 +846,7 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
   // One faint name per cluster, sitting behind its own group of terms. Not tied to the
   // relation marks: those are dropped on a crowded entry, and that is exactly where the
   // cluster names are needed most.
+  // Names on the rim only in the loupe: in the panel they cost the drawing half its size.
   const showClusterNames = !!graph.closest(".expanded-graph-outer") && isLocalGraph
   const clusterNameLabels = new Map<string, Text>()
   if (showClusterNames && orderedClusters.length > 1) {
@@ -1094,8 +1096,16 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
   function fitToCanvas(extent: number) {
     if (fittedToCanvas || viewAdjustedByReader || !zoomBehaviour) return
     fittedToCanvas = true
-    const visibleWidth = app.canvas.clientWidth || width
-    const visibleHeight = app.canvas.clientHeight || height
+    // In the small panel the switches sit over the bottom edge of the canvas; the drawing
+    // is centred in what is left above them. In the loupe the legend and the sliders take a
+    // column on the right, so the drawing is centred in the width to the left of it — on a
+    // phone the legend sits under the drawing instead and the whole width is free.
+    const inLoupe = !!graph.closest(".expanded-graph-outer")
+    const phone = window.matchMedia("(max-width: 720px)").matches
+    const sideReserved = inLoupe && !phone ? 250 : 0
+    const visibleWidth = (app.canvas.clientWidth || width) - sideReserved
+    const reserved = inLoupe ? 0 : 30
+    const visibleHeight = (app.canvas.clientHeight || height) - reserved
     const k = Math.min(scale, (Math.min(visibleWidth, visibleHeight) / 2 - 6) / extent)
     if (k >= scale) return
     const transform = zoomIdentity
@@ -1450,26 +1460,41 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
           literatureReach = Math.max(literatureReach, n.ring + n.label.width + 14)
         }
       }
-      const arcRadius = Math.min(
-        Math.max(ringRadius + widest + 30, literatureReach + 52 + 10),
-        (Math.min(width, height) / 2) * 0.97,
-      )
+      // In the loupe the arc sits 52 inside a rim that carries the cluster names; in the small
+      // panel there are no names on the rim, so the arc is the rim, just outside the spokes.
+      const arcInset = showClusterNames ? 52 : 0
+      const arcRadius = showClusterNames
+        ? Math.min(
+            Math.max(ringRadius + widest + 30, literatureReach + 52 + 10),
+            (Math.min(width, height) / 2) * 0.97,
+          )
+        : Math.min(
+            Math.max(ringRadius + widest + 12, literatureReach + 8),
+            (Math.min(width, height) / 2) * 0.97,
+          )
       // the names on the rim can take a second lane and stand about one line tall
-      fitToCanvas(arcRadius + 2 * ((fontSize * 18 * labelSizeFactor) / scale + 6) + 12)
+      if (showClusterNames) {
+        fitToCanvas(arcRadius + 2 * ((fontSize * 18 * labelSizeFactor) / scale + 6) + 12)
+      } else {
+        // a little past the rim, so the longest names that overshoot the capped arc stay in
+        fitToCanvas(arcRadius + 40)
+      }
 
       // Every cluster that is present gets its arc and its name, however few terms it has
       // here. A single term with neither reads as unattached, when what it really is is the
       // one member of its group this entry happens to touch.
       // The literature closes the circle: a dotted arc over the band, with SOURCES on it
       // in the same letters as the cluster names. Dotted, because these are not terms.
-      if (sourceArcSpan && sourceChars.length) {
+      if (sourceArcSpan) {
         const [from, to] = sourceArcSpan
         const dash = 0.035
         for (let a = from; a < to; a += dash * 2) {
           clusterArc
-            .arc(width / 2, height / 2, arcRadius - 52, a, Math.min(a + dash, to))
-            .stroke({ width: 3, alpha: 0.6, color: computedStyleMap["--gray"] })
+            .arc(width / 2, height / 2, arcRadius - arcInset, a, Math.min(a + dash, to))
+            .stroke({ width: showClusterNames ? 3 : 2, alpha: 0.6, color: computedStyleMap["--gray"] })
         }
+      }
+      if (sourceArcSpan && sourceChars.length) {
         for (const glyph of sourceChars) glyph.scale.set((1 / scale) * labelSizeFactor)
         setOnArc(sourceChars, -Math.PI / 2, arcRadius)
       } else {
@@ -1481,8 +1506,9 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
       const focusCluster =
         hoveredCluster ?? (hoveredNodeId && hoveredNodeId !== slug ? clusterOf(hoveredNodeId) : null)
       const named: { segment: string; chars: Text[]; angle: number; full: number; members: number }[] = []
-      for (const [segment, nameLabel] of clusterNameLabels) {
-        nameLabel.visible = false
+      for (const segment of orderedClusters) {
+        const nameLabel = clusterNameLabels.get(segment)
+        if (nameLabel) nameLabel.visible = false
         const chars = clusterArcChars.get(segment) ?? []
         for (const glyph of chars) glyph.visible = false
         const angle = clusterArcAngles.get(segment)
@@ -1495,13 +1521,16 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
         const [from, to] = span
         const inFocus = focusCluster === segment
         const home = segment === clusterOf(slug)
+        // the same arc in the small panel, a size thinner, so it reads as a rim and not a wall
+        const thin = showClusterNames ? 1 : 0.6
         clusterArc
-          .arc(width / 2, height / 2, arcRadius - 52, from - 0.02, to + 0.02)
+          .arc(width / 2, height / 2, arcRadius - arcInset, from - 0.02, to + 0.02)
           .stroke({
-            width: inFocus ? 6 : home ? 4.5 : 3,
+            width: (inFocus ? 6 : home ? 4.5 : 3) * thin,
             alpha: focusCluster ? (inFocus ? 0.95 : 0.3) : home ? 0.85 : 0.6,
             color: clusterColor(`x/${segment}`) ?? computedStyleMap["--gray"],
           })
+        if (!chars.length) continue
 
         // Measured at full size, whatever the letters are scaled to right now, so the
         // fitting below starts from the same number every frame instead of chasing its own
@@ -1580,7 +1609,7 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
         // dirt on the rim rather than as a word. Then the arc carries it alone.
         if (fit[i] < 0.55) return
         const inFocus = focusCluster === entry.segment
-        const boost = inFocus ? 1.25 : 1
+        const boost = inFocus ? 1.45 : 1
         for (const glyph of entry.chars) {
           glyph.scale.set(((fit[i] * boost) / scale) * labelSizeFactor)
           glyph.alpha = focusCluster ? (inFocus ? 1 : 0.3) : 0.7
