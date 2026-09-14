@@ -133,14 +133,14 @@
       background: none;
       border: none;
       color: var(--dark);
-      opacity: 0.5;
-      width: 24px;
-      height: 24px;
+      opacity: 0.55;
+      width: 28px;
+      height: 28px;
       position: absolute;
       padding: 0.2rem;
       margin: 0.3rem;
       top: 0;
-      right: 1.8rem;
+      right: 2rem;
       border-radius: 4px;
       background-color: transparent;
       transition: background-color 0.5s ease;
@@ -401,9 +401,9 @@
     gap: 0.3em;
 
     button {
-      width: 30px;
-      height: 30px;
-      padding: 0.3rem;
+      width: 38px;
+      height: 38px;
+      padding: 0.45rem;
       display: flex;
       align-items: center;
       justify-content: center;
