@@ -1,4 +1,5 @@
 ---
+draft: true
 ---
 
 *Cabinet of Digital Terms — Project Digitale Alertheid, HAN CMD — 2026*

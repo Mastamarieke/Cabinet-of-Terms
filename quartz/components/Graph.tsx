@@ -65,17 +65,24 @@ export default ((opts?: Partial<GraphOptions>) => {
     // One line naming what the visitor sees: the ring is the term's field, the block under it its landscape.
     const fm = fileData.frontmatter as Record<string, unknown> | undefined
     const term = typeof fm?.term === "string" ? (fm.term as string) : undefined
-    const possessive = term ? (term.endsWith("s") ? `${term}'` : `${term}'s`) : ""
+    // A cluster's About page sits directly under the vault folder; its graph shows the cluster's terms.
+    const parts = (fileData.slug ?? "").split("/")
+    const isClusterPage =
+      parts[0] === "Cabinet-of-Digital-Terms" &&
+      (parts.length === 2 || (parts.length === 3 && parts[2] === "index"))
+    const cluster = isClusterPage && typeof fm?.title === "string" ? (fm.title as string) : undefined
+    const subject = term ?? cluster
+    const possessive = subject ? (subject.endsWith("s") ? `${subject}'` : `${subject}'s`) : ""
     const localGraph = { ...defaultOptions.localGraph, ...opts?.localGraph }
     const globalGraph = { ...defaultOptions.globalGraph, ...opts?.globalGraph }
     return (
-      <div class={classNames(displayClass, "graph", term ? "graph-card" : "")}>
-        {term ? (
+      <div class={classNames(displayClass, "graph", subject ? "graph-card" : "")}>
+        {subject ? (
           <h3 class="graph-title">
             <span class="graph-title-name">Semantic field</span>
             <span class="graph-title-rest">
               {" "}
-              — the map of <strong>{possessive}</strong> related terms (the graph)
+              — the map of <strong>{possessive}</strong> {term ? "related terms" : "terms"} (the graph)
             </span>
           </h3>
         ) : (

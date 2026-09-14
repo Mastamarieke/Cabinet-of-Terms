@@ -6,4 +6,4 @@ Every term in the Cabinet lives in one cluster, and every cluster is a way of as
 
 The lines that leave a circle matter more than the ones inside it. A cluster with many outgoing lines is one the rest of the Cabinet keeps needing; a cluster with few is one that has not been put to work yet.
 
-The twenty clusters are listed below. [[Reading the graph]] explains the marks that appear in the graph of a single entry.
+The twenty clusters are listed below.

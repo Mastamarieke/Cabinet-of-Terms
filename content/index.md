@@ -6,7 +6,7 @@ title: Cabinet of Digital Terms
 
 **12 September 2026: the graphs have been redrawn.**
 
-Every entry's graph now puts the term in the middle, with its neighbours on a ring grouped by cluster, its sources marked as books, and a legend that filters the picture. A map of all twenty clusters and every link between them sits on [[Cabinet of Digital Terms|All Clusters]]. [[Reading the graph]] explains how to read both. The point is the landscape: you can now see at a glance which cluster a term belongs to, which clusters it sits between, what it rests on, and what points at it.
+Every entry's graph now puts the term in the middle, with its neighbours on a ring grouped by cluster, its sources marked as books, and a legend that filters the picture. A map of all twenty clusters and every link between them sits on [[Cabinet of Digital Terms|All Clusters]]. The point is the landscape: you can now see at a glance which cluster a term belongs to, which clusters it sits between, what it rests on, and what points at it.
 
 </div>
 
