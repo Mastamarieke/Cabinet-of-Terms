@@ -11,14 +11,64 @@
 
     & > h3,
     & > .vault-map-inner,
+    & > .vault-map-foot,
     & > .vault-map-expand {
       display: none;
     }
   }
 
-  & > h3 {
-    font-size: 1rem;
+  // The same card as an entry's graph: header bar in the same voice, the drawing between
+  // the bar and a small footer line.
+  &:not(.folded) {
+    border: 1px solid var(--lightgray);
+    border-radius: 8px;
+    overflow: hidden;
+    margin: 0.5em 0 1.5rem;
+  }
+
+  & > h3.vault-map-title {
     margin: 0;
+    padding: 0.4em 2.4em 0.4em 1em;
+    background: var(--light);
+    border-bottom: 1px solid var(--lightgray);
+    font-size: calc(0.82em * 0.8);
+    font-weight: 400;
+    letter-spacing: 0;
+    text-transform: none;
+    color: var(--darkgray);
+    line-height: 1.5;
+    display: flex;
+    align-items: center;
+    gap: 0.4em;
+    flex-wrap: wrap;
+
+    .vault-map-title-name {
+      font-weight: 700;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+      color: var(--han-red);
+    }
+
+    strong {
+      font-weight: 600;
+      color: var(--dark);
+    }
+  }
+
+  & > .vault-map-inner {
+    margin: 0;
+    padding: 0 0.6em;
+  }
+
+  & > .vault-map-foot {
+    margin: 0;
+    padding: 0.3em 1em 0.4em;
+    border-top: 1px solid var(--lightgray);
+    background: var(--light);
+    font-size: 0.6rem;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--gray);
   }
 }
 
@@ -37,8 +87,8 @@
 
 .vault-map-expand {
   position: absolute;
-  top: 0;
-  right: 0;
+  top: 0.3em;
+  right: 0.5em;
   width: 26px;
   height: 26px;
   padding: 0.2rem;

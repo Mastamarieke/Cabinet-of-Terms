@@ -23,8 +23,16 @@ const VaultMap: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
   const open = (opts?.showPanel && isWholeVaultPage(fileData.slug ?? "")) || fileData.slug === "index"
   return (
     <div class={open ? "vault-map-outer" : "vault-map-outer folded"} id="vault-map">
-      <h3>Map of the Cabinet</h3>
+      <h3 class="vault-map-title">
+        <span class="vault-map-title-name">Semantic field</span>
+        <span class="vault-map-title-rest">
+          {" "}
+          — the map of the <strong>Cabinet of Digital Terms</strong>: twenty clusters, every link
+          between them
+        </span>
+      </h3>
       <div class="vault-map-inner"></div>
+      <p class="vault-map-foot">Point at a circle to see its reach · enlarge to read the names</p>
       <button class="vault-map-expand" aria-label="Enlarge this map">
         <svg
           xmlns="http://www.w3.org/2000/svg"
