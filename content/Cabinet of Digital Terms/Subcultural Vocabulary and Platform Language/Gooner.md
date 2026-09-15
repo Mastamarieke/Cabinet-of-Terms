@@ -5,6 +5,13 @@ analytical_layer: mechanism
 status: publieksversie
 version: V1
 analysis_version: pending
+attention_moments:
+  - month: 2023-10
+    note: "29–30 October: 96,000 lookups in two days, of a page that then described another 'gooning', the hired removal of teenagers to treatment programmes. The readers were looking for the meme. What set it off that weekend is not documented; the meme databases date the spread to late 2022."
+    source: "Know Your Meme"
+    url: "https://knowyourmeme.com/sensitive/memes/gooning-goon-cave"
+  - month: 2024-06
+    note: "From June 2024 the title is a disambiguation page, from 25 August 2026 an article on the practice itself: the curve counts three different pages under one name. The 40,000 lookups in the first half of September 2026 fall outside the drawn months."
 semantic_landscape: |
   **Gooner** sits at the edge of **Subcultural Vocabulary and Platform Language**, where a clinical state acquires a word and the word becomes an identity. The graph shows the compulsion from three sides — **Dopamine Feedback Loops** as its mechanism, **Brain Rot** as its effect, **Attention Economy** as the industry that keeps asking for it — with **Looksmaxxing** upstream: the same compulsive loop aimed at one's own body, which can end up here once optimising stops paying out.
 

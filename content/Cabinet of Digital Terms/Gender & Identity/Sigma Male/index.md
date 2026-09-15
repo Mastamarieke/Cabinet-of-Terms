@@ -10,6 +10,15 @@ version: V2
 analysis_version: pending
 entry_image: sigma-male.jpg
 entry_image_caption: "By the Narrative Typographer Anne-Marie Bruinsma"
+attention_moments:
+  - month: 2022-06
+    note: "The search peak (Google Trends 2022–2023) is the TikTok wave of 'sigma grindset' edits, Patrick Bateman and all; none of the five Wikipedias counted here had an article then. The meme lived and peaked before the record."
+  - month: 2025-02
+    note: "The German article (Sigma-Mann) was created on 7 February 2025, when the Russian TikTok hit 'Sigma Boy' (October 2024) made the word news in Germany: a third of the April readers came from the song's page. Wikipedia arrived four years after the wave, and the English article is left out here because it is about alpha and beta males."
+    source: "Sigma Boy (Wikipedia)"
+    url: "https://en.wikipedia.org/wiki/Sigma_Boy"
+  - month: 2025-04
+    note: "13 April: 1,250 lookups on one Sunday, four times a normal day, and the page of 'Sigma Boy' spiked with it; not identified."
 semantic_landscape: |
   In the **semantic landscape** of **online masculinity discourse**, the **Sigma Male** occupies a **structurally paradoxical position** within the **Gender & Identity** cluster — the cluster that maps how digital culture produces, maintains, and monetises gender roles. The term clusters tightly around the very **dominance hierarchy** it claims to leave behind — the ladder of alpha and beta men ranked by status, attractiveness, and social power. The sigma is not a departure from this ladder. **It is an additional rung.**
 

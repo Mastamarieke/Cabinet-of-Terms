@@ -183,6 +183,16 @@ export default (() => {
         }
         return { n: n + 1, i, month: m.month, note: m.note, x: x(i), y: Math.max(TOP + 8, top - 12), sourceText, sourceHref }
       })
+    // two marks in neighbouring months at the same height would cover each other: the later
+    // one moves up a step (Looksmaxxing, March and April 2026)
+    for (let k = 1; k < moments.length; k++) {
+      const a = moments[k - 1]
+      const b = moments[k]
+      if (Math.abs(b.x - a.x) < 18 && Math.abs(b.y - a.y) < 18) {
+        if (Math.min(a.y, b.y) - 18 >= TOP + 8) b.y = Math.min(a.y, b.y) - 18
+        else a.y = Math.max(a.y, b.y) + 18 // both at the ceiling: the earlier one hangs below
+      }
+    }
 
     // what the reader's pointer reads out, month by month: the real figures of every series
     const readout = {

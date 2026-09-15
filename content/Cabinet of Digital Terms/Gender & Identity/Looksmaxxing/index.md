@@ -10,6 +10,22 @@ version: V3
 analysis_version: pending
 entry_image: looksmaxxing.png
 entry_image_caption: "By the Narrative Typographer Anne-Marie Bruinsma"
+attention_moments:
+  - month: 2024-02
+    note: "The English Wikipedia article was created on 11 February 2024, with the edit summary \"can't believe i'm making this\"; the word had been on TikTok since 2022 and in the incel forums for a decade before the encyclopaedia caught up."
+    source: "Wikipedia, page history"
+    url: "https://en.wikipedia.org/w/index.php?title=Looksmaxxing&dir=prev&action=history"
+  - month: 2026-02
+    note: "Joseph Bernstein's profile of Braden Peters (Clavicular) in the New York Times, 13 February: no spike, but the ordinary day quadruples between December and February (1,000 to 4,400 lookups). A profile does not make a peak; it raises the floor."
+    source: "The New York Times, 13 February 2026"
+  - month: 2026-03
+    note: "26 March: Clavicular fires a gun at an alligator on a livestream; 27 March: arrested in Fort Lauderdale. 11,000 to 13,000 lookups a day that weekend, twice the February floor."
+    source: "ABC News, March 2026"
+    url: "https://abcnews.com/US/looksmaxxing-influencer-clavicular-charged-after-allegedly-shooting-alligator/story?id=132715465"
+  - month: 2026-04
+    note: "14 April: Clavicular is taken to hospital after a suspected overdose on a livestream in Miami. 29,000 lookups on 15 April, the word's largest day, and 41,000 readers that month arrived from his own Wikipedia page. The Dutch article was created on 17 April. The term now rises and falls with one person."
+    source: "Rolling Stone, 15 April 2026"
+    url: "https://www.rollingstone.com/culture/culture-news/looksmaxxing-streamer-clavicular-suspected-overdose-1235547484/"
 semantic_landscape: |
   **Looksmaxxing** sits at the conversion point of the **Gender & Identity** cluster: where ideology becomes practice, and practice becomes pathology. As a mechanism, it translates the abstract logic of **SMV (Sexual Market Value)** — attractiveness as market position — into bodies, routines, and procedures. The same rating logic applies to both men and women; what differs is where the graph leads from here.
 

@@ -5,6 +5,17 @@ analytical_layer: consequence
 status: publieksversie
 version: V2
 analysis_version: pending
+attention_moments:
+  - month: 2021-09
+    note: "7 September: John Mulaney announces on Seth Meyers that he and Olivia Munn are expecting, and Twitter's word for the fans' reaction is 'parasocial' (Gawker: 'Twitter has a parasocial relationship with the word parasocial'). 45,000 lookups in the month, the article's highest; searched, not linked."
+    source: "Phys.org, September 2021"
+    url: "https://phys.org/news/2021-09-twitter-parasocial-relationships-unhealthy.html"
+  - month: 2021-11
+    note: "3 November: 8,100 lookups on one day, and 6,200 readers that month came through an external link rather than search, unlike the September wave; not identified."
+  - month: 2025-11
+    note: "18 November: Cambridge Dictionary names 'parasocial' word of the year. A modest rise (2,270 lookups against 860 on a normal day), a fraction of 2021: by then the word was common knowledge, and the curve has been falling since."
+    source: "SheKnows, November 2025"
+    url: "https://www.sheknows.com/entertainment/articles/1234945571/parasocial-cambridge-dictionary-word-of-the-year/"
 semantic_landscape: |
   **Parasocial Relationship** sits in **Behaviour & Relationships** as a consequence that behaves like a cause: most terms around it describe what the bond makes possible rather than what makes the bond. The revealing direction is inward — **Catfishing**, **Kidfluencer**, **Family Vlogging** and **Podcast-bro** each argue this term from their own side, as deception, as a child's audience, as a business, as a persona — while the entry itself points outward to the machinery: **Recommender Systems**, **Dopamine Feedback Loops**, **Creator Economy**.
 

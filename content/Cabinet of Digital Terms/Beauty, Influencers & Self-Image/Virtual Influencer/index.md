@@ -8,6 +8,9 @@ analytical_layer: mechanism
 status: publieksversie
 version: V1
 analysis_version: pending
+attention_moments:
+  - month: 2026-07
+    note: "No single moment. The highest month, July 2026, is 3,566 lookups, about thirty a day, and Aitana López (November 2023), the first virtual influencer to make the news pages, moved the count by nothing. Attention to virtual influencers grows slowly, in research and in search, not in lookups: the term that the academy took up before the public did."
 semantic_landscape: |
   **Virtual Influencer** occupies a position at the outer limit of the **Beauty, Influencers & Self-Image** cluster — the point at which the influencer form completes itself. Every mechanism the graph already maps — **Highlight Reel**, **Curated Life**, **Comparison Culture** — operates through human influencers who must still edit, select, and maintain the gap between their real and performed selves. The virtual influencer eliminates that gap. There is no self underneath the curation. The highlight reel is not a selection; it is the entire ontology.
 
