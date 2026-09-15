@@ -17,11 +17,15 @@ attention_moments:
     url: "https://www.npr.org/2024/04/26/1197956331/tiktok-ban-tradwife"
   - month: 2024-05
     note: "The day after Emily Wilson's Instagram video (30 April) calling young tradwives \"cringe\", picked up by Newsweek: 14,000 lookups on 1 May."
+    source: "Newsweek, May 2024"
+    url: "https://www.newsweek.com/republican-influencer-calls-out-tradwive-lifestyle-2070036"
   - month: 2024-07
     note: "Megan Agnew's profile of Hannah Neeleman (Ballerina Farm) in the Sunday Times Magazine, 27 July: a spike in Google searches, a modest rise on Wikipedia. The word had left the subculture three months earlier."
     source: "[[Secondary-Tradwife|Agnew (2024)]]"
   - month: 2024-10
     note: "Saturday Night Live's tradwife sketch, 19 October: no trace on Wikipedia. By then the word needed no looking up."
+    source: "Today, October 2024"
+    url: "https://www.today.com/popculture/tv/snl-doomscrolling-tiktok-skit-rcna176292"
   - month: 2024-12
     note: "Dutch Wikipedia: 2,600 lookups on Saturday evening 28 December, a hundred times a normal day. Probably the Flemish news piece of that evening (18:10) on Pornhub's Year in Review 2024, \"'Tradwife porno' is dé populaire nieuwkomer op Pornhub\": a headline that made readers look the word up. The same review had given a small rise on 15–17 December. Flanders and the Netherlands read the same Wikipedia. Not proven: the readers came via search, not via a link."
     source: "dekrantenkoppen.be, 28 December 2024"

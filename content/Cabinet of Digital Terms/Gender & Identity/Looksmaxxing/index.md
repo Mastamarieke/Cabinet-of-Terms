@@ -17,9 +17,10 @@ attention_moments:
     url: "https://en.wikipedia.org/w/index.php?title=Looksmaxxing&dir=prev&action=history"
   - month: 2026-02
     note: "Joseph Bernstein's profile of Braden Peters (Clavicular) in the New York Times, 13 February: no spike, but the ordinary day quadruples between December and February (1,000 to 4,400 lookups). A profile does not make a peak; it raises the floor."
-    source: "The New York Times, 13 February 2026"
+    source: "The Daily (New York Times), 22 March 2026"
+    url: "https://podcasts.apple.com/us/podcast/injections-bone-hammering-and-the-pursuit-of/id1200361736?i=1000756570955"
   - month: 2026-03
-    note: "26 March: Clavicular fires a gun at an alligator on a livestream; 27 March: arrested in Fort Lauderdale. 11,000 to 13,000 lookups a day that weekend, twice the February floor."
+    note: "20–23 March: 8,000 to 9,700 lookups a day, with The Daily's episode on Clavicular on the 22nd; 26 March: he fires a gun at an alligator on a livestream; 27 March: arrested in Fort Lauderdale. 11,000 to 13,000 a day that weekend, twice the February floor."
     source: "ABC News, March 2026"
     url: "https://abcnews.com/US/looksmaxxing-influencer-clavicular-charged-after-allegedly-shooting-alligator/story?id=132715465"
   - month: 2026-04
