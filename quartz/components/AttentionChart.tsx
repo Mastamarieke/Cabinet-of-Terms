@@ -52,7 +52,7 @@ const longDate = (iso: string) => {
 // The moments: curated in the entry's frontmatter (attention_moments: month, note, source),
 // not in the data file the script overwrites. A numbered mark on the month, the same
 // number in a list under the legend; the reader who cannot hover still has the list.
-type Moment = { month: string; note: string; source?: string }
+type Moment = { month: string; note: string; source?: string; url?: string }
 const WIKI = /\[\[([^\]|]+)(?:\|([^\]]+))?\]\]/
 
 // "2024-04" as the file writes it, "Apr 2024" in the legend
@@ -179,6 +179,7 @@ export default (() => {
           if (hit?.slug) sourceHref = resolveRelative(fileData.slug!, hit.slug as FullSlug)
         } else if (m.source) {
           sourceText = m.source
+          if (typeof m.url === "string" && /^https?:\/\//.test(m.url)) sourceHref = m.url
         }
         return { n: n + 1, i, month: m.month, note: m.note, x: x(i), y: Math.max(TOP + 8, top - 12), sourceText, sourceHref }
       })
@@ -293,7 +294,7 @@ export default (() => {
                     <>
                       {" "}
                       {m.sourceHref ? (
-                        <a href={m.sourceHref} class="internal">
+                        <a href={m.sourceHref} class={/^https?:/.test(m.sourceHref) ? "external" : "internal"} target={/^https?:/.test(m.sourceHref) ? "_blank" : undefined} rel={/^https?:/.test(m.sourceHref) ? "noopener" : undefined}>
                           {m.sourceText}
                         </a>
                       ) : (

@@ -12,7 +12,9 @@ entry_image: tradwife.jpg
 entry_image_caption: "By Narrative Typographer Marieke de Vogel"
 attention_moments:
   - month: 2024-04
-    note: "Unknown viral moment: 34,000 lookups on Saturday 27 April, three quarters of them via Google search; not Ballerina Farm, not Nara Smith, and no link from Wikipedia itself. The term's largest day has no name."
+    note: "Probably NPR's It's Been a Minute, \"What is a 'tradwife,' and why are they so popular?\" (Brittany Luse with Zoe Hu), released Friday 26 April: the title is the question its listeners asked Google the next day. 34,000 lookups on Saturday 27 April, three quarters of them via search, on phones; not Ballerina Farm, not Nara Smith, no link from Wikipedia itself. Not proven: a spoken word leaves no referrer."
+    source: "NPR, 26 April 2024"
+    url: "https://www.npr.org/2024/04/26/1197956331/tiktok-ban-tradwife"
   - month: 2024-05
     note: "The day after Emily Wilson's Instagram video (30 April) calling young tradwives \"cringe\", picked up by Newsweek: 14,000 lookups on 1 May."
   - month: 2024-07
