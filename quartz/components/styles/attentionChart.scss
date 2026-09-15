@@ -1,0 +1,78 @@
+// the third block in the graph card, after the semantic landscape; the frame comes from
+// .graph-story in graphStory.scss, this is only what is inside. Type is the graphs' face.
+.graph-story.attention {
+  .attention-body {
+    padding: 0.8em 1em 0.6em;
+  }
+
+  .attention-svg {
+    display: block;
+    width: 100%;
+    height: auto;
+    font-family: "Barlow Condensed", var(--headerFont), sans-serif;
+  }
+
+  .attention-base,
+  .attention-grid {
+    stroke: var(--lightgray);
+    stroke-width: 1;
+  }
+
+  // translucent, and multiplied where they overlap: the years the sources agree show darker
+  .attention-area {
+    opacity: 0.28;
+    mix-blend-mode: multiply;
+  }
+
+  .attention-tick {
+    font-size: 11px;
+    fill: var(--gray);
+  }
+
+  .attention-legend {
+    list-style: none;
+    margin: 0.35em 0 0;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.3em 1.4em;
+    font-family: "Barlow Condensed", var(--headerFont), sans-serif;
+    font-size: 0.95em;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    color: var(--darkgray);
+
+    li {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.45em;
+    }
+    i {
+      display: inline-block;
+      width: 12px;
+      height: 3px;
+      border-radius: 2px;
+    }
+  }
+
+  // the peak figure sits in the legend, not on the drawing, where three peaks would collide
+  .attention-peak {
+    margin-left: 0.35em;
+    color: var(--gray);
+    text-transform: none;
+    letter-spacing: 0.02em;
+  }
+
+  .attention-year {
+    font-size: 12px;
+    letter-spacing: 0.04em;
+    fill: var(--gray);
+  }
+
+  .attention-note {
+    margin: 0.5em 0 0;
+    font-size: 0.8em;
+    line-height: 1.5;
+    color: var(--gray);
+  }
+}

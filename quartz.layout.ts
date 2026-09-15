@@ -30,6 +30,7 @@ export const defaultContentPageLayout: PageLayout = {
       condition: (page) => page.fileData.slug !== "index",
     }),
     Component.GraphStory(),
+    Component.AttentionChart(),
     Component.VaultMap(),
   ],
   left: [
@@ -69,6 +70,7 @@ export const defaultListPageLayout: PageLayout = {
       condition: (page) => !isWholeVaultPage(page.fileData.slug ?? ""),
     }),
     Component.GraphStory(),
+    Component.AttentionChart(),
     Component.VaultMap({ showPanel: true }),
   ],
   left: [

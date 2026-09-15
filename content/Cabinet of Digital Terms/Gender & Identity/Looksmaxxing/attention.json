@@ -1,0 +1,120 @@
+{
+ "term": "Looksmaxxing",
+ "retrieved": "2026-09-15",
+ "years": [
+  2019,
+  2020,
+  2021,
+  2022,
+  2023,
+  2024,
+  2025,
+  2026
+ ],
+ "enough": true,
+ "checked": [
+  "English: \"Looksmaxxing\"",
+  "Dutch: \"Looksmaxxing\"",
+  "German: \"Looksmaxxing\"",
+  "French: \"Looksmaxxing\"",
+  "Spanish: \"Looksmaxxing\"",
+  "OpenAlex: 50 works since 2019"
+ ],
+ "note": "Attention to the term, not use of it. Each series is indexed to its own peak (= 100); the current year is partial.",
+ "series": [
+  {
+   "label": "English Wikipedia, page views",
+   "source": "Wikimedia REST API, en.wikipedia article \"Looksmaxxing\", monthly user views",
+   "values": {
+    "2019": 0,
+    "2020": 0,
+    "2021": 0,
+    "2022": 0,
+    "2023": 0,
+    "2024": 434726,
+    "2025": 310508,
+    "2026": 913832
+   }
+  },
+  {
+   "label": "French Wikipedia, page views",
+   "source": "Wikimedia REST API, fr.wikipedia article \"Looksmaxxing\", monthly user views",
+   "values": {
+    "2019": 0,
+    "2020": 0,
+    "2021": 0,
+    "2022": 0,
+    "2023": 0,
+    "2024": 448,
+    "2025": 2526,
+    "2026": 39672
+   }
+  },
+  {
+   "label": "German Wikipedia, page views",
+   "source": "Wikimedia REST API, de.wikipedia article \"Looksmaxxing\", monthly user views",
+   "values": {
+    "2019": 0,
+    "2020": 0,
+    "2021": 0,
+    "2022": 0,
+    "2023": 0,
+    "2024": 0,
+    "2025": 0,
+    "2026": 26854
+   }
+  },
+  {
+   "label": "Spanish Wikipedia, page views",
+   "source": "Wikimedia REST API, es.wikipedia article \"Looksmaxxing\", monthly user views",
+   "values": {
+    "2019": 0,
+    "2020": 0,
+    "2021": 0,
+    "2022": 0,
+    "2023": 0,
+    "2024": 0,
+    "2025": 1552,
+    "2026": 6636
+   }
+  },
+  {
+   "label": "Dutch Wikipedia, page views",
+   "source": "Wikimedia REST API, nl.wikipedia article \"Looksmaxxing\", monthly user views",
+   "values": {
+    "2019": 0,
+    "2020": 0,
+    "2021": 0,
+    "2022": 0,
+    "2023": 0,
+    "2024": 0,
+    "2025": 0,
+    "2026": 3210
+   }
+  },
+  {
+   "label": "Research: works per million (OpenAlex)",
+   "source": "OpenAlex, works with \"looksmaxxing\" in title or abstract (50 since 2019), per million works published that year",
+   "values": {
+    "2019": 0.0,
+    "2020": 0.0,
+    "2021": 0.0,
+    "2022": 0.09746906940918637,
+    "2023": 0.0,
+    "2024": 0.09218963851152084,
+    "2025": 0.5460360987195044,
+    "2026": 1.2949407571078326
+   },
+   "raw": {
+    "2019": 0,
+    "2020": 0,
+    "2021": 0,
+    "2022": 1,
+    "2023": 0,
+    "2024": 1,
+    "2025": 8,
+    "2026": 40
+   }
+  }
+ ]
+}

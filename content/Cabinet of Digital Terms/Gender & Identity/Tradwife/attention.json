@@ -1,0 +1,120 @@
+{
+ "term": "Tradwife",
+ "retrieved": "2026-09-15",
+ "years": [
+  2019,
+  2020,
+  2021,
+  2022,
+  2023,
+  2024,
+  2025,
+  2026
+ ],
+ "enough": true,
+ "checked": [
+  "English: \"Tradwife\"",
+  "Dutch: \"Tradwife\"",
+  "German: \"Tradwife\"",
+  "French: \"Tradwife\"",
+  "Spanish: \"Tradwife\"",
+  "OpenAlex: 178 works since 2019"
+ ],
+ "note": "Attention to the term, not use of it. Each series is indexed to its own peak (= 100); the current year is partial.",
+ "series": [
+  {
+   "label": "English Wikipedia, page views",
+   "source": "Wikimedia REST API, en.wikipedia article \"Tradwife\", monthly user views",
+   "values": {
+    "2019": 0,
+    "2020": 79698,
+    "2021": 70912,
+    "2022": 96570,
+    "2023": 232279,
+    "2024": 810829,
+    "2025": 301355,
+    "2026": 173428
+   }
+  },
+  {
+   "label": "German Wikipedia, page views",
+   "source": "Wikimedia REST API, de.wikipedia article \"Tradwife\", monthly user views",
+   "values": {
+    "2019": 0,
+    "2020": 0,
+    "2021": 0,
+    "2022": 0,
+    "2023": 0,
+    "2024": 108369,
+    "2025": 127353,
+    "2026": 46851
+   }
+  },
+  {
+   "label": "French Wikipedia, page views",
+   "source": "Wikimedia REST API, fr.wikipedia article \"Tradwife\", monthly user views",
+   "values": {
+    "2019": 0,
+    "2020": 1337,
+    "2021": 2759,
+    "2022": 2520,
+    "2023": 14931,
+    "2024": 62457,
+    "2025": 41128,
+    "2026": 18856
+   }
+  },
+  {
+   "label": "Dutch Wikipedia, page views",
+   "source": "Wikimedia REST API, nl.wikipedia article \"Tradwife\", monthly user views",
+   "values": {
+    "2019": 0,
+    "2020": 0,
+    "2021": 0,
+    "2022": 0,
+    "2023": 0,
+    "2024": 13760,
+    "2025": 15987,
+    "2026": 5635
+   }
+  },
+  {
+   "label": "Spanish Wikipedia, page views",
+   "source": "Wikimedia REST API, es.wikipedia article \"Tradwife\", monthly user views",
+   "values": {
+    "2019": 0,
+    "2020": 0,
+    "2021": 0,
+    "2022": 0,
+    "2023": 0,
+    "2024": 0,
+    "2025": 10817,
+    "2026": 12122
+   }
+  },
+  {
+   "label": "Research: works per million (OpenAlex)",
+   "source": "OpenAlex, works with \"tradwife\" in title or abstract (178 since 2019), per million works published that year",
+   "values": {
+    "2019": 0.09265428490395781,
+    "2020": 0.0,
+    "2021": 0.0,
+    "2022": 0.0,
+    "2023": 0.4588170411990174,
+    "2024": 1.6594134932073754,
+    "2025": 3.753998178696593,
+    "2026": 3.204978373841886
+   },
+   "raw": {
+    "2019": 1,
+    "2020": 0,
+    "2021": 0,
+    "2022": 0,
+    "2023": 5,
+    "2024": 18,
+    "2025": 55,
+    "2026": 99
+   }
+  }
+ ]
+}

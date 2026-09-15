@@ -1,0 +1,64 @@
+{
+ "term": "Sigma Male",
+ "retrieved": "2026-09-15",
+ "years": [
+  2019,
+  2020,
+  2021,
+  2022,
+  2023,
+  2024,
+  2025,
+  2026
+ ],
+ "enough": true,
+ "checked": [
+  "English: left out by the curator",
+  "Dutch: no article",
+  "German: \"Sigma-Mann\"",
+  "French: no article",
+  "Spanish: no article",
+  "OpenAlex: 15 works since 2019"
+ ],
+ "note": "Attention to the term, not use of it. Each series is indexed to its own peak (= 100); the current year is partial.",
+ "series": [
+  {
+   "label": "German Wikipedia, page views",
+   "source": "Wikimedia REST API, de.wikipedia article \"Sigma-Mann\", reached via a redirect, monthly user views",
+   "values": {
+    "2019": 0,
+    "2020": 0,
+    "2021": 0,
+    "2022": 0,
+    "2023": 0,
+    "2024": 0,
+    "2025": 63806,
+    "2026": 17810
+   }
+  },
+  {
+   "label": "Research: works per million (OpenAlex)",
+   "source": "OpenAlex, works with \"sigma male\" in title or abstract (15 since 2019), per million works published that year",
+   "values": {
+    "2019": 0.0,
+    "2020": 0.0,
+    "2021": 0.09291005247745585,
+    "2022": 0.0,
+    "2023": 0.36705363295921395,
+    "2024": 0.09218963851152084,
+    "2025": 0.2730180493597522,
+    "2026": 0.16186759463847908
+   },
+   "raw": {
+    "2019": 0,
+    "2020": 0,
+    "2021": 1,
+    "2022": 0,
+    "2023": 4,
+    "2024": 1,
+    "2025": 4,
+    "2026": 5
+   }
+  }
+ ]
+}

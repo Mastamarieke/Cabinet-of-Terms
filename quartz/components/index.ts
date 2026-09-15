@@ -15,6 +15,7 @@ import TagList from "./TagList"
 import Graph from "./Graph"
 import GraphStory from "./GraphStory"
 import VaultMap from "./VaultMap"
+import AttentionChart from "./AttentionChart"
 import EntryImage from "./EntryImage"
 import Backlinks from "./Backlinks"
 import Search from "./Search"
@@ -44,6 +45,7 @@ export {
   Graph,
   GraphStory,
   VaultMap,
+  AttentionChart,
   EntryImage,
   Backlinks,
   Search,

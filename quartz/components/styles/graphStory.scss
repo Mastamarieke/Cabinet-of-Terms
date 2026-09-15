@@ -79,3 +79,16 @@
   border-top-left-radius: 0;
   border-top-right-radius: 0;
 }
+
+// a second block in the same card (the attention chart after the landscape): joined too
+.graph-story:has(+ .graph-story) {
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom: none;
+  margin-bottom: 0;
+}
+.graph-story + .graph-story {
+  margin-top: 0;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}

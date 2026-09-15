@@ -1,0 +1,64 @@
+{
+ "term": "Parasocial Relationship",
+ "retrieved": "2026-09-15",
+ "years": [
+  2019,
+  2020,
+  2021,
+  2022,
+  2023,
+  2024,
+  2025,
+  2026
+ ],
+ "enough": true,
+ "checked": [
+  "English: \"Parasocial interaction\"",
+  "Dutch: no article",
+  "German: no article",
+  "French: no article",
+  "Spanish: no article",
+  "OpenAlex: 2018 works since 2019"
+ ],
+ "note": "Attention to the term, not use of it. Each series is indexed to its own peak (= 100); the current year is partial.",
+ "series": [
+  {
+   "label": "English Wikipedia, page views",
+   "source": "Wikimedia REST API, en.wikipedia article \"Parasocial interaction\", reached via a redirect, monthly user views",
+   "values": {
+    "2019": 129551,
+    "2020": 165729,
+    "2021": 369182,
+    "2022": 372881,
+    "2023": 317351,
+    "2024": 287584,
+    "2025": 242166,
+    "2026": 165812
+   }
+  },
+  {
+   "label": "Research: works per million (OpenAlex)",
+   "source": "OpenAlex, works with \"parasocial relationship\" in title or abstract (2018 since 2019), per million works published that year",
+   "values": {
+    "2019": 6.022528518757257,
+    "2020": 8.70596685203121,
+    "2021": 9.941375615087775,
+    "2022": 13.353262509058531,
+    "2023": 17.435047565562662,
+    "2024": 26.550615891318007,
+    "2025": 33.03518397253002,
+    "2026": 20.945666746219192
+   },
+   "raw": {
+    "2019": 65,
+    "2020": 100,
+    "2021": 107,
+    "2022": 137,
+    "2023": 190,
+    "2024": 288,
+    "2025": 484,
+    "2026": 647
+   }
+  }
+ ]
+}
