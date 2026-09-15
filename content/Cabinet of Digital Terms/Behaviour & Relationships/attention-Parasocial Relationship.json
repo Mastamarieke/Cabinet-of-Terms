@@ -13,18 +13,26 @@
  ],
  "enough": true,
  "checked": [
-  "English: \"Parasocial interaction\"",
-  "Dutch: no article",
-  "German: no article",
-  "French: no article",
-  "Spanish: no article",
-  "OpenAlex: 2018 works since 2019"
+  "Wikipedia: no article in Dutch, German, French, Spanish",
+  "YouTube: not counted"
  ],
- "note": "Attention to the term, not use of it. Each series is indexed to its own peak (= 100); the current year is partial.",
+ "curator": [
+  "OpenAlex: 655 peer-reviewed articles since 2019",
+  "YouTube: no API key on this machine",
+  "Google Trends: fetched"
+ ],
+ "wikipedia": {
+  "en": "\"Parasocial interaction\" (via a redirect)",
+  "nl": "no article",
+  "de": "no article",
+  "fr": "no article",
+  "es": "no article"
+ },
+ "note": "Attention to the term, not use of it. The sources cannot be compared in size, only in shape and timing: each is indexed to its own peak (= 100); the current year is partial.",
  "series": [
   {
    "label": "English Wikipedia, page views",
-   "source": "Wikimedia REST API, en.wikipedia article \"Parasocial interaction\", reached via a redirect, monthly user views",
+   "source": "Wikimedia REST API: English \"Parasocial interaction\" (via a redirect), monthly views by readers",
    "values": {
     "2019": 129551,
     "2020": 165729,
@@ -37,28 +45,43 @@
    }
   },
   {
-   "label": "Research: works per million (OpenAlex)",
-   "source": "OpenAlex, works with \"parasocial relationship\" in title or abstract (2018 since 2019), per million works published that year",
+   "label": "Research: articles per million (OpenAlex)",
+   "source": "OpenAlex, a database of scholarly publications: 655 peer-reviewed articles in recognised journals (the Leiden core list) since 2019 with \"parasocial relationship\" in the title or abstract, as a share of all such articles that year (per million)",
    "values": {
-    "2019": 6.022528518757257,
-    "2020": 8.70596685203121,
-    "2021": 9.941375615087775,
-    "2022": 13.353262509058531,
-    "2023": 17.435047565562662,
-    "2024": 26.550615891318007,
-    "2025": 33.03518397253002,
-    "2026": 20.945666746219192
+    "2019": 10.389190196018045,
+    "2020": 15.203524514838639,
+    "2021": 12.991733035476202,
+    "2022": 25.124414796909893,
+    "2023": 27.903764184960593,
+    "2024": 32.12532831931094,
+    "2025": 37.94154472675764,
+    "2026": 56.03176066967293
    },
    "raw": {
-    "2019": 65,
-    "2020": 100,
-    "2021": 107,
-    "2022": 137,
-    "2023": 190,
-    "2024": 288,
-    "2025": 484,
-    "2026": 647
+    "2019": 28,
+    "2020": 45,
+    "2021": 40,
+    "2022": 77,
+    "2023": 85,
+    "2024": 104,
+    "2025": 132,
+    "2026": 144
+   }
+  },
+  {
+   "label": "Google Trends, search interest",
+   "source": "Google Trends, worldwide, \"Parasocial Relationship\", monthly interest 0\u2013100 averaged per year, fetched with the same requests the Trends site makes (unofficial)",
+   "values": {
+    "2019": 3.0,
+    "2020": 5.666666666666667,
+    "2021": 12.5,
+    "2022": 17.666666666666668,
+    "2023": 22.75,
+    "2024": 25.583333333333332,
+    "2025": 36.833333333333336,
+    "2026": 71.77777777777777
    }
   }
- ]
+ ],
+ "pins": {}
 }

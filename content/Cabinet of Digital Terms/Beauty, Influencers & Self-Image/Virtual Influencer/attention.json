@@ -13,18 +13,26 @@
  ],
  "enough": true,
  "checked": [
-  "English: \"Virtual influencer\"",
-  "Dutch: no article",
-  "German: no article",
-  "French: no article",
-  "Spanish: no article",
-  "OpenAlex: 1522 works since 2019"
+  "Wikipedia: no article in Dutch, German, French, Spanish",
+  "YouTube: not counted"
  ],
- "note": "Attention to the term, not use of it. Each series is indexed to its own peak (= 100); the current year is partial.",
+ "curator": [
+  "OpenAlex: 507 peer-reviewed articles since 2019",
+  "YouTube: no API key on this machine",
+  "Google Trends: fetched"
+ ],
+ "wikipedia": {
+  "en": "\"Virtual influencer\"",
+  "nl": "no article",
+  "de": "no article",
+  "fr": "no article",
+  "es": "no article"
+ },
+ "note": "Attention to the term, not use of it. The sources cannot be compared in size, only in shape and timing: each is indexed to its own peak (= 100); the current year is partial.",
  "series": [
   {
    "label": "English Wikipedia, page views",
-   "source": "Wikimedia REST API, en.wikipedia article \"Virtual influencer\", monthly user views",
+   "source": "Wikimedia REST API: the article \"Virtual influencer\" on the English Wikipedia, monthly views by readers",
    "values": {
     "2019": 0,
     "2020": 0,
@@ -37,28 +45,43 @@
    }
   },
   {
-   "label": "Research: works per million (OpenAlex)",
-   "source": "OpenAlex, works with \"virtual influencer\" in title or abstract (1522 since 2019), per million works published that year",
+   "label": "Research: articles per million (OpenAlex)",
+   "source": "OpenAlex, a database of scholarly publications: 507 peer-reviewed articles in recognised journals (the Leiden core list) since 2019 with \"virtual influencer\" in the title or abstract, as a share of all such articles that year (per million)",
    "values": {
-    "2019": 0.6485799943277046,
-    "2020": 1.8282530389265543,
-    "2021": 2.6014814693687636,
-    "2022": 6.72536578923386,
-    "2023": 14.957435543087968,
-    "2024": 24.245874928529982,
-    "2025": 32.14787531211082,
-    "2026": 16.18675946384791
+    "2019": 0.0,
+    "2020": 1.3514244013189902,
+    "2021": 2.273553281208335,
+    "2022": 5.546948721395691,
+    "2023": 20.6816134547355,
+    "2024": 31.507533543939573,
+    "2025": 45.4148792941493,
+    "2026": 60.70107405881234
    },
    "raw": {
-    "2019": 7,
-    "2020": 21,
-    "2021": 28,
-    "2022": 69,
-    "2023": 163,
-    "2024": 263,
-    "2025": 471,
-    "2026": 500
+    "2019": 0,
+    "2020": 4,
+    "2021": 7,
+    "2022": 17,
+    "2023": 63,
+    "2024": 102,
+    "2025": 158,
+    "2026": 156
+   }
+  },
+  {
+   "label": "Google Trends, search interest",
+   "source": "Google Trends, worldwide, \"Virtual Influencer\", monthly interest 0\u2013100 averaged per year, fetched with the same requests the Trends site makes (unofficial)",
+   "values": {
+    "2019": 2.4166666666666665,
+    "2020": 3.5833333333333335,
+    "2021": 4.583333333333333,
+    "2022": 9.5,
+    "2023": 8.833333333333334,
+    "2024": 10.083333333333334,
+    "2025": 36.916666666666664,
+    "2026": 73.88888888888889
    }
   }
- ]
+ ],
+ "pins": {}
 }

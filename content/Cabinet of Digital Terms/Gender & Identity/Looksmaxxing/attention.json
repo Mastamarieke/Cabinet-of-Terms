@@ -13,74 +13,39 @@
  ],
  "enough": true,
  "checked": [
-  "English: \"Looksmaxxing\"",
-  "Dutch: \"Looksmaxxing\"",
-  "German: \"Looksmaxxing\"",
-  "French: \"Looksmaxxing\"",
-  "Spanish: \"Looksmaxxing\"",
-  "OpenAlex: 50 works since 2019"
+  "YouTube: not counted"
  ],
- "note": "Attention to the term, not use of it. Each series is indexed to its own peak (= 100); the current year is partial.",
+ "curator": [
+  "OpenAlex: 15 peer-reviewed articles since 2019",
+  "YouTube: no API key on this machine",
+  "Google Trends: fetched"
+ ],
+ "wikipedia": {
+  "en": "\"Looksmaxxing\"",
+  "nl": "\"Looksmaxxing\"",
+  "de": "\"Looksmaxxing\"",
+  "fr": "\"Looksmaxxing\"",
+  "es": "\"Looksmaxxing\""
+ },
+ "note": "Attention to the term, not use of it. The sources cannot be compared in size, only in shape and timing: each is indexed to its own peak (= 100); the current year is partial.",
  "series": [
   {
-   "label": "English Wikipedia, page views",
-   "source": "Wikimedia REST API, en.wikipedia article \"Looksmaxxing\", monthly user views",
+   "label": "Wikipedia, page views (5 languages)",
+   "source": "Wikimedia REST API: the article \"Looksmaxxing\" on the English, Dutch, German, French and Spanish Wikipedia, monthly views by readers, added up",
    "values": {
     "2019": 0,
     "2020": 0,
     "2021": 0,
     "2022": 0,
     "2023": 0,
-    "2024": 434726,
-    "2025": 310508,
-    "2026": 913832
-   }
-  },
-  {
-   "label": "French Wikipedia, page views",
-   "source": "Wikimedia REST API, fr.wikipedia article \"Looksmaxxing\", monthly user views",
-   "values": {
-    "2019": 0,
-    "2020": 0,
-    "2021": 0,
-    "2022": 0,
-    "2023": 0,
-    "2024": 448,
-    "2025": 2526,
-    "2026": 39672
-   }
-  },
-  {
-   "label": "German Wikipedia, page views",
-   "source": "Wikimedia REST API, de.wikipedia article \"Looksmaxxing\", monthly user views",
-   "values": {
-    "2019": 0,
-    "2020": 0,
-    "2021": 0,
-    "2022": 0,
-    "2023": 0,
-    "2024": 0,
-    "2025": 0,
-    "2026": 26854
-   }
-  },
-  {
-   "label": "Spanish Wikipedia, page views",
-   "source": "Wikimedia REST API, es.wikipedia article \"Looksmaxxing\", monthly user views",
-   "values": {
-    "2019": 0,
-    "2020": 0,
-    "2021": 0,
-    "2022": 0,
-    "2023": 0,
-    "2024": 0,
-    "2025": 1552,
-    "2026": 6636
+    "2024": 435174,
+    "2025": 314586,
+    "2026": 990204
    }
   },
   {
    "label": "Dutch Wikipedia, page views",
-   "source": "Wikimedia REST API, nl.wikipedia article \"Looksmaxxing\", monthly user views",
+   "source": "Wikimedia REST API, nl.wikipedia article \"Looksmaxxing\", on its own as the local line",
    "values": {
     "2019": 0,
     "2020": 0,
@@ -93,17 +58,17 @@
    }
   },
   {
-   "label": "Research: works per million (OpenAlex)",
-   "source": "OpenAlex, works with \"looksmaxxing\" in title or abstract (50 since 2019), per million works published that year",
+   "label": "Research: articles per million (OpenAlex)",
+   "source": "OpenAlex, a database of scholarly publications: 15 peer-reviewed articles in recognised journals (the Leiden core list) since 2019 with \"looksmaxxing\" in the title or abstract, as a share of all such articles that year (per million)",
    "values": {
     "2019": 0.0,
     "2020": 0.0,
     "2021": 0.0,
-    "2022": 0.09746906940918637,
+    "2022": 0.3262911012585701,
     "2023": 0.0,
-    "2024": 0.09218963851152084,
-    "2025": 0.5460360987195044,
-    "2026": 1.2949407571078326
+    "2024": 0.0,
+    "2025": 1.1497437795987164,
+    "2026": 3.891094490949509
    },
    "raw": {
     "2019": 0,
@@ -111,10 +76,25 @@
     "2021": 0,
     "2022": 1,
     "2023": 0,
-    "2024": 1,
-    "2025": 8,
-    "2026": 40
+    "2024": 0,
+    "2025": 4,
+    "2026": 10
+   }
+  },
+  {
+   "label": "Google Trends, search interest",
+   "source": "Google Trends, worldwide, \"Looksmaxxing\", monthly interest 0\u2013100 averaged per year, fetched with the same requests the Trends site makes (unofficial)",
+   "values": {
+    "2019": 0.0,
+    "2020": 0.0,
+    "2021": 0.16666666666666666,
+    "2022": 0.8333333333333334,
+    "2023": 10.5,
+    "2024": 27.333333333333332,
+    "2025": 23.583333333333332,
+    "2026": 59.22222222222222
    }
   }
- ]
+ ],
+ "pins": {}
 }

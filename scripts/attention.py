@@ -1,7 +1,12 @@
 """Attention data for one term: independent open sources, one dated JSON file.
 
     python3 scripts/attention.py "Tradwife" "content/.../Tradwife/attention.json"
-    python3 scripts/attention.py "Gooner" "…/attention-Gooner.json" en=Gooning de=-
+    python3 scripts/attention.py "Gooner" "…/attention-Gooner.json" en=Gooning openalex=-
+    python3 scripts/attention.py --refresh          # every attention*.json under content/, with its own pins
+
+The curator's pins are stored in the file, so a refresh repeats the same choices; give new
+pins on the command line to change them. Refresh twice a year (January, when the previous
+year is complete, and September) and after an entry is revised.
 
 Extra arguments pin a language to a given article (lang=Title) or leave it out (lang=-),
 for when the term's own page is about something else: "Gooner" redirects to Arsenal's
@@ -9,17 +14,26 @@ supporters, "Sigma male" to "Alpha and beta male". The curator decides; the choi
 recorded in the file and shown under the chart.
 
 The site draws the chart from this file (quartz/components/AttentionChart.tsx). Sources:
-Wikipedia page views per year in five languages (English, Dutch, German, French, Spanish),
-following a redirect when the term has none of its own (Wikimedia REST API), and research
-works per million with the term in title or abstract (OpenAlex). Attention to the term, not
-use of it; each series is indexed to its own peak when drawn; the current year is partial.
-Too little to draw (no Wikipedia article anywhere, or fewer than five research works) is
-recorded too, so the site can say why there is no curve."""
-import json, sys, subprocess, urllib.parse, datetime
+- Wikipedia page views per year, five languages added together (English, Dutch, German,
+  French, Spanish), following a redirect when the term has no page of its own; the Dutch
+  edition also on its own, as the local line (Wikimedia REST API).
+- Research: peer-reviewed articles in recognised journals (OpenAlex's core flag, the
+  Leiden Ranking list) with the term in title or abstract, as a share of all such articles
+  that year, per million. Articles only, so that theses, preprints and the datasets OpenAlex
+  started indexing by the million in 2025 neither swell the count nor shift the base; fewer
+  than ten articles in total is too few for a line (Marieke, 15-09).
+- YouTube videos per year with the term in title or description, when the environment
+  variable YOUTUBE_API_KEY is set (YouTube Data API v3, search.list; the count is Google's
+  estimate). The key stays on the curator's machine and never in the repository.
+- Google Trends: a CSV the curator exported from trends.google.com and put next to the
+  entry as trends.csv (or trends-Term.csv) comes first; otherwise the script asks Google the
+  same two requests the Trends website makes (unofficial; Google can close that door any
+  day, and then the file simply says so). Monthly interest 0–100, averaged per year.
+Attention to the term, not use of it; each series is indexed to its own peak when drawn;
+the current year is partial. Too little to draw (fewer than two sources) is recorded too,
+so the site can say why there is no curve."""
+import json, sys, subprocess, urllib.parse, datetime, os, csv, glob, time
 
-term = sys.argv[1]            # "Tradwife"
-out_path = sys.argv[2]        # where the JSON goes
-pins = dict(a.split("=", 1) for a in sys.argv[3:])   # {"en": "Gooning", "de": "-"}
 years = list(range(2019, 2027))
 today = datetime.date.today().isoformat()
 UA = "CabinetOfDigitalTerms/1.0 (karinmarieke.de.vogel@gmail.com)"
@@ -61,67 +75,235 @@ def views(lang, title):
         if y in by: by[y] += it["views"]
     return by
 
-def openalex():
+def trends_api(term):
+    """Monthly search interest 2019–2026 from the requests the Trends site itself makes.
+    Unofficial: returns None when Google refuses, and the caller records that."""
+    ua = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120 Safari/537.36"
+    jar = os.path.join(os.environ.get("TMPDIR", "/tmp"), "cabinet-trends.jar")
+    subprocess.run(["curl", "-s", "-c", jar, "-A", ua, "-o", "/dev/null", "--max-time", "30",
+                    "https://trends.google.com/trends/explore"], capture_output=True)
+    req = urllib.parse.quote(json.dumps({"comparisonItem": [{"keyword": term, "geo": "", "time": "2019-01-01 2026-12-31"}],
+                                         "category": 0, "property": ""}))
+    out = subprocess.run(["curl", "-s", "-b", jar, "-A", ua, "--max-time", "30",
+                          f"https://trends.google.com/trends/api/explore?hl=en-US&tz=-120&req={req}"],
+                         capture_output=True, text=True).stdout
+    try:
+        widget = [w for w in json.loads(out[5:])["widgets"] if w.get("id") == "TIMESERIES"][0]
+    except (ValueError, KeyError, IndexError):
+        return None
+    time.sleep(1)
+    url = ("https://trends.google.com/trends/api/widgetdata/multiline?hl=en-US&tz=-120"
+           f"&req={urllib.parse.quote(json.dumps(widget['request']))}&token={widget['token']}")
+    out = subprocess.run(["curl", "-s", "-b", jar, "-A", ua, "--max-time", "30", url], capture_output=True, text=True).stdout
+    try:
+        points = json.loads(out[5:])["default"]["timelineData"]
+    except (ValueError, KeyError):
+        return None
+    by = {y: [] for y in years}
+    for pt in points:
+        y = int(pt["formattedAxisTime"][-4:])
+        if y in by and pt.get("value"):
+            by[y].append(pt["value"][0])
+    vals = {y: (sum(v) / len(v) if v else 0) for y, v in by.items()}
+    return vals if sum(vals.values()) else None
+
+def openalex(term, pins):
     # quoted, so that a two-word term is searched as a phrase and not as two words anywhere
     phrase = pins.get("openalex", term).lower()   # openalex=gooning when the term itself is ambiguous
     q = urllib.parse.quote(f'"{phrase}"')
-    hits = get(f"https://api.openalex.org/works?filter=title_and_abstract.search:{q}&group_by=publication_year").get("group_by", [])
-    tot = get("https://api.openalex.org/works?filter=publication_year:2019-2026&group_by=publication_year").get("group_by", [])
+    core = "type:article,primary_location.source.is_core:true"
+    hits = get(f"https://api.openalex.org/works?filter=title_and_abstract.search:{q},{core}&group_by=publication_year").get("group_by", [])
+    tot = get(f"https://api.openalex.org/works?filter=publication_year:2019-2026,{core}&group_by=publication_year").get("group_by", [])
     h = {int(g["key"]): g["count"] for g in hits if g["key"].isdigit()}
     t = {int(g["key"]): g["count"] for g in tot if g["key"].isdigit()}
     return {y: h.get(y, 0) for y in years}, {y: (h.get(y, 0) / t[y] * 1_000_000 if t.get(y) else 0) for y in years}, phrase
 
-series = []
-checked = []
-for lang in LANGS:
-    pinned = pins.get(lang)
-    if pinned == "-":
-        checked.append(f"{NAMES[lang]}: left out by the curator")
-        continue
-    title = resolve(lang, pinned) if pinned else resolve(lang, term)
-    if not title:
-        checked.append(f"{NAMES[lang]}: no article")
-        continue
-    v = views(lang, title)
-    if not sum(v.values()):
-        checked.append(f"{NAMES[lang]}: article \"{title}\", no views recorded")
-        continue
-    via = "" if title.lower() == term.lower() else (f", the article chosen by the curator" if pinned else f", reached via a redirect")
-    checked.append(f"{NAMES[lang]}: \"{title}\"" + (" (chosen)" if pinned else ""))
-    series.append({
-        "label": f"{NAMES[lang]} Wikipedia, page views",
-        "source": f"Wikimedia REST API, {lang}.wikipedia article \"{title}\"{via}, monthly user views",
-        "values": v,
-    })
-series.sort(key=lambda s: -sum(s["values"].values()))
-raw, per_million, phrase = openalex()
-works = sum(raw.values())
-if pins.get("openalex") == "-":
-    works = 0
-    checked_oa = "OpenAlex: left out by the curator (the word is ambiguous in the literature)"
-else:
-    checked_oa = f"OpenAlex: {works} works since 2019"
-if works >= 5:
-    series.append({
-        "label": "Research: works per million (OpenAlex)",
-        "source": f"OpenAlex, works with \"{phrase}\" in title or abstract ({works} since 2019), per million works published that year"
-        + (" (phrase chosen by the curator)" if "openalex" in pins else ""),
-        "values": per_million,
-        "raw": raw,
-    })
+def run(term, out_path, pins):
+    series = []
+    checked = []    # what the reader sees under the chart: which article, how many articles, what is missing
+    curator = []    # why: the reasons, for the curator reading the file before the push
+    combined = {y: 0 for y in years}
+    in_sum = []
+    dutch = None
+    wikipedia = {}  # per language: the article counted, or why not
+    same, other, missing, left_out = [], [], [], []
+    for lang in LANGS:
+        pinned = pins.get(lang)
+        if pinned == "-":
+            wikipedia[lang] = "left out by the curator"
+            left_out.append(NAMES[lang])
+            continue
+        title = resolve(lang, pinned) if pinned else resolve(lang, term)
+        if not title:
+            wikipedia[lang] = "no article"
+            missing.append(NAMES[lang])
+            continue
+        v = views(lang, title)
+        if not sum(v.values()):
+            wikipedia[lang] = f"article \"{title}\", no views recorded"
+            missing.append(NAMES[lang])
+            continue
+        how = "" if title.lower() == term.lower() else (" (chosen by the curator)" if pinned else " (via a redirect)")
+        wikipedia[lang] = f"\"{title}\"{how}"
+        (same if not how else other).append((NAMES[lang], title, how))
+        in_sum.append(f"{NAMES[lang]} \"{title}\"{how}")
+        for y in years: combined[y] += v[y]
+        if lang == "nl":
+            dutch = (title, v, how)
+    # the source line says what was counted; the checked line only what was not
+    gaps = []
+    if left_out:
+        gaps.append(", ".join(left_out) + " left out by the curator")
+    if missing:
+        gaps.append("no article in " + ", ".join(missing))
+    if not in_sum:
+        gaps = ["no article in any of the five languages"]
+    if gaps:
+        checked.append("Wikipedia: " + "; ".join(gaps))
+    if in_sum:
+        names = [n for n, _, _ in same]
+        listed = (", ".join(names[:-1]) + " and " + names[-1]) if len(names) > 1 else names[0] if names else ""
+        counted = ([f"the article \"{same[0][1]}\" on the {listed} Wikipedia"] if same else []) \
+            + [f"{n} \"{t}\"{how}" for n, t, how in other]
+        series.append({
+            "label": f"Wikipedia, page views ({len(in_sum)} languages)" if len(in_sum) > 1 else f"{(same + other)[0][0]} Wikipedia, page views",
+            "source": "Wikimedia REST API: " + "; ".join(counted) + ", monthly views by readers" + (", added up" if len(in_sum) > 1 else ""),
+            "values": combined,
+        })
+    if dutch and len(in_sum) > 1:
+        title, v, how = dutch
+        series.append({
+            "label": "Dutch Wikipedia, page views",
+            "source": f"Wikimedia REST API, nl.wikipedia article \"{title}\"{how}, on its own as the local line",
+            "values": v,
+        })
+    raw, per_million, phrase = openalex(term, pins)
+    works = sum(raw.values())
+    if pins.get("openalex") == "-":
+        works = 0
+        checked_oa = "OpenAlex: left out by the curator, the word means something else in the literature"
+    elif works < 10:
+        checked_oa = f"OpenAlex: {works} peer-reviewed article{'s' if works != 1 else ''} since 2019, too few for a line"
+    else:
+        checked_oa = None   # the source line under the chart already says what was counted
+        curator.append(f"OpenAlex: {works} peer-reviewed articles since 2019")
+    if works >= 10:
+        series.append({
+            "label": "Research: articles per million (OpenAlex)",
+            "source": f"OpenAlex, a database of scholarly publications: {works} peer-reviewed articles in recognised journals (the Leiden core list) since 2019 with \"{phrase}\" in the title or abstract, as a share of all such articles that year (per million)"
+            + (", phrase chosen by the curator" if "openalex" in pins else ""),
+            "values": per_million,
+            "raw": raw,
+        })
 
-enough = len(series) >= 2
-data = {
-    "term": term,
-    "retrieved": today,
-    "years": years,
-    "enough": enough,
-    "checked": checked + [checked_oa],
-    "note": "Attention to the term, not use of it. Each series is indexed to its own peak (= 100); the current year is partial.",
-    "series": series,
-}
-json.dump(data, open(out_path, "w"), indent=1)
-for s in series:
-    print(s["label"], {k: round(v, 2) for k, v in s["values"].items()})
-print("checked:", "; ".join(data["checked"]))
-print("enough to draw:" , enough, "| written:", out_path)
+    # YouTube, only with a key on this machine; the count is Google's estimate per year
+    # the key comes from the environment, or from a one-line file .youtube-api-key in the
+    # repo root (gitignored); never from the repository itself
+    key = os.environ.get("YOUTUBE_API_KEY")
+    if not key and os.path.exists(".youtube-api-key"):
+        key = open(".youtube-api-key").read().strip()
+    if key and pins.get("youtube") != "-":
+        yt = {}
+        for y in years:
+            u = ("https://www.googleapis.com/youtube/v3/search?part=id&type=video&maxResults=1"
+                 f"&q={urllib.parse.quote(pins.get('youtube', term))}&publishedAfter={y}-01-01T00:00:00Z&publishedBefore={y}-12-31T23:59:59Z&key={key}")
+            d = get(u)
+            yt[y] = int(d.get("pageInfo", {}).get("totalResults", 0)) if "pageInfo" in d else 0
+        if sum(yt.values()):
+            series.append({
+                "label": "YouTube, videos per year",
+                "source": f"YouTube Data API v3, search.list, videos with \"{pins.get('youtube', term)}\" in title or description, Google's estimated count per year",
+                "values": yt,
+            })
+            curator.append("YouTube: counted")
+        else:
+            checked.append("YouTube: no videos found")
+    else:
+        checked.append("YouTube: not counted")
+        curator.append("YouTube: no API key on this machine" if not key else "YouTube: left out by the curator")
+
+    # Google Trends, only from a CSV the curator exported by hand
+    out_dir = os.path.dirname(out_path)
+    for name in ("trends.csv", f"trends-{term}.csv"):
+        path = os.path.join(out_dir, name)
+        if os.path.exists(path):
+            by = {y: [] for y in years}
+            with open(path, newline="", encoding="utf-8-sig") as f:
+                for row in csv.reader(f):
+                    if len(row) >= 2 and row[0][:4].isdigit():
+                        y = int(row[0][:4])
+                        try:
+                            if y in by: by[y].append(float(row[1].replace("<1", "0")))
+                        except ValueError:
+                            pass
+            vals = {y: (sum(v) / len(v) if v else 0) for y, v in by.items()}
+            if sum(vals.values()):
+                series.append({
+                    "label": "Google Trends, search interest",
+                    "source": f"Google Trends, exported by the curator as {name} (weekly interest 0–100, averaged per year)",
+                    "values": vals,
+                })
+                curator.append(f"Google Trends: from {name}")
+            break
+    else:
+        if pins.get("trends") == "-":
+            checked.append("Google Trends: left out by the curator")
+        else:
+            vals = trends_api(pins.get("trends", term))
+            if vals:
+                series.append({
+                    "label": "Google Trends, search interest",
+                    "source": f"Google Trends, worldwide, \"{pins.get('trends', term)}\", monthly interest 0–100 averaged per year, fetched with the same requests the Trends site makes (unofficial)"
+                    + (", word chosen by the curator" if "trends" in pins else ""),
+                    "values": vals,
+                })
+                curator.append("Google Trends: fetched")
+            else:
+                # Google did not answer: the line is simply not there (Marieke, 15-09)
+                checked.append("Google Trends: not available")
+                curator.append("Google Trends: no export beside the entry, and Google did not answer the request")
+
+    enough = len(series) >= 2
+    data = {
+        "term": term,
+        "retrieved": today,
+        "years": years,
+        "enough": enough,
+        "checked": checked + ([checked_oa] if checked_oa else []),
+        "curator": curator,
+        "wikipedia": wikipedia,
+        "note": "Attention to the term, not use of it. The sources cannot be compared in size, only in shape and timing: each is indexed to its own peak (= 100); the current year is partial.",
+        "series": series,
+    }
+    data["pins"] = pins
+    json.dump(data, open(out_path, "w"), indent=1)
+    for s in series:
+        print(s["label"], {k: round(v, 2) for k, v in s["values"].items()})
+    print("checked:", "; ".join(data["checked"]))
+    if curator: print("curator:", "; ".join(curator))
+    print("enough to draw:" , enough, "| written:", out_path)
+
+def jobs():
+    """(term, path, pins) per run: one from the arguments, or every file on --refresh."""
+    if len(sys.argv) >= 2 and sys.argv[1] == "--refresh":
+        for path in sorted(glob.glob("content/**/attention*.json", recursive=True)):
+            try:
+                old = json.load(open(path))
+            except (OSError, json.JSONDecodeError):
+                continue
+            yield old["term"], path, old.get("pins", {})
+        return
+    term, path = sys.argv[1], sys.argv[2]
+    pins = dict(a.split("=", 1) for a in sys.argv[3:])   # {"en": "Gooning", "openalex": "-"}
+    if not pins and os.path.exists(path):
+        try:
+            pins = json.load(open(path)).get("pins", {})
+        except (OSError, json.JSONDecodeError):
+            pins = {}
+    yield term, path, pins
+
+for i, (term, path, pins) in enumerate(jobs()):
+    if i:
+        time.sleep(2)  # be gentle with the APIs
+    print(f"== {term}")
+    run(term, path, pins)

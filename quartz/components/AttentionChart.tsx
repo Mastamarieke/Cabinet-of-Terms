@@ -1,6 +1,8 @@
 import fs from "fs"
 import path from "path"
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
+// @ts-ignore
+import script from "./scripts/attentionChart.inline"
 import style from "./styles/attentionChart.scss"
 
 // A third block under an entry's graph: when the word drew attention. Drawn at build time
@@ -38,6 +40,12 @@ const PLOT = 150
 const AXIS = 24
 const H = TOP + PLOT + AXIS
 
+// "2026-09-15" as it is written in the file, "15 September 2026" under the chart
+const longDate = (iso: string) => {
+  const d = new Date(iso + "T00:00:00")
+  return isNaN(d.getTime()) ? iso : d.toLocaleDateString("en-GB", { day: "numeric", month: "long", year: "numeric" })
+}
+
 const fmt = (v: number, label: string) => {
   if (/per million/i.test(label)) return `${v.toFixed(1)} per million`
   if (v >= 1_000_000) return `${(v / 1_000_000).toFixed(1)}M`
@@ -65,7 +73,7 @@ export default (() => {
       return (
         <details class="graph-story attention">
           <summary class="graph-story-header">
-            <span class="graph-title-name">Semantic attention</span>
+            <span class="graph-title-name">Attention curve</span>
             <span class="graph-title-rest">
               {" "}
               — no curve yet for the term <strong>{term}</strong>
@@ -74,22 +82,29 @@ export default (() => {
           <div class="attention-body">
             <p class="attention-note attention-none">
               Too little to draw: attention is only shown where at least two independent sources record it.
-              Checked {data.retrieved}: {(data.checked ?? []).join("; ")}.
+              Looked on {longDate(data.retrieved)}.{" "}
+              {data.series.map((s, k) => (
+                <span class="attention-source">
+                  {k + 1}. {s.source}.{" "}
+                </span>
+              ))}
+              {data.checked && data.checked.length > 0 && (
+                <span class="attention-source">Not drawn: {data.checked.join("; ")}.</span>
+              )}
             </p>
           </div>
         </details>
       )
     }
-    // the two Wikipedias with the most views, and the research line; the rest is in the note
-    const wiki = data.series.filter((s) => !/^research/i.test(s.label)).slice(0, 2)
-    const research = data.series.filter((s) => /^research/i.test(s.label)).slice(0, 1)
-    const series = [...wiki, ...research]
+    // in the order the script wrote them: Wikipedia together, Dutch alone, research, then
+    // YouTube and Google Trends where the curator added them; five at most
+    const series = data.series.slice(0, 5)
     const x = (i: number) => L + (i * (W - L - R)) / (years.length - 1)
     const base = TOP + PLOT
     const y = (v: number) => base - (v / 100) * PLOT
-    const colours = ["var(--han-red)", "var(--secondary)", "var(--tertiary)"]
+    const colours = ["var(--han-red)", "var(--secondary)", "var(--tertiary)", "#c98a1c", "#6b4c9a"]
     const shortLabel = (label: string) =>
-      /^research/i.test(label) ? "Research (OpenAlex)" : label.split(",")[0].replace(/\s*\(.*\)$/, "")
+      /^research/i.test(label) ? "Research (OpenAlex)" : label.split(",")[0].replace(/\s*\(.*\)$/, "") + (/languages?\)/.test(label) ? ` (${label.match(/\((\d+) language/)?.[1] ?? ""} languages)` : "")
 
     const shapes = series.map((s, k) => {
       const vals = years.map((yr) => s.values[String(yr)] ?? 0)
@@ -104,13 +119,19 @@ export default (() => {
     return (
       <details class="graph-story attention">
         <summary class="graph-story-header">
-          <span class="graph-title-name">Semantic attention</span>
+          <span class="graph-title-name">Attention curve</span>
           <span class="graph-title-rest">
             {" "}
             — the rise and fall of the term <strong>{term}</strong>
           </span>
         </summary>
-        <div class="attention-body">
+        <div class="attention-body" data-term={term}>
+          <button type="button" class="attention-shot" aria-label="Save this chart as an image" title="Save as image">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M4 8h3l1.5-2h7L17 8h3v11H4z" />
+              <circle cx="12" cy="13" r="3.4" />
+            </svg>
+          </button>
           <svg viewBox={`0 0 ${W} ${H}`} class="attention-svg" role="img" aria-label={`Attention to ${term} by year, three sources`}>
             {[50, 100].map((g) => (
               <line x1={L} y1={y(g)} x2={W - R} y2={y(g)} class="attention-grid" />
@@ -149,15 +170,18 @@ export default (() => {
             ))}
           </ul>
           <p class="attention-note">
-            Attention to the term, not use of it. Each source indexed to its own peak (= 100), the peak marked with
-            the real figure; * the current year is partial. Retrieved {data.retrieved}.{" "}
+            Attention to the term, not use of it. Where the field and the landscape are curated, the curve is
+            computed. The sources cannot be compared in size, only in shape and timing: each is drawn on its
+            own scale, its peak (= 100) marked with the real figure. * {years[years.length - 1]} runs to{" "}
+            {longDate(data.retrieved)}, the day the figures were retrieved; research indexing lags months
+            behind.{" "}
             {series.map((s, k) => (
               <span class="attention-source">
                 {k + 1}. {s.source}.{" "}
               </span>
             ))}
             {data.checked && data.checked.length > 0 && (
-              <span class="attention-source">Also checked: {data.checked.join("; ")}.</span>
+              <span class="attention-source">Not drawn: {data.checked.join("; ")}.</span>
             )}
           </p>
         </div>
@@ -165,5 +189,6 @@ export default (() => {
     )
   }
   AttentionChart.css = style
+  AttentionChart.afterDOMLoaded = script
   return AttentionChart
 }) satisfies QuartzComponentConstructor

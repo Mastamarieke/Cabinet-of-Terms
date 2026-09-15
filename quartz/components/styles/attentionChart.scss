@@ -2,7 +2,34 @@
 // .graph-story in graphStory.scss, this is only what is inside. Type is the graphs' face.
 .graph-story.attention {
   .attention-body {
+    position: relative;
     padding: 0.8em 1em 0.6em;
+  }
+
+  .attention-shot {
+    position: absolute;
+    top: 0.5em;
+    right: 0.6em;
+    width: 30px;
+    height: 30px;
+    padding: 0.3rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: var(--light);
+    border: 1px solid var(--lightgray);
+    border-radius: 6px;
+    color: var(--darkgray);
+    cursor: pointer;
+    opacity: 0.7;
+    &:hover {
+      opacity: 1;
+      background: var(--lightgray);
+    }
+    svg {
+      width: 100%;
+      height: 100%;
+    }
   }
 
   .attention-svg {
@@ -29,23 +56,28 @@
     fill: var(--gray);
   }
 
+  // one line, however many sources: condensed type, tight gaps, and a scroll rather than a
+  // wrap if a narrow screen still cannot hold it
   .attention-legend {
     list-style: none;
     margin: 0.35em 0 0;
-    padding: 0;
+    padding: 0 0 0.2em;
     display: flex;
-    flex-wrap: wrap;
-    gap: 0.3em 1.4em;
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    gap: 1.1em;
     font-family: "Barlow Condensed", var(--headerFont), sans-serif;
-    font-size: 0.95em;
-    letter-spacing: 0.04em;
+    font-size: 0.86em;
+    letter-spacing: 0.03em;
     text-transform: uppercase;
     color: var(--darkgray);
+    white-space: nowrap;
 
     li {
       display: inline-flex;
       align-items: center;
-      gap: 0.45em;
+      gap: 0.4em;
+      flex: 0 0 auto;
     }
     i {
       display: inline-block;

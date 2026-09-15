@@ -13,60 +13,39 @@
  ],
  "enough": true,
  "checked": [
-  "English: \"Tradwife\"",
-  "Dutch: \"Tradwife\"",
-  "German: \"Tradwife\"",
-  "French: \"Tradwife\"",
-  "Spanish: \"Tradwife\"",
-  "OpenAlex: 178 works since 2019"
+  "YouTube: not counted"
  ],
- "note": "Attention to the term, not use of it. Each series is indexed to its own peak (= 100); the current year is partial.",
+ "curator": [
+  "OpenAlex: 43 peer-reviewed articles since 2019",
+  "YouTube: no API key on this machine",
+  "Google Trends: fetched"
+ ],
+ "wikipedia": {
+  "en": "\"Tradwife\"",
+  "nl": "\"Tradwife\"",
+  "de": "\"Tradwife\"",
+  "fr": "\"Tradwife\"",
+  "es": "\"Tradwife\""
+ },
+ "note": "Attention to the term, not use of it. The sources cannot be compared in size, only in shape and timing: each is indexed to its own peak (= 100); the current year is partial.",
  "series": [
   {
-   "label": "English Wikipedia, page views",
-   "source": "Wikimedia REST API, en.wikipedia article \"Tradwife\", monthly user views",
+   "label": "Wikipedia, page views (5 languages)",
+   "source": "Wikimedia REST API: the article \"Tradwife\" on the English, Dutch, German, French and Spanish Wikipedia, monthly views by readers, added up",
    "values": {
     "2019": 0,
-    "2020": 79698,
-    "2021": 70912,
-    "2022": 96570,
-    "2023": 232279,
-    "2024": 810829,
-    "2025": 301355,
-    "2026": 173428
-   }
-  },
-  {
-   "label": "German Wikipedia, page views",
-   "source": "Wikimedia REST API, de.wikipedia article \"Tradwife\", monthly user views",
-   "values": {
-    "2019": 0,
-    "2020": 0,
-    "2021": 0,
-    "2022": 0,
-    "2023": 0,
-    "2024": 108369,
-    "2025": 127353,
-    "2026": 46851
-   }
-  },
-  {
-   "label": "French Wikipedia, page views",
-   "source": "Wikimedia REST API, fr.wikipedia article \"Tradwife\", monthly user views",
-   "values": {
-    "2019": 0,
-    "2020": 1337,
-    "2021": 2759,
-    "2022": 2520,
-    "2023": 14931,
-    "2024": 62457,
-    "2025": 41128,
-    "2026": 18856
+    "2020": 81035,
+    "2021": 73671,
+    "2022": 99090,
+    "2023": 247210,
+    "2024": 995415,
+    "2025": 496640,
+    "2026": 256892
    }
   },
   {
    "label": "Dutch Wikipedia, page views",
-   "source": "Wikimedia REST API, nl.wikipedia article \"Tradwife\", monthly user views",
+   "source": "Wikimedia REST API, nl.wikipedia article \"Tradwife\", on its own as the local line",
    "values": {
     "2019": 0,
     "2020": 0,
@@ -79,42 +58,43 @@
    }
   },
   {
-   "label": "Spanish Wikipedia, page views",
-   "source": "Wikimedia REST API, es.wikipedia article \"Tradwife\", monthly user views",
+   "label": "Research: articles per million (OpenAlex)",
+   "source": "OpenAlex, a database of scholarly publications: 43 peer-reviewed articles in recognised journals (the Leiden core list) since 2019 with \"tradwife\" in the title or abstract, as a share of all such articles that year (per million)",
    "values": {
+    "2019": 0.0,
+    "2020": 0.0,
+    "2021": 0.0,
+    "2022": 0.0,
+    "2023": 0.6565591572931905,
+    "2024": 1.2355895507427284,
+    "2025": 3.7366672836958283,
+    "2026": 9.33862677827882
+   },
+   "raw": {
     "2019": 0,
     "2020": 0,
     "2021": 0,
     "2022": 0,
-    "2023": 0,
-    "2024": 0,
-    "2025": 10817,
-    "2026": 12122
+    "2023": 2,
+    "2024": 4,
+    "2025": 13,
+    "2026": 24
    }
   },
   {
-   "label": "Research: works per million (OpenAlex)",
-   "source": "OpenAlex, works with \"tradwife\" in title or abstract (178 since 2019), per million works published that year",
+   "label": "Google Trends, search interest",
+   "source": "Google Trends, worldwide, \"Tradwife\", monthly interest 0\u2013100 averaged per year, fetched with the same requests the Trends site makes (unofficial)",
    "values": {
-    "2019": 0.09265428490395781,
-    "2020": 0.0,
-    "2021": 0.0,
-    "2022": 0.0,
-    "2023": 0.4588170411990174,
-    "2024": 1.6594134932073754,
-    "2025": 3.753998178696593,
-    "2026": 3.204978373841886
-   },
-   "raw": {
-    "2019": 1,
-    "2020": 0,
-    "2021": 0,
-    "2022": 0,
-    "2023": 5,
-    "2024": 18,
-    "2025": 55,
-    "2026": 99
+    "2019": 0.75,
+    "2020": 7.416666666666667,
+    "2021": 5.75,
+    "2022": 6.75,
+    "2023": 12.5,
+    "2024": 49.5,
+    "2025": 43.5,
+    "2026": 55.666666666666664
    }
   }
- ]
+ ],
+ "pins": {}
 }

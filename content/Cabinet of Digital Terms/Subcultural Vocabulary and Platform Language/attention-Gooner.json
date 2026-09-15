@@ -11,20 +11,28 @@
   2025,
   2026
  ],
- "enough": false,
+ "enough": true,
  "checked": [
-  "English: \"Gooning\" (chosen)",
-  "Dutch: no article",
-  "German: no article",
-  "French: no article",
-  "Spanish: no article",
-  "OpenAlex: left out by the curator (the word is ambiguous in the literature)"
+  "Wikipedia: no article in Dutch, German, French, Spanish",
+  "YouTube: not counted",
+  "OpenAlex: left out by the curator, the word means something else in the literature"
  ],
- "note": "Attention to the term, not use of it. Each series is indexed to its own peak (= 100); the current year is partial.",
+ "curator": [
+  "YouTube: no API key on this machine",
+  "Google Trends: fetched"
+ ],
+ "wikipedia": {
+  "en": "\"Gooning\" (chosen by the curator)",
+  "nl": "no article",
+  "de": "no article",
+  "fr": "no article",
+  "es": "no article"
+ },
+ "note": "Attention to the term, not use of it. The sources cannot be compared in size, only in shape and timing: each is indexed to its own peak (= 100); the current year is partial.",
  "series": [
   {
    "label": "English Wikipedia, page views",
-   "source": "Wikimedia REST API, en.wikipedia article \"Gooning\", the article chosen by the curator, monthly user views",
+   "source": "Wikimedia REST API: English \"Gooning\" (chosen by the curator), monthly views by readers",
    "values": {
     "2019": 0,
     "2020": 0,
@@ -35,6 +43,25 @@
     "2025": 23286,
     "2026": 60328
    }
+  },
+  {
+   "label": "Google Trends, search interest",
+   "source": "Google Trends, worldwide, \"Gooning\", monthly interest 0\u2013100 averaged per year, fetched with the same requests the Trends site makes (unofficial), word chosen by the curator",
+   "values": {
+    "2019": 1.0,
+    "2020": 1.5833333333333333,
+    "2021": 2.6666666666666665,
+    "2022": 3.8333333333333335,
+    "2023": 11.666666666666666,
+    "2024": 43.166666666666664,
+    "2025": 79.41666666666667,
+    "2026": 83.88888888888889
+   }
   }
- ]
+ ],
+ "pins": {
+  "en": "Gooning",
+  "openalex": "-",
+  "trends": "Gooning"
+ }
 }

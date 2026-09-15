@@ -13,18 +13,26 @@
  ],
  "enough": true,
  "checked": [
-  "English: left out by the curator",
-  "Dutch: no article",
-  "German: \"Sigma-Mann\"",
-  "French: no article",
-  "Spanish: no article",
-  "OpenAlex: 15 works since 2019"
+  "Wikipedia: English left out by the curator; no article in Dutch, French, Spanish",
+  "YouTube: not counted",
+  "OpenAlex: 1 peer-reviewed article since 2019, too few for a line"
  ],
- "note": "Attention to the term, not use of it. Each series is indexed to its own peak (= 100); the current year is partial.",
+ "curator": [
+  "YouTube: no API key on this machine",
+  "Google Trends: fetched"
+ ],
+ "wikipedia": {
+  "en": "left out by the curator",
+  "nl": "no article",
+  "de": "\"Sigma-Mann\" (via a redirect)",
+  "fr": "no article",
+  "es": "no article"
+ },
+ "note": "Attention to the term, not use of it. The sources cannot be compared in size, only in shape and timing: each is indexed to its own peak (= 100); the current year is partial.",
  "series": [
   {
    "label": "German Wikipedia, page views",
-   "source": "Wikimedia REST API, de.wikipedia article \"Sigma-Mann\", reached via a redirect, monthly user views",
+   "source": "Wikimedia REST API: German \"Sigma-Mann\" (via a redirect), monthly views by readers",
    "values": {
     "2019": 0,
     "2020": 0,
@@ -37,28 +45,21 @@
    }
   },
   {
-   "label": "Research: works per million (OpenAlex)",
-   "source": "OpenAlex, works with \"sigma male\" in title or abstract (15 since 2019), per million works published that year",
+   "label": "Google Trends, search interest",
+   "source": "Google Trends, worldwide, \"Sigma Male\", monthly interest 0\u2013100 averaged per year, fetched with the same requests the Trends site makes (unofficial)",
    "values": {
-    "2019": 0.0,
-    "2020": 0.0,
-    "2021": 0.09291005247745585,
-    "2022": 0.0,
-    "2023": 0.36705363295921395,
-    "2024": 0.09218963851152084,
-    "2025": 0.2730180493597522,
-    "2026": 0.16186759463847908
-   },
-   "raw": {
-    "2019": 0,
-    "2020": 0,
-    "2021": 1,
-    "2022": 0,
-    "2023": 4,
-    "2024": 1,
-    "2025": 4,
-    "2026": 5
+    "2019": 1.9166666666666667,
+    "2020": 3.1666666666666665,
+    "2021": 37.416666666666664,
+    "2022": 55.166666666666664,
+    "2023": 57.666666666666664,
+    "2024": 35.666666666666664,
+    "2025": 16.75,
+    "2026": 12.333333333333334
    }
   }
- ]
+ ],
+ "pins": {
+  "en": "-"
+ }
 }
