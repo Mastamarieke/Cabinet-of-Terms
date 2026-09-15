@@ -23,7 +23,9 @@ attention_moments:
   - month: 2024-10
     note: "Saturday Night Live's tradwife sketch, 19 October: no trace on Wikipedia. By then the word needed no looking up."
   - month: 2024-12
-    note: "Dutch Wikipedia: 2,600 lookups on Saturday evening 28 December, a hundred times a normal day; one broadcast, not yet identified."
+    note: "Dutch Wikipedia: 2,600 lookups on Saturday evening 28 December, a hundred times a normal day. Probably the Flemish news piece of that evening (18:10) on Pornhub's Year in Review 2024, \"'Tradwife porno' is dé populaire nieuwkomer op Pornhub\": a headline that made readers look the word up. The same review had given a small rise on 15–17 December. Flanders and the Netherlands read the same Wikipedia. Not proven: the readers came via search, not via a link."
+    source: "dekrantenkoppen.be, 28 December 2024"
+    url: "https://www.dekrantenkoppen.be/detail/2674140/tradwife-porno-is-d-populaire-nieuwkomer-op-pornhub-seksuoloog-in-het-echte-leven-zou-je-die-dingen-niet-mogen-of-willen-doen.html"
 semantic_landscape: |
   **Tradwife** sits at the intersection of two different logics in the **Gender & Identity** cluster — the cluster that maps how digital culture assigns, performs, and monetises gender roles. It belongs here as a mechanism: the female route through **SMV** logic, aestheticised as content. From one direction comes the **SMV/Manosphere** axis: market logic, mate value, optimisation of desirability. From the other comes **Purity Culture**: cleanliness of body, household, and nation. These two logics do not feel like the same thing from the inside. The network shows they are.
 
