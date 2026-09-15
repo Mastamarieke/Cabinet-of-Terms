@@ -1,6 +1,7 @@
 import fs from "fs"
 import path from "path"
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
+import { resolveRelative, FullSlug } from "../util/path"
 // @ts-ignore
 import script from "./scripts/attentionChart.inline"
 import style from "./styles/attentionChart.scss"
@@ -48,6 +49,12 @@ const longDate = (iso: string) => {
   return isNaN(d.getTime()) ? iso : d.toLocaleDateString("en-GB", { day: "numeric", month: "long", year: "numeric" })
 }
 
+// The moments: curated in the entry's frontmatter (attention_moments: month, note, source),
+// not in the data file the script overwrites. A numbered mark on the month, the same
+// number in a list under the legend; the reader who cannot hover still has the list.
+type Moment = { month: string; note: string; source?: string }
+const WIKI = /\[\[([^\]|]+)(?:\|([^\]]+))?\]\]/
+
 // "2024-04" as the file writes it, "Apr 2024" in the legend
 const MONTHS = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]
 const monthName = (ym: string) => `${MONTHS[Number(ym.slice(5, 7)) - 1]} ${ym.slice(0, 4)}`
@@ -60,7 +67,7 @@ const fmt = (v: number, label: string) => {
 }
 
 export default (() => {
-  const AttentionChart: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
+  const AttentionChart: QuartzComponent = ({ fileData, allFiles }: QuartzComponentProps) => {
     const fm = fileData.frontmatter as Record<string, unknown> | undefined
     const term = typeof fm?.term === "string" ? (fm.term as string) : undefined
     if (!term) return null
@@ -148,6 +155,48 @@ export default (() => {
     const monthlyNames = shapes.filter((sh) => !sh.yearly).map((sh) => shortLabel(sh.s.label))
     const yearlyNames = shapes.filter((sh) => sh.yearly).map((sh) => shortLabel(sh.s.label))
 
+    // the moments, in the order of the months, each on the highest monthly line of its month
+    const raw = Array.isArray(fm?.attention_moments) ? (fm!.attention_moments as Moment[]) : []
+    const moments = raw
+      .filter((m) => m && typeof m.month === "string" && months.includes(m.month) && typeof m.note === "string")
+      .sort((a, b) => a.month.localeCompare(b.month))
+      .map((m, n) => {
+        const i = months.indexOf(m.month)
+        const tops = shapes.filter((sh) => !sh.yearly).map((sh) => sh.pts[i][1])
+        const top = tops.length ? Math.min(...tops) : base
+        // a wikilink in the source becomes a link to that file: a Sources bundle, or another entry
+        let sourceText: string | undefined
+        let sourceHref: string | undefined
+        const w = m.source ? WIKI.exec(m.source) : null
+        if (w) {
+          sourceText = w[2] ?? w[1]
+          const key = w[1].replace(/-/g, " ").toLowerCase()
+          const hit = allFiles.find((f) => {
+            const parts = (f.slug ?? "").split("/")
+            const stem = parts[parts.length - 1] === "index" ? parts[parts.length - 2] : parts[parts.length - 1]
+            return (stem ?? "").replace(/-/g, " ").toLowerCase() === key
+          })
+          if (hit?.slug) sourceHref = resolveRelative(fileData.slug!, hit.slug as FullSlug)
+        } else if (m.source) {
+          sourceText = m.source
+        }
+        return { n: n + 1, i, month: m.month, note: m.note, x: x(i), y: Math.max(TOP + 8, top - 12), sourceText, sourceHref }
+      })
+
+    // what the reader's pointer reads out, month by month: the real figures of every series
+    const readout = {
+      months,
+      series: shapes.map((sh) => ({
+        label: shortLabel(sh.s.label),
+        colour: sh.colour,
+        yearly: sh.yearly,
+        unit: /per million/i.test(sh.s.label) ? "per million" : "",
+        values: sh.yearly ? years.map((yr) => sh.s.values[String(yr)] ?? 0) : months.map((m) => sh.s.values[m] ?? 0),
+      })),
+      years,
+      moments: moments.map((m) => ({ i: m.i, n: m.n, note: m.note })),
+    }
+
     return (
       <details class="graph-story attention">
         <summary class="graph-story-header">
@@ -202,6 +251,15 @@ export default (() => {
                 const b = blocks[Math.min(peakAt, blocks.length - 1)]
                 return b ? <circle cx={((b.x0 + b.x1) / 2).toFixed(1)} cy={b.top.toFixed(1)} r="3.2" fill={colour} /> : null
               })}
+            {moments.map((m) => (
+              <g class="attention-moment" data-moment={m.n} transform={`translate(${m.x.toFixed(1)} ${m.y.toFixed(1)})`}>
+                <line x1="0" y1="7" x2="0" y2={(base - m.y).toFixed(1)} class="attention-moment-stem" />
+                <circle r="7" class="attention-moment-dot" />
+                <text y="3.2" text-anchor="middle" class="attention-moment-num">
+                  {m.n}
+                </text>
+              </g>
+            ))}
             {months.map((m, i) =>
               m.endsWith("-01") ? (
                 <>
@@ -214,6 +272,7 @@ export default (() => {
               ) : null,
             )}
           </svg>
+          <div class="attention-readout" hidden></div>
           <ul class="attention-legend">
             {shapes.map(({ s, colour, max, peakLabel, yearly }) => (
               <li>
@@ -225,6 +284,28 @@ export default (() => {
               </li>
             ))}
           </ul>
+          {moments.length > 0 && (
+            <ol class="attention-moments">
+              {moments.map((m) => (
+                <li data-moment={m.n}>
+                  <b>{m.n}</b> <span class="attention-moment-month">{monthName(m.month)}</span> {m.note}
+                  {m.sourceText && (
+                    <>
+                      {" "}
+                      {m.sourceHref ? (
+                        <a href={m.sourceHref} class="internal">
+                          {m.sourceText}
+                        </a>
+                      ) : (
+                        <span>{m.sourceText}</span>
+                      )}
+                    </>
+                  )}
+                </li>
+              ))}
+            </ol>
+          )}
+          <script type="application/json" class="attention-data" dangerouslySetInnerHTML={{ __html: JSON.stringify(readout).replace(/</g, "\\u003c") }}></script>
           <p class="attention-note">
             Attention to the term, not use of it. Where the field and the landscape are curated, the curve is
             computed. The sources cannot be compared in size, only in shape and timing: each is drawn on its

@@ -10,6 +10,18 @@ version: V3
 analysis_version: pending
 entry_image: tradwife.jpg
 entry_image_caption: "By Narrative Typographer Marieke de Vogel"
+attention_moments:
+  - month: 2024-04
+    note: "Unknown viral moment: 34,000 lookups on Saturday 27 April, three quarters of them via Google search; not Ballerina Farm, not Nara Smith, and no link from Wikipedia itself. The term's largest day has no name."
+  - month: 2024-05
+    note: "The day after Emily Wilson's Instagram video (30 April) calling young tradwives \"cringe\", picked up by Newsweek: 14,000 lookups on 1 May."
+  - month: 2024-07
+    note: "Megan Agnew's profile of Hannah Neeleman (Ballerina Farm) in the Sunday Times Magazine, 27 July: a spike in Google searches, a modest rise on Wikipedia. The word had left the subculture three months earlier."
+    source: "[[Secondary-Tradwife|Agnew (2024)]]"
+  - month: 2024-10
+    note: "Saturday Night Live's tradwife sketch, 19 October: no trace on Wikipedia. By then the word needed no looking up."
+  - month: 2024-12
+    note: "Dutch Wikipedia: 2,600 lookups on Saturday evening 28 December, a hundred times a normal day; one broadcast, not yet identified."
 semantic_landscape: |
   **Tradwife** sits at the intersection of two different logics in the **Gender & Identity** cluster — the cluster that maps how digital culture assigns, performs, and monetises gender roles. It belongs here as a mechanism: the female route through **SMV** logic, aestheticised as content. From one direction comes the **SMV/Manosphere** axis: market logic, mate value, optimisation of desirability. From the other comes **Purity Culture**: cleanliness of body, household, and nation. These two logics do not feel like the same thing from the inside. The network shows they are.
 
