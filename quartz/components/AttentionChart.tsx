@@ -10,11 +10,12 @@ import style from "./styles/attentionChart.scss"
 // attention-<file>.json beside a flat Term.md), written by scripts/attention.py. No file,
 // no block. Each series is indexed to its own peak, so the lines share one scale without
 // pretending that page views and papers are the same kind of number.
-type Series = { label: string; source: string; values: Record<string, number> }
+type Series = { label: string; source: string; values: Record<string, number>; period?: "month" | "year" }
 type Attention = {
   term: string
   retrieved: string
   years: number[]
+  months?: string[]
   enough?: boolean
   checked?: string[]
   note?: string
@@ -29,9 +30,10 @@ function dataFileFor(filePath: string | undefined): string | null {
   return fs.existsSync(candidate) ? candidate : null
 }
 
-// One field, three translucent shapes: each source indexed to its own peak (= 100) so the
-// three can share a canvas, filled so that where they overlap the colours mix and the
-// reader sees the years the sources agree. The peak of each carries its real figure.
+// One field, one axis of months: the public sources (Wikipedia, Trends) as translucent
+// monthly shapes, each indexed to its own peak (= 100) so that they share a canvas and mix
+// where they overlap; research, a yearly figure, as light blocks behind them, one per
+// year. The peak of each carries its real figure, and for a monthly line the month.
 const W = 640
 const L = 34
 const R = 22
@@ -45,6 +47,10 @@ const longDate = (iso: string) => {
   const d = new Date(iso + "T00:00:00")
   return isNaN(d.getTime()) ? iso : d.toLocaleDateString("en-GB", { day: "numeric", month: "long", year: "numeric" })
 }
+
+// "2024-04" as the file writes it, "Apr 2024" in the legend
+const MONTHS = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]
+const monthName = (ym: string) => `${MONTHS[Number(ym.slice(5, 7)) - 1]} ${ym.slice(0, 4)}`
 
 const fmt = (v: number, label: string) => {
   if (/per million/i.test(label)) return `${v.toFixed(1)} per million`
@@ -99,22 +105,48 @@ export default (() => {
     // in the order the script wrote them: Wikipedia together, Dutch alone, research, then
     // YouTube and Google Trends where the curator added them; five at most
     const series = data.series.slice(0, 5)
-    const x = (i: number) => L + (i * (W - L - R)) / (years.length - 1)
+    const months = data.months ?? years.map((yr) => `${yr}-07`)
+    const lastYear = years[years.length - 1]
+    const x = (i: number) => L + (i * (W - L - R)) / (months.length - 1)
     const base = TOP + PLOT
     const y = (v: number) => base - (v / 100) * PLOT
     const colours = ["var(--han-red)", "var(--secondary)", "var(--tertiary)", "#c98a1c", "#6b4c9a"]
     const shortLabel = (label: string) =>
       /^research/i.test(label) ? "Research (OpenAlex)" : label.split(",")[0].replace(/\s*\(.*\)$/, "") + (/languages?\)/.test(label) ? ` (${label.match(/\((\d+) language/)?.[1] ?? ""} languages)` : "")
+    // a year's span on the axis: its first month to its last month present
+    const span = (yr: number) => {
+      const idx = months.map((m, i) => (m.startsWith(String(yr)) ? i : -1)).filter((i) => i >= 0)
+      return idx.length ? ([idx[0], idx[idx.length - 1]] as const) : null
+    }
 
     const shapes = series.map((s, k) => {
-      const vals = years.map((yr) => s.values[String(yr)] ?? 0)
+      const yearly = s.period === "year" || !months.some((m) => m in s.values)
+      if (yearly) {
+        const vals = years.map((yr) => s.values[String(yr)] ?? 0)
+        const max = Math.max(...vals) || 1
+        const peakAt = vals.indexOf(max)
+        const blocks = years
+          .map((yr, i) => {
+            const sp = span(yr)
+            if (!sp || !vals[i]) return null
+            const [a, b] = sp
+            const half = (W - L - R) / (months.length - 1) / 2
+            return { x0: x(a) - half, x1: x(b) + half, top: y((vals[i] / max) * 100) }
+          })
+          .filter((b): b is { x0: number; x1: number; top: number } => b !== null)
+        return { s, k, yearly, blocks, pts: [] as (readonly [number, number])[], line: "", area: "", peakAt, max, peakLabel: `${years[peakAt]}${peakAt === years.length - 1 ? "*" : ""}`, colour: colours[k] }
+      }
+      const vals = months.map((m) => s.values[m] ?? 0)
       const max = Math.max(...vals) || 1
       const peakAt = vals.indexOf(max)
       const pts = vals.map((v, i) => [x(i), y((v / max) * 100)] as const)
       const line = pts.map(([px, py]) => `${px.toFixed(1)},${py.toFixed(1)}`).join(" ")
-      const area = `M${x(0).toFixed(1)},${base} L${line.replace(/ /g, " L")} L${x(years.length - 1).toFixed(1)},${base} Z`
-      return { s, k, pts, line, area, peakAt, max, colour: colours[k] }
+      const area = `M${x(0).toFixed(1)},${base} L${line.replace(/ /g, " L")} L${x(months.length - 1).toFixed(1)},${base} Z`
+      return { s, k, yearly, blocks: [] as { x0: number; x1: number; top: number }[], pts, line, area, peakAt, max, peakLabel: monthName(months[peakAt]), colour: colours[k] }
     })
+    const hasYearly = shapes.some((sh) => sh.yearly)
+    const monthlyNames = shapes.filter((sh) => !sh.yearly).map((sh) => shortLabel(sh.s.label))
+    const yearlyNames = shapes.filter((sh) => sh.yearly).map((sh) => shortLabel(sh.s.label))
 
     return (
       <details class="graph-story attention">
@@ -132,7 +164,7 @@ export default (() => {
               <circle cx="12" cy="13" r="3.4" />
             </svg>
           </button>
-          <svg viewBox={`0 0 ${W} ${H}`} class="attention-svg" role="img" aria-label={`Attention to ${term} by year, three sources`}>
+          <svg viewBox={`0 0 ${W} ${H}`} class="attention-svg" role="img" aria-label={`Attention to ${term} by month, ${series.length} sources`}>
             {[50, 100].map((g) => (
               <line x1={L} y1={y(g)} x2={W - R} y2={y(g)} class="attention-grid" />
             ))}
@@ -142,29 +174,53 @@ export default (() => {
                 {g}
               </text>
             ))}
-            {shapes.map(({ area, colour }) => (
-              <path d={area} fill={colour} class="attention-area" />
-            ))}
-            {shapes.map(({ line, colour }) => (
-              <polyline points={line} fill="none" stroke={colour} stroke-width="1.6" stroke-linejoin="round" class="attention-line" />
-            ))}
-            {shapes.map(({ pts, peakAt, colour }) => (
-              <circle cx={pts[peakAt][0].toFixed(1)} cy={pts[peakAt][1].toFixed(1)} r="3.4" fill={colour} />
-            ))}
-            {years.map((yr, i) => (
-              <text x={x(i)} y={H - 6} text-anchor="middle" class="attention-year">
-                {yr}
-                {i === years.length - 1 ? "*" : ""}
-              </text>
-            ))}
+            {shapes
+              .filter((sh) => sh.yearly)
+              .map(({ blocks, colour }) =>
+                blocks.map((b) => (
+                  <rect x={b.x0.toFixed(1)} y={b.top.toFixed(1)} width={(b.x1 - b.x0).toFixed(1)} height={(base - b.top).toFixed(1)} fill={colour} class="attention-block" />
+                )),
+              )}
+            {shapes
+              .filter((sh) => !sh.yearly)
+              .map(({ area, colour }) => (
+                <path d={area} fill={colour} class="attention-area" />
+              ))}
+            {shapes
+              .filter((sh) => !sh.yearly)
+              .map(({ line, colour }) => (
+                <polyline points={line} fill="none" stroke={colour} stroke-width="1.4" stroke-linejoin="round" class="attention-line" />
+              ))}
+            {shapes
+              .filter((sh) => !sh.yearly)
+              .map(({ pts, peakAt, colour }) => (
+                <circle cx={pts[peakAt][0].toFixed(1)} cy={pts[peakAt][1].toFixed(1)} r="3.2" fill={colour} />
+              ))}
+            {shapes
+              .filter((sh) => sh.yearly)
+              .map(({ blocks, peakAt, colour }) => {
+                const b = blocks[Math.min(peakAt, blocks.length - 1)]
+                return b ? <circle cx={((b.x0 + b.x1) / 2).toFixed(1)} cy={b.top.toFixed(1)} r="3.2" fill={colour} /> : null
+              })}
+            {months.map((m, i) =>
+              m.endsWith("-01") ? (
+                <>
+                  <line x1={x(i).toFixed(1)} y1={base} x2={x(i).toFixed(1)} y2={base + 4} class="attention-base" />
+                  <text x={(x(i) + 3).toFixed(1)} y={H - 6} class="attention-year">
+                    {m.slice(0, 4)}
+                    {hasYearly && Number(m.slice(0, 4)) === lastYear ? "*" : ""}
+                  </text>
+                </>
+              ) : null,
+            )}
           </svg>
           <ul class="attention-legend">
-            {shapes.map(({ s, colour, max, peakAt }) => (
+            {shapes.map(({ s, colour, max, peakLabel, yearly }) => (
               <li>
-                <i style={`background:${colour}`}></i>
+                <i style={`background:${colour}`} class={yearly ? "attention-swatch-block" : ""}></i>
                 {shortLabel(s.label)}
                 <span class="attention-peak">
-                  {fmt(max, s.label)} · {years[peakAt]}
+                  {fmt(max, s.label)} · {peakLabel}
                 </span>
               </li>
             ))}
@@ -172,9 +228,10 @@ export default (() => {
           <p class="attention-note">
             Attention to the term, not use of it. Where the field and the landscape are curated, the curve is
             computed. The sources cannot be compared in size, only in shape and timing: each is drawn on its
-            own scale, its peak (= 100) marked with the real figure. * {years[years.length - 1]} runs to{" "}
-            {longDate(data.retrieved)}, the day the figures were retrieved; research indexing lags months
-            behind.{" "}
+            own scale, its peak (= 100) marked with the real figure. {monthlyNames.join(" and ")} by month, up to{" "}
+            {monthName(months[months.length - 1])}
+            {hasYearly ? `; ${yearlyNames.join(" and ")} as one block per year` : ""}. Retrieved {longDate(data.retrieved)}.
+            {hasYearly ? ` * ${lastYear} is not complete for a yearly figure, and research indexing lags months behind.` : ""}{" "}
             {series.map((s, k) => (
               <span class="attention-source">
                 {k + 1}. {s.source}.{" "}

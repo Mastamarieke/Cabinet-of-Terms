@@ -32,6 +32,15 @@
     }
   }
 
+  // research: one light block per year behind the monthly lines
+  .attention-block {
+    opacity: 0.16;
+  }
+  .attention-swatch-block {
+    height: 9px !important;
+    opacity: 0.35;
+  }
+
   .attention-svg {
     display: block;
     width: 100%;

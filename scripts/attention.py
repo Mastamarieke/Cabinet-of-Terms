@@ -38,6 +38,11 @@ import json, sys, subprocess, urllib.parse, datetime, os, csv, glob, time
 
 years = list(range(2019, 2027))
 today = datetime.date.today().isoformat()
+# the public sources are monthly (Wikipedia, Trends), research is yearly; the chart draws
+# both on one axis of months, from January 2019 to the current month (15-09, on Marieke's
+# question whether months would be better: for the public lines yes, for research no)
+# the current month is left out: half a month next to whole ones reads as a fall
+months = [f"{y}-{m:02d}" for y in years for m in range(1, 13) if f"{y}-{m:02d}" < today[:7]]
 UA = "CabinetOfDigitalTerms/1.0 (karinmarieke.de.vogel@gmail.com)"
 LANGS = ["en", "nl", "de", "fr", "es"]
 NAMES = {"en": "English", "nl": "Dutch", "de": "German", "fr": "French", "es": "Spanish"}
@@ -69,12 +74,13 @@ def resolve(lang, title):
     return None
 
 def views(lang, title):
+    """Monthly views by readers (not bots), keyed "YYYY-MM"."""
     u = f"https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/{lang}.wikipedia/all-access/user/{urllib.parse.quote(title.replace(' ', '_'))}/monthly/2019010100/2026123100"
     d = get(u)
-    by = {y: 0 for y in years}
+    by = {m: 0 for m in months}
     for it in d.get("items", []):
-        y = int(it["timestamp"][:4])
-        if y in by: by[y] += it["views"]
+        m = it["timestamp"][:4] + "-" + it["timestamp"][4:6]
+        if m in by: by[m] += it["views"]
     return by
 
 def trends_api(term):
@@ -101,12 +107,18 @@ def trends_api(term):
         points = json.loads(out[5:])["default"]["timelineData"]
     except (ValueError, KeyError):
         return None
-    by = {y: [] for y in years}
+    # "Apr 2024" for a monthly answer, "Apr 7, 2024" for a weekly one; both land on a month
+    by = {m: [] for m in months}
     for pt in points:
-        y = int(pt["formattedAxisTime"][-4:])
-        if y in by and pt.get("value"):
-            by[y].append(pt["value"][0])
-    vals = {y: (sum(v) / len(v) if v else 0) for y, v in by.items()}
+        label = pt["formattedAxisTime"]
+        try:
+            d = datetime.datetime.strptime(label, "%b %d, %Y") if "," in label else datetime.datetime.strptime(label, "%b %Y")
+        except ValueError:
+            continue
+        m = d.strftime("%Y-%m")
+        if m in by and pt.get("value"):
+            by[m].append(pt["value"][0])
+    vals = {m: (sum(v) / len(v) if v else 0) for m, v in by.items()}
     return vals if sum(vals.values()) else None
 
 def openalex(term, pins):
@@ -130,7 +142,7 @@ def run(term, out_path, pins):
     series = []
     checked = []    # what the reader sees under the chart: which article, how many articles, what is missing
     curator = []    # why: the reasons, for the curator reading the file before the push
-    combined = {y: 0 for y in years}
+    combined = {m: 0 for m in months}
     in_sum = []
     dutch = None
     wikipedia = {}  # per language: the article counted, or why not
@@ -155,7 +167,7 @@ def run(term, out_path, pins):
         wikipedia[lang] = f"\"{title}\"{how}"
         (same if not how else other).append((NAMES[lang], title, how))
         in_sum.append(f"{NAMES[lang]} \"{title}\"{how}")
-        for y in years: combined[y] += v[y]
+        for m in months: combined[m] += v[m]
         if lang == "nl":
             dutch = (title, v, how)
     # the source line says what was counted; the checked line only what was not
@@ -176,6 +188,7 @@ def run(term, out_path, pins):
         series.append({
             "label": f"Wikipedia, page views ({len(in_sum)} languages)" if len(in_sum) > 1 else f"{(same + other)[0][0]} Wikipedia, page views",
             "source": "Wikimedia REST API: " + "; ".join(counted) + ", monthly views by readers" + (", added up" if len(in_sum) > 1 else ""),
+            "period": "month",
             "values": combined,
         })
     if dutch and len(in_sum) > 1:
@@ -183,6 +196,7 @@ def run(term, out_path, pins):
         series.append({
             "label": "Dutch Wikipedia, page views",
             "source": f"Wikimedia REST API, nl.wikipedia article \"{title}\"{how}, on its own as the local line",
+            "period": "month",
             "values": v,
         })
     raw, per_million, phrase = openalex(term, pins)
@@ -200,6 +214,7 @@ def run(term, out_path, pins):
             "label": "Research: articles per million (OpenAlex)",
             "source": f"OpenAlex, a database of scholarly publications: {works} peer-reviewed articles in recognised journals (the Leiden core list) since 2019 with \"{phrase}\" in the title or abstract, as a share of all such articles that year (per million)"
             + (", phrase chosen by the curator" if "openalex" in pins else ""),
+            "period": "year",
             "values": per_million,
             "raw": raw,
         })
@@ -221,6 +236,7 @@ def run(term, out_path, pins):
             series.append({
                 "label": "YouTube, videos per year",
                 "source": f"YouTube Data API v3, search.list, videos with \"{pins.get('youtube', term)}\" in title or description, Google's estimated count per year",
+                "period": "year",
                 "values": yt,
             })
             curator.append("YouTube: counted")
@@ -235,20 +251,21 @@ def run(term, out_path, pins):
     for name in ("trends.csv", f"trends-{term}.csv"):
         path = os.path.join(out_dir, name)
         if os.path.exists(path):
-            by = {y: [] for y in years}
+            by = {m: [] for m in months}
             with open(path, newline="", encoding="utf-8-sig") as f:
                 for row in csv.reader(f):
                     if len(row) >= 2 and row[0][:4].isdigit():
-                        y = int(row[0][:4])
+                        m = row[0][:7]
                         try:
-                            if y in by: by[y].append(float(row[1].replace("<1", "0")))
+                            if m in by: by[m].append(float(row[1].replace("<1", "0")))
                         except ValueError:
                             pass
-            vals = {y: (sum(v) / len(v) if v else 0) for y, v in by.items()}
+            vals = {m: (sum(v) / len(v) if v else 0) for m, v in by.items()}
             if sum(vals.values()):
                 series.append({
                     "label": "Google Trends, search interest",
-                    "source": f"Google Trends, exported by the curator as {name} (weekly interest 0–100, averaged per year)",
+                    "source": f"Google Trends, exported by the curator as {name} (weekly interest 0–100, averaged per month)",
+                    "period": "month",
                     "values": vals,
                 })
                 curator.append(f"Google Trends: from {name}")
@@ -261,8 +278,9 @@ def run(term, out_path, pins):
             if vals:
                 series.append({
                     "label": "Google Trends, search interest",
-                    "source": f"Google Trends, worldwide, \"{pins.get('trends', term)}\", monthly interest 0–100 averaged per year, fetched with the same requests the Trends site makes (unofficial)"
+                    "source": f"Google Trends, worldwide, \"{pins.get('trends', term)}\", monthly interest 0–100, fetched with the same requests the Trends site makes (unofficial)"
                     + (", word chosen by the curator" if "trends" in pins else ""),
+                    "period": "month",
                     "values": vals,
                     "retrieved": today,
                 })
@@ -286,6 +304,7 @@ def run(term, out_path, pins):
         "term": term,
         "retrieved": today,
         "years": years,
+        "months": months,
         "enough": enough,
         "checked": checked + ([checked_oa] if checked_oa else []),
         "curator": curator,
@@ -296,7 +315,8 @@ def run(term, out_path, pins):
     data["pins"] = pins
     json.dump(data, open(out_path, "w"), indent=1)
     for s in series:
-        print(s["label"], {k: round(v, 2) for k, v in s["values"].items()})
+        v = s["values"]; peak = max(v, key=lambda k: v[k])
+        print(f"{s['label']} ({s.get('period', 'year')}): peak {round(v[peak], 1)} in {peak}, {len(v)} values")
     print("checked:", "; ".join(data["checked"]))
     if curator: print("curator:", "; ".join(curator))
     print("enough to draw:" , enough, "| written:", out_path)
