@@ -14,12 +14,11 @@
  "enough": true,
  "checked": [
   "Wikipedia: English left out by the curator; no article in Dutch, French, Spanish",
-  "YouTube: not counted",
   "OpenAlex: 1 peer-reviewed article since 2019, too few for a line"
  ],
  "curator": [
-  "YouTube: no API key on this machine",
-  "Google Trends: fetched"
+  "YouTube: not counted, no API key on this machine",
+  "Google Trends: Google did not answer today, line kept from 2026-09-15"
  ],
  "wikipedia": {
   "en": "left out by the curator",
@@ -46,7 +45,7 @@
   },
   {
    "label": "Google Trends, search interest",
-   "source": "Google Trends, worldwide, \"Sigma Male\", monthly interest 0\u2013100 averaged per year, fetched with the same requests the Trends site makes (unofficial)",
+   "source": "Google Trends, worldwide, \"Sigma Male\", monthly interest 0\u2013100 averaged per year, fetched with the same requests the Trends site makes (unofficial), retrieved 2026-09-15",
    "values": {
     "2019": 1.9166666666666667,
     "2020": 3.1666666666666665,
@@ -56,7 +55,8 @@
     "2024": 35.666666666666664,
     "2025": 16.75,
     "2026": 12.333333333333334
-   }
+   },
+   "retrieved": "2026-09-15"
   }
  ],
  "pins": {

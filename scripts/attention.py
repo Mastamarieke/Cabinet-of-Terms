@@ -22,9 +22,11 @@ The site draws the chart from this file (quartz/components/AttentionChart.tsx). 
   that year, per million. Articles only, so that theses, preprints and the datasets OpenAlex
   started indexing by the million in 2025 neither swell the count nor shift the base; fewer
   than ten articles in total is too few for a line (Marieke, 15-09).
-- YouTube videos per year with the term in title or description, when the environment
-  variable YOUTUBE_API_KEY is set (YouTube Data API v3, search.list; the count is Google's
-  estimate). The key stays on the curator's machine and never in the repository.
+- YouTube videos per year with the term in title or description, only when a key is set
+  (YOUTUBE_API_KEY, or .youtube-api-key in the repo root; YouTube Data API v3, search.list;
+  the count is Google's estimate). Left off by choice (15-09): it counts videos made, use of
+  the word rather than attention to it, and the match is loose. The path stays for when a
+  platform line is wanted; without a key the caption says nothing about it.
 - Google Trends: a CSV the curator exported from trends.google.com and put next to the
   entry as trends.csv (or trends-Term.csv) comes first; otherwise the script asks Google the
   same two requests the Trends website makes (unofficial; Google can close that door any
@@ -119,6 +121,12 @@ def openalex(term, pins):
     return {y: h.get(y, 0) for y in years}, {y: (h.get(y, 0) / t[y] * 1_000_000 if t.get(y) else 0) for y in years}, phrase
 
 def run(term, out_path, pins):
+    # what the file held before this run: a Trends line that Google refuses to give again
+    # today is kept from there, dated, rather than lost (15-09, after a refresh dropped all six)
+    try:
+        old = json.load(open(out_path))
+    except (OSError, json.JSONDecodeError, TypeError):
+        old = {}
     series = []
     checked = []    # what the reader sees under the chart: which article, how many articles, what is missing
     curator = []    # why: the reasons, for the curator reading the file before the push
@@ -219,8 +227,8 @@ def run(term, out_path, pins):
         else:
             checked.append("YouTube: no videos found")
     else:
-        checked.append("YouTube: not counted")
-        curator.append("YouTube: no API key on this machine" if not key else "YouTube: left out by the curator")
+        # not a gap the reader needs: YouTube is a choice, not a missing source (Marieke, 15-09)
+        curator.append("YouTube: not counted, no API key on this machine" if not key else "YouTube: left out by the curator")
 
     # Google Trends, only from a CSV the curator exported by hand
     out_dir = os.path.dirname(out_path)
@@ -256,12 +264,22 @@ def run(term, out_path, pins):
                     "source": f"Google Trends, worldwide, \"{pins.get('trends', term)}\", monthly interest 0–100 averaged per year, fetched with the same requests the Trends site makes (unofficial)"
                     + (", word chosen by the curator" if "trends" in pins else ""),
                     "values": vals,
+                    "retrieved": today,
                 })
                 curator.append("Google Trends: fetched")
             else:
-                # Google did not answer: the line is simply not there (Marieke, 15-09)
-                checked.append("Google Trends: not available")
-                curator.append("Google Trends: no export beside the entry, and Google did not answer the request")
+                kept = [x for x in old.get("series", []) if x["label"].startswith("Google Trends")]
+                if kept:
+                    prev = dict(kept[0])
+                    prev["retrieved"] = prev.get("retrieved", old.get("retrieved", "earlier"))
+                    if "retrieved" not in prev["source"]:
+                        prev["source"] += f", retrieved {prev['retrieved']}"
+                    series.append(prev)
+                    curator.append(f"Google Trends: Google did not answer today, line kept from {prev['retrieved']}")
+                else:
+                    # Google did not answer and there is nothing to keep: the line is simply not there (Marieke, 15-09)
+                    checked.append("Google Trends: not available")
+                    curator.append("Google Trends: no export beside the entry, and Google did not answer the request")
 
     enough = len(series) >= 2
     data = {

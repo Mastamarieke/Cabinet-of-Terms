@@ -12,13 +12,11 @@
   2026
  ],
  "enough": true,
- "checked": [
-  "YouTube: not counted"
- ],
+ "checked": [],
  "curator": [
   "OpenAlex: 15 peer-reviewed articles since 2019",
-  "YouTube: no API key on this machine",
-  "Google Trends: fetched"
+  "YouTube: not counted, no API key on this machine",
+  "Google Trends: Google did not answer today, line kept from 2026-09-15"
  ],
  "wikipedia": {
   "en": "\"Looksmaxxing\"",
@@ -83,7 +81,7 @@
   },
   {
    "label": "Google Trends, search interest",
-   "source": "Google Trends, worldwide, \"Looksmaxxing\", monthly interest 0\u2013100 averaged per year, fetched with the same requests the Trends site makes (unofficial)",
+   "source": "Google Trends, worldwide, \"Looksmaxxing\", monthly interest 0\u2013100 averaged per year, fetched with the same requests the Trends site makes (unofficial), retrieved 2026-09-15",
    "values": {
     "2019": 0.0,
     "2020": 0.0,
@@ -93,7 +91,8 @@
     "2024": 27.333333333333332,
     "2025": 23.583333333333332,
     "2026": 59.22222222222222
-   }
+   },
+   "retrieved": "2026-09-15"
   }
  ],
  "pins": {}

@@ -14,12 +14,11 @@
  "enough": true,
  "checked": [
   "Wikipedia: no article in Dutch, German, French, Spanish",
-  "YouTube: not counted",
   "OpenAlex: left out by the curator, the word means something else in the literature"
  ],
  "curator": [
-  "YouTube: no API key on this machine",
-  "Google Trends: fetched"
+  "YouTube: not counted, no API key on this machine",
+  "Google Trends: Google did not answer today, line kept from 2026-09-15"
  ],
  "wikipedia": {
   "en": "\"Gooning\" (chosen by the curator)",
@@ -46,7 +45,7 @@
   },
   {
    "label": "Google Trends, search interest",
-   "source": "Google Trends, worldwide, \"Gooning\", monthly interest 0\u2013100 averaged per year, fetched with the same requests the Trends site makes (unofficial), word chosen by the curator",
+   "source": "Google Trends, worldwide, \"Gooning\", monthly interest 0\u2013100 averaged per year, fetched with the same requests the Trends site makes (unofficial), word chosen by the curator, retrieved 2026-09-15",
    "values": {
     "2019": 1.0,
     "2020": 1.5833333333333333,
@@ -56,7 +55,8 @@
     "2024": 43.166666666666664,
     "2025": 79.41666666666667,
     "2026": 83.88888888888889
-   }
+   },
+   "retrieved": "2026-09-15"
   }
  ],
  "pins": {

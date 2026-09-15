@@ -13,13 +13,12 @@
  ],
  "enough": true,
  "checked": [
-  "Wikipedia: no article in Dutch, German, French, Spanish",
-  "YouTube: not counted"
+  "Wikipedia: no article in Dutch, German, French, Spanish"
  ],
  "curator": [
   "OpenAlex: 507 peer-reviewed articles since 2019",
-  "YouTube: no API key on this machine",
-  "Google Trends: fetched"
+  "YouTube: not counted, no API key on this machine",
+  "Google Trends: Google did not answer today, line kept from 2026-09-15"
  ],
  "wikipedia": {
   "en": "\"Virtual influencer\"",
@@ -70,7 +69,7 @@
   },
   {
    "label": "Google Trends, search interest",
-   "source": "Google Trends, worldwide, \"Virtual Influencer\", monthly interest 0\u2013100 averaged per year, fetched with the same requests the Trends site makes (unofficial)",
+   "source": "Google Trends, worldwide, \"Virtual Influencer\", monthly interest 0\u2013100 averaged per year, fetched with the same requests the Trends site makes (unofficial), retrieved 2026-09-15",
    "values": {
     "2019": 2.4166666666666665,
     "2020": 3.5833333333333335,
@@ -80,7 +79,8 @@
     "2024": 10.083333333333334,
     "2025": 36.916666666666664,
     "2026": 73.88888888888889
-   }
+   },
+   "retrieved": "2026-09-15"
   }
  ],
  "pins": {}

@@ -13,13 +13,12 @@
  ],
  "enough": true,
  "checked": [
-  "Wikipedia: no article in Dutch, German, French, Spanish",
-  "YouTube: not counted"
+  "Wikipedia: no article in Dutch, German, French, Spanish"
  ],
  "curator": [
   "OpenAlex: 655 peer-reviewed articles since 2019",
-  "YouTube: no API key on this machine",
-  "Google Trends: fetched"
+  "YouTube: not counted, no API key on this machine",
+  "Google Trends: Google did not answer today, line kept from 2026-09-15"
  ],
  "wikipedia": {
   "en": "\"Parasocial interaction\" (via a redirect)",
@@ -70,7 +69,7 @@
   },
   {
    "label": "Google Trends, search interest",
-   "source": "Google Trends, worldwide, \"Parasocial Relationship\", monthly interest 0\u2013100 averaged per year, fetched with the same requests the Trends site makes (unofficial)",
+   "source": "Google Trends, worldwide, \"Parasocial Relationship\", monthly interest 0\u2013100 averaged per year, fetched with the same requests the Trends site makes (unofficial), retrieved 2026-09-15",
    "values": {
     "2019": 3.0,
     "2020": 5.666666666666667,
@@ -80,7 +79,8 @@
     "2024": 25.583333333333332,
     "2025": 36.833333333333336,
     "2026": 71.77777777777777
-   }
+   },
+   "retrieved": "2026-09-15"
   }
  ],
  "pins": {}

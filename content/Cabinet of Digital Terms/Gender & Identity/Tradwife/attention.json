@@ -12,13 +12,11 @@
   2026
  ],
  "enough": true,
- "checked": [
-  "YouTube: not counted"
- ],
+ "checked": [],
  "curator": [
   "OpenAlex: 43 peer-reviewed articles since 2019",
-  "YouTube: no API key on this machine",
-  "Google Trends: fetched"
+  "YouTube: not counted, no API key on this machine",
+  "Google Trends: Google did not answer today, line kept from 2026-09-15"
  ],
  "wikipedia": {
   "en": "\"Tradwife\"",
@@ -83,7 +81,7 @@
   },
   {
    "label": "Google Trends, search interest",
-   "source": "Google Trends, worldwide, \"Tradwife\", monthly interest 0\u2013100 averaged per year, fetched with the same requests the Trends site makes (unofficial)",
+   "source": "Google Trends, worldwide, \"Tradwife\", monthly interest 0\u2013100 averaged per year, fetched with the same requests the Trends site makes (unofficial), retrieved 2026-09-15",
    "values": {
     "2019": 0.75,
     "2020": 7.416666666666667,
@@ -93,7 +91,8 @@
     "2024": 49.5,
     "2025": 43.5,
     "2026": 55.666666666666664
-   }
+   },
+   "retrieved": "2026-09-15"
   }
  ],
  "pins": {}
