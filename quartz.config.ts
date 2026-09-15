@@ -71,7 +71,8 @@ const config: QuartzConfig = {
       Plugin.TableOfContents(),
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
       Plugin.Description(),
-      Plugin.Latex({ renderEngine: "katex" }),
+      // no Latex plugin: the vault has no formulas, and with it on, two dollar amounts in one
+      // paragraph ($100,000 … $35,000) were set as maths (Looksmaxxing, 15-09-2026)
     ],
     filters: [Plugin.RemoveDrafts()],
     emitters: [
