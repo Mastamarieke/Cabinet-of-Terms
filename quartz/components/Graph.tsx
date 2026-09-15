@@ -60,7 +60,7 @@ const defaultOptions: GraphOptions = {
 }
 
 export default ((opts?: Partial<GraphOptions>) => {
-  const Graph: QuartzComponent = ({ displayClass, cfg, fileData }: QuartzComponentProps) => {
+  const Graph: QuartzComponent = ({ displayClass, cfg, fileData, allFiles }: QuartzComponentProps) => {
     // One door, the same on every page, instead of an explanation under every graph.
     // One line naming what the visitor sees: the ring is the term's field, the block under it its landscape.
     const fm = fileData.frontmatter as Record<string, unknown> | undefined
@@ -73,6 +73,15 @@ export default ((opts?: Partial<GraphOptions>) => {
     const cluster = isClusterPage && typeof fm?.title === "string" ? (fm.title as string) : undefined
     const subject = term ?? cluster
     const possessive = subject ? (subject.endsWith("s") ? `${subject}'` : `${subject}'s`) : ""
+    // The drawing shows the entry's own related terms, the entries that point back at it,
+    // and — where the entry has a Sources/ folder — its literature. The heading says so.
+    const base = (fileData.slug ?? "").replace(/\/index$/, "")
+    const hasSources = allFiles.some((f) => f.slug === `${base}/Sources/index`)
+    const shown = term
+      ? hasSources
+        ? "related terms, backlinks and sources"
+        : "related terms and backlinks"
+      : "terms"
     const localGraph = { ...defaultOptions.localGraph, ...opts?.localGraph }
     const globalGraph = { ...defaultOptions.globalGraph, ...opts?.globalGraph }
     return (
@@ -82,7 +91,7 @@ export default ((opts?: Partial<GraphOptions>) => {
             <span class="graph-title-name">Semantic field</span>
             <span class="graph-title-rest">
               {" "}
-              — the map of <strong>{possessive}</strong> {term ? "related terms" : "terms"} (the graph)
+              — the map of <strong>{possessive}</strong> {shown} (the graph)
             </span>
           </h3>
         ) : (
