@@ -15,7 +15,7 @@ attention_moments:
     source: "Wikipedia, log of the title"
     url: "https://en.wikipedia.org/w/index.php?title=Special:Log&page=Gooning"
   - month: 2025-12
-    note: "The search peak (Google Trends) is not an event but a plateau: the highest days are Sundays, 21 December the top, and the months after stay near it. Gooning has become a standing search with the rhythm of a pastime. Metro's piece of 10 December, 'the hottest way to masturbate in 2026', left no mark on either count."
+    note: "The search peak (Google Trends) is not an event but a plateau: the highest days are Sundays, 21 December the top, and the months after stay near it. Gooning has become a standing search with the rhythm of a pastime. The media wave of the second week of December, when the fetish platform Clips4Sale named gooning 'Fetish of the Year' and Cosmopolitan, Metro and UNILAD passed it on (9–11 December), left no mark on the days themselves: the press wrote about the habit; it did not make it."
     source: "UNILAD, 11 December 2025"
     url: "https://www.unilad.com/news/sex-and-relationships/gooning-explained-fetish-of-the-year-357180-20251211"
 semantic_landscape: |
