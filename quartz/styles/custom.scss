@@ -100,10 +100,36 @@ ul li::marker {
   color: var(--han-red);
 }
 
-/* Quartz page link boxes */
+/* Links in running text read as text: the HAN red, a thin underline, no box. Changed
+   2026-09-16 on Marieke's request ("ik wil dat het meer als leestekst voelt"); the boxes
+   stay only where links are a list rather than a sentence: tags and the Backlinks panel. */
 a.internal,
-a.external,
-a.tag-link {
+a.external {
+  display: inline !important;
+  background: none !important;
+  border: none !important;
+  border-radius: 0 !important;
+  padding: 0 !important;
+  margin: 0 !important;
+  color: var(--han-red) !important;
+  font-weight: 500 !important;
+  text-decoration: underline !important;
+  text-decoration-color: rgba(229, 0, 86, 0.35) !important;
+  text-decoration-thickness: 1px !important;
+  text-underline-offset: 0.16em !important;
+  transition: text-decoration-color 0.2s ease, background-color 0.2s ease !important;
+}
+
+a.internal:hover,
+a.external:hover {
+  text-decoration-color: var(--han-red) !important;
+  background: var(--han-red-light) !important;
+  border-radius: 3px !important;
+}
+
+/* the boxes, where a link is an item in a list and not a word in a sentence */
+a.tag-link,
+.backlinks a.internal {
   display: inline-block !important;
   background: var(--han-red-light) !important;
   border: 1px solid var(--han-red) !important;
@@ -117,9 +143,8 @@ a.tag-link {
   transition: all 0.2s ease !important;
 }
 
-a.internal:hover,
-a.external:hover,
-a.tag-link:hover {
+a.tag-link:hover,
+.backlinks a.internal:hover {
   background: var(--han-red-hover) !important;
   border-color: var(--han-red) !important;
   transform: translateY(-2px) !important;
