@@ -42,8 +42,6 @@ semantic_landscape: |
   **Provider** is the structural counterpart that the graph positions as a co-mechanism: Tradwife and Provider are a paired set, two roles in the same transaction. Remove one, and the other loses its definition. The connection to **Highlight Reel** is equally structural: the tradwife's domestic scenes are produced content. The kitchen is a set. The submission is a format.
 
   What the graph cannot yet show — but the shirts can: the tradwife aesthetic is now a consumer product. *"Feed The Patriarchy"*, *"Feminine Not Feminist"*, *"I Love To Serve My Husband"* — sold on a regular e-commerce platform, marketed as *Cool & Funny*. The rejection of modern consumer culture is itself for sale. The node that is missing in the current graph is **Lifestyle Brand** — the point at which an ideological position becomes purchasable identity. Its absence is worth naming. Once an ideology can be worn, it no longer needs to be argued.
-
-  **Deinfluencing** stands as the only reaction node — and its solitude mirrors what we see in Looksmaxxing. The pushback is personal and aesthetic, not structural. It addresses one person's feed, not the infrastructure that makes the feed profitable.
 ---
 
 ***She bakes bread, raises children, defers to her husband — and films all of it for an audience of millions.***
