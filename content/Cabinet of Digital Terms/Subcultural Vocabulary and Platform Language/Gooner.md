@@ -7,9 +7,9 @@ version: V1
 analysis_version: pending
 attention_moments:
   - month: 2023-10
-    note: "29–30 October: 96,000 lookups in two days, of a page that then described another 'gooning', the hired removal of teenagers to treatment programmes. The readers were looking for the meme. What set it off that weekend is not documented; the meme databases date the spread to late 2022."
-    source: "Know Your Meme"
-    url: "https://knowyourmeme.com/sensitive/memes/gooning-goon-cave"
+    note: "29–30 October: 96,000 lookups in two days, of a page that then described another 'gooning', the hired removal of teenagers to treatment programmes. The readers were looking for the meme. That autumn's meme was the AI-made 'Never Goon' Minion, first posted on 12 October and reposted through October and November, but none of the documented posts is large enough for two days like these; what set it off that weekend is not found."
+    source: "Know Your Meme, Never Goon Minions"
+    url: "https://knowyourmeme.com/memes/never-goon-minions"
   - month: 2024-06
     note: "From June 2024 the title is a disambiguation page, from 25 August 2026 an article on the practice itself: the curve counts three different pages under one name. The 40,000 lookups in the first half of September 2026 fall outside the drawn months."
     source: "Wikipedia, log of the title"

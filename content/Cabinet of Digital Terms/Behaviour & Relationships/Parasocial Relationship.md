@@ -11,7 +11,9 @@ attention_moments:
     source: "Phys.org, September 2021"
     url: "https://phys.org/news/2021-09-twitter-parasocial-relationships-unhealthy.html"
   - month: 2021-11
-    note: "3 November: 8,100 lookups on one day, and 6,200 readers that month came through an external link rather than search, unlike the September wave; not identified."
+    note: "3 November: 8,100 lookups on one day, and 6,200 readers that month came through an external link rather than search, unlike the September wave. Wear Your Voice published \"Steve from 'Blue's Clues' Doesn't Know You and Other Hard Truths About Parasocial Relationships\" that day, on Steve Burns's anniversary video of September; a small magazine for a day that size, and its text carries no link to Wikipedia. Possibly the trigger; the link is not found."
+    source: "Wear Your Voice, 3 November 2021"
+    url: "https://wyvarchive.com/steve-from-blues-clues-doesnt-know-you-and-other-hard-truths-about-parasocial-relationships/"
   - month: 2025-11
     note: "18 November: Cambridge Dictionary names 'parasocial' word of the year. A modest rise (2,270 lookups against 860 on a normal day), a fraction of 2021: by then the word was common knowledge, and the curve has been falling since."
     source: "SheKnows, November 2025"
