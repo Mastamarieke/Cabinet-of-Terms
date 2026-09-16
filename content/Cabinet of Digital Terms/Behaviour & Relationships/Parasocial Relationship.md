@@ -18,6 +18,10 @@ attention_moments:
     note: "18 November: Cambridge Dictionary names 'parasocial' word of the year. A modest rise (2,270 lookups against 860 on a normal day), a fraction of 2021: by then the word was common knowledge, and the curve has been falling since."
     source: "SheKnows, November 2025"
     url: "https://www.sheknows.com/entertainment/articles/1234945571/parasocial-cambridge-dictionary-word-of-the-year/"
+  - month: 2026-06
+    note: "The search peak (Google Trends) is a plateau, not an event: 31 May the top day, then a month of days at 80 to 85, among them 17 June, when Olivia Wilde told Call Her Daddy that the backlash to her relationship with Harry Styles came from fans' parasocial bond with him. Wikipedia barely moves (685 lookups on 8 June against 514 on a normal day). The word is searched steadily now, and looked up less."
+    source: "Billboard, June 2026"
+    url: "https://www.billboard.com/music/music-news/olivia-wilde-harry-styles-romance-sweet-backlash-1236275275/"
 semantic_landscape: |
   **Parasocial Relationship** sits in **Behaviour & Relationships** as a consequence that behaves like a cause: most terms around it describe what the bond makes possible rather than what makes the bond. The revealing direction is inward — **Catfishing**, **Kidfluencer**, **Family Vlogging** and **Podcast-bro** each argue this term from their own side, as deception, as a child's audience, as a business, as a persona — while the entry itself points outward to the machinery: **Recommender Systems**, **Dopamine Feedback Loops**, **Creator Economy**.
 

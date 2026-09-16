@@ -14,6 +14,10 @@ attention_moments:
     note: "From June 2024 the title is a disambiguation page, from 25 August 2026 an article on the practice itself: the curve counts three different pages under one name. The 40,000 lookups in the first half of September 2026 fall outside the drawn months."
     source: "Wikipedia, log of the title"
     url: "https://en.wikipedia.org/w/index.php?title=Special:Log&page=Gooning"
+  - month: 2025-12
+    note: "The search peak (Google Trends) is not an event but a plateau: the highest days are Sundays, 21 December the top, and the months after stay near it. Gooning has become a standing search with the rhythm of a pastime. Metro's piece of 10 December, 'the hottest way to masturbate in 2026', left no mark on either count."
+    source: "UNILAD, 11 December 2025"
+    url: "https://www.unilad.com/news/sex-and-relationships/gooning-explained-fetish-of-the-year-357180-20251211"
 semantic_landscape: |
   **Gooner** sits at the edge of **Subcultural Vocabulary and Platform Language**, where a clinical state acquires a word and the word becomes an identity. The graph shows the compulsion from three sides — **Dopamine Feedback Loops** as its mechanism, **Brain Rot** as its effect, **Attention Economy** as the industry that keeps asking for it — with **Looksmaxxing** upstream: the same compulsive loop aimed at one's own body, which can end up here once optimising stops paying out.
 
