@@ -68,7 +68,7 @@ const GraphStory: QuartzComponent = ({ fileData, allFiles }: QuartzComponentProp
   const possessive = term.endsWith("s") ? `${term}'` : `${term}'s`
 
   return (
-    <details class="graph-story" id="semantic-landscape">
+    <details class="graph-story">
       <summary class="graph-story-header">
         <span class="graph-title-name">Semantic landscape</span>
         <span class="graph-title-rest">
