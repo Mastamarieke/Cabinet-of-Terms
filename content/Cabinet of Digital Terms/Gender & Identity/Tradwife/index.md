@@ -11,6 +11,10 @@ analysis_version: pending
 entry_image: tradwife.jpg
 entry_image_caption: "By Narrative Typographer Marieke de Vogel"
 attention_moments:
+  - month: 2020-01
+    note: "The first search peak, four years before the big one: BBC Stories' film on Alena Kate Pettitt, \"Submitting to my husband like it's 1959\", 17 January, and the reactions to it. Google Trends 23 that month against 2 the month before; Wikipedia's first readers in the same weeks. The word entered British public speech here."
+    source: "The Poke, 22 January 2020"
+    url: "https://www.thepoke.com/2020/01/22/people-werent-happy-with-bbcs-tradwife-report/"
   - month: 2024-04
     note: "Probably NPR's It's Been a Minute, \"What is a 'tradwife,' and why are they so popular?\" (Brittany Luse with Zoe Hu), released Friday 26 April: the title is the question its listeners asked Google the next day. 34,000 lookups on Saturday 27 April, three quarters of them via search, on phones; not Ballerina Farm, not Nara Smith, no link from Wikipedia itself. Not proven: a spoken word leaves no referrer."
     source: "NPR, 26 April 2024"
