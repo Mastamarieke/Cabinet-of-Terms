@@ -1,17 +1,66 @@
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
+import { resolveRelative, FullSlug } from "../util/path"
 // @ts-ignore
 import script from "./scripts/graphStory.inline"
 // @ts-ignore
 import style from "./styles/graphStory.scss"
 
-function parseBold(text: string) {
-  const parts = text.split(/\*\*([^*]+)\*\*/g)
-  return parts.map((part, i) => (i % 2 === 1 ? <strong>{part}</strong> : part))
+// The landscape is written with the terms in bold. At build time each bold name is looked up
+// among the vault's terms and clusters: a match becomes a link, the same as in the entry, so
+// that the tour can be walked; what does not match stays bold, and says by that that it is
+// not (yet) a place in the Cabinet (Lifestyle Brand, a whole sentence, a coined phrase).
+type Lookup = Map<string, string>
+
+function buildLookup(allFiles: QuartzComponentProps["allFiles"]): Lookup {
+  const map: Lookup = new Map()
+  for (const f of allFiles) {
+    const slug = f.slug ?? ""
+    if (!slug.startsWith("Cabinet-of-Digital-Terms/") || slug.includes("/Sources/")) continue
+    const parts = slug.split("/")
+    const isIndex = parts[parts.length - 1] === "index"
+    const stem = isIndex ? parts[parts.length - 2] : parts[parts.length - 1]
+    if (!stem || (isIndex && parts.length === 3)) {
+      // a cluster's About page: the cluster name links there
+      if (stem) map.set(stem.replace(/-/g, " ").replace(/\s+/g, " ").replace(/ and /g, " & ").toLowerCase(), slug)
+      continue
+    }
+    const name = (typeof f.frontmatter?.term === "string" ? (f.frontmatter.term as string) : stem.replace(/-/g, " ")).toLowerCase()
+    map.set(name, slug)
+    // "SMV (Sexual Market Value)" answers to "SMV" as well
+    const short = name.replace(/\s*\(.*\)$/, "")
+    if (short !== name && !map.has(short)) map.set(short, slug)
+  }
+  return map
 }
 
-const GraphStory: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
+// *italic* in the running text (the shirts' slogans) becomes em; the source keeps its marks
+function parseItalic(text: string) {
+  const parts = text.split(/\*([^*]+)\*/g)
+  return parts.map((part, i) => (i % 2 === 1 ? <em>{part}</em> : part))
+}
+
+function parseBold(text: string, lookup: Lookup, from: FullSlug) {
+  const parts = text.split(/\*\*([^*]+)\*\*/g)
+  return parts.map((part, i) => {
+    if (i % 2 === 0) return parseItalic(part)
+    const key = part.trim().toLowerCase()
+    const slug = lookup.get(key) ?? lookup.get(key.replace(/ and /g, " & "))
+    // the entry's own name stays bold: a link to the page you are on leads nowhere
+    if (slug && slug !== from) {
+      return (
+        <a href={resolveRelative(from, slug as FullSlug)} class="internal">
+          {part}
+        </a>
+      )
+    }
+    return <strong>{part}</strong>
+  })
+}
+
+const GraphStory: QuartzComponent = ({ fileData, allFiles }: QuartzComponentProps) => {
   const fm = fileData.frontmatter as Record<string, unknown>
   if (!fm?.term || !fm?.semantic_landscape) return null
+  const lookup = buildLookup(allFiles)
 
   const landscape = fm.semantic_landscape as string
   const term = fm.term as string
@@ -36,7 +85,7 @@ const GraphStory: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
           </svg>
         </button>
         {landscape.split("\n\n").map((para, i) => (
-          <p key={i}>{parseBold(para.trim())}</p>
+          <p key={i}>{parseBold(para.trim(), lookup, fileData.slug!)}</p>
         ))}
         <script type="text/plain" class="gs-source" dangerouslySetInnerHTML={{ __html: landscape.replace(/</g, "\\u003c") }}></script>
       </div>
