@@ -26,7 +26,22 @@ function saveLandscape(box: HTMLElement) {
   setTimeout(() => URL.revokeObjectURL(a.href), 1000)
 }
 
+// A shared link can name a panel: …/Tradwife/#attention-curve opens the curve and scrolls to
+// it; #semantic-landscape and #graph likewise. The details element opens itself, since a
+// closed one cannot be scrolled into view in any useful way.
+function openNamedPanel() {
+  const id = decodeURIComponent(location.hash.slice(1))
+  if (!["graph", "semantic-landscape", "attention-curve"].includes(id)) return
+  const el = document.getElementById(id)
+  if (!el) return
+  if (el instanceof HTMLDetailsElement) el.open = true
+  requestAnimationFrame(() => el.scrollIntoView({ behavior: "smooth", block: "start" }))
+}
+
 document.addEventListener("nav", () => {
+  openNamedPanel()
+  window.addEventListener("hashchange", openNamedPanel)
+  window.addCleanup(() => window.removeEventListener("hashchange", openNamedPanel))
   for (const btn of document.querySelectorAll<HTMLButtonElement>(".gs-save")) {
     const handler = () => saveLandscape(btn.closest(".gs-landscape") as HTMLElement)
     btn.addEventListener("click", handler)

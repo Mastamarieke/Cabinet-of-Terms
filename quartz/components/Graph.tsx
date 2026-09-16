@@ -85,7 +85,7 @@ export default ((opts?: Partial<GraphOptions>) => {
     const localGraph = { ...defaultOptions.localGraph, ...opts?.localGraph }
     const globalGraph = { ...defaultOptions.globalGraph, ...opts?.globalGraph }
     return (
-      <div class={classNames(displayClass, "graph", subject ? "graph-card" : "")}>
+      <div class={classNames(displayClass, "graph", subject ? "graph-card" : "")} id="graph">
         {subject ? (
           <h3 class="graph-title">
             <span class="graph-title-name">Semantic field</span>

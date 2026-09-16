@@ -84,7 +84,7 @@ export default (() => {
     // A term that is everywhere on the platforms and nowhere in the record says so by that.
     if (data.enough === false || data.series.length < 2) {
       return (
-        <details class="graph-story attention">
+        <details class="graph-story attention" id="attention-curve">
           <summary class="graph-story-header">
             <span class="graph-title-name">Attention curve</span>
             <span class="graph-title-rest">
@@ -209,7 +209,7 @@ export default (() => {
     }
 
     return (
-      <details class="graph-story attention">
+      <details class="graph-story attention" id="attention-curve">
         <summary class="graph-story-header">
           <span class="graph-title-name">Attention curve</span>
           <span class="graph-title-rest">
