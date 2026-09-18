@@ -198,3 +198,22 @@ An overview of the history, variants and social context of the term. Useful as a
 ### Related entries
 
 - [[Tradwife]] — definition and historical overview as background material
+
+## 10. The performance and monetization of gender stereotypes through the case of Hannah Neeleman
+
+**Author:** Filippia Founti
+**Year:** 2025
+**Type:** Master's thesis (Media and Communication Studies, two-year), supervisor Bojana Romic; 98 pages, not peer-reviewed
+**Publisher:** Malmö University, School of Arts and Communication (K3), DiVA
+**URL:** https://mau.diva-portal.org/smash/record.jsf?pid=diva2:1998859
+**Access:** open access
+
+### What this source contributes
+
+A case study of Hannah Neeleman's performance of femininity, motherhood and domesticity across Instagram and the Sunday Times, read through Goffman's dramaturgy and Hall's three reading positions. Its usable finding for the entry is the split reception: on Neeleman's own Instagram, with a self-selected audience, agreeing readings dominate; under the *Sunday Times* profile, oppositional ones. The same performance, two publics, two readings. The thesis also documents, with Google Trends, that searches for "tradwife" peaked on 21 July 2024, the day after the profile.
+
+Its bibliography led to Sykes & Hopner (2024) and Bower (2024), both now in this entry's sources.
+
+### Related entries
+
+- [[Tradwife]] — the split reception in Friction; the search peak after Agnew's profile
