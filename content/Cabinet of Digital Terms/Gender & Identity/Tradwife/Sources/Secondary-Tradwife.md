@@ -239,3 +239,24 @@ Artefact: the phenomenon as product, not a source about it. Followers, posts and
 
 - [[Tradwife]] — the performance itself; the two posts answering the label in Origin
 - [[Highlight Reel]] — the format the account works in
+
+## 12. The Rise and Fall of the Trad Wife
+
+**Author:** Sophie Elmhirst
+**Year:** 2024
+**Type:** Journalism / profile (Persons of Interest)
+**Publisher:** The New Yorker, 29 March 2024
+**URL:** https://www.newyorker.com/culture/persons-of-interest/the-rise-and-fall-of-the-trad-wife
+**Access:** metered paywall
+
+### What this source contributes
+
+The British beginning, and the arc. Alena Kate Pettitt of Cheltenham, "the O.G.", blogged as Mrs Stepford in the late 2000s, self-published *Ladies Like Us* (2016) and *English Etiquette* (2019), and became the face of the word in early 2020 when a BBC film showed her ironing her husband's shirts and explaining that she would consult him before buying a sofa; newspapers followed, and a week later the breakfast show *This Morning*. She never used the term herself; it was attached to her, and stuck. Elmhirst then follows the word out of her hands: the algorithm rewarding the dress and the apron over the jeans, the younger and more polished generation of 2022 (Estee Williams, Jasmine Dinis, Gwen Swinarton, Abby Roth), Neeleman as "the current queen", the three-click pipeline from a tradwife profile to racist memes, and Pettitt leaving Instagram in 2023. Her summary of the trajectory is the sentence the entry needed: "It's become an aesthetic, and then it's become politicized, and then it's become its own monster."
+
+For the entry this is the third reading position: neither the profile's text nor its rejection, but the insider who carries the label and negotiates her distance from it. It also dates the first search peak of the word (January 2020) to a broadcast, and shows the mechanism that the netnography of Sykes & Hopner describes from the outside: feed the algorithm or die.
+
+### Related entries
+
+- [[Tradwife]] — the British origin in Origin; the BBC moment of January 2020 in the attention curve
+- [[Highlight Reel]] — the banana bread the family could not eat until it had been photographed
+- [[Wellness-to-Alt-Right Pipeline]] — the three clicks from a tradwife profile to the memes
