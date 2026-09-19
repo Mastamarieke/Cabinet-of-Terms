@@ -1,7 +1,5 @@
 ---
 title: "Ragebaiting"
-aliases:
-  - Ragebaiting
 term: Ragebaiting
 cluster: Platform Mechanisms & Economics
 analytical_layer: mechanism

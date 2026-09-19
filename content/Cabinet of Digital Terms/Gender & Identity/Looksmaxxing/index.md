@@ -1,7 +1,5 @@
 ---
 title: "Looksmaxxing"
-aliases:
-  - Looksmaxxing
 term: Looksmaxxing
 cluster: Gender & Identity
 analytical_layer: mechanism

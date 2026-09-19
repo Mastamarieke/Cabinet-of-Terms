@@ -1,7 +1,5 @@
 ---
 title: "Recommender Systems"
-aliases:
-  - Recommender Systems
 term: Recommender Systems
 cluster: Platform Mechanisms & Economics
 analytical_layer: mechanism

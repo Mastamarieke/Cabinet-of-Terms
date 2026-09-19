@@ -1,7 +1,5 @@
 ---
 title: "Virtual Influencer"
-aliases:
-  - Virtual Influencer
 term: Virtual Influencer
 cluster: Beauty, Influencers & Self-Image
 analytical_layer: mechanism

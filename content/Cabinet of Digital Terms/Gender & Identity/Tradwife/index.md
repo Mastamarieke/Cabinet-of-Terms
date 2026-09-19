@@ -1,7 +1,5 @@
 ---
 title: "Tradwife"
-aliases:
-  - Tradwife
 term: Tradwife
 cluster: Gender & Identity
 analytical_layer: mechanism

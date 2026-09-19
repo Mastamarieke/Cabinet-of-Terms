@@ -1,7 +1,5 @@
 ---
 title: "AI-Ninja"
-aliases:
-  - AI-Ninja
 term: AI-Ninja
 cluster: AI-Specific Terms
 analytical_layer: mechanism

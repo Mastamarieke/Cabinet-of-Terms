@@ -1,7 +1,5 @@
 ---
 title: "Sigma Male"
-aliases:
-  - Sigma Male
 term: Sigma Male
 cluster: Gender & Identity
 analytical_layer: mechanism

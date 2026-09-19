@@ -1,7 +1,5 @@
 ---
 title: "Incel"
-aliases:
-  - Incel
 term: Incel
 cluster: Gender & Identity
 analytical_layer: consequence
