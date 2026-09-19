@@ -260,3 +260,23 @@ For the entry this is the third reading position: neither the profile's text nor
 - [[Tradwife]] — the British origin in Origin; the BBC moment of January 2020 in the attention curve
 - [[Highlight Reel]] — the banana bread the family could not eat until it had been photographed
 - [[Wellness-to-Alt-Right Pipeline]] — the three clicks from a tradwife profile to the memes
+
+## 13. The Darling Academy — Alena Kate Pettitt's website
+
+**Author:** Alena Kate Pettitt
+**Year:** 2016–ongoing
+**Type:** Website and blog; the phenomenon itself, British branch
+**Publisher:** self-published
+**URL:** https://www.thedarlingacademy.com/
+
+### What this source contributes
+
+The "online finishing school" Pettitt set up around her book *Ladies Like Us* (2016): long instructive articles on being a lady, on etiquette, on the home, written before the word tradwife was attached to her and kept up after. Where the Ballerina Farm account is the American, monetised, image-led version, this is the British, bookish, faith-led one that came first; reading the two side by side shows what the platforms selected for. Pettitt left Instagram in 2023 (Elmhirst 2024); the site remains her own voice.
+
+### Status
+
+Artefact: her own work, not a source about her. For what happened to her and to the word, see Elmhirst (2024), item 12.
+
+### Related entries
+
+- [[Tradwife]] — the first public face of the word, in Origin
