@@ -115,3 +115,20 @@ User study (N=150) finding that anger and fear are high-arousal emotions that ca
 
 - [[Recommender Systems]] — experimental support for the arousal mechanism
 - [[Filter Bubble]] — openness to non-preferred content as the variable under test
+
+## 7. Big Tech maakt van burgers vee
+
+**Author:** Roxane van Iperen
+**Year:** 2026
+**Type:** Journalism / essay
+**Publisher:** Vrij Nederland, 9 July 2026
+**URL:** https://www.vn.nl/op-afstand-gestuurde-mens
+
+### What this source contributes
+
+The image the entry borrows for the whole logic: feed, notification and recommendation algorithm as a virtual fence, which does not merely steer users through the available content but decides how much they consume and which territories exist for them at all. A Dutch essay rather than research; its value is the metaphor, and the fact that the argument is made for a general public in Dutch. Also cited in [[Filter Bubble]], [[Dopamine Feedback Loops]], [[Biometric Surveillance]] and [[Surveillance Capitalism]].
+
+### Related entries
+
+- [[Recommender Systems]] — the fence, in Friction
+- [[Filter Bubble]] — the same essay on the bubble as a steered environment

@@ -10,6 +10,6 @@ Source material used in the analysis of [[Recommender Systems]].
 - [[Bail-2023|Bail et al. (2023)]] — exposure to opposing views increases polarisation; emotional response as engagement signal
 
 **Secondary:**
-- [[Secondary-RecommenderSystems|Tufekci (2019) · Tufekci (2018) · Ledwich & Zaitsev (2019) · Brady et al. (2017) · Kang et al. (2025) · Hope, Fear, or Anger? (2023)]] — journalism, the dissenting reading, emotion research, and theoretical frames
+- [[Secondary-RecommenderSystems|Tufekci (2019) · Tufekci (2018) · Ledwich & Zaitsev (2019) · Brady et al. (2017) · Kang et al. (2025) · Hope, Fear, or Anger? (2023) · Van Iperen (2026)]] — journalism, the dissenting reading, emotion research, theoretical frames, and a Dutch essay
 
 **Entries covered:** [[Recommender Systems]] · [[Filter Bubble]] · [[Echo Chamber]] · [[Ragebaiting]]
