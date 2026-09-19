@@ -34,6 +34,7 @@ The first substantial journalistic exploration of the tradwife movement as part 
 **Type:** Journalism / long-form profile
 **Publisher:** The Sunday Times Magazine
 **URL:** https://www.thetimes.com/magazines/the-sunday-times-magazine/article/meet-the-queen-of-the-trad-wives-and-her-eight-children-plfr50cgk
+**Published:** 20 July 2024
 **Access:** paywalled
 
 ### What this source contributes
@@ -217,3 +218,24 @@ Its bibliography led to Sykes & Hopner (2024) and Bower (2024), both now in this
 ### Related entries
 
 - [[Tradwife]] — the split reception in Friction; the search peak after Agnew's profile
+
+## 11. Ballerina Farm — the Instagram account
+
+**Author:** Hannah Neeleman
+**Year:** 2017–ongoing
+**Type:** Instagram account; the phenomenon itself
+**Publisher:** Instagram
+**URL:** https://www.instagram.com/ballerinafarm/
+
+### What this source contributes
+
+The primary material every other source here reads: the farm, the eight children, the sourdough, the pageant, the two posts that answered the tradwife label after Agnew's profile. It is also the public that Founti (2025) contrasts with the newspaper's: a self-selected audience of millions in which agreeing readings dominate, where the same performance under the *Sunday Times* headline drew the oppositional ones. To be read as a text, not as a source of facts about the family: what it shows is what it chooses to show.
+
+### Status
+
+Artefact: the phenomenon as product, not a source about it. Followers, posts and captions change; the account may not look tomorrow as it does today, and no snapshot is kept here.
+
+### Related entries
+
+- [[Tradwife]] — the performance itself; the two posts answering the label in Origin
+- [[Highlight Reel]] — the format the account works in

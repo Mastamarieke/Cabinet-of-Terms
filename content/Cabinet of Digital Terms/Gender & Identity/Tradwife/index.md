@@ -24,7 +24,7 @@ attention_moments:
     source: "Newsweek, May 2024"
     url: "https://www.newsweek.com/republican-influencer-calls-out-tradwive-lifestyle-2070036"
   - month: 2024-07
-    note: "Megan Agnew's profile of Hannah Neeleman (Ballerina Farm) in the Sunday Times Magazine, 27 July: a spike in Google searches, a modest rise on Wikipedia. The word had left the subculture three months earlier."
+    note: "Megan Agnew's profile of Hannah Neeleman (Ballerina Farm) in the Sunday Times Magazine, 20 July: Google searches peak the next day (Founti 2025); Wikipedia follows a week later, 7,700 lookups on 27 July against 2,000, once the reactions spread (Jezebel, 24 July). The word had left the subculture three months earlier."
     source: "[[Secondary-Tradwife|Agnew (2024)]]"
   - month: 2024-10
     note: "Saturday Night Live's tradwife sketch, 19 October: no trace on Wikipedia. By then the word needed no looking up."
@@ -74,6 +74,6 @@ The term reached general use through a single article. In July 2024 the *Sunday 
 - [[Sykes-Tradwife-2024|Sykes, S. & Hopner, V. (2024)]] — [Tradwives: Right-Wing Social Media Influencers](https://doi.org/10.1177/08912416241246273). *Journal of Contemporary Ethnography*
 
 *Secondary:*
-- [[Secondary-Tradwife|Kelly (2018) · Agnew (2024) · Ashcraft (2024) · Bower (2024) · Ging (2019) · Founti (2025) · UvA (2024) · Parents (2024) · Vogue (2024) · Wikipedia]] — journalism, a master's thesis, the manosphere frame, and public commentary
+- [[Secondary-Tradwife|Kelly (2018) · Agnew (2024) · Ashcraft (2024) · Bower (2024) · Ging (2019) · Founti (2025) · UvA (2024) · Parents (2024) · Vogue (2024) · Wikipedia · Ballerina Farm (Instagram)]] — journalism, a master's thesis, the manosphere frame, public commentary, and the account itself
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>
