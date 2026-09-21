@@ -1,0 +1,26 @@
+  :root { font-size: 20px; }
+  html, body { background: #faf8f8; margin: 0; overflow: hidden; height: 100%; }
+  * { box-sizing: border-box; }
+  .page-header, .left.sidebar, .right.sidebar, .search, .explorer, .backlinks, .darkmode, footer, .ai-attribution, .attention-shot, .gs-save { display: none !important; }
+  #quartz-body { display: block !important; max-width: none !important; margin: 0 !important; padding: 0 !important; }
+  .center { max-width: none !important; width: 100% !important; margin: 0 !important; padding: 0 !important; }
+  .kiosk-bar { display: flex; justify-content: space-between; align-items: baseline; padding: 18px 44px 0; }
+  .kiosk-bar h1 { font-family: "Barlow Condensed", Helvetica, Arial, sans-serif; font-size: 2.4rem; letter-spacing: .04em; text-transform: uppercase; color: #E50056; margin: 0; }
+  .kiosk-bar .home { font-family: "Barlow Condensed", Helvetica, Arial, sans-serif; text-transform: uppercase; letter-spacing: .08em; color: #4e4e4e; font-size: 0.85rem; }
+  .kiosk-bar .home::before { content: "◀ "; }
+  .kiosk-top { display: grid; grid-template-columns: 430px 1fr; gap: 36px; padding: 14px 44px 0; align-items: start; }
+  .kiosk-left img { width: 100%; max-height: 330px; object-fit: contain; background: #fff; border-radius: 10px; display: block; }
+  .kiosk-left small { display: block; margin-top: 6px; color: #8f8f8f; font-size: 0.65rem; }
+  .kiosk-left blockquote { margin: 12px 0 0; padding: 12px 18px; border-left: 6px solid #E50056; background: rgba(229,0,86,0.06); font-size: 0.95rem; line-height: 1.35; font-weight: 600; color: #2b2b2b; }
+  .graph.graph-card { margin: 0 !important; }
+  .graph-outer { height: 520px !important; }
+  .kiosk-bottom { display: grid; grid-template-columns: 1fr 1fr; gap: 36px; padding: 16px 44px 0; }
+  .graph-story { margin: 0 !important; font-size: 0.72rem !important; }
+  .graph-story-header { pointer-events: none; }
+  .gs-landscape { max-height: 280px !important; font-size: 0.88rem; line-height: 1.5; }
+  .attention-body { font-size: 0.85rem; }
+  .attention-note { display: none !important; }
+  .attention-moments { display: none !important; }
+  .kiosk-foot { position: fixed; bottom: 0; left: 0; right: 0; display: flex; justify-content: space-between; align-items: center; padding: 8px 44px; background: #fff; border-top: 1px solid #e5e5e5; font-size: 0.7rem; color: #4e4e4e; }
+  .kiosk-foot .qr { width: 56px; height: 56px; border: 2px solid #2b2b2b; border-radius: 4px; display: grid; place-items: center; font-size: 0.5rem; }
+  article > *:not(.kiosk-keep) { display: none !important; }
