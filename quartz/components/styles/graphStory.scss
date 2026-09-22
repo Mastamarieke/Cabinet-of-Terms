@@ -45,8 +45,10 @@
   overflow-y: auto;
 }
 
-// the same small button as the camera on the graph and the curve, here a download arrow
-.gs-save {
+// the same small button as the camera on the graph and the curve, here a download arrow,
+// and beside it the speaker that reads the tour
+.gs-save,
+.gs-speak {
   position: absolute;
   top: 0.5em;
   right: 0.6em;
@@ -69,6 +71,15 @@
   svg {
     width: 100%;
     height: 100%;
+  }
+}
+
+.gs-speak {
+  right: 2.9em;
+  &.is-playing {
+    opacity: 1;
+    color: var(--han-red);
+    border-color: var(--han-red);
   }
 }
 

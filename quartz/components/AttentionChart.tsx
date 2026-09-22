@@ -206,6 +206,7 @@ export default (() => {
       })),
       years,
       moments: moments.map((m) => ({ i: m.i, n: m.n, note: m.note })),
+      term,
     }
 
     return (
@@ -218,6 +219,18 @@ export default (() => {
           </span>
         </summary>
         <div class="attention-body" data-term={term}>
+          <button type="button" class="attention-play" aria-label="Read the moments aloud, in order" title="Read the moments aloud (or tap a numbered mark for one)">
+            <svg viewBox="0 0 24 24" fill="currentColor" stroke="none">
+              <path d="M7 5.5v13l11-6.5z" />
+            </svg>
+          </button>
+          <button type="button" class="attention-loupe" aria-label="Enlarge this curve" title="Enlarge">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+              <circle cx="11" cy="11" r="6.5" />
+              <path d="M20 20l-4.2-4.2" />
+              <path d="M11 8.5v5M8.5 11h5" />
+            </svg>
+          </button>
           <button type="button" class="attention-shot" aria-label="Save this chart as an image" title="Save as image">
             <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
               <path d="M4 8h3l1.5-2h7L17 8h3v11H4z" />
@@ -299,7 +312,7 @@ export default (() => {
             <ol class="attention-moments">
               {moments.map((m) => (
                 <li data-moment={m.n}>
-                  <b>{m.n}</b> <span class="attention-moment-month">{monthName(m.month)}</span> {m.note}
+                  <b class="attention-moment-nr" title="Read this moment aloud">{m.n}</b> <span class="attention-moment-month">{monthName(m.month)}</span> {m.note}
                   {m.sourceText && (
                     <>
                       {" "}
@@ -333,6 +346,18 @@ export default (() => {
               <span class="attention-source">Not drawn: {data.checked.join("; ")}.</span>
             )}
           </p>
+        </div>
+        <div class="attention-overlay" aria-hidden="true">
+          <div class="attention-overlay-card">
+            <div class="attention-overlay-head">
+              <span class="graph-title-name">Attention curve</span>
+              <span class="graph-title-rest">
+                {" "}
+                — the rise and fall of the term <strong>{term}</strong>
+              </span>
+              <button type="button" class="attention-overlay-close" aria-label="Close">×</button>
+            </div>
+          </div>
         </div>
       </details>
     )

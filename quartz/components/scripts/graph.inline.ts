@@ -2198,6 +2198,16 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
 
   shotButton?.addEventListener("click", saveGraphImage)
 
+  // The landscape read aloud (graphStory.inline.ts) names the term it is speaking; the node
+  // comes forward as under the pointer, and steps back when the voice moves on.
+  const onSpoken = (e: Event) => {
+    const id = ((e as CustomEvent).detail?.id as string | null) ?? null
+    if (dragging) return
+    updateHoverInfo(id !== null && graphData.nodes.some((n) => n.id === id) ? id : null)
+    renderPixiFromD3()
+  }
+  document.addEventListener("graph-speak", onSpoken)
+
   readStoredControls()
   if (controlsEl) {
     syncControlInputs()
@@ -2214,6 +2224,7 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     controlsEl?.removeEventListener("input", onControlInput)
     resetButton?.removeEventListener("click", onControlReset)
     shotButton?.removeEventListener("click", saveGraphImage)
+    document.removeEventListener("graph-speak", onSpoken)
     app.destroy()
   }
 }

@@ -68,13 +68,30 @@ The name is deliberate. Where conventional analysis dissects a concept — break
 
 Applied to language, cartographic prompting treats each term as a node in a network of power, history, and meaning. Each analysis asks: where did this word come from? Who introduced it, and why? What does it make visible — and what does it conceal? Who benefits from its circulation? What happens to people who encounter it without knowing what it does?
 
-The method uses large language models — Claude (Anthropic), ChatGPT (OpenAI), and Lumo — as analytical partners, guided by a structured prompt. The prompt specifies the analytical layers: etymology, genealogy, power structures, ethical dimensions, labour implications, and societal impact. The model generates a draft. The researcher edits, challenges, redirects, and selects.
+The method uses large language models — Claude (Anthropic), ChatGPT (OpenAI), and Lumo — as directed assistants. The structured prompt specifies the analytical layers: etymology, genealogy, power structures, ethical dimensions, labour implications, and societal impact. The model generates a draft. The researcher edits, challenges, redirects, and selects.
 
 This is not AI-generated content in the sense of automated output. It is a collaborative analytical practice in which the model provides generative capacity and the researcher provides judgment. The distinction matters — and it is part of what this vault is about.
 
 Two instruments guide the practice: `CLAUDE.md` maintains the vault — indexes, counts, link integrity, retroactive updates — while `Doctor Alert.md` positions each term: which cluster it belongs to, which existing terms it connects to, and why. Maintenance and positioning are deliberately kept separate, so consistency is checked apart from analytical judgment.
 
-A handful of entries — **Sigma Male**, **Looksmaxxing**, **Tradwife**, **Ragebaiting**, **Recommender Systems**, **Virtual Influencer** — carry the method furthest as working prototypes: each has its own Sources folder distinguishing primary from secondary literature, a Narrative Typography image, and a semantic landscape. In the graph, a **Sources** toggle, a **Cluster** toggle, and a **Backlinks** toggle let you reveal or hide that evidentiary layer, a term's cluster-siblings, and its incoming links on demand — the map stays legible at whatever depth you want to read it.
+Some entries carry the method further than others. Four layers can be added to an entry, and they have grown at their own pace, so the groups do not coincide:
+
+| Entry | Sources folder | Semantic landscape | Attention curve | Narrative Typography |
+|---|---|---|---|---|
+| **Tradwife** | ✓ | ✓ | ✓ (4 sources) | ✓ |
+| **Looksmaxxing** | ✓ | ✓ | ✓ (4 sources) | ✓ |
+| **Sigma Male** | ✓ | ✓ | ✓ (2 sources) | ✓ |
+| **Virtual Influencer** | ✓ | ✓ | ✓ (3 sources) | |
+| **Gooner** | | ✓ | ✓ (2 sources) | |
+| **Parasocial Relationship** | | ✓ | ✓ (3 sources) | |
+| **Ragebaiting** | ✓ | | | |
+| **Recommender Systems** | ✓ | | | |
+| **Incel** | ✓ | | | |
+| **AI-Ninja** | ✓ | | | |
+
+The **Sources folder** separates primary from secondary literature and gives every source its own page. The **semantic landscape** is the written account of where a term sits and why, in prose rather than in lines. The **attention curve** is the one layer that is counted rather than curated: page views and search interest by month, with peer-reviewed publications by year, which is why it is named an attention curve and not a semantic one. **Narrative Typography** is the term drawn as an image by a designer.
+
+In the graph, a **Sources** toggle, a **Cluster** toggle, and a **Backlinks** toggle let you reveal or hide that evidentiary layer, a term's cluster-siblings, and its incoming links on demand — the map stays legible at whatever depth you want to read it.
 
 The project began with long-form, eight-section analyses under the name **Media Cartografie**. Cartographic prompting is its operationalisation for the public vault: a way of using AI not to generate answers, but to make the hidden visible.
 

@@ -173,7 +173,11 @@ type Readout = {
   years: number[]
   series: { label: string; colour: string; yearly: boolean; unit: string; values: number[] }[]
   moments: { i: number; n: number; note: string }[]
+  term?: string
 }
+// what the player needs from the pointer: the month shown by index, and the pointer held
+// still while the curve plays itself
+type PointerApi = { showIndex: (i: number) => void; hide: () => void; lock: (on: boolean) => void }
 const MONTHS = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]
 const monthName = (ym: string) => `${MONTHS[Number(ym.slice(5, 7)) - 1]} ${ym.slice(0, 4)}`
 const figure = (v: number, unit: string) => {
@@ -212,10 +216,8 @@ function pointer(body: HTMLElement) {
       el.classList.toggle("is-active", nr !== null && el.getAttribute("data-moment") === String(nr))
     }
   }
-  const show = (clientX: number, clientY: number) => {
-    const rect = svg.getBoundingClientRect()
-    const xv = ((clientX - rect.left) / rect.width) * W
-    const i = Math.max(0, Math.min(n - 1, Math.round(((xv - L) / (W - L - R)) * (n - 1))))
+  let locked = false
+  const showAt = (i: number, clientX: number, clientY: number) => {
     const xi = L + (i * (W - L - R)) / (n - 1)
     cursor.setAttribute("x1", xi.toFixed(1))
     cursor.setAttribute("x2", xi.toFixed(1))
@@ -240,27 +242,52 @@ function pointer(body: HTMLElement) {
     box.style.left = `${Math.max(0, left)}px`
     box.style.top = `${Math.max(0, py - 12)}px`
   }
+  const show = (clientX: number, clientY: number) => {
+    const rect = svg.getBoundingClientRect()
+    const xv = ((clientX - rect.left) / rect.width) * W
+    const i = Math.max(0, Math.min(n - 1, Math.round(((xv - L) / (W - L - R)) * (n - 1))))
+    showAt(i, clientX, clientY)
+  }
+  // the player's playhead: the same card, placed by the month rather than by the mouse
+  const showIndex = (i: number) => {
+    const rect = svg.getBoundingClientRect()
+    const x = rect.left + ((L + (i * (W - L - R)) / (n - 1)) / W) * rect.width
+    showAt(i, x, rect.top + rect.height * 0.3)
+  }
   const hide = () => {
     box.hidden = true
     cursor.setAttribute("visibility", "hidden")
     activate(null)
   }
-  const onMove = (e: MouseEvent) => show(e.clientX, e.clientY)
+  const onMove = (e: MouseEvent) => {
+    if (!locked) show(e.clientX, e.clientY)
+  }
+  const onLeave = () => {
+    if (!locked) hide()
+  }
   const onTouch = (e: TouchEvent) => {
     const t = e.touches[0]
-    if (t) show(t.clientX, t.clientY)
+    if (t && !locked) show(t.clientX, t.clientY)
   }
   const onDocTouch = (e: TouchEvent) => {
-    if (!body.contains(e.target as Node)) hide()
+    if (!locked && !body.contains(e.target as Node)) hide()
+  }
+  ;(body as unknown as { __attention?: PointerApi }).__attention = {
+    showIndex,
+    hide,
+    lock: (on: boolean) => {
+      locked = on
+      if (!on) hide()
+    },
   }
   svg.addEventListener("mousemove", onMove)
-  svg.addEventListener("mouseleave", hide)
+  svg.addEventListener("mouseleave", onLeave)
   svg.addEventListener("touchstart", onTouch, { passive: true })
   svg.addEventListener("touchmove", onTouch, { passive: true })
   document.addEventListener("touchstart", onDocTouch, { passive: true })
   window.addCleanup(() => {
     svg.removeEventListener("mousemove", onMove)
-    svg.removeEventListener("mouseleave", hide)
+    svg.removeEventListener("mouseleave", onLeave)
     svg.removeEventListener("touchstart", onTouch)
     svg.removeEventListener("touchmove", onTouch)
     document.removeEventListener("touchstart", onDocTouch)
@@ -270,8 +297,12 @@ function pointer(body: HTMLElement) {
   // the list and the marks light each other up
   for (const li of body.querySelectorAll<HTMLElement>(".attention-moments li[data-moment]")) {
     const nr = Number(li.dataset.moment)
-    const enter = () => activate(nr)
-    const leave = () => activate(null)
+    const enter = () => {
+      if (!locked) activate(nr)
+    }
+    const leave = () => {
+      if (!locked) activate(null)
+    }
     li.addEventListener("mouseenter", enter)
     li.addEventListener("mouseleave", leave)
     window.addCleanup(() => {
@@ -279,13 +310,183 @@ function pointer(body: HTMLElement) {
       li.removeEventListener("mouseleave", leave)
     })
   }
+  // a tap on a mark, or on the number in the list, reads that moment aloud
+  for (const mark of body.querySelectorAll<SVGGElement>("svg .attention-moment[data-moment]")) {
+    const nr = Number(mark.getAttribute("data-moment"))
+    const tap = (e: Event) => {
+      e.stopPropagation()
+      toggleRead(body, nr)
+    }
+    mark.addEventListener("click", tap)
+    window.addCleanup(() => mark.removeEventListener("click", tap))
+  }
+  for (const num of body.querySelectorAll<HTMLElement>(".attention-moments li[data-moment] .attention-moment-nr")) {
+    const li = num.closest<HTMLElement>("li[data-moment]")
+    if (!li) continue
+    const nr = Number(li.dataset.moment)
+    const tap = () => toggleRead(body, nr)
+    num.addEventListener("click", tap)
+    window.addCleanup(() => num.removeEventListener("click", tap))
+  }
+}
+
+// The moments read aloud. A tap on a numbered mark on the curve, or on its number in the list,
+// says that moment: the card jumps to the month, mark and line light up, the voice reads the
+// note. The play button reads them all, in order, after one sentence that names the curve.
+// No music. The first version of 21-09 made the curve sound as it played (Web Audio, one
+// voice per series, a bell per moment); Marieke's verdict was "niks", and the sound of the
+// curve stays where it was, in the archive file in docs/geluid/. This is the reading.
+type Player = { stop: () => void; only: number }
+type Playing = { __player?: Player; __attention?: PointerApi }
+
+const SQUARE = '<svg viewBox="0 0 24 24" fill="currentColor" stroke="none"><rect x="6" y="6" width="12" height="12" rx="1.5"/></svg>'
+const sleep = (ms: number) => new Promise<void>((r) => setTimeout(r, ms))
+
+function readMoments(body: HTMLElement, only = 0): Player | null {
+  const holder = body as unknown as Playing
+  const api = holder.__attention
+  const dataEl = body.querySelector<HTMLScriptElement>("script.attention-data")
+  const voice = window.cabinetVoice
+  if (!api || !dataEl || !voice?.supported) return null
+  let data: Readout
+  try {
+    data = JSON.parse(dataEl.textContent ?? "")
+  } catch {
+    return null
+  }
+  const list = only ? data.moments.filter((m) => m.n === only) : data.moments
+  if (list.length === 0) return null
+  const term = data.term ?? body.dataset.term ?? "the term"
+  const btn = body.querySelector<HTMLButtonElement>(":scope > .attention-play")
+  const playIcon = btn?.innerHTML ?? ""
+  if (btn) {
+    btn.classList.add("is-playing")
+    btn.innerHTML = SQUARE
+  }
+  api.lock(true)
+
+  let stopped = false
+  const stop = () => {
+    if (stopped) return
+    stopped = true
+    document.removeEventListener("voice-stop", onVoiceStop)
+    api.lock(false)
+    if (btn) {
+      btn.classList.remove("is-playing")
+      btn.innerHTML = playIcon
+    }
+    if (holder.__player?.only === only) holder.__player = undefined
+    voice.release()
+  }
+  const onVoiceStop = () => stop()
+  document.addEventListener("voice-stop", onVoiceStop)
+  const player = { stop, only }
+  holder.__player = player
+
+  void (async () => {
+    const label = `Attention curve of ${term}`
+    voice.hold(label)
+    if (!only) {
+      const first = monthName(data.months[0])
+      const last = monthName(data.months[data.months.length - 1])
+      const r = await voice.speak(`${term}. Attention curve, ${first} to ${last}, ${list.length} moments.`, { label })
+      if (r.cancelled || stopped) return stop()
+      await sleep(400)
+    }
+    for (const m of list) {
+      if (stopped) return
+      api.showIndex(m.i)
+      const month = monthName(data.months[m.i])
+      const r = await voice.speak(`Moment ${m.n}, ${month}. ${m.note}`, { label: `${term}, moment ${m.n}: ${month}` })
+      if (r.cancelled || stopped) return stop()
+      if (!only) await sleep(700)
+    }
+    stop()
+  })()
+  return player
+}
+
+// The play button toggles the whole reading; a mark toggles its own moment, and switches
+// from whatever was being read to that one.
+function toggleRead(body: HTMLElement, only = 0) {
+  const holder = body as unknown as Playing
+  const running = holder.__player
+  if (running) {
+    const same = running.only === only
+    running.stop()
+    window.cabinetVoice?.stop()
+    if (same || !only) return
+  }
+  readMoments(body, only)
+}
+
+// The loupe: the whole block again, as large as the window allows, in an overlay. The copy is
+// live: the pointer reads it out, the camera works, the moments light up. Closes on ×, on a
+// click beside the card, or on Escape.
+function loupe(details: HTMLElement) {
+  const body = details.querySelector<HTMLElement>(":scope > .attention-body")
+  const overlay = details.querySelector<HTMLElement>(":scope > .attention-overlay")
+  const card = overlay?.querySelector<HTMLElement>(".attention-overlay-card")
+  const btn = body?.querySelector<HTMLButtonElement>(".attention-loupe")
+  if (!body || !overlay || !card || !btn) return
+  let copy: HTMLElement | null = null
+  const close = () => {
+    ;(copy as unknown as Playing | null)?.__player?.stop()
+    overlay.classList.remove("active")
+    overlay.setAttribute("aria-hidden", "true")
+    copy?.remove()
+    copy = null
+    document.body.style.overflow = ""
+  }
+  const open = () => {
+    if (copy) return
+    copy = body.cloneNode(true) as HTMLElement
+    copy.querySelector(".attention-loupe")?.remove()
+    copy.querySelector(".attention-readout")?.replaceChildren()
+    copy.querySelector("line.attention-cursor")?.remove()
+    card.appendChild(copy)
+    overlay.classList.add("active")
+    overlay.setAttribute("aria-hidden", "false")
+    document.body.style.overflow = "hidden"
+    pointer(copy)
+    const shot = copy.querySelector<HTMLButtonElement>(".attention-shot")
+    shot?.addEventListener("click", () => shoot(copy as HTMLElement))
+    const play = copy.querySelector<HTMLButtonElement>(".attention-play")
+    play?.addEventListener("click", () => toggleRead(copy as HTMLElement))
+  }
+  btn.addEventListener("click", open)
+  overlay.querySelector(".attention-overlay-close")?.addEventListener("click", close)
+  const onBackdrop = (e: MouseEvent) => {
+    if (e.target === overlay) close()
+  }
+  const onKey = (e: KeyboardEvent) => {
+    if (e.key === "Escape" && overlay.classList.contains("active")) close()
+  }
+  overlay.addEventListener("click", onBackdrop)
+  document.addEventListener("keydown", onKey)
+  window.addCleanup(() => {
+    btn.removeEventListener("click", open)
+    overlay.removeEventListener("click", onBackdrop)
+    document.removeEventListener("keydown", onKey)
+    close()
+  })
 }
 
 document.addEventListener("nav", () => {
-  for (const btn of document.querySelectorAll<HTMLButtonElement>(".attention-shot")) {
+  for (const d of document.querySelectorAll<HTMLElement>("details.attention")) loupe(d)
+  for (const btn of document.querySelectorAll<HTMLButtonElement>("details.attention > .attention-body > .attention-shot")) {
     const handler = () => shoot(btn.closest(".attention-body") as HTMLElement)
     btn.addEventListener("click", handler)
     window.addCleanup(() => btn.removeEventListener("click", handler))
   }
-  for (const body of document.querySelectorAll<HTMLElement>(".attention-body")) pointer(body)
+  for (const body of document.querySelectorAll<HTMLElement>("details.attention > .attention-body")) pointer(body)
+  for (const btn of document.querySelectorAll<HTMLButtonElement>("details.attention > .attention-body > .attention-play")) {
+    const body = btn.closest(".attention-body") as HTMLElement
+    const handler = () => toggleRead(body)
+    btn.addEventListener("click", handler)
+    window.addCleanup(() => {
+      btn.removeEventListener("click", handler)
+      ;(body as unknown as Playing).__player?.stop()
+    })
+  }
 })

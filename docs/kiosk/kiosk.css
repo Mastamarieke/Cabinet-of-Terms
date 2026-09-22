@@ -24,3 +24,4 @@
   .kiosk-foot { position: fixed; bottom: 0; left: 0; right: 0; display: flex; justify-content: space-between; align-items: center; padding: 8px 44px; background: #fff; border-top: 1px solid #e5e5e5; font-size: 0.7rem; color: #4e4e4e; }
   .kiosk-foot .qr { width: 56px; height: 56px; border: 2px solid #2b2b2b; border-radius: 4px; display: grid; place-items: center; font-size: 0.5rem; }
   article > *:not(.kiosk-keep) { display: none !important; }
+  .kiosk-bar .listen { font-family: "Barlow Condensed", Helvetica, Arial, sans-serif; text-transform: uppercase; letter-spacing: .06em; color: #E50056; font-size: 0.8rem; display: inline-flex; align-items: center; gap: 12px; }

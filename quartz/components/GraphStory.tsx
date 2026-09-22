@@ -1,5 +1,5 @@
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
-import { resolveRelative, FullSlug } from "../util/path"
+import { resolveRelative, simplifySlug, FullSlug } from "../util/path"
 // @ts-ignore
 import script from "./scripts/graphStory.inline"
 // @ts-ignore
@@ -48,7 +48,7 @@ function parseBold(text: string, lookup: Lookup, from: FullSlug) {
     // the entry's own name stays bold: a link to the page you are on leads nowhere
     if (slug && slug !== from) {
       return (
-        <a href={resolveRelative(from, slug as FullSlug)} class="internal">
+        <a href={resolveRelative(from, slug as FullSlug)} class="internal" data-slug={simplifySlug(slug as FullSlug)}>
           {part}
         </a>
       )
@@ -77,6 +77,13 @@ const GraphStory: QuartzComponent = ({ fileData, allFiles }: QuartzComponentProp
         </span>
       </summary>
       <div class="gs-landscape" data-term={term} data-cluster={cluster}>
+        <button type="button" class="gs-speak" aria-label="Read this landscape aloud" title="Read aloud">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M4 9.5v5h3.5L12 18.5v-13L7.5 9.5z" />
+            <path d="M15.5 9a4 4 0 0 1 0 6" />
+            <path d="M18 6.5a7.5 7.5 0 0 1 0 11" />
+          </svg>
+        </button>
         <button type="button" class="gs-save" aria-label="Save this landscape as a text file" title="Save as text">
           <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
             <path d="M12 4v11" />

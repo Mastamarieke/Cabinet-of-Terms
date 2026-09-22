@@ -13,3 +13,7 @@ Tradwife, januari 2019 tot augustus 2026, 92 maanden in 30 seconden.
 - **Het forum** (nog niet in de tekening, wel hier als proef): een ruis die vanaf 2021 langzaam dikker wordt en nooit piekt; gebruik, geen aandacht.
 
 Gemaakt met een Python-script zonder bibliotheken (sinusvormen, per sample), omgezet met `afconvert`. Het script staat in de log van 21-09.
+
+## Versie 2 (21-09, avond) — geprobeerd en weer weggehaald
+
+Mariekes oordeel over het bestand hierboven: "een beetje flauw". Een tweede versie maakte het geluid live in de browser (Web Audio: pentatonische ladder, orgel/driehoek/riet, tik per maand, lage puls per jaar, buisklok bij een moment, galm, logaritmische luidheid, het jaartal gesproken bij elke januari), achter een afspeelknop op de curve. Haar oordeel: "dat geluid bij de curve is niks". Weggehaald, dezelfde avond. Wat bleef is de stem: de zes punten op de curve zijn aan te tikken en worden dan voorgelezen (kaart springt naar de maand, punt en regel lichten op), en de afspeelknop leest ze alle zes op volgorde. Zie CLAUDE.md, "De stem". Het m4a hierboven blijft staan als eerste proef.

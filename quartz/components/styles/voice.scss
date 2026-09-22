@@ -1,0 +1,133 @@
+// the reading bar: at the foot of the window while something is read aloud
+.voice-bar {
+  position: fixed;
+  left: 50%;
+  bottom: 1.1em;
+  transform: translateX(-50%);
+  z-index: 10000;
+  display: flex;
+  align-items: center;
+  gap: 0.7em;
+  max-width: min(92vw, 720px);
+  padding: 0.45em 0.8em 0.45em 0.55em;
+  background: var(--light);
+  border: 1px solid var(--lightgray);
+  border-radius: 8px;
+  box-shadow: 0 6px 24px rgba(0, 0, 0, 0.14);
+  font-family: "Barlow Condensed", var(--headerFont), sans-serif;
+  font-size: 0.85rem;
+  color: var(--darkgray);
+
+  &[hidden] {
+    display: none;
+  }
+
+  .voice-stop {
+    flex: 0 0 auto;
+    width: 30px;
+    height: 30px;
+    padding: 0.35rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: var(--han-red);
+    border: 0;
+    border-radius: 6px;
+    color: #fff;
+    cursor: pointer;
+    svg {
+      width: 100%;
+      height: 100%;
+    }
+    &:hover {
+      filter: brightness(1.1);
+    }
+  }
+
+  .voice-label {
+    flex: 0 0 auto;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    font-weight: 700;
+    color: var(--han-red);
+  }
+
+  .voice-now {
+    flex: 1 1 auto;
+    min-width: 0;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+
+  .voice-choice {
+    flex: 0 0 auto;
+    display: flex;
+    align-items: center;
+    gap: 0.4em;
+    span {
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+      font-size: 0.8em;
+      color: var(--gray);
+    }
+    select {
+      max-width: 200px;
+      font: inherit;
+      font-size: 0.9em;
+      padding: 0.15em 0.3em;
+      background: var(--light);
+      color: var(--darkgray);
+      border: 1px solid var(--lightgray);
+      border-radius: 5px;
+    }
+  }
+}
+
+// the speaker beside the definition
+blockquote.has-voice {
+  position: relative;
+  padding-right: 2.6em;
+}
+.voice-def {
+  position: absolute;
+  top: 0.35em;
+  right: 0.5em;
+  width: 28px;
+  height: 28px;
+  padding: 0.3rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--light);
+  border: 1px solid var(--lightgray);
+  border-radius: 6px;
+  color: var(--darkgray);
+  cursor: pointer;
+  opacity: 0.7;
+  &:hover {
+    opacity: 1;
+    background: var(--lightgray);
+  }
+  svg {
+    width: 100%;
+    height: 100%;
+  }
+}
+blockquote.is-spoken {
+  border-left-color: var(--han-red);
+  .voice-def {
+    opacity: 1;
+    color: var(--han-red);
+    border-color: var(--han-red);
+  }
+}
+
+// the term being spoken in the landscape
+// (the link rules in custom.scss carry !important, so this must too)
+.gs-landscape a.internal.is-spoken {
+  background: var(--han-red-light) !important;
+  border-radius: 3px !important;
+  text-decoration-color: var(--han-red) !important;
+  box-shadow: 0 0 0 2px var(--han-red-light);
+}

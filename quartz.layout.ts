@@ -24,6 +24,9 @@ export const defaultContentPageLayout: PageLayout = {
     }),
     Component.ArticleTitle(),
     Component.ContentMeta(),
+    // Component.Ticker(),  // news line: still undecided (Marieke, 14-09 "niet meteen doen"). The
+    // component lives locally in quartz/components/Ticker.tsx and is deliberately not committed;
+    // switch it on by restoring this line, the import in components/index.ts, and the three files.
     Component.TagList(),
     Component.ConditionalRender({
       component: Component.Graph({ localGraph: { showTags: false }, globalGraph: { removeTags: ["source"] } }),
@@ -31,6 +34,7 @@ export const defaultContentPageLayout: PageLayout = {
     }),
     Component.GraphStory(),
     Component.AttentionChart(),
+    Component.Voice(),
     Component.VaultMap(),
   ],
   left: [
@@ -71,6 +75,7 @@ export const defaultListPageLayout: PageLayout = {
     }),
     Component.GraphStory(),
     Component.AttentionChart(),
+    Component.Voice(),
     Component.VaultMap({ showPanel: true }),
   ],
   left: [
