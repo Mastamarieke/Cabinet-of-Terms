@@ -45,9 +45,6 @@ Financial dependence without marriage. A relationship model promoted as freedom 
 ### [[Rizz]]
 Charisma as a skill you can acquire. The dating coach industry distilled into one word.
 
-### [[UNC]]
-The boring adult who doesn't get it. A label that keeps older people outside the conversation.
-
 ### [[NPC]]
 People on autopilot, without real inner lives. A gaming term that became a way to dehumanise people you disagree with.
 

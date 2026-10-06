@@ -45,8 +45,5 @@ The WHO gave it a name. The gaming industry said it did not exist. The child cou
 ### [[Online Grooming]]
 The conversation begins as friendship. It moves gradually. Each step is small enough to seem unremarkable.
 
-### [[FOMO]]
-The phone lights up. You do not check it immediately. But you wonder what you are missing. That wondering is the product.
-
 ### [[Sexting]]
 The legal framework was written for adults. The behaviour it criminalises is common among teenagers.

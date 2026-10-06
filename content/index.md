@@ -257,7 +257,6 @@ The manosphere gave normative gender hierarchy a vocabulary, a ranking system, a
 - [[Stay-at-home Girlfriend (SAHG)]]
 - [[Top 1% Man]]
 - [[Tradwife]]
-- [[UNC]]
 - [[Womanosphere]]
 
 </details>
@@ -349,17 +348,19 @@ AI systems produce convincing text, agree with whatever you say, and gradually m
 </details>
 
 <details>
-<summary><strong>Consequences of Digital Behaviour</strong> — 11 terms</summary>
+<summary><strong>Consequences of Digital Behaviour</strong> — 12 terms</summary>
 
 Tech neck, digital hoarding, cyberchondria, deskilling — these are not extreme cases or personal weaknesses. They are design outcomes. This cluster maps what happens to bodies and minds as a result of sustained engagement with systems optimised for engagement rather than wellbeing.
 
 → [About this cluster](Cabinet-of-Digital-Terms/Consequences-of-Digital-Behaviour/)
 
+- [[Brain Rot]]
 - [[Cyberchondria]]
 - [[Deskilling]]
 - [[Digital Amnesia]]
 - [[Digital Hoarding]]
 - [[Digital Overload]]
+- [[FOMO]]
 - [[Nomophobia]]
 - [[Tech Neck]]
 - [[Technostress]]
@@ -393,14 +394,12 @@ The platform economy of appearance distributes body norms as aspiration content,
 </details>
 
 <details>
-<summary><strong>Parents & Children</strong> — 13 terms</summary>
+<summary><strong>Parents & Children</strong> — 12 terms</summary>
 
 Platforms are not designed with children in mind — they are designed for engagement. This cluster maps terms relevant to parents and young people navigating environments built to capture attention, normalise spending, and exploit social anxiety.
 
 → [About this cluster](Cabinet-of-Digital-Terms/Parents--and--Children/)
 
-- [[Brain Rot]]
-- [[FOMO]]
 - [[Family Vlogging]]
 - [[Gaming Disorder]]
 - [[Kidfluencer]]
@@ -527,7 +526,7 @@ The digital economy has a body. It consumes water, occupies land, and draws powe
 </details>
 
 <details>
-<summary><strong>Inclusion, Accessibility and Ageing</strong> — 9 terms</summary>
+<summary><strong>Inclusion, Accessibility and Ageing</strong> — 10 terms</summary>
 
 Digital systems structurally exclude certain groups — not by accident but by design choice. This cluster maps the digital divide, ageism in interface design, tech abandonment as a rational response to poor design, and the gap between accessibility compliance and genuine usability.
 
@@ -541,6 +540,7 @@ Digital systems structurally exclude certain groups — not by accident but by d
 - [[Inclusive Design]]
 - [[Silver Surfer]]
 - [[Tech Abandonment]]
+- [[UNC]]
 - [[Universal Design]]
 
 </details>

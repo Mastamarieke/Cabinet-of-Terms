@@ -23,6 +23,9 @@ Cervical spine strain from hours of looking down at a screen. The posture that b
 ### [[Nomophobia]]
 The anxiety of being without your phone. Not a character flaw — a dependency that was designed in.
 
+### [[FOMO]]
+The phone lights up. You do not check it immediately. But you wonder what you are missing. That wondering is the product.
+
 ### [[Digital Amnesia]]
 The reduced ability to remember information you know can be looked up. Kaspersky named it in 2015. It has been getting worse since.
 

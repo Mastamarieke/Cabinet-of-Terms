@@ -1,6 +1,6 @@
 ---
 term: FOMO
-cluster: Parents & Children
+cluster: Consequences of Digital Behaviour
 analytical_layer: consequence
 status: publieksversie
 version: V2

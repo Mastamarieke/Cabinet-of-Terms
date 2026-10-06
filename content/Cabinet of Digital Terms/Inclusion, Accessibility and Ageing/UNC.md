@@ -1,6 +1,6 @@
 ---
 term: UNC
-cluster: Gender & Identity
+cluster: Inclusion, Accessibility and Ageing
 analytical_layer: mechanism
 status: publieksversie
 version: V2
@@ -17,11 +17,10 @@ analysis_version: pending
 
 **The Appeal:** Generational vocabulary has always existed: every youth culture develops terms that mark insider/outsider status. UNC names a real phenomenon — the older person who engages with youth culture without understanding it — with precision and economy. The term is often used with affection as much as dismissal.
 
-**The Friction:** The boundary function is the analytical core. [[NPC]] — people on autopilot, without real inner lives — is the stronger dehumanisation; UNC is the gentler exclusion. But both function as boundary terms: they define the ingroup by naming who does not belong. [[Ageism (Digital)]] — age discrimination in interface design, policy, and language — is the structural context: UNC circulates in an information environment that already systematically excludes older users through design choices, and subcultural vocabulary reinforces that exclusion. The term's migration from AAVE is also worth noting: the strip of cultural context from Black vernacular into general internet vocabulary is a documented pattern with its own analytical implications.
-
+**The Friction:** The boundary function is the analytical core. [[Ageism (Digital)]] — age discrimination embedded in interface design, policy, and language — is the structural context: UNC circulates in an information environment that already excludes older users by design, and the vocabulary confirms in one syllable what the design has already arranged. [[Silver Surfer]] is the same exclusion from the opposite direction: a friendly word for older people's participation that marks it as exceptional, where UNC is an unfriendly word that marks it as embarrassing. Both turn ordinary participation into a special case. [[Tech Abandonment]] is where that can end: when the vocabulary tells you that your presence is a joke, withdrawal is not a failure of skill but a reasonable reading of the room.
 **Why This Matters:** UNC is a small term that does a specific job: it marks a generational and cultural boundary and assigns the person outside it as irrelevant. Once you see boundary terms for what they do, you can ask what conversation they are protecting — and who they are keeping out of it.
 
-**Related terms:** [[NPC]] · [[Sigma Male]] · [[Ageism (Digital)]] · [[Podcast-bro]] · [[Brain Rot]] · [[Manosphere]] · [[Digital Coach]]
+**Related terms:** [[Ageism (Digital)]] · [[Silver Surfer]] · [[Tech Abandonment]] · [[Digital Ageing]]
 
 
 ---

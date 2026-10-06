@@ -36,6 +36,9 @@ A positive label for older people online. Also patronising. Both things at once.
 ### [[Ageism (Digital)]]
 Age discrimination in interface design, policy, and language. The assumption that older users do not count.
 
+### [[UNC]]
+The boring adult who doesn't get it. A label that keeps older people outside the conversation — this cluster's only term spoken by the people doing the excluding.
+
 ### [[Tech Abandonment]]
 Older people giving up technology because it became too complex. A choice that was not really a choice.
 
