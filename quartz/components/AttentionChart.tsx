@@ -11,7 +11,7 @@ import style from "./styles/attentionChart.scss"
 // attention-<file>.json beside a flat Term.md), written by scripts/attention.py. No file,
 // no block. Each series is indexed to its own peak, so the lines share one scale without
 // pretending that page views and papers are the same kind of number.
-type Series = { label: string; source: string; values: Record<string, number>; period?: "month" | "year" }
+type Series = { label: string; source: string; values: Record<string, number>; raw?: Record<string, number>; period?: "month" | "year" }
 type Attention = {
   term: string
   retrieved: string
@@ -64,6 +64,22 @@ const fmt = (v: number, label: string) => {
   if (v >= 1_000_000) return `${(v / 1_000_000).toFixed(1)}M`
   if (v >= 1_000) return `${Math.round(v / 1_000)}k`
   return String(Math.round(v))
+}
+
+// Every line gets a figure a person can hold, beside the one that makes years comparable
+// (23-09, after the 0–100 of Google Trends was read as a count of searches). Page views by
+// the day rather than the month; research as articles as well as a share; and Trends no
+// figure at all, because Google publishes none — there the peak is a date.
+const isIndex = (label: string) => /trends/i.test(label)
+const perDay = (v: number, key: string) => {
+  const days = key.length === 7 ? new Date(Number(key.slice(0, 4)), Number(key.slice(5, 7)), 0).getDate() : 365
+  return Math.round(v / days)
+}
+const human = (v: number, label: string, key: string, raw?: number) => {
+  if (isIndex(label)) return null
+  if (/per million/i.test(label)) return raw ? `${raw} ${raw === 1 ? "article" : "articles"}` : null
+  const d = perDay(v, key)
+  return d >= 10 ? `${d.toLocaleString("en")} a day` : null
 }
 
 export default (() => {
@@ -141,15 +157,31 @@ export default (() => {
             return { x0: x(a) - half, x1: x(b) + half, top: y((vals[i] / max) * 100) }
           })
           .filter((b): b is { x0: number; x1: number; top: number } => b !== null)
-        return { s, k, yearly, blocks, pts: [] as (readonly [number, number])[], line: "", area: "", peakAt, max, peakLabel: `${years[peakAt]}${peakAt === years.length - 1 ? "*" : ""}`, colour: colours[k] }
+        return { s, k, yearly, blocks, pts: [] as (readonly [number, number])[], line: "", area: "", peakAt, max, peakKey: String(years[peakAt]), peakLabel: `${years[peakAt]}${peakAt === years.length - 1 ? "*" : ""}`, colour: colours[k] }
       }
-      const vals = months.map((m) => s.values[m] ?? 0)
-      const max = Math.max(...vals) || 1
+      // A month the file does not carry is a month with no article, not a month with no
+      // readers (26-09): the Dutch Tradwife article was written in May 2024, and drawing
+      // zeros before it said "nobody looked" where the truth is "there was nothing to look
+      // at". The line therefore starts where the figures start, and breaks wherever they do.
+      const vals = months.map((m) => (m in s.values ? s.values[m] : null))
+      const present = vals.filter((v): v is number => v !== null)
+      const max = Math.max(...present, 0) || 1
       const peakAt = vals.indexOf(max)
-      const pts = vals.map((v, i) => [x(i), y((v / max) * 100)] as const)
-      const line = pts.map(([px, py]) => `${px.toFixed(1)},${py.toFixed(1)}`).join(" ")
-      const area = `M${x(0).toFixed(1)},${base} L${line.replace(/ /g, " L")} L${x(months.length - 1).toFixed(1)},${base} Z`
-      return { s, k, yearly, blocks: [] as { x0: number; x1: number; top: number }[], pts, line, area, peakAt, max, peakLabel: monthName(months[peakAt]), colour: colours[k] }
+      const pts = vals.map((v, i) => (v === null ? null : ([x(i), y((v / max) * 100)] as const)))
+      // one run per stretch of months that have figures
+      const runs: (readonly [number, number])[][] = []
+      let run: (readonly [number, number])[] = []
+      pts.forEach((p) => {
+        if (p) run.push(p)
+        else if (run.length) { runs.push(run); run = [] }
+      })
+      if (run.length) runs.push(run)
+      const line = runs.map((r) => r.map(([px, py]) => `${px.toFixed(1)},${py.toFixed(1)}`).join(" ")).join(" ")
+      const area = runs
+        .filter((r) => r.length > 1)
+        .map((r) => `M${r[0][0].toFixed(1)},${base} L${r.map(([px, py]) => `${px.toFixed(1)},${py.toFixed(1)}`).join(" L")} L${r[r.length - 1][0].toFixed(1)},${base} Z`)
+        .join(" ")
+      return { s, k, yearly, blocks: [] as { x0: number; x1: number; top: number }[], pts: pts.filter((p): p is readonly [number, number] => p !== null), runs, line, area, peakAt, max, peakKey: months[peakAt], peakLabel: monthName(months[peakAt]), colour: colours[k] }
     })
     const hasYearly = shapes.some((sh) => sh.yearly)
     const monthlyNames = shapes.filter((sh) => !sh.yearly).map((sh) => shortLabel(sh.s.label))
@@ -162,7 +194,12 @@ export default (() => {
       .sort((a, b) => a.month.localeCompare(b.month))
       .map((m, n) => {
         const i = months.indexOf(m.month)
-        const tops = shapes.filter((sh) => !sh.yearly).map((sh) => sh.pts[i][1])
+        // the highest line of that month, among the series that have a figure for it — a
+        // series whose article did not exist yet has no point there and cannot carry a mark
+        const tops = shapes
+          .filter((sh) => !sh.yearly)
+          .map((sh) => (sh.s.values[m.month] === undefined ? null : y((sh.s.values[m.month] / sh.max) * 100)))
+          .filter((v): v is number => v !== null)
         const top = tops.length ? Math.min(...tops) : base
         // a wikilink in the source becomes a link to that file: a Sources bundle, or another entry
         let sourceText: string | undefined
@@ -201,12 +238,20 @@ export default (() => {
         label: shortLabel(sh.s.label),
         colour: sh.colour,
         yearly: sh.yearly,
-        unit: /per million/i.test(sh.s.label) ? "per million" : "",
+        unit: /per million/i.test(sh.s.label) ? "per million" : isIndex(sh.s.label) ? "index" : "",
         values: sh.yearly ? years.map((yr) => sh.s.values[String(yr)] ?? 0) : months.map((m) => sh.s.values[m] ?? 0),
+        // the figure a person can hold: articles for research, views a day for page views
+        held: sh.yearly
+          ? years.map((yr) => human(sh.s.values[String(yr)] ?? 0, sh.s.label, String(yr), sh.s.raw?.[String(yr)]))
+          : months.map((m) => human(sh.s.values[m] ?? 0, sh.s.label, m, sh.s.raw?.[m])),
       })),
       years,
-      moments: moments.map((m) => ({ i: m.i, n: m.n, note: m.note })),
+      moments: moments.map((m) => ({ i: m.i, n: m.n, note: m.note, month: m.month, source: m.sourceText ?? "", url: m.sourceHref ?? "" })),
       term,
+      retrieved: data.retrieved,
+      // the source line of each series, so that a downloaded file says where its figures came from
+      sources: series.map((s) => s.source),
+      checked: data.checked ?? [],
     }
 
     return (
@@ -219,6 +264,13 @@ export default (() => {
           </span>
         </summary>
         <div class="attention-body" data-term={term}>
+          <button type="button" class="attention-data-save" aria-label="Save the figures as a spreadsheet" title="Save the figures (.csv)">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M5 3.5h9l5 5V20.5H5z" />
+              <path d="M14 3.5V9h5" />
+              <path d="M8 13h8M8 16.5h8" />
+            </svg>
+          </button>
           <button type="button" class="attention-play" aria-label="Read the moments aloud, in order" title="Read the moments aloud (or tap a numbered mark for one)">
             <svg viewBox="0 0 24 24" fill="currentColor" stroke="none">
               <path d="M7 5.5v13l11-6.5z" />
@@ -261,13 +313,24 @@ export default (() => {
               ))}
             {shapes
               .filter((sh) => !sh.yearly)
-              .map(({ line, colour }) => (
-                <polyline points={line} fill="none" stroke={colour} stroke-width="1.4" stroke-linejoin="round" class="attention-line" />
-              ))}
+              .map(({ runs, colour }) =>
+                // one polyline per run, or a single one would bridge the gap it is meant to show
+                (runs ?? []).map((r) => (
+                  <polyline
+                    points={r.map(([px, py]) => `${px.toFixed(1)},${py.toFixed(1)}`).join(" ")}
+                    fill="none"
+                    stroke={colour}
+                    stroke-width="1.4"
+                    stroke-linejoin="round"
+                    class="attention-line"
+                  />
+                )),
+              )}
             {shapes
               .filter((sh) => !sh.yearly)
-              .map(({ pts, peakAt, colour }) => (
-                <circle cx={pts[peakAt][0].toFixed(1)} cy={pts[peakAt][1].toFixed(1)} r="3.2" fill={colour} />
+              .map(({ peakAt, colour }) => (
+                // the peak is the month at peakAt, and a peak is by definition the top of its own scale
+                <circle cx={x(peakAt).toFixed(1)} cy={y(100).toFixed(1)} r="3.2" fill={colour} />
               ))}
             {shapes
               .filter((sh) => sh.yearly)
@@ -298,15 +361,19 @@ export default (() => {
           </svg>
           <div class="attention-readout" hidden></div>
           <ul class="attention-legend">
-            {shapes.map(({ s, colour, max, peakLabel, yearly }) => (
-              <li>
-                <i style={`background:${colour}`} class={yearly ? "attention-swatch-block" : ""}></i>
-                {shortLabel(s.label)}
-                <span class="attention-peak">
-                  {fmt(max, s.label)} · {peakLabel}
-                </span>
-              </li>
-            ))}
+            {shapes.map(({ s, colour, max, peakKey, peakLabel, yearly }) => {
+              const held = human(max, s.label, peakKey, s.raw?.[peakKey])
+              return (
+                <li>
+                  <i style={`background:${colour}`} class={yearly ? "attention-swatch-block" : ""}></i>
+                  {shortLabel(s.label)}
+                  <span class="attention-peak">
+                    {isIndex(s.label) ? `index, peak ${peakLabel}` : `${fmt(max, s.label)} · ${peakLabel}`}
+                    {held && <span class="attention-held"> ({held})</span>}
+                  </span>
+                </li>
+              )
+            })}
           </ul>
           {moments.length > 0 && (
             <ol class="attention-moments">
@@ -332,10 +399,12 @@ export default (() => {
           <script type="application/json" class="attention-data" dangerouslySetInnerHTML={{ __html: JSON.stringify(readout).replace(/</g, "\\u003c") }}></script>
           <p class="attention-note">
             Attention to the term, not use of it. Where the field and the landscape are curated, the curve is
-            computed. The sources cannot be compared in size, only in shape and timing: each is drawn on its
+            computed. Two of the lines are counts and one is not: page views and articles are measured,
+            while Google Trends is an index from 0 to 100 against its own busiest month, because Google
+            publishes no figures. The sources cannot be compared in size, only in shape and timing: each is drawn on its
             own scale, its peak (= 100) marked with the real figure. {monthlyNames.join(" and ")} by month, up to{" "}
             {monthName(months[months.length - 1])}
-            {hasYearly ? `; ${yearlyNames.join(" and ")} as one block per year` : ""}. Retrieved {longDate(data.retrieved)}.
+            {hasYearly ? `; ${yearlyNames.join(" and ")} as one block per year` : ""}.
             {hasYearly ? ` * ${lastYear} is not complete for a yearly figure, and research indexing lags months behind.` : ""}{" "}
             {series.map((s, k) => (
               <span class="attention-source">
@@ -343,8 +412,9 @@ export default (() => {
               </span>
             ))}
             {data.checked && data.checked.length > 0 && (
-              <span class="attention-source">Not drawn: {data.checked.join("; ")}.</span>
+              <span class="attention-source">Not drawn: {data.checked.join("; ")}. </span>
             )}
+            <span class="attention-retrieved">Retrieved {longDate(data.retrieved)}.</span>
           </p>
         </div>
         <div class="attention-overlay" aria-hidden="true">

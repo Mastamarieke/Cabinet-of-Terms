@@ -43,7 +43,13 @@ today = datetime.date.today().isoformat()
 # question whether months would be better: for the public lines yes, for research no)
 # the current month is left out: half a month next to whole ones reads as a fall
 months = [f"{y}-{m:02d}" for y in years for m in range(1, 13) if f"{y}-{m:02d}" < today[:7]]
-UA = "CabinetOfDigitalTerms/1.0 (karinmarieke.de.vogel@gmail.com)"
+# Wikimedia asks scripts to identify themselves with a way to reach whoever runs them, and
+# OpenAlex gives a faster queue to requests that carry a contact. Both get the project's own
+# address, not a personal one (23-09-2026, Marieke: "kan je hem niet via info@digitale-
+# alertheid.nl laten lopen?"). A URL would also satisfy Wikimedia; the address is kept because
+# OpenAlex wants a mailto.
+CONTACT = "info@digitale-alertheid.nl"
+UA = f"CabinetOfDigitalTerms/1.0 (+https://mastamarieke.github.io/Cabinet-of-Terms; {CONTACT})"
 LANGS = ["en", "nl", "de", "fr", "es"]
 NAMES = {"en": "English", "nl": "Dutch", "de": "German", "fr": "French", "es": "Spanish"}
 
@@ -74,14 +80,35 @@ def resolve(lang, title):
     return None
 
 def views(lang, title):
-    """Monthly views by readers (not bots), keyed "YYYY-MM"."""
+    """Monthly views by readers (not bots), keyed "YYYY-MM".
+
+    Only the months the API answers for. It used to pre-fill every month with a zero, and
+    that made an absence look like a measurement: the Dutch article on Tradwife did not
+    exist until May 2024, and the chart drew a flat line along the bottom for the 64 months
+    before it — which reads as "nobody looked" where the truth is "there was nothing to
+    look at" (Marieke, 26-09). A month that is missing here is missing on purpose."""
     u = f"https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/{lang}.wikipedia/all-access/user/{urllib.parse.quote(title.replace(' ', '_'))}/monthly/2019010100/2026123100"
     d = get(u)
-    by = {m: 0 for m in months}
+    by = {}
     for it in d.get("items", []):
         m = it["timestamp"][:4] + "-" + it["timestamp"][4:6]
-        if m in by: by[m] += it["views"]
+        if m in months:
+            by[m] = by.get(m, 0) + it["views"]
     return by
+
+def created(lang, title):
+    """The month the article was first written, from its oldest revision; None if unknown.
+    The line starts there, and the caption can say so: when a term arrives in a language is
+    itself a finding (the Dutch "Tradwife" is from May 2024, eighteen months after English)."""
+    u = (f"https://{lang}.wikipedia.org/w/api.php?action=query&prop=revisions&titles="
+         f"{urllib.parse.quote(title)}&rvlimit=1&rvdir=newer&rvprop=timestamp&format=json")
+    d = get(u)
+    for pid, page in d.get("query", {}).get("pages", {}).items():
+        if pid != "-1":
+            revs = page.get("revisions") or []
+            if revs:
+                return revs[0]["timestamp"][:7]
+    return None
 
 def trends_api(term):
     """Monthly search interest 2019–2026 from the requests the Trends site itself makes.
@@ -126,8 +153,11 @@ def openalex(term, pins):
     phrase = pins.get("openalex", term).lower()   # openalex=gooning when the term itself is ambiguous
     q = urllib.parse.quote(f'"{phrase}"')
     core = "type:article,primary_location.source.is_core:true"
-    hits = get(f"https://api.openalex.org/works?filter=title_and_abstract.search:{q},{core}&group_by=publication_year").get("group_by", [])
-    tot = get(f"https://api.openalex.org/works?filter=publication_year:2019-2026,{core}&group_by=publication_year").get("group_by", [])
+    # &mailto= is OpenAlex's "polite pool": a contact buys a faster queue, and it is the
+    # project's address, not a personal one
+    pool = f"&mailto={CONTACT}"
+    hits = get(f"https://api.openalex.org/works?filter=title_and_abstract.search:{q},{core}&group_by=publication_year{pool}").get("group_by", [])
+    tot = get(f"https://api.openalex.org/works?filter=publication_year:2019-2026,{core}&group_by=publication_year{pool}").get("group_by", [])
     h = {int(g["key"]): g["count"] for g in hits if g["key"].isdigit()}
     t = {int(g["key"]): g["count"] for g in tot if g["key"].isdigit()}
     return {y: h.get(y, 0) for y in years}, {y: (h.get(y, 0) / t[y] * 1_000_000 if t.get(y) else 0) for y in years}, phrase
@@ -142,9 +172,10 @@ def run(term, out_path, pins):
     series = []
     checked = []    # what the reader sees under the chart: which article, how many articles, what is missing
     curator = []    # why: the reasons, for the curator reading the file before the push
-    combined = {m: 0 for m in months}
+    combined = {}   # only the months some edition actually has figures for
     in_sum = []
     dutch = None
+    since = {}   # per language, the month its article was first written
     wikipedia = {}  # per language: the article counted, or why not
     same, other, missing, left_out = [], [], [], []
     for lang in LANGS:
@@ -167,9 +198,11 @@ def run(term, out_path, pins):
         wikipedia[lang] = f"\"{title}\"{how}"
         (same if not how else other).append((NAMES[lang], title, how))
         in_sum.append(f"{NAMES[lang]} \"{title}\"{how}")
-        for m in months: combined[m] += v[m]
+        for m, n in v.items(): combined[m] = combined.get(m, 0) + n
+        first = created(lang, title)
+        if first: since[lang] = first
         if lang == "nl":
-            dutch = (title, v, how)
+            dutch = (title, v, how, first)
     # the source line says what was counted; the checked line only what was not
     gaps = []
     if left_out:
@@ -183,8 +216,11 @@ def run(term, out_path, pins):
     if in_sum:
         names = [n for n, _, _ in same]
         listed = (", ".join(names[:-1]) + " and " + names[-1]) if len(names) > 1 else names[0] if names else ""
-        counted = ([f"the article \"{same[0][1]}\" on the {listed} Wikipedia"] if same else []) \
-            + [f"{n} \"{t}\"{how}" for n, t, how in other]
+        # The Cabinet's terms are English, so the article usually carries the term's own name in
+        # every edition; then the count is what matters, not the list. Only exceptions are named.
+        WORDS = {1: "one", 2: "two", 3: "three", 4: "four", 5: "five"}
+        counted = ([f"the article \"{same[0][1]}\" on {WORDS.get(len(same), len(same))} edition{'s' if len(same) != 1 else ''} of Wikipedia"] if same else []) \
+            + [f"the {n} edition's \"{t}\"{how}" for n, t, how in other]
         series.append({
             "label": f"Wikipedia, page views ({len(in_sum)} languages)" if len(in_sum) > 1 else f"{(same + other)[0][0]} Wikipedia, page views",
             "source": "Wikimedia REST API: " + "; ".join(counted) + ", monthly views by readers" + (", added up" if len(in_sum) > 1 else ""),
@@ -192,10 +228,12 @@ def run(term, out_path, pins):
             "values": combined,
         })
     if dutch and len(in_sum) > 1:
-        title, v, how = dutch
+        title, v, how, first = dutch
         series.append({
             "label": "Dutch Wikipedia, page views",
-            "source": f"Wikimedia REST API, nl.wikipedia article \"{title}\"{how}, on its own as the local line",
+            "source": "Wikimedia REST API, the Dutch edition on its own, as the local line"
+            + (f" (the article \"{title}\"{how})" if how else "")
+            + (f"; the Dutch article was written in {first}, and the line starts there" if first else ""),
             "period": "month",
             "values": v,
         })
@@ -212,7 +250,7 @@ def run(term, out_path, pins):
     if works >= 10:
         series.append({
             "label": "Research: articles per million (OpenAlex)",
-            "source": f"OpenAlex, a database of scholarly publications: {works} peer-reviewed articles in recognised journals (the Leiden core list) since 2019 with \"{phrase}\" in the title or abstract, as a share of all such articles that year (per million)"
+            "source": f"OpenAlex, a database of scholarly publications: {works} peer-reviewed articles in recognised journals (the Leiden core list) since 2019 with \"{phrase}\" in the title or abstract, as a share of all such articles that year (per million). The count says how firm the line is: with a handful of articles one publication moves it, with thousands it barely stirs"
             + (", phrase chosen by the curator" if "openalex" in pins else ""),
             "period": "year",
             "values": per_million,
@@ -278,8 +316,9 @@ def run(term, out_path, pins):
             if vals:
                 series.append({
                     "label": "Google Trends, search interest",
-                    "source": f"Google Trends, worldwide, \"{pins.get('trends', term)}\", monthly interest 0–100, fetched with the same requests the Trends site makes (unofficial)"
-                    + (", word chosen by the curator" if "trends" in pins else ""),
+                    "source": "Google Trends, worldwide, monthly interest 0–100"
+                    + (f", searched as \"{pins['trends']}\", the word chosen by the curator" if "trends" in pins else "")
+                    + ". Google publishes no interface for these figures: these are the ones the Trends site itself shows, fetched the way that site fetches them, which means the line goes when Google stops answering",
                     "period": "month",
                     "values": vals,
                     "retrieved": today,
@@ -309,6 +348,7 @@ def run(term, out_path, pins):
         "checked": checked + ([checked_oa] if checked_oa else []),
         "curator": curator,
         "wikipedia": wikipedia,
+        "since": since,   # per language, the month its article was written: where a line may start
         "note": "Attention to the term, not use of it. The sources cannot be compared in size, only in shape and timing: each is indexed to its own peak (= 100); the current year is partial.",
         "series": series,
     }

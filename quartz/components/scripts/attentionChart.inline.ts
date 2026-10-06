@@ -171,9 +171,12 @@ function wrap(text: string, max: number): string[] {
 type Readout = {
   months: string[]
   years: number[]
-  series: { label: string; colour: string; yearly: boolean; unit: string; values: number[] }[]
-  moments: { i: number; n: number; note: string }[]
+  series: { label: string; colour: string; yearly: boolean; unit: string; values: number[]; held?: (string | null)[] }[]
+  moments: { i: number; n: number; note: string; month?: string; source?: string; url?: string }[]
   term?: string
+  retrieved?: string
+  sources?: string[]
+  checked?: string[]
 }
 // what the player needs from the pointer: the month shown by index, and the pointer held
 // still while the curve plays itself
@@ -181,6 +184,7 @@ type PointerApi = { showIndex: (i: number) => void; hide: () => void; lock: (on:
 const MONTHS = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]
 const monthName = (ym: string) => `${MONTHS[Number(ym.slice(5, 7)) - 1]} ${ym.slice(0, 4)}`
 const figure = (v: number, unit: string) => {
+  if (unit === "index") return `${Math.round(v)} of 100`
   if (unit === "per million") return `${v.toFixed(1)} per million`
   if (v >= 1_000_000) return `${(v / 1_000_000).toFixed(1)}M`
   if (v >= 10_000) return `${Math.round(v / 1_000)}k`
@@ -226,8 +230,10 @@ function pointer(body: HTMLElement) {
     const year = Number(month.slice(0, 4))
     const moment = data.moments.find((m) => m.i === i)
     const rows = data.series.map((s) => {
-      const v = s.yearly ? s.values[data.years.indexOf(year)] ?? 0 : s.values[i]
-      return `<div><i style="background:${s.colour}"></i>${s.label}${s.yearly ? " <small>(year)</small>" : ""}<span>${figure(v, s.unit)}</span></div>`
+      const k = s.yearly ? data.years.indexOf(year) : i
+      const v = s.values[k] ?? 0
+      const held = s.held?.[k]
+      return `<div><i style="background:${s.colour}"></i>${s.label}${s.yearly ? " <small>(year)</small>" : ""}<span>${figure(v, s.unit)}${held ? ` <small>· ${held}</small>` : ""}</span></div>`
     })
     box.innerHTML =
       `<b>${monthName(month)}</b>` + rows.join("") + (moment ? `<p><strong>${moment.n}</strong> ${moment.note}</p>` : "")
@@ -328,6 +334,61 @@ function pointer(body: HTMLElement) {
     num.addEventListener("click", tap)
     window.addCleanup(() => num.removeEventListener("click", tap))
   }
+}
+
+// The figures behind the drawing, as a spreadsheet. Added 23-09 for the readers who want to
+// work with the series rather than look at it — teachers, students, researchers. One row per
+// month (the yearly series repeats its year's figure, marked as such), the source line of
+// every series in the header, and the curated moments underneath, so that a file that leaves
+// the site still says where it came from and what was already known about its peaks.
+function saveFigures(body: HTMLElement) {
+  const dataEl = body.querySelector<HTMLScriptElement>("script.attention-data")
+  if (!dataEl) return
+  let data: Readout
+  try {
+    data = JSON.parse(dataEl.textContent ?? "")
+  } catch {
+    return
+  }
+  const term = data.term ?? body.dataset.term ?? "term"
+  const q = (v: string) => `"${v.replace(/"/g, '""')}"`
+  const lines: string[] = []
+  lines.push(q(`Attention curve — ${term}`))
+  lines.push(q(`Cabinet of Digital Terms, ${location.href.split("#")[0]}`))
+  if (data.retrieved) lines.push(q(`Figures retrieved ${data.retrieved}`))
+  lines.push(q(`Saved ${new Date().toISOString().slice(0, 10)}`))
+  lines.push("")
+  for (const src of data.sources ?? []) lines.push(q(`Source: ${src}`))
+  for (const c of data.checked ?? []) lines.push(q(`Not drawn: ${c}`))
+  lines.push("")
+  // the figures: a month per row, each series in its own column. Rounded: the share per
+  // million arrives as a full float (3.710609560385532), which is false precision and makes
+  // Excel offer to turn it into scientific notation (Marieke, 23-09).
+  const cell = (v: number | undefined) => {
+    if (v === undefined) return ""
+    return Number.isInteger(v) ? String(v) : String(Math.round(v * 1000) / 1000)
+  }
+  const cols = data.series.map((s) => `${s.label}${s.unit ? ` (${s.unit})` : ""}${s.yearly ? " [yearly figure, repeated]" : ""}`)
+  lines.push(["month", ...cols].map(q).join(","))
+  data.months.forEach((m, i) => {
+    const yr = data.years.indexOf(Number(m.slice(0, 4)))
+    const row = data.series.map((s) => cell(s.yearly ? s.values[yr] : s.values[i]))
+    lines.push([m, ...row].map(q).join(","))
+  })
+  if (data.moments.length) {
+    lines.push("")
+    lines.push(["moment", "month", "note", "source", "url"].map(q).join(","))
+    for (const mo of data.moments) {
+      lines.push([String(mo.n), mo.month ?? data.months[mo.i] ?? "", mo.note, mo.source ?? "", mo.url ?? ""].map(q).join(","))
+    }
+  }
+  // a BOM, so that Excel opens the accents and the em dashes as written
+  const blob = new Blob(["\ufeff" + lines.join("\r\n") + "\r\n"], { type: "text/csv;charset=utf-8" })
+  const a = document.createElement("a")
+  a.href = URL.createObjectURL(blob)
+  a.download = `attention-${term.toLowerCase().replace(/[^a-z0-9]+/g, "-")}.csv`
+  a.click()
+  setTimeout(() => URL.revokeObjectURL(a.href), 1000)
 }
 
 // The moments read aloud. A tap on a numbered mark on the curve, or on its number in the list,
@@ -453,6 +514,8 @@ function loupe(details: HTMLElement) {
     shot?.addEventListener("click", () => shoot(copy as HTMLElement))
     const play = copy.querySelector<HTMLButtonElement>(".attention-play")
     play?.addEventListener("click", () => toggleRead(copy as HTMLElement))
+    const save = copy.querySelector<HTMLButtonElement>(".attention-data-save")
+    save?.addEventListener("click", () => saveFigures(copy as HTMLElement))
   }
   btn.addEventListener("click", open)
   overlay.querySelector(".attention-overlay-close")?.addEventListener("click", close)
@@ -480,6 +543,11 @@ document.addEventListener("nav", () => {
     window.addCleanup(() => btn.removeEventListener("click", handler))
   }
   for (const body of document.querySelectorAll<HTMLElement>("details.attention > .attention-body")) pointer(body)
+  for (const btn of document.querySelectorAll<HTMLButtonElement>("details.attention > .attention-body > .attention-data-save")) {
+    const handler = () => saveFigures(btn.closest(".attention-body") as HTMLElement)
+    btn.addEventListener("click", handler)
+    window.addCleanup(() => btn.removeEventListener("click", handler))
+  }
   for (const btn of document.querySelectorAll<HTMLButtonElement>("details.attention > .attention-body > .attention-play")) {
     const body = btn.closest(".attention-body") as HTMLElement
     const handler = () => toggleRead(body)
