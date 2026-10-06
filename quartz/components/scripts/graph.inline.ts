@@ -802,9 +802,13 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
   // Both arrows read the same way once they lie along their line: pointing at the end they
   // mean. ↩ points leftwards by itself, so aligned with the line it aimed back at the
   // neighbour — the opposite of what a backlink is. ↪ points the way the line runs.
+  // ↪ is in the emoji set, and iOS draws it as a blue tile with the arrow inside — a box
+  // on every backlink line, hiding the line it sits on. U+FE0E asks for the plain text
+  // glyph instead; the same string is the key in relationMeanings, so they must match.
+  const BACKLINK_GLYPH = "↪\uFE0E"
   const relationGlyphs: Record<string, string> = {
     "related term": "→",
-    backlink: "↪",
+    backlink: BACKLINK_GLYPH,
     cluster: "◇",
   }
   // A line between two neighbours gets no mark. The other four say something the picture
@@ -833,7 +837,7 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
 
   const relationMeanings: Record<string, string> = {
     "→": "related term",
-    "↪": "backlink",
+    [BACKLINK_GLYPH]: "backlink",
     "◇": "cluster page",
     "┄": "source",
   }
