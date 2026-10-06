@@ -27,7 +27,7 @@ analysis_version: pending
 ---
 **Read more:**
 - [Psychological correlates of ghosting and breadcrumbing experiences](https://pubmed.ncbi.nlm.nih.gov/32050561/) — Navarro, R., Larrañaga, E., Yubero, S., & Víllora, B. (2020). *Journal of Environmental Research and Public Health.*
-- [A First Look at User Activity on Tinder](https://arxiv.org/abs/1607.01952?utm_source=chatgpt.com). *Proceedings of the 2016 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining.*
+- [A First Look at User Activity on Tinder](https://arxiv.org/abs/1607.01952). *Proceedings of the 2016 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining.*
 
 
 Computers in Human Behavior

@@ -21,6 +21,8 @@ analysis_version: pending
 
 The detox is also distributed by the platforms it critiques. The retreat gets booked online. The experience gets posted. The resistance becomes content. Syvertsen and Enli name this as recuperation: the system absorbs its own criticism.
 
+The Dutch school phone ban made the detox a rule, and showed whom it suits. Since January 2024 most secondary schools have kept phones out of the classroom on the government's urgent advice. A Radboud University study at two schools near Nijmegen found that breaks became more social and lessons easier to concentrate in, and that teachers and parents rated the measure higher after three months, while pupils lowered their mark from 6.8 to 4.8.
+
 **Why This Matters:** **Digital detox** makes individual behaviour the solution to a structural problem. Once you see that move, you see it everywhere — in **screen time** advice, in mindfulness apps, in every wellness product that turns platform damage into a personal growth opportunity.
 
 **Related terms:** [[Slow Media]] · [[Unplugging]] · [[Tech-Free Challenge]] · [[Attention Harvesting]] · [[Predatory Design]] · [[Cognitive Surrender]] · [[Dopamine Feedback Loops]] · [[Screen Time]]
@@ -30,5 +32,6 @@ The detox is also distributed by the platforms it critiques. The retreat gets bo
 **Read more:**
 - [Digital detox: Media resistance and the promise of authenticity](https://www.researchgate.net/publication/333171827_Digital_detox_Media_resistance_and_the_promise_of_authenticity) — Syvertsen, T. & Enli, G. (2019). *# Convergence The International Journal of Research into New Media Technologies*
 - [Media Resistance: Protest, Dislike, Abstention](https://www.researchgate.net/publication/315793095_Media_Resistance_Protest_Dislike_Abstention) — Syvertsen, T. (2017). *Springer Nature*
+- [Radboud: mobiel uit de klas heeft positieve effecten, maar ook nadelen](https://nos.nl/artikel/2521561-radboud-mobiel-uit-de-klas-heeft-positieve-effecten-maar-ook-nadelen) — NOS (2024, 23 May). *NOS*
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

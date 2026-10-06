@@ -3,7 +3,7 @@ term: Cyberchondria
 cluster: Consequences of Digital Behaviour
 analytical_layer: consequence
 status: publieksversie
-version: V1
+version: V2
 analysis_version: pending
 ---
 
@@ -21,12 +21,16 @@ Starcevic and Berle established **cyberchondria** as a clinical concept in 2013,
 Searching health information online is rational: it is free, immediate, and can surface genuinely useful information. The majority of health searches are benign.
 
 **The Friction**
-Starcevic and Berle (2021) document that **cyberchondria** intensified during COVID-19 as health searching increased massively. The mechanism is structural: search algorithms surface the most alarming content because it generates the most engagement. **Recommender systems** optimised for attention retention are poorly suited to health information contexts where reassurance, not engagement, is the appropriate goal.
+Starcevic and Berle (2021) document that **cyberchondria** intensified during COVID-19 as health searching increased massively. The mechanism is structural: search algorithms surface the most alarming content because it generates the most engagement. [[Recommender Systems]] optimised for attention retention are poorly suited to health information contexts where reassurance, not engagement, is the appropriate goal.
+
+The word works against that finding. *-chondria* comes from hypochondria, which names a disorder in a person, so the morphology places the pathology in whoever is doing the searching. What Starcevic and Berle distinguish **cyberchondria** by is the opposite: not internal anxiety but an architecture that keeps returning alarming results. The name locates the problem in the reader, while the definition locates it in what the search returns.
+
+The question is now being asked of systems that are built to agree. [[Sycophancy (AI)]] describes the tendency of AI assistants to confirm the premise they are given, which in a symptom search means confirming the diagnosis the user already feared.
 
 **Why This Matters**
 Once you see **cyberchondria** as an algorithmic design outcome rather than individual anxiety, you see that the platform profiting from the health search loop is indifferent to whether the information helps or harms the user.
 
-**Related terms:** [[Recommender Systems]] · [[Digital Overload]] · [[Dopamine Feedback Loops]] · [[Attention Economy]] · [[Cognitive Surrender]] · [[Technostress]]
+**Related terms:** [[Recommender Systems]] · [[Sycophancy (AI)]] · [[Digital Overload]] · [[Dopamine Feedback Loops]] · [[Attention Economy]] · [[Cognitive Surrender]] · [[Technostress]]
 
 
 ---

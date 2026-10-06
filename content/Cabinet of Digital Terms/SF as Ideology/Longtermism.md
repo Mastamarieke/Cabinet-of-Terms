@@ -26,7 +26,7 @@ analysis_version: pending
 
 ---
 **Read more:**
-- [The Moral Case for Long-Term Thinking](https://philarchive.org/rec/GRETMC-3?utm_source=chatgpt.com) — Greaves, H., MacAskill, W. & Thornley, E. (2021). _In The Long View: Essays on Policy, Philanthropy, and the Long-term Future_ 
+- [The Moral Case for Long-Term Thinking](https://philarchive.org/rec/GRETMC-3) — Greaves, H., MacAskill, W. & Thornley, E. (2021). _In The Long View: Essays on Policy, Philanthropy, and the Long-term Future_ 
 - [The Dangerous Ideas of “Longtermism” and “Existential Risk”](https://www.currentaffairs.org/news/2021/07/the-dangerous-ideas-of-longtermism-and-existential-risk) — Torres, É. P. (2021). _Current Affairs_ 
 - [Why longtermism is the world’s most dangerous secular credo](https://aeon.co/essays/why-longtermism-is-the-worlds-most-dangerous-secular-credo) — Torres, É. P. (2021). _Aeon_ — expanded critique of existential-risk culture, Effective Altruism, and longtermist philosophy as a politically influential worldview. 
 - [The toxic ideology of longtermism](https://www.radicalphilosophy.com/commentary/the-toxic-ideology-of-longtermism) — Crary, A. (2023). _Radical Philosophy_ — critique of longtermism’s fixation on existential risk and its relationship to concentrated wealth and technocratic power

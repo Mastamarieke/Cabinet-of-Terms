@@ -27,9 +27,9 @@ McAdams is useful for _Main Character Energy_ because he frames identity as na
 
 ---
 **Read more:**
-- [The Stories We Live By: Personal Myths and the Making of the Self**](https://archive.org/details/storieswelivebyp0000mcad?utm_source=chatgpt.com) — McAdams, D. P. (1993/1996), _William Morrow / Guilford Press_.
-- [Because Internet: Understanding the New Rules of Language**](https://www.penguinrandomhouse.com/books/540664/because-internet-by-gretchen-mcculloch/?utm_source=chatgpt.com) — McCulloch, G. (2019), _Riverhead Books_.
-- [We All Have “Main-Character Energy” Now**](https://www.newyorker.com/culture/infinite-scroll/we-all-have-main-character-energy-now?utm_source=chatgpt.com) — Hess, A. (2021), _The New Yorker_.
-- [Self-branding, ‘micro-celebrity’ and the rise of Social Media Influencers**](https://www.tandfonline.com/doi/abs/10.1080/19392397.2016.1218292?utm_source=chatgpt.com) — Khamis, S., Ang, L. & Welling, R. (2017), _Celebrity Studies_.
+- [The Stories We Live By: Personal Myths and the Making of the Self](https://archive.org/details/storieswelivebyp0000mcad) — McAdams, D. P. (1993/1996), _William Morrow / Guilford Press_.
+- [Because Internet: Understanding the New Rules of Language](https://www.penguinrandomhouse.com/books/540664/because-internet-by-gretchen-mcculloch/) — McCulloch, G. (2019), _Riverhead Books_.
+- [We All Have “Main-Character Energy” Now](https://www.newyorker.com/culture/infinite-scroll/we-all-have-main-character-energy-now) — Hess, A. (2021), _The New Yorker_.
+- [Self-branding, ‘micro-celebrity’ and the rise of Social Media Influencers](https://www.tandfonline.com/doi/abs/10.1080/19392397.2016.1218292) — Khamis, S., Ang, L. & Welling, R. (2017), _Celebrity Studies_.
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

@@ -28,7 +28,7 @@ analysis_version: pending
 **Read more:**
 - [Crack-Up Capitalism](https://www.penguinrandomhouse.com/books/699131/crack-up-capitalism-by-quinn-slobodian/) — Slobodian, Q. (2023). *Metropolitan Books*
 - [Muskism](https://www.theguardian.com/books/2026/mar/26/muskism-by-quinn-slobodian-and-ben-tarnoff-review-how-elon-musk-is-reshaping-the-world) — Slobodian, Q. & Tarnoff, B. (2026). _The Guardian_ 
-- [“Muskism Proposes Something More Like Social War”](https://verfassungsblog.de/muskism/?utm_source=chatgpt.com) — Slobodian, Q. & Tarnoff, B. (2026). _Verfassungsblog_ — 
+- [“Muskism Proposes Something More Like Social War”](https://verfassungsblog.de/muskism/) — Slobodian, Q. & Tarnoff, B. (2026). _Verfassungsblog_ — 
 - [The Rise of America’s Broligarchy and What to Do About It](https://www.brennancenter.org/our-work/analysis-opinion/rise-americas-broligarchy-and-what-do-about-it) — Norden, L. (2025). _Brennan Center for Justice_ 
 - [In the Plutocratic Age of Broligarchy, Democracy Is in Deep Trouble — but There’s Still Hope](https://www.ceps.eu/in-the-plutocratic-age-of-broligarchy-democracy-is-in-deep-trouble-but-theres-still-hope/) — Renda, A. (2025). _CEPS_ 
 - [Broligarchy](https://en.wikipedia.org/wiki/Broligarchy) 

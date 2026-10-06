@@ -27,7 +27,7 @@ analysis_version: pending
 ---
 **Read more:**
 - [Mismatch: How Inclusion Shapes Design](https://mitpress.mit.edu/9780262539487/) — Holmes, K. (2018). *MIT Press*
--  [The **Digital Coach**: discover identity, role, and path to success](https://www.digital-coach.com/articles/lucapapa/how-to-become-a-digital-coach/) — Papa, L. (2022). _Digital Coach_
+-  [The Digital Coach: discover identity, role, and path to success](https://www.digital-coach.com/articles/lucapapa/how-to-become-a-digital-coach/) — Papa, L. (2022). _Digital Coach_
 - [Digital Coaching Certification](https://www.digital-coach.com/digital-coaching-certification-course/) — Digital Coach. (2022). _Digital Coach_
 - [What Is Digital Coaching? A Wellness Resource on the Rise](https://www.a-plancoaching.com/blog/what-is-digital-coaching/) — A-Plan Coaching. (2023). _A-Plan Coaching_
 

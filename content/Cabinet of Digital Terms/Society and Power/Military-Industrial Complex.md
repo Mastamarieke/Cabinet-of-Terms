@@ -30,7 +30,7 @@ analysis_version: pending
 **Read more:**
 - [President Dwight D. Eisenhower’s Farewell Address](https://www.archives.gov/milestone-documents/president-dwight-d-eisenhowers-farewell-address) — Eisenhower, D. D. (1961). _National Archives_ 
 - [The Military-Industrial Complex Speech](https://constitutioncenter.org/the-constitution/historic-document-library/detail/the-military-industrial-complex-speech-1961) — Eisenhower, D. D. (1961). 
-- [Military–Industrial Complex](https://en.wikipedia.org/wiki/Military%E2%80%93industrial_complex?utm_source=chatgpt.com) 
+- [Military–Industrial Complex](https://en.wikipedia.org/wiki/Military%E2%80%93industrial_complex) 
 - [Atlas of AI](https://yalebooks.yale.edu/book/9780300264630/atlas-of-ai/) — Crawford, K. (2021). _Yale University Press_ 
 - [Behind Trump and Anthropic Standoff Lies Multifaceted Debates Over Military’s Use of AI](https://www.lemonde.fr/en/economy/article/2026/02/28/behind-trump-and-anthropic-standoff-lies-multifaceted-debates-over-military-s-use-of-ai_6750956_19.html) — _Le Monde_ (2026). 
 - [Biden Takes Aim at “Tech Industrial Complex,” Echoing Eisenhower](https://www.reuters.com/world/us/biden-raises-alarm-about-dangerous-concentration-power-among-few-wealthy-people-2025-01-16/) — _Reuters_ (2025). 

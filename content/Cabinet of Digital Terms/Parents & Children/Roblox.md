@@ -28,7 +28,7 @@ Regulators arrived late but arrived together. In December 2025 the Netherlands w
 
 ---
 **Read more:**
-- [Roblox: Why children are obsessed — and why parents should be worried](https://www.bbc.com/news/technology-48450604) — Kelion, L. (2019). _BBC News_ ([bbc.com](https://www.bbc.com/news/technology-48450604?utm_source=chatgpt.com))
+- [Roblox: Why children are obsessed — and why parents should be worried](https://www.bbc.com/news/technology-48450604) — Kelion, L. (2019). _BBC News_ 
 - [Age Appropriate Design: A Code of Practice for Online Services](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/childrens-information/childrens-code-guidance-and-resources/) — ICO (2021)
 - [Leveling Up Together: Fostering Positive Growth and Safe Online Spaces for Teen Roblox Developers](https://arxiv.org/abs/2502.18120) — Choi, Y., Choi, J. & Seering, J. (2025). _arXiv_
 - [ACM start onderzoek naar Roblox in verband met risico's minderjarigen](https://www.acm.nl/nl/publicaties/acm-start-onderzoek-naar-roblox-verband-met-risicos-minderjarigen) — ACM (2026) — the formal DSA investigation and its three grounds

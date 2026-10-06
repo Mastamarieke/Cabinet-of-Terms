@@ -19,6 +19,8 @@ analysis_version: pending
 
 **The Friction:** **Tech abandonment** has cumulative consequences that are not visible at the moment of abandonment. [[Digital Exclusion]] follows: services that have shifted to digital-only become inaccessible. Banking, healthcare appointment booking, government benefit claims, and social connection — all increasingly digital, all requiring sustained engagement with systems that may have driven the abandonment decision. [[Ageism (Digital)]] is the upstream cause: systems designed without older users produce the frustration that produces abandonment. [[Technostress]] — stress caused by technology use — is a documented predictor of abandonment. The design that caused the abandonment rarely changes in response to it, because the people who left are no longer counted in the engagement data.
 
+De Nederlandsche Bank estimated in January 2023 that 2.6 million Dutch adults have difficulty with online payments and banking, and that about 400,000 leave their online banking entirely to a partner, relative or friend, with shame, powerlessness and anger among the feelings its interviews recorded. Over the same years the number of bank branches fell from 2,654 in 2011 to 726 at the end of 2021. For those 400,000, abandoning the technology has not meant leaving the system; they use it through someone else.
+
 **Why This Matters:** **Tech abandonment** makes visible the endpoint of a design process that excluded certain users from the start. The person who stopped using the system is not failing to adapt — they are responding rationally to a system that did not work for them. The design failure happened long before the abandonment decision.
 
 **Related terms:** [[Ageism (Digital)]] · [[Digital Ageing]] · [[Digital Exclusion]] · [[Technostress]] · [[Inclusive Design]] · [[Universal Design]]
@@ -29,5 +31,6 @@ analysis_version: pending
 - [Impact of the Abandonment of Assistive Technologies for Mobility on Older Adults](https://pmc.ncbi.nlm.nih.gov/articles/PMC9234835/) — Sawadogo, A. R., et al. (2022). _Assistive Technology_
 - [Impact of Internet Use on Loneliness and Contact with Others Among Older Adults: Cross-Sectional Analysis](https://www.jmir.org/2013/2/e39/) — Cotten, S. R., Anderson, W. A., & McCullough, B. M. (2013). _Journal of Medical Internet Research, 15_(2), e39. 
 - [Older Adults’ Perspectives on Using Digital Technology to Maintain Good Mental Health: Interactive Group Study](https://pmc.ncbi.nlm.nih.gov/articles/PMC6391644/) — Andrews, J. A., Brown, L. J. E., Hawley, M. S., & Astell, A. J. (2019). _Journal of Medical Internet Research, 21_(2), e11694
+- [DNB: 2,6 miljoen mensen worstelen met digitale betaalwereld](https://nos.nl/artikel/2461844-dnb-2-6-miljoen-mensen-worstelen-met-digitale-betaalwereld) — NOS (2023, 30 January). *NOS*
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

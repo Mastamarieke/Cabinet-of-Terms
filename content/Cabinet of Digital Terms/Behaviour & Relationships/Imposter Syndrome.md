@@ -28,7 +28,7 @@ analysis_version: pending
 **Read more:**
 - [The Impostor Phenomenon in High Achieving Women](https://doi.org/10.1177/001573257801500204) — Clance, P.R. & Imes, S. (1978). *Psychotherapy: Theory, Research and Practice*
 - [Feeling Like a Fraud](https://doi.org/10.1177/0361684313509627) — Parkman, A. (2016). *Journal of Health Psychology*
-- [Compare with care: the impact of social media on predictors of impostor feelings**](https://scholars.csus.edu/esploro/outputs/graduate/Compare-with-care-the-impact-of/99257831160701671?utm_source=chatgpt.com) — Ramm, E. R. (n.d.), _California State University, Sacramento_.  
-- [**Feeling phony online — The impostor phenomenon’s link to online self-presentation, self-esteem, and social network site use**](https://www.sciencedirect.com/science/article/pii/S0001691824002191?utm_source=chatgpt.com) — Ibrahim, F., Herzberg, P. Y. & Stöven, L. M. (2024), _Acta Psychologica_.  
-- [**LinkedIn triggers feelings of imposter syndrome**](https://www.ed.ac.uk/news/2023/linkedin-triggers-feelings-of-imposter-syndrome?utm_source=chatgpt.com) — University of Edinburgh (2023), _University of Edinburgh News_.  
+- [Compare with care: the impact of social media on predictors of impostor feelings](https://scholars.csus.edu/esploro/outputs/graduate/Compare-with-care-the-impact-of/99257831160701671) — Ramm, E. R. (n.d.), _California State University, Sacramento_.  
+- [Feeling phony online — The impostor phenomenon’s link to online self-presentation, self-esteem, and social network site use](https://www.sciencedirect.com/science/article/pii/S0001691824002191) — Ibrahim, F., Herzberg, P. Y. & Stöven, L. M. (2024), _Acta Psychologica_.  
+- [LinkedIn triggers feelings of imposter syndrome](https://www.ed.ac.uk/news/2023/linkedin-triggers-feelings-of-imposter-syndrome) — University of Edinburgh (2023), _University of Edinburgh News_.  
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

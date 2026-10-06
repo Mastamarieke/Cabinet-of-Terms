@@ -27,8 +27,8 @@ analysis_version: pending
 ---
 **Read more:**
 - [Distinction: A Social Critique of the Judgement of Taste](https://www.hup.harvard.edu/catalog.php?isbn=9780674212770) — Bourdieu, P. (1979/1984). *Harvard University Press* — on symbolic capital as the academic framework
-- [The Presentation of Self in Everyday Life**](https://monoskop.org/images/1/19/Goffman_Erving_The_Presentation_of_Self_in_Everyday_Life.pdf) — Goffman, E. (1959), _Doubleday / Anchor Books_.
-- [**You Might Be Losing ‘Aura Points’ and Not Even Know It**](https://www.gq.com/story/aura-points?utm_source=chatgpt.com) — Yang, J. (2024), _GQ_.  
+- [The Presentation of Self in Everyday Life](https://monoskop.org/images/1/19/Goffman_Erving_The_Presentation_of_Self_in_Everyday_Life.pdf) — Goffman, E. (1959), _Doubleday / Anchor Books_.
+- [You Might Be Losing ‘Aura Points’ and Not Even Know It](https://www.gq.com/story/aura-points) — Yang, J. (2024), _GQ_.  
 Goede journalistieke bron over “aura” als Gen Z-statussysteem: coolness, cringe, sociale valuta en zelfpresentatie.
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

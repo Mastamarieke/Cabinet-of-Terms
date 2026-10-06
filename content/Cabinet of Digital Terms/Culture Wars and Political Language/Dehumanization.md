@@ -26,7 +26,7 @@ analysis_version: pending
 
 ---
 **Read more:**
-- [Selective Moral Disengagement in the Exercise of Moral Agency](https://centrodocumentacion.psicosocial.net/wp-content/uploads/2003/01/bandura-selective-moral-disengagement-in-the-exercise-of-moral-agency.pdf?utm_source=chatgpt.com) — Bandura, A. (2010). *Journal of Moral Education, 31_(2), 101–119.*
+- [Selective Moral Disengagement in the Exercise of Moral Agency](https://centrodocumentacion.psicosocial.net/wp-content/uploads/2003/01/bandura-selective-moral-disengagement-in-the-exercise-of-moral-agency.pdf) — Bandura, A. (2010). *Journal of Moral Education, 31_(2), 101–119.*
 - [Becoming Evil](https://global.oup.com/academic/product/becoming-evil-9780195314564) — Waller, J. (2002). *Oxford University Press*
 - [Polarisatie als verdienmodel](https://justiceforprosperity.org) — Justice for Prosperity (2026). *JfP* — on outrage manufactured for ad revenue, including unmoderated vermin-frame comments
 

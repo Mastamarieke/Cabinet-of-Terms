@@ -15,7 +15,7 @@ analysis_version: pending
 
 > A subculture in which preparation for collapse functions as both practical activity and identity — where the preparation is also the community.
 
-**The Appeal:** **Prepperism** addresses real vulnerabilities. COVID-19 demonstrated that supply chains fail, that governments are unprepared, and that individuals with stockpiles and skills fare better in disruptions than those without. Emergency preparedness is genuinely recommended by civil defence agencies. The community provides practical knowledge, solidarity, and purpose.
+**The Appeal:** **Prepperism** addresses real vulnerabilities. COVID-19 demonstrated that supply chains fail, that governments are unprepared, and that individuals with stockpiles and skills fare better in disruptions than those without. Emergency preparedness is genuinely recommended by civil defence agencies, now in so many words: in March 2025 the European Commission's Preparedness Union Strategy advised citizens to keep enough supplies for at least 72 hours, citing Russia's war against Ukraine, sabotage of critical infrastructure and electronic warfare, and the Dutch campaign *Denk vooruit* asks households to keep an emergency kit for the first 72 hours of a crisis. The community provides practical knowledge, solidarity, and purpose.
 
 **The Friction:** The identity dimension is analytically significant. [[Millenarianism]] is the ideological substrate: the corrupt present, the anticipated collapse, the prepared community that will survive and be vindicated. [[Doomerism]] and **prepperism** share the acceptance of catastrophic outcomes as given — where doomerism produces paralysis, **prepperism** produces activity, but neither asks whether the collapse might be prevented. [[Doomsday Prep for the Super-Rich]] is **prepperism** at the scale of private jets and New Zealand compounds: the same logic, vastly more resources. The collapse that "never quite arrives" is the analytical tension: **prepperism** requires the ongoing imminence of a collapse that perpetually fails to materialise, which keeps the preparation meaningful without delivering the vindicating crisis.
 
@@ -29,5 +29,7 @@ analysis_version: pending
 - [_Bunker: Building for the End Times_](https://www.bradleygarrett.com/bunker/). Garrett, B. (2020). _Penguin Random House_
 - [_Doomsday Preppers_](https://www.natgeotv.com/nl/programmas/natgeo/doomsday-preppers). _National Geographic_ (2012–2014)
 - [_Preppers_](https://haenfler.sites.grinnell.edu/preppers/). Haenfler, R. _Grinnell College_
+- [EU urges citizens to stockpile 72 hours' worth of supplies amid war risk](https://www.cnn.com/2025/03/26/europe/european-union-stockpile-member-states-intl-latam) — Tanno, S. (2025, 26 March). *CNN*
+- [Denk vooruit](https://www.denkvooruit.nl/) — NCTV (n.d.). Dutch government campaign on emergency kits and the first 72 hours
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

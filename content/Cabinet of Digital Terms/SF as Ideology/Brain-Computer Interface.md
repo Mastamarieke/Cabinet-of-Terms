@@ -31,7 +31,7 @@ Today, BCIs are increasingly understood not merely as medical devices, but as in
 ---
 **Read more:**
 - [The Battle for Your Brain: Defending the Right to Think Freely in the Age of Neurotechnology](https://www.amazon.com/Battle-Your-Brain-Defending-Neurotechnology/dp/1250272955) — Farahany, N. A. (2023). _St. Martin’s Press_
-- [Neuralink](https://neuralink.com/?utm_source=chatgpt.com) — Musk, E. et al. (2016–present). _Neurotechnology company developing implantable brain–computer interfaces; first human implant announced in 2024_
+- [Neuralink](https://neuralink.com/) — Musk, E. et al. (2016–present). _Neurotechnology company developing implantable brain–computer interfaces; first human implant announced in 2024_
 - [An Integrated Brain–Machine Interface Platform With Thousands of Channels](https://www.jmir.org/2019/10/e16194/) — Musk, E. & Neuralink (2019). _Journal of Medical Internet Research_
 - [Update on First Human Implant](https://www.theguardian.com/science/2025/feb/08/elon-musk-chip-paralysed-man-noland-arbaugh-chip-brain-neuralink) — The Guardian (2025). _On Neuralink’s first human patie
 - [Neuromancer](https://www.fnac.com/a2579611/William-Gibson-Neuromancer) — Gibson, W. (1984). _Ace Books_

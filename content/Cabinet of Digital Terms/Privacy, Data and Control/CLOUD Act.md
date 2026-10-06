@@ -27,7 +27,7 @@ analysis_version: pending
 ---
 **Read more:**
 - - [Clarifying Lawful Overseas Use of Data (CLOUD) Act](https://www.congress.gov/bill/115th-congress/house-bill/4943) — United States Congress (2018). _US Congress_
-- [CLOUD Act agreements from an EU perspective](https://www.researchgate.net/publication/342692523_CLOUD_act_agreements_from_an_EU_perspective?utm_source=chatgpt.com) — Rojszczak, M. (2020). _Computer Law & Security Review_
+- [CLOUD Act agreements from an EU perspective](https://www.researchgate.net/publication/342692523_CLOUD_act_agreements_from_an_EU_perspective) — Rojszczak, M. (2020). _Computer Law & Security Review_
 - [Transfer of EU Personal Data to U.S. Law Enforcement Authorities After the CLOUD Act: Is There a Conflict with the GDPR?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3397047) — Christakis, T. (2019). _SSRN_
 - [EU–US negotiations on law enforcement access to data](https://academic.oup.com/idpl/article/11/2/81/6133744) — Christakis, T. (2021). _International Data Privacy Law_
 

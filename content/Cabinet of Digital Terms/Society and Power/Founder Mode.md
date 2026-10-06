@@ -26,7 +26,7 @@ analysis_version: pending
 
 ---
 **Read more:**
-- [Founder Mode](https://www.paulgraham.com/foundermode.html?utm_source=chatgpt.com) — Graham, P. (2024). *paulgraham.com*
+- [Founder Mode](https://www.paulgraham.com/foundermode.html) — Graham, P. (2024). *paulgraham.com*
 - [The Innovator's Dilemma](https://www.hbs.edu/faculty/Pages/item.aspx?num=46) — Christensen, C.M. (1997). *Harvard Business Review Press* — on why incumbents fail; the empirical foundation Graham draws on
 - [Airbnb CEO Brian Chesky Goes All-Out Defending “Founder Mode”](https://observer.com/2024/09/airbnbs-brian-chesky-defends-founder-mode-criticisms/) — Tremayne-Pengelly, A. (2024). _Observer_ — on Brian Chesky’s defense of “founder mode” as a hands-on leadership philosophy associated with Steve Jobs and Silicon Valley founder culture
 - [How to Amplify the Advantages of Working at a Founder-Led Company](https://sloanreview.mit.edu/article/how-to-amplify-the-advantages-of-working-at-a-founder-led-company/) — Shen, J. (2024). _MIT Sloan Management Review_ — on organisational culture, innovation, and decision-making dynamics within founder-led companies

@@ -29,5 +29,5 @@ analysis_version: pending
 **Read more:**
 - [Muskism by Quinn Slobodian and Ben Tarnoff review – how Elon Musk is reshaping the world](https://www.theguardian.com/books/2026/mar/26/muskism-by-quinn-slobodian-and-ben-tarnoff-review-how-elon-musk-is-reshaping-the-world) — _The Guardian_ (2026)
 - [Crack-Up Capitalism: Market Radicals and the Dream of a World Without Democracy](https://www.amazon.com/Crack-Up-Capitalism-Radicals-Without-Democracy-ebook/dp/B09Y45HDC9) — Slobodian, Q. (2023). _Metropolitan Books_
-  [Muskism as Fordism](https://lpeproject.org/blog/**muskism**-as-fordism/?utm_source=chatgpt.com) — Slobodian, Q., & Tarnoff, B. (2026). _Law and Political Economy Project_
+  [Muskism as Fordism](https://lpeproject.org/blog/muskism-as-fordism/) — Slobodian, Q., & Tarnoff, B. (2026). _Law and Political Economy Project_
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

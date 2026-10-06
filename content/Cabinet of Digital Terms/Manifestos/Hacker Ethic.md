@@ -15,7 +15,7 @@ analysis_version: pending
 
 > A set of values centring curiosity, transparency, and information freedom — that built the internet's infrastructure and is now routinely deployed to justify its opposite.
 
-**The Appeal:** The **hacker ethic** produced real goods: the internet protocols, the open-source software, the distributed architecture that makes modern computing possible. The commitment to transparency and information freedom was not rhetorical — it produced technical decisions with lasting consequences. Linux, Apache, Wikipedia all carry the DNA.
+**The Appeal:** The **hacker ethic** produced real goods: the internet protocols, the open-source software, the distributed architecture that makes modern computing possible. The commitment to transparency and information freedom was not rhetorical — it produced technical decisions with lasting consequences. Linux, Apache, Wikipedia all carry the DNA. Dutch law has a place for it too. In October 2020 the security researcher Victor Gevers guessed the Twitter password of US president Donald Trump, "maga2020!", on his fifth attempt, reported the weakness and did nothing with the account. Dutch prosecutors declined to charge him, saying he met the criteria developed in case law for an ethical hacker to go free.
 
 **The Friction:** The absorption is the problem. [[Digital Libertarianism]] is the political expression of the **hacker ethic** — and inherits its blind spots: the ethic was developed by and for a narrow demographic (young, white, male, technically trained) and its universalism concealed that specificity. The "meritocracy" the **hacker ethic** valorised — judge by skill, not credential — became the justification for ignoring structural inequalities. [[Obfuscation]] — deliberate opacity — is the commercial redeployment of hacker values: proprietary software wrapped in the language of innovation. [[Unblackboxing]] is what the **hacker ethic** demands and corporate platforms resist.
 
@@ -28,5 +28,6 @@ analysis_version: pending
 **Read more:**
 - [Hackers: Heroes of the Computer Revolution](https://www.stevenlevy.com/hackers-heroes-of-the-computer-revolution) — Levy, S. (1984). *Anchor Press/Doubleday*
 - [The Hacker Ethic and the Spirit of the Information Age](https://www.penguin.co.uk/books/356837/the-hacker-ethic-by-pekka-himanen/9781407064291) — Himanen, P. (2001). *Random House*
+- [Ethical Dutch Hacker Guessed Trump's Twitter Password Twice](https://www.newsweek.com/ethical-dutch-hacker-guessed-trumps-twitter-password-twice-1555676) — Colarossi, N. (2020, 17 December). *Newsweek*
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

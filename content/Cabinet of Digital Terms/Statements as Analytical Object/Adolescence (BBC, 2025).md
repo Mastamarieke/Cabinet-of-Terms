@@ -29,6 +29,6 @@ analysis_version: pending
 - [Adolescence](https://www.bbc.co.uk/programmes/m0027sw4) — Thorne, J. & Graham, S. (2025). *BBC One*
 - [Alphas, Betas, and Incels](https://doi.org/10.1177/1097184x17706401) — Ging, D. (2019). *Men and Masculinities* — the academic research the drama dramatises
 - [Adolescence scoops four prizes in dominant night at Bafta TV awards](https://www.theguardian.com/tv-and-radio/2026/may/10/adolescence-dominates-bafta-tv-awards) — Yossman, K. (2026). _The Guardian_
-- [Adolescence](https://www.imdb.com/title/tt31806037/?utm_source=chatgpt.com) — Graham, S. & Thorne, J. (2025). _Netflix / IMDb_
+- [Adolescence](https://www.imdb.com/title/tt31806037/) — Graham, S. & Thorne, J. (2025). _Netflix / IMDb_
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

@@ -3,19 +3,19 @@ term: Technostress
 cluster: Consequences of Digital Behaviour
 analytical_layer: consequence
 status: publieksversie
-version: V1
+version: V2
 analysis_version: pending
 ---
 
 ***The update changed everything. You do not know where anything is.***
 
 **Literal meaning**
-*Techno-* — technology. *Stress* — physiological and psychological strain in response to demands. **Technostress** is stress produced directly by the use of technology or by the inability to use it effectively.
+*Techno-* — technology. *Stress* — physiological and psychological strain in response to demands. **Technostress** is stress produced by digital technology.
 
 **Origin**
 Craig Brod coined **technostress** in **1984** to describe the difficulty workers experienced adapting to computer technology. Tarafdar et al. (2007) established the modern framework, identifying five techno-stressors: techno-overload, techno-invasion, techno-complexity, techno-insecurity, and techno-uncertainty. The concept has since expanded to cover all age groups and contexts.
 
-> Stress produced by the use of digital technology — or by the inability to use it effectively — documented across all age groups.
+> Stress that digital technology can cause, at any age — and sometimes by design, when a system is built to be hard to leave.
 
 **The Appeal**
 Technology genuinely increases capability and access. **Technostress** is partly the cost of using powerful tools.
@@ -23,10 +23,12 @@ Technology genuinely increases capability and access. **Technostress** is partly
 **The Friction**
 Tarafdar et al. (2007) document that **technostress** reduces productivity, increases role conflict, and impairs job satisfaction. For older users, the cost is compounded: [[Ageism (Digital)]] means systems are designed and updated without them in mind. The stress is not produced by technology in the abstract but by specific design choices — interfaces that change without warning, error messages that provide no guidance, update cycles that require continuous relearning.
 
+Not all of those choices are careless. Where an opt-out is buried, a cancellation runs through seven screens, or a setting returns after every update, the difficulty is the product rather than a defect in it — [[Dark Patterns]] calls this obstruction. The design works because the user concludes the failure is their own.
+
 **Why This Matters**
 Once you see **technostress** as a design outcome rather than individual incapacity, you see that the question is not how to help people cope with technology — it is why technology is designed in ways that require coping.
 
-**Related terms:** [[Digital Overload]] · [[Tech Abandonment]] · [[Ageism (Digital)]] · [[Attention Economy]] · [[Digital Exclusion]] · [[Technofeudalism]] · [[Universal Design]]
+**Related terms:** [[Digital Overload]] · [[Dark Patterns]] · [[Tech Abandonment]] · [[Ageism (Digital)]] · [[Attention Economy]] · [[Digital Exclusion]] · [[Technofeudalism]] · [[Universal Design]]
 
 
 ---

@@ -18,7 +18,7 @@ The activist Aurora Gómez of this collective notes that even local mayors have 
 
 **The Appeal:** Cooling infrastructure is a genuine engineering problem. Evaporative cooling is often more energy-efficient than alternatives. Companies investing in water recycling and closed-loop systems are pursuing real improvements.
 
-**The Friction:** The geography is what the term makes visible. [[Sacrifice Zones]] — areas bearing disproportionate environmental burdens of digital infrastructure — are often chosen precisely because land, water, and regulatory costs are low. [[Digital Colonialism]] describes what happens when global AI demand is routed through regions with limited political leverage to resist it. The water leaves the local watershed. The AI output goes elsewhere.
+**The Friction:** The geography is what the term makes visible. [[Sacrifice Zones]] — areas bearing disproportionate environmental burdens of digital infrastructure — are often chosen precisely because land, water, and regulatory costs are low. [[Digital Colonialism]] describes what happens when global AI demand is routed through regions with limited political leverage to resist it. The water leaves the local watershed. The AI output goes elsewhere. It happens in wet countries too. Microsoft's data centre in Middenmeer, in the Dutch province of North Holland, used 84 million litres of drinking water for cooling in 2021, more than four times the 12 to 20 million litres that Microsoft and the municipality of Hollands Kroon had cited. The figure came out in August 2022, in a summer of drought.
 
 **Why This Matters:** Water consumption breaks the abstraction of the cloud more viscerally than electricity statistics. A river is a place. A drought is experienced by people. *Tu Nube Seca Mi Río* names it in four words.
 
@@ -29,6 +29,7 @@ The activist Aurora Gómez of this collective notes that even local mayors have 
 **Read more:**
 - [Making AI Less Thirsty](https://arxiv.org/abs/2304.03271) — Li, P. et al. (2023). *arXiv*
 - [Tu Nube Seca Mi Río](https://tunubesecamirio.com) — Spanish activist collective (ongoing)
- - [ How to Resist Data Centers: A Guide For Local Communities in Europe](https://algorithmwatch.org/en/a-guide-to-data-centers/?utm_source=chatgpt.com) — Shauna Blackmon
+ - [ How to Resist Data Centers: A Guide For Local Communities in Europe](https://algorithmwatch.org/en/a-guide-to-data-centers/) — Shauna Blackmon
+- [Nederlands datacenter Microsoft verbruikte vier keer meer water dan gedacht](https://www.bright.nl/nieuws/1132914/datacenter-microsoft-hoger-verbruik-drinkwater-84-miljoen-liter.html) — Bright (2022, 12 August). *Bright / RTL*
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

@@ -28,8 +28,8 @@ AI turns **personal branding** into a semi-automated form of self-presentation: 
 ---
 **Read more:**
 - [The Brand Called You](https://www.fastcompany.com/28905/brand-called-you) — Peters, T. (1997). *Fast Company*
-- [(Not) Getting Paid to Do What You Love: Gender, Social Media, and Aspirational Work**](https://www.researchgate.net/publication/321127402_Not_getting_paid_to_do_what_you_love_Gender_social_media_and_aspirational_work?utm_source=chatgpt.com) — Duffy, B. E. (2017), _Yale University Press_. 
-- [**Do you create your content yourself? Using generative artificial intelligence for social media content creation diminishes perceived brand authenticity**](https://www.sciencedirect.com/science/article/pii/S0969698924000869?utm_source=chatgpt.com) — Brüns, J. D. & Meißner, M. (2024), _Journal of Retailing and Consumer Services_.
-- [**The Pros and Cons of Using AI for Personal Branding**](https://www.psychologytoday.com/us/blog/ethically-speaking/202412/the-pros-and-cons-of-using-ai-for-personal-branding?utm_source=chatgpt.com) — Luttrell, R. (2024), _Psychology Today_.
+- [(Not) Getting Paid to Do What You Love: Gender, Social Media, and Aspirational Work](https://www.researchgate.net/publication/321127402_Not_getting_paid_to_do_what_you_love_Gender_social_media_and_aspirational_work) — Duffy, B. E. (2017), _Yale University Press_. 
+- [Do you create your content yourself? Using generative artificial intelligence for social media content creation diminishes perceived brand authenticity](https://www.sciencedirect.com/science/article/pii/S0969698924000869) — Brüns, J. D. & Meißner, M. (2024), _Journal of Retailing and Consumer Services_.
+- [The Pros and Cons of Using AI for Personal Branding](https://www.psychologytoday.com/us/blog/ethically-speaking/202412/the-pros-and-cons-of-using-ai-for-personal-branding) — Luttrell, R. (2024), _Psychology Today_.
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

@@ -26,8 +26,8 @@ analysis_version: pending
 
 ---
 **Read more:**
-- [Forget doom scrolling, Americans now doom spend to cope with stress](https://www.creditkarma.com/about/commentary/forget-doom-scrolling-americans-now-doom-spend-to-cope-with-stress?utm_source=chatgpt.com), Dickler, J., _Credit Karma_.
-- [**Overcoming Financial Anxiety and Doom Spending**](https://www.psychologytoday.com/us/blog/how-to-make-better-choices/202408/overcoming-financial-anxiety-and-doom-spending?utm_source=chatgpt.com), Klontz, B. (2024), _Psychology Today_.
-- [Doom Spending Behaviour Among the Digital Generation: The Role of Financial Literacy and Social Media Interaction](https://ijefm.co.in/v8i6/44.php?utm_source=chatgpt.com), Husnayetti, H., Novida, I., Junarti, J. & Yudiman, A.T., (2025) _Journal of Economics, Finance and Management Studies_.
+- [Forget doom scrolling, Americans now doom spend to cope with stress](https://www.creditkarma.com/about/commentary/forget-doom-scrolling-americans-now-doom-spend-to-cope-with-stress), Dickler, J., _Credit Karma_.
+- [Overcoming Financial Anxiety and Doom Spending](https://www.psychologytoday.com/us/blog/how-to-make-better-choices/202408/overcoming-financial-anxiety-and-doom-spending), Klontz, B. (2024), _Psychology Today_.
+- [Doom Spending Behaviour Among the Digital Generation: The Role of Financial Literacy and Social Media Interaction](https://ijefm.co.in/v8i6/44.php), Husnayetti, H., Novida, I., Junarti, J. & Yudiman, A.T., (2025) _Journal of Economics, Finance and Management Studies_.
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

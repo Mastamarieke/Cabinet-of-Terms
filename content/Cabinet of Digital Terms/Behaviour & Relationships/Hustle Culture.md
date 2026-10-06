@@ -26,12 +26,12 @@ analysis_version: pending
 
 ---
 **Read more:**
-- [**Gary Vaynerchuk’s Actual Thoughts on Hustle**](https://garyvaynerchuk.com/gary-vaynerchuk-thoughts-on-hustle/?utm_source=chatgpt.com) — Team GaryVee (2018), _GaryVaynerchuk.com_.
-- [**The darker side of hustle culture**](https://www.axios.com/2021/06/08/hustle-culture-pandemic-job-security?utm_source=chatgpt.com) — Pandey, E. (2021), _Axios_.
-- [Thrive: The Third Metric to Redefining Success and Creating a Life of Well-Being, Wisdom, and Wonder**](https://www.penguinrandomhouse.com/books/237250/thrive-by-arianna-huffington/?utm_source=chatgpt.com) — Huffington, A. (2014), _Harmony / Penguin Random House_.
+- [Gary Vaynerchuk’s Actual Thoughts on Hustle](https://garyvaynerchuk.com/gary-vaynerchuk-thoughts-on-hustle/) — Team GaryVee (2018), _GaryVaynerchuk.com_.
+- [The darker side of hustle culture](https://www.axios.com/2021/06/08/hustle-culture-pandemic-job-security) — Pandey, E. (2021), _Axios_.
+- [Thrive: The Third Metric to Redefining Success and Creating a Life of Well-Being, Wisdom, and Wonder](https://www.penguinrandomhouse.com/books/237250/thrive-by-arianna-huffington/) — Huffington, A. (2014), _Harmony / Penguin Random House_.
 - [Work's Intimacy](https://books.google.fr/books/about/Work_s_Intimacy.html?id=LvcTcfqFbXIC&redir_esc=y) — Gregg, M. (2011). *Polity Press*
 - [The End of Burnout](https://www.ucpress.edu/book/9780520380011/the-end-of-burnout) — Malesic, J. (2022). *University of California Press*
-- [**Work Won’t Love You Back**](https://workwontloveyouback.org/?utm_source=chatgpt.com) — Jaffe, S. (2021), _Hurst Publishers_.
-- [**Hustle and Gig: Struggling and Surviving in the Sharing Economy**](https://www.jstor.org/stable/j.ctvcwp0kc?utm_source=chatgpt.com) — Ravenelle, A. J. (2019), _University of California Press_.
+- [Work Won’t Love You Back](https://workwontloveyouback.org/) — Jaffe, S. (2021), _Hurst Publishers_.
+- [Hustle and Gig: Struggling and Surviving in the Sharing Economy](https://www.jstor.org/stable/j.ctvcwp0kc) — Ravenelle, A. J. (2019), _University of California Press_.
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

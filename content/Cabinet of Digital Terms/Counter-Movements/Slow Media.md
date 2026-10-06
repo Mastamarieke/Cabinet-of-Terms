@@ -19,6 +19,8 @@ analysis_version: pending
 
 **The Friction:** The structural paradox is immediate. The **Slow Media** Manifesto was shared rapidly via Twitter and blogs — fast, high-volume platforms. **Slow media** content is produced and distributed through the same attention economy it opposes. [[Attention Economy]] — attention as scarce resource and commodity — profits equally from fast and slow content, as long as it generates engagement. [[Clickbait]] is what **slow media** is explicitly opposed to; they share the same distribution infrastructure. [[Digital Detox]] is **slow media**'s more radical sibling — and shares the same recuperation problem. The critique of speed becomes a content category; the content category drives engagement; the platform wins.
 
+One structural answer is to change who pays. De Correspondent, founded in Amsterdam by Rob Wijnberg and three others, raised more than a million euros from readers in eight days in 2013 on the promise of carrying no advertising and leaving the daily news cycle to others. A publication funded by its members has no reason to hold anyone's attention longer than the article takes.
+
 **Why This Matters:** **Slow media** makes visible a structural constraint on media criticism: you cannot opt out of platform distribution and still reach an audience. The movement that wants to slow down must use the same infrastructure as the movement it opposes. That constraint is worth naming.
 
 **Related terms:** [[Digital Detox]] · [[Mindful Scrolling]] · [[Unplugging]] · [[Attention Economy]] · [[Clickbait]] · [[Cognitive Surrender]] · [[Tech-Free Challenge]]
@@ -28,5 +30,6 @@ analysis_version: pending
 **Read more:**
 - [The Slow Media Manifesto](https://en.slow-media.net/manifesto) — Köhler, B., David, S. & Blumtritt, J. ,  Köhler, B.(2010). *slow-media.net*
 - [Diffusion of Slow Media Innovation](https://www.researchgate.net/publication/322952602_Diffusion_of_Slow_Media_Innovation) — Köhler, B. et al. (2018). *ResearchGate*
+- [De Correspondent](https://en.wikipedia.org/wiki/De_Correspondent) — Wikipedia (n.d.). History of the 2013 crowdfunding and the ad-free model
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

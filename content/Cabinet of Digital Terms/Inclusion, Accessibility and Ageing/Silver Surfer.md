@@ -26,7 +26,7 @@ analysis_version: pending
 
 ---
 **Read more:**
-- [Internet Use and Well-Being in Later Life: A Functional Approach](https://www.tandfonline.com/doi/full/10.1080/13607863.2016.1232370?utm_source=chatgpt.com) — Lifshitz, R., Nimrod, G., & Bachner, Y. G. (2018). _Aging & Mental Health, 22_(1), 85–91. 
+- [Internet Use and Well-Being in Later Life: A Functional Approach](https://www.tandfonline.com/doi/full/10.1080/13607863.2016.1232370) — Lifshitz, R., Nimrod, G., & Bachner, Y. G. (2018). _Aging & Mental Health, 22_(1), 85–91. 
 - [A Typology of Aging Internet Users: Exploring Digital Gradations in Internet Skills and Uses](https://journals.sagepub.com/doi/10.1177/08944393221117753) — Petrovčič, A., Prevodnik, K., Dolničar, V., & Vehovar, V. (2023). _Social Science Computer Review, 41_(5). 
 - [Aging Well in the Digital Age: Technology in Processes of Selective Optimization With Compensation](https://pubmed.ncbi.nlm.nih.gov/31504873/) — Nimrod, G. (2020). _The Journals of Gerontology: Series B, 75_(9), 2008–2017
 

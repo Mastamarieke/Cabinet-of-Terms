@@ -19,6 +19,8 @@ analysis_version: pending
 
 **The Friction:** The same technique that nudges people toward organ donation nudges them toward sharing more data, accepting cookies, staying on a platform longer, and spending more money. [[Dark Patterns]] and **nudging** share their mechanism — choice architecture — but differ in intent and disclosure. The line between them is contested and exploited: platforms routinely claim legitimate **nudging** while deploying [[Deceptive Design]]. Gray et al.'s (2024) dark patterns ontology explicitly includes "Bad Defaults" and "Manipulating Choice Architecture" — both nudge-derived techniques. [[Fair Patterns]] is the positive application: **nudging** in the user's interest rather than against it.
 
+The Netherlands tested the organ donation default at national scale. Since July 2020 every adult who does not register a choice is recorded as having no objection. An evaluation in 2024 found that the number of people who had registered a choice themselves rose from 6.9 million in 2020 to 10.7 million in 2023, that refusals grew faster than consents, and that it could not be established whether the law had produced more donations. The default moved people, partly towards the option it was meant to make less likely.
+
 **Why This Matters:** **Nudging** makes visible that the environment you make choices in was designed. The default was chosen by someone. The order of options was decided by someone. The colour of the button was tested by someone. Once you see the architecture, the choice looks different.
 
 **Related terms:** [[Dark Patterns]] · [[Deceptive Design]] · [[Fair Patterns]] · [[VSD (Value Sensitive Design)]] · [[Cognitive Surrender]] · [[Attention Economy]]
@@ -28,5 +30,6 @@ analysis_version: pending
 **Read more:**
 - [Nudge: Improving Decisions About Health, Wealth, and Happiness](https://www.amazon.com/Nudge-Improving-Decisions-Health-Happiness/dp/014311526X) — Thaler, R. & Sunstein, C. (2008). *Yale University Press*
 - [The Behavioural Insights Team](https://www.bi.team/) — Behavioural Insights Team (2010–present). _Behavioural Insights Team / UK Government origins_
+- [Na wijziging donorwet veel meer registraties](https://nos.nl/artikel/2518166-na-wijziging-donorwet-veel-meer-registraties) — NOS (2024, 25 April). *NOS*
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

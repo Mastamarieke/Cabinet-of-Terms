@@ -13,7 +13,7 @@ analysis_version: pending
 *Wexting* — a portmanteau of *walking* and *texting*. The practice of using a smartphone while walking, particularly in traffic environments.
 
 **Origin**
-**Wexting** entered public discourse around 2014 as pedestrian injury data linked to smartphone use began to accumulate. Licence et al. documented the biomechanical consequences in 2014 and 2015, establishing that texting while walking measurably alters gait, reduces spatial awareness, and increases collision risk. Cities in the Netherlands, Germany, and elsewhere subsequently modified pavement infrastructure in response.
+**Wexting** entered public discourse around 2014 as pedestrian injury data linked to smartphone use began to accumulate. Licence et al. documented the biomechanical consequences in 2014 and 2015, establishing that texting while walking measurably alters gait, reduces spatial awareness, and increases collision risk. Cities in the Netherlands, Germany, and elsewhere subsequently modified pavement infrastructure in response. In September 2014 a 50-metre stretch of pavement in Chongqing was split in two, with one half marked for phone users. The marketing official who set it up took the idea from a National Geographic television experiment in Washington, D.C.; according to ABC News, most of the people it was meant for had not noticed the markings. In February 2017 Bodegraven laid a strip of LED light, the +Lichtlijn by HIG Traffic Systems, into the pavement at a crossing near schools, where people looking down at a phone would see it. "This shouldn't be necessary," the manufacturer said, "but you cannot close your eyes to the actuality of what's happening."
 
 > Walking while texting — a behaviour that transfers platform distraction into physical public space, prompting infrastructure to adapt to the phone rather than the reverse.
 
@@ -34,5 +34,7 @@ Once you see **wexting** infrastructure as an externalised cost of platform desi
 **Read more:**
 - [Gait Pattern Alterations During Walking, Texting and Walking and Texting](https://pmc.ncbi.nlm.nih.gov/articles/PMC4519241/) — Licence, S. et al. (2015). *PLoS ONE*
 - [Texting and Walking: Strategies for Postural Control and Implications for Safety](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3898913/) — Licence, S. et al. (2014). *PLoS ONE*
+- [Stay in Your Lane: Sidewalk Opens for Smartphone Addicts](https://abcnews.com/Technology/stay-lane-sidewalk-opens-smartphone-addicts/story?id=25516144) — Newcomb, A. (2014, 15 September). *ABC News*. The phone lane in Chongqing
+- [Dutch city installs lights in sidewalk to help distracted phone users cross the street safely](https://globalnews.ca/news/3257580/dutch-city-installs-lights-in-sidewalk-to-help-distracted-phone-users-cross-the-street-safely/) — Wilson, A. (2017, 17 February). *Global News*. The +Lichtlijn in Bodegraven
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

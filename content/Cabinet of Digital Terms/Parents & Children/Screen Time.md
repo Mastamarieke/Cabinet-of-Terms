@@ -19,6 +19,8 @@ analysis_version: pending
 
 **The Friction:** The framing locates responsibility in the child and parent while excluding the platform. [[Predatory Design]] — interface design that exploits children's developmental vulnerabilities — is what makes **screen time** difficult to limit: the systems are engineered to resist disengagement. [[Dopamine Feedback Loops]] — variable reward schedules — are the psychological mechanism. The **screen time** framework asks "how do we limit the child's use?" rather than "why was the product designed to be this difficult to stop using?" Research by Andrew Przybylski and colleagues at the Oxford Internet Institute has consistently found that the relationship between **screen time** and wellbeing is more nuanced than the hours-based guidelines suggest — and that content and context matter more than duration.
 
+The Dutch government adopted the age version of the same framework in June 2025, as a guideline rather than a law: no social media under fifteen, and no smartphone of one's own before the last year of primary school. More than 1,400 doctors, scientists and other experts had asked for fourteen and sixteen. Because it is advice, the limits are for parents to enforce.
+
 **Why This Matters:** **Screen time** makes visible how a design problem gets reframed as a parenting problem. Once you see that move, the question shifts: whose responsibility is the irresistibility of the product?
 
 **Related terms:** [[Predatory Design]] · [[Dopamine Feedback Loops]] · [[Gaming Disorder]] · [[Brain Rot]] · [[Digital Detox]] · [[Calm Technology]]
@@ -31,4 +33,5 @@ analysis_version: pending
 - [Children and Adolescents and Digital Media](https://publications.aap.org/pediatrics/article/138/5/e20162593/60349/Children-and-Adolescents-and-Digital-Media) — Council on Communications and Media. (2016). _Pediatrics / American Academy of Pediatrics_
 - [Digital Ecosystems, Children, and Adolescents: Policy Statement](https://publications.aap.org/pediatrics/article/157/2/e2025075320/206129/Digital-Ecosystems-Children-and-Adolescents-Policy) — Munzer, T. et al. (2026). _Pediatrics / American Academy of Pediatrics_
 - [The Anxious Generation](https://www.anxiousgeneration.com/) — Haidt, J. (2024). _Penguin Press_
+- [Kabinet: geen sociale media onder 15 jaar, smartphone vanaf groep 8](https://nos.nl/artikel/2571382-kabinet-geen-sociale-media-onder-15-jaar-smartphone-vanaf-groep-8) — NOS (2025, 16 June). *NOS*
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

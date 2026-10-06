@@ -7,7 +7,7 @@ discipline:
   - Cultural Criticism
   - Popular Science
 cluster: Platform Mechanisms & Economics
-linked_entries: ["[[Ragebaiting]]", "[[Clickbait]]", "[[Wellness-to-Alt-Right Pipeline]]"]
+linked_entries: ["[[Ragebaiting]]", "[[Clickbait]]", "[[Wellness-to-Alt-Right Pipeline]]", "[[Biometric Surveillance]]"]
 tags: [source, secondary]
 ---
 
@@ -152,7 +152,28 @@ Used in Friction as the invented-content extreme of ragebait-for-ad-revenue.
 
 ---
 
-## 8. Contagious: Why Things Catch On
+## 8. Slimme camerabrillen zijn in opmars, maar zeer omstreden. Wat kunnen ze en wat mág eigenlijk?
+
+**Author:** T. Lelieveldt & F. Rensen
+**Year:** 2026
+**Type:** Journalism
+**Publisher:** De Volkskrant
+**URL:** https://www.volkskrant.nl/tech/slimme-camerabrillen-zijn-in-opmars-maar-zeer-omstreden-wat-kunnen-ze-en-wat-mag-eigenlijk~b0f96443/
+
+### What this source contributes
+
+Reports on camera glasses in the Netherlands: two boys filming staff of the Amsterdam public library through a pair of Meta glasses after setting off gas horns, pickup videos in which the woman who turns the man down is taken apart in the comments (described by fashion student Oana Mandache), and a test in Scheveningen in which five groups of passers-by were filmed and none of them noticed.
+
+Used in Friction to show what the device changes for ragebaiting: not the recording but the consent, since the person who supplies the outrage no longer knows there is a camera.
+
+### Related entries
+
+- [[Ragebaiting]] — outrage material supplied by someone who never agreed to it
+- [[Biometric Surveillance]] — the camera glasses as everyday surveillance tool
+
+---
+
+## 9. Contagious: Why Things Catch On
 
 **Author:** Jonah Berger
 **Year:** 2013
@@ -169,7 +190,7 @@ Documents the role of emotional arousal in virality: content triggering high-aro
 
 ---
 
-## 9. Rage-baiting — Wikipedia
+## 10. Rage-baiting — Wikipedia
 
 **Author:** Wikipedia community
 **Year:** ongoing

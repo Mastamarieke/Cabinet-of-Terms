@@ -29,7 +29,7 @@ analysis_version: pending
 - [Seeing Like a State](https://yalebooks.yale.edu/book/9780300078152/seeing-like-a-state/) — Scott, J.C. (1998). *Yale University Press* — on state legibility projects
 - [Untrustworthy: Social Credit Isn’t What You Think It Is](https://verfassungsblog.de/untrustworthy-social-credit-isnt-what-you-think-it-is/) — Daum, J. (2019). _Verfassungsblog_
 - [China through a glass, darkly](https://www.chinalawtranslate.com/en/china-social-credit-score/) — Daum, J. (2017). _China Law Translate_
-  [Far From a **Panopticon**, Social Credit Focuses on Legal Violations](https://jamestown.org/far-from-a-**panopticon**-social-credit-focuses-on-legal-violations/?utm_source=chatgpt.com) — Daum, J. (2021). _Jamestown Foundation / China Brief_
+  [Far From a Panopticon, Social Credit Focuses on Legal Violations](https://jamestown.org/far-from-a-panopticon-social-credit-focuses-on-legal-violations/) — Daum, J. (2021). _Jamestown Foundation / China Brief_
   [Social Credit Action in 2025](https://www.chinalawtranslate.com/en/social-credit-action-in-2025/) — Daum, J. (2024). _China Law Translate_
   
 

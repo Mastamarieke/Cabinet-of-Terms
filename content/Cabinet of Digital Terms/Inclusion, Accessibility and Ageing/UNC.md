@@ -26,7 +26,7 @@ analysis_version: pending
 ---
 **Read more:**
 - [African American Vernacular English](https://doi.org/10.1017/9781316875742) — Green, L.J. (2002). *Cambridge University Press*
-- [Digital Ageism: How it Operates and Approaches to Tackling it](https://library.oapen.org/bitstream/handle/20.500.12657/63221/1/9781000904796.pdf?utm_source=chatgpt.com) — Rosales, A., Fernández-Ardèvol, M., & Svensson, J. (Eds.). (2023). _Routledge
+- [Digital Ageism: How it Operates and Approaches to Tackling it](https://library.oapen.org/bitstream/handle/20.500.12657/63221/1/9781000904796.pdf) — Rosales, A., Fernández-Ardèvol, M., & Svensson, J. (Eds.). (2023). _Routledge
 - [Unc](https://www.urbandictionary.com/define.php?term=Unc) — _Urban Dictionary_ (gebruik in internetcultuur)
 
 

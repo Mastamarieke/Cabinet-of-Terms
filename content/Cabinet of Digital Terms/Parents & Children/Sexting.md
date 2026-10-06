@@ -30,7 +30,7 @@ Recent developments in generative AI have further complicated these debates. Res
 **Read more:**
 - [‘Sexting’: the exchange of sexual messages online among European youth](https://www.researchgate.net/publication/233420813_%27Sexting%27_The_exchange_of_sexual_messages_online_among_European_youth) — Livingstone, S. & Görzig, A. (2012). _London School of Economics and Political Science_
 - [Children, Risk and Safety on the Internet](https://www.degruyter.com/document/doi/10.56687/9781847428844/html) — Livingstone, S., Haddon, L. & Görzig, A. (2012). _Policy Press_
--  [How chatbots perceive **sexting** by adolescents](https://www.researchgate.net/publication/379425495_How_chatbots_perceive_sexting_by_adolescents) — Aharoni, T., et al. (2024).
+-  [How chatbots perceive sexting by adolescents](https://www.researchgate.net/publication/379425495_How_chatbots_perceive_sexting_by_adolescents) — Aharoni, T., et al. (2024).
 - [Examining Conservative Attitudes in AI Conversations About Teen Sexting](https://cris.huji.ac.il/en/publications/examining-conservative-attitudes-in-ai-conversations-about-teen-s/) — Aharoni, T. & colleagues (2025).
 - [Actions Speak Louder Than Chats: Investigating AI Chatbot Age Gating](https://arxiv.org/abs/2602.10251) — Lin, J., et al. (2026). _arXiv_
 - [Understanding Teen Overreliance on AI Companion Chatbots Through Self-Reported Reddit Narratives](https://arxiv.org/abs/2507.15783) — Sharma, R., et al. (2025). _arXiv_

@@ -44,6 +44,6 @@ analysis_version: pending
 
 
 
-[Neuralink](https://**neuralink**.com/?utm_source=chatgpt.com) — Musk, E. et al. (2016–present). — brain–computer interface company frequently associated with contemporary transhumanist ambitions around cognition and human–machine integration
+- [Neuralink](https://neuralink.com/) — Musk, E. et al. (2016–present). — brain–computer interface company frequently associated with contemporary transhumanist ambitions around cognition and human–machine integration
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

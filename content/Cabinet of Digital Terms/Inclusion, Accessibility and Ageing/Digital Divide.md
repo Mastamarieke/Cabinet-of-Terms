@@ -27,9 +27,9 @@ analysis_version: pending
 ---
 **Read more:**
 - [The Deepening Divide: Inequality in the Information Society](https://sk.sagepub.com/book/mono/the-deepening-divide/toc) — van Dijk, J. (2005). *SAGE*
--  [# The **Digital Divide**:  Facing a Crisis or Creating a Myth?](https://mitpress.mit.edu/9780262531931/the-digital-divide/).  van Dijk, J (2020) *MIT Press_
+-  [# The Digital Divide:  Facing a Crisis or Creating a Myth?](https://mitpress.mit.edu/9780262531931/the-digital-divide/).  van Dijk, J (2020) *MIT Press_
 - [Examining the Second Level of the Digital Divide Through the Lens of Digital Capital](https://firstmonday.org/ojs/index.php/fm/article/view/10855) — Ruiu, M. L., & Ragnedda, M. (2020). _First Monday, 25_(7).
 - [Falling Through the Net: Defining the Digital Divide](https://govinfo.library.unt.edu/ecommerce/document/digital_divide_rpt.pdf) — National Telecommunications and Information Administration (NTIA). (1999). _U.S. Department of Commerce_ (classic source)
-- [Digital Technology and Older People: Towards a Sociological Approach to Technology Adoption in Later Life](https://journals.sagepub.com/doi/10.1177/0038038520975587?utm_source=chatgpt.com) — Barbosa Neves, B., & Mead, G. (2021). _Sociology_
+- [Digital Technology and Older People: Towards a Sociological Approach to Technology Adoption in Later Life](https://journals.sagepub.com/doi/10.1177/0038038520975587) — Barbosa Neves, B., & Mead, G. (2021). _Sociology_
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

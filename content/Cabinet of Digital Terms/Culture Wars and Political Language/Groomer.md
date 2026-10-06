@@ -26,7 +26,7 @@ analysis_version: pending
 
 ---
 **Read more:**
-- - [The '**groomer**' anti-LGBTQ+ panic is not new — and has caused immense harm](https://www.washingtonpost.com/made-by-history/2023/07/24/**groomer**-lgbtq-germany-children/) — Cassisa, S., _The Washington Post_ (2023)
+- - [The 'groomer' anti-LGBTQ+ panic is not new — and has caused immense harm](https://www.washingtonpost.com/made-by-history/2023/07/24/groomer-lgbtq-germany-children/) — Cassisa, S., _The Washington Post_ (2023)
 - [The Groomer Smear](https://www.lawfaremedia.org/article/groomer-smear) — Caraballo, A., _Harvard Law School / Lawfare_ (2022)
 - [Review of Online Grooming: Characteristics and Concerns](https://www.ojp.gov/ncjrs/virtual-library/abstracts/review-online-grooming-characteristics-and-concerns) — Whittle, H. & Hamilton-Giachritsis, C., _Aggression and Violent Behavior_ / National Institute of Justice (2013)
 

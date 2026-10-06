@@ -34,7 +34,7 @@ Once you see **Chad** as a normative standard rather than slang, you see that th
 **Read more:**
 - [Misogynist Incels Gone Mainstream](https://journals.sagepub.com/doi/10.1177/17416590231196125) — Czerwinsky, A. (2024). *Men and Masculinities*
 - [Hegemonic Masculinities in the Manosphere](https://spssi.onlinelibrary.wiley.com/doi/10.1111/asap.12308) — Vallerga, M. & Zurbriggen, E.L. (2022). *Analyses of Social Issues and Public Policy*
-- [**Men Won’t Stop ‘Chad Facing’ Online**](https://www.gq.com/story/chad-facing-gen-z-lip-sync-face?utm_source=chatgpt.com) — Yang, J. (2023), _GQ_.  
-- [Because Internet: Understanding the New Rules of Language**](https://www.penguinrandomhouse.com/books/540664/because-internet-by-gretchen-mcculloch/?utm_source=chatgpt.com) — McCulloch, G. (2019), _Riverhead Books / Penguin Random House_.
+- [Men Won’t Stop ‘Chad Facing’ Online](https://www.gq.com/story/chad-facing-gen-z-lip-sync-face) — Yang, J. (2023), _GQ_.  
+- [Because Internet: Understanding the New Rules of Language](https://www.penguinrandomhouse.com/books/540664/because-internet-by-gretchen-mcculloch/) — McCulloch, G. (2019), _Riverhead Books / Penguin Random House_.
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

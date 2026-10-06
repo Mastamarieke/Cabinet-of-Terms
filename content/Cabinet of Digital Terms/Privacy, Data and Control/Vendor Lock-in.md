@@ -26,10 +26,10 @@ analysis_version: pending
 
 ---
 **Read more:**
-- [Critical analysis of vendor lock-in and its impact on cloud computing migration: a business perspective](https://www.researchgate.net/publication/301334572_Critical_analysis_of_vendor_lock-in_and_its_impact_on_cloud_computing_migration_a_business_perspective?utm_source=chatgpt.com) — Opara-Martins, J., Sahandi, R. & Tian, F. (2016). _Journal of Cloud Computing_
+- [Critical analysis of vendor lock-in and its impact on cloud computing migration: a business perspective](https://www.researchgate.net/publication/301334572_Critical_analysis_of_vendor_lock-in_and_its_impact_on_cloud_computing_migration_a_business_perspective) — Opara-Martins, J., Sahandi, R. & Tian, F. (2016). _Journal of Cloud Computing_
 - [The Internet Con](https://www.versobooks.com/products/3035-the-internet-con) — Doctorow, C. (2023). *Verso Books* 
 - [Critical Review of Vendor Lock-in and its Impact on Adoption of Cloud Computing](https://www.researchgate.net/publication/272015526_Critical_Review_of_Vendor_Lock-in_and_its_Impact_on_Adoption_of_Cloud_Computing) — Opara-Martins, J., Sahandi, R. & Tian, F. (2014). _International Conference on Information Society (i-Society 2014)_
 - [From Cloud Giants to Local LLMs: Escaping Vendor Lock-In in 2025](https://www.northatlantic.fi/from-cloud-giants-to-local-llms-escaping-vendor-lock-in-in-2025/) — North Atlantic (2025). _North Atlantic_
-  [From Cloud Giants to Local LLMs: Escaping **Vendor Lock-In** in 2025](https://www.northatlantic.fi/from-cloud-giants-to-local-llms-escaping-vendor-lock-in-in-2025/) — North Atlantic (2025). _North Atlantic_
+  [From Cloud Giants to Local LLMs: Escaping Vendor Lock-In in 2025](https://www.northatlantic.fi/from-cloud-giants-to-local-llms-escaping-vendor-lock-in-in-2025/) — North Atlantic (2025). _North Atlantic_
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>
