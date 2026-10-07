@@ -21,7 +21,7 @@ analysis_version: pending
 
 **Why This Matters:** **Creator economy** names a labour model that circulates as entrepreneurship but functions as precarious employment. Once you see the employment relationship — platform as employer, creator as worker — the "freedom" framing looks different.
 
-**Related terms:** [[Hustle Culture]] · [[Personal Branding]] · [[Attention Economy]] · [[Recommender Systems]] · [[AI Literacy]] · [[Deskilling]] · [[Fair Patterns]]
+**Related terms:** [[Hustle Culture]] · [[Personal Branding]] · [[Attention Economy]] · [[Recommender Systems]] · [[AI Literacy]] · [[Deskilling]] · [[Fair Patterns]] · [[NPC]]
 
 
 ---

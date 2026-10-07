@@ -50,7 +50,7 @@ Beijing now treats the bond as a regulated product. Rules for "anthropomorphic i
 
 **Why This Matters:** **Parasocial relationship** names the emotional mechanism that makes digital media intimately engaging. [[Mimetic Desire]] explains why it works: the creator functions as a model — showing followers what is worth wanting, how to live, what to feel — and the follower imitates, without any reciprocal relationship existing. Once you know the term, "they feel like a friend" and "I feel like they know me" are both descriptions of a designed relationship structure.
 
-**Related terms:** [[Family Vlogging]] · [[Kidfluencer]] · [[Online Grooming]] · [[Recommender Systems]] · [[Comparison Culture]] · [[Mimetic Desire]] · [[Virtual Influencer]] · [[Creator Economy]] · [[AI Dependency]] · [[Pro-natalism]] · [[AI Literacy]] · [[Digital Detox]] · [[Dopamine Feedback Loops]]
+**Related terms:** [[Family Vlogging]] · [[Kidfluencer]] · [[Online Grooming]] · [[Recommender Systems]] · [[Comparison Culture]] · [[Mimetic Desire]] · [[Virtual Influencer]] · [[Creator Economy]] · [[AI Dependency]] · [[Pro-natalism]] · [[AI Literacy]] · [[Digital Detox]] · [[Dopamine Feedback Loops]] · [[NPC]]
 
 
 ---
