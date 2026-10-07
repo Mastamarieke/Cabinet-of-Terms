@@ -6,7 +6,7 @@ cluster: Gender & Identity
 Source material used in the analysis of [[Tradwife]].
 
 **Primary:**
-- [[Betz-2026|Betz, Liss & Ramsey (2026)]] — feminist-psychological frame; the three enabling conditions of the tradwife movement
+- [[Betz-Tradwife-2026|Betz, Liss & Ramsey (2026)]] — feminist-psychological frame; the three enabling conditions of the tradwife movement
 - [[Sykes-Tradwife-2024|Sykes & Hopner (2024)]] — netnography of 36 tradwife profiles; platform calibration as the mechanism behind the soft and hard versions of the same account
 
 **Secondary:**

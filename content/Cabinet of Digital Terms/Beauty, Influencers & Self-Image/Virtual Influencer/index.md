@@ -12,7 +12,7 @@ attention_moments:
 semantic_landscape: |
   **Virtual Influencer** occupies a position at the outer limit of the **Beauty, Influencers & Self-Image** cluster — the point at which the influencer form completes itself. Every mechanism the graph already maps — **Highlight Reel**, **Curated Life**, **Comparison Culture** — operates through human influencers who must still edit, select, and maintain the gap between their real and performed selves. The virtual influencer eliminates that gap. There is no self underneath the curation. The highlight reel is not a selection; it is the entire ontology.
 
-  The structural connection to **Influencer** is genealogical: the virtual influencer inherits the form and industrialises it. But the connection to **Parasocial Relationship** is more analytically revealing. Parasocial bonds — one-sided emotional connections to media figures — are real experiences from the follower's side. [[Kim-2023|Kim et al. (2023)]] show that the more human a virtual persona appears, the more automatic these responses become. The bond is real; the subject of it cannot exist outside the studio. The asymmetry that all parasocial relationships contain is here complete and by design.
+  The structural connection to **Influencer** is genealogical: the virtual influencer inherits the form and industrialises it. But the connection to **Parasocial Relationship** is more analytically revealing. Parasocial bonds — one-sided emotional connections to media figures — are real experiences from the follower's side. [[Kim-VirtualInfluencer-2023|Kim et al. (2023)]] show that the more human a virtual persona appears, the more automatic these responses become. The bond is real; the subject of it cannot exist outside the studio. The asymmetry that all parasocial relationships contain is here complete and by design.
 
   The upstream connection is **Synthetic Generation** — the technology that makes it possible. The downstream paths split: toward **Comparison Culture** (impossible standards now literally manufactured, not just curated), toward **Catfishing** in its institutional form (persona fabrication with brand backing), and toward **Body Dysmorphic Disorder** at the clinical endpoint of manufactured perfection.
 
@@ -29,9 +29,9 @@ semantic_landscape: |
 
 **The Appeal:** For brands, a virtual influencer offers total control. It never ages, never gets sick, never goes off-script, and never generates unplanned controversy. The persona is owned outright — a piece of intellectual property that can post indefinitely at any scale. For followers, the appeal is less visible: the warmth, the relatability, the sense of connection are real experiences, even if the source of them is not.
 
-**The Friction:** [[Kim-2023|Kim et al. (2023)]] locate the mechanism in the CASA paradigm — *Computers Are Social Actors*: the more human a virtual agent appears, the more it activates automatic social trust responses — the same responses that evolved for real human relationships. [[Sands-2022|Sands et al. (2022)]] show that anthropomorphism here is not a side effect of good design — it is the design intention. The virtual influencer does not just look trustworthy. It is engineered to trigger the neural and social processes that produce trust automatically, even when the audience knows the persona is fabricated.
+**The Friction:** [[Kim-VirtualInfluencer-2023|Kim et al. (2023)]] locate the mechanism in the CASA paradigm — *Computers Are Social Actors*: the more human a virtual agent appears, the more it activates automatic social trust responses — the same responses that evolved for real human relationships. [[Sands-VirtualInfluencer-2022|Sands et al. (2022)]] show that anthropomorphism here is not a side effect of good design — it is the design intention. The virtual influencer does not just look trustworthy. It is engineered to trigger the neural and social processes that produce trust automatically, even when the audience knows the persona is fabricated.
 
-[[Parasocial Relationship]] — the one-sided emotional bond that develops between a follower and a media figure — is the mechanism being activated. [[Kim-2023|Kim et al. (2023)]] found that this trust advantage disappears once AI origin is explicitly disclosed. That is precisely why disclosure is typically buried.
+[[Parasocial Relationship]] — the one-sided emotional bond that develops between a follower and a media figure — is the mechanism being activated. [[Kim-VirtualInfluencer-2023|Kim et al. (2023)]] found that this trust advantage disappears once AI origin is explicitly disclosed. That is precisely why disclosure is typically buried.
 
 [[Recommender Systems]] accelerate the dynamic: by surfacing the same virtual persona repeatedly, the algorithm builds familiarity that makes the parasocial bond feel earned — without any actual interaction taking place.
 
@@ -48,8 +48,8 @@ At the extreme end: **De Coninck** (2026) documents AI-generated personas posing
 **Read more:**
 
 *Primary:*
-- [[Kim-2023|Kim et al. (2023)]] — [The next hype in social media advertising](https://doi.org/10.3389/fpsyg.2023.1089051). *Frontiers in Psychology*
-- [[Sands-2022|Sands et al. (2022)]] — [Unreal influence: Leveraging AI in influencer marketing](https://doi.org/10.1108/EJM-12-2019-0949). *European Journal of Marketing*
+- [[Kim-VirtualInfluencer-2023|Kim et al. (2023)]] — [The next hype in social media advertising](https://doi.org/10.3389/fpsyg.2023.1089051). *Frontiers in Psychology*
+- [[Sands-VirtualInfluencer-2022|Sands et al. (2022)]] — [Unreal influence: Leveraging AI in influencer marketing](https://doi.org/10.1108/EJM-12-2019-0949). *European Journal of Marketing*
 
 *Secondary:*
 - [[Secondary-VirtualInfluencer|VirtualHumans.org (n.d.) · De Coninck (2026) · Internet Matters (2023) · VRT NWS (2023) · Youngworks (2025) · Sprout Social (2025) · The Marketing Cloud (2024)]] — industry directory, journalism, youth research, industry documentation

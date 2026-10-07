@@ -39,7 +39,7 @@ A lexicographic explainer defining "sigma male" as the term functions in mainstr
 
 Reports on the viral spread of sigma male content on TikTok and its contribution to a polarised gender discourse among young people. Documents the current, platform-specific circulation of the term.
 
-Note that this is a press release about the research by Tanner & Gillardin (2025), not independent reporting. See [[Tanner-Gillardin-2025]] for the study itself.
+Note that this is a press release about the research by Tanner & Gillardin (2025), not independent reporting. See [[Tanner-SigmaMale-2025]] for the study itself.
 
 ### Related entries
 
@@ -68,3 +68,39 @@ Not a critical or documentary source. This is an instance of the phenomenon the 
 
 - [[Sigma Male]] — the object the book advertises, which makes it central to the Appeal layer of the entry
 - [[Alpha Male]] — the book positions sigma explicitly above alpha
+
+---
+
+## 4. Alpha and beta male (section "Sigma male")
+
+**Author:** Wikipedia
+**Year:** n.d.
+**Type:** Reference
+**Publisher:** Wikipedia
+**URL:** https://en.wikipedia.org/wiki/Alpha_and_beta_male
+
+### What this source contributes
+
+The English Wikipedia redirects "Sigma male" to this article. Its section on the term says it first appeared in a blog post by the American writer Vox Day, went viral in 2021, had more than 46 billion views as #sigma on TikTok in 2023, has taken on an ironic and satirical meaning, and that Christian Bale's Patrick Bateman in *American Psycho* is often cited as the ideal sigma, "both through memes and unironic discussion". Consulted 7 October 2026.
+
+### Related entries
+
+- [[Sigma Male]] — Origin and the semantic landscape
+
+---
+
+## 5. Alphas, Betas, and Incels: Theorizing the Masculinities of the Manosphere
+
+**Author:** Debbie Ging
+**Year:** 2019
+**Type:** Academic
+**Publisher:** Men and Masculinities
+**URL:** https://doi.org/10.1177/1097184x17706401
+
+### What this source contributes
+
+The standard account of the manosphere's alpha/beta hierarchy, of which the sigma claims to stand outside. Until October 2026 a primary source for this entry; now background, since Diallo et al. (2025) study the sigma itself.
+
+### Related entries
+
+- [[Sigma Male]] — background

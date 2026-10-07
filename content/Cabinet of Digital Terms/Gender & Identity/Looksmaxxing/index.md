@@ -60,7 +60,7 @@ semantic_landscape: |
 
 *Primary:*
 - [[Ging-Looksmaxxing-2019|Ging, D. (2019)]] — [Alphas, Betas, and Incels](https://doi.org/10.1177/1097184x17706401). *Men and Masculinities*
-- [[Konig-2025|Konig et al. (2025)]] — [Looksmaxxing: Straddling the Inflection Between Self-Enhancement and Self-Harm](https://journals.sagepub.com/doi/10.1177/26893614251409793). *SAGE Open Medicine*
+- [[Konig-Looksmaxxing-2025|Konig et al. (2025)]] — [Looksmaxxing: Straddling the Inflection Between Self-Enhancement and Self-Harm](https://journals.sagepub.com/doi/10.1177/26893614251409793). *SAGE Open Medicine*
 
 *Secondary:*
 - [[Secondary-Looksmaxxing|Hofstede (2026) · Usborne (2024) · Murdoch (1970)]] — journalism + philosophy
