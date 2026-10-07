@@ -11,7 +11,7 @@ import style from "./styles/attentionChart.scss"
 // attention-<file>.json beside a flat Term.md), written by scripts/attention.py. No file,
 // no block. Each series is indexed to its own peak, so the lines share one scale without
 // pretending that page views and papers are the same kind of number.
-type Series = { label: string; source: string; values: Record<string, number>; raw?: Record<string, number>; period?: "month" | "year" }
+type Series = { label: string; source: string; values: Record<string, number>; raw?: Record<string, number>; period?: "month" | "year"; kind?: "use" }
 type Attention = {
   term: string
   retrieved: string
@@ -231,6 +231,55 @@ export default (() => {
       }
     }
 
+    // The stack, after Tufte ("a stack allows fast effective parallel comparisons", 26-09):
+    // the same series one under the other, each on its own scale, on one shared axis of
+    // months, with the moments as dotted lines through every row. Shown only in the loupe
+    // (07-10, Marieke: "bij elkaar, en als je het vergroot onder elkaar"); the panel keeps
+    // the compact overlay. Each row ends in its peak with its own unit and month, so the
+    // order of the peaks reads from left to right.
+    const SW = 900
+    const SL = 150
+    const SR = 96
+    const ROW = 46
+    const GAP = 14
+    const STOP = 42
+    const sx = (i: number) => SL + (i * (SW - SL - SR)) / (months.length - 1)
+    const rows = shapes.map((sh, r) => {
+      const top = STOP + r * (ROW + GAP)
+      const bottom = top + ROW
+      const sy = (frac: number) => bottom - frac * ROW
+      if (sh.yearly) {
+        const vals = years.map((yr) => sh.s.values[String(yr)] ?? 0)
+        const max = Math.max(...vals) || 1
+        const half = (SW - SL - SR) / (months.length - 1) / 2
+        const blocks = years
+          .map((yr, i) => {
+            const sp = span(yr)
+            if (!sp || !vals[i]) return null
+            return { x0: sx(sp[0]) - half + 1, x1: sx(sp[1]) + half - 1, top: sy(vals[i] / max) }
+          })
+          .filter((b): b is { x0: number; x1: number; top: number } => b !== null)
+        return { sh, top, bottom, blocks, runs: [] as string[], peak: null as null | readonly [number, number] }
+      }
+      const pts = months.map((m, i) => (m in sh.s.values ? ([sx(i), sy(sh.s.values[m] / sh.max)] as const) : null))
+      const runs: string[] = []
+      let run: string[] = []
+      pts.forEach((p) => {
+        if (p) run.push(`${p[0].toFixed(1)},${p[1].toFixed(1)}`)
+        else if (run.length) { runs.push(run.join(" ")); run = [] }
+      })
+      if (run.length) runs.push(run.join(" "))
+      return { sh, top, bottom, blocks: [] as { x0: number; x1: number; top: number }[], runs, peak: pts[sh.peakAt] }
+    })
+    const SH = STOP + shapes.length * (ROW + GAP) + 10
+    // numbers of moments in neighbouring months would sit on top of each other: those
+    // closer than one badge to the previous one go up a step (Tradwife, April and May 2024)
+    const badgeY: number[] = []
+    moments.forEach((m, k) => {
+      const prev = k ? moments[k - 1] : null
+      badgeY.push(prev && sx(m.i) - sx(prev.i) < 18 && badgeY[k - 1] === STOP - 14 ? STOP - 30 : STOP - 14)
+    })
+
     // what the reader's pointer reads out, month by month: the real figures of every series
     const readout = {
       months,
@@ -313,8 +362,9 @@ export default (() => {
               ))}
             {shapes
               .filter((sh) => !sh.yearly)
-              .map(({ runs, colour }) =>
-                // one polyline per run, or a single one would bridge the gap it is meant to show
+              .map(({ runs, colour, s }) =>
+                // one polyline per run, or a single one would bridge the gap it is meant to show;
+                // a line of use (4chan) is dashed, so that it does not pass for attention
                 (runs ?? []).map((r) => (
                   <polyline
                     points={r.map(([px, py]) => `${px.toFixed(1)},${py.toFixed(1)}`).join(" ")}
@@ -322,6 +372,7 @@ export default (() => {
                     stroke={colour}
                     stroke-width="1.4"
                     stroke-linejoin="round"
+                    stroke-dasharray={s.kind === "use" ? "3 2" : undefined}
                     class="attention-line"
                   />
                 )),
@@ -356,6 +407,53 @@ export default (() => {
                     {hasYearly && Number(m.slice(0, 4)) === lastYear ? "*" : ""}
                   </text>
                 </>
+              ) : null,
+            )}
+          </svg>
+          <svg viewBox={`0 0 ${SW} ${SH}`} class="attention-stack" role="img" aria-label={`Attention to ${term}, one row per source, each on its own scale`}>
+            {moments.map((m, k) => (
+              <g class="attention-stack-moment" data-moment={m.n}>
+                <line x1={sx(m.i).toFixed(1)} y1={badgeY[k] + 8} x2={sx(m.i).toFixed(1)} y2={SH - 18} class="attention-stack-dots" />
+                <circle cx={sx(m.i).toFixed(1)} cy={badgeY[k]} r="8" class="attention-moment-dot" />
+                <text x={sx(m.i).toFixed(1)} y={badgeY[k] + 3.4} text-anchor="middle" class="attention-moment-num">
+                  {m.n}
+                </text>
+              </g>
+            ))}
+            {rows.map(({ sh, top, bottom, blocks, runs, peak }) => (
+              <g class="attention-stack-row">
+                <line x1={SL} y1={bottom} x2={SW - SR} y2={bottom} class="attention-base" />
+                <text x={SL - 12} y={(top + bottom) / 2 + 4} text-anchor="end" class="attention-stack-label">
+                  {shortLabel(sh.s.label)}
+                </text>
+                {sh.s.kind === "use" && (
+                  <text x={SL - 12} y={(top + bottom) / 2 + 17} text-anchor="end" class="attention-stack-sub">
+                    use, not attention
+                  </text>
+                )}
+                {blocks.map((b) => (
+                  <rect x={b.x0.toFixed(1)} y={b.top.toFixed(1)} width={(b.x1 - b.x0).toFixed(1)} height={(bottom - b.top).toFixed(1)} fill={sh.colour} class="attention-block" />
+                ))}
+                {runs.map((r) => (
+                  <>
+                    <polygon points={`${r.split(" ")[0].split(",")[0]},${bottom} ${r} ${r.split(" ").slice(-1)[0].split(",")[0]},${bottom}`} fill={sh.colour} class="attention-area" />
+                    <polyline points={r} fill="none" stroke={sh.colour} stroke-width="1.4" stroke-linejoin="round" stroke-dasharray={sh.s.kind === "use" ? "3 2" : undefined} class="attention-line" />
+                  </>
+                ))}
+                {peak && <circle cx={peak[0].toFixed(1)} cy={peak[1].toFixed(1)} r="3" fill={sh.colour} />}
+                <text x={SW - SR + 10} y={top + 12} class="attention-stack-peak" fill={sh.colour}>
+                  {isIndex(sh.s.label) ? "100" : sh.s.kind === "use" ? `${sh.max.toFixed(1)} per 10k` : fmt(sh.max, sh.s.label)}
+                </text>
+                <text x={SW - SR + 10} y={top + 25} class="attention-stack-when">
+                  {sh.peakLabel}
+                </text>
+              </g>
+            ))}
+            {months.map((m, i) =>
+              m.endsWith("-01") ? (
+                <text x={(sx(i) + 3).toFixed(1)} y={SH - 4} class="attention-year">
+                  {m.slice(0, 4)}
+                </text>
               ) : null,
             )}
           </svg>
@@ -398,7 +496,10 @@ export default (() => {
           )}
           <script type="application/json" class="attention-data" dangerouslySetInnerHTML={{ __html: JSON.stringify(readout).replace(/</g, "\\u003c") }}></script>
           <p class="attention-note">
-            Attention to the term, not use of it. Where the field and the landscape are curated, the curve is
+            {series.some((s) => s.kind === "use")
+              ? "Attention to the term, and, in the dashed line, its use on one forum. "
+              : "Attention to the term, not use of it. "}
+            Enlarged, the sources stand one under the other, each on its own scale. Where the field and the landscape are curated, the curve is
             computed. Two of the lines are counts and one is not: page views and articles are measured,
             while Google Trends is an index from 0 to 100 against its own busiest month, because Google
             publishes no figures. The sources cannot be compared in size, only in shape and timing: each is drawn on its

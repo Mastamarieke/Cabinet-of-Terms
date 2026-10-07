@@ -148,6 +148,34 @@ def trends_api(term):
     vals = {m: (sum(v) / len(v) if v else 0) for m, v in by.items()}
     return vals if sum(vals.values()) else None
 
+def forum(term, pins):
+    """Use of the word on 4chan per month, per 10,000 posts, from Open Measures (the Bellingcat
+    toolkit's open archive, formerly SMAT; no account, 39 requests a day). Only when the
+    curator pins forum=4chan (07-10-2026, Marieke): for words born on forums it shows use next
+    to attention (Tradwife on 4chan ran ahead of Wikipedia; Hypergamy is flat there while
+    Wikipedia peaks), for a word like Sharenting the board says nothing. The count is divided
+    by the posts containing "the", because the archive grew: it is complete from May 2021,
+    so the line starts there. The archive withholds the last six months."""
+    phrase = pins.get("forum_term", term).lower()
+    # the free API refuses any period that reaches into the last six months (403), so the
+    # request ends at the last day of the month seven months back
+    t = datetime.date.today()
+    y, m = divmod(t.year * 12 + t.month - 1 - 6, 12)
+    until = (datetime.date(y, m + 1, 1) - datetime.timedelta(days=1)).isoformat()
+    base = f"https://api.openmeasures.io/timeseries?site=4chan&since=2021-05-01&until={until}&interval=month&term="
+    def series(q):
+        d = get(base + urllib.parse.quote(q))
+        out = {}
+        for b in d.get("aggregations", {}).get("now", {}).get("buckets", []):
+            m = datetime.datetime.fromtimestamp(b["key"] / 1000, datetime.timezone.utc).strftime("%Y-%m")
+            out[m] = b["doc_count"]
+        return out
+    hits = series(phrase)
+    time.sleep(2)
+    the = series("the")
+    vals = {m: hits.get(m, 0) / n * 10_000 for m, n in the.items() if m in months and n >= 1000}
+    return vals, phrase
+
 def openalex(term, pins):
     # quoted, so that a two-word term is searched as a phrase and not as two words anywhere
     phrase = pins.get("openalex", term).lower()   # openalex=gooning when the term itself is ambiguous
@@ -338,7 +366,29 @@ def run(term, out_path, pins):
                     checked.append("Google Trends: not available")
                     curator.append("Google Trends: no export beside the entry, and Google did not answer the request")
 
-    enough = len(series) >= 2
+    # 4chan, use of the word: only when pinned (forum=4chan); kept from the last run if the
+    # archive does not answer, like Trends
+    if pins.get("forum") == "4chan":
+        vals, phrase = forum(term, pins)
+        if vals and sum(vals.values()):
+            series.append({
+                "label": "4chan, use of the word (per 10,000 posts)",
+                "kind": "use",
+                "source": f"Open Measures, the open archive of fringe platforms: posts on 4chan containing \"{phrase}\" per month, per 10,000 posts containing \"the\". This line counts use of the word on one forum, not attention to it; the archive is complete from May 2021 and withholds the last six months",
+                "period": "month",
+                "values": vals,
+                "retrieved": today,
+            })
+            curator.append("4chan: fetched from Open Measures")
+        else:
+            kept = [x for x in old.get("series", []) if x["label"].startswith("4chan")]
+            if kept:
+                series.append(kept[0])
+                curator.append("4chan: Open Measures did not answer today, line kept")
+            else:
+                curator.append("4chan: Open Measures did not answer")
+
+    enough = len([s for s in series if s.get("kind") != "use"]) >= 2
     data = {
         "term": term,
         "retrieved": today,
@@ -349,7 +399,7 @@ def run(term, out_path, pins):
         "curator": curator,
         "wikipedia": wikipedia,
         "since": since,   # per language, the month its article was written: where a line may start
-        "note": "Attention to the term, not use of it. The sources cannot be compared in size, only in shape and timing: each is indexed to its own peak (= 100); the current year is partial.",
+        "note": ("Attention to the term" + (", and on 4chan its use" if any(x.get("kind") == "use" for x in series) else ", not use of it") + ". The sources cannot be compared in size, only in shape and timing: each is indexed to its own peak (= 100); the current year is partial."),
         "series": series,
     }
     data["pins"] = pins

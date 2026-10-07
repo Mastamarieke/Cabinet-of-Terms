@@ -382,6 +382,73 @@
       font-size: 0.9em;
     }
   }
+  // the stack: hidden in the panel, the drawing of the loupe (07-10); the overlay drawing
+  // stays in the panel only
+  .attention-stack {
+    display: none;
+    width: 100%;
+    height: auto;
+    font-family: "Barlow Condensed", var(--headerFont), sans-serif;
+  }
+  .attention-overlay-card {
+    .attention-svg {
+      display: none;
+    }
+    .attention-stack {
+      display: block;
+    }
+  }
+  // in its own row research needs no room left for the lines in front of it
+  .attention-stack .attention-block {
+    opacity: 0.32;
+  }
+  .attention-stack-label {
+    font-size: 13px;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    fill: var(--darkgray);
+  }
+  .attention-stack-sub {
+    font-size: 11px;
+    font-style: italic;
+    fill: var(--gray);
+  }
+  .attention-stack-peak {
+    font-size: 13px;
+  }
+  .attention-stack-when {
+    font-size: 11px;
+    fill: var(--gray);
+  }
+  .attention-stack-dots {
+    stroke: var(--han-red);
+    stroke-width: 0.8;
+    stroke-dasharray: 1.5 2.5;
+    opacity: 0.6;
+  }
+  .attention-stack-moment {
+    cursor: pointer;
+    .attention-moment-dot {
+      fill: var(--light);
+      stroke: var(--han-red);
+      stroke-width: 1.2;
+    }
+    .attention-moment-num {
+      font-size: 10.5px;
+      fill: var(--han-red);
+    }
+    &.is-active .attention-moment-dot {
+      fill: var(--han-red);
+    }
+    &.is-active .attention-moment-num {
+      fill: var(--light);
+    }
+    &.is-active .attention-stack-dots {
+      opacity: 1;
+      stroke-width: 1.4;
+    }
+  }
+
   .attention-overlay-head {
     display: flex;
     align-items: center;

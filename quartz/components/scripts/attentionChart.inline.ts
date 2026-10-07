@@ -14,7 +14,9 @@ function resolveVars(el: Element, root: CSSStyleDeclaration) {
 }
 
 function shoot(body: HTMLElement) {
-  const svg = body.querySelector("svg.attention-svg") as SVGSVGElement | null
+  // in the loupe the drawing is the stack (07-10), so the camera takes that one there
+  const svg = ((body.closest(".attention-overlay-card") ? body.querySelector("svg.attention-stack") : null) ??
+    body.querySelector("svg.attention-svg")) as SVGSVGElement | null
   if (!svg) return
   const term = body.dataset.term ?? "term"
   const root = getComputedStyle(document.documentElement)
@@ -317,7 +319,7 @@ function pointer(body: HTMLElement) {
     })
   }
   // a tap on a mark, or on the number in the list, reads that moment aloud
-  for (const mark of body.querySelectorAll<SVGGElement>("svg .attention-moment[data-moment]")) {
+  for (const mark of body.querySelectorAll<SVGGElement>("svg .attention-moment[data-moment], svg .attention-stack-moment[data-moment]")) {
     const nr = Number(mark.getAttribute("data-moment"))
     const tap = (e: Event) => {
       e.stopPropagation()
