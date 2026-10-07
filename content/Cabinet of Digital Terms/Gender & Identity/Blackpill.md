@@ -27,7 +27,7 @@ analysis_version: pending
 ---
 **Read more:**
 - [Alphas, Betas, and Incels](https://doi.org/10.1177/1097184x17706401) — Ging, D. (2019). *Men and Masculinities*
-- [The Incel Rebellion](https://doi.org/10.1177/1097184X20954852) — Scaptura, M. & Boyle, K. (2020). *Men and Masculinities*
+- [Masculinity Threat, "Incel" Traits, and Violent Fantasies Among Heterosexual Men in the United States](https://doi.org/10.1177/1557085119896415) — Scaptura, M.N. & Boyle, K.M. (2020). *Feminist Criminology*
 - [The Black Pill: New Technology and the Male Supremacy of Involuntarily Celibate Men](https://pmc.ncbi.nlm.nih.gov/articles/PMC8600582/). Maxwell, D., Robinson, S. R., Williams, J. R. & Keaton, C. (2020). _Men and Masculinities_
 - [Beauty and the Labor Market](https://www.jstor.org/stable/2117767). Hamermesh, D. S., & Biddle, J. E. (1994). _American Economic Review, 84_(5), 1174–1194.
 

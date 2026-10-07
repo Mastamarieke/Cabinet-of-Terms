@@ -27,7 +27,6 @@ analysis_version: pending
 ---
 **Read more:**
 - [Atlas Shrugged](https://www.penguinrandomhouse.com/books/296832/atlas-shrugged-centennial-ed-hc-by-ayn-rand/) — Rand, A. (1957). *Random House*
-- [From Ayn Rand to Silicon Valley](https://doi.org/10.1093/oxfordhb/9780190456368.013.11) — Metcalf, S. (2017). *The Guardian*
 - [The Virtue of Selfishness](https://aynrand.org/novels/the-virtue-of-selfishness/) — Rand, A. (1964). _New American Library_ 
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

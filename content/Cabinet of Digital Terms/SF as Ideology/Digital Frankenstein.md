@@ -30,7 +30,7 @@ The **Digital Frankenstein** narrative recurs throughout the history of computin
 ---
 **Read more:**
 - [Frankenstein](https://ia902908.us.archive.org/9/items/Frankenstein1818Edition/frank-a5.pdf) — Shelley, M. (1818/2003). *Penguin Classics*
-- [Frankenstein's Shadow](https://doi.org/10.1177/0306312712456072) — Turney, J. (1998). *Science as Culture* — on Frankenstein as template for technology risk discourse
+- [Frankenstein's Footsteps: Science, Genetics and Popular Culture](https://openlibrary.org/works/OL2776763W) — Turney, J. (1998). *Yale University Press* — on Frankenstein as template for technology risk discourse
 - [Frankenstein AI: a monster made by many](https://medium.com/columbia-dsl/frankenstein-ai-a-monster-made-by-many-ae6664dd26e5) — Weiler, L. (2017). _Columbia Digital Storytelling Lab_ — immersive AI storytelling project using Mary Shelley’s Frankenstein as a framework for exploring artificial intelligence, robotics, and emergent technologies
 - [Jeeves or Digital Frankenstein? The AI Genie Came Out of the Bottle in 2017](https://www.business-standard.com/article/economy-policy/jeeves-or-digital-frankenstein-the-ai-genie-came-out-of-the-bottle-in-2017-117122900163_1.html) — Narayanan, M. (2017). _Business Standard_ — on AI assistants, automation, and fears of uncontrolled machine intelligence
 - [Will the Use of AI in Human Resources Create a Digital Frankenstein?](https://www.sciencedirect.com/science/article/abs/pii/S0090261624000068) — Lukaszewski, K. M. & Stone, D. L. (2024). _Organizational Dynamics_ — on AI systems in HR, algorithmic bias, privacy, discrimination, and ethical risks explicitly framed as a “digital Frankenstein”

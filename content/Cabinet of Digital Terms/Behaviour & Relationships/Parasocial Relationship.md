@@ -55,8 +55,8 @@ Beijing now treats the bond as a regulated product. Rules for "anthropomorphic i
 
 ---
 **Read more:**
-- [Mass Communication and Para-Social Interaction](https://doi.org/10.1521/00332747.1956.11023049) — Horton, D. & Wohl, R.R. (1956). *Psychiatry*
-- [Parasocial Relationships in Social Media](https://doi.org/10.1177/1461444817721401) — Dibble, J.L. et al. (2016). *New Media & Society*
+- [Mass Communication and Para-Social Interaction](https://doi.org/10.1080/00332747.1956.11023049) — Horton, D. & Wohl, R.R. (1956). *Psychiatry*
+- [Parasocial Interaction and Parasocial Relationship: Conceptual Clarification and a Critical Assessment of Measures](https://doi.org/10.1111/hcre.12063) — Dibble, J.L., Hartmann, T. & Rosaen, S.F. (2016). *Human Communication Research*
 - [De populaire Dutch Travel Maniac reist in zijn vlogs voornamelijk naar een wereld van extreemrechts gedachtegoed](https://www.volkskrant.nl/binnenland/de-populaire-dutch-travel-maniac-reist-in-zijn-vlogs-voornamelijk-naar-een-wereld-van-extreemrechts-gedachtegoed~b31208e1/) — Van de Griend, R. & Pottjewijd, W. (4 juli 2026). *De Volkskrant*
 - [In Beijing huren vrouwen hun ideale fictieve vriendje in: 'Echte vriendjes kunnen vreemdgaan en gewelddadig zijn'](https://www.volkskrant.nl/volkskrant-magazine/in-beijing-huren-vrouwen-hun-ideale-fictieve-vriendje-in-echte-vriendjes-kunnen-vreemdgaan-en-gewelddadig-zijn~b2cf6946/) — Blussé, J. (3 september 2026). *De Volkskrant*
 

@@ -26,7 +26,7 @@ analysis_version: pending
 
 ---
 **Read more:**
-- [Moral Disengagement](https://doi.org/10.1177/0963721413496654) — Bandura, A. (2002). *Journal of Moral Education* — on bureaucratic language as moral disengagement mechanism
+- [Selective Moral Disengagement in the Exercise of Moral Agency](https://doi.org/10.1080/0305724022014322) — Bandura, A. (2002). *Journal of Moral Education* — on bureaucratic language as moral disengagement mechanism
 - - [Ice director wants to run deportations like ‘Amazon Prime for human beings’](https://www.theguardian.com/us-news/2025/apr/09/ice-todd-lyons-deporation-amazon) — Dunbar, M. (2025). _The Guardian_
 - [ICE director envisions Amazon-like mass deportation system](https://azmirror.com/2025/04/08/ice-director-envisions-amazon-like-mass-deportation-system-prime-but-with-human-beings/) — Arizona Mirror. (2025). _Arizona Mirror_
 - [ICE Wants to Stash People in Amazon-style Warehouses](https://www.nilc.org/articles/ice-wants-to-stash-people-in-amazon-style-warehouses/) — Mohyeddin, I. (2026). _National Immigration Law Center_

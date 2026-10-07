@@ -27,7 +27,6 @@ analysis_version: pending
 ---
 **Read more:**
 - [Angry White Men](https://www.publicaffairsbooks.com/titles/michael-kimmel/angry-white-men/9781568589619/) — Kimmel, M. (2013). *PublicAffairs*
-- [The Manosphere and the Radicalization of Young Men](https://doi.org/10.1080/19361610.2021.1965803) — Moonshot CVE (2021). *Perspectives on Terrorism*
   [The Rules of Attraction: An Empirical Critique of Pseudoscientific Theories about Sex in the Manosphere](https://www.researchgate.net/publication/365882046_The_Rules_of_Attraction_An_Empirical_Critique_of_Pseudoscientific_Theories_about_Sex_in_the_Manosphere) — research into **manosphere** theories about dating hierarchies.
 
 

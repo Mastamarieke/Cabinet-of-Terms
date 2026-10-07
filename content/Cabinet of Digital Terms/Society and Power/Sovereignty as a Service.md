@@ -26,7 +26,7 @@ analysis_version: pending
 
 ---
 **Read more:**
-- [The Palantir Problem](https://doi.org/10.2139/ssrn.3942399) — Brayne, S. (2021). *SSRN*
+- [Big Data Surveillance: The Case of Policing](https://doi.org/10.1177/0003122417725865) — Brayne, S. (2017). *American Sociological Review*
 - [Crack-Up Capitalism](https://www.penguinrandomhouse.com/books/699131/crack-up-capitalism-by-quinn-slobodian/) — Slobodian, Q. (2023). *Metropolitan Books*
 - [Trump's sanctions on ICC's chief prosecutor have halted tribunal's work, officials and lawyers say](https://www.pbs.org/newshour/world/trumps-sanctions-on-iccs-chief-prosecutor-have-halted-tribunals-work-officials-and-lawyers-say) — Quell, M. (2025, 15 May). *Associated Press / PBS NewsHour*
 

@@ -27,7 +27,7 @@ analysis_version: pending
 ---
 **Read more:**
 - [The Alt-Right: What Everyone Needs to Know®What Everyone Needs to Know®](https://www.researchgate.net/publication/346866413_The_Alt-Right_What_Everyone_Needs_to_KnowRWhat_Everyone_Needs_to_Know) — Hawley, G. (2019). *Journal of Marketing Management*
-- [Moral Disengagement](https://doi.org/10.1177/0963721413496654) — Bandura, A. (2002). *Journal of Moral Education*
+- [Selective Moral Disengagement in the Exercise of Moral Agency](https://doi.org/10.1080/0305724022014322) — Bandura, A. (2002). *Journal of Moral Education*
 - [The Great Meme War](https://journals.openedition.org/angles/369). Phillips, W. (2016). _Angles: New Perspectives on the Anglophone World_
 
 

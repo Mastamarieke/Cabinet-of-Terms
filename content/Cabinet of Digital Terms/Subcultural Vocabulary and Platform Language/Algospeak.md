@@ -27,7 +27,6 @@ analysis_version: pending
 ---
 **Read more:**
 - [Internet 'algospeak' is changing our language in real time, from 'nip nops' to 'le dollar bean'](https://www.washingtonpost.com/technology/2022/04/08/algospeak-tiktok-le-dollar-bean/) — Lorenz, T. (2022). *The Washington Post*
-- [How Social Media Platforms Shape Language](https://doi.org/10.1080/10350330.2022.2063301) — Squires, L. (2022). *Social Semiotics*
 - [You Can (Not) Say What You Want: Using Algospeak to Contest and Evade Algorithmic Content Moderation on TikTok](https://journals.sagepub.com/doi/10.1177/20563051231194586) — Steen, E., Yurechko, K. & Klug, D. (2023). *Social Media + Society*
 - [How Algorithm Awareness Impacts Algospeak Use on TikTok](https://dl.acm.org/doi/fullHtml/10.1145/3543873.3587355) — Klug, D. et al. (2023). *CHI Conference on Human Factors in Computing Systems*
 - ["They Edited Out her Nip Nops": Linguistic Innovation as Textual Censorship Avoidance on TikTok](https://www.researchgate.net/publication/388241957_They_Edited_Out_her_Nip_Nops_Linguistic_Innovation_as_Textual_Censorship_Avoidance_on_TikTok) — Calhoun, K. & Fawcett, A. (2023). *Language@Internet*

@@ -31,6 +31,6 @@ analysis_version: pending
 - [Introduction: Variation, representation, and change in English in CMC](https://www.degruyterbrill.com/document/doi/10.1515/9783110490817-002/html) — Squires, L. (2016), _English in Computer-Mediated Communication: Variation, Representation, and Change_.  
 - [The Language of Internet Memes](https://spring2017.designforthe.net/content/6-library/12-language-of-internet-memes/language-of-internet-memes_michaelmandiberg.pdf) — Davison, P. (2012), _The Social Media Reader_.  
 - [What Does It Meme? English–Spanish Codeswitching and Enregisterment in Virtual Social Space](https://www.mdpi.com/2226-471X/8/4/231) — Dickinson, K. V. (2023), _Languages_.  
-- [From Red Pill to Tradwife](https://doi.org/10.1177/1461444820912341) — Marwick, A. & Lewis, R. (2017). *Data & Society*
+- [Media Manipulation and Disinformation Online](https://datasociety.net/library/media-manipulation-and-disinfo-online/) — Marwick, A. & Lewis, R. (2017). *Data & Society*
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

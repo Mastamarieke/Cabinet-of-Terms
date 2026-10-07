@@ -27,6 +27,5 @@ analysis_version: pending
 ---
 **Read more:**
 - [Technofeudalism: What Killed Capitalism](https://www.goodreads.com/book/show/75560036-technofeudalism) — Varoufakis, Y. (2023). _Vintage / Goodreads_
-- [Cloud Capital](https://doi.org/10.14452/MR-073-09-2022-01) — Varoufakis, Y. (2022). *Monthly Review*
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>
