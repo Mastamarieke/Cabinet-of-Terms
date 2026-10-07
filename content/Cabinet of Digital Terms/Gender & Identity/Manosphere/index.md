@@ -37,6 +37,6 @@ semantic_landscape: |
 - [[Haslop-Manosphere-2024|Haslop, Ringrose, Cambazoglu & Milne (2024)]] — [Mainstreaming the Manosphere's Misogyny Through Affective Homosocial Currencies: Exploring How Teen Boys Navigate the Andrew Tate Effect](https://doi.org/10.1177/20563051241228811). *Social Media + Society*
 
 *Secondary:*
-- [[Secondary-Manosphere|Kimmel (2013) · Ribeiro et al. (2020) · Craig (1992) · Hall (2025) · Hoste (2023) · CNN (2024) · Patrick (2026) · Elffers (2026) · Netwerk Filmeducatie (n.d.) · Wikimedia pageviews]] — research, journalism, a Dutch interview and the readership figures
+- [[Secondary-Manosphere|Kimmel (2013) · Ribeiro et al. (2020) · Craig (1992) · Hall (2025) · Hoste (2023) · CNN (2024) · Patrick (2026) · Elffers (2026) · Netwerk Filmeducatie (n.d.) · Wikimedia pageviews · Van de Water (2026)]] — research, journalism, a Dutch interview and the readership figures
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

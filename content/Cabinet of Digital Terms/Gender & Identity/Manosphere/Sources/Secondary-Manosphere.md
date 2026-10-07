@@ -188,3 +188,22 @@ Monthly views of the article: about 60,000 in January and February 2025, 374,000
 
 - [[Manosphere]] — Origin
 - [[Adolescence (Netflix, 2025)]] — the measurable threshold
+
+---
+
+## 11. In de strijd tegen de oprukkende manosfeer krijgen vaders les over menstruatie en haarvlechten
+
+**Author:** Marjolein van de Water
+**Year:** 2026
+**Type:** Journalism
+**Publisher:** de Volkskrant
+**URL:** https://www.volkskrant.nl/binnenland/in-de-strijd-tegen-de-oprukkende-manosfeer-krijgen-vaders-les-over-menstruatie-en-haarvlechten~bf74e65b/
+
+### What this source contributes
+
+A Dutch counterweight (7 October 2026): the Rotterdam initiative Papa's en Pony's teaches fathers to braid their daughters' hair and about menstruation, so that daughters learn what care from a man feels like and recognise manosphere men later. The founder, Faizi Nazir, thinks the manosphere's message appeals mainly to men who do not feel heard.
+
+### Related entries
+
+- [[Manosphere]] — a counterweight
+- [[Provider]] — care instead of provision
