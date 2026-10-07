@@ -23,7 +23,7 @@ Camera glasses are where the turn outward becomes ordinary equipment. Meta repor
 
 **Why This Matters:** **Biometric surveillance** makes the body readable. Once your face is a data point, your presence in a space generates a record you did not choose to create. The body is no longer private by default.
 
-**Related terms:** [[Surveillance Capitalism]] · [[Privacy as a Premium]] · [[Ragebaiting]] · [[Algorithmic Violence]] · [[Deadnaming]] · [[Brussels Effect]] · [[Microtargeting]] · [[Deceptive Design]]
+**Related terms:** [[Surveillance Capitalism]] · [[Privacy as a Premium]] · [[Ragebaiting]] · [[Algorithmic Violence]] · [[Deadnaming]] · [[Brussels Effect]] · [[Microtargeting]] · [[Deceptive Design]] · [[Sharenting]]
 
 
 ---

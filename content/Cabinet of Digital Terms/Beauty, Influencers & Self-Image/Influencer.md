@@ -27,13 +27,13 @@ The influence does not stay on the screen. Fabel Friet, a chip shop in Amsterdam
 
 **Why This Matters:** "**Influencer**" is a word that makes a commercial relationship sound like a friendship. Once you know that, the sponsored post is a different kind of sentence.
 
-**Related terms:** [[Fitfluencer]] · [[Highlight Reel]] · [[Curated Life]] · [[Comparison Culture]] · [[Deinfluencing]] · [[Mimetic Desire]] · [[Parasocial Relationship]] · [[Virtual Influencer]] · [[Attention Economy]] · [[Body Dysmorphic Disorder]]
+**Related terms:** [[Fitfluencer]] · [[Highlight Reel]] · [[Curated Life]] · [[Comparison Culture]] · [[Deinfluencing]] · [[Mimetic Desire]] · [[Parasocial Relationship]] · [[Virtual Influencer]] · [[Attention Economy]] · [[Body Dysmorphic Disorder]] · [[Hypergamy]]
 
 
 ---
 **Read more:**
 - [The Influencer Industry](https://www.researchgate.net/publication/339178289_The_Influencer_Industry_Constructing_And_Commodifying_Authenticity_On_Social_Media) — Dean Hund, E (2019)
-- [Hidden in Plain Sight](https://doi.org/10.1177/1461444820904168) — Wellman, M.L. et al. (2020). *New Media & Society*
+- [Ethics of Authenticity: Social Media Influencers and the Production of Sponsored Content](https://doi.org/10.1080/23736992.2020.1736078) — Wellman, M.L., Stoldt, R., Tully, M. & Ekdale, B. (2020). *Journal of Media Ethics*
 - [Vechten om een plek op de eerste rij: wie bepaalt wat wij straks dragen?](https://www.volkskrant.nl/cultuur-media/vechten-om-een-plek-op-de-eerste-rij-wie-bepaalt-wat-wij-straks-dragen~b5ad03f7/) — Fasseur, B. (2026, 27 September). *De Volkskrant*. Bloggers and influencers in the front row, from Menkes and *Vogue*'s attack to paid attendance
 - [Buurtbewoners en gemeente tegenover elkaar in rechtbank om TikTokrijen bij Fabel Friet: hoe liep het zo uit de hand?](https://www.parool.nl/amsterdam/buurtbewoners-en-gemeente-tegenover-elkaar-in-rechtbank-om-tiktokrijen-bij-fabel-friet-hoe-liep-het-zo-uit-de-hand~b6fe14da/) — Mechelinck, S. (2026, 28 September). *Het Parool*. A TikTok queue in the Nine Streets and the court case over it
 

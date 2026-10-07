@@ -60,7 +60,7 @@ The term reached general use through a single article. In July 2024 the *Sunday 
 
 **Why This Matters:** **Tradwife** makes visible the contradiction between form and content — a rejection of modern values distributed through the most modern available infrastructure. The influencer who monetises submission is also the entrepreneur who built a brand. Once you see the platform economy behind the aesthetic, the "return to tradition" is legible as a content category.
 
-**Related terms:** [[Provider]] · [[SMV (Sexual Market Value)]] · [[Womanosphere]] · [[Manosphere]] · [[Highlight Reel]] · [[Stay-at-home Girlfriend (SAHG)]] · [[Purity Culture]] · [[Looksmaxxing]] · [[Wellness-to-Alt-Right Pipeline]] · [[Sigma Male]] · [[Body Dysmorphic Disorder]]
+**Related terms:** [[Provider]] · [[SMV (Sexual Market Value)]] · [[Womanosphere]] · [[Manosphere]] · [[Highlight Reel]] · [[Stay-at-home Girlfriend (SAHG)]] · [[Purity Culture]] · [[Looksmaxxing]] · [[Wellness-to-Alt-Right Pipeline]] · [[Sigma Male]] · [[Body Dysmorphic Disorder]] · [[Hypergamy]]
 
 ---
 

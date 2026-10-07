@@ -17,11 +17,11 @@ analysis_version: pending
 
 **The Appeal:** The **provider** frame offers a coherent explanation for relationship dissatisfaction and a clear prescription: men who provide without receiving adequate return are being taken advantage of. The transactional clarity is appealing precisely because it removes emotional ambiguity from a domain that is inherently ambiguous.
 
-**The Friction:** The framework transforms a relational role into a market position. [[Tradwife]] is the complementary position: if men are providers, women are domestic managers — and the relationship is a contract between two market roles rather than a partnership between two people. [[High Value Man]] is the aspirational version: the **provider** who also has alpha traits. [[Stay-at-home Girlfriend (SAHG)]] is the contemporary variant: the **provider** dynamic without the marriage contract. [[SMV (Sexual Market Value)]] is the underlying logic — once relationships are markets, all roles become positions in a hierarchy.
+**The Friction:** The framework transforms a relational role into a market position. [[Tradwife]] is the complementary position: if men are providers, women are domestic managers — and the relationship is a contract between two market roles rather than a partnership between two people. [[High Value Man]] is the aspirational version: the **provider** who also has alpha traits. [[Stay-at-home Girlfriend (SAHG)]] is the contemporary variant: the **provider** dynamic without the marriage contract. [[Hypergamy]] is the claim that makes the role compulsory: if every woman is wired to want a man who earns more, providing is no longer one way of being a partner but the condition for being chosen. [[SMV (Sexual Market Value)]] is the underlying logic — once relationships are markets, all roles become positions in a hierarchy.
 
 **Why This Matters:** **Provider** names the reduction of care to transaction. Once you see the frame, a great deal of **manosphere** relationship advice becomes legible as market strategy rather than relationship guidance — and the human cost of that reduction becomes visible.
 
-**Related terms:** [[SMV (Sexual Market Value)]] · [[Tradwife]] · [[High Value Man]] · [[Alpha Male]] · [[Manosphere]] · [[Comparison Culture]] · [[Stay-at-home Girlfriend (SAHG)]] · [[Womanosphere]]
+**Related terms:** [[SMV (Sexual Market Value)]] · [[Tradwife]] · [[High Value Man]] · [[Alpha Male]] · [[Manosphere]] · [[Comparison Culture]] · [[Stay-at-home Girlfriend (SAHG)]] · [[Womanosphere]] · [[Hypergamy]]
 
 
 ---

@@ -23,7 +23,7 @@ The Dutch government adopted the age version of the same framework in June 2025,
 
 **Why This Matters:** **Screen time** makes visible how a design problem gets reframed as a parenting problem. Once you see that move, the question shifts: whose responsibility is the irresistibility of the product?
 
-**Related terms:** [[Predatory Design]] · [[Dopamine Feedback Loops]] · [[Gaming Disorder]] · [[Brain Rot]] · [[Digital Detox]] · [[Calm Technology]]
+**Related terms:** [[Predatory Design]] · [[Dopamine Feedback Loops]] · [[Gaming Disorder]] · [[Brain Rot]] · [[Digital Detox]] · [[Calm Technology]] · [[Sharenting]]
 
 
 ---

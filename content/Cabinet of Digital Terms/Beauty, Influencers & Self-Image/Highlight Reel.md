@@ -21,7 +21,7 @@ analysis_version: pending
 
 **Why This Matters:** The **highlight reel** is not a lie. It is a selection. Once you know that everyone's feed is a selection, the gap between their life and yours becomes a gap between two curations — not between their reality and yours. [[Virtual Influencer]] is the endpoint of this logic: when the entire persona is designed, there is no reality underneath the selection to begin with.
 
-**Related terms:** [[Curated Life]] · [[Comparison Culture]] · [[Influencer]] · [[Beauty Filter]] · [[Body Dysmorphic Disorder]] · [[Virtual Influencer]] · [[Deinfluencing]] · [[Recommender Systems]]
+**Related terms:** [[Curated Life]] · [[Comparison Culture]] · [[Influencer]] · [[Beauty Filter]] · [[Body Dysmorphic Disorder]] · [[Virtual Influencer]] · [[Deinfluencing]] · [[Recommender Systems]] · [[Sharenting]]
 
 
 ---
