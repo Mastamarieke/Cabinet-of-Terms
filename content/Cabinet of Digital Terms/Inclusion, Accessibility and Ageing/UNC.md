@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "Cabinet of Digital Terms/Gender & Identity/UNC"
 term: UNC
 cluster: Inclusion, Accessibility and Ageing
 analytical_layer: mechanism

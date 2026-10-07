@@ -1,5 +1,7 @@
 ---
 term: FOMO
+aliases:
+  - "Cabinet of Digital Terms/Parents & Children/FOMO"
 cluster: Consequences of Digital Behaviour
 analytical_layer: consequence
 status: publieksversie
