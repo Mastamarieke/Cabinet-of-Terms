@@ -1,5 +1,5 @@
 ---
-title: "Bruch & Newman (2018)"
+title: "Bruch & Newman (2018) — SMV"
 full_title: "Aspirational pursuit of mates in online dating markets"
 type: source
 source_role: primary
