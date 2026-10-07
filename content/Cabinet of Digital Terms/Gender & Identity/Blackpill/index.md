@@ -1,35 +1,41 @@
 ---
+title: "Blackpill"
 term: Blackpill
 cluster: Gender & Identity
 analytical_layer: consequence
 status: publieksversie
-version: V2
+version: V3
 analysis_version: pending
+semantic_landscape: |
+  A belief that everything is decided at birth, by bones and genes, takes its proof from an app. On the incel forum Preston, Halpin and Maguire studied, the evidence offered was dating apps: a few men reaching many women, and the rest left over.
+
+  In the graph **Blackpill** sits at the end of the road through **Gender & Identity**: past **Red Pill**, beside **Incel**, with **SMV** as its scale. One way out leads to **MGTOW**, the withdrawal; another to **Looksmaxxing**, which promises to change what the blackpill says cannot change. Outside the cluster it reaches **Dehumanization**, the step at which women on the other side of the app stop counting as people.
 ---
 
 ***The hierarchy is fixed. Your position in it is determined at birth. Nothing you do will change it.***
 
-**Literal meaning:** The **blackpill** is an ideological position within **incel** and **manosphere** communities holding that romantic and social outcomes are biologically predetermined — determined primarily by facial bone structure, height, and genetics — and that no amount of self-improvement, personality development, or effort can change one's fundamental position in the sexual hierarchy. The **blackpill** is "blacker" than the **red pill**: not only is the truth harsh, but it cannot be changed.
+**Literal meaning:** The **blackpill** is the belief, in **incel** and **manosphere** communities, that romantic and social outcomes are fixed by biology — bone structure, height, genes — and that no effort can change your place in the sexual hierarchy. It adds a colour to the scale: if the red pill is a harsh truth, the black one is a truth that cannot be changed.
 
-**Origin:** The term builds on the **red pill**/blue pill framework, adding black as the most extreme awakening: the truth that is not only unpleasant but permanent. It emerged in **incel** communities around 2017–2018 and became central to the ideological vocabulary of hardcore **incel** forums. The **blackpill** is associated with a specific facial geometry pseudo-science — "lookism" research and concepts like "canthal tilt" — that attempts to give biological determinism the appearance of empirical grounding.
+**Origin:** The term grew out of red-pill vocabulary on incel forums in the 2010s and comes with its own pseudo-science of faces: "lookism", "canthal tilt" and other measures that give determinism the look of data.
 
 > A deterministic ideology that frames romantic failure as biologically fixed — where the permanence of the hierarchy makes resentment the only rational response.
 
-**The Appeal:** The **blackpill** resolves a painful cognitive problem: if nothing can change your outcome, you no longer have to try and fail. The relief from effort is real. The community of those who share the certainty provides belonging. The pseudo-scientific framing — bone structure, genetics, evolutionary biology — gives the ideology the appearance of objective truth rather than personal despair.
+**The Appeal:** The **blackpill** solves a painful problem: if nothing can change the outcome, you no longer have to try and fail. And it starts from something true: looks do matter, and economists have measured that better-looking people earn somewhat more ([[Secondary-Blackpill|Hamermesh & Biddle (1994)]]). The blackpill turns that measurable effect into a fate.
 
-**The Friction:** The ideology is self-sealing. [[Red Pill]] at least implies agency: take the pill, understand the truth, adapt your strategy. The **blackpill** removes agency entirely: the hierarchy is biological, fixed, and immune to effort. This produces two possible responses: [[MGTOW]] — withdrawal from the sexual marketplace — or the more violent logic of "if I cannot win the game, I can at least punish the players." The connection between **blackpill** ideology and mass violence is documented: multiple perpetrators have cited **blackpill** frameworks. [[Looksmaxxing]] is the practical response that **blackpill** ideology simultaneously motivates (try anyway) and forecloses (it will not work). The pseudo-science — contested facial geometry claims — is not corrected by counter-evidence, because the framework is unfalsifiable by design.
+**The Friction:** The ideology is self-sealing. [[Red Pill]] at least leaves room to act; the blackpill removes it. Its proof is technology: [[Preston-Blackpill-2021|Preston, Halpin and Maguire (2021)]], analysing 9,062 comments on an incel forum, found incels arguing that dating apps speed up hypergamy, that a few desirable men use them to reach many women, and that social media inflates women's "sexual marketplace value". From there two roads lead out: [[MGTOW]], withdrawal, or violence. [[Scaptura-Blackpill-2020|Scaptura and Boyle (2020)]], surveying heterosexual men aged 18 to 30 in the United States, found that stress about failing masculine norms and endorsement of "incel" traits went together with violent fantasies about rape and weapons. [[Looksmaxxing]] is what the blackpill both motivates and forecloses: try anyway, it will not work. Counter-evidence does not land, because any outcome confirms the framework.
 
-**Why This Matters:** **Blackpill** makes visible how deterministic ideology functions as a closed system: it explains everything, can be confirmed by any outcome, and makes exit difficult. The pain underneath it is real. The framework makes it permanent.
+**Why This Matters:** **Blackpill** makes visible how a deterministic ideology works as a closed system: it explains everything, any outcome confirms it, and leaving it is hard.
 
 **Related terms:** [[SMV (Sexual Market Value)]] · [[Incel]] · [[Manosphere]] · [[Sigma Male]] · [[MGTOW]] · [[Looksmaxxing]] · [[Red Pill]] · [[Dehumanization]] · [[Great Replacement]] · [[Deplatforming]] · [[Alpha Male]]
 
-
 ---
 **Read more:**
-- [Alphas, Betas, and Incels](https://doi.org/10.1177/1097184x17706401) — Ging, D. (2019). *Men and Masculinities*
-- [Masculinity Threat, "Incel" Traits, and Violent Fantasies Among Heterosexual Men in the United States](https://doi.org/10.1177/1557085119896415) — Scaptura, M.N. & Boyle, K.M. (2020). *Feminist Criminology*
-- [The Black Pill: New Technology and the Male Supremacy of Involuntarily Celibate Men](https://pmc.ncbi.nlm.nih.gov/articles/PMC8600582/). Maxwell, D., Robinson, S. R., Williams, J. R. & Keaton, C. (2020). _Men and Masculinities_
-- [Beauty and the Labor Market](https://www.jstor.org/stable/2117767). Hamermesh, D. S., & Biddle, J. E. (1994). _American Economic Review, 84_(5), 1174–1194.
 
+*Primary:*
+- [[Preston-Blackpill-2021|Preston, Halpin & Maguire (2021)]] — [The Black Pill: New Technology and the Male Supremacy of Involuntarily Celibate Men](https://doi.org/10.1177/1097184x211017954). *Men and Masculinities*
+- [[Scaptura-Blackpill-2020|Scaptura & Boyle (2020)]] — [Masculinity Threat, "Incel" Traits, and Violent Fantasies Among Heterosexual Men in the United States](https://doi.org/10.1177/1557085119896415). *Feminist Criminology*
+
+*Secondary:*
+- [[Secondary-Blackpill|Hamermesh & Biddle (1994) · Ging (2019)]] — economics of looks, and theory
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>
