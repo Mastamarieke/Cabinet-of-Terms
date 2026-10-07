@@ -23,7 +23,7 @@ An American study by the USC Annenberg Inclusion Initiative found that popular p
 
 **Why This Matters:** **Podcast-bro** names a specific media format and its ideological function. Once you know the structural features — long-form, unedited, parasocial — you can analyse any podcast host through the same lens, regardless of their explicit political positions.
 
-**Related terms:** [[Manosphere]] · [[Parasocial Relationship]] · [[Creator Economy]] · [[Top 1% Man]] · [[Recommender Systems]] · [[Filter Bubble]] · [[Echo Chamber]] · [[Hustle Culture]] · [[Incel]] · [[Deplatforming]] · [[High Value Man]] · [[Alpha Male]]
+**Related terms:** [[Manosphere]] · [[Parasocial Relationship]] · [[Creator Economy]] · [[Top 1% Man]] · [[Recommender Systems]] · [[Filter Bubble]] · [[Echo Chamber]] · [[Hustle Culture]] · [[Incel]] · [[Deplatforming]] · [[High Value Man]] · [[Alpha Male]] · [[Rizz]]
 
 
 ---

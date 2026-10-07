@@ -27,7 +27,7 @@ The influence does not stay on the screen. Fabel Friet, a chip shop in Amsterdam
 
 **Why This Matters:** "**Influencer**" is a word that makes a commercial relationship sound like a friendship. Once you know that, the sponsored post is a different kind of sentence.
 
-**Related terms:** [[Fitfluencer]] · [[Highlight Reel]] · [[Curated Life]] · [[Comparison Culture]] · [[Deinfluencing]] · [[Mimetic Desire]] · [[Parasocial Relationship]] · [[Virtual Influencer]] · [[Attention Economy]] · [[Body Dysmorphic Disorder]] · [[Hypergamy]]
+**Related terms:** [[Fitfluencer]] · [[Highlight Reel]] · [[Curated Life]] · [[Comparison Culture]] · [[Deinfluencing]] · [[Mimetic Desire]] · [[Parasocial Relationship]] · [[Virtual Influencer]] · [[Attention Economy]] · [[Body Dysmorphic Disorder]] · [[Hypergamy]] · [[Rizz]]
 
 
 ---

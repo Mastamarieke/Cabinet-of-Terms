@@ -21,7 +21,7 @@ analysis_version: pending
 
 **Why This Matters:** SMV is the conceptual foundation of the entire cluster. Once you understand it, the rest of the vocabulary becomes readable as a single system: all the other terms are positions, strategies, or responses within the same market framework.
 
-**Related terms:** [[Hypergamy]] · [[Blackpill]] · [[Incel]] · [[Manosphere]] · [[Alpha Male]] · [[Sigma Male]] · [[Looksmaxxing]] · [[Tradwife]] · [[Body Dysmorphic Disorder]] · [[Recommender Systems]] · [[Comparison Culture]] · [[Womanosphere]]
+**Related terms:** [[Hypergamy]] · [[Blackpill]] · [[Incel]] · [[Manosphere]] · [[Alpha Male]] · [[Sigma Male]] · [[Looksmaxxing]] · [[Tradwife]] · [[Body Dysmorphic Disorder]] · [[Recommender Systems]] · [[Comparison Culture]] · [[Womanosphere]] · [[Rizz]]
 
 
 ---
