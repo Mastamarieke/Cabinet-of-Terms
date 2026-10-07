@@ -620,7 +620,7 @@ Executives speak in public. Sometimes they reveal more than they intended. This 
 - [["I could definitely see it."]]
 - [["Like Prime, but with human beings."]]
 - [["We have never and will never sell user data."]]
-- [[Adolescence (BBC, 2025)]]
+- [[Adolescence (Netflix, 2025)]]
 - [[Tu Nube Seca Mi Río]]
 
 </details>

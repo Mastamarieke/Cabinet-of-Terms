@@ -22,7 +22,7 @@ analysis_version: pending
 
 **Why This Matters:** **Incel** shows what a name can do. The forums give belonging to people who find it nowhere else, which is why they are so hard to leave, and a UK survey of 561 incels ([[Secondary-Incel|Whittaker, Costello and Thomas (2024)]]) found that mental health and ideology make each other worse over time. Some do leave. r/IncelExit exists for exactly that, and those who look back tend to name the forums as what kept them there, and what made it worse.
 
-**Related terms:** [[Blackpill]] · [[SMV (Sexual Market Value)]] · [[Hypergamy]] · [[Dehumanization]] · [[Echo Chamber]] · [[Deplatforming]] · [[Manosphere]] · [[Sigma Male]] · [[MGTOW]] · [[Red Pill]] · [[Chad]] · [[Great Replacement]]
+**Related terms:** [[Blackpill]] · [[SMV (Sexual Market Value)]] · [[Hypergamy]] · [[Dehumanization]] · [[Echo Chamber]] · [[Deplatforming]] · [[Manosphere]] · [[Sigma Male]] · [[MGTOW]] · [[Red Pill]] · [[Chad]] · [[Great Replacement]] · [[Alpha Male]] · [[Adolescence (Netflix, 2025)]]
 
 ---
 **Read more:**

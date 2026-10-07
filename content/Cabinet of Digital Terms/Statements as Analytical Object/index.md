@@ -33,5 +33,5 @@ Brian McClendon, Niantic, asked whether militaries could buy the Large Geospatia
 ### [[Tu Nube Seca Mi Río]]
 Spanish activist collective. Your cloud dries my river. Four words that name what a data centre does to a watershed.
 
-### [[Adolescence (BBC, 2025)]]
+### [[Adolescence (Netflix, 2025)]]
 A television drama as analytical object. Cultural evidence that a phenomenon — manosphere radicalisation — has reached the mainstream.
