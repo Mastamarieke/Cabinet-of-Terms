@@ -1,5 +1,5 @@
 ---
-title: "Preston, Halpin & Maguire (2021)"
+title: "Preston, Halpin & Maguire (2021) — Blackpill"
 full_title: "The Black Pill: New Technology and the Male Supremacy of Involuntarily Celibate Men"
 type: source
 source_role: primary
