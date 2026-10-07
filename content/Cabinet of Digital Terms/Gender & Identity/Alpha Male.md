@@ -25,7 +25,7 @@ semantic_landscape: |
 
 **Why This Matters:** **Alpha male** makes visible how scientific language can keep legitimising a social order long after the science behind it has been corrected.
 
-**Related terms:** [[Sigma Male]] · [[SMV (Sexual Market Value)]] · [[Manosphere]] · [[Incel]] · [[Blackpill]] · [[High Value Man]] · [[Hypergamy]] · [[Podcast-bro]] · [[Top 1% Man]] · [[Provider]]
+**Related terms:** [[Sigma Male]] · [[SMV (Sexual Market Value)]] · [[Manosphere]] · [[Incel]] · [[Blackpill]] · [[High Value Man]] · [[Hypergamy]] · [[Podcast-bro]] · [[Top 1% Man]] · [[Provider]] · [[Deplatforming]] · [[Creator Economy]]
 
 
 ---

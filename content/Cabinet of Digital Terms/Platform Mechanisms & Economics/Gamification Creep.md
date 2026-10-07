@@ -21,7 +21,7 @@ analysis_version: pending
 
 **Why This Matters:** **Gamification creep** makes visible that the game has spread beyond the game. Once you recognise the mechanic — the streak, the badge, the progress bar — you can ask what behaviour it is designed to sustain, and for whose benefit.
 
-**Related terms:** [[Dopamine Feedback Loops]] · [[Ludic Loop]] · [[Dark Patterns]] · [[Predatory Design]] · [[Gaming Disorder]] · [[Fair Patterns]] · [[Loot Boxes]] · [[Attention Economy]] · [[Deskilling]] · [[VSD (Value Sensitive Design)]]
+**Related terms:** [[Dopamine Feedback Loops]] · [[Ludic Loop]] · [[Dark Patterns]] · [[Predatory Design]] · [[Gaming Disorder]] · [[Fair Patterns]] · [[Loot Boxes]] · [[Attention Economy]] · [[Deskilling]] · [[VSD (Value Sensitive Design)]] · [[NPC]]
 
 
 ---

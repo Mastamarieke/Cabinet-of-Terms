@@ -22,7 +22,7 @@ analysis_version: pending
 
 **Why This Matters:** **Recommender systems** are the infrastructure of the contemporary information environment. Understanding that your feed is an optimisation output — not a neutral window on the world — is the first step in reading it differently.
 
-**Related terms:** [[Filter Bubble]] · [[Echo Chamber]] · [[Microtargeting]] · [[Dopamine Feedback Loops]] · [[Attention Harvesting]] · [[BUMMER]] · [[Surveillance Capitalism]] · [[Virtual Influencer]] · [[Ragebaiting]] · [[SMV (Sexual Market Value)]] · [[Incel]]
+**Related terms:** [[Filter Bubble]] · [[Echo Chamber]] · [[Microtargeting]] · [[Dopamine Feedback Loops]] · [[Attention Harvesting]] · [[BUMMER]] · [[Surveillance Capitalism]] · [[Virtual Influencer]] · [[Ragebaiting]] · [[SMV (Sexual Market Value)]] · [[Incel]] · [[Manosphere]]
 
 ---
 **Read more:**

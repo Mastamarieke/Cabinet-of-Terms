@@ -25,7 +25,7 @@ What the company does with criticism is on the same record. On 24 September 2026
 
 **Why This Matters:** **Surveillance capitalism** names the economic logic that underlies most of the Platform Mechanisms cluster. Once you see the logic — human experience as raw material — the specific mechanisms (**recommender systems**, **dark patterns**, dopamine loops) become legible as components of a single extractive system.
 
-**Related terms:** [[Data Brokers]] · [[Deplatforming]] · [[Ghost Work]] · [[Dataism]] · [[Privacy Washing]] · [[Algorithmic Violence]] · [[Brussels Effect]] · [[Attention Economy]] · [[Fair Patterns]] · [[Informatics of Domination]] · [[Vendor Lock-in]] · [["500 million people installed that app in 60 days."]]
+**Related terms:** [[Data Brokers]] · [[Deplatforming]] · [[Ghost Work]] · [[Dataism]] · [[Privacy Washing]] · [[Algorithmic Violence]] · [[Brussels Effect]] · [[Attention Economy]] · [[Fair Patterns]] · [[Informatics of Domination]] · [[Vendor Lock-in]] · [["500 million people installed that app in 60 days."]] · [[Sharenting]]
 
 
 ---

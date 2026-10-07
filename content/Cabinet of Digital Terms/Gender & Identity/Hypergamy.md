@@ -25,7 +25,7 @@ semantic_landscape: |
 
 **Why This Matters:** **Hypergamy** makes visible how scientific-sounding vocabulary can turn a pattern in society into a fact about every woman. Once the claim is biological, no counter-evidence counts, and the circumstances in which women actually choose drop out of view.
 
-**Related terms:** [[Incel]] · [[SMV (Sexual Market Value)]] · [[Provider]] · [[Tradwife]] · [[Womanosphere]] · [[Top 1% Man]] · [[High Value Man]] · [[Alpha Male]] · [[Influencer]] · [[Red Pill]] · [[MGTOW]] · [[Looksmaxxing]] · [[Blackpill]] · [[Stay-at-home Girlfriend (SAHG)]] · [[Manosphere]]
+**Related terms:** [[Incel]] · [[SMV (Sexual Market Value)]] · [[Provider]] · [[Tradwife]] · [[Womanosphere]] · [[Top 1% Man]] · [[High Value Man]] · [[Alpha Male]] · [[Influencer]] · [[Red Pill]] · [[MGTOW]] · [[Looksmaxxing]] · [[Blackpill]] · [[Stay-at-home Girlfriend (SAHG)]] · [[Manosphere]] · [[Creator Economy]]
 
 
 ---
