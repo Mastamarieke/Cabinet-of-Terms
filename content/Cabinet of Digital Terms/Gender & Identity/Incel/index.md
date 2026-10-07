@@ -10,6 +10,19 @@ semantic_landscape: |
   A word made in 1997 by a woman called Alana, for a website where lonely people of any gender could support each other, has become an insult between schoolchildren. In *Adolescence* the trouble begins when a girl calls a thirteen-year-old boy an incel, and the series follows what that word set off.
 
   In the graph **Incel** sits at the bottom of the ladder that **Gender & Identity** builds. **Hypergamy** and **SMV** explain why the bottom exists, **Blackpill** says it is permanent, and **Alpha Male** and **Chad** stand at the top. Outside the cluster the lines run to **Dehumanization**, where the anger turns on women, and to **Echo Chamber** and **Recommender Systems**, which make a rare view sound like everyone's. There is also a way out, with no node of its own: r/IncelExit, a forum for people who want to stop calling themselves incels.
+attention_moments:
+  - month: 2019-10
+    note: "Joker, released 4 October, and the debate over whether the film spoke to incels. 55,193 readers came from the film's article that month."
+    source: "Joker (2019 film), Wikipedia"
+    url: "https://en.wikipedia.org/wiki/Joker_(2019_film)"
+  - month: 2021-08
+    note: "The Plymouth shooting of 12 August, by a man who had posted about incel ideas online. 114,241 lookups on 14 August; 12,371 readers came from the article on the shooting, most through search."
+    source: "2021 Plymouth shooting, Wikipedia"
+    url: "https://en.wikipedia.org/wiki/2021_Plymouth_shooting"
+  - month: 2025-03
+    note: "Adolescence on Netflix, released 13 March: 454,567 readers came to the article straight from the series' article, more than through search (438,901). The highest month of every monthly line, including the Dutch one."
+    source: "Adolescence, Wikipedia"
+    url: "https://en.wikipedia.org/wiki/Adolescence_(TV_series)"
 ---
 
 ***He did not choose this identity. It chose him, gradually, through forums that explained his loneliness as injustice.***

@@ -10,6 +10,15 @@ semantic_landscape: |
   A word from anthropology, about marriage across castes, turns up in 2014 on a chart posted by a young man before the Isla Vista killings, and in 2022 in TikTok courses that cost women $150 a session. The men of **Incel**, **Red Pill** and **MGTOW** read **Hypergamy** as an accusation; the women of **Womanosphere** read it as a plan, and the coaches who sell that plan are the one line that leaves **Gender & Identity**, to **Influencer**. **Tradwife** shows the plan once it has worked: the husband as provider and the wife at home, on camera.
 
   Between the accusation and the plan stands **Provider**: the man with money, resented by one side and sought by the other. Neither side talks about the glass ceiling, which makes a partner with money one of the few routes upward for many women.
+attention_moments:
+  - month: 2021-11
+    note: "8 November: 30,189 lookups in one day, almost all on desktop and with no referrer, while crawlers rose the same day (3,334 against 22). Almost certainly automated traffic that Wikimedia did not filter out, not readers: the tallest peak of the line is not attention."
+  - month: 2024-06
+    note: "Mid-June, a plateau of 2,500 to 3,700 lookups a day, on phones and through Google (30,000 arrivals from search against 17,700 in May). People saw the word somewhere and looked it up; where has not been found. A peak without a found cause."
+  - month: 2026-06
+    note: "A TikTok meme: sad animals that have 'found out about hypergamy'. The earliest meme videos found were posted on 28 May, the day Wikipedia's lookups jumped (1,235, against about 550 a day in April); a day later an account on X called it viral everywhere, 'with the looksmaxxing stuff'. Before that the word was already being discussed, in coaching streams, a podcast on hypergamy and SugarTok (15 April) and a PsyPost report on new research (18 April), and search interest rose slightly in May; but the steep climb starts with the meme. The readers came from Google and from apps, mostly on phones. Spikes on 12 June (3,667) and 23 to 24 June (3,894) remain unexplained. No press coverage of the meme found; dated from the posts themselves."
+    source: "Post on X, 29 May 2026"
+    url: "https://x.com/catalyst100x/status/2060376209096397176"
 ---
 
 ***The claim: women always want someone higher on the hierarchy. The evidence: personal anecdote, presented as evolutionary biology.***

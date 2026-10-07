@@ -10,6 +10,19 @@ semantic_landscape: |
   In the same classrooms, boys and girls are growing apart. *"In countries on every continent, an ideological gap has opened up between young men and women,"* the data journalist John Burn-Murdoch wrote in 2024; in the United States it widened more because young women moved left than because young men moved right. A Dutch philosophy teacher sees it in his own lessons: the boys becoming more conservative, the girls more progressive, and Andrew Tate as the boys' example.
 
   In the graph **Manosphere** is the hub of **Gender & Identity**: every other term in the cluster but one links to it. Around it stand the communities, **Incel**, **MGTOW** and **Red Pill**; the ideals they sell to boys, **Alpha Male**, **Sigma Male** and **Looksmaxxing**; and on the girls' side, their mirror, **Womanosphere** and **Tradwife**. Outside the cluster it reaches **Recommender Systems**, which bring the next video, and **Adolescence (Netflix, 2025)**, where a fictional boy of thirteen showed parents and teachers what their sons were watching.
+attention_moments:
+  - month: 2025-03
+    note: "Adolescence on Netflix, released 13 March. Readers came from the series' article (48,260) and even more from Andrew Tate's (161,917), with 96,248 from search. Highest day 23 March: 28,678."
+    source: "Adolescence, Wikipedia"
+    url: "https://en.wikipedia.org/wiki/Adolescence_(TV_series)"
+  - month: 2026-03
+    note: "Louis Theroux: Inside the Manosphere on Netflix, released 11 March; the highest day was 15 March (12,730). Google Trends reaches its own top this month. Most readers came through search (92,426)."
+    source: "Louis Theroux: Inside the Manosphere, Wikipedia"
+    url: "https://en.wikipedia.org/wiki/Louis_Theroux:_Inside_the_Manosphere"
+  - month: 2026-05
+    note: "The Dutch line: on 11 May Stichting School & Veiligheid published a survey of nearly 500 education professionals; 56 percent in secondary schools saw more behaviour pointing to manosphere influence. 2,358 lookups on Dutch Wikipedia that day, its highest."
+    source: "Stichting School & Veiligheid"
+    url: "https://www.schoolenveiligheid.nl/news/onderzoek-manosphere-onderwijs/"
 ---
 
 ***The videos do not present themselves as ideology. They present themselves as advice: train, earn, get a girlfriend.***

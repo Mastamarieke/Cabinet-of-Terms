@@ -10,6 +10,9 @@ semantic_landscape: |
   Within a year the same word came to mean two opposite things. For researchers it named women answering the manosphere in its own language, angry at men; for the *Guardian* in 2025 it named a conservative media world telling young women to marry, have children and vote Republican. What the two share is the market.
 
   In the graph **Womanosphere** mirrors **Manosphere** across **Gender & Identity**. **SMV** and **Hypergamy** are the logic it takes over; **Tradwife** and **Stay-at-home Girlfriend (SAHG)** are where the 2025 version leads; **High Value Man** is the partner both versions tell women to aim for. Outside the cluster, **Recommender Systems** carry both versions to the young women watching.
+attention_moments:
+  - month: 2026-04
+    note: "No peak to explain. The counted article is Femosphere, where the English Wikipedia sends Womanosphere, read at most a few thousand times a month; Google Trends moves within a narrow band."
 ---
 
 ***Know your worth. Never settle. Date up. The advice sounds like empowerment; the logic comes from the manosphere.***

@@ -10,6 +10,9 @@ semantic_landscape: |
   On the movement's own website, 33,863 users left 628,745 comments. When researchers read a sample, the two main subjects were what MGTOW is, and women: the people the movement says it is leaving behind.
 
   In the graph **MGTOW** sits in **Gender & Identity** between two ways of leaving: **Sigma Male** turns leaving into a heroic image, **Blackpill** into a sentence that cannot be appealed. Across the graph stands **JOMO**, the same withdrawal as pleasure instead of protest. **Deplatforming** marks where Reddit drew the line, and where the men moved on to forums of their own.
+attention_moments:
+  - month: 2019-01
+    note: "No single event: through 2019 the English article was read 2,000 to 2,700 times a day, without a peak, and Google Trends sits at its top in the same months. From 2020 both decline. The curve shows the movement's high point as a plateau."
 ---
 
 ***He withdrew from relationships with women entirely. He posts about it every day.***

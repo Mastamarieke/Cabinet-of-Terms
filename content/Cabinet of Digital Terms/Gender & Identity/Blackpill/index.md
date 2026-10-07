@@ -10,6 +10,9 @@ semantic_landscape: |
   A belief that everything is decided at birth, by bones and genes, takes its proof from an app. On the incel forum Preston, Halpin and Maguire studied, the evidence offered was dating apps: a few men reaching many women, and the rest left over.
 
   In the graph **Blackpill** sits at the end of the road through **Gender & Identity**: past **Red Pill**, beside **Incel**, with **SMV** as its scale. One way out leads to **MGTOW**, the withdrawal; another to **Looksmaxxing**, which promises to change what the blackpill says cannot change. Outside the cluster it reaches **Dehumanization**, the step at which women on the other side of the app stop counting as people.
+attention_moments:
+  - month: 2026-05
+    note: "No Wikipedia line: the article redirects to Incel. What remains is Google Trends, which climbs slowly through 2026 without a single peak, and a handful of research articles."
 ---
 
 ***The hierarchy is fixed. Your position in it is determined at birth. Nothing you do will change it.***

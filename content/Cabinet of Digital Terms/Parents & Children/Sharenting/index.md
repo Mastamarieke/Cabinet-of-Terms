@@ -10,6 +10,9 @@ semantic_landscape: |
   Many children are online before they are born. In 2010 a survey for the security company AVG found that a quarter of children had their ultrasound scan posted before birth, and that by the age of two nine in ten American children had a presence online. After the scan comes every stage, the first bath, the first step, the first day at school, and each one is counted in likes. Read this way, **Sharenting** belongs as much to the **Attention Economy** as to **Parents & Children**: the child supplies the material, and the platform collects the attention. **Personal Branding** is something adults do to themselves; here it is done to someone who cannot yet speak, and at **Kidfluencer** and **Family Vlogging** the brand starts to pay.
 
   The photos also travel where no one planned: to **Biometric Surveillance**, where the face becomes data, and to **Synthetic Generation**, where it can be turned into something else. Years later the child finds them. In Rome a sixteen-year-old took his mother to court over the pictures she had posted of him during the divorce.
+attention_moments:
+  - month: 2019-09
+    note: "15 September, a Sunday: 20,159 lookups in one day, against a few hundred at most on other days, almost all on phones and with no referrer (21,147 arrivals that month without one). A link shared in an app or a chat, probably; which one has not been found. The next day the count was back to 537. A peak without a found cause."
 ---
 
 ***The photo was posted before the child could speak. By the time they are old enough to object, there are thousands.***

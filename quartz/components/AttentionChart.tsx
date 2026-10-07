@@ -96,33 +96,32 @@ export default (() => {
       return null
     }
     const years = data.years
-    // Too little to draw: the block still appears, and says what was looked for and not found.
-    // A term that is everywhere on the platforms and nowhere in the record says so by that.
+    // Too little to draw: no block to open, one line that says what the gap means (07-10, after
+    // "is het dan wel relevant?"). A word with no article and no research lives on platforms
+    // that cannot be counted; a word that means something else elsewhere cannot be counted at
+    // all. Either way the absence is a finding, and the line points to a curve that is drawn.
     if (data.enough === false || data.series.length < 2) {
+      const checked = data.checked ?? []
+      const ambiguous = checked.some((c) => /means something else/i.test(c))
+      const why = ambiguous
+        ? "the word means other things too, in games, in research or in everyday English, so a count would not be a count of this word."
+        : "no Wikipedia article and almost no research yet. The word lives on platforms where attention cannot be counted, and search interest alone is too little to compare."
+      const example = "Cabinet-of-Digital-Terms/Gender--and--Identity/Incel/index" as FullSlug
+      const guide = "Reading-the-graph" as FullSlug
       return (
-        <details class="graph-story attention">
-          <summary class="graph-story-header">
-            <span class="graph-title-name">Attention curve</span>
-            <span class="graph-title-rest">
-              {" "}
-              — no curve yet for the term <strong>{term}</strong>
-            </span>
-          </summary>
-          <div class="attention-body">
-            <p class="attention-note attention-none">
-              Too little to draw: attention is only shown where at least two independent sources record it.
-              Looked on {longDate(data.retrieved)}.{" "}
-              {data.series.map((s, k) => (
-                <span class="attention-source">
-                  {k + 1}. {s.source}.{" "}
-                </span>
-              ))}
-              {data.checked && data.checked.length > 0 && (
-                <span class="attention-source">Not drawn: {data.checked.join("; ")}.</span>
-              )}
-            </p>
-          </div>
-        </details>
+        <div class="graph-story attention attention-empty">
+          <p class="attention-note">
+            <span class="graph-title-name">Attention curve</span> not drawn for <strong>{term}</strong>: {why}{" "}
+            Looked on {longDate(data.retrieved)}.{" "}
+            <a href={resolveRelative(fileData.slug!, guide) + "#the-attention-curve"} class="internal">
+              What the curve shows
+            </a>{" "}
+            · a drawn curve:{" "}
+            <a href={resolveRelative(fileData.slug!, example)} class="internal">
+              Incel
+            </a>
+          </p>
+        </div>
       )
     }
     // in the order the script wrote them: Wikipedia together, Dutch alone, research, then
@@ -238,7 +237,7 @@ export default (() => {
     // the compact overlay. Each row ends in its peak with its own unit and month, so the
     // order of the peaks reads from left to right.
     const SW = 900
-    const SL = 150
+    const SL = 180
     const SR = 96
     const ROW = 46
     const GAP = 14

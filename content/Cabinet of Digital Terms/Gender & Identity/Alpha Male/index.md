@@ -10,6 +10,11 @@ semantic_landscape: |
   In the wild, the wolf at the head of the pack is usually a mother or a father. L. David Mech, who made the *alpha* famous, learned this by watching free-living wolves after the idea had been formed in enclosures, and has spent decades saying so. In the graph the word never went back to the wolves. **Alpha Male** sits in **Gender & Identity**, where the hierarchy grew more letters and prices: **Sigma Male** claims to stand outside it, **High Value Man** and **Top 1% Man** put a value on the top, and **SMV** turns the ladder into a score.
 
   Below the ladder stand the men who conclude they will not climb it, at **Incel** and **Blackpill**; beside it, the men who sell the climb, at **Podcast-bro**. The best known of them, Andrew Tate, whose videos telling boys what a real man must be reached millions, was in custody in Miami in the autumn of 2026, fighting extradition to the UK on charges including rape and human trafficking, which he denies.
+attention_moments:
+  - month: 2023-12
+    note: "Animal, an Indian film released on 1 December, in which the hero gives a speech about alpha men. The clickstream shows 33,069 readers arriving from the film's Wikipedia article that month; the counted article is Alpha and beta male. Two days after the release, on 3 December, 16,857 lookups in one day, nearly all on phones."
+    source: "Animal (2023 Indian film), Wikipedia"
+    url: "https://en.wikipedia.org/wiki/Animal_(2023_Indian_film)"
 ---
 
 ***A man on your feed explains that there are two kinds of men, and that you can learn to become the other kind. The course costs money.***

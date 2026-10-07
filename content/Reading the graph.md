@@ -1,5 +1,5 @@
 ---
-draft: true
+title: Reading the graph
 ---
 
 *Cabinet of Digital Terms — Project Digitale Alertheid, HAN CMD — 2026*
@@ -67,6 +67,21 @@ An entry that cites literature has a page for it, and that page has a graph of i
 
 That makes the source graph the one picture in the vault that reports on the work rather than on the network. An entry with an arrow in has been brought into line with the literature. An entry with only an arrow out has not.
 
+---
+
+## The attention curve
+
+Under the graph of some entries sits a curve: when the word drew attention, month by month since 2019. The graph and the landscape are curated; the curve is counted.
+
+**Each line is a different source.** Wikipedia page views (five languages together, and Dutch on its own), Google Trends search interest, and research: peer-reviewed articles in recognised journals, per million, drawn as a light block per year behind the lines. Each line is scaled to its own peak. The sources cannot be compared in size, only in shape and timing: when they rise together, the word reached people by more than one route.
+
+**It counts attention to the word, not use of it.** Someone who looks a word up on Wikipedia has met it somewhere. How often the word is said on TikTok or in podcasts is not in the curve.
+
+**The numbered dots are moments**: what happened in that month, found by reading the daily figures and where the readers came from before looking at the news. A peak whose cause was not found says so. That is a finding too.
+
+**The magnifier** opens the curve at full width, with the sources one under the other, each on its own scale.
+
+**Sometimes there is no curve.** Then a single line says why: the word has no Wikipedia article and almost no research yet, so it lives where attention cannot be counted; or the word means other things too, and a count would not be a count of this word. A term without a curve is not a less relevant term.
 
 ## Where the form comes from
 

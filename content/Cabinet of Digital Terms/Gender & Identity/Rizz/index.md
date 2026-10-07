@@ -10,6 +10,13 @@ semantic_landscape: |
   The word peaked in June 2023 with a man saying he had none of it. Tom Holland, who was dating Zendaya, told an interviewer he had "no rizz whatsoever", and the internet argued about whether that was true. Oxford counted the moment in its corpus and made *rizz* its Word of the Year.
 
   In the graph **Rizz** sits in **Gender & Identity**, where charm becomes a score. **SMV** sets the market, **Looksmaxxing** works on the looks of face and body while rizz works on how you come across, and **Podcast-bro** coaches sell the lines to boys who are still looking for theirs.
+attention_moments:
+  - month: 2023-12
+    note: "On 4 December Oxford University Press named rizz its Word of the Year. Wikipedia's lookups quadrupled that day (613 against about 150), and the article was linked from the Main Page; Google Trends has its top this month."
+    source: "Oxford University Press, 4 December 2023"
+    url: "https://corp.oup.com/news/rizz-crowned-oxford-word-of-the-year-2023/"
+  - month: 2024-03
+    note: "Wikipedia's highest month comes three months later and without an event: 40,236 arrivals from search, with a single day of 4,142 on 25 March. Readers also arrived from Gyat, Kai Cenat and Fanum tax, the neighbouring slang. A peak without a found cause."
 ---
 
 ***Some people walk into a room and everyone wants to talk to them. Now there is a word for it, and a course to learn it.***

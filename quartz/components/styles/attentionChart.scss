@@ -124,6 +124,18 @@
   }
 }
 
+// no curve: one line in the card's frame, nothing to open
+.graph-story.attention-empty .attention-note {
+  margin: 0;
+  padding: 0.7em 1em;
+  .graph-title-name {
+    font-family: "Barlow Condensed", var(--headerFont), sans-serif;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: var(--dark);
+  }
+}
+
 // the reader's pointer: a hairline on the month, the real figures in a small card
 .graph-story.attention {
   .attention-cursor {
