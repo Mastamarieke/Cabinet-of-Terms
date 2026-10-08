@@ -21,6 +21,8 @@ type Attention = {
   search_only?: boolean
   checked?: string[]
   note?: string
+  wikipedia?: Record<string, string>
+  pins?: Record<string, string>
   series: Series[]
 }
 
@@ -81,6 +83,55 @@ const human = (v: number, label: string, key: string, raw?: number) => {
   if (/per million/i.test(label)) return raw ? `${raw} ${raw === 1 ? "article" : "articles"}` : null
   const d = perDay(v, key)
   return d >= 10 ? `${d.toLocaleString("en")} a day` : null
+}
+
+// One visible line under the legend: under which name each source was counted (08-10, after
+// NPC, where the curve only made sense once it was clear that "npc meme" was counted and not
+// "npc"). What was counted, and that a source was not; not the search that led there.
+const LANG_NAMES: Record<string, string> = { en: "English", nl: "Dutch", de: "German", fr: "French", es: "Spanish" }
+const andList = (xs: string[]) => (xs.length > 1 ? `${xs.slice(0, -1).join(", ")} and ${xs[xs.length - 1]}` : xs[0] ?? "")
+function countedAs(data: Attention) {
+  const pins = data.pins ?? {}
+  const parts: { source: string; what: string; quoted?: string[] }[] = []
+  const titles = new Map<string, string[]>()
+  for (const [lang, v] of Object.entries(data.wikipedia ?? {})) {
+    const m = /^"(.+?)"/.exec(v)
+    const key = m ? m[1] + (/via a redirect/.test(v) ? " (where Wikipedia sends the word)" : "") : ""
+    if (m) titles.set(key, [...(titles.get(key) ?? []), LANG_NAMES[lang] ?? lang])
+  }
+  if (titles.size) {
+    const all = [...titles.entries()]
+    parts.push({ source: "Wikipedia", what: "", quoted: all.map(([t, langs]) => `${t}|in ${andList(langs)}`) })
+  } else parts.push({ source: "Wikipedia", what: "not counted" })
+  const has = (re: RegExp) => data.series.some((x) => re.test(x.label))
+  if (has(/^Research/)) parts.push({ source: "Research", what: "in title or abstract", quoted: [`"${(pins.openalex ?? data.term).toLowerCase()}"|`] })
+  else parts.push({ source: "Research", what: "not counted" })
+  if (has(/^Google Trends/)) parts.push({ source: "Google Trends", what: "", quoted: [`"${(pins.trends ?? data.term).toLowerCase()}"|`] })
+  else parts.push({ source: "Google Trends", what: "not counted" })
+  return (
+    <p class="attention-counted">
+      <b>Counted as</b>
+      {parts.map((p) => (
+        <span>
+          {" · "}
+          {p.source}:{" "}
+          {p.quoted
+            ? p.quoted.map((q, k) => {
+                const [t, rest] = q.split("|")
+                return (
+                  <>
+                    {k > 0 ? "; " : ""}
+                    <em>{t}</em>
+                    {rest ? `, ${rest}` : ""}
+                  </>
+                )
+              })
+            : null}
+          {p.what ? (p.quoted ? ` ${p.what}` : p.what) : ""}
+        </span>
+      ))}
+    </p>
+  )
 }
 
 export default (() => {
@@ -472,6 +523,7 @@ export default (() => {
               )
             })}
           </ul>
+          {countedAs(data)}
           {moments.length > 0 && (
             <ol class="attention-moments">
               {moments.map((m) => (

@@ -124,6 +124,21 @@
   }
 }
 
+// under which name each source was counted: one line under the legend
+.graph-story.attention .attention-counted {
+  margin: 0.3em 0 0;
+  font-size: 0.8em;
+  line-height: 1.5;
+  color: var(--darkgray);
+  b {
+    font-family: "Barlow Condensed", var(--headerFont), sans-serif;
+    font-weight: 400;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: var(--dark);
+  }
+}
+
 // no curve: one line in the card's frame, nothing to open
 .graph-story.attention-empty .attention-note {
   margin: 0;
