@@ -42,6 +42,6 @@ attention_moments:
 - [[Ging-AlphaMale-2019|Ging (2019)]] — [Alphas, Betas, and Incels: Theorizing the Masculinities of the Manosphere](https://doi.org/10.1177/1097184x17706401). *Men and Masculinities*
 
 *Secondary:*
-- [[Secondary-AlphaMale|Mech (n.d.) · Mech, International Wolf Center (n.d.) · Miranda (2022) · Chappell (2026)]] — Mech on the term, and journalism
+- [[Secondary-AlphaMale|Mech (n.d.) · Mech, International Wolf Center (n.d.) · Miranda (2022) · Chappell (2026) · Scharrer & Warren (2022)]] — Mech on the term, journalism, and a survey of teenagers' media use
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

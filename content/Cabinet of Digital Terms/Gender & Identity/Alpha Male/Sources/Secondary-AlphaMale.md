@@ -78,3 +78,21 @@ Reports (9 September 2026) that a federal judge in Miami denied Andrew and Trist
 ### Related entries
 
 - [[Alpha Male]] — the Friction and the semantic landscape
+
+---
+
+## 5. Adolescents' Modern Media Use and Beliefs About Masculine Gender Roles and Norms
+
+**Author:** Erica Scharrer, Sarah Warren
+**Year:** 2022
+**Type:** Academic
+**Publisher:** *Journalism & Mass Communication Quarterly*
+**URL:** https://doi.org/10.1177/10776990211035453
+
+### What this source contributes
+
+A survey of 307 American 13- to 18-year-olds, using cultivation theory. Heavy users of television (including streaming), video games and YouTube endorsed a masculinity of emotional detachment, dominance, toughness and avoidance of femininity more than lighter users, among girls as well as boys; for boys, violence in their favourite games also played a part. A correlation, not proof of cause, and measured in ordinary media rather than the manosphere: it shows that the norm the alpha figure sells is already present in mainstream media. Cited by the Nederlands Jeugdinstituut in its page on the manosphere.
+
+### Related entries
+
+- [[Alpha Male]] — dominance and toughness as a norm outside the manosphere

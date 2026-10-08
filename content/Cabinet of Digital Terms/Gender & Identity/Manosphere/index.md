@@ -20,7 +20,7 @@ attention_moments:
     source: "Louis Theroux: Inside the Manosphere, Wikipedia"
     url: "https://en.wikipedia.org/wiki/Louis_Theroux:_Inside_the_Manosphere"
   - month: 2026-05
-    note: "The Dutch line: on 11 May Stichting School & Veiligheid published a survey of nearly 500 education professionals; 56 percent in secondary schools saw more behaviour pointing to manosphere influence. 2,358 lookups on Dutch Wikipedia that day, its highest."
+    note: "The Dutch line: on 11 May Stichting School & Veiligheid published a survey of nearly 500 education professionals; almost three quarters of those in secondary schools had seen more behaviour possibly linked to the manosphere over four years. 2,358 lookups on Dutch Wikipedia that day, its highest."
     source: "Stichting School & Veiligheid"
     url: "https://www.schoolenveiligheid.nl/news/onderzoek-manosphere-onderwijs/"
 ---
@@ -37,7 +37,7 @@ attention_moments:
 
 **The Friction:** The explanation is always the same: women, feminism and progressive institutions are to blame. [[SMV (Sexual Market Value)]] is the shared framework, a market in which men are ranked; [[Incel]] and [[Blackpill]] are where the logic ends. What keeps it going is attention. [[Recommender Systems]] bring the next video before anyone searches for it, and the influencers depend on their followers as much as the followers on them: Ardon calls them "a kind of slave to their followers". Andrew Tate measured his worth the same way: asked to take part in Theroux's documentary, he refused and sent a Google Trends graph to show who was more relevant ([[Secondary-Manosphere|Patrick, 2026]]). [[Haslop-Manosphere-2024|Haslop et al. (2024)]], who spoke with boys of thirteen and fourteen in London, found them treating Tate's videos as humour they share, and advise teaching boys how such business models work rather than attacking the message.
 
-**Why This Matters:** **Manosphere** names an ecosystem, not a monolith. Once you see its entry points and its business models, "he watches those videos" becomes a different kind of observation.
+**Why This Matters:** **Manosphere** names an ecosystem, not a monolith. In 2026 the adults around boys began learning its language: Canada's equality ministry published a glossary of *incel*, *red pill* and *alpha* for parents and teachers ([[Secondary-Manosphere|Women and Gender Equality Canada, 2026]]); in the Netherlands almost three quarters of secondary-school staff had seen more behaviour linked to it ([[Secondary-Manosphere|School & Veiligheid, 2026]]); and in Rotterdam fathers learn to braid their daughters' hair, so that the girls know what care from a man feels like ([[Secondary-Manosphere|Van de Water, 2026]]).
 
 **Related terms:** [[Incel]] · [[MGTOW]] · [[Sigma Male]] · [[Alpha Male]] · [[SMV (Sexual Market Value)]] · [[Blackpill]] · [[Red Pill]] · [[Tradwife]] · [[Dehumanization]] · [[Recommender Systems]] · [[Attention Economy]] · [[Great Replacement]] · [[Deplatforming]] · [[NPC]] · [[Adolescence (Netflix, 2025)]]
 
@@ -50,6 +50,6 @@ attention_moments:
 - [[Haslop-Manosphere-2024|Haslop, Ringrose, Cambazoglu & Milne (2024)]] — [Mainstreaming the Manosphere's Misogyny Through Affective Homosocial Currencies: Exploring How Teen Boys Navigate the Andrew Tate Effect](https://doi.org/10.1177/20563051241228811). *Social Media + Society*
 
 *Secondary:*
-- [[Secondary-Manosphere|Kimmel (2013) · Ribeiro et al. (2020) · Craig (1992) · Hall (2025) · Hoste (2023) · CNN (2024) · Patrick (2026) · Elffers (2026) · Netwerk Filmeducatie (n.d.) · Wikimedia pageviews · Van de Water (2026)]] — research, journalism, a Dutch interview and the readership figures
+- [[Secondary-Manosphere|Kimmel (2013) · Ribeiro et al. (2020) · Craig (1992) · Hall (2025) · Hoste (2023) · CNN (2024) · Patrick (2026) · Elffers (2026) · Netwerk Filmeducatie (n.d.) · Wikimedia pageviews · Van de Water (2026) · Women and Gender Equality Canada (2026) · School & Veiligheid (2026) · Van de Ven, NJi (n.d.)]] — research, journalism, a Dutch interview, the readership figure, two glossaries for adults and a survey of teacherss
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

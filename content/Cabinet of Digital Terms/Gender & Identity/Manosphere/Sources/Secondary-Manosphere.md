@@ -207,3 +207,59 @@ A Dutch counterweight (7 October 2026): the Rotterdam initiative Papa's en Pony'
 
 - [[Manosphere]] — a counterweight
 - [[Provider]] — care instead of provision
+
+---
+
+## 12. What is the manosphere: Key terms, meanings, and why it matters
+
+**Author:** Women and Gender Equality Canada
+**Year:** 2026
+**Type:** Government / Reference
+**Publisher:** Government of Canada
+**URL:** https://www.canada.ca/en/women-gender-equality/funding/equality-action/manosphere.html
+
+### What this source contributes
+
+A glossary from Canada's ministry for women and gender equality (last modified 8 May 2026), written for parents, teachers and others who work with young people. It defines the manosphere as "a group of online communities that share strict and often aggressive ideas about what it means to be a man", explains incel, red pill / blue pill, alpha / beta, and pick-up artists and hustle bros, and points to funded projects such as Next Gen Men and White Ribbon. A government translating the vocabulary for adults shows how far the words have travelled from the forums.
+
+### Related entries
+
+- [[Manosphere]] — adults learning the language
+- [[Incel]] · [[Red Pill]] · [[Alpha Male]] — defined in the glossary
+- [[Podcast-bro]] — close to what the glossary calls hustle bros
+
+---
+
+## 13. School & Veiligheid presenteert onderzoek naar invloed manosphere
+
+**Author:** Stichting School & Veiligheid (survey by Ipsos I&O)
+**Year:** 2026
+**Type:** Report
+**Publisher:** Stichting School & Veiligheid
+**URL:** https://www.schoolenveiligheid.nl/news/onderzoek-manosphere-onderwijs/
+
+### What this source contributes
+
+A survey of nearly 500 Dutch education professionals, published 11 May 2026 (updated 16 June). In secondary education almost three quarters had seen more behaviour possibly linked to the manosphere over the past four years, and 78 percent said boys at school were influenced to some degree by online content about masculinity, gender identity and how to treat women. Three quarters were worried about the effect on the boys themselves and on safety in school. The day it appeared is the highest day of the Dutch Wikipedia article on the manosphere.
+
+### Related entries
+
+- [[Manosphere]] — what teachers see in class, and the Dutch peak in the attention curve
+
+---
+
+## 14. De impact van de manosphere
+
+**Author:** Hannes van de Ven
+**Year:** n.d.
+**Type:** Reference
+**Publisher:** Nederlands Jeugdinstituut (NJi)
+**URL:** https://www.nji.nl/kennis/radicalisering/impact-manosphere
+
+### What this source contributes
+
+The Dutch counterpart of the Canadian glossary: the national youth institute explains the manosphere to parents and professionals as "een verzamelnaam voor een online netwerk van websites, fora, sociale media-accounts en podcasts waarin mannelijkheid en de positie van mannen centraal staan". Content that first looks motivational, algorithms that push further, less room for vulnerability; advice to stay in contact, talk, and put the ideas in context. It cites Botto & Gottzén, primary source for [[Red Pill]], and Scharrer & Warren, in the bundle for [[Alpha Male]]. No date on the page.
+
+### Related entries
+
+- [[Manosphere]] — adults learning the language, in Dutch

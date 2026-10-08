@@ -10,6 +10,6 @@ Source material used in the analysis of [[Manosphere]].
 - [[Haslop-Manosphere-2024|Haslop, Ringrose, Cambazoglu & Milne (2024)]] — boys of 13 and 14 and the Andrew Tate effect
 
 **Secondary:**
-- [[Secondary-Manosphere|Kimmel (2013) · Ribeiro et al. (2020) · Craig (1992) · Hall (2025) · Hoste (2023) · CNN (2024) · Patrick (2026) · Elffers (2026) · Netwerk Filmeducatie (n.d.) · Wikimedia pageviews · Van de Water (2026)]] — research, journalism, a Dutch interview and readership figures
+- [[Secondary-Manosphere|Kimmel (2013) · Ribeiro et al. (2020) · Craig (1992) · Hall (2025) · Hoste (2023) · CNN (2024) · Patrick (2026) · Elffers (2026) · Netwerk Filmeducatie (n.d.) · Wikimedia pageviews · Van de Water (2026) · Women and Gender Equality Canada (2026) · School & Veiligheid (2026) · Van de Ven, NJi (n.d.)]] — research, journalism, a Dutch interview, readership figures, two glossaries for adults and a survey of teachers
 
 **Entries covered:** [[Manosphere]] · [[Alpha Male]] · [[Recommender Systems]] · [[Adolescence (Netflix, 2025)]]
