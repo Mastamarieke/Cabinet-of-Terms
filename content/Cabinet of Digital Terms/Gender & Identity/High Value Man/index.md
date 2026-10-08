@@ -16,7 +16,7 @@ semantic_landscape: |
 
 **Literal meaning:** **High value man** describes a man with a full set of desirable traits — money, fitness, confidence, self-control — framed as making him valuable on the sexual market. The phrase is market language applied to a person: *value* is what an asset has, and *high* places him on a scale against other men.
 
-**Origin:** The term circulates in manosphere content, dating coaching and self-improvement podcasts, as both aspiration and product: how to become one, how to spot one, how to attract one. It has a mirror in the "high-value woman": on the subreddit RedPillWomen, [[Pieters-HVM-2024|Pieters and Trottier (2024)]] found a femininity built to be "both subordinate to men as well as highly entrepreneurial".
+**Origin:** The term circulates in manosphere content, dating coaching and self-improvement podcasts, as both aspiration and product: how to become one, how to spot one, how to attract one. It spread through figures like the American YouTuber Kevin Samuels, with 1.4 million subscribers, who rated women callers on looks, weight and age and called unmarried women over 35 "leftover"; critics said he made a career of disparaging Black women ([[Secondary-HVM|Burke, 2022]]). It has a mirror in the "high-value woman": on the subreddit RedPillWomen, [[Pieters-HVM-2024|Pieters and Trottier (2024)]] found a femininity built to be "both subordinate to men as well as highly entrepreneurial".
 
 > A market-language label for the aspirational masculine ideal — where self-development is reframed as investment and relationships as return.
 

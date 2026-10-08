@@ -137,3 +137,23 @@ Analysis of the virtual influencer as commercial investment, supplying the brand
 ### Related entries
 
 - [[Virtual Influencer]] — adoption patterns across sectors
+
+---
+
+## 8. In de wereld van AI-porno kan alles, ook wat in de echte wereld niet mag
+
+**Author:** Marieke de Ruiter, Esma Linnemann
+**Year:** 2026
+**Type:** Journalism
+**Publisher:** de Volkskrant
+**URL:** https://www.volkskrant.nl/tech/in-de-wereld-van-ai-porno-kan-alles-ook-wat-in-de-echte-wereld-niet-mag~b9009a8a/
+
+### What this source contributes
+
+Reporting from the porn conference Xbiz in Miami (5 September 2026, third part of a series on the porn industry). Tech companies sell tools with which management agencies create lifelike AI influencers for erotic fan platforms, and "lifelike" AI copies of existing models; the 53-year-old performer Brittany Andrews has several AI clones that videochat with her fans, and makes a third of her content with AI. The same technique as the virtual influencer, now built from a real person's likeness. Lucia Bainotti (University of Amsterdam): "every pixel we see is derived from real people."
+
+### Related entries
+
+- [[Virtual Influencer]] — AI personas and clones of real models for fan platforms
+- [[Parasocial Relationship]] — AI clones that chat with fans
+

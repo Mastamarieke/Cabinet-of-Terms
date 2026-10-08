@@ -96,3 +96,21 @@ The standard theoretical account of the manosphere's masculinities, in which the
 ### Related entries
 
 - [[Red Pill]] — background
+
+---
+
+## 6. Reddit quarantined: can changing platform affordances reduce hateful material online?
+
+**Author:** Simon Copland
+**Year:** 2020
+**Type:** Academic
+**Publisher:** *Internet Policy Review* 9(4)
+**URL:** https://doi.org/10.14763/2020.4.1516
+
+### What this source contributes
+
+A study of Reddit's quarantine of r/TheRedPill and r/Braincels on 28 September 2018. The quarantine cordoned the forums off from the rest of the platform and activity dropped by about half, but the share of comments with misogynistic language stayed the same; many users left Reddit for "small, intense, self-moderated platforms" that are watched far less closely, making the material "someone else's problem". Open access. Also the source behind game card 061 (via triple j *Hack*, 11 November 2020).
+
+### Related entries
+
+- [[Red Pill]] — what removing a forum does and does not do

@@ -19,7 +19,7 @@ attention_moments:
 
 **Literal meaning:** The **blackpill** is the belief, in **incel** and **manosphere** communities, that romantic and social outcomes are fixed by biology — bone structure, height, genes — and that no effort can change your place in the sexual hierarchy. It adds a colour to the scale: if the red pill is a harsh truth, the black one is a truth that cannot be changed.
 
-**Origin:** The term grew out of red-pill vocabulary on incel forums in the 2010s and comes with its own pseudo-science of faces: "lookism", "canthal tilt" and other measures that give determinism the look of data.
+**Origin:** The term grew out of red-pill vocabulary on incel forums in the 2010s and comes with its own pseudo-science of faces: "lookism", "canthal tilt" and other measures that give determinism the look of data. Its first large home, r/Incels, with about 41,000 members, was banned by Reddit in November 2017 under its rules against violent content ([[Secondary-Blackpill|Vanian, 2017]]).
 
 > A deterministic ideology that frames romantic failure as biologically fixed — where the permanence of the hierarchy makes resentment the only rational response.
 
@@ -39,6 +39,6 @@ attention_moments:
 - [[Scaptura-Blackpill-2020|Scaptura & Boyle (2020)]] — [Masculinity Threat, "Incel" Traits, and Violent Fantasies Among Heterosexual Men in the United States](https://doi.org/10.1177/1557085119896415). *Feminist Criminology*
 
 *Secondary:*
-- [[Secondary-Blackpill|Hamermesh & Biddle (1994) · Ging (2019)]] — economics of looks, and theory
+- [[Secondary-Blackpill|Hamermesh & Biddle (1994) · Ging (2019) · Vanian (2017)]] — economics of looks, and theory
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

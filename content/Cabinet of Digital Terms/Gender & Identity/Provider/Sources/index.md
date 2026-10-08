@@ -10,6 +10,6 @@ Source material used in the analysis of [[Provider]].
 - [[Elliott-Provider-2016|Elliott (2016)]] — caring masculinities, the counter-image
 
 **Secondary:**
-- [[Secondary-Provider|Van de Water (2026) · Kimmel (2013) · Ging (2019)]] — Dutch fathers against the manosphere, and background
+- [[Secondary-Provider|Van de Water (2026) · Kimmel (2013) · Ging (2019) · Bakar (2022)]] — Dutch fathers against the manosphere, and background
 
 **Entries covered:** [[Provider]] · [[Hypergamy]] · [[Manosphere]]

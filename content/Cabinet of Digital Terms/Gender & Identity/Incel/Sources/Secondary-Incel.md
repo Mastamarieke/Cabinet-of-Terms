@@ -172,3 +172,21 @@ Futrelle has tracked the manosphere since 2010 and his archive documents incel f
 
 - [[Incel]] — the forums as they read from outside, over time
 - [[Manosphere]] — the archive covers the whole set of communities
+
+---
+
+## 10. UK to conduct review on tackling extremist ideologies, including misogyny
+
+**Author:** Al Jazeera
+**Year:** 2024
+**Type:** Journalism
+**Publisher:** Al Jazeera
+**URL:** https://www.aljazeera.com/news/2024/8/18/uk-to-conduct-review-on-tackling-extremist-ideologies-including-misogyny
+
+### What this source contributes
+
+Reports (18 August 2024) that Home Secretary Yvette Cooper announced a review of extremist ideologies that includes extreme misogyny, alongside Islamism and the far right, after the Southport riots; it links misogyny to incel culture and the 2021 Plymouth shooting, and quotes Cooper on "the number of young people radicalised online". Source of game card 054.
+
+### Related entries
+
+- [[Incel]] — from online subculture to a question of national security

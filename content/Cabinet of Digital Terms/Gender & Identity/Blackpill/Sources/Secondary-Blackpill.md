@@ -42,3 +42,22 @@ The standard theoretical account of the manosphere's masculinities, including th
 ### Related entries
 
 - [[Blackpill]] — background
+
+---
+
+## 3. Reddit Has Banned a Group of Misogynists
+
+**Author:** Jonathan Vanian
+**Year:** 2017
+**Type:** Journalism
+**Publisher:** *Fortune*
+**URL:** https://fortune.com/2017/11/09/reddit-incel-misogyny-forum
+
+### What this source contributes
+
+Reports (9 November 2017) that Reddit banned r/Incels, a forum of about 41,000 members (per the BBC), for violating its "sitewide rules regarding violent content"; the forum hosted posts about drugging and assaulting women and praise for the Isla Vista killer. Source of game card 051.
+
+### Related entries
+
+- [[Blackpill]] — the first large home of the blackpill
+- [[Incel]] — the forum that gave the word its community

@@ -10,6 +10,6 @@ Source material used in the analysis of [[Virtual Influencer]].
 - [[Sands-VirtualInfluencer-2022|Sands et al. (2022)]] — anthropomorphism as design mechanism; agency as boundary condition; the AI influencer as social actor
 
 **Secondary:**
-- [[Secondary-VirtualInfluencer|VirtualHumans.org (n.d.) · De Coninck (2026) · Internet Matters (2023) · VRT NWS (2023) · Youngworks (2025) · Sprout Social (2025) · The Marketing Cloud (2024)]] — industry directory, journalism, youth research, industry documentation
+- [[Secondary-VirtualInfluencer|VirtualHumans.org (n.d.) · De Coninck (2026) · Internet Matters (2023) · VRT NWS (2023) · Youngworks (2025) · Sprout Social (2025) · The Marketing Cloud (2024) · De Ruiter & Linnemann (2026)]] — industry directory, journalism, youth research, industry documentation
 
 **Entries covered:** [[Virtual Influencer]] · [[Parasocial Relationship]] · [[Highlight Reel]] · [[Influencer]]

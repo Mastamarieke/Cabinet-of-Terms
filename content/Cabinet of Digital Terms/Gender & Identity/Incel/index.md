@@ -37,7 +37,7 @@ attention_moments:
 
 **The Friction:** [[SMV (Sexual Market Value)]] puts incels at the bottom of a market rigged by **hypergamy**; [[Blackpill]] says the bottom is permanent. What [[DeVettor-Incel-2025|De Vettor et al. (2025)]] found in 453 posts on an Italian forum is what happens next: the bottom position is claimed and used. Because only their suffering counts, women can be dismissed as "non-persons", a word used 114 times in a single thread; Halpin calls this weaponized subordination. [[Dehumanization]] — the denial of full humanity — is the result. The killings are documented, but the endorsement is rare: about one in ten incels admires the men who committed them. [[Echo Chamber]] is how the rare becomes the loud. [[Deplatforming]] has removed the largest communities; the migration to less moderated platforms is documented too.
 
-**Why This Matters:** **Incel** shows what a name can do. The forums give belonging to people who find it nowhere else, which is why they are hard to leave; a UK survey of 561 incels ([[Secondary-Incel|Whittaker, Costello and Thomas (2024)]]) found that mental health and ideology make each other worse over time. Some do leave: r/IncelExit exists for exactly that.
+**Why This Matters:** **Incel** shows what a name can do. Governments now treat it as a security question: in August 2024 the British Home Secretary, Yvette Cooper, included extreme misogyny in a review of extremist ideologies ([[Secondary-Incel|Al Jazeera, 2024]]). The forums give belonging to people who find it nowhere else, which is why they are hard to leave; a UK survey of 561 incels ([[Secondary-Incel|Whittaker, Costello and Thomas (2024)]]) found that mental health and ideology make each other worse over time. Some do leave: r/IncelExit exists for exactly that.
 
 **Related terms:** [[Blackpill]] · [[SMV (Sexual Market Value)]] · [[Hypergamy]] · [[Dehumanization]] · [[Echo Chamber]] · [[Deplatforming]] · [[Manosphere]] · [[Sigma Male]] · [[MGTOW]] · [[Red Pill]] · [[Chad]] · [[Great Replacement]] · [[Alpha Male]] · [[Adolescence (Netflix, 2025)]] · [[Recommender Systems]]
 
@@ -49,6 +49,6 @@ attention_moments:
 - [[Sparks-Incel-2022|Sparks, Zidenberg & Olver (2022)]] — [Involuntary Celibacy: A Review of Incel Ideology and Experiences with Dating, Rejection, and Associated Mental Health and Emotional Sequelae](https://doi.org/10.1007/s11920-022-01382-9). *Current Psychiatry Reports*, 24, 731–740
 
 *Secondary:*
-- [[Secondary-Incel|Speckhard et al. (2021) · Whittaker, Costello & Thomas (2024) · Daly & Reed (2022) · Halpin (2022) · Ciocca et al. (2022) · Sparks, Zidenberg & Olver (2023) · Ging (2019) · BBC News (2018) · Futrelle (n.d.)]] — surveys, a government report, theory, and journalism
+- [[Secondary-Incel|Speckhard et al. (2021) · Whittaker, Costello & Thomas (2024) · Daly & Reed (2022) · Halpin (2022) · Ciocca et al. (2022) · Sparks, Zidenberg & Olver (2023) · Ging (2019) · BBC News (2018) · Futrelle (n.d.) · Al Jazeera (2024)]] — surveys, a government report, theory, and journalism
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

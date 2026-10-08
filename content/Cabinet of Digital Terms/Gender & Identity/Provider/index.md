@@ -36,6 +36,6 @@ semantic_landscape: |
 - [[Elliott-Provider-2016|Elliott (2016)]] — [Caring Masculinities: Theorizing an Emerging Concept](https://doi.org/10.1177/1097184X15576203). *Men and Masculinities*
 
 *Secondary:*
-- [[Secondary-Provider|Van de Water (2026) · Kimmel (2013) · Ging (2019)]] — Dutch fathers against the manosphere, and background
+- [[Secondary-Provider|Van de Water (2026) · Kimmel (2013) · Ging (2019) · Bakar (2022)]] — Dutch fathers against the manosphere, and background
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

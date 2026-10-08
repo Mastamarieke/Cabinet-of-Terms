@@ -10,6 +10,6 @@ Source material used in the analysis of [[Red Pill]].
 - [[VanVeeren-RedPill-2026|Van Veeren, Moerking & Dryer (2026)]] — red-pill YouTube videos and the "image bank" of *The Matrix*
 
 **Secondary:**
-- [[Secondary-RedPill|Daily Beast (2017) · Boston Globe (2017) · Fitzsimons (2020) · Marwick & Lewis (2017) · Ging (2019)]] — the forum's founder, Wachowski on the film, and background
+- [[Secondary-RedPill|Daily Beast (2017) · Boston Globe (2017) · Fitzsimons (2020) · Marwick & Lewis (2017) · Ging (2019) · Copland (2020)]] — the forum's founder, Wachowski on the film, and background
 
 **Entries covered:** [[Red Pill]] · [[The Matrix]] · [[Manosphere]]

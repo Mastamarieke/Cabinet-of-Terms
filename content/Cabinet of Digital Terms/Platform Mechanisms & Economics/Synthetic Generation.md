@@ -29,7 +29,6 @@ analysis_version: pending
 - [De synthetische generatie](https://www.sogeti.nl/wp-content/uploads/sites/4/2024/10/De-Synthetische-Generatie.pdf) — Van Doorn, M., Duivestein, S. & Pepping, T. (2019). _Sogeti VINT_
 - [Brand Trust in the Age of Synthetic Media: Consumer Reactions to AI-Generated Influencers and Content](https://www.academia.edu/130253806/Brand_Trust_in_the_Age_of_Synthetic_Media_Consumer_Reactions_to_AI_Generated_Influencers_and_Content) — Kumar, R. & Sharma, P. (2025). _International Journal of Multidisciplinary Research and Analysis_
 - [AI Influencers: The Rise of Synthetic Personalities](https://o-mega.ai/articles/ais-going-viral-the-rise-of-synthetic-personalities-full-report-2025) — O-mega AI (2025). _O-mega AI Report
-- [Deepfakes and the New Disinformation War](https://www.foreignaffairs.com/articles/world/2018-12-11/deepfakes-and-new-disinformation-war) — Chesney, R. & Citron, D. (2018). _Foreign Affairs_
 - [A Style-Based Generator Architecture for Generative Adversarial Networks](https://arxiv.org/abs/1812.04948) — Karras, T., Laine, S. & Aila, T. (2018). _NVIDIA / arXiv_
 - [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165) — Brown, T.B. et al. (2020). _OpenAI / NeurIPS_
 - [Deepfakes and the New Disinformation War](https://www.foreignaffairs.com/articles/world/2018-12-11/deepfakes-and-new-disinformation-war) — Chesney, R. & Citron, D.K. (2018). _Foreign Affairs_

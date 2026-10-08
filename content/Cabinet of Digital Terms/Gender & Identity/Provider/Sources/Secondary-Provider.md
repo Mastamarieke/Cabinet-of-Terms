@@ -60,3 +60,21 @@ The standard account of the manosphere, where the provider is set against the al
 ### Related entries
 
 - [[Provider]] — background
+
+---
+
+## 4. Should First Dates Pay 50/50? TikTok Has Reignited The Debate
+
+**Author:** Faima Bakar
+**Year:** 2022
+**Type:** Journalism
+**Publisher:** *HuffPost UK*
+**URL:** https://www.huffingtonpost.co.uk/entry/tiktok-first-dates-should-be-paid-5050_uk_61f7b6c6e4b094ce54acfacc
+
+### What this source contributes
+
+Reports (1 February 2022) on a TikTok video by Kiera Breaugh, seen about 500,000 times, arguing against splitting first dates 50/50: "Men expect 50/50 from women when women don't get 50% of anything." Around the bill on a first date three positions meet: the conservative man who almost always pays, as the provider; the manosphere, for which paying without return means being used; and women like Breaugh, for whom the man should pay as long as women are not equal. Not in the entry text, because explaining the three positions takes more room than the point is worth there; the question "who pays?" works better as a conversation starter in the game (card 060).
+
+### Related entries
+
+- [[Provider]] — the bill as a point of dispute

@@ -10,6 +10,6 @@ Source material used in the analysis of [[Incel]].
 - [[Sparks-Incel-2022|Sparks, Zidenberg & Olver (2022)]] — review of research that recruited incels directly; the figures behind the Appeal
 
 **Secondary:**
-- [[Secondary-Incel|Speckhard et al. (2021) · Whittaker, Costello & Thomas (2024) · Daly & Reed (2022) · Halpin (2022) · Ciocca et al. (2022) · Sparks, Zidenberg & Olver (2023) · Ging (2019) · BBC News (2018) · Futrelle (n.d.)]] — surveys, a government report, theory, and journalism
+- [[Secondary-Incel|Speckhard et al. (2021) · Whittaker, Costello & Thomas (2024) · Daly & Reed (2022) · Halpin (2022) · Ciocca et al. (2022) · Sparks, Zidenberg & Olver (2023) · Ging (2019) · BBC News (2018) · Futrelle (n.d.) · Al Jazeera (2024)]] — surveys, a government report, theory, and journalism
 
 **Entries covered:** [[Incel]] · [[Blackpill]] · [[SMV (Sexual Market Value)]] · [[Dehumanization]] · [[Echo Chamber]] · [[Manosphere]]
