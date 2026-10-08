@@ -1,6 +1,6 @@
 {
  "term": "Rizz",
- "retrieved": "2026-10-07",
+ "retrieved": "2026-10-08",
  "years": [
   2019,
   2020,
@@ -107,9 +107,10 @@
   "2026-09"
  ],
  "enough": true,
+ "search_only": false,
  "checked": [
   "Wikipedia: no article in German, French, Spanish",
-  "OpenAlex: left out by the curator, the word means something else in the literature"
+  "OpenAlex: not counted, before the slang \"Rizz.\" is the botanical abbreviation for the botanist Rizzini, in plant names"
  ],
  "curator": [
   "YouTube: not counted, no API key on this machine",
@@ -318,18 +319,18 @@
     "2023-02": 62.0,
     "2023-03": 55.0,
     "2023-04": 80.0,
-    "2023-05": 74.0,
-    "2023-06": 79.0,
+    "2023-05": 75.0,
+    "2023-06": 80.0,
     "2023-07": 72.0,
     "2023-08": 70.0,
     "2023-09": 74.0,
-    "2023-10": 82.0,
+    "2023-10": 83.0,
     "2023-11": 70.0,
     "2023-12": 100.0,
     "2024-01": 71.0,
     "2024-02": 73.0,
     "2024-03": 73.0,
-    "2024-04": 82.0,
+    "2024-04": 79.0,
     "2024-05": 72.0,
     "2024-06": 67.0,
     "2024-07": 59.0,
@@ -337,7 +338,7 @@
     "2024-09": 64.0,
     "2024-10": 61.0,
     "2024-11": 61.0,
-    "2024-12": 57.0,
+    "2024-12": 58.0,
     "2025-01": 50.0,
     "2025-02": 51.0,
     "2025-03": 47.0,
@@ -360,10 +361,11 @@
     "2026-08": 23.0,
     "2026-09": 25.0
    },
-   "retrieved": "2026-10-07"
+   "retrieved": "2026-10-08"
   }
  ],
  "pins": {
-  "openalex": "-"
+  "openalex": "-",
+  "why_openalex": "not counted, before the slang \"Rizz.\" is the botanical abbreviation for the botanist Rizzini, in plant names"
  }
 }

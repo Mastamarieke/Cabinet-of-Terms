@@ -1,6 +1,6 @@
 {
  "term": "MGTOW",
- "retrieved": "2026-10-07",
+ "retrieved": "2026-10-08",
  "years": [
   2019,
   2020,
@@ -107,6 +107,7 @@
   "2026-09"
  ],
  "enough": true,
+ "search_only": false,
  "checked": [],
  "curator": [
   "OpenAlex: 14 peer-reviewed articles since 2019",
@@ -114,7 +115,7 @@
   "Google Trends: fetched"
  ],
  "wikipedia": {
-  "en": "\"Men Going Their Own Way\" (chosen by the curator)",
+  "en": "\"Men Going Their Own Way\"",
   "nl": "\"Men Going Their Own Way\" (via a redirect)",
   "de": "\"Men Going Their Own Way\" (via a redirect)",
   "fr": "\"MGTOW\"",
@@ -131,7 +132,7 @@
  "series": [
   {
    "label": "Wikipedia, page views (5 languages)",
-   "source": "Wikimedia REST API: the article \"MGTOW\" on two editions of Wikipedia; the English edition's \"Men Going Their Own Way\" (chosen by the curator); the Dutch edition's \"Men Going Their Own Way\" (via a redirect); the German edition's \"Men Going Their Own Way\" (via a redirect), monthly views by readers, added up",
+   "source": "Wikimedia REST API: the article \"MGTOW\" on two editions of Wikipedia; the English edition's \"Men Going Their Own Way\"; the Dutch edition's \"Men Going Their Own Way\" (via a redirect); the German edition's \"Men Going Their Own Way\" (via a redirect), monthly views by readers, added up",
    "period": "month",
    "values": {
     "2019-01": 84630,
@@ -295,8 +296,8 @@
    "period": "month",
    "values": {
     "2019-01": 100.0,
-    "2019-02": 85.0,
-    "2019-03": 85.0,
+    "2019-02": 84.0,
+    "2019-03": 91.0,
     "2019-04": 83.0,
     "2019-05": 82.0,
     "2019-06": 99.0,
@@ -314,23 +315,23 @@
     "2020-06": 46.0,
     "2020-07": 46.0,
     "2020-08": 48.0,
-    "2020-09": 45.0,
+    "2020-09": 47.0,
     "2020-10": 37.0,
     "2020-11": 40.0,
     "2020-12": 39.0,
-    "2021-01": 38.0,
+    "2021-01": 37.0,
     "2021-02": 37.0,
     "2021-03": 37.0,
     "2021-04": 35.0,
     "2021-05": 37.0,
     "2021-06": 34.0,
     "2021-07": 41.0,
-    "2021-08": 44.0,
+    "2021-08": 45.0,
     "2021-09": 30.0,
     "2021-10": 32.0,
     "2021-11": 29.0,
     "2021-12": 27.0,
-    "2022-01": 30.0,
+    "2022-01": 31.0,
     "2022-02": 29.0,
     "2022-03": 28.0,
     "2022-04": 27.0,
@@ -353,17 +354,17 @@
     "2023-09": 16.0,
     "2023-10": 15.0,
     "2023-11": 14.0,
-    "2023-12": 15.0,
+    "2023-12": 14.0,
     "2024-01": 16.0,
     "2024-02": 16.0,
     "2024-03": 17.0,
-    "2024-04": 18.0,
+    "2024-04": 17.0,
     "2024-05": 19.0,
     "2024-06": 18.0,
     "2024-07": 23.0,
     "2024-08": 21.0,
     "2024-09": 16.0,
-    "2024-10": 13.0,
+    "2024-10": 12.0,
     "2024-11": 15.0,
     "2024-12": 13.0,
     "2025-01": 15.0,
@@ -388,7 +389,7 @@
     "2026-08": 8.0,
     "2026-09": 7.0
    },
-   "retrieved": "2026-10-07"
+   "retrieved": "2026-10-08"
   }
  ],
  "pins": {

@@ -1,6 +1,6 @@
 {
  "term": "Red Pill",
- "retrieved": "2026-10-07",
+ "retrieved": "2026-10-08",
  "years": [
   2019,
   2020,
@@ -107,6 +107,7 @@
   "2026-09"
  ],
  "enough": true,
+ "search_only": false,
  "checked": [
   "Wikipedia: no article in Dutch, German, French, Spanish"
  ],
@@ -116,7 +117,7 @@
   "Google Trends: fetched"
  ],
  "wikipedia": {
-  "en": "\"Red pill and blue pill\" (chosen by the curator)",
+  "en": "\"Red pill and blue pill\"",
   "nl": "no article",
   "de": "no article",
   "fr": "no article",
@@ -129,7 +130,7 @@
  "series": [
   {
    "label": "English Wikipedia, page views",
-   "source": "Wikimedia REST API: the English edition's \"Red pill and blue pill\" (chosen by the curator), monthly views by readers",
+   "source": "Wikimedia REST API: the English edition's \"Red pill and blue pill\", monthly views by readers",
    "period": "month",
    "values": {
     "2019-01": 85785,
@@ -259,7 +260,7 @@
    "values": {
     "2019-01": 51.0,
     "2019-02": 48.0,
-    "2019-03": 53.0,
+    "2019-03": 52.0,
     "2019-04": 47.0,
     "2019-05": 46.0,
     "2019-06": 52.0,
@@ -287,8 +288,8 @@
     "2021-04": 39.0,
     "2021-05": 41.0,
     "2021-06": 39.0,
-    "2021-07": 40.0,
-    "2021-08": 42.0,
+    "2021-07": 41.0,
+    "2021-08": 43.0,
     "2021-09": 49.0,
     "2021-10": 41.0,
     "2021-11": 42.0,
@@ -304,7 +305,7 @@
     "2022-09": 47.0,
     "2022-10": 49.0,
     "2022-11": 48.0,
-    "2022-12": 53.0,
+    "2022-12": 54.0,
     "2023-01": 53.0,
     "2023-02": 57.0,
     "2023-03": 65.0,
@@ -322,7 +323,7 @@
     "2024-03": 52.0,
     "2024-04": 55.0,
     "2024-05": 48.0,
-    "2024-06": 46.0,
+    "2024-06": 47.0,
     "2024-07": 46.0,
     "2024-08": 45.0,
     "2024-09": 45.0,
@@ -348,10 +349,10 @@
     "2026-05": 92.0,
     "2026-06": 69.0,
     "2026-07": 63.0,
-    "2026-08": 53.0,
-    "2026-09": 52.0
+    "2026-08": 54.0,
+    "2026-09": 50.0
    },
-   "retrieved": "2026-10-07"
+   "retrieved": "2026-10-08"
   }
  ],
  "pins": {

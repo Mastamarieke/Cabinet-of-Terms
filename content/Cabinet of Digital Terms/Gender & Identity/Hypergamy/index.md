@@ -14,7 +14,9 @@ attention_moments:
   - month: 2021-11
     note: "8 November: 30,189 lookups in one day, almost all on desktop and with no referrer, while crawlers rose the same day (3,334 against 22). Almost certainly automated traffic that Wikimedia did not filter out, not readers: the tallest peak of the line is not attention."
   - month: 2024-06
-    note: "Mid-June, a plateau of 2,500 to 3,700 lookups a day, on phones and through Google (30,000 arrivals from search against 17,700 in May). People saw the word somewhere and looked it up; where has not been found. A peak without a found cause."
+    note: "A survey commissioned by a dating site. On 10 June Seeking.com, formerly SeekingArrangement, launched a campaign called Experience Modern Hypergamy, and on 12 June Forbes asked whether dating up still means what it used to; Wikipedia did not move (about 1,000 lookups a day). From 16 June it doubled, after the New York Post reported a Seeking.com survey under the headline 'What is hypergamy, the dating trend sweeping 40% of Americans?', which radio stations and news sites copied over the following days; the highest day was 20 June (3,685), mostly through Google. By 25 June it was back."
+    source: "New York Post on X, 17 June 2024"
+    url: "https://x.com/nypost/status/1802687410855088587"
   - month: 2026-06
     note: "A TikTok meme: sad animals that have 'found out about hypergamy'. The earliest meme videos found were posted on 28 May, the day Wikipedia's lookups jumped (1,235, against about 550 a day in April); a day later an account on X called it viral everywhere, 'with the looksmaxxing stuff'. Before that the word was already being discussed, in coaching streams, a podcast on hypergamy and SugarTok (15 April) and a PsyPost report on new research (18 April), and search interest rose slightly in May; but the steep climb starts with the meme. The readers came from Google and from apps, mostly on phones. Spikes on 12 June (3,667) and 23 to 24 June (3,894) remain unexplained. No press coverage of the meme found; dated from the posts themselves."
     source: "Post on X, 29 May 2026"

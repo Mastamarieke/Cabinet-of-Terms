@@ -1,6 +1,6 @@
 {
  "term": "Gooner",
- "retrieved": "2026-09-26",
+ "retrieved": "2026-10-08",
  "years": [
   2019,
   2020,
@@ -103,19 +103,21 @@
   "2026-05",
   "2026-06",
   "2026-07",
-  "2026-08"
+  "2026-08",
+  "2026-09"
  ],
  "enough": true,
+ "search_only": false,
  "checked": [
   "Wikipedia: no article in Dutch, German, French, Spanish",
-  "OpenAlex: left out by the curator, the word means something else in the literature"
+  "OpenAlex: not counted, the search also finds goon in its older senses"
  ],
  "curator": [
   "YouTube: not counted, no API key on this machine",
   "Google Trends: fetched"
  ],
  "wikipedia": {
-  "en": "\"Gooning\" (chosen by the curator)",
+  "en": "\"Gooning\"",
   "nl": "no article",
   "de": "no article",
   "fr": "no article",
@@ -128,7 +130,7 @@
  "series": [
   {
    "label": "English Wikipedia, page views",
-   "source": "Wikimedia REST API: the English edition's \"Gooning\" (chosen by the curator), monthly views by readers",
+   "source": "Wikimedia REST API: the English edition's \"Gooning\", monthly views by readers",
    "period": "month",
    "values": {
     "2022-10": 802,
@@ -177,12 +179,13 @@
     "2026-05": 2322,
     "2026-06": 1854,
     "2026-07": 1765,
-    "2026-08": 6098
+    "2026-08": 6098,
+    "2026-09": 75680
    }
   },
   {
    "label": "Google Trends, search interest",
-   "source": "Google Trends, worldwide, monthly interest 0\u2013100, searched as \"Gooning\", the word chosen by the curator. Google publishes no interface for these figures: these are the ones the Trends site itself shows, fetched the way that site fetches them, which means the line goes when Google stops answering",
+   "source": "Google Trends, worldwide, monthly interest 0\u2013100, searched as \"Gooning\". Google publishes no interface for these figures: these are the ones the Trends site itself shows, fetched the way that site fetches them, which means the line goes when Google stops answering",
    "period": "month",
    "values": {
     "2019-01": 1.0,
@@ -226,7 +229,7 @@
     "2022-03": 3.0,
     "2022-04": 3.0,
     "2022-05": 4.0,
-    "2022-06": 3.0,
+    "2022-06": 4.0,
     "2022-07": 4.0,
     "2022-08": 4.0,
     "2022-09": 4.0,
@@ -238,52 +241,54 @@
     "2023-03": 7.0,
     "2023-04": 7.0,
     "2023-05": 7.0,
-    "2023-06": 8.0,
+    "2023-06": 9.0,
     "2023-07": 11.0,
-    "2023-08": 12.0,
+    "2023-08": 13.0,
     "2023-09": 14.0,
-    "2023-10": 18.0,
+    "2023-10": 17.0,
     "2023-11": 23.0,
-    "2023-12": 22.0,
-    "2024-01": 37.0,
-    "2024-02": 44.0,
+    "2023-12": 23.0,
+    "2024-01": 36.0,
+    "2024-02": 43.0,
     "2024-03": 41.0,
-    "2024-04": 45.0,
-    "2024-05": 47.0,
+    "2024-04": 43.0,
+    "2024-05": 48.0,
     "2024-06": 45.0,
-    "2024-07": 42.0,
-    "2024-08": 47.0,
-    "2024-09": 43.0,
-    "2024-10": 38.0,
-    "2024-11": 41.0,
+    "2024-07": 44.0,
+    "2024-08": 50.0,
+    "2024-09": 45.0,
+    "2024-10": 36.0,
+    "2024-11": 43.0,
     "2024-12": 48.0,
     "2025-01": 59.0,
-    "2025-02": 58.0,
-    "2025-03": 58.0,
-    "2025-04": 72.0,
+    "2025-02": 61.0,
+    "2025-03": 57.0,
+    "2025-04": 71.0,
     "2025-05": 81.0,
     "2025-06": 83.0,
-    "2025-07": 93.0,
-    "2025-08": 87.0,
-    "2025-09": 86.0,
-    "2025-10": 87.0,
-    "2025-11": 86.0,
+    "2025-07": 94.0,
+    "2025-08": 89.0,
+    "2025-09": 87.0,
+    "2025-10": 89.0,
+    "2025-11": 88.0,
     "2025-12": 100.0,
-    "2026-01": 89.0,
-    "2026-02": 81.0,
-    "2026-03": 91.0,
-    "2026-04": 93.0,
-    "2026-05": 88.0,
-    "2026-06": 80.0,
-    "2026-07": 76.0,
-    "2026-08": 80.0
+    "2026-01": 90.0,
+    "2026-02": 83.0,
+    "2026-03": 90.0,
+    "2026-04": 92.0,
+    "2026-05": 87.0,
+    "2026-06": 84.0,
+    "2026-07": 81.0,
+    "2026-08": 80.0,
+    "2026-09": 80.0
    },
-   "retrieved": "2026-09-26"
+   "retrieved": "2026-10-08"
   }
  ],
  "pins": {
   "en": "Gooning",
   "openalex": "-",
-  "trends": "Gooning"
+  "trends": "Gooning",
+  "why_openalex": "not counted, the search also finds goon in its older senses"
  }
 }

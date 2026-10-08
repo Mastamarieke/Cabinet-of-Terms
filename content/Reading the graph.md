@@ -81,7 +81,9 @@ Under the graph of some entries sits a curve: when the word drew attention, mont
 
 **The magnifier** opens the curve at full width, with the sources one under the other, each on its own scale.
 
-**Sometimes there is no curve.** Then a single line says why: the word has no Wikipedia article and almost no research yet, so it lives where attention cannot be counted; or the word means other things too, and a count would not be a count of this word. A term without a curve is not a less relevant term.
+**Sometimes there is only search interest.** The word is looked up on Google, but has no Wikipedia article and almost no research yet. Then the curve has one line, Google Trends, and says so: a word people search for that the reference works have not caught up with is a finding in itself.
+
+**Sometimes there is no curve.** Then a single line says why, source by source: where Wikipedia sends the word, what the word means in research, what the searches are about. A term without a curve is not a less relevant term.
 
 ## Where the form comes from
 

@@ -209,8 +209,11 @@ def run(term, out_path, pins):
     for lang in LANGS:
         pinned = pins.get(lang)
         if pinned == "-":
-            wikipedia[lang] = "left out by the curator"
-            left_out.append(NAMES[lang])
+            # a source left out always says why (Marieke, 08-10: "left out by the curator" is no
+            # reason); why_<lang> for one edition, why_wikipedia for all of them
+            why = pins.get(f"why_{lang}") or pins.get("why_wikipedia") or "not counted"
+            wikipedia[lang] = why
+            left_out.append((NAMES[lang], why))
             continue
         title = resolve(lang, pinned) if pinned else resolve(lang, term)
         if not title:
@@ -222,9 +225,9 @@ def run(term, out_path, pins):
             wikipedia[lang] = f"article \"{title}\", no views recorded"
             missing.append(NAMES[lang])
             continue
-        how = "" if title.lower() == term.lower() else (" (chosen by the curator)" if pinned else " (via a redirect)")
+        how = "" if (pinned or title.lower() == term.lower()) else " (via a redirect)"
         wikipedia[lang] = f"\"{title}\"{how}"
-        (same if not how else other).append((NAMES[lang], title, how))
+        (same if title.lower() == term.lower() else other).append((NAMES[lang], title, how))
         in_sum.append(f"{NAMES[lang]} \"{title}\"{how}")
         for m, n in v.items(): combined[m] = combined.get(m, 0) + n
         first = created(lang, title)
@@ -234,10 +237,15 @@ def run(term, out_path, pins):
     # the source line says what was counted; the checked line only what was not
     gaps = []
     if left_out:
-        gaps.append(", ".join(left_out) + " left out by the curator")
+        reasons = {}
+        for name, why in left_out: reasons.setdefault(why, []).append(name)
+        if len(reasons) == 1 and len(left_out) == len(LANGS):
+            gaps.append(next(iter(reasons)))
+        else:
+            gaps += [f"in {', '.join(n)}, {why}" for why, n in reasons.items()]
     if missing:
         gaps.append("no article in " + ", ".join(missing))
-    if not in_sum:
+    if not in_sum and not left_out:
         gaps = ["no article in any of the five languages"]
     if gaps:
         checked.append("Wikipedia: " + "; ".join(gaps))
@@ -250,8 +258,9 @@ def run(term, out_path, pins):
         counted = ([f"the article \"{same[0][1]}\" on {WORDS.get(len(same), len(same))} edition{'s' if len(same) != 1 else ''} of Wikipedia"] if same else []) \
             + [f"the {n} edition's \"{t}\"{how}" for n, t, how in other]
         series.append({
-            "label": f"Wikipedia, page views ({len(in_sum)} languages)" if len(in_sum) > 1 else f"{(same + other)[0][0]} Wikipedia, page views",
-            "source": "Wikimedia REST API: " + "; ".join(counted) + ", monthly views by readers" + (", added up" if len(in_sum) > 1 else ""),
+            "label": pins.get("label_wikipedia") or (f"Wikipedia, page views ({len(in_sum)} languages)" if len(in_sum) > 1 else f"{(same + other)[0][0]} Wikipedia, page views"),
+            "source": "Wikimedia REST API: " + "; ".join(counted) + ", monthly views by readers" + (", added up" if len(in_sum) > 1 else "")
+            + (f"; {pins['about_wikipedia']}" if pins.get("about_wikipedia") else ""),
             "period": "month",
             "values": combined,
         })
@@ -260,7 +269,7 @@ def run(term, out_path, pins):
         series.append({
             "label": "Dutch Wikipedia, page views",
             "source": "Wikimedia REST API, the Dutch edition on its own, as the local line"
-            + (f" (the article \"{title}\"{how})" if how else "")
+            + (f" (the article \"{title}\"{how})" if title.lower() != term.lower() else "")
             + (f"; the Dutch article was written in {first}, and the line starts there" if first else ""),
             "period": "month",
             "values": v,
@@ -269,7 +278,7 @@ def run(term, out_path, pins):
     works = sum(raw.values())
     if pins.get("openalex") == "-":
         works = 0
-        checked_oa = "OpenAlex: left out by the curator, the word means something else in the literature"
+        checked_oa = "OpenAlex: " + pins.get("why_openalex", "not counted, the word means something else in the literature")
     elif works < 10:
         checked_oa = f"OpenAlex: {works} peer-reviewed article{'s' if works != 1 else ''} since 2019, too few for a line"
     else:
@@ -279,7 +288,7 @@ def run(term, out_path, pins):
         series.append({
             "label": "Research: articles per million (OpenAlex)",
             "source": f"OpenAlex, a database of scholarly publications: {works} peer-reviewed articles in recognised journals (the Leiden core list) since 2019 with \"{phrase}\" in the title or abstract, as a share of all such articles that year (per million). The count says how firm the line is: with a handful of articles one publication moves it, with thousands it barely stirs"
-            + (", phrase chosen by the curator" if "openalex" in pins else ""),
+            ,
             "period": "year",
             "values": per_million,
             "raw": raw,
@@ -310,7 +319,7 @@ def run(term, out_path, pins):
             checked.append("YouTube: no videos found")
     else:
         # not a gap the reader needs: YouTube is a choice, not a missing source (Marieke, 15-09)
-        curator.append("YouTube: not counted, no API key on this machine" if not key else "YouTube: left out by the curator")
+        curator.append("YouTube: not counted, no API key on this machine" if not key else "YouTube: not counted")
 
     # Google Trends, only from a CSV the curator exported by hand
     out_dir = os.path.dirname(out_path)
@@ -338,14 +347,14 @@ def run(term, out_path, pins):
             break
     else:
         if pins.get("trends") == "-":
-            checked.append("Google Trends: left out by the curator")
+            checked.append("Google Trends: " + pins.get("why_trends", "not counted"))
         else:
             vals = trends_api(pins.get("trends", term))
             if vals:
                 series.append({
                     "label": "Google Trends, search interest",
                     "source": "Google Trends, worldwide, monthly interest 0–100"
-                    + (f", searched as \"{pins['trends']}\", the word chosen by the curator" if "trends" in pins else "")
+                    + (f", searched as \"{pins['trends']}\"" if "trends" in pins else "")
                     + ". Google publishes no interface for these figures: these are the ones the Trends site itself shows, fetched the way that site fetches them, which means the line goes when Google stops answering",
                     "period": "month",
                     "values": vals,
@@ -388,13 +397,18 @@ def run(term, out_path, pins):
             else:
                 curator.append("4chan: Open Measures did not answer")
 
-    enough = len([s for s in series if s.get("kind") != "use"]) >= 2
+    counted = [s for s in series if s.get("kind") != "use"]
+    # search interest alone is still drawn (Marieke, 08-10: "dat zegt wel wat"): a word people
+    # look up that no reference work or research records yet; the chart says so in its caption
+    search_only = len(counted) == 1 and counted[0]["label"].startswith("Google Trends")
+    enough = len(counted) >= 2 or search_only
     data = {
         "term": term,
         "retrieved": today,
         "years": years,
         "months": months,
         "enough": enough,
+        "search_only": search_only,
         "checked": checked + ([checked_oa] if checked_oa else []),
         "curator": curator,
         "wikipedia": wikipedia,

@@ -18,6 +18,7 @@ type Attention = {
   years: number[]
   months?: string[]
   enough?: boolean
+  search_only?: boolean
   checked?: string[]
   note?: string
   series: Series[]
@@ -100,12 +101,11 @@ export default (() => {
     // "is het dan wel relevant?"). A word with no article and no research lives on platforms
     // that cannot be counted; a word that means something else elsewhere cannot be counted at
     // all. Either way the absence is a finding, and the line points to a curve that is drawn.
-    if (data.enough === false || data.series.length < 2) {
-      const checked = data.checked ?? []
-      const ambiguous = checked.some((c) => /means something else/i.test(c))
-      const why = ambiguous
-        ? "the word means other things too, in games, in research or in everyday English, so a count would not be a count of this word."
-        : "no Wikipedia article and almost no research yet. The word lives on platforms where attention cannot be counted, and search interest alone is too little to compare."
+    if (data.enough === false || (data.series.length < 2 && !data.search_only)) {
+      // the reasons themselves, from the file: where the word is and is not counted
+      const checked = (data.checked ?? []).map((c) => c.replace(/\.$/, ""))
+      const only = data.series.length === 1 ? `only one source counts this word (${data.series[0].label}). ` : ""
+      const why = only + (checked.length ? checked.join("; ") + "." : "too little to compare.")
       const example = "Cabinet-of-Digital-Terms/Gender--and--Identity/Incel/index" as FullSlug
       const guide = "Reading-the-graph" as FullSlug
       return (
@@ -494,6 +494,19 @@ export default (() => {
             </ol>
           )}
           <script type="application/json" class="attention-data" dangerouslySetInnerHTML={{ __html: JSON.stringify(readout).replace(/</g, "\\u003c") }}></script>
+          {data.search_only ? (
+            <p class="attention-note">
+              <strong>Search interest only.</strong> The word is looked up on Google, but reference works and
+              research have hardly recorded it yet:{" "}
+              {(data.checked ?? []).map((c) => c.replace(/\.$/, "")).join("; ")}. Google Trends is an index from 0 to
+              100 against its own busiest month, not a count, so the line shows shape and timing only. By month, up to{" "}
+              {monthName(months[months.length - 1])}. {series[0].source}.{" "}
+              <a href={resolveRelative(fileData.slug!, "Reading-the-graph" as FullSlug) + "#the-attention-curve"} class="internal">
+                What the curve shows
+              </a>
+              . <span class="attention-retrieved">Retrieved {longDate(data.retrieved)}.</span>
+            </p>
+          ) : (
           <p class="attention-note">
             {series.some((s) => s.kind === "use")
               ? "Attention to the term, and, in the dashed line, its use on one forum. "
@@ -516,6 +529,7 @@ export default (() => {
             )}
             <span class="attention-retrieved">Retrieved {longDate(data.retrieved)}.</span>
           </p>
+          )}
         </div>
         <div class="attention-overlay" aria-hidden="true">
           <div class="attention-overlay-card">

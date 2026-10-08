@@ -1,6 +1,6 @@
 {
  "term": "Top 1% Man",
- "retrieved": "2026-10-07",
+ "retrieved": "2026-10-08",
  "years": [
   2019,
   2020,
@@ -106,9 +106,10 @@
   "2026-08",
   "2026-09"
  ],
- "enough": false,
+ "enough": true,
+ "search_only": true,
  "checked": [
-  "Wikipedia: no article in any of the five languages",
+  "Wikipedia: no article in any of the five languages, and English Wikipedia does not name the phrase anywhere",
   "OpenAlex: 0 peer-reviewed articles since 2019, too few for a line"
  ],
  "curator": [
@@ -116,18 +117,18 @@
   "Google Trends: fetched"
  ],
  "wikipedia": {
-  "en": "left out by the curator",
-  "nl": "left out by the curator",
-  "de": "left out by the curator",
-  "fr": "left out by the curator",
-  "es": "left out by the curator"
+  "en": "no article in any of the five languages, and English Wikipedia does not name the phrase anywhere",
+  "nl": "no article in any of the five languages, and English Wikipedia does not name the phrase anywhere",
+  "de": "no article in any of the five languages, and English Wikipedia does not name the phrase anywhere",
+  "fr": "no article in any of the five languages, and English Wikipedia does not name the phrase anywhere",
+  "es": "no article in any of the five languages, and English Wikipedia does not name the phrase anywhere"
  },
  "since": {},
  "note": "Attention to the term, not use of it. The sources cannot be compared in size, only in shape and timing: each is indexed to its own peak (= 100); the current year is partial.",
  "series": [
   {
    "label": "Google Trends, search interest",
-   "source": "Google Trends, worldwide, monthly interest 0\u2013100, searched as \"top 1% man\", the word chosen by the curator. Google publishes no interface for these figures: these are the ones the Trends site itself shows, fetched the way that site fetches them, which means the line goes when Google stops answering",
+   "source": "Google Trends, worldwide, monthly interest 0\u2013100, searched as \"top 1% man\". Google publishes no interface for these figures: these are the ones the Trends site itself shows, fetched the way that site fetches them, which means the line goes when Google stops answering",
    "period": "month",
    "values": {
     "2019-01": 0.0,
@@ -176,7 +177,7 @@
     "2022-08": 0.0,
     "2022-09": 0.0,
     "2022-10": 8.0,
-    "2022-11": 0.0,
+    "2022-11": 11.0,
     "2022-12": 11.0,
     "2023-01": 18.0,
     "2023-02": 14.0,
@@ -190,7 +191,7 @@
     "2023-10": 8.0,
     "2023-11": 16.0,
     "2023-12": 10.0,
-    "2024-01": 11.0,
+    "2024-01": 10.0,
     "2024-02": 11.0,
     "2024-03": 8.0,
     "2024-04": 17.0,
@@ -217,14 +218,14 @@
     "2026-01": 86.0,
     "2026-02": 79.0,
     "2026-03": 85.0,
-    "2026-04": 90.0,
+    "2026-04": 84.0,
     "2026-05": 90.0,
     "2026-06": 80.0,
     "2026-07": 55.0,
     "2026-08": 42.0,
-    "2026-09": 33.0
+    "2026-09": 38.0
    },
-   "retrieved": "2026-10-07"
+   "retrieved": "2026-10-08"
   }
  ],
  "pins": {
@@ -234,6 +235,7 @@
   "fr": "-",
   "es": "-",
   "openalex": "top 1% man",
-  "trends": "top 1% man"
+  "trends": "top 1% man",
+  "why_wikipedia": "no article in any of the five languages, and English Wikipedia does not name the phrase anywhere"
  }
 }
