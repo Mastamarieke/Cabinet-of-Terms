@@ -9,7 +9,7 @@ analysis_version: pending
 
 ***You use it every day. You have no idea where it runs, who owns it, or what it costs.***
 
-**Literal meaning:** **AI as a utility** describes the framing of artificial intelligence as infrastructure — like electricity, water, or internet connectivity — that is always available, consumed on demand, and whose production costs are not visible at the point of use.
+**Literal meaning:** **AI as a utility** describes the framing of artificial intelligence as infrastructure — like electricity, water, or internet connectivity — that is always available, consumed on demand, and whose production costs are not visible at the point of use. Those costs are growing: data centres used about 1.5% of the world's electricity in 2024, and the International Energy Agency expects that to double by 2030, to roughly what Japan uses now, with AI as the main driver ([Chen, 2025](https://www.scientificamerican.com/article/ai-will-drive-doubling-of-data-center-energy-demand-by-2030/)). That is [[AI Energy Consumption]] — the electricity needed to train and run the models.
 
 **Origin:** The utility framing emerged from cloud computing discourse and was actively promoted by major AI providers from 2022 onward, as large language models became accessible via API. Amazon, Microsoft, and Google explicitly positioned their AI services as utility infrastructure. The framing draws on economic theory: utility goods are necessities whose provision benefits from scale and standardisation.
 
@@ -21,7 +21,7 @@ analysis_version: pending
 
 **Why This Matters:** When AI becomes a utility, it stops being a choice. Once something is infrastructure, opting out carries the same cost as opting out of electricity. The moment to ask questions about AI is before it becomes invisible — not after.
 
-**Related terms:** [[AI Dependency]] · [[Externalized Costs]] · [[Cognitive Offloading]] · [[Deskilling]] · [[AI Literacy]] · [[Attention Economy]]
+**Related terms:** [[AI Dependency]] · [[Externalized Costs]] · [[Cognitive Offloading]] · [[Deskilling]] · [[AI Literacy]] · [[Attention Economy]] · [[AI Energy Consumption]]
 
 
 ---
@@ -31,5 +31,6 @@ analysis_version: pending
 - [Sam Altman wants to turn AI into a utility - and meter "intelligence" like electricity](https://www.windowscentral.com/artificial-intelligence/sam-altman-wants-to-turn-ai-into-a-utility-and-meter-intelligence-like-electricity)
 - [Anthropic to disable its most advanced AI models after US order limiting foreign access](https://www.theguardian.com/technology/2026/jun/13/anthropic-disable-advanced-ai-models-us-government-order) — Reuters, in *The Guardian* (2026, 13 juni)
 - [AI as Public Infrastructure: A Critical Review of the Transition from Tool to Societal Necessity](https://www.researchgate.net/publication/399504193_AI_AS_PUBLIC_INFRASTRUCTURE_A_CRITICAL_REVIEW_OF_THE_TRANSITION_FROM_TOOL_TO_SOCIETAL_NECESSITY) — Ahmed, R. et al. (2026). _ResearchGate preprin_— Warren, T. (2026). _
+- [Data Centers Will Use Twice as Much Energy by 2030—Driven by AI](https://www.scientificamerican.com/article/ai-will-drive-doubling-of-data-center-energy-demand-by-2030/) — Chen, S. (2025, 10 April). *Scientific American* (from *Nature*), on the International Energy Agency's *Energy and AI* report
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

@@ -11,7 +11,7 @@ analysis_version: pending
 
 **The statement:** *"Tu nube seca mi río."* — slogan of Spanish activist groups protesting data centre water consumption, particularly in the Madrid region, from around 2022–2024. Translation: "Your cloud dries my river."
 
-**The context:** Data centres require enormous volumes of water for cooling — typically via evaporative cooling towers that consume millions of litres per day. In water-stressed regions including Castilla-La Mancha in central Spain, major data centre projects by Microsoft, Google, and Meta prompted protests by farming communities and environmental groups who documented the impact of industrial-scale water extraction on local aquifers, rivers, and agricultural water supply.
+**The context:** Data centres require enormous volumes of water for cooling — typically via evaporative cooling towers that consume millions of litres per day. In water-stressed regions including Castilla-La Mancha in central Spain, major data centre projects by Microsoft, Google, and Meta prompted protests by farming communities and environmental groups who documented the impact of industrial-scale water extraction on local aquifers, rivers, and agricultural water supply. One proposed Meta data centre in Spain was projected to use around 665 million litres of drinking water a year ([ABC Late Night Live, 2025](https://www.abc.net.au/listen/programs/latenightlive/john-boyce-meta-data-centre/105288884)).
 
 **What the sentence does:** Four words that accomplish something that data centre environmental impact reports — dense with abstracted metrics, cubic metres, and percentage comparisons — do not. The sentence makes the relationship direct and personal: *your* cloud (the user's, the corporation's, the abstraction you consume) *my* river (the speaker's, the community's, the physical water). The "cloud" metaphor — which positions data infrastructure as weightless, ethereal, above material reality — is inverted: the cloud is shown to have weight, location, and thirst.
 
@@ -28,5 +28,6 @@ analysis_version: pending
 **Read more:**
 - [Data centres and water consumption in Spain](https://www.eldiario.es/sociedad/nube-seca-rios-vecinos-castilla-la-mancha-plantan-cara-grandes-tecnologicas_1_10276391.html) — El Diario (2023)
 - [Data Center Water Usage](https://doi.org/10.1038/s41545-021-00101-w) — Mytton, D. (2021). *npj Clean Water*
+- [Meta's mega data centres are creating a water crisis in Spain, while Europe faces similar challenges](https://www.abc.net.au/listen/programs/latenightlive/john-boyce-meta-data-centre/105288884) — Marr, D. with Boyce, J. (2025, 13 May). *ABC Late Night Live*
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>
