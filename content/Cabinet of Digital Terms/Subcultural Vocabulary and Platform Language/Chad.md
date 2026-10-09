@@ -13,7 +13,7 @@ analysis_version: pending
 ***Chad*** — originally American slang for a sexually successful, socially dominant young man. In manosphere usage: the apex male, defined by physical attractiveness, social confidence, and natural dominance — the identity against which incels measure their own failure.
 
 **Origin**
-**Chad** entered internet subculture through early 2000s slang and was codified in **manosphere** taxonomy by the mid-2010s. Czerwinsky (2024) documents that **Chad** functions as the hegemonic ideal against which **incel** identity is constituted: the **Chad** is everything the **incel** is not. Vallerga and Zurbriggen (2022) show that **Chad** and Stacy (his female equivalent) form a normative hierarchy that structures **manosphere** discourse across Reddit, 4chan, and **TikTok**.
+**Chad** entered internet subculture through early 2000s slang and was codified in **manosphere** taxonomy by the mid-2010s. Czerwinsky (2024) documents that **Chad** functions as the hegemonic ideal against which [[Incel|incel]] identity is constituted: the **Chad** is everything the **incel** is not. Vallerga and Zurbriggen (2022) show that **Chad** and Stacy (his female equivalent) form a normative hierarchy that structures **manosphere** discourse across Reddit, 4chan, and **TikTok**.
 
 > The **manosphere**'s aspirational apex — the naturally dominant male against whom all men are ranked, and against whom incels measure their failure.
 
@@ -26,7 +26,7 @@ Czerwinsky (2024) documents that **Chad** is almost invariably depicted as white
 **Why This Matters**
 Once you see **Chad** as a normative standard rather than slang, you see that the term distributes a specific model of masculine worth — competitive, hierarchical, racially encoded — through platforms too fast for its ideological content to register.
 
-**Related terms:** [[Incel|Incel]] · [[SMV (Sexual Market Value)]] · [[Looksmaxxing|Looksmaxxing]] · [[Coded -Pilled]] · [[Attention Economy]] · [[Recommender Systems]]
+**Related terms:** [[Incel|Incel]] · [[SMV (Sexual Market Value)]] · [[Looksmaxxing|Looksmaxxing]] · [[Coded -Pilled]] · [[Attention Economy]] · [[Recommender Systems]] · [[Incel]]
 
 
 ---

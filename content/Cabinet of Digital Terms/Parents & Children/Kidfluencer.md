@@ -11,7 +11,7 @@ analysis_version: pending
 
 **Literal meaning:** A **kidfluencer** is a child — sometimes an infant — who has a social media presence managed by a parent or guardian, through which the child functions as a commercial entity: receiving sponsorships, endorsements, and revenue from content featuring their image, personality, and activities.
 
-**Origin:** The category emerged from **family vlogging** and **YouTube** children's content from around 2015. Ryan Kaji — Ryan's World — became the most prominent example, earning an estimated $29.5 million in 2020 at age nine. The category scaled globally, with children on **TikTok**, **Instagram**, and **YouTube** earning commercial incomes before they could legally enter employment. Researcher Crystal Abidin's work on **influencer** culture provides the analytical framework; journalist Taylor Lorenz's reporting on child **influencer** labour documented the industry's practices.
+**Origin:** The category emerged from [[Family Vlogging|family vlogging]] and **YouTube** children's content from around 2015. Ryan Kaji — Ryan's World — became the most prominent example, earning an estimated $29.5 million in 2020 at age nine. The category scaled globally, with children on **TikTok**, **Instagram**, and **YouTube** earning commercial incomes before they could legally enter employment. Researcher Crystal Abidin's work on **influencer** culture provides the analytical framework; journalist Taylor Lorenz's reporting on child **influencer** labour documented the industry's practices.
 
 > A child whose image, personality, and activities are managed as commercial assets — in an industry with minimal legal protection for its youngest workers.
 
@@ -19,7 +19,7 @@ analysis_version: pending
 
 **The Friction:** The child cannot meaningfully consent to public commercial exposure. No labour protections apply in most jurisdictions: there is no minimum wage, no limits on working hours, no Coogan Law equivalent for social media earnings. The long-term consequences are documented in adult former child actors — and are beginning to be documented in former child influencers. [[Online Grooming]] risk is heightened: large public child profiles attract attention from adults with harmful intent. The audience's [[Parasocial Relationship]] with the child creates access and intimacy that parental oversight cannot fully monitor. France's 2020 legislation — the first in Europe — required parental approval and established earnings protections; it remains exceptional.
 
-**Why This Matters:** **Kidfluencer** names the commercial endpoint of the **sharenting** logic. Once you see the industry — no labour law, no consent framework, no minimum age — the child with a brand is also a child without protections that adults take for granted.
+**Why This Matters:** **Kidfluencer** names the commercial endpoint of the [[Sharenting|sharenting]] logic. Once you see the industry — no labour law, no consent framework, no minimum age — the child with a brand is also a child without protections that adults take for granted.
 
 **Related terms:** [[Momfluencer]] · [[Family Vlogging]] · [[Sharenting]] · [[Online Grooming]] · [[Parasocial Relationship]] · [[Brussels Effect]] · [[Creator Economy]] · [[VSD (Value Sensitive Design)]]
 

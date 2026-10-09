@@ -19,7 +19,7 @@ analysis_version: pending
 
 **The Friction:** The structural irony is analytically significant. [[Predatory Design]] — design that maximises engagement at the expense of user wellbeing — is what **gaming disorder** is the clinical outcome of. [[Dopamine Feedback Loops]] — variable reward schedules — are the mechanism. [[Loot Boxes]] are a documented contributing factor. The games that produce **gaming disorder** were designed to be difficult to stop playing — and the WHO has classified the difficulty stopping as pathology. The industry that manufactured the condition contested its existence. The resolution — the child who cannot stop playing is now clinically disordered — locates the problem in the child rather than in the design.
 
-**Why This Matters:** **Gaming disorder** makes the same structural point as **screen time**: a design problem gets classified as a patient condition. Once you see that, the treatment question — how do we help this child stop? — is incomplete without the design question — why was the product built to make stopping this hard?
+**Why This Matters:** **Gaming disorder** makes the same structural point as [[Screen Time|screen time]]: a design problem gets classified as a patient condition. Once you see that, the treatment question — how do we help this child stop? — is incomplete without the design question — why was the product built to make stopping this hard?
 
 **Related terms:** [[Predatory Design]] · [[Loot Boxes]] · [[Dopamine Feedback Loops]] · [[Screen Time]] · [[Roblox]] · [[Brussels Effect]] · [[Deskilling]] · [[Technostress]] · [[VSD (Value Sensitive Design)]]
 

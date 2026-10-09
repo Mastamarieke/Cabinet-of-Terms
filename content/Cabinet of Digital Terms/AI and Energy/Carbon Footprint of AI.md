@@ -9,7 +9,7 @@ analysis_version: pending
 
 ***The CO2 cost per query exists. It is rarely disclosed.***
 
-**Literal meaning:** The total greenhouse gas emissions attributable to an AI system — calculated per query, per **training run**, or per model.
+**Literal meaning:** The total greenhouse gas emissions attributable to an AI system — calculated per query, per [[Training Run|training run]], or per model.
 
 **Origin:** The concept sharpened analytically after Strubell et al.'s 2019 measurements, and was extended by researchers at Google and elsewhere who began publishing emissions figures for specific models. Figures vary enormously depending on the energy source of the data centre — a model trained on hydroelectric power looks very different from one trained on coal.
 

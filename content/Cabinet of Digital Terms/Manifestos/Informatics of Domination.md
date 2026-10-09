@@ -9,7 +9,7 @@ analysis_version: pending
 
 ***The new hierarchies do not announce themselves. They are built into the classification systems.***
 
-**Literal meaning:** **Informatics of domination** is **Donna Haraway**'s term from the *Cyborg Manifesto* for the shift from an industrial order organised around hierarchies of production to a late-capitalist order organised around hierarchies of information — where control is exercised through the management of data, communication, and knowledge rather than through direct physical coercion.
+**Literal meaning:** **Informatics of domination** is **Donna Haraway**'s term from the *[[Cyborg]] Manifesto* for the shift from an industrial order organised around hierarchies of production to a late-capitalist order organised around hierarchies of information — where control is exercised through the management of data, communication, and knowledge rather than through direct physical coercion.
 
 **Origin:** **Haraway** introduced the concept in 1985 as part of her analysis of how the boundaries of capitalism were shifting. She identified a movement from "the comfortable old hierarchical dominations" to "scary new networks" — from familiar structures of class, race, and gender as explicit hierarchies to their reinscription in information systems, biotechnology, and communication networks. The domination is the same; the informatics is new.
 

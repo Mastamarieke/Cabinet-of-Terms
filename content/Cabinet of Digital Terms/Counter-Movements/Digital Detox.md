@@ -23,7 +23,7 @@ The detox is also distributed by the platforms it critiques. The retreat gets bo
 
 The Dutch school phone ban made the detox a rule, and showed whom it suits. Since January 2024 most secondary schools have kept phones out of the classroom on the government's urgent advice. A Radboud University study at two schools near Nijmegen found that breaks became more social and lessons easier to concentrate in, and that teachers and parents rated the measure higher after three months, while pupils lowered their mark from 6.8 to 4.8.
 
-**Why This Matters:** **Digital detox** makes individual behaviour the solution to a structural problem. Once you see that move, you see it everywhere — in **screen time** advice, in mindfulness apps, in every wellness product that turns platform damage into a personal growth opportunity.
+**Why This Matters:** **Digital detox** makes individual behaviour the solution to a structural problem. Once you see that move, you see it everywhere — in [[Screen Time|screen time]] advice, in mindfulness apps, in every wellness product that turns platform damage into a personal growth opportunity.
 
 **Related terms:** [[Slow Media]] · [[Unplugging]] · [[Tech-Free Challenge]] · [[Attention Harvesting]] · [[Predatory Design]] · [[Cognitive Surrender]] · [[Dopamine Feedback Loops]] · [[Screen Time]]
 
