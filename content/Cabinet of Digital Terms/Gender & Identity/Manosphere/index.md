@@ -27,7 +27,7 @@ attention_moments:
 
 ***The videos do not present themselves as ideology. They present themselves as advice: train, earn, get a girlfriend.***
 
-**Literal meaning:** **Manosphere** joins *man* and *-sphere*, borrowed from *blogosphere*: a loose network of forums, blogs, podcasts and channels made to sound like a world of its own. It includes pickup artists, men's rights activists, [[MGTOW]], incels and red-pill communities, which disagree on much but share one claim: that feminism has made men the losers of modern society.
+**Literal meaning:** **Manosphere** joins *man* and *-sphere*, borrowed from *blogosphere*: a loose network of forums, blogs, podcasts and channels made to sound like a world of its own. It includes pickup artists, men's rights activists, [[MGTOW]], incels and [[Red Pill|red-pill]] communities, which disagree on much but share one claim: that feminism has made men the losers of modern society.
 
 **Origin:** The word is believed to have first appeared on a blog in 2009 and was popularised by Ian Ironwood's anthology *The Manosphere: A New Hope for Masculinity*; researchers took it up in the 2010s, among them [[Ging-Manosphere-2019|Debbie Ging (2019)]], who mapped its communities and their shared "Red Pill philosophy". It reached a general audience through television. In March 2025, the month the Netflix series [[Adolescence (Netflix, 2025)|*Adolescence*]] came out, the English Wikipedia article was read 374,000 times, six times its usual monthly number ([[Secondary-Manosphere|Wikimedia pageviews]]); Louis Theroux's documentary *Inside the Manosphere* produced a second, smaller peak a year later. In the Netherlands, Beeld & Geluid made lesson material on the series for secondary schools.
 

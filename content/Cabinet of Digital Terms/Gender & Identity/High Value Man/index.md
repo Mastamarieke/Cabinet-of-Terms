@@ -7,7 +7,7 @@ status: publieksversie
 version: V3
 analysis_version: pending
 semantic_landscape: |
-  On the forums where the ideal is sold, the men describe themselves as its opposite. In a large Red Pill community on Reddit, Krendel found men casting themselves as victims, unhappy and insecure, and the role of a man drawn far less clearly than the role of a woman. The high value man arrives with a checklist: rich, fit, confident, in control.
+  On the forums where the ideal is sold, the men describe themselves as its opposite. In a large [[Red Pill]] community on Reddit, Krendel found men casting themselves as victims, unhappy and insecure, and the role of a man drawn far less clearly than the role of a woman. The high value man arrives with a checklist: rich, fit, confident, in control.
 
   In the graph **High Value Man** sits near the top of the ladder in **Gender & Identity**: under **Top 1% Man**, beside **Alpha Male**, measured by **SMV** and paid for as a **Provider**. **Podcast-bro** hosts sell the route up and **Hustle Culture** sets the hours, while on the women's side **Womanosphere** content tells women how to find him.
 ---
@@ -26,7 +26,7 @@ semantic_landscape: |
 
 **Why This Matters:** **High value man** makes the market metaphor explicit where other masculinity frameworks keep it implicit. Once you see the language — value, investment, return — the link between self-improvement content and the business behind it becomes visible.
 
-**Related terms:** [[SMV (Sexual Market Value)]] · [[Top 1% Man]] · [[Alpha Male]] · [[Provider]] · [[Manosphere]] · [[Podcast-bro]] · [[Hustle Culture]] · [[Comparison Culture]] · [[Hypergamy]]
+**Related terms:** [[SMV (Sexual Market Value)]] · [[Top 1% Man]] · [[Alpha Male]] · [[Provider]] · [[Manosphere]] · [[Podcast-bro]] · [[Hustle Culture]] · [[Comparison Culture]] · [[Hypergamy]] · [[Red Pill]]
 
 ---
 **Read more:**

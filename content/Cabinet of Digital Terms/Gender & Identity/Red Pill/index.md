@@ -23,7 +23,7 @@ attention_moments:
 
 ***A film about escaping a false reality, repurposed as a metaphor for discovering that women have too many rights.***
 
-**Literal meaning:** In **manosphere** communities, taking the **red pill** means accepting what they present as the truth about gender relations: that feminism has rigged the social and legal system against men, that women's behaviour is governed by [[Hypergamy]] and [[SMV (Sexual Market Value)]], and that mainstream society hides this. The metaphor brings its structure with it: one moment of waking, a before and an after, and a world split into those who see and those who sleep.
+**Literal meaning:** In [[Manosphere|manosphere]] communities, taking the **red pill** means accepting what they present as the truth about gender relations: that feminism has rigged the social and legal system against men, that women's behaviour is governed by [[Hypergamy]] and [[SMV (Sexual Market Value)]], and that mainstream society hides this. The metaphor brings its structure with it: one moment of waking, a before and an after, and a world split into those who see and those who sleep.
 
 **Origin:** The metaphor comes from [[The Matrix]] (1999), where the red pill wakes you from a comfortable illusion. In 2020 Lilly Wachowski, one of its two creators, both trans women, said the film's "original intention" was a trans allegory: liberation from an imposed identity ([[Secondary-RedPill|Fitzsimons (2020)]]). The manosphere took the opposite meaning. Its best-known forum, r/TheRedPill, was created and run under a pseudonym by Robert Fisher, a Republican member of the New Hampshire House of Representatives, until the *Daily Beast* unmasked him in 2017 and he resigned.
 

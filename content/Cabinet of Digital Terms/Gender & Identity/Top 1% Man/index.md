@@ -16,7 +16,7 @@ semantic_landscape: |
 
 **Literal meaning:** **Top 1% man** is the manosphere's name for the man at the top of every scale at once: looks, money, status, fitness, sexual success. The figure is a percentile, borrowed from wealth statistics and fitness charts. Taken across all of them together, the top 1% is almost nobody.
 
-**Origin:** The idea circulates in podcasts, YouTube self-improvement content and TikTok, and in forum theory: Italian red-pill and incel communities explain attraction through "LMS", looks, money and status ([[Cannito-Top1-2022|Cannito and Ferrero Camoletto, 2022]]). In April 2024 the figure got a jingle: Megan Boni's twenty-second TikTok, "I'm looking for a man in finance, trust fund, 6'5", blue eyes", passed 38 million views; she said she meant it to mock women with impossible lists ([[Secondary-Top1|Dickler, 2024]]).
+**Origin:** The idea circulates in podcasts, YouTube self-improvement content and TikTok, and in forum theory: Italian [[Red Pill|red-pill]] and [[Incel|incel]] communities explain attraction through "LMS", looks, money and status ([[Cannito-Top1-2022|Cannito and Ferrero Camoletto, 2022]]). In April 2024 the figure got a jingle: Megan Boni's twenty-second TikTok, "I'm looking for a man in finance, trust fund, 6'5", blue eyes", passed 38 million views; she said she meant it to mock women with impossible lists ([[Secondary-Top1|Dickler, 2024]]).
 
 > An aspirational standard defined as the top 1% across all domains simultaneously — a category that is definitionally unachievable, and therefore a permanent driver of inadequacy.
 
@@ -26,7 +26,7 @@ semantic_landscape: |
 
 **Why This Matters:** **Top 1% man** makes visible the commercial function of an unreachable standard: the goal is not your success but your continued attention.
 
-**Related terms:** [[SMV (Sexual Market Value)]] · [[Hypergamy]] · [[Tradwife]] · [[Manosphere]] · [[High Value Man]] · [[Alpha Male]] · [[Comparison Culture]] · [[Looksmaxxing]] · [[Hustle Culture]] · [[Podcast-bro]] · [[Incel]]
+**Related terms:** [[SMV (Sexual Market Value)]] · [[Hypergamy]] · [[Tradwife]] · [[Manosphere]] · [[High Value Man]] · [[Alpha Male]] · [[Comparison Culture]] · [[Looksmaxxing]] · [[Hustle Culture]] · [[Podcast-bro]] · [[Incel]] · [[Red Pill]]
 
 ---
 **Read more:**

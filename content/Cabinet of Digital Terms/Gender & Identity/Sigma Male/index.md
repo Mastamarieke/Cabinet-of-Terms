@@ -25,7 +25,7 @@ semantic_landscape: |
 
 ***He does not need the hierarchy. He is above it. He is also extremely online.***
 
-**Literal meaning:** The **sigma male** is the manosphere's name for a man who stands outside the alpha/beta hierarchy: a lone wolf who succeeds on his own terms and needs no one's approval. *Sigma* is one more letter from the Greek alphabet the manosphere ranks men with: after alpha and beta, a letter for the man who claims the ranking does not apply to him.
+**Literal meaning:** The **sigma male** is the [[Manosphere|manosphere]]'s name for a man who stands outside the alpha/beta hierarchy: a lone wolf who succeeds on his own terms and needs no one's approval. *Sigma* is one more letter from the Greek alphabet the manosphere ranks men with: after alpha and beta, a letter for the man who claims the ranking does not apply to him.
 
 **Origin:** The term first appeared in a blog post by the American writer Vox Day and spread through memes. It went viral in 2021, and in 2023 #sigma had more than 46 billion views on TikTok, much of it ironic ([[Secondary-SigmaMale|Wikipedia]]).
 
