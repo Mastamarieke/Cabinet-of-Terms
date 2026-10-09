@@ -201,7 +201,7 @@ Monthly views of the article: about 60,000 in January and February 2025, 374,000
 
 ### What this source contributes
 
-A Dutch counterweight (7 October 2026): the Rotterdam initiative Papa's en Pony's teaches fathers to braid their daughters' hair and about menstruation, so that daughters learn what care from a man feels like and recognise manosphere men later. The founder, Faizi Nazir, thinks the manosphere's message appeals mainly to men who do not feel heard.
+A Dutch counterweight (7 October 2026): the Rotterdam initiative Papa's en Pony's teaches fathers to braid their daughters' hair and about menstruation, so that daughters learn what care from a man feels like and recognise manosphere men later. For the fathers it is care as part of their own role: the Leiden fatherhood researcher Renate Buisman notes that men increasingly see fatherhood as part of their identity and take on more care. The founder, Faizi Nazir, thinks the manosphere's message appeals mainly to men who do not feel heard.
 
 ### Related entries
 

@@ -9,7 +9,7 @@ analysis_version: pending
 semantic_landscape: |
   In American marriages there is a cliff at exactly half. Couples in which the wife earns slightly less than her husband are common; couples in which she earns slightly more are suddenly much rarer. The economists who found it read it as a norm: a man should earn more.
 
-  In the graph **Provider** holds one side of a deal in **Gender & Identity**. On the other side stand **Tradwife** and **Stay-at-home Girlfriend (SAHG)**, the woman at home; above it **High Value Man**, the provider who also wins; behind it **Hypergamy** and **SMV**, which make the deal look like nature. In Rotterdam, fathers who want their daughters to recognise a manosphere man when they meet one are learning to braid hair.
+  In the graph **Provider** holds one side of a deal in **Gender & Identity**. On the other side stand **Tradwife** and **Stay-at-home Girlfriend (SAHG)**, the woman at home; above it **High Value Man**, the provider who also wins; behind it **Hypergamy** and **SMV**, which make the deal look like nature. In Rotterdam, fathers are learning to braid their daughters' hair and to talk with them about menstruation, care that goes both ways between a father and his daughter.
 ---
 
 ***He pays. She stays. The arrangement is framed as nature, not negotiation.***
