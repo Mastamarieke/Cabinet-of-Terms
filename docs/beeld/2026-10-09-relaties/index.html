@@ -1,0 +1,942 @@
+<!doctype html><html lang="nl"><head><meta charset="utf-8"><title>Relatieanalyse per cluster</title>
+<style>body{font-family:Poppins,Helvetica,Arial,sans-serif;background:#fbfaf7;color:#2b2b2b;margin:0 auto;max-width:1400px;padding:32px 20px;line-height:1.5}h1{font-size:30px;margin:0 0 6px}h2{font-size:26px;margin:56px 0 10px;border-top:1px solid #e3e0d8;padding-top:24px}h3{font-size:19px;margin:20px 0 6px}p{max-width:950px}table{border-collapse:collapse;margin:12px 0 24px;width:100%}td,th{padding:6px 10px;border-bottom:1px solid #e3e0d8;text-align:left;vertical-align:top}th{font-weight:600;background:#f1eee6}td.n,th.n{text-align:right;font-variant-numeric:tabular-nums}a{color:#2b2b2b}.pair{display:grid;grid-template-columns:1fr 1fr;gap:16px;align-items:start}@media(max-width:900px){.pair{grid-template-columns:1fr}}img{width:100%;height:auto;border:1px solid #e3e0d8}details{margin:8px 0 16px}summary{cursor:pointer;color:#555}li{margin:3px 0}.box{background:#fff;border:1px solid #e3e0d8;padding:14px 18px;margin:16px 0}.begin{background:#f6f1e6;padding:8px 12px}tr.bA td:nth-child(3){color:#1d6b2f;font-weight:600}tr.bB td:nth-child(3),tr.bD td:nth-child(3){color:#999}tr.bE td:nth-child(3){color:#2F6FDF;font-weight:600}tr.b3 td:nth-child(3){color:#2F6FDF}</style></head><body>
+<h1>Relatieanalyse per cluster</h1>
+<p>De buren in het dorp: per cluster welke relaties er zijn, en hoe goed ze onderbouwd zijn. Telling uit de entries, 9 oktober 2026. Signalen en voorstellen, geen besluiten: die staan in <code>werk/relaties/besluiten.md</code>.</p>
+<div class="box"><b>Hoe lees je de tekeningen (De Legenda, kort).</b> <b>Sterk</b> (dikke lijn): in beide teksten beargumenteerd, of in één tekst met een gedeelde bron. <b>Gedragen</b> (dunne lijn met pijl): in één tekst beargumenteerd, de pijl wijst naar de besproken term. <b>Genoemd</b> (grijze stippellijn): alleen in Related terms, het landschap, de curve of op een kaart. <b style="color:#2F6FDF">Kandidaat</b> (blauwe stippellijn): ontbreekt mogelijk, nog niet besloten. Beargumenteerd betekent: in Literal meaning, Origin, The Appeal, The Friction of Why This Matters; welke vraag elk onderdeel stelt staat in De Legenda (Doctor Alert, bijlage; en bovenaan elke relatiekaart).</div>
+<div class="box"><b>Waar dit hoort in het werk (de vier fases).</b> 1. Verkenning · 2. Relatieopbouw (de relatiekaart vooraf) · 3. Entry schrijven · <b>4. Relaties bijwerken</b>: deze pagina is het werkblad van fase 4. Kies een cluster, begin bij de entries onder <i>Begin bij</i>, open hun relatiekaart, veranker wat gedragen of genoemd is waar een vraag van De Legenda een antwoord vindt en er een bron is, en lees daarna het landschap opnieuw.</div>
+<p><a href="relaties-clusters.png">Kaart tussen alle clusters</a></p>
+<table><tr><th>cluster</th><th class="n">entries</th><th class="n">binnen: sterk</th><th class="n">gedragen</th><th class="n">genoemd</th><th class="n">% sterk</th><th class="n">kandidaten</th><th class="n">buiten: beargumenteerd</th><th class="n">buiten: alleen genoemd</th></tr>
+<tr><td><a href="#statements-as-analytical-object">Statements as Analytical Object</a></td><td class="n">8</td><td class="n">0</td><td class="n">0</td><td class="n">4</td><td class="n">0%</td><td class="n">0</td><td class="n">26</td><td class="n">20</td></tr>
+<tr><td><a href="#counter-movements">Counter-Movements</a></td><td class="n">8</td><td class="n">1</td><td class="n">4</td><td class="n">14</td><td class="n">5%</td><td class="n">3</td><td class="n">16</td><td class="n">63</td></tr>
+<tr><td><a href="#consequences-of-digital-behaviour">Consequences of Digital Behaviour</a></td><td class="n">12</td><td class="n">1</td><td class="n">5</td><td class="n">8</td><td class="n">7%</td><td class="n">14</td><td class="n">36</td><td class="n">60</td></tr>
+<tr><td><a href="#design-philosophy-and-ethical-design">Design Philosophy and Ethical Design</a></td><td class="n">12</td><td class="n">3</td><td class="n">3</td><td class="n">25</td><td class="n">9%</td><td class="n">18</td><td class="n">25</td><td class="n">51</td></tr>
+<tr><td><a href="#ai-and-energy">AI and Energy</a></td><td class="n">10</td><td class="n">4</td><td class="n">10</td><td class="n">24</td><td class="n">10%</td><td class="n">7</td><td class="n">9</td><td class="n">4</td></tr>
+<tr><td><a href="#beauty-influencers-self-image">Beauty, Influencers &amp; Self-Image</a></td><td class="n">13</td><td class="n">7</td><td class="n">17</td><td class="n">24</td><td class="n">14%</td><td class="n">27</td><td class="n">29</td><td class="n">39</td></tr>
+<tr><td><a href="#new-digital-professions">New Digital Professions</a></td><td class="n">11</td><td class="n">1</td><td class="n">3</td><td class="n">3</td><td class="n">14%</td><td class="n">0</td><td class="n">34</td><td class="n">48</td></tr>
+<tr><td><a href="#subcultural-vocabulary-and-platform-language">Subcultural Vocabulary and Platform Language</a></td><td class="n">10</td><td class="n">2</td><td class="n">1</td><td class="n">9</td><td class="n">16%</td><td class="n">7</td><td class="n">31</td><td class="n">26</td></tr>
+<tr><td><a href="#manifestos">Manifestos</a></td><td class="n">10</td><td class="n">4</td><td class="n">8</td><td class="n">11</td><td class="n">17%</td><td class="n">8</td><td class="n">36</td><td class="n">46</td></tr>
+<tr><td><a href="#platform-mechanisms-economics">Platform Mechanisms &amp; Economics</a></td><td class="n">25</td><td class="n">13</td><td class="n">29</td><td class="n">29</td><td class="n">18%</td><td class="n">50</td><td class="n">131</td><td class="n">133</td></tr>
+<tr><td><a href="#privacy-data-and-control">Privacy, Data and Control</a></td><td class="n">10</td><td class="n">7</td><td class="n">7</td><td class="n">18</td><td class="n">21%</td><td class="n">9</td><td class="n">48</td><td class="n">63</td></tr>
+<tr><td><a href="#culture-wars-and-political-language">Culture Wars and Political Language</a></td><td class="n">15</td><td class="n">11</td><td class="n">15</td><td class="n">22</td><td class="n">22%</td><td class="n">32</td><td class="n">36</td><td class="n">48</td></tr>
+<tr><td><a href="#society-and-power">Society and Power</a></td><td class="n">24</td><td class="n">18</td><td class="n">25</td><td class="n">25</td><td class="n">26%</td><td class="n">41</td><td class="n">49</td><td class="n">85</td></tr>
+<tr><td><a href="#behaviour-relationships">Behaviour &amp; Relationships</a></td><td class="n">16</td><td class="n">7</td><td class="n">5</td><td class="n">11</td><td class="n">30%</td><td class="n">31</td><td class="n">55</td><td class="n">76</td></tr>
+<tr><td><a href="#parents-children">Parents &amp; Children</a></td><td class="n">12</td><td class="n">8</td><td class="n">9</td><td class="n">9</td><td class="n">30%</td><td class="n">10</td><td class="n">27</td><td class="n">40</td></tr>
+<tr><td><a href="#inclusion-accessibility-and-ageing">Inclusion, Accessibility and Ageing</a></td><td class="n">10</td><td class="n">12</td><td class="n">4</td><td class="n">21</td><td class="n">32%</td><td class="n">7</td><td class="n">8</td><td class="n">15</td></tr>
+<tr><td><a href="#sf-as-ideology">SF as Ideology</a></td><td class="n">19</td><td class="n">14</td><td class="n">16</td><td class="n">12</td><td class="n">33%</td><td class="n">19</td><td class="n">36</td><td class="n">50</td></tr>
+<tr><td><a href="#ai-specific-terms">AI-Specific Terms</a></td><td class="n">7</td><td class="n">6</td><td class="n">3</td><td class="n">8</td><td class="n">35%</td><td class="n">4</td><td class="n">24</td><td class="n">48</td></tr>
+<tr><td><a href="#gender-identity">Gender &amp; Identity</a></td><td class="n">19</td><td class="n">36</td><td class="n">16</td><td class="n">50</td><td class="n">35%</td><td class="n">64</td><td class="n">47</td><td class="n">40</td></tr>
+<tr><td><a href="#end-times-thinking-and-elite-survivalism">End-Times Thinking and Elite Survivalism</a></td><td class="n">10</td><td class="n">6</td><td class="n">3</td><td class="n">6</td><td class="n">40%</td><td class="n">15</td><td class="n">21</td><td class="n">37</td></tr>
+</table>
+<h2 id="ai-and-energy">AI and Energy</h2>
+<p class="begin"><b>Begin bij</b> (fase 4, meeste zwakke relaties): <a href="relatiekaart-AI Energy Consumption.html">AI Energy Consumption</a> (3 gedragen, 7 genoemd) · <a href="relatiekaart-Digital Colonialism.html">Digital Colonialism</a> (5 gedragen, 5 genoemd) · <a href="relatiekaart-Externalized Costs.html">Externalized Costs</a> (6 gedragen, 4 genoemd)</p>
+<div class="pair"><a href="clusters/ai-and-energy.png"><img src="clusters/ai-and-energy.png" alt="AI and Energy, binnen" loading="lazy"></a><a href="clusters/ai-and-energy-buiten.png"><img src="clusters/ai-and-energy-buiten.png" alt="AI and Energy, naar buiten" loading="lazy"></a></div>
+<h3>Entries: alle relaties, ook buiten het cluster</h3><table class="e"><tr><th>entry (relatiekaart)</th><th class="n">sterk</th><th class="n">gedragen</th><th class="n">genoemd</th><th class="n">kandidaten</th></tr>
+<tr><td><a href="relatiekaart-AI Energy Consumption.html">AI Energy Consumption</a></td><td class="n">0</td><td class="n">3</td><td class="n">7</td><td class="n">0</td></tr>
+<tr><td><a href="relatiekaart-Carbon Footprint of AI.html">Carbon Footprint of AI</a></td><td class="n">1</td><td class="n">1</td><td class="n">5</td><td class="n">2</td></tr>
+<tr><td><a href="relatiekaart-Data Center Water Consumption.html">Data Center Water Consumption</a></td><td class="n">0</td><td class="n">3</td><td class="n">4</td><td class="n">3</td></tr>
+<tr><td><a href="relatiekaart-Digital Colonialism.html">Digital Colonialism</a></td><td class="n">1</td><td class="n">5</td><td class="n">5</td><td class="n">1</td></tr>
+<tr><td><a href="relatiekaart-Externalized Costs.html">Externalized Costs</a></td><td class="n">2</td><td class="n">6</td><td class="n">4</td><td class="n">0</td></tr>
+<tr><td><a href="relatiekaart-Greenwashing.html">Greenwashing</a></td><td class="n">1</td><td class="n">2</td><td class="n">6</td><td class="n">2</td></tr>
+<tr><td><a href="relatiekaart-Inference Cost.html">Inference Cost</a></td><td class="n">1</td><td class="n">2</td><td class="n">4</td><td class="n">3</td></tr>
+<tr><td><a href="relatiekaart-Nuclear Renaissance.html">Nuclear Renaissance</a></td><td class="n">0</td><td class="n">2</td><td class="n">4</td><td class="n">4</td></tr>
+<tr><td><a href="relatiekaart-Sacrifice Zones.html">Sacrifice Zones</a></td><td class="n">2</td><td class="n">4</td><td class="n">6</td><td class="n">0</td></tr>
+<tr><td><a href="relatiekaart-Training Run.html">Training Run</a></td><td class="n">0</td><td class="n">1</td><td class="n">7</td><td class="n">1</td></tr>
+</table>
+<h3>Voorstellen (2)</h3><table class="v"><tr><th>paar</th><th>blok</th><th>voorstel</th><th>toelichting</th></tr>
+<tr class="bA"><td>Greenwashing — Privacy Washing</td><td>A</td><td>opgelost door A</td><td>via de link in Privacy Washing</td></tr>
+<tr class="bA"><td>Privacy Washing — Greenwashing</td><td>A</td><td>link</td><td>Origin: greenwashing</td></tr>
+</table>
+<details><summary>Leeslijst dezelfde situatie (7): twee termen met drie of meer gemeenschappelijke buren, nog niet verbonden</summary><ul>
+<li>Digital Colonialism — Inference Cost · 6 gedeeld: AI Energy Consumption, Carbon Footprint of AI, Externalized Costs, Greenwashing, Sacrifice Zones, Training Run</li>
+<li>Carbon Footprint of AI — Data Center Water Consumption · 6 gedeeld: AI Energy Consumption, Digital Colonialism, Externalized Costs, Greenwashing, Sacrifice Zones, Training Run</li>
+<li>Nuclear Renaissance — Training Run · 5 gedeeld: AI Energy Consumption, Digital Colonialism, Externalized Costs, Greenwashing, Sacrifice Zones</li>
+<li>Data Center Water Consumption — Nuclear Renaissance · 5 gedeeld: AI Energy Consumption, Digital Colonialism, Externalized Costs, Greenwashing, Sacrifice Zones</li>
+<li>Data Center Water Consumption — Inference Cost · 5 gedeeld: AI Energy Consumption, Externalized Costs, Greenwashing, Sacrifice Zones, Training Run</li>
+<li>Carbon Footprint of AI — Nuclear Renaissance · 5 gedeeld: AI Energy Consumption, Digital Colonialism, Externalized Costs, Greenwashing, Sacrifice Zones</li>
+<li>Inference Cost — Nuclear Renaissance · 4 gedeeld: AI Energy Consumption, Externalized Costs, Greenwashing, Sacrifice Zones</li>
+</ul></details>
+<h2 id="ai-specific-terms">AI-Specific Terms</h2>
+<p class="begin"><b>Begin bij</b> (fase 4, meeste zwakke relaties): <a href="relatiekaart-AI Literacy.html">AI Literacy</a> (4 gedragen, 37 genoemd) · <a href="relatiekaart-AI Dependency.html">AI Dependency</a> (6 gedragen, 12 genoemd) · <a href="relatiekaart-Cognitive Offloading.html">Cognitive Offloading</a> (6 gedragen, 4 genoemd)</p>
+<div class="pair"><a href="clusters/ai-specific-terms.png"><img src="clusters/ai-specific-terms.png" alt="AI-Specific Terms, binnen" loading="lazy"></a><a href="clusters/ai-specific-terms-buiten.png"><img src="clusters/ai-specific-terms-buiten.png" alt="AI-Specific Terms, naar buiten" loading="lazy"></a></div>
+<h3>Entries: alle relaties, ook buiten het cluster</h3><table class="e"><tr><th>entry (relatiekaart)</th><th class="n">sterk</th><th class="n">gedragen</th><th class="n">genoemd</th><th class="n">kandidaten</th></tr>
+<tr><td><a href="relatiekaart-AI Dependency.html">AI Dependency</a></td><td class="n">4</td><td class="n">6</td><td class="n">12</td><td class="n">0</td></tr>
+<tr><td><a href="relatiekaart-AI Hallucination.html">AI Hallucination</a></td><td class="n">2</td><td class="n">2</td><td class="n">2</td><td class="n">1</td></tr>
+<tr><td><a href="relatiekaart-AI Literacy.html">AI Literacy</a></td><td class="n">4</td><td class="n">4</td><td class="n">37</td><td class="n">0</td></tr>
+<tr><td><a href="relatiekaart-AI-Ninja.html">AI-Ninja</a></td><td class="n">4</td><td class="n">0</td><td class="n">3</td><td class="n">3</td></tr>
+<tr><td><a href="relatiekaart-Cognitive Offloading.html">Cognitive Offloading</a></td><td class="n">1</td><td class="n">6</td><td class="n">4</td><td class="n">0</td></tr>
+<tr><td><a href="relatiekaart-Slopification.html">Slopification</a></td><td class="n">0</td><td class="n">4</td><td class="n">4</td><td class="n">2</td></tr>
+<tr><td><a href="relatiekaart-Sycophancy (AI).html">Sycophancy (AI)</a></td><td class="n">3</td><td class="n">2</td><td class="n">2</td><td class="n">2</td></tr>
+</table>
+<details><summary>Leeslijst dezelfde situatie (4): twee termen met drie of meer gemeenschappelijke buren, nog niet verbonden</summary><ul>
+<li>Slopification — Sycophancy (AI) · 5 gedeeld: AI Dependency, AI Hallucination, AI Literacy, Cognitive Offloading, Deskilling</li>
+<li>AI-Ninja — Sycophancy (AI) · 4 gedeeld: AI Dependency, AI Literacy, Cognitive Offloading, Deskilling</li>
+<li>AI-Ninja — Slopification · 4 gedeeld: AI Dependency, AI Literacy, Cognitive Offloading, Deskilling</li>
+<li>AI Hallucination — AI-Ninja · 4 gedeeld: AI Dependency, AI Literacy, Cognitive Offloading, Deskilling</li>
+</ul></details>
+<h2 id="beauty-influencers-self-image">Beauty, Influencers &amp; Self-Image</h2>
+<p class="begin"><b>Begin bij</b> (fase 4, meeste zwakke relaties): <a href="relatiekaart-Comparison Culture.html">Comparison Culture</a> (15 gedragen, 20 genoemd) · <a href="relatiekaart-Deinfluencing.html">Deinfluencing</a> (1 gedragen, 20 genoemd) · <a href="relatiekaart-Highlight Reel.html">Highlight Reel</a> (7 gedragen, 14 genoemd)</p>
+<div class="pair"><a href="clusters/beauty-influencers-self-image.png"><img src="clusters/beauty-influencers-self-image.png" alt="Beauty, Influencers &amp; Self-Image, binnen" loading="lazy"></a><a href="clusters/beauty-influencers-self-image-buiten.png"><img src="clusters/beauty-influencers-self-image-buiten.png" alt="Beauty, Influencers &amp; Self-Image, naar buiten" loading="lazy"></a></div>
+<h3>Entries: alle relaties, ook buiten het cluster</h3><table class="e"><tr><th>entry (relatiekaart)</th><th class="n">sterk</th><th class="n">gedragen</th><th class="n">genoemd</th><th class="n">kandidaten</th></tr>
+<tr><td><a href="relatiekaart-Beauty Filter.html">Beauty Filter</a></td><td class="n">2</td><td class="n">1</td><td class="n">3</td><td class="n">7</td></tr>
+<tr><td><a href="relatiekaart-Body Dysmorphic Disorder.html">Body Dysmorphic Disorder</a></td><td class="n">5</td><td class="n">3</td><td class="n">7</td><td class="n">3</td></tr>
+<tr><td><a href="relatiekaart-Clean Girl Aesthetic.html">Clean Girl Aesthetic</a></td><td class="n">0</td><td class="n">4</td><td class="n">3</td><td class="n">6</td></tr>
+<tr><td><a href="relatiekaart-Comparison Culture.html">Comparison Culture</a></td><td class="n">4</td><td class="n">15</td><td class="n">20</td><td class="n">0</td></tr>
+<tr><td><a href="relatiekaart-Curated Life.html">Curated Life</a></td><td class="n">2</td><td class="n">4</td><td class="n">7</td><td class="n">4</td></tr>
+<tr><td><a href="relatiekaart-Deinfluencing.html">Deinfluencing</a></td><td class="n">0</td><td class="n">1</td><td class="n">20</td><td class="n">2</td></tr>
+<tr><td><a href="relatiekaart-Fitfluencer.html">Fitfluencer</a></td><td class="n">0</td><td class="n">3</td><td class="n">3</td><td class="n">8</td></tr>
+<tr><td><a href="relatiekaart-FOBO.html">FOBO</a></td><td class="n">0</td><td class="n">4</td><td class="n">4</td><td class="n">6</td></tr>
+<tr><td><a href="relatiekaart-Highlight Reel.html">Highlight Reel</a></td><td class="n">4</td><td class="n">7</td><td class="n">14</td><td class="n">0</td></tr>
+<tr><td><a href="relatiekaart-Influencer.html">Influencer</a></td><td class="n">1</td><td class="n">8</td><td class="n">5</td><td class="n">11</td></tr>
+<tr><td><a href="relatiekaart-That Girl.html">That Girl</a></td><td class="n">1</td><td class="n">2</td><td class="n">4</td><td class="n">4</td></tr>
+<tr><td><a href="relatiekaart-Toxic Positivity.html">Toxic Positivity</a></td><td class="n">1</td><td class="n">1</td><td class="n">3</td><td class="n">7</td></tr>
+<tr><td><a href="relatiekaart-Virtual Influencer.html">Virtual Influencer</a></td><td class="n">3</td><td class="n">1</td><td class="n">6</td><td class="n">9</td></tr>
+</table>
+<h3>Voorstellen (13)</h3><table class="v"><tr><th>paar</th><th>blok</th><th>voorstel</th><th>toelichting</th></tr>
+<tr class="bA"><td>Clean Girl Aesthetic — Personal Branding</td><td>A</td><td>link</td><td>Origin: personal branding</td></tr>
+<tr class="bA"><td>Influencer — Kidfluencer</td><td>A</td><td>opgelost door A</td><td>via de link in Kidfluencer</td></tr>
+<tr class="bA"><td>Influencer — Momfluencer</td><td>A</td><td>opgelost door A</td><td>via de link in Momfluencer</td></tr>
+<tr class="bA"><td>Kidfluencer — Influencer</td><td>A</td><td>link</td><td>Origin: influencer</td></tr>
+<tr class="bA"><td>Memecoin — Influencer</td><td>A</td><td>link</td><td>Friction: influencer network</td></tr>
+<tr class="bA"><td>Momfluencer — Influencer</td><td>A</td><td>link</td><td>Origin: influencer</td></tr>
+<tr class="bA"><td>Tradwife — Influencer</td><td>A</td><td>link</td><td>Literal meaning: influencers</td></tr>
+<tr class="bC"><td>Fitfluencer — Virtual Influencer</td><td>C</td><td>alleen Related terms</td><td>het lichaam als product, het ontworpen lichaam</td></tr>
+<tr class="bC"><td>Grifters — Influencer</td><td>C</td><td>alleen Related terms</td><td>opsomming in Why This Matters</td></tr>
+<tr class="bD"><td>Fitfluencer — Kidfluencer</td><td>D</td><td>nee</td><td>alleen het woord</td></tr>
+<tr class="bD"><td>Fitfluencer — Momfluencer</td><td>D</td><td>nee</td><td>alleen het woord</td></tr>
+<tr class="bD"><td>Kidfluencer — Virtual Influencer</td><td>D</td><td>nee</td><td>alleen het woord</td></tr>
+<tr class="bD"><td>Momfluencer — Virtual Influencer</td><td>D</td><td>nee</td><td>alleen het woord</td></tr>
+</table>
+<details><summary>Leeslijst dezelfde situatie (29): twee termen met drie of meer gemeenschappelijke buren, nog niet verbonden</summary><ul>
+<li>Body Dysmorphic Disorder — Deinfluencing · 10 gedeeld: Beauty Filter, Clean Girl Aesthetic, Comparison Culture, Curated Life, Fitfluencer, Highlight Reel, Influencer, Looksmaxxing, That Girl, Tradwife</li>
+<li>Influencer — That Girl · 5 gedeeld: Body Dysmorphic Disorder, Comparison Culture, Deinfluencing, Fitfluencer, Highlight Reel</li>
+<li>Curated Life — That Girl · 5 gedeeld: Body Dysmorphic Disorder, Comparison Culture, Deinfluencing, Highlight Reel, Toxic Positivity</li>
+<li>Curated Life — Fitfluencer · 5 gedeeld: Body Dysmorphic Disorder, Comparison Culture, Deinfluencing, Highlight Reel, Influencer</li>
+<li>Clean Girl Aesthetic — Fitfluencer · 5 gedeeld: Body Dysmorphic Disorder, Comparison Culture, Deinfluencing, Highlight Reel, That Girl</li>
+<li>Beauty Filter — That Girl · 5 gedeeld: Body Dysmorphic Disorder, Clean Girl Aesthetic, Comparison Culture, Deinfluencing, Highlight Reel</li>
+<li>Influencer — Toxic Positivity · 4 gedeeld: Comparison Culture, Curated Life, Deinfluencing, Highlight Reel</li>
+<li>Fitfluencer — Virtual Influencer · 4 gedeeld: Comparison Culture, Deinfluencing, Highlight Reel, Influencer</li>
+<li>Fitfluencer — Toxic Positivity · 4 gedeeld: Comparison Culture, Deinfluencing, Highlight Reel, That Girl</li>
+<li>Deinfluencing — FOBO · 4 gedeeld: Comparison Culture, Curated Life, Digital Detox, Highlight Reel</li>
+<li>Curated Life — Virtual Influencer · 4 gedeeld: Comparison Culture, Deinfluencing, Highlight Reel, Influencer</li>
+<li>Clean Girl Aesthetic — Toxic Positivity · 4 gedeeld: Comparison Culture, Deinfluencing, Highlight Reel, That Girl</li>
+<li>Clean Girl Aesthetic — Influencer · 4 gedeeld: Body Dysmorphic Disorder, Comparison Culture, Deinfluencing, Highlight Reel</li>
+<li>Clean Girl Aesthetic — Curated Life · 4 gedeeld: Body Dysmorphic Disorder, Comparison Culture, Deinfluencing, Highlight Reel</li>
+<li>Body Dysmorphic Disorder — Toxic Positivity · 4 gedeeld: Comparison Culture, Curated Life, Highlight Reel, That Girl</li>
+<li>Beauty Filter — Virtual Influencer · 4 gedeeld: Comparison Culture, Deinfluencing, Highlight Reel, Recommender Systems</li>
+<li>Beauty Filter — Influencer · 4 gedeeld: Body Dysmorphic Disorder, Comparison Culture, Deinfluencing, Highlight Reel</li>
+<li>Beauty Filter — Fitfluencer · 4 gedeeld: Body Dysmorphic Disorder, Comparison Culture, Deinfluencing, Highlight Reel</li>
+<li>Beauty Filter — Curated Life · 4 gedeeld: Body Dysmorphic Disorder, Comparison Culture, Deinfluencing, Highlight Reel</li>
+<li>Toxic Positivity — Virtual Influencer · 3 gedeeld: Comparison Culture, Deinfluencing, Highlight Reel</li>
+<li>That Girl — Virtual Influencer · 3 gedeeld: Comparison Culture, Deinfluencing, Highlight Reel</li>
+<li>FOBO — Virtual Influencer · 3 gedeeld: Comparison Culture, Highlight Reel, Recommender Systems</li>
+<li>FOBO — Toxic Positivity · 3 gedeeld: Comparison Culture, Curated Life, Highlight Reel</li>
+<li>FOBO — Influencer · 3 gedeeld: Comparison Culture, Curated Life, Highlight Reel</li>
+<li>Clean Girl Aesthetic — Virtual Influencer · 3 gedeeld: Comparison Culture, Deinfluencing, Highlight Reel</li>
+<li>Body Dysmorphic Disorder — Virtual Influencer · 3 gedeeld: Comparison Culture, Highlight Reel, Influencer</li>
+<li>Body Dysmorphic Disorder — FOBO · 3 gedeeld: Comparison Culture, Curated Life, Highlight Reel</li>
+<li>Beauty Filter — Toxic Positivity · 3 gedeeld: Comparison Culture, Deinfluencing, Highlight Reel</li>
+<li>Beauty Filter — FOBO · 3 gedeeld: Comparison Culture, Highlight Reel, Recommender Systems</li>
+</ul></details>
+<h2 id="behaviour-relationships">Behaviour &amp; Relationships</h2>
+<p class="begin"><b>Begin bij</b> (fase 4, meeste zwakke relaties): <a href="relatiekaart-Cognitive Surrender.html">Cognitive Surrender</a> (9 gedragen, 29 genoemd) · <a href="relatiekaart-Parasocial Relationship.html">Parasocial Relationship</a> (11 gedragen, 4 genoemd) · <a href="relatiekaart-Doomscrolling.html">Doomscrolling</a> (6 gedragen, 8 genoemd)</p>
+<div class="pair"><a href="clusters/behaviour-relationships.png"><img src="clusters/behaviour-relationships.png" alt="Behaviour &amp; Relationships, binnen" loading="lazy"></a><a href="clusters/behaviour-relationships-buiten.png"><img src="clusters/behaviour-relationships-buiten.png" alt="Behaviour &amp; Relationships, naar buiten" loading="lazy"></a></div>
+<h3>Entries: alle relaties, ook buiten het cluster</h3><table class="e"><tr><th>entry (relatiekaart)</th><th class="n">sterk</th><th class="n">gedragen</th><th class="n">genoemd</th><th class="n">kandidaten</th></tr>
+<tr><td><a href="relatiekaart-Breadcrumbing.html">Breadcrumbing</a></td><td class="n">2</td><td class="n">1</td><td class="n">3</td><td class="n">3</td></tr>
+<tr><td><a href="relatiekaart-Catfishing.html">Catfishing</a></td><td class="n">1</td><td class="n">2</td><td class="n">5</td><td class="n">0</td></tr>
+<tr><td><a href="relatiekaart-Cognitive Surrender.html">Cognitive Surrender</a></td><td class="n">1</td><td class="n">9</td><td class="n">29</td><td class="n">0</td></tr>
+<tr><td><a href="relatiekaart-Doom Spending.html">Doom Spending</a></td><td class="n">1</td><td class="n">2</td><td class="n">4</td><td class="n">9</td></tr>
+<tr><td><a href="relatiekaart-Doomscrolling.html">Doomscrolling</a></td><td class="n">1</td><td class="n">6</td><td class="n">8</td><td class="n">16</td></tr>
+<tr><td><a href="relatiekaart-Flexing.html">Flexing</a></td><td class="n">0</td><td class="n">3</td><td class="n">4</td><td class="n">2</td></tr>
+<tr><td><a href="relatiekaart-Ghosting.html">Ghosting</a></td><td class="n">2</td><td class="n">1</td><td class="n">4</td><td class="n">2</td></tr>
+<tr><td><a href="relatiekaart-Hustle Culture.html">Hustle Culture</a></td><td class="n">2</td><td class="n">3</td><td class="n">6</td><td class="n">2</td></tr>
+<tr><td><a href="relatiekaart-Imposter Syndrome.html">Imposter Syndrome</a></td><td class="n">1</td><td class="n">2</td><td class="n">5</td><td class="n">1</td></tr>
+<tr><td><a href="relatiekaart-Lurker.html">Lurker</a></td><td class="n">1</td><td class="n">2</td><td class="n">4</td><td class="n">7</td></tr>
+<tr><td><a href="relatiekaart-Orbiting.html">Orbiting</a></td><td class="n">2</td><td class="n">2</td><td class="n">3</td><td class="n">1</td></tr>
+<tr><td><a href="relatiekaart-Parasocial Relationship.html">Parasocial Relationship</a></td><td class="n">5</td><td class="n">11</td><td class="n">4</td><td class="n">7</td></tr>
+<tr><td><a href="relatiekaart-Phantom Vibration Syndrome.html">Phantom Vibration Syndrome</a></td><td class="n">1</td><td class="n">3</td><td class="n">4</td><td class="n">7</td></tr>
+<tr><td><a href="relatiekaart-Phatic Interaction.html">Phatic Interaction</a></td><td class="n">1</td><td class="n">3</td><td class="n">7</td><td class="n">3</td></tr>
+<tr><td><a href="relatiekaart-Phubbing.html">Phubbing</a></td><td class="n">1</td><td class="n">3</td><td class="n">4</td><td class="n">7</td></tr>
+<tr><td><a href="relatiekaart-Smombie.html">Smombie</a></td><td class="n">2</td><td class="n">2</td><td class="n">5</td><td class="n">5</td></tr>
+</table>
+<h3>Voorstellen (9)</h3><table class="v"><tr><th>paar</th><th>blok</th><th>voorstel</th><th>toelichting</th></tr>
+<tr class="bA"><td>Parasocial Relationship — Dark Patterns</td><td>A</td><td>link</td><td>Friction: dark patterns</td></tr>
+<tr class="bC"><td>Doom Spending — Doomscrolling</td><td>C</td><td>alleen Related terms</td><td>consumeren uit angst (twijfel)</td></tr>
+<tr class="bC"><td>Doom Spending — Doomerism</td><td>C</td><td>alleen Related terms</td><td>kopen als het toch misgaat (twijfel)</td></tr>
+<tr class="bC"><td>Doom Spending — Doomsday Prep for the Super-Rich</td><td>C</td><td>alleen Related terms</td><td>kopen tegen de ondergang, gewoon en superrijk (twijfel)</td></tr>
+<tr class="bC"><td>Doomerism — Doomscrolling</td><td>C</td><td>alleen Related terms</td><td>nieuws dat de verwachting voedt (twijfel)</td></tr>
+<tr class="bD"><td>Doom Trolling — Doom Spending</td><td>D</td><td>nee</td><td>alleen het woord</td></tr>
+<tr class="bD"><td>Doom Trolling — Doomscrolling</td><td>D</td><td>nee</td><td>alleen het woord</td></tr>
+<tr class="bD"><td>Doomscrolling — Doomsday Prep for the Super-Rich</td><td>D</td><td>nee</td><td>alleen het woord</td></tr>
+<tr class="bE"><td>Doomscrolling — Mindful Scrolling</td><td>E</td><td>zin, beide kanten</td><td>tegenbeweging: Mindful Scrolling Literal meaning + Doomscrolling Friction</td></tr>
+</table>
+<details><summary>Leeslijst dezelfde situatie (31): twee termen met drie of meer gemeenschappelijke buren, nog niet verbonden</summary><ul>
+<li>Phantom Vibration Syndrome — Smombie · 6 gedeeld: Cognitive Surrender, Digital Detox, Dopamine Feedback Loops, JOMO, Predatory Design, Technostress</li>
+<li>Phantom Vibration Syndrome — Phubbing · 6 gedeeld: Cognitive Surrender, Digital Detox, Dopamine Feedback Loops, JOMO, Predatory Design, Technostress</li>
+<li>Doomscrolling — Smombie · 5 gedeeld: Cognitive Surrender, Digital Detox, Dopamine Feedback Loops, JOMO, Technostress</li>
+<li>Doomscrolling — Phubbing · 5 gedeeld: Cognitive Surrender, Digital Detox, Dopamine Feedback Loops, JOMO, Technostress</li>
+<li>Doomscrolling — Phantom Vibration Syndrome · 5 gedeeld: Cognitive Surrender, Digital Detox, Dopamine Feedback Loops, JOMO, Technostress</li>
+<li>Doomscrolling — Lurker · 5 gedeeld: Attention Economy, Cognitive Surrender, Dopamine Feedback Loops, JOMO, Recommender Systems</li>
+<li>Breadcrumbing — Lurker · 5 gedeeld: Attention Economy, Dopamine Feedback Loops, JOMO, Orbiting, Phatic Interaction</li>
+<li>Phatic Interaction — Smombie · 4 gedeeld: Cognitive Surrender, Dopamine Feedback Loops, JOMO, Phubbing</li>
+<li>Lurker — Phubbing · 4 gedeeld: Cognitive Surrender, Dopamine Feedback Loops, JOMO, Phatic Interaction</li>
+<li>Ghosting — Lurker · 4 gedeeld: Attention Economy, JOMO, Orbiting, Phatic Interaction</li>
+<li>Doomscrolling — Phatic Interaction · 4 gedeeld: Attention Economy, Cognitive Surrender, Dopamine Feedback Loops, JOMO</li>
+<li>Phantom Vibration Syndrome — Phatic Interaction · 3 gedeeld: Cognitive Surrender, Dopamine Feedback Loops, JOMO</li>
+<li>Parasocial Relationship — Phubbing · 3 gedeeld: Digital Detox, Dopamine Feedback Loops, Phatic Interaction</li>
+<li>Parasocial Relationship — Phantom Vibration Syndrome · 3 gedeeld: AI Dependency, Digital Detox, Dopamine Feedback Loops</li>
+<li>Lurker — Smombie · 3 gedeeld: Cognitive Surrender, Dopamine Feedback Loops, JOMO</li>
+<li>Lurker — Phantom Vibration Syndrome · 3 gedeeld: Cognitive Surrender, Dopamine Feedback Loops, JOMO</li>
+<li>Lurker — Parasocial Relationship · 3 gedeeld: Dopamine Feedback Loops, Phatic Interaction, Recommender Systems</li>
+<li>Hustle Culture — Parasocial Relationship · 3 gedeeld: Creator Economy, Digital Detox, Podcast-bro</li>
+<li>Ghosting — Phubbing · 3 gedeeld: JOMO, Phatic Interaction, Predatory Design</li>
+<li>Flexing — Imposter Syndrome · 3 gedeeld: Comparison Culture, Highlight Reel, JOMO</li>
+<li>Doomscrolling — Parasocial Relationship · 3 gedeeld: Digital Detox, Dopamine Feedback Loops, Recommender Systems</li>
+<li>Doomscrolling — Orbiting · 3 gedeeld: Attention Economy, JOMO, Recommender Systems</li>
+<li>Doomscrolling — Hustle Culture · 3 gedeeld: Attention Economy, Digital Detox, JOMO</li>
+<li>Doomscrolling — Flexing · 3 gedeeld: Attention Economy, FOMO, JOMO</li>
+<li>Doom Spending — Smombie · 3 gedeeld: Digital Detox, Dopamine Feedback Loops, JOMO</li>
+<li>Doom Spending — Phubbing · 3 gedeeld: Digital Detox, Dopamine Feedback Loops, JOMO</li>
+<li>Doom Spending — Phantom Vibration Syndrome · 3 gedeeld: Digital Detox, Dopamine Feedback Loops, JOMO</li>
+<li>Doom Spending — Parasocial Relationship · 3 gedeeld: Comparison Culture, Digital Detox, Dopamine Feedback Loops</li>
+<li>Doom Spending — Doomscrolling · 3 gedeeld: Digital Detox, Dopamine Feedback Loops, JOMO</li>
+<li>Breadcrumbing — Phubbing · 3 gedeeld: Dopamine Feedback Loops, JOMO, Phatic Interaction</li>
+<li>Breadcrumbing — Doomscrolling · 3 gedeeld: Attention Economy, Dopamine Feedback Loops, JOMO</li>
+</ul></details>
+<h2 id="consequences-of-digital-behaviour">Consequences of Digital Behaviour</h2>
+<p class="begin"><b>Begin bij</b> (fase 4, meeste zwakke relaties): <a href="relatiekaart-Deskilling.html">Deskilling</a> (4 gedragen, 17 genoemd) · <a href="relatiekaart-Technostress.html">Technostress</a> (6 gedragen, 14 genoemd) · <a href="relatiekaart-Brain Rot.html">Brain Rot</a> (6 gedragen, 6 genoemd)</p>
+<div class="pair"><a href="clusters/consequences-of-digital-behaviour.png"><img src="clusters/consequences-of-digital-behaviour.png" alt="Consequences of Digital Behaviour, binnen" loading="lazy"></a><a href="clusters/consequences-of-digital-behaviour-buiten.png"><img src="clusters/consequences-of-digital-behaviour-buiten.png" alt="Consequences of Digital Behaviour, naar buiten" loading="lazy"></a></div>
+<h3>Entries: alle relaties, ook buiten het cluster</h3><table class="e"><tr><th>entry (relatiekaart)</th><th class="n">sterk</th><th class="n">gedragen</th><th class="n">genoemd</th><th class="n">kandidaten</th></tr>
+<tr><td><a href="relatiekaart-Brain Rot.html">Brain Rot</a></td><td class="n">1</td><td class="n">6</td><td class="n">6</td><td class="n">4</td></tr>
+<tr><td><a href="relatiekaart-Cyberchondria.html">Cyberchondria</a></td><td class="n">1</td><td class="n">1</td><td class="n">5</td><td class="n">5</td></tr>
+<tr><td><a href="relatiekaart-Deskilling.html">Deskilling</a></td><td class="n">3</td><td class="n">4</td><td class="n">17</td><td class="n">2</td></tr>
+<tr><td><a href="relatiekaart-Digital Amnesia.html">Digital Amnesia</a></td><td class="n">1</td><td class="n">3</td><td class="n">3</td><td class="n">1</td></tr>
+<tr><td><a href="relatiekaart-Digital Hoarding.html">Digital Hoarding</a></td><td class="n">0</td><td class="n">3</td><td class="n">2</td><td class="n">2</td></tr>
+<tr><td><a href="relatiekaart-Digital Overload.html">Digital Overload</a></td><td class="n">0</td><td class="n">3</td><td class="n">7</td><td class="n">3</td></tr>
+<tr><td><a href="relatiekaart-FOMO.html">FOMO</a></td><td class="n">1</td><td class="n">3</td><td class="n">8</td><td class="n">2</td></tr>
+<tr><td><a href="relatiekaart-Nomophobia.html">Nomophobia</a></td><td class="n">2</td><td class="n">1</td><td class="n">6</td><td class="n">5</td></tr>
+<tr><td><a href="relatiekaart-Tech Neck.html">Tech Neck</a></td><td class="n">1</td><td class="n">3</td><td class="n">2</td><td class="n">2</td></tr>
+<tr><td><a href="relatiekaart-Technostress.html">Technostress</a></td><td class="n">0</td><td class="n">6</td><td class="n">14</td><td class="n">0</td></tr>
+<tr><td><a href="relatiekaart-Text Claw.html">Text Claw</a></td><td class="n">0</td><td class="n">3</td><td class="n">3</td><td class="n">1</td></tr>
+<tr><td><a href="relatiekaart-Wexting.html">Wexting</a></td><td class="n">0</td><td class="n">2</td><td class="n">3</td><td class="n">3</td></tr>
+</table>
+<h3>Voorstellen (3)</h3><table class="v"><tr><th>paar</th><th>blok</th><th>voorstel</th><th>toelichting</th></tr>
+<tr class="b3"><td>Tech Neck — Wexting</td><td>3</td><td>voorbeeld</td><td>zelfde houding, zelfde cluster; nog geen voorstel</td></tr>
+<tr class="bA"><td>JOMO — Digital Overload</td><td>A</td><td>link</td><td>Origin: digital overload</td></tr>
+<tr class="bB"><td>Text Claw — Provider</td><td>B</td><td>nee</td><td>provider is hier telecomaanbieder O2</td></tr>
+</table>
+<details><summary>Leeslijst dezelfde situatie (14): twee termen met drie of meer gemeenschappelijke buren, nog niet verbonden</summary><ul>
+<li>Nomophobia — Tech Neck · 5 gedeeld: Digital Detox, Dopamine Feedback Loops, Predatory Design, Technostress, Text Claw</li>
+<li>Brain Rot — FOMO · 5 gedeeld: Digital Detox, Doomscrolling, Dopamine Feedback Loops, Recommender Systems, Screen Time</li>
+<li>Cyberchondria — Digital Hoarding · 4 gedeeld: Attention Economy, Cognitive Surrender, Digital Overload, Technostress</li>
+<li>Brain Rot — Digital Overload · 4 gedeeld: Attention Economy, Cognitive Surrender, Doomscrolling, Recommender Systems</li>
+<li>Brain Rot — Cyberchondria · 4 gedeeld: Attention Economy, Cognitive Surrender, Dopamine Feedback Loops, Recommender Systems</li>
+<li>Tech Neck — Wexting · 3 gedeeld: Dopamine Feedback Loops, Smombie, Technostress</li>
+<li>FOMO — Nomophobia · 3 gedeeld: Digital Detox, Dopamine Feedback Loops, JOMO</li>
+<li>Digital Overload — Wexting · 3 gedeeld: Attention Economy, Attention Harvesting, Technostress</li>
+<li>Digital Amnesia — Nomophobia · 3 gedeeld: AI Dependency, Cognitive Surrender, Digital Detox</li>
+<li>Deskilling — Digital Hoarding · 3 gedeeld: Attention Economy, Cognitive Surrender, Surveillance Capitalism</li>
+<li>Cyberchondria — Wexting · 3 gedeeld: Attention Economy, Dopamine Feedback Loops, Technostress</li>
+<li>Cyberchondria — Nomophobia · 3 gedeeld: Cognitive Surrender, Dopamine Feedback Loops, Technostress</li>
+<li>Cyberchondria — Deskilling · 3 gedeeld: Attention Economy, Cognitive Surrender, Sycophancy (AI)</li>
+<li>Brain Rot — Nomophobia · 3 gedeeld: Cognitive Surrender, Digital Detox, Dopamine Feedback Loops</li>
+</ul></details>
+<h2 id="counter-movements">Counter-Movements</h2>
+<p class="begin"><b>Begin bij</b> (fase 4, meeste zwakke relaties): <a href="relatiekaart-Digital Detox.html">Digital Detox</a> (7 gedragen, 26 genoemd) · <a href="relatiekaart-JOMO.html">JOMO</a> (3 gedragen, 25 genoemd) · <a href="relatiekaart-Slow Media.html">Slow Media</a> (3 gedragen, 12 genoemd)</p>
+<div class="pair"><a href="clusters/counter-movements.png"><img src="clusters/counter-movements.png" alt="Counter-Movements, binnen" loading="lazy"></a><a href="clusters/counter-movements-buiten.png"><img src="clusters/counter-movements-buiten.png" alt="Counter-Movements, naar buiten" loading="lazy"></a></div>
+<h3>Entries: alle relaties, ook buiten het cluster</h3><table class="e"><tr><th>entry (relatiekaart)</th><th class="n">sterk</th><th class="n">gedragen</th><th class="n">genoemd</th><th class="n">kandidaten</th></tr>
+<tr><td><a href="relatiekaart-Digital Detox.html">Digital Detox</a></td><td class="n">0</td><td class="n">7</td><td class="n">26</td><td class="n">0</td></tr>
+<tr><td><a href="relatiekaart-Fediverse.html">Fediverse</a></td><td class="n">0</td><td class="n">3</td><td class="n">6</td><td class="n">0</td></tr>
+<tr><td><a href="relatiekaart-IRL (In Real Life).html">IRL (In Real Life)</a></td><td class="n">1</td><td class="n">1</td><td class="n">3</td><td class="n">3</td></tr>
+<tr><td><a href="relatiekaart-JOMO.html">JOMO</a></td><td class="n">0</td><td class="n">3</td><td class="n">25</td><td class="n">2</td></tr>
+<tr><td><a href="relatiekaart-Mindful Scrolling.html">Mindful Scrolling</a></td><td class="n">0</td><td class="n">2</td><td class="n">7</td><td class="n">3</td></tr>
+<tr><td><a href="relatiekaart-Slow Media.html">Slow Media</a></td><td class="n">0</td><td class="n">3</td><td class="n">12</td><td class="n">0</td></tr>
+<tr><td><a href="relatiekaart-Tech-Free Challenge.html">Tech-Free Challenge</a></td><td class="n">0</td><td class="n">3</td><td class="n">5</td><td class="n">1</td></tr>
+<tr><td><a href="relatiekaart-Unplugging.html">Unplugging</a></td><td class="n">1</td><td class="n">2</td><td class="n">7</td><td class="n">0</td></tr>
+</table>
+<h3>Voorstellen (3)</h3><table class="v"><tr><th>paar</th><th>blok</th><th>voorstel</th><th>toelichting</th></tr>
+<tr class="bA"><td>JOMO — Digital Overload</td><td>A</td><td>link</td><td>Origin: digital overload</td></tr>
+<tr class="bB"><td>Mindful Scrolling — Screen Time</td><td>B</td><td>nee</td><td>Screen Time is hier Apples functie, niet het opvoedconcept</td></tr>
+<tr class="bE"><td>Doomscrolling — Mindful Scrolling</td><td>E</td><td>zin, beide kanten</td><td>tegenbeweging: Mindful Scrolling Literal meaning + Doomscrolling Friction</td></tr>
+</table>
+<details><summary>Leeslijst dezelfde situatie (3): twee termen met drie of meer gemeenschappelijke buren, nog niet verbonden</summary><ul>
+<li>IRL (In Real Life) — Tech-Free Challenge · 4 gedeeld: Attention Economy, Digital Detox, Slow Media, Unplugging</li>
+<li>IRL (In Real Life) — Mindful Scrolling · 4 gedeeld: Attention Economy, Digital Detox, Slow Media, Unplugging</li>
+<li>IRL (In Real Life) — JOMO · 4 gedeeld: Attention Economy, Digital Detox, Slow Media, Unplugging</li>
+</ul></details>
+<h2 id="culture-wars-and-political-language">Culture Wars and Political Language</h2>
+<p class="begin"><b>Begin bij</b> (fase 4, meeste zwakke relaties): <a href="relatiekaart-Deplatforming.html">Deplatforming</a> (13 gedragen, 22 genoemd) · <a href="relatiekaart-Great Replacement.html">Great Replacement</a> (10 gedragen, 16 genoemd) · <a href="relatiekaart-Dehumanization.html">Dehumanization</a> (6 gedragen, 10 genoemd)</p>
+<div class="pair"><a href="clusters/culture-wars-and-political-language.png"><img src="clusters/culture-wars-and-political-language.png" alt="Culture Wars and Political Language, binnen" loading="lazy"></a><a href="clusters/culture-wars-and-political-language-buiten.png"><img src="clusters/culture-wars-and-political-language-buiten.png" alt="Culture Wars and Political Language, naar buiten" loading="lazy"></a></div>
+<h3>Entries: alle relaties, ook buiten het cluster</h3><table class="e"><tr><th>entry (relatiekaart)</th><th class="n">sterk</th><th class="n">gedragen</th><th class="n">genoemd</th><th class="n">kandidaten</th></tr>
+<tr><td><a href="relatiekaart-Anti-Woke.html">Anti-Woke</a></td><td class="n">0</td><td class="n">3</td><td class="n">5</td><td class="n">7</td></tr>
+<tr><td><a href="relatiekaart-Conspirituality.html">Conspirituality</a></td><td class="n">2</td><td class="n">3</td><td class="n">2</td><td class="n">5</td></tr>
+<tr><td><a href="relatiekaart-Deadnaming.html">Deadnaming</a></td><td class="n">0</td><td class="n">5</td><td class="n">3</td><td class="n">5</td></tr>
+<tr><td><a href="relatiekaart-Deep State.html">Deep State</a></td><td class="n">1</td><td class="n">2</td><td class="n">3</td><td class="n">6</td></tr>
+<tr><td><a href="relatiekaart-Dehumanization.html">Dehumanization</a></td><td class="n">7</td><td class="n">6</td><td class="n">10</td><td class="n">4</td></tr>
+<tr><td><a href="relatiekaart-Deplatforming.html">Deplatforming</a></td><td class="n">0</td><td class="n">13</td><td class="n">22</td><td class="n">0</td></tr>
+<tr><td><a href="relatiekaart-Doxing.html">Doxing</a></td><td class="n">1</td><td class="n">0</td><td class="n">4</td><td class="n">1</td></tr>
+<tr><td><a href="relatiekaart-Great Replacement.html">Great Replacement</a></td><td class="n">1</td><td class="n">10</td><td class="n">16</td><td class="n">4</td></tr>
+<tr><td><a href="relatiekaart-Groomer.html">Groomer</a></td><td class="n">2</td><td class="n">1</td><td class="n">3</td><td class="n">4</td></tr>
+<tr><td><a href="relatiekaart-Purity Culture.html">Purity Culture</a></td><td class="n">2</td><td class="n">4</td><td class="n">11</td><td class="n">4</td></tr>
+<tr><td><a href="relatiekaart-QAnon.html">QAnon</a></td><td class="n">3</td><td class="n">5</td><td class="n">6</td><td class="n">5</td></tr>
+<tr><td><a href="relatiekaart-Social Contagion.html">Social Contagion</a></td><td class="n">3</td><td class="n">2</td><td class="n">3</td><td class="n">4</td></tr>
+<tr><td><a href="relatiekaart-Subhuman.html">Subhuman</a></td><td class="n">1</td><td class="n">2</td><td class="n">10</td><td class="n">7</td></tr>
+<tr><td><a href="relatiekaart-Wellness-to-Alt-Right Pipeline.html">Wellness-to-Alt-Right Pipeline</a></td><td class="n">4</td><td class="n">1</td><td class="n">7</td><td class="n">5</td></tr>
+<tr><td><a href="relatiekaart-Woke Mind Virus.html">Woke Mind Virus</a></td><td class="n">2</td><td class="n">2</td><td class="n">4</td><td class="n">6</td></tr>
+</table>
+<h3>Voorstellen (3)</h3><table class="v"><tr><th>paar</th><th>blok</th><th>voorstel</th><th>toelichting</th></tr>
+<tr class="bA"><td>Like Prime, but with human beings. — Subhuman</td><td>A</td><td>link</td><td>analyse: subhuman</td></tr>
+<tr class="bA"><td>Millenarianism — Deep State</td><td>A</td><td>link</td><td>Friction: deep state</td></tr>
+<tr class="bA"><td>NPC — Subhuman</td><td>A</td><td>link</td><td>Friction: subhuman</td></tr>
+</table>
+<details><summary>Leeslijst dezelfde situatie (32): twee termen met drie of meer gemeenschappelijke buren, nog niet verbonden</summary><ul>
+<li>Great Replacement — Woke Mind Virus · 6 gedeeld: Anti-Woke, Dehumanization, Deplatforming, Flood the Zone, Purity Culture, Red Pill</li>
+<li>Dehumanization — Purity Culture · 6 gedeeld: Anti-Woke, Deplatforming, Great Replacement, Social Contagion, Subhuman, Woke Mind Virus</li>
+<li>Subhuman — Woke Mind Virus · 5 gedeeld: Dehumanization, Deplatforming, Groomer, Purity Culture, Social Contagion</li>
+<li>Purity Culture — QAnon · 5 gedeeld: Conspirituality, Deplatforming, Great Replacement, Subhuman, Wellness-to-Alt-Right Pipeline</li>
+<li>Great Replacement — Social Contagion · 5 gedeeld: Conspirituality, Dehumanization, Deplatforming, Purity Culture, Subhuman</li>
+<li>Conspirituality — Subhuman · 5 gedeeld: Deplatforming, Great Replacement, Purity Culture, QAnon, Social Contagion</li>
+<li>Subhuman — Wellness-to-Alt-Right Pipeline · 4 gedeeld: Deplatforming, Great Replacement, Purity Culture, QAnon</li>
+<li>Groomer — Purity Culture · 4 gedeeld: Deplatforming, Social Contagion, Subhuman, Woke Mind Virus</li>
+<li>Deep State — Wellness-to-Alt-Right Pipeline · 4 gedeeld: Dark MAGA, Deplatforming, Great Replacement, QAnon</li>
+<li>Deadnaming — Groomer · 4 gedeeld: Dehumanization, Deplatforming, Social Contagion, Subhuman</li>
+<li>Anti-Woke — Subhuman · 4 gedeeld: Dehumanization, Deplatforming, Great Replacement, Purity Culture</li>
+<li>Anti-Woke — Social Contagion · 4 gedeeld: Dehumanization, Deplatforming, Purity Culture, Woke Mind Virus</li>
+<li>Anti-Woke — QAnon · 4 gedeeld: Deplatforming, Flood the Zone, Great Replacement, Red Pill</li>
+<li>Anti-Woke — Deep State · 4 gedeeld: Deplatforming, Flood the Zone, Great Replacement, Red Pill</li>
+<li>Social Contagion — Wellness-to-Alt-Right Pipeline · 3 gedeeld: Conspirituality, Deplatforming, Purity Culture</li>
+<li>QAnon — Woke Mind Virus · 3 gedeeld: Deplatforming, Flood the Zone, Red Pill</li>
+<li>QAnon — Social Contagion · 3 gedeeld: Conspirituality, Deplatforming, Subhuman</li>
+<li>Great Replacement — Groomer · 3 gedeeld: Dehumanization, Deplatforming, Subhuman</li>
+<li>Dehumanization — Wellness-to-Alt-Right Pipeline · 3 gedeeld: Deplatforming, Great Replacement, Ragebaiting</li>
+<li>Dehumanization — QAnon · 3 gedeeld: Deplatforming, Great Replacement, Subhuman</li>
+<li>Deep State — Woke Mind Virus · 3 gedeeld: Deplatforming, Flood the Zone, Red Pill</li>
+<li>Deep State — Subhuman · 3 gedeeld: Deplatforming, Great Replacement, QAnon</li>
+<li>Deadnaming — Woke Mind Virus · 3 gedeeld: Dehumanization, Deplatforming, Social Contagion</li>
+<li>Deadnaming — Purity Culture · 3 gedeeld: Deplatforming, Social Contagion, Subhuman</li>
+<li>Deadnaming — Great Replacement · 3 gedeeld: Dehumanization, Deplatforming, Subhuman</li>
+<li>Deadnaming — Doxing · 3 gedeeld: Algorithmic Violence, Dehumanization, Surveillance Capitalism</li>
+<li>Conspirituality — Woke Mind Virus · 3 gedeeld: Deplatforming, Purity Culture, Social Contagion</li>
+<li>Conspirituality — Dehumanization · 3 gedeeld: Deplatforming, Great Replacement, Social Contagion</li>
+<li>Conspirituality — Deep State · 3 gedeeld: Deplatforming, Great Replacement, QAnon</li>
+<li>Anti-Woke — Wellness-to-Alt-Right Pipeline · 3 gedeeld: Deplatforming, Great Replacement, Purity Culture</li>
+<li>Anti-Woke — Groomer · 3 gedeeld: Dehumanization, Deplatforming, Woke Mind Virus</li>
+<li>Anti-Woke — Conspirituality · 3 gedeeld: Deplatforming, Great Replacement, Purity Culture</li>
+</ul></details>
+<h2 id="design-philosophy-and-ethical-design">Design Philosophy and Ethical Design</h2>
+<p class="begin"><b>Begin bij</b> (fase 4, meeste zwakke relaties): <a href="relatiekaart-VSD (Value Sensitive Design).html">VSD (Value Sensitive Design)</a> (5 gedragen, 19 genoemd) · <a href="relatiekaart-Fair Patterns.html">Fair Patterns</a> (2 gedragen, 18 genoemd) · <a href="relatiekaart-Unblackboxing.html">Unblackboxing</a> (4 gedragen, 10 genoemd)</p>
+<div class="pair"><a href="clusters/design-philosophy-and-ethical-design.png"><img src="clusters/design-philosophy-and-ethical-design.png" alt="Design Philosophy and Ethical Design, binnen" loading="lazy"></a><a href="clusters/design-philosophy-and-ethical-design-buiten.png"><img src="clusters/design-philosophy-and-ethical-design-buiten.png" alt="Design Philosophy and Ethical Design, naar buiten" loading="lazy"></a></div>
+<h3>Entries: alle relaties, ook buiten het cluster</h3><table class="e"><tr><th>entry (relatiekaart)</th><th class="n">sterk</th><th class="n">gedragen</th><th class="n">genoemd</th><th class="n">kandidaten</th></tr>
+<tr><td><a href="relatiekaart-Adversarial Design.html">Adversarial Design</a></td><td class="n">0</td><td class="n">1</td><td class="n">7</td><td class="n">5</td></tr>
+<tr><td><a href="relatiekaart-Calm Technology.html">Calm Technology</a></td><td class="n">0</td><td class="n">2</td><td class="n">10</td><td class="n">1</td></tr>
+<tr><td><a href="relatiekaart-De-bugging.html">De-bugging</a></td><td class="n">0</td><td class="n">3</td><td class="n">2</td><td class="n">5</td></tr>
+<tr><td><a href="relatiekaart-Design Justice.html">Design Justice</a></td><td class="n">1</td><td class="n">0</td><td class="n">7</td><td class="n">5</td></tr>
+<tr><td><a href="relatiekaart-Ethical Design.html">Ethical Design</a></td><td class="n">1</td><td class="n">3</td><td class="n">1</td><td class="n">6</td></tr>
+<tr><td><a href="relatiekaart-Fair Patterns.html">Fair Patterns</a></td><td class="n">4</td><td class="n">2</td><td class="n">18</td><td class="n">0</td></tr>
+<tr><td><a href="relatiekaart-Frictionful Design.html">Frictionful Design</a></td><td class="n">0</td><td class="n">2</td><td class="n">7</td><td class="n">2</td></tr>
+<tr><td><a href="relatiekaart-Participatory Design.html">Participatory Design</a></td><td class="n">1</td><td class="n">0</td><td class="n">6</td><td class="n">4</td></tr>
+<tr><td><a href="relatiekaart-Persuasive Technology.html">Persuasive Technology</a></td><td class="n">0</td><td class="n">3</td><td class="n">8</td><td class="n">3</td></tr>
+<tr><td><a href="relatiekaart-Privacy by Design.html">Privacy by Design</a></td><td class="n">0</td><td class="n">2</td><td class="n">6</td><td class="n">5</td></tr>
+<tr><td><a href="relatiekaart-Unblackboxing.html">Unblackboxing</a></td><td class="n">2</td><td class="n">4</td><td class="n">10</td><td class="n">0</td></tr>
+<tr><td><a href="relatiekaart-VSD (Value Sensitive Design).html">VSD (Value Sensitive Design)</a></td><td class="n">1</td><td class="n">5</td><td class="n">19</td><td class="n">2</td></tr>
+</table>
+<h3>Voorstellen (2)</h3><table class="v"><tr><th>paar</th><th>blok</th><th>voorstel</th><th>toelichting</th></tr>
+<tr class="bA"><td>Design Justice — Accessibility</td><td>A</td><td>link</td><td>The Appeal: accessibility checklists</td></tr>
+<tr class="bA"><td>Ethical Design — Accessibility</td><td>A</td><td>link</td><td>Literal meaning: accessibility</td></tr>
+</table>
+<details><summary>Leeslijst dezelfde situatie (18): twee termen met drie of meer gemeenschappelijke buren, nog niet verbonden</summary><ul>
+<li>Persuasive Technology — VSD (Value Sensitive Design) · 6 gedeeld: Adversarial Design, Calm Technology, Dark Patterns, Fair Patterns, Gamification Creep, Nudging</li>
+<li>Participatory Design — Privacy by Design · 5 gedeeld: Dark Patterns, Deceptive Design, Fair Patterns, Unblackboxing, VSD (Value Sensitive Design)</li>
+<li>Ethical Design — Privacy by Design · 5 gedeeld: Dark Patterns, Deceptive Design, Fair Patterns, Privacy Washing, VSD (Value Sensitive Design)</li>
+<li>Design Justice — Privacy by Design · 5 gedeeld: Dark Patterns, Deceptive Design, Fair Patterns, Unblackboxing, VSD (Value Sensitive Design)</li>
+<li>Adversarial Design — Privacy by Design · 5 gedeeld: Dark Patterns, Deceptive Design, Fair Patterns, Unblackboxing, VSD (Value Sensitive Design)</li>
+<li>Frictionful Design — VSD (Value Sensitive Design) · 4 gedeeld: Calm Technology, Dark Patterns, Fair Patterns, Nudging</li>
+<li>Ethical Design — Participatory Design · 4 gedeeld: Dark Patterns, Deceptive Design, Fair Patterns, VSD (Value Sensitive Design)</li>
+<li>Design Justice — Ethical Design · 4 gedeeld: Dark Patterns, Deceptive Design, Fair Patterns, VSD (Value Sensitive Design)</li>
+<li>De-bugging — Privacy by Design · 4 gedeeld: Dark Patterns, Fair Patterns, Unblackboxing, VSD (Value Sensitive Design)</li>
+<li>De-bugging — Participatory Design · 4 gedeeld: Dark Patterns, Fair Patterns, Unblackboxing, VSD (Value Sensitive Design)</li>
+<li>De-bugging — Design Justice · 4 gedeeld: Dark Patterns, Fair Patterns, Unblackboxing, VSD (Value Sensitive Design)</li>
+<li>Adversarial Design — Ethical Design · 4 gedeeld: Dark Patterns, Deceptive Design, Fair Patterns, VSD (Value Sensitive Design)</li>
+<li>Adversarial Design — De-bugging · 4 gedeeld: Dark Patterns, Fair Patterns, Unblackboxing, VSD (Value Sensitive Design)</li>
+<li>Participatory Design — Persuasive Technology · 3 gedeeld: Adversarial Design, Dark Patterns, Fair Patterns</li>
+<li>Design Justice — Persuasive Technology · 3 gedeeld: Adversarial Design, Dark Patterns, Fair Patterns</li>
+<li>De-bugging — Ethical Design · 3 gedeeld: Dark Patterns, Fair Patterns, VSD (Value Sensitive Design)</li>
+<li>Adversarial Design — Frictionful Design · 3 gedeeld: Dark Patterns, Fair Patterns, Persuasive Technology</li>
+<li>Adversarial Design — Calm Technology · 3 gedeeld: Fair Patterns, Persuasive Technology, VSD (Value Sensitive Design)</li>
+</ul></details>
+<h2 id="end-times-thinking-and-elite-survivalism">End-Times Thinking and Elite Survivalism</h2>
+<p class="begin"><b>Begin bij</b> (fase 4, meeste zwakke relaties): <a href="relatiekaart-Dark MAGA.html">Dark MAGA</a> (3 gedragen, 9 genoemd) · <a href="relatiekaart-Endtime Fascism.html">Endtime Fascism</a> (4 gedragen, 4 genoemd) · <a href="relatiekaart-Disaster Nationalism.html">Disaster Nationalism</a> (1 gedragen, 6 genoemd)</p>
+<div class="pair"><a href="clusters/end-times-thinking-and-elite-survivalism.png"><img src="clusters/end-times-thinking-and-elite-survivalism.png" alt="End-Times Thinking and Elite Survivalism, binnen" loading="lazy"></a><a href="clusters/end-times-thinking-and-elite-survivalism-buiten.png"><img src="clusters/end-times-thinking-and-elite-survivalism-buiten.png" alt="End-Times Thinking and Elite Survivalism, naar buiten" loading="lazy"></a></div>
+<h3>Entries: alle relaties, ook buiten het cluster</h3><table class="e"><tr><th>entry (relatiekaart)</th><th class="n">sterk</th><th class="n">gedragen</th><th class="n">genoemd</th><th class="n">kandidaten</th></tr>
+<tr><td><a href="relatiekaart-Armageddon Complex.html">Armageddon Complex</a></td><td class="n">2</td><td class="n">2</td><td class="n">4</td><td class="n">6</td></tr>
+<tr><td><a href="relatiekaart-Dark MAGA.html">Dark MAGA</a></td><td class="n">0</td><td class="n">3</td><td class="n">9</td><td class="n">4</td></tr>
+<tr><td><a href="relatiekaart-Disaster Nationalism.html">Disaster Nationalism</a></td><td class="n">2</td><td class="n">1</td><td class="n">6</td><td class="n">2</td></tr>
+<tr><td><a href="relatiekaart-Doomsday Prep for the Super-Rich.html">Doomsday Prep for the Super-Rich</a></td><td class="n">1</td><td class="n">2</td><td class="n">5</td><td class="n">6</td></tr>
+<tr><td><a href="relatiekaart-e-acc (Effective Accelerationism).html">e-acc (Effective Accelerationism)</a></td><td class="n">1</td><td class="n">3</td><td class="n">4</td><td class="n">2</td></tr>
+<tr><td><a href="relatiekaart-Endtime Fascism.html">Endtime Fascism</a></td><td class="n">3</td><td class="n">4</td><td class="n">4</td><td class="n">3</td></tr>
+<tr><td><a href="relatiekaart-Millenarianism.html">Millenarianism</a></td><td class="n">3</td><td class="n">2</td><td class="n">5</td><td class="n">3</td></tr>
+<tr><td><a href="relatiekaart-Prepperism.html">Prepperism</a></td><td class="n">1</td><td class="n">2</td><td class="n">4</td><td class="n">4</td></tr>
+<tr><td><a href="relatiekaart-Pro-natalism.html">Pro-natalism</a></td><td class="n">1</td><td class="n">3</td><td class="n">4</td><td class="n">3</td></tr>
+<tr><td><a href="relatiekaart-Seasteading.html">Seasteading</a></td><td class="n">0</td><td class="n">3</td><td class="n">4</td><td class="n">3</td></tr>
+</table>
+<h3>Voorstellen (6)</h3><table class="v"><tr><th>paar</th><th>blok</th><th>voorstel</th><th>toelichting</th></tr>
+<tr class="bA"><td>Armageddon Complex — Neuralink</td><td>A</td><td>link</td><td>Friction: Neuralink</td></tr>
+<tr class="bA"><td>Millenarianism — Deep State</td><td>A</td><td>link</td><td>Friction: deep state</td></tr>
+<tr class="bC"><td>Doom Spending — Doomsday Prep for the Super-Rich</td><td>C</td><td>alleen Related terms</td><td>kopen tegen de ondergang, gewoon en superrijk (twijfel)</td></tr>
+<tr class="bC"><td>Doomerism — Doomsday Prep for the Super-Rich</td><td>C</td><td>alleen Related terms</td><td>zelfde verwachting, antwoord van wie het kan betalen (twijfel)</td></tr>
+<tr class="bD"><td>Doom Trolling — Doomsday Prep for the Super-Rich</td><td>D</td><td>nee</td><td>allebei techelite, ander mechanisme</td></tr>
+<tr class="bD"><td>Doomscrolling — Doomsday Prep for the Super-Rich</td><td>D</td><td>nee</td><td>alleen het woord</td></tr>
+</table>
+<details><summary>Leeslijst dezelfde situatie (15): twee termen met drie of meer gemeenschappelijke buren, nog niet verbonden</summary><ul>
+<li>Endtime Fascism — Prepperism · 5 gedeeld: Disaster Nationalism, Doomsday Prep for the Super-Rich, Fortress Futurism, Millenarianism, Situated Knowledge</li>
+<li>Armageddon Complex — Prepperism · 5 gedeeld: Disaster Nationalism, Doomerism, Doomsday Prep for the Super-Rich, Millenarianism, Situated Knowledge</li>
+<li>Endtime Fascism — Pro-natalism · 4 gedeeld: Disaster Nationalism, Millenarianism, Situated Knowledge, Tradwife</li>
+<li>Doomsday Prep for the Super-Rich — Millenarianism · 4 gedeeld: Armageddon Complex, Endtime Fascism, Prepperism, Situated Knowledge</li>
+<li>Disaster Nationalism — Doomsday Prep for the Super-Rich · 4 gedeeld: Armageddon Complex, Endtime Fascism, Prepperism, Situated Knowledge</li>
+<li>Dark MAGA — Millenarianism · 4 gedeeld: AI Literacy, Endtime Fascism, Great Replacement, QAnon</li>
+<li>Dark MAGA — Disaster Nationalism · 4 gedeeld: Endtime Fascism, Flood the Zone, Great Replacement, Technofascism</li>
+<li>Prepperism — Seasteading · 3 gedeeld: Doomsday Prep for the Super-Rich, Fortress Futurism, Situated Knowledge</li>
+<li>Prepperism — Pro-natalism · 3 gedeeld: Disaster Nationalism, Millenarianism, Situated Knowledge</li>
+<li>Endtime Fascism — Seasteading · 3 gedeeld: Doomsday Prep for the Super-Rich, Fortress Futurism, Situated Knowledge</li>
+<li>Dark MAGA — e-acc (Effective Accelerationism) · 3 gedeeld: AI Literacy, Muskism, Technofascism</li>
+<li>Armageddon Complex — e-acc (Effective Accelerationism) · 3 gedeeld: Doomerism, Muskism, Technofascism</li>
+<li>Armageddon Complex — Seasteading · 3 gedeeld: Doomsday Prep for the Super-Rich, Muskism, Situated Knowledge</li>
+<li>Armageddon Complex — Pro-natalism · 3 gedeeld: Disaster Nationalism, Millenarianism, Situated Knowledge</li>
+<li>Armageddon Complex — Dark MAGA · 3 gedeeld: Endtime Fascism, Muskism, Technofascism</li>
+</ul></details>
+<h2 id="gender-identity">Gender &amp; Identity</h2>
+<p class="begin"><b>Begin bij</b> (fase 4, meeste zwakke relaties): <a href="relatiekaart-Manosphere.html">Manosphere</a> (3 gedragen, 20 genoemd) · <a href="relatiekaart-Red Pill.html">Red Pill</a> (8 gedragen, 10 genoemd) · <a href="relatiekaart-Looksmaxxing.html">Looksmaxxing</a> (6 gedragen, 10 genoemd)</p>
+<div class="pair"><a href="clusters/gender-identity.png"><img src="clusters/gender-identity.png" alt="Gender &amp; Identity, binnen" loading="lazy"></a><a href="clusters/gender-identity-buiten.png"><img src="clusters/gender-identity-buiten.png" alt="Gender &amp; Identity, naar buiten" loading="lazy"></a></div>
+<h3>Entries: alle relaties, ook buiten het cluster</h3><table class="e"><tr><th>entry (relatiekaart)</th><th class="n">sterk</th><th class="n">gedragen</th><th class="n">genoemd</th><th class="n">kandidaten</th></tr>
+<tr><td><a href="relatiekaart-Alpha Male.html">Alpha Male</a></td><td class="n">2</td><td class="n">4</td><td class="n">9</td><td class="n">6</td></tr>
+<tr><td><a href="relatiekaart-Blackpill.html">Blackpill</a></td><td class="n">6</td><td class="n">0</td><td class="n">10</td><td class="n">8</td></tr>
+<tr><td><a href="relatiekaart-High Value Man.html">High Value Man</a></td><td class="n">2</td><td class="n">2</td><td class="n">8</td><td class="n">8</td></tr>
+<tr><td><a href="relatiekaart-Hypergamy.html">Hypergamy</a></td><td class="n">5</td><td class="n">2</td><td class="n">10</td><td class="n">3</td></tr>
+<tr><td><a href="relatiekaart-Incel.html">Incel</a></td><td class="n">8</td><td class="n">2</td><td class="n">11</td><td class="n">4</td></tr>
+<tr><td><a href="relatiekaart-Looksmaxxing.html">Looksmaxxing</a></td><td class="n">6</td><td class="n">6</td><td class="n">10</td><td class="n">8</td></tr>
+<tr><td><a href="relatiekaart-Manosphere.html">Manosphere</a></td><td class="n">9</td><td class="n">3</td><td class="n">20</td><td class="n">1</td></tr>
+<tr><td><a href="relatiekaart-MGTOW.html">MGTOW</a></td><td class="n">3</td><td class="n">2</td><td class="n">4</td><td class="n">11</td></tr>
+<tr><td><a href="relatiekaart-NPC.html">NPC</a></td><td class="n">2</td><td class="n">3</td><td class="n">6</td><td class="n">10</td></tr>
+<tr><td><a href="relatiekaart-Podcast-bro.html">Podcast-bro</a></td><td class="n">2</td><td class="n">4</td><td class="n">8</td><td class="n">10</td></tr>
+<tr><td><a href="relatiekaart-Provider.html">Provider</a></td><td class="n">4</td><td class="n">1</td><td class="n">4</td><td class="n">11</td></tr>
+<tr><td><a href="relatiekaart-Red Pill.html">Red Pill</a></td><td class="n">4</td><td class="n">8</td><td class="n">10</td><td class="n">8</td></tr>
+<tr><td><a href="relatiekaart-Rizz.html">Rizz</a></td><td class="n">0</td><td class="n">4</td><td class="n">8</td><td class="n">10</td></tr>
+<tr><td><a href="relatiekaart-Sigma Male.html">Sigma Male</a></td><td class="n">3</td><td class="n">3</td><td class="n">4</td><td class="n">8</td></tr>
+<tr><td><a href="relatiekaart-SMV (Sexual Market Value).html">SMV (Sexual Market Value)</a></td><td class="n">10</td><td class="n">9</td><td class="n">7</td><td class="n">2</td></tr>
+<tr><td><a href="relatiekaart-Stay-at-home Girlfriend (SAHG).html">Stay-at-home Girlfriend (SAHG)</a></td><td class="n">4</td><td class="n">0</td><td class="n">7</td><td class="n">7</td></tr>
+<tr><td><a href="relatiekaart-Top 1% Man.html">Top 1% Man</a></td><td class="n">2</td><td class="n">2</td><td class="n">9</td><td class="n">7</td></tr>
+<tr><td><a href="relatiekaart-Tradwife.html">Tradwife</a></td><td class="n">13</td><td class="n">6</td><td class="n">4</td><td class="n">6</td></tr>
+<tr><td><a href="relatiekaart-Womanosphere.html">Womanosphere</a></td><td class="n">4</td><td class="n">1</td><td class="n">11</td><td class="n">8</td></tr>
+</table>
+<h3>Voorstellen (9)</h3><table class="v"><tr><th>paar</th><th>blok</th><th>voorstel</th><th>toelichting</th></tr>
+<tr class="bA"><td>Chad — Manosphere</td><td>A</td><td>link</td><td>Origin: manosphere</td></tr>
+<tr class="bA"><td>Echo Chamber — Red Pill</td><td>A</td><td>link</td><td>Friction: red pill ideology</td></tr>
+<tr class="bA"><td>NPC — Subhuman</td><td>A</td><td>link</td><td>Friction: subhuman</td></tr>
+<tr class="bA"><td>Recommender Systems — Looksmaxxing</td><td>A</td><td>link</td><td>Friction: looksmaxxing</td></tr>
+<tr class="bA"><td>Tradwife — Influencer</td><td>A</td><td>link</td><td>Literal meaning: influencers</td></tr>
+<tr class="bB"><td>Simulation Hypothesis — Red Pill</td><td>B</td><td>nee</td><td>de pil uit de film, niet de manosphere-ideologie</td></tr>
+<tr class="bB"><td>Sovereignty as a Service — Provider</td><td>B</td><td>nee</td><td>providers zijn hier technologieleveranciers</td></tr>
+<tr class="bB"><td>Text Claw — Provider</td><td>B</td><td>nee</td><td>provider is hier telecomaanbieder O2</td></tr>
+<tr class="bC"><td>Blackpill — Coded -Pilled</td><td>C</td><td>alleen Related terms</td><td>-pilled komt van de pil</td></tr>
+</table>
+<details><summary>Leeslijst dezelfde situatie (69): twee termen met drie of meer gemeenschappelijke buren, nog niet verbonden</summary><ul>
+<li>Incel — Tradwife · 9 gedeeld: Alpha Male, Great Replacement, Hypergamy, Looksmaxxing, Manosphere, Red Pill, SMV (Sexual Market Value), Sigma Male, Top 1% Man</li>
+<li>Red Pill — Sigma Male · 8 gedeeld: Alpha Male, Blackpill, Incel, MGTOW, Manosphere, NPC, SMV (Sexual Market Value), Tradwife</li>
+<li>Hypergamy — Sigma Male · 8 gedeeld: Alpha Male, Blackpill, Incel, Looksmaxxing, MGTOW, Manosphere, SMV (Sexual Market Value), Tradwife</li>
+<li>High Value Man — Tradwife · 8 gedeeld: Alpha Male, Hypergamy, Manosphere, Provider, Red Pill, SMV (Sexual Market Value), Top 1% Man, Womanosphere</li>
+<li>High Value Man — Incel · 8 gedeeld: Alpha Male, Hypergamy, Manosphere, Podcast-bro, Red Pill, Rizz, SMV (Sexual Market Value), Top 1% Man</li>
+<li>Blackpill — Tradwife · 8 gedeeld: Alpha Male, Great Replacement, Hypergamy, Looksmaxxing, Manosphere, Red Pill, SMV (Sexual Market Value), Sigma Male</li>
+<li>Alpha Male — Rizz · 8 gedeeld: Creator Economy, High Value Man, Hypergamy, Incel, Manosphere, Podcast-bro, SMV (Sexual Market Value), Top 1% Man</li>
+<li>Alpha Male — MGTOW · 8 gedeeld: Blackpill, Deplatforming, Hypergamy, Incel, Manosphere, Red Pill, SMV (Sexual Market Value), Sigma Male</li>
+<li>Alpha Male — Looksmaxxing · 8 gedeeld: Blackpill, Hypergamy, Incel, Manosphere, SMV (Sexual Market Value), Sigma Male, Top 1% Man, Tradwife</li>
+<li>Top 1% Man — Womanosphere · 7 gedeeld: Comparison Culture, High Value Man, Hypergamy, Looksmaxxing, Manosphere, SMV (Sexual Market Value), Tradwife</li>
+<li>Rizz — Tradwife · 7 gedeeld: Creator Economy, Hypergamy, Influencer, Looksmaxxing, Manosphere, SMV (Sexual Market Value), Top 1% Man</li>
+<li>Red Pill — Womanosphere · 7 gedeeld: High Value Man, Hypergamy, Manosphere, Recommender Systems, SMV (Sexual Market Value), Stay-at-home Girlfriend (SAHG), Tradwife</li>
+<li>Red Pill — Top 1% Man · 7 gedeeld: Alpha Male, High Value Man, Hypergamy, Incel, Manosphere, SMV (Sexual Market Value), Tradwife</li>
+<li>Provider — Top 1% Man · 7 gedeeld: Alpha Male, Comparison Culture, High Value Man, Hypergamy, Manosphere, SMV (Sexual Market Value), Tradwife</li>
+<li>Provider — Red Pill · 7 gedeeld: Alpha Male, High Value Man, Hypergamy, Manosphere, SMV (Sexual Market Value), Stay-at-home Girlfriend (SAHG), Tradwife</li>
+<li>Podcast-bro — SMV (Sexual Market Value) · 7 gedeeld: Alpha Male, High Value Man, Incel, Manosphere, Recommender Systems, Rizz, Top 1% Man</li>
+<li>Podcast-bro — Red Pill · 7 gedeeld: Alpha Male, Deplatforming, High Value Man, Incel, Manosphere, NPC, Recommender Systems</li>
+<li>Hypergamy — Podcast-bro · 7 gedeeld: Alpha Male, Creator Economy, High Value Man, Incel, Manosphere, Rizz, Top 1% Man</li>
+<li>High Value Man — Looksmaxxing · 7 gedeeld: Comparison Culture, Hypergamy, Manosphere, Rizz, SMV (Sexual Market Value), Top 1% Man, Womanosphere</li>
+<li>Alpha Male — NPC · 7 gedeeld: Blackpill, Creator Economy, Incel, Manosphere, Podcast-bro, Red Pill, Sigma Male</li>
+<li>Sigma Male — Top 1% Man · 6 gedeeld: Alpha Male, Incel, Looksmaxxing, Manosphere, SMV (Sexual Market Value), Tradwife</li>
+<li>Rizz — Womanosphere · 6 gedeeld: Comparison Culture, High Value Man, Hypergamy, Looksmaxxing, Manosphere, SMV (Sexual Market Value)</li>
+<li>Manosphere — Stay-at-home Girlfriend (SAHG) · 6 gedeeld: Hypergamy, Provider, Red Pill, SMV (Sexual Market Value), Tradwife, Womanosphere</li>
+<li>Looksmaxxing — Red Pill · 6 gedeeld: Blackpill, Hypergamy, Incel, Manosphere, SMV (Sexual Market Value), Tradwife</li>
+<li>Looksmaxxing — Provider · 6 gedeeld: Comparison Culture, Hypergamy, Manosphere, SMV (Sexual Market Value), Tradwife, Womanosphere</li>
+<li>Looksmaxxing — MGTOW · 6 gedeeld: Blackpill, Hypergamy, Incel, Manosphere, SMV (Sexual Market Value), Sigma Male</li>
+<li>High Value Man — Stay-at-home Girlfriend (SAHG) · 6 gedeeld: Comparison Culture, Hypergamy, Provider, Red Pill, SMV (Sexual Market Value), Womanosphere</li>
+<li>Blackpill — Top 1% Man · 6 gedeeld: Alpha Male, Hypergamy, Incel, Looksmaxxing, Manosphere, SMV (Sexual Market Value)</li>
+<li>Alpha Male — Womanosphere · 6 gedeeld: High Value Man, Hypergamy, Manosphere, Provider, SMV (Sexual Market Value), Tradwife</li>
+<li>Red Pill — Rizz · 5 gedeeld: High Value Man, Hypergamy, Incel, Manosphere, SMV (Sexual Market Value)</li>
+<li>Provider — Rizz · 5 gedeeld: Comparison Culture, High Value Man, Hypergamy, Manosphere, SMV (Sexual Market Value)</li>
+<li>NPC — SMV (Sexual Market Value) · 5 gedeeld: Blackpill, Incel, Manosphere, Red Pill, Sigma Male</li>
+<li>MGTOW — Tradwife · 5 gedeeld: Hypergamy, Manosphere, Red Pill, SMV (Sexual Market Value), Sigma Male</li>
+<li>MGTOW — NPC · 5 gedeeld: Blackpill, Incel, Manosphere, Red Pill, Sigma Male</li>
+<li>Looksmaxxing — Stay-at-home Girlfriend (SAHG) · 5 gedeeld: Comparison Culture, Hypergamy, SMV (Sexual Market Value), Tradwife, Womanosphere</li>
+<li>Incel — Womanosphere · 5 gedeeld: Hypergamy, Looksmaxxing, Manosphere, Recommender Systems, SMV (Sexual Market Value)</li>
+<li>Hypergamy — NPC · 5 gedeeld: Blackpill, Creator Economy, Incel, Manosphere, Red Pill</li>
+<li>Blackpill — Rizz · 5 gedeeld: Hypergamy, Incel, Looksmaxxing, Manosphere, SMV (Sexual Market Value)</li>
+<li>Blackpill — Podcast-bro · 5 gedeeld: Alpha Male, Deplatforming, Incel, Manosphere, NPC</li>
+<li>Blackpill — High Value Man · 5 gedeeld: Alpha Male, Hypergamy, Manosphere, Red Pill, SMV (Sexual Market Value)</li>
+<li>Alpha Male — Stay-at-home Girlfriend (SAHG) · 5 gedeeld: Hypergamy, Provider, Red Pill, SMV (Sexual Market Value), Tradwife</li>
+<li>Stay-at-home Girlfriend (SAHG) — Top 1% Man · 4 gedeeld: Comparison Culture, Hypergamy, SMV (Sexual Market Value), Tradwife</li>
+<li>Sigma Male — Womanosphere · 4 gedeeld: Looksmaxxing, Manosphere, SMV (Sexual Market Value), Tradwife</li>
+<li>Rizz — Sigma Male · 4 gedeeld: Incel, Looksmaxxing, Manosphere, SMV (Sexual Market Value)</li>
+<li>Provider — Sigma Male · 4 gedeeld: Alpha Male, Manosphere, SMV (Sexual Market Value), Tradwife</li>
+<li>Podcast-bro — Tradwife · 4 gedeeld: Alpha Male, Creator Economy, Manosphere, Top 1% Man</li>
+<li>Podcast-bro — Sigma Male · 4 gedeeld: Alpha Male, Incel, Manosphere, NPC</li>
+<li>NPC — Tradwife · 4 gedeeld: Creator Economy, Manosphere, Red Pill, Sigma Male</li>
+<li>NPC — Rizz · 4 gedeeld: Creator Economy, Incel, Manosphere, Podcast-bro</li>
+<li>MGTOW — Top 1% Man · 4 gedeeld: Hypergamy, Incel, Manosphere, SMV (Sexual Market Value)</li>
+<li>MGTOW — Rizz · 4 gedeeld: Hypergamy, Incel, Manosphere, SMV (Sexual Market Value)</li>
+<li>Looksmaxxing — Podcast-bro · 4 gedeeld: Incel, Manosphere, Rizz, Top 1% Man</li>
+<li>Looksmaxxing — NPC · 4 gedeeld: Blackpill, Incel, Manosphere, Sigma Male</li>
+<li>Incel — Provider · 4 gedeeld: Alpha Male, Hypergamy, Manosphere, SMV (Sexual Market Value)</li>
+<li>High Value Man — MGTOW · 4 gedeeld: Hypergamy, Manosphere, Red Pill, SMV (Sexual Market Value)</li>
+<li>Blackpill — Womanosphere · 4 gedeeld: Hypergamy, Looksmaxxing, Manosphere, SMV (Sexual Market Value)</li>
+<li>Blackpill — Provider · 4 gedeeld: Alpha Male, Hypergamy, Manosphere, SMV (Sexual Market Value)</li>
+<li>Rizz — Stay-at-home Girlfriend (SAHG) · 3 gedeeld: Comparison Culture, Hypergamy, SMV (Sexual Market Value)</li>
+<li>Podcast-bro — Womanosphere · 3 gedeeld: High Value Man, Manosphere, Recommender Systems</li>
+<li>Podcast-bro — Provider · 3 gedeeld: Alpha Male, High Value Man, Manosphere</li>
+<li>NPC — Top 1% Man · 3 gedeeld: Incel, Manosphere, Podcast-bro</li>
+<li>MGTOW — Womanosphere · 3 gedeeld: Hypergamy, Manosphere, SMV (Sexual Market Value)</li>
+<li>MGTOW — Stay-at-home Girlfriend (SAHG) · 3 gedeeld: Hypergamy, Red Pill, SMV (Sexual Market Value)</li>
+<li>MGTOW — Provider · 3 gedeeld: Hypergamy, Manosphere, SMV (Sexual Market Value)</li>
+<li>MGTOW — Podcast-bro · 3 gedeeld: Deplatforming, Incel, Manosphere</li>
+<li>Incel — Stay-at-home Girlfriend (SAHG) · 3 gedeeld: Hypergamy, Red Pill, SMV (Sexual Market Value)</li>
+<li>High Value Man — Sigma Male · 3 gedeeld: Alpha Male, Manosphere, SMV (Sexual Market Value)</li>
+<li>High Value Man — NPC · 3 gedeeld: Manosphere, Podcast-bro, Red Pill</li>
+<li>Blackpill — Stay-at-home Girlfriend (SAHG) · 3 gedeeld: Hypergamy, Red Pill, SMV (Sexual Market Value)</li>
+</ul></details>
+<h2 id="inclusion-accessibility-and-ageing">Inclusion, Accessibility and Ageing</h2>
+<p class="begin"><b>Begin bij</b> (fase 4, meeste zwakke relaties): <a href="relatiekaart-Digital Exclusion.html">Digital Exclusion</a> (1 gedragen, 9 genoemd) · <a href="relatiekaart-Inclusive Design.html">Inclusive Design</a> (0 gedragen, 10 genoemd) · <a href="relatiekaart-Tech Abandonment.html">Tech Abandonment</a> (4 gedragen, 6 genoemd)</p>
+<div class="pair"><a href="clusters/inclusion-accessibility-and-ageing.png"><img src="clusters/inclusion-accessibility-and-ageing.png" alt="Inclusion, Accessibility and Ageing, binnen" loading="lazy"></a><a href="clusters/inclusion-accessibility-and-ageing-buiten.png"><img src="clusters/inclusion-accessibility-and-ageing-buiten.png" alt="Inclusion, Accessibility and Ageing, naar buiten" loading="lazy"></a></div>
+<h3>Entries: alle relaties, ook buiten het cluster</h3><table class="e"><tr><th>entry (relatiekaart)</th><th class="n">sterk</th><th class="n">gedragen</th><th class="n">genoemd</th><th class="n">kandidaten</th></tr>
+<tr><td><a href="relatiekaart-Accessibility.html">Accessibility</a></td><td class="n">3</td><td class="n">0</td><td class="n">4</td><td class="n">6</td></tr>
+<tr><td><a href="relatiekaart-Ageism (Digital).html">Ageism (Digital)</a></td><td class="n">4</td><td class="n">4</td><td class="n">3</td><td class="n">0</td></tr>
+<tr><td><a href="relatiekaart-Digital Ageing.html">Digital Ageing</a></td><td class="n">2</td><td class="n">1</td><td class="n">5</td><td class="n">1</td></tr>
+<tr><td><a href="relatiekaart-Digital Divide.html">Digital Divide</a></td><td class="n">2</td><td class="n">3</td><td class="n">6</td><td class="n">2</td></tr>
+<tr><td><a href="relatiekaart-Digital Exclusion.html">Digital Exclusion</a></td><td class="n">4</td><td class="n">1</td><td class="n">9</td><td class="n">1</td></tr>
+<tr><td><a href="relatiekaart-Inclusive Design.html">Inclusive Design</a></td><td class="n">2</td><td class="n">0</td><td class="n">10</td><td class="n">1</td></tr>
+<tr><td><a href="relatiekaart-Silver Surfer.html">Silver Surfer</a></td><td class="n">3</td><td class="n">0</td><td class="n">4</td><td class="n">2</td></tr>
+<tr><td><a href="relatiekaart-Tech Abandonment.html">Tech Abandonment</a></td><td class="n">2</td><td class="n">4</td><td class="n">6</td><td class="n">0</td></tr>
+<tr><td><a href="relatiekaart-UNC.html">UNC</a></td><td class="n">1</td><td class="n">2</td><td class="n">1</td><td class="n">4</td></tr>
+<tr><td><a href="relatiekaart-Universal Design.html">Universal Design</a></td><td class="n">2</td><td class="n">0</td><td class="n">9</td><td class="n">1</td></tr>
+</table>
+<h3>Voorstellen (4)</h3><table class="v"><tr><th>paar</th><th>blok</th><th>voorstel</th><th>toelichting</th></tr>
+<tr class="bA"><td>Design Justice — Accessibility</td><td>A</td><td>link</td><td>The Appeal: accessibility checklists</td></tr>
+<tr class="bA"><td>Ethical Design — Accessibility</td><td>A</td><td>link</td><td>Literal meaning: accessibility</td></tr>
+<tr class="bB"><td>Brain-Computer Interface — Accessibility</td><td>B</td><td>nee</td><td>accessibility als toepassing, niet de standaard</td></tr>
+<tr class="bB"><td>Synthetic Generation — Accessibility</td><td>B</td><td>nee</td><td>accessibility tools, terloops</td></tr>
+</table>
+<details><summary>Leeslijst dezelfde situatie (7): twee termen met drie of meer gemeenschappelijke buren, nog niet verbonden</summary><ul>
+<li>Digital Divide — Silver Surfer · 6 gedeeld: Ageism (Digital), Digital Ageing, Digital Exclusion, Inclusive Design, Tech Abandonment, Universal Design</li>
+<li>Accessibility — Digital Ageing · 6 gedeeld: Ageism (Digital), Digital Divide, Digital Exclusion, Inclusive Design, Tech Abandonment, Universal Design</li>
+<li>Accessibility — Silver Surfer · 5 gedeeld: Ageism (Digital), Digital Exclusion, Inclusive Design, Tech Abandonment, Universal Design</li>
+<li>UNC — Universal Design · 4 gedeeld: Ageism (Digital), Digital Ageing, Silver Surfer, Tech Abandonment</li>
+<li>Inclusive Design — UNC · 4 gedeeld: Ageism (Digital), Digital Ageing, Silver Surfer, Tech Abandonment</li>
+<li>Digital Exclusion — UNC · 4 gedeeld: Ageism (Digital), Digital Ageing, Silver Surfer, Tech Abandonment</li>
+<li>Digital Divide — UNC · 3 gedeeld: Ageism (Digital), Digital Ageing, Tech Abandonment</li>
+</ul></details>
+<h2 id="manifestos">Manifestos</h2>
+<p class="begin"><b>Begin bij</b> (fase 4, meeste zwakke relaties): <a href="relatiekaart-Situated Knowledge.html">Situated Knowledge</a> (7 gedragen, 26 genoemd) · <a href="relatiekaart-Cyberfeminism.html">Cyberfeminism</a> (4 gedragen, 15 genoemd) · <a href="relatiekaart-Obfuscation.html">Obfuscation</a> (9 gedragen, 3 genoemd)</p>
+<div class="pair"><a href="clusters/manifestos.png"><img src="clusters/manifestos.png" alt="Manifestos, binnen" loading="lazy"></a><a href="clusters/manifestos-buiten.png"><img src="clusters/manifestos-buiten.png" alt="Manifestos, naar buiten" loading="lazy"></a></div>
+<h3>Entries: alle relaties, ook buiten het cluster</h3><table class="e"><tr><th>entry (relatiekaart)</th><th class="n">sterk</th><th class="n">gedragen</th><th class="n">genoemd</th><th class="n">kandidaten</th></tr>
+<tr><td><a href="relatiekaart-Black Box.html">Black Box</a></td><td class="n">3</td><td class="n">3</td><td class="n">2</td><td class="n">2</td></tr>
+<tr><td><a href="relatiekaart-Cyberfeminism.html">Cyberfeminism</a></td><td class="n">0</td><td class="n">4</td><td class="n">15</td><td class="n">1</td></tr>
+<tr><td><a href="relatiekaart-Cyborg.html">Cyborg</a></td><td class="n">1</td><td class="n">2</td><td class="n">4</td><td class="n">5</td></tr>
+<tr><td><a href="relatiekaart-Cyborg Musk.html">Cyborg Musk</a></td><td class="n">1</td><td class="n">4</td><td class="n">4</td><td class="n">4</td></tr>
+<tr><td><a href="relatiekaart-Digital Libertarianism.html">Digital Libertarianism</a></td><td class="n">1</td><td class="n">4</td><td class="n">3</td><td class="n">0</td></tr>
+<tr><td><a href="relatiekaart-Hacker Ethic.html">Hacker Ethic</a></td><td class="n">0</td><td class="n">3</td><td class="n">4</td><td class="n">3</td></tr>
+<tr><td><a href="relatiekaart-Informatics of Domination.html">Informatics of Domination</a></td><td class="n">2</td><td class="n">5</td><td class="n">2</td><td class="n">3</td></tr>
+<tr><td><a href="relatiekaart-Obfuscation.html">Obfuscation</a></td><td class="n">1</td><td class="n">9</td><td class="n">3</td><td class="n">1</td></tr>
+<tr><td><a href="relatiekaart-Objectivism (Rand).html">Objectivism (Rand)</a></td><td class="n">2</td><td class="n">7</td><td class="n">5</td><td class="n">2</td></tr>
+<tr><td><a href="relatiekaart-Situated Knowledge.html">Situated Knowledge</a></td><td class="n">1</td><td class="n">7</td><td class="n">26</td><td class="n">0</td></tr>
+</table>
+<h3>Voorstellen (5)</h3><table class="v"><tr><th>paar</th><th>blok</th><th>voorstel</th><th>toelichting</th></tr>
+<tr class="bA"><td>Broligarchy — Cyborg</td><td>A</td><td>link</td><td>Friction: Cyborg Manifesto</td></tr>
+<tr class="bA"><td>Cybernetic Collective — Cyborg</td><td>A</td><td>link</td><td>Friction: cyborg</td></tr>
+<tr class="bA"><td>Cyborg — Neuralink</td><td>A</td><td>link</td><td>Friction: Neuralink</td></tr>
+<tr class="bA"><td>Cyborg Musk — Brain-Computer Interface</td><td>A</td><td>link</td><td>Literal meaning: brain-computer interface</td></tr>
+<tr class="bA"><td>Vibe Coder — Black Box</td><td>A</td><td>link</td><td>Friction: black box</td></tr>
+</table>
+<details><summary>Leeslijst dezelfde situatie (8): twee termen met drie of meer gemeenschappelijke buren, nog niet verbonden</summary><ul>
+<li>Cyborg Musk — Objectivism (Rand) · 5 gedeeld: Cyberfeminism, Digital Libertarianism, Muskism, Technofeudalism, Transhumanism</li>
+<li>Informatics of Domination — Obfuscation · 4 gedeeld: Algorithmic Violence, Black Box, Surveillance Capitalism, Unblackboxing</li>
+<li>Hacker Ethic — Informatics of Domination · 4 gedeeld: Black Box, Cyberfeminism, Situated Knowledge, Unblackboxing</li>
+<li>Cyborg Musk — Informatics of Domination · 3 gedeeld: Cyberfeminism, Cyborg, Situated Knowledge</li>
+<li>Cyborg Musk — Hacker Ethic · 3 gedeeld: Cyberfeminism, Digital Libertarianism, Situated Knowledge</li>
+<li>Cyborg — Objectivism (Rand) · 3 gedeeld: Cyberfeminism, Digital Libertarianism, Transhumanism</li>
+<li>Cyborg — Hacker Ethic · 3 gedeeld: Cyberfeminism, Digital Libertarianism, Situated Knowledge</li>
+<li>Black Box — Cyberfeminism · 3 gedeeld: Hacker Ethic, Informatics of Domination, Situated Knowledge</li>
+</ul></details>
+<h2 id="new-digital-professions">New Digital Professions</h2>
+<p class="begin"><b>Begin bij</b> (fase 4, meeste zwakke relaties): <a href="relatiekaart-Creator Economy.html">Creator Economy</a> (5 gedragen, 11 genoemd) · <a href="relatiekaart-Fact Checker.html">Fact Checker</a> (4 gedragen, 8 genoemd) · <a href="relatiekaart-Red Teamer.html">Red Teamer</a> (3 gedragen, 9 genoemd)</p>
+<div class="pair"><a href="clusters/new-digital-professions.png"><img src="clusters/new-digital-professions.png" alt="New Digital Professions, binnen" loading="lazy"></a><a href="clusters/new-digital-professions-buiten.png"><img src="clusters/new-digital-professions-buiten.png" alt="New Digital Professions, naar buiten" loading="lazy"></a></div>
+<h3>Entries: alle relaties, ook buiten het cluster</h3><table class="e"><tr><th>entry (relatiekaart)</th><th class="n">sterk</th><th class="n">gedragen</th><th class="n">genoemd</th><th class="n">kandidaten</th></tr>
+<tr><td><a href="relatiekaart-Content Moderator.html">Content Moderator</a></td><td class="n">1</td><td class="n">0</td><td class="n">7</td><td class="n">0</td></tr>
+<tr><td><a href="relatiekaart-Creator Economy.html">Creator Economy</a></td><td class="n">1</td><td class="n">5</td><td class="n">11</td><td class="n">0</td></tr>
+<tr><td><a href="relatiekaart-De-installer.html">De-installer</a></td><td class="n">0</td><td class="n">4</td><td class="n">2</td><td class="n">0</td></tr>
+<tr><td><a href="relatiekaart-Digital Coach.html">Digital Coach</a></td><td class="n">0</td><td class="n">3</td><td class="n">4</td><td class="n">0</td></tr>
+<tr><td><a href="relatiekaart-Fact Checker.html">Fact Checker</a></td><td class="n">1</td><td class="n">4</td><td class="n">8</td><td class="n">0</td></tr>
+<tr><td><a href="relatiekaart-Ghost Work.html">Ghost Work</a></td><td class="n">1</td><td class="n">1</td><td class="n">2</td><td class="n">0</td></tr>
+<tr><td><a href="relatiekaart-Mechanical Turk.html">Mechanical Turk</a></td><td class="n">1</td><td class="n">0</td><td class="n">3</td><td class="n">0</td></tr>
+<tr><td><a href="relatiekaart-Personal Branding.html">Personal Branding</a></td><td class="n">2</td><td class="n">6</td><td class="n">3</td><td class="n">1</td></tr>
+<tr><td><a href="relatiekaart-Prompt Engineer.html">Prompt Engineer</a></td><td class="n">3</td><td class="n">2</td><td class="n">3</td><td class="n">0</td></tr>
+<tr><td><a href="relatiekaart-Red Teamer.html">Red Teamer</a></td><td class="n">0</td><td class="n">3</td><td class="n">9</td><td class="n">0</td></tr>
+<tr><td><a href="relatiekaart-Vibe Coder.html">Vibe Coder</a></td><td class="n">0</td><td class="n">4</td><td class="n">2</td><td class="n">1</td></tr>
+</table>
+<h3>Voorstellen (2)</h3><table class="v"><tr><th>paar</th><th>blok</th><th>voorstel</th><th>toelichting</th></tr>
+<tr class="bA"><td>Clean Girl Aesthetic — Personal Branding</td><td>A</td><td>link</td><td>Origin: personal branding</td></tr>
+<tr class="bA"><td>Vibe Coder — Black Box</td><td>A</td><td>link</td><td>Friction: black box</td></tr>
+</table>
+<h2 id="parents-children">Parents &amp; Children</h2>
+<p class="begin"><b>Begin bij</b> (fase 4, meeste zwakke relaties): <a href="relatiekaart-Predatory Design.html">Predatory Design</a> (14 gedragen, 8 genoemd) · <a href="relatiekaart-Sharenting.html">Sharenting</a> (5 gedragen, 8 genoemd) · <a href="relatiekaart-Gaming Disorder.html">Gaming Disorder</a> (3 gedragen, 8 genoemd)</p>
+<div class="pair"><a href="clusters/parents-children.png"><img src="clusters/parents-children.png" alt="Parents &amp; Children, binnen" loading="lazy"></a><a href="clusters/parents-children-buiten.png"><img src="clusters/parents-children-buiten.png" alt="Parents &amp; Children, naar buiten" loading="lazy"></a></div>
+<h3>Entries: alle relaties, ook buiten het cluster</h3><table class="e"><tr><th>entry (relatiekaart)</th><th class="n">sterk</th><th class="n">gedragen</th><th class="n">genoemd</th><th class="n">kandidaten</th></tr>
+<tr><td><a href="relatiekaart-Family Vlogging.html">Family Vlogging</a></td><td class="n">1</td><td class="n">2</td><td class="n">3</td><td class="n">1</td></tr>
+<tr><td><a href="relatiekaart-Gaming Disorder.html">Gaming Disorder</a></td><td class="n">2</td><td class="n">3</td><td class="n">8</td><td class="n">2</td></tr>
+<tr><td><a href="relatiekaart-Kidfluencer.html">Kidfluencer</a></td><td class="n">2</td><td class="n">1</td><td class="n">5</td><td class="n">5</td></tr>
+<tr><td><a href="relatiekaart-Loot Boxes.html">Loot Boxes</a></td><td class="n">1</td><td class="n">2</td><td class="n">4</td><td class="n">1</td></tr>
+<tr><td><a href="relatiekaart-Momfluencer.html">Momfluencer</a></td><td class="n">1</td><td class="n">2</td><td class="n">3</td><td class="n">4</td></tr>
+<tr><td><a href="relatiekaart-Online Grooming.html">Online Grooming</a></td><td class="n">3</td><td class="n">4</td><td class="n">2</td><td class="n">4</td></tr>
+<tr><td><a href="relatiekaart-Predatory Design.html">Predatory Design</a></td><td class="n">5</td><td class="n">14</td><td class="n">8</td><td class="n">2</td></tr>
+<tr><td><a href="relatiekaart-Roblox.html">Roblox</a></td><td class="n">4</td><td class="n">0</td><td class="n">4</td><td class="n">1</td></tr>
+<tr><td><a href="relatiekaart-Robux.html">Robux</a></td><td class="n">3</td><td class="n">1</td><td class="n">3</td><td class="n">4</td></tr>
+<tr><td><a href="relatiekaart-Screen Time.html">Screen Time</a></td><td class="n">0</td><td class="n">3</td><td class="n">6</td><td class="n">3</td></tr>
+<tr><td><a href="relatiekaart-Sexting.html">Sexting</a></td><td class="n">0</td><td class="n">1</td><td class="n">4</td><td class="n">2</td></tr>
+<tr><td><a href="relatiekaart-Sharenting.html">Sharenting</a></td><td class="n">1</td><td class="n">5</td><td class="n">8</td><td class="n">1</td></tr>
+</table>
+<h3>Voorstellen (10)</h3><table class="v"><tr><th>paar</th><th>blok</th><th>voorstel</th><th>toelichting</th></tr>
+<tr class="bA"><td>Influencer — Kidfluencer</td><td>A</td><td>opgelost door A</td><td>via de link in Kidfluencer</td></tr>
+<tr class="bA"><td>Influencer — Momfluencer</td><td>A</td><td>opgelost door A</td><td>via de link in Momfluencer</td></tr>
+<tr class="bA"><td>Kidfluencer — Influencer</td><td>A</td><td>link</td><td>Origin: influencer</td></tr>
+<tr class="bA"><td>Momfluencer — Influencer</td><td>A</td><td>link</td><td>Origin: influencer</td></tr>
+<tr class="bA"><td>Robux — Dark Patterns</td><td>A</td><td>link</td><td>Origin: dark patterns</td></tr>
+<tr class="bB"><td>Mindful Scrolling — Screen Time</td><td>B</td><td>nee</td><td>Screen Time is hier Apples functie, niet het opvoedconcept</td></tr>
+<tr class="bD"><td>Fitfluencer — Kidfluencer</td><td>D</td><td>nee</td><td>alleen het woord</td></tr>
+<tr class="bD"><td>Fitfluencer — Momfluencer</td><td>D</td><td>nee</td><td>alleen het woord</td></tr>
+<tr class="bD"><td>Kidfluencer — Virtual Influencer</td><td>D</td><td>nee</td><td>alleen het woord</td></tr>
+<tr class="bD"><td>Momfluencer — Virtual Influencer</td><td>D</td><td>nee</td><td>alleen het woord</td></tr>
+</table>
+<details><summary>Leeslijst dezelfde situatie (10): twee termen met drie of meer gemeenschappelijke buren, nog niet verbonden</summary><ul>
+<li>Loot Boxes — Roblox · 5 gedeeld: Brussels Effect, Gamification Creep, Gaming Disorder, Predatory Design, Robux</li>
+<li>Predatory Design — Sharenting · 4 gedeeld: Digital Detox, Online Grooming, Screen Time, VSD (Value Sensitive Design)</li>
+<li>Robux — Sexting · 3 gedeeld: Brussels Effect, Predatory Design, Roblox</li>
+<li>Robux — Screen Time · 3 gedeeld: Gaming Disorder, Predatory Design, Roblox</li>
+<li>Online Grooming — Screen Time · 3 gedeeld: Predatory Design, Roblox, Sharenting</li>
+<li>Online Grooming — Robux · 3 gedeeld: Brussels Effect, Predatory Design, Roblox</li>
+<li>Kidfluencer — Predatory Design · 3 gedeeld: Brussels Effect, Online Grooming, VSD (Value Sensitive Design)</li>
+<li>Gaming Disorder — Sexting · 3 gedeeld: Brussels Effect, Predatory Design, Roblox</li>
+<li>Gaming Disorder — Online Grooming · 3 gedeeld: Brussels Effect, Predatory Design, Roblox</li>
+<li>Family Vlogging — Online Grooming · 3 gedeeld: Kidfluencer, Parasocial Relationship, Sharenting</li>
+</ul></details>
+<h2 id="platform-mechanisms-economics">Platform Mechanisms &amp; Economics</h2>
+<p class="begin"><b>Begin bij</b> (fase 4, meeste zwakke relaties): <a href="relatiekaart-Attention Economy.html">Attention Economy</a> (16 gedragen, 40 genoemd) · <a href="relatiekaart-Recommender Systems.html">Recommender Systems</a> (31 gedragen, 13 genoemd) · <a href="relatiekaart-Dopamine Feedback Loops.html">Dopamine Feedback Loops</a> (24 gedragen, 8 genoemd)</p>
+<div class="pair"><a href="clusters/platform-mechanisms-economics.png"><img src="clusters/platform-mechanisms-economics.png" alt="Platform Mechanisms &amp; Economics, binnen" loading="lazy"></a><a href="clusters/platform-mechanisms-economics-buiten.png"><img src="clusters/platform-mechanisms-economics-buiten.png" alt="Platform Mechanisms &amp; Economics, naar buiten" loading="lazy"></a></div>
+<h3>Entries: alle relaties, ook buiten het cluster</h3><table class="e"><tr><th>entry (relatiekaart)</th><th class="n">sterk</th><th class="n">gedragen</th><th class="n">genoemd</th><th class="n">kandidaten</th></tr>
+<tr><td><a href="relatiekaart-Age of Average.html">Age of Average</a></td><td class="n">1</td><td class="n">3</td><td class="n">4</td><td class="n">2</td></tr>
+<tr><td><a href="relatiekaart-AI as a Utility.html">AI as a Utility</a></td><td class="n">0</td><td class="n">3</td><td class="n">5</td><td class="n">1</td></tr>
+<tr><td><a href="relatiekaart-AI Slop.html">AI Slop</a></td><td class="n">2</td><td class="n">3</td><td class="n">3</td><td class="n">2</td></tr>
+<tr><td><a href="relatiekaart-Attention Economy.html">Attention Economy</a></td><td class="n">0</td><td class="n">16</td><td class="n">40</td><td class="n">0</td></tr>
+<tr><td><a href="relatiekaart-Attention Harvesting.html">Attention Harvesting</a></td><td class="n">0</td><td class="n">6</td><td class="n">6</td><td class="n">8</td></tr>
+<tr><td><a href="relatiekaart-Biometric Surveillance.html">Biometric Surveillance</a></td><td class="n">1</td><td class="n">10</td><td class="n">5</td><td class="n">2</td></tr>
+<tr><td><a href="relatiekaart-Bot Farms.html">Bot Farms</a></td><td class="n">2</td><td class="n">5</td><td class="n">5</td><td class="n">4</td></tr>
+<tr><td><a href="relatiekaart-BUMMER.html">BUMMER</a></td><td class="n">0</td><td class="n">6</td><td class="n">5</td><td class="n">10</td></tr>
+<tr><td><a href="relatiekaart-Clickbait.html">Clickbait</a></td><td class="n">1</td><td class="n">4</td><td class="n">5</td><td class="n">6</td></tr>
+<tr><td><a href="relatiekaart-Dark Patterns.html">Dark Patterns</a></td><td class="n">4</td><td class="n">13</td><td class="n">12</td><td class="n">7</td></tr>
+<tr><td><a href="relatiekaart-Deceptive Design.html">Deceptive Design</a></td><td class="n">3</td><td class="n">4</td><td class="n">9</td><td class="n">3</td></tr>
+<tr><td><a href="relatiekaart-Dopamine Feedback Loops.html">Dopamine Feedback Loops</a></td><td class="n">2</td><td class="n">24</td><td class="n">8</td><td class="n">0</td></tr>
+<tr><td><a href="relatiekaart-Echo Chamber.html">Echo Chamber</a></td><td class="n">2</td><td class="n">5</td><td class="n">10</td><td class="n">3</td></tr>
+<tr><td><a href="relatiekaart-Empathy Exploit.html">Empathy Exploit</a></td><td class="n">0</td><td class="n">5</td><td class="n">4</td><td class="n">8</td></tr>
+<tr><td><a href="relatiekaart-Enshittification.html">Enshittification</a></td><td class="n">1</td><td class="n">3</td><td class="n">7</td><td class="n">10</td></tr>
+<tr><td><a href="relatiekaart-Filter Bubble.html">Filter Bubble</a></td><td class="n">3</td><td class="n">0</td><td class="n">6</td><td class="n">4</td></tr>
+<tr><td><a href="relatiekaart-Gamification Creep.html">Gamification Creep</a></td><td class="n">0</td><td class="n">6</td><td class="n">10</td><td class="n">5</td></tr>
+<tr><td><a href="relatiekaart-Ludic Loop.html">Ludic Loop</a></td><td class="n">0</td><td class="n">1</td><td class="n">11</td><td class="n">6</td></tr>
+<tr><td><a href="relatiekaart-Microtargeting.html">Microtargeting</a></td><td class="n">2</td><td class="n">7</td><td class="n">4</td><td class="n">3</td></tr>
+<tr><td><a href="relatiekaart-Neuromarketing.html">Neuromarketing</a></td><td class="n">1</td><td class="n">3</td><td class="n">4</td><td class="n">4</td></tr>
+<tr><td><a href="relatiekaart-Nudging.html">Nudging</a></td><td class="n">3</td><td class="n">1</td><td class="n">5</td><td class="n">4</td></tr>
+<tr><td><a href="relatiekaart-Ragebaiting.html">Ragebaiting</a></td><td class="n">6</td><td class="n">7</td><td class="n">8</td><td class="n">3</td></tr>
+<tr><td><a href="relatiekaart-Recommender Systems.html">Recommender Systems</a></td><td class="n">3</td><td class="n">31</td><td class="n">13</td><td class="n">1</td></tr>
+<tr><td><a href="relatiekaart-Shadow Banning.html">Shadow Banning</a></td><td class="n">0</td><td class="n">3</td><td class="n">6</td><td class="n">7</td></tr>
+<tr><td><a href="relatiekaart-Synthetic Generation.html">Synthetic Generation</a></td><td class="n">1</td><td class="n">8</td><td class="n">3</td><td class="n">4</td></tr>
+</table>
+<h3>Voorstellen (7)</h3><table class="v"><tr><th>paar</th><th>blok</th><th>voorstel</th><th>toelichting</th></tr>
+<tr class="bA"><td>Attention Harvesting — Surveillance Capitalism</td><td>A</td><td>link</td><td>Origin: surveillance capitalism</td></tr>
+<tr class="bA"><td>Echo Chamber — Red Pill</td><td>A</td><td>link</td><td>Friction: red pill ideology</td></tr>
+<tr class="bA"><td>Parasocial Relationship — Dark Patterns</td><td>A</td><td>link</td><td>Friction: dark patterns</td></tr>
+<tr class="bA"><td>Recommender Systems — Looksmaxxing</td><td>A</td><td>link</td><td>Friction: looksmaxxing</td></tr>
+<tr class="bA"><td>Robux — Dark Patterns</td><td>A</td><td>link</td><td>Origin: dark patterns</td></tr>
+<tr class="bB"><td>Synthetic Generation — Accessibility</td><td>B</td><td>nee</td><td>accessibility tools, terloops</td></tr>
+<tr class="bC"><td>Surveillance Capitalism — Dark Patterns</td><td>C</td><td>alleen Related terms</td><td>opsomming in Why This Matters</td></tr>
+</table>
+<details><summary>Leeslijst dezelfde situatie (52): twee termen met drie of meer gemeenschappelijke buren, nog niet verbonden</summary><ul>
+<li>Dark Patterns — Ludic Loop · 7 gedeeld: Attention Economy, Attention Harvesting, Cognitive Surrender, Dopamine Feedback Loops, Frictionful Design, Gamification Creep, Predatory Design</li>
+<li>Bot Farms — Echo Chamber · 7 gedeeld: BUMMER, Deplatforming, Flood the Zone, Great Replacement, Narrative Engineering, QAnon, Recommender Systems</li>
+<li>Deceptive Design — Neuromarketing · 6 gedeeld: Biometric Surveillance, Cognitive Surrender, Dark Patterns, Fair Patterns, Nudging, VSD (Value Sensitive Design)</li>
+<li>Microtargeting — Ragebaiting · 5 gedeeld: BUMMER, Biometric Surveillance, Bot Farms, Great Replacement, Recommender Systems</li>
+<li>Gamification Creep — Nudging · 5 gedeeld: Attention Economy, Dark Patterns, Fair Patterns, Persuasive Technology, VSD (Value Sensitive Design)</li>
+<li>Enshittification — Shadow Banning · 5 gedeeld: Attention Economy, Cognitive Surrender, Deplatforming, Recommender Systems, Surveillance Capitalism</li>
+<li>Echo Chamber — Microtargeting · 5 gedeeld: BUMMER, Filter Bubble, Great Replacement, Narrative Engineering, Recommender Systems</li>
+<li>BUMMER — Filter Bubble · 5 gedeeld: AI Literacy, Attention Economy, Echo Chamber, Microtargeting, Recommender Systems</li>
+<li>BUMMER — Empathy Exploit · 5 gedeeld: AI Literacy, Attention Economy, Cognitive Surrender, Ragebaiting, Recommender Systems</li>
+<li>Gamification Creep — Neuromarketing · 4 gedeeld: Attention Economy, Dark Patterns, Fair Patterns, VSD (Value Sensitive Design)</li>
+<li>Empathy Exploit — Filter Bubble · 4 gedeeld: AI Literacy, Attention Economy, Recommender Systems, Slow Media</li>
+<li>Echo Chamber — Ragebaiting · 4 gedeeld: BUMMER, Flood the Zone, Great Replacement, Recommender Systems</li>
+<li>Deceptive Design — Gamification Creep · 4 gedeeld: Dark Patterns, Fair Patterns, Predatory Design, VSD (Value Sensitive Design)</li>
+<li>BUMMER — Shadow Banning · 4 gedeeld: Attention Economy, Cognitive Surrender, Recommender Systems, Surveillance Capitalism</li>
+<li>BUMMER — Ludic Loop · 4 gedeeld: Attention Economy, Cognitive Surrender, Dopamine Feedback Loops, Surveillance Capitalism</li>
+<li>BUMMER — Enshittification · 4 gedeeld: Attention Economy, Cognitive Surrender, Recommender Systems, Surveillance Capitalism</li>
+<li>Attention Harvesting — Nudging · 4 gedeeld: Attention Economy, Cognitive Surrender, Dark Patterns, Neuromarketing</li>
+<li>Attention Harvesting — Gamification Creep · 4 gedeeld: Attention Economy, Dark Patterns, Dopamine Feedback Loops, Ludic Loop</li>
+<li>Attention Harvesting — Enshittification · 4 gedeeld: Attention Economy, Cognitive Surrender, Dark Patterns, Recommender Systems</li>
+<li>Attention Harvesting — Empathy Exploit · 4 gedeeld: Attention Economy, Cognitive Surrender, Doomscrolling, Recommender Systems</li>
+<li>Attention Harvesting — BUMMER · 4 gedeeld: Attention Economy, Cognitive Surrender, Dopamine Feedback Loops, Recommender Systems</li>
+<li>AI Slop — Empathy Exploit · 4 gedeeld: AI Literacy, Clickbait, Recommender Systems, Synthetic Generation</li>
+<li>Ragebaiting — Synthetic Generation · 3 gedeeld: Bot Farms, Empathy Exploit, Fact Checker</li>
+<li>Ragebaiting — Shadow Banning · 3 gedeeld: Algospeak, Attention Economy, Recommender Systems</li>
+<li>Ludic Loop — Shadow Banning · 3 gedeeld: Attention Economy, Cognitive Surrender, Surveillance Capitalism</li>
+<li>Ludic Loop — Nudging · 3 gedeeld: Attention Economy, Cognitive Surrender, Frictionful Design</li>
+<li>Ludic Loop — Neuromarketing · 3 gedeeld: Attention Economy, Attention Harvesting, Cognitive Surrender</li>
+<li>Filter Bubble — Ragebaiting · 3 gedeeld: Attention Economy, Great Replacement, Recommender Systems</li>
+<li>Enshittification — Nudging · 3 gedeeld: Attention Economy, Cognitive Surrender, Dark Patterns</li>
+<li>Enshittification — Neuromarketing · 3 gedeeld: Attention Economy, Cognitive Surrender, Dark Patterns</li>
+<li>Enshittification — Microtargeting · 3 gedeeld: Brussels Effect, Recommender Systems, Surveillance Capitalism</li>
+<li>Enshittification — Ludic Loop · 3 gedeeld: Attention Economy, Cognitive Surrender, Surveillance Capitalism</li>
+<li>Enshittification — Gamification Creep · 3 gedeeld: Attention Economy, Dark Patterns, Deskilling</li>
+<li>Empathy Exploit — Shadow Banning · 3 gedeeld: Attention Economy, Cognitive Surrender, Recommender Systems</li>
+<li>Empathy Exploit — Enshittification · 3 gedeeld: Attention Economy, Cognitive Surrender, Recommender Systems</li>
+<li>Deceptive Design — Enshittification · 3 gedeeld: Cognitive Surrender, Dark Patterns, Vendor Lock-in</li>
+<li>Dark Patterns — Shadow Banning · 3 gedeeld: Attention Economy, Cognitive Surrender, Content Moderator</li>
+<li>Clickbait — Synthetic Generation · 3 gedeeld: AI Slop, Empathy Exploit, Fact Checker</li>
+<li>Clickbait — Filter Bubble · 3 gedeeld: Attention Economy, Recommender Systems, Slow Media</li>
+<li>Bot Farms — Filter Bubble · 3 gedeeld: Great Replacement, Microtargeting, Recommender Systems</li>
+<li>Bot Farms — Empathy Exploit · 3 gedeeld: Ragebaiting, Recommender Systems, Synthetic Generation</li>
+<li>Bot Farms — Clickbait · 3 gedeeld: Fact Checker, Ragebaiting, Recommender Systems</li>
+<li>Biometric Surveillance — Dark Patterns · 3 gedeeld: Brussels Effect, Deceptive Design, Neuromarketing</li>
+<li>Biometric Surveillance — BUMMER · 3 gedeeld: Microtargeting, Ragebaiting, Surveillance Capitalism</li>
+<li>BUMMER — Synthetic Generation · 3 gedeeld: AI Literacy, Bot Farms, Microtargeting</li>
+<li>BUMMER — Dark Patterns · 3 gedeeld: Attention Economy, Cognitive Surrender, Dopamine Feedback Loops</li>
+<li>BUMMER — Clickbait · 3 gedeeld: Attention Economy, Ragebaiting, Recommender Systems</li>
+<li>Attention Harvesting — Shadow Banning · 3 gedeeld: Attention Economy, Cognitive Surrender, Recommender Systems</li>
+<li>Attention Harvesting — Clickbait · 3 gedeeld: Attention Economy, Doomscrolling, Recommender Systems</li>
+<li>Age of Average — Empathy Exploit · 3 gedeeld: Recommender Systems, Slow Media, Synthetic Generation</li>
+<li>Age of Average — Clickbait · 3 gedeeld: AI Slop, Recommender Systems, Slow Media</li>
+<li>AI as a Utility — AI Slop · 3 gedeeld: AI Dependency, AI Literacy, Deskilling</li>
+</ul></details>
+<h2 id="privacy-data-and-control">Privacy, Data and Control</h2>
+<p class="begin"><b>Begin bij</b> (fase 4, meeste zwakke relaties): <a href="relatiekaart-Surveillance Capitalism.html">Surveillance Capitalism</a> (17 gedragen, 25 genoemd) · <a href="relatiekaart-Brussels Effect.html">Brussels Effect</a> (5 gedragen, 29 genoemd) · <a href="relatiekaart-Algorithmic Violence.html">Algorithmic Violence</a> (7 gedragen, 16 genoemd)</p>
+<div class="pair"><a href="clusters/privacy-data-and-control.png"><img src="clusters/privacy-data-and-control.png" alt="Privacy, Data and Control, binnen" loading="lazy"></a><a href="clusters/privacy-data-and-control-buiten.png"><img src="clusters/privacy-data-and-control-buiten.png" alt="Privacy, Data and Control, naar buiten" loading="lazy"></a></div>
+<h3>Entries: alle relaties, ook buiten het cluster</h3><table class="e"><tr><th>entry (relatiekaart)</th><th class="n">sterk</th><th class="n">gedragen</th><th class="n">genoemd</th><th class="n">kandidaten</th></tr>
+<tr><td><a href="relatiekaart-Algorithmic Violence.html">Algorithmic Violence</a></td><td class="n">3</td><td class="n">7</td><td class="n">16</td><td class="n">0</td></tr>
+<tr><td><a href="relatiekaart-Brussels Effect.html">Brussels Effect</a></td><td class="n">4</td><td class="n">5</td><td class="n">29</td><td class="n">0</td></tr>
+<tr><td><a href="relatiekaart-CLOUD Act.html">CLOUD Act</a></td><td class="n">2</td><td class="n">1</td><td class="n">3</td><td class="n">3</td></tr>
+<tr><td><a href="relatiekaart-Data Brokers.html">Data Brokers</a></td><td class="n">1</td><td class="n">4</td><td class="n">2</td><td class="n">4</td></tr>
+<tr><td><a href="relatiekaart-Dataism.html">Dataism</a></td><td class="n">1</td><td class="n">6</td><td class="n">0</td><td class="n">1</td></tr>
+<tr><td><a href="relatiekaart-Privacy as a Premium.html">Privacy as a Premium</a></td><td class="n">1</td><td class="n">3</td><td class="n">4</td><td class="n">4</td></tr>
+<tr><td><a href="relatiekaart-Privacy Washing.html">Privacy Washing</a></td><td class="n">2</td><td class="n">6</td><td class="n">8</td><td class="n">3</td></tr>
+<tr><td><a href="relatiekaart-Security Theater.html">Security Theater</a></td><td class="n">0</td><td class="n">2</td><td class="n">5</td><td class="n">3</td></tr>
+<tr><td><a href="relatiekaart-Surveillance Capitalism.html">Surveillance Capitalism</a></td><td class="n">4</td><td class="n">17</td><td class="n">25</td><td class="n">3</td></tr>
+<tr><td><a href="relatiekaart-Vendor Lock-in.html">Vendor Lock-in</a></td><td class="n">4</td><td class="n">3</td><td class="n">7</td><td class="n">2</td></tr>
+</table>
+<h3>Voorstellen (5)</h3><table class="v"><tr><th>paar</th><th>blok</th><th>voorstel</th><th>toelichting</th></tr>
+<tr class="bA"><td>Attention Harvesting — Surveillance Capitalism</td><td>A</td><td>link</td><td>Origin: surveillance capitalism</td></tr>
+<tr class="bA"><td>Greenwashing — Privacy Washing</td><td>A</td><td>opgelost door A</td><td>via de link in Privacy Washing</td></tr>
+<tr class="bA"><td>Privacy Washing — Greenwashing</td><td>A</td><td>link</td><td>Origin: greenwashing</td></tr>
+<tr class="bC"><td>Surveillance Capitalism — Dark Patterns</td><td>C</td><td>alleen Related terms</td><td>opsomming in Why This Matters</td></tr>
+<tr class="bE"><td>Surveillance Capitalism (Political Economy) — Surveillance Capitalism</td><td>E</td><td>jouw keuze</td><td>de twee lezingen wijzen niet naar elkaar</td></tr>
+</table>
+<details><summary>Leeslijst dezelfde situatie (9): twee termen met drie of meer gemeenschappelijke buren, nog niet verbonden</summary><ul>
+<li>Privacy as a Premium — Vendor Lock-in · 5 gedeeld: Algorithmic Violence, Brussels Effect, Fediverse, Privacy Washing, Surveillance Capitalism</li>
+<li>Data Brokers — Privacy as a Premium · 5 gedeeld: Algorithmic Violence, Brussels Effect, Dataism, Privacy Washing, Surveillance Capitalism</li>
+<li>CLOUD Act — Security Theater · 5 gedeeld: Algorithmic Violence, Brussels Effect, Privacy Washing, Surveillance Capitalism, Vendor Lock-in</li>
+<li>Privacy as a Premium — Security Theater · 4 gedeeld: Algorithmic Violence, Brussels Effect, Privacy Washing, Surveillance Capitalism</li>
+<li>Dataism — Privacy Washing · 4 gedeeld: Algorithmic Violence, Data Brokers, Privacy as a Premium, Surveillance Capitalism</li>
+<li>Data Brokers — Vendor Lock-in · 4 gedeeld: Algorithmic Violence, Brussels Effect, Privacy Washing, Surveillance Capitalism</li>
+<li>Data Brokers — Security Theater · 4 gedeeld: Algorithmic Violence, Brussels Effect, Privacy Washing, Surveillance Capitalism</li>
+<li>CLOUD Act — Privacy as a Premium · 4 gedeeld: Algorithmic Violence, Brussels Effect, Privacy Washing, Surveillance Capitalism</li>
+<li>CLOUD Act — Data Brokers · 4 gedeeld: Algorithmic Violence, Brussels Effect, Privacy Washing, Surveillance Capitalism</li>
+</ul></details>
+<h2 id="sf-as-ideology">SF as Ideology</h2>
+<p class="begin"><b>Begin bij</b> (fase 4, meeste zwakke relaties): <a href="relatiekaart-Transhumanism.html">Transhumanism</a> (4 gedragen, 8 genoemd) · <a href="relatiekaart-Doomerism.html">Doomerism</a> (5 gedragen, 6 genoemd) · <a href="relatiekaart-AGI.html">AGI</a> (3 gedragen, 7 genoemd)</p>
+<div class="pair"><a href="clusters/sf-as-ideology.png"><img src="clusters/sf-as-ideology.png" alt="SF as Ideology, binnen" loading="lazy"></a><a href="clusters/sf-as-ideology-buiten.png"><img src="clusters/sf-as-ideology-buiten.png" alt="SF as Ideology, naar buiten" loading="lazy"></a></div>
+<h3>Entries: alle relaties, ook buiten het cluster</h3><table class="e"><tr><th>entry (relatiekaart)</th><th class="n">sterk</th><th class="n">gedragen</th><th class="n">genoemd</th><th class="n">kandidaten</th></tr>
+<tr><td><a href="relatiekaart-1984.html">1984</a></td><td class="n">1</td><td class="n">3</td><td class="n">2</td><td class="n">0</td></tr>
+<tr><td><a href="relatiekaart-AGI.html">AGI</a></td><td class="n">1</td><td class="n">3</td><td class="n">7</td><td class="n">1</td></tr>
+<tr><td><a href="relatiekaart-Brain-Computer Interface.html">Brain-Computer Interface</a></td><td class="n">1</td><td class="n">4</td><td class="n">3</td><td class="n">2</td></tr>
+<tr><td><a href="relatiekaart-Brave New World.html">Brave New World</a></td><td class="n">1</td><td class="n">3</td><td class="n">5</td><td class="n">0</td></tr>
+<tr><td><a href="relatiekaart-Cybernetic Collective.html">Cybernetic Collective</a></td><td class="n">1</td><td class="n">4</td><td class="n">2</td><td class="n">2</td></tr>
+<tr><td><a href="relatiekaart-Digital Frankenstein.html">Digital Frankenstein</a></td><td class="n">2</td><td class="n">2</td><td class="n">4</td><td class="n">2</td></tr>
+<tr><td><a href="relatiekaart-Doom Trolling.html">Doom Trolling</a></td><td class="n">1</td><td class="n">6</td><td class="n">2</td><td class="n">6</td></tr>
+<tr><td><a href="relatiekaart-Doomerism.html">Doomerism</a></td><td class="n">4</td><td class="n">5</td><td class="n">6</td><td class="n">5</td></tr>
+<tr><td><a href="relatiekaart-Longtermism.html">Longtermism</a></td><td class="n">3</td><td class="n">8</td><td class="n">2</td><td class="n">2</td></tr>
+<tr><td><a href="relatiekaart-Mars Colonization.html">Mars Colonization</a></td><td class="n">1</td><td class="n">2</td><td class="n">3</td><td class="n">3</td></tr>
+<tr><td><a href="relatiekaart-Mimetic Desire.html">Mimetic Desire</a></td><td class="n">2</td><td class="n">5</td><td class="n">2</td><td class="n">0</td></tr>
+<tr><td><a href="relatiekaart-Mind Uploading.html">Mind Uploading</a></td><td class="n">3</td><td class="n">0</td><td class="n">5</td><td class="n">4</td></tr>
+<tr><td><a href="relatiekaart-Mythos Moment.html">Mythos Moment</a></td><td class="n">1</td><td class="n">3</td><td class="n">2</td><td class="n">3</td></tr>
+<tr><td><a href="relatiekaart-Neuralink.html">Neuralink</a></td><td class="n">3</td><td class="n">2</td><td class="n">3</td><td class="n">2</td></tr>
+<tr><td><a href="relatiekaart-Simulation Hypothesis.html">Simulation Hypothesis</a></td><td class="n">1</td><td class="n">1</td><td class="n">5</td><td class="n">5</td></tr>
+<tr><td><a href="relatiekaart-Skynet.html">Skynet</a></td><td class="n">2</td><td class="n">2</td><td class="n">3</td><td class="n">3</td></tr>
+<tr><td><a href="relatiekaart-The Matrix.html">The Matrix</a></td><td class="n">2</td><td class="n">2</td><td class="n">4</td><td class="n">4</td></tr>
+<tr><td><a href="relatiekaart-The Singularity.html">The Singularity</a></td><td class="n">0</td><td class="n">4</td><td class="n">6</td><td class="n">5</td></tr>
+<tr><td><a href="relatiekaart-Transhumanism.html">Transhumanism</a></td><td class="n">3</td><td class="n">4</td><td class="n">8</td><td class="n">2</td></tr>
+</table>
+<h3>Voorstellen (14)</h3><table class="v"><tr><th>paar</th><th>blok</th><th>voorstel</th><th>toelichting</th></tr>
+<tr class="bA"><td>Armageddon Complex — Neuralink</td><td>A</td><td>link</td><td>Friction: Neuralink</td></tr>
+<tr class="bA"><td>Coded -Pilled — The Matrix</td><td>A</td><td>link</td><td>Origin: The Matrix</td></tr>
+<tr class="bA"><td>Cybernetic Collective — Cyborg</td><td>A</td><td>link</td><td>Friction: cyborg</td></tr>
+<tr class="bA"><td>Cyborg — Neuralink</td><td>A</td><td>link</td><td>Friction: Neuralink</td></tr>
+<tr class="bA"><td>Cyborg Musk — Brain-Computer Interface</td><td>A</td><td>link</td><td>Literal meaning: brain-computer interface</td></tr>
+<tr class="bA"><td>Doom Trolling — The Matrix</td><td>A</td><td>link</td><td>Origin: the Matrix, naast Skynet en Digital Frankenstein</td></tr>
+<tr class="bB"><td>Brain-Computer Interface — Accessibility</td><td>B</td><td>nee</td><td>accessibility als toepassing, niet de standaard</td></tr>
+<tr class="bB"><td>Simulation Hypothesis — Red Pill</td><td>B</td><td>nee</td><td>de pil uit de film, niet de manosphere-ideologie</td></tr>
+<tr class="bC"><td>Doom Spending — Doomerism</td><td>C</td><td>alleen Related terms</td><td>kopen als het toch misgaat (twijfel)</td></tr>
+<tr class="bC"><td>Doomerism — Doomscrolling</td><td>C</td><td>alleen Related terms</td><td>nieuws dat de verwachting voedt (twijfel)</td></tr>
+<tr class="bC"><td>Doomerism — Doomsday Prep for the Super-Rich</td><td>C</td><td>alleen Related terms</td><td>zelfde verwachting, antwoord van wie het kan betalen (twijfel)</td></tr>
+<tr class="bD"><td>Doom Trolling — Doom Spending</td><td>D</td><td>nee</td><td>alleen het woord</td></tr>
+<tr class="bD"><td>Doom Trolling — Doomscrolling</td><td>D</td><td>nee</td><td>alleen het woord</td></tr>
+<tr class="bD"><td>Doom Trolling — Doomsday Prep for the Super-Rich</td><td>D</td><td>nee</td><td>allebei techelite, ander mechanisme</td></tr>
+</table>
+<details><summary>Leeslijst dezelfde situatie (18): twee termen met drie of meer gemeenschappelijke buren, nog niet verbonden</summary><ul>
+<li>The Matrix — Transhumanism · 5 gedeeld: Broligarchy, Cyberfeminism, Cyborg, Simulation Hypothesis, Situated Knowledge</li>
+<li>Skynet — The Singularity · 5 gedeeld: AGI, AI Literacy, Broligarchy, Doom Trolling, Doomerism</li>
+<li>Mythos Moment — Skynet · 5 gedeeld: AGI, AI Literacy, Digital Frankenstein, Doomerism, Red Teamer</li>
+<li>Mind Uploading — Simulation Hypothesis · 4 gedeeld: Longtermism, Situated Knowledge, The Singularity, Transhumanism</li>
+<li>Mars Colonization — Mind Uploading · 4 gedeeld: Fortress Futurism, Longtermism, Situated Knowledge, Transhumanism</li>
+<li>Doomerism — Transhumanism · 4 gedeeld: Longtermism, Simulation Hypothesis, Situated Knowledge, The Singularity</li>
+<li>Doom Trolling — Simulation Hypothesis · 4 gedeeld: AI Literacy, Doomerism, Longtermism, The Singularity</li>
+<li>Doom Trolling — Mythos Moment · 4 gedeeld: AGI, AI Literacy, Digital Frankenstein, Doomerism</li>
+<li>Digital Frankenstein — The Singularity · 4 gedeeld: AGI, AI Literacy, Doom Trolling, Doomerism</li>
+<li>Cybernetic Collective — Mind Uploading · 4 gedeeld: Brain-Computer Interface, Cyberfeminism, Neuralink, Transhumanism</li>
+<li>AGI — Simulation Hypothesis · 4 gedeeld: AI Literacy, Doomerism, Longtermism, The Singularity</li>
+<li>The Matrix — The Singularity · 3 gedeeld: Broligarchy, Simulation Hypothesis, Situated Knowledge</li>
+<li>Mythos Moment — The Singularity · 3 gedeeld: AGI, AI Literacy, Doomerism</li>
+<li>Mars Colonization — The Singularity · 3 gedeeld: Longtermism, Situated Knowledge, Transhumanism</li>
+<li>Mars Colonization — Simulation Hypothesis · 3 gedeeld: Longtermism, Situated Knowledge, Transhumanism</li>
+<li>Longtermism — Skynet · 3 gedeeld: AGI, Doom Trolling, Doomerism</li>
+<li>Doomerism — Mind Uploading · 3 gedeeld: Longtermism, Situated Knowledge, The Singularity</li>
+<li>Digital Frankenstein — Longtermism · 3 gedeeld: AGI, Doom Trolling, Doomerism</li>
+</ul></details>
+<h2 id="society-and-power">Society and Power</h2>
+<p class="begin"><b>Begin bij</b> (fase 4, meeste zwakke relaties): <a href="relatiekaart-Flood the Zone.html">Flood the Zone</a> (11 gedragen, 9 genoemd) · <a href="relatiekaart-Broligarchy.html">Broligarchy</a> (5 gedragen, 14 genoemd) · <a href="relatiekaart-Muskism.html">Muskism</a> (13 gedragen, 6 genoemd)</p>
+<div class="pair"><a href="clusters/society-and-power.png"><img src="clusters/society-and-power.png" alt="Society and Power, binnen" loading="lazy"></a><a href="clusters/society-and-power-buiten.png"><img src="clusters/society-and-power-buiten.png" alt="Society and Power, naar buiten" loading="lazy"></a></div>
+<h3>Entries: alle relaties, ook buiten het cluster</h3><table class="e"><tr><th>entry (relatiekaart)</th><th class="n">sterk</th><th class="n">gedragen</th><th class="n">genoemd</th><th class="n">kandidaten</th></tr>
+<tr><td><a href="relatiekaart-Broligarchy.html">Broligarchy</a></td><td class="n">3</td><td class="n">5</td><td class="n">14</td><td class="n">6</td></tr>
+<tr><td><a href="relatiekaart-Cybernetic Governance.html">Cybernetic Governance</a></td><td class="n">0</td><td class="n">4</td><td class="n">6</td><td class="n">4</td></tr>
+<tr><td><a href="relatiekaart-Digital-Military-Industrial Complex.html">Digital-Military-Industrial Complex</a></td><td class="n">2</td><td class="n">2</td><td class="n">8</td><td class="n">6</td></tr>
+<tr><td><a href="relatiekaart-Dual-Use Technology.html">Dual-Use Technology</a></td><td class="n">1</td><td class="n">5</td><td class="n">4</td><td class="n">1</td></tr>
+<tr><td><a href="relatiekaart-Financial Fabulism.html">Financial Fabulism</a></td><td class="n">3</td><td class="n">1</td><td class="n">5</td><td class="n">6</td></tr>
+<tr><td><a href="relatiekaart-Flood the Zone.html">Flood the Zone</a></td><td class="n">3</td><td class="n">11</td><td class="n">9</td><td class="n">4</td></tr>
+<tr><td><a href="relatiekaart-Fortress Futurism.html">Fortress Futurism</a></td><td class="n">1</td><td class="n">6</td><td class="n">7</td><td class="n">7</td></tr>
+<tr><td><a href="relatiekaart-Founder Mode.html">Founder Mode</a></td><td class="n">1</td><td class="n">3</td><td class="n">4</td><td class="n">6</td></tr>
+<tr><td><a href="relatiekaart-Grifters.html">Grifters</a></td><td class="n">3</td><td class="n">0</td><td class="n">2</td><td class="n">1</td></tr>
+<tr><td><a href="relatiekaart-Grokipedia.html">Grokipedia</a></td><td class="n">0</td><td class="n">4</td><td class="n">3</td><td class="n">2</td></tr>
+<tr><td><a href="relatiekaart-Hubris Syndrome.html">Hubris Syndrome</a></td><td class="n">2</td><td class="n">1</td><td class="n">3</td><td class="n">4</td></tr>
+<tr><td><a href="relatiekaart-Memecoin.html">Memecoin</a></td><td class="n">2</td><td class="n">1</td><td class="n">1</td><td class="n">1</td></tr>
+<tr><td><a href="relatiekaart-Military-Industrial Complex.html">Military-Industrial Complex</a></td><td class="n">2</td><td class="n">2</td><td class="n">4</td><td class="n">1</td></tr>
+<tr><td><a href="relatiekaart-Muskism.html">Muskism</a></td><td class="n">4</td><td class="n">13</td><td class="n">6</td><td class="n">2</td></tr>
+<tr><td><a href="relatiekaart-Narrative Engineering.html">Narrative Engineering</a></td><td class="n">0</td><td class="n">3</td><td class="n">6</td><td class="n">0</td></tr>
+<tr><td><a href="relatiekaart-Panopticon.html">Panopticon</a></td><td class="n">2</td><td class="n">3</td><td class="n">4</td><td class="n">2</td></tr>
+<tr><td><a href="relatiekaart-Reconstruction Economy.html">Reconstruction Economy</a></td><td class="n">2</td><td class="n">2</td><td class="n">4</td><td class="n">1</td></tr>
+<tr><td><a href="relatiekaart-Revolving Door.html">Revolving Door</a></td><td class="n">1</td><td class="n">4</td><td class="n">2</td><td class="n">0</td></tr>
+<tr><td><a href="relatiekaart-Social Credit System.html">Social Credit System</a></td><td class="n">1</td><td class="n">2</td><td class="n">4</td><td class="n">2</td></tr>
+<tr><td><a href="relatiekaart-Sovereignty as a Service.html">Sovereignty as a Service</a></td><td class="n">1</td><td class="n">8</td><td class="n">5</td><td class="n">9</td></tr>
+<tr><td><a href="relatiekaart-Surveillance Capitalism (Political Economy).html">Surveillance Capitalism (Political Economy)</a></td><td class="n">2</td><td class="n">4</td><td class="n">6</td><td class="n">7</td></tr>
+<tr><td><a href="relatiekaart-Techno King.html">Techno King</a></td><td class="n">2</td><td class="n">1</td><td class="n">3</td><td class="n">3</td></tr>
+<tr><td><a href="relatiekaart-Technofascism.html">Technofascism</a></td><td class="n">1</td><td class="n">4</td><td class="n">10</td><td class="n">5</td></tr>
+<tr><td><a href="relatiekaart-Technofeudalism.html">Technofeudalism</a></td><td class="n">4</td><td class="n">3</td><td class="n">15</td><td class="n">7</td></tr>
+</table>
+<h3>Voorstellen (6)</h3><table class="v"><tr><th>paar</th><th>blok</th><th>voorstel</th><th>toelichting</th></tr>
+<tr class="bA"><td>Broligarchy — Cyborg</td><td>A</td><td>link</td><td>Friction: Cyborg Manifesto</td></tr>
+<tr class="bA"><td>Fortress Futurism — Cybernetic Governance</td><td>A</td><td>link</td><td>Origin: cybernetic governance</td></tr>
+<tr class="bA"><td>Memecoin — Influencer</td><td>A</td><td>link</td><td>Friction: influencer network</td></tr>
+<tr class="bB"><td>Sovereignty as a Service — Provider</td><td>B</td><td>nee</td><td>providers zijn hier technologieleveranciers</td></tr>
+<tr class="bC"><td>Grifters — Influencer</td><td>C</td><td>alleen Related terms</td><td>opsomming in Why This Matters</td></tr>
+<tr class="bE"><td>Surveillance Capitalism (Political Economy) — Surveillance Capitalism</td><td>E</td><td>jouw keuze</td><td>de twee lezingen wijzen niet naar elkaar</td></tr>
+</table>
+<details><summary>Leeslijst dezelfde situatie (40): twee termen met drie of meer gemeenschappelijke buren, nog niet verbonden</summary><ul>
+<li>Broligarchy — Technofeudalism · 7 gedeeld: Brussels Effect, Cyberfeminism, Financial Fabulism, Fortress Futurism, Muskism, Objectivism (Rand), Surveillance Capitalism (Political Economy)</li>
+<li>Surveillance Capitalism (Political Economy) — Technofascism · 6 gedeeld: Broligarchy, Brussels Effect, Cyberfeminism, Cybernetic Governance, Flood the Zone, Muskism</li>
+<li>Technofascism — Technofeudalism · 5 gedeeld: Brussels Effect, Cyberfeminism, Cybernetic Governance, Muskism, Sovereignty as a Service</li>
+<li>Techno King — Technofascism · 5 gedeeld: Broligarchy, Brussels Effect, Founder Mode, Hubris Syndrome, Muskism</li>
+<li>Sovereignty as a Service — Surveillance Capitalism (Political Economy) · 5 gedeeld: Brussels Effect, Cybernetic Governance, Digital-Military-Industrial Complex, Muskism, Technofeudalism</li>
+<li>Military-Industrial Complex — Sovereignty as a Service · 5 gedeeld: Brussels Effect, Digital-Military-Industrial Complex, Reconstruction Economy, Revolving Door, Situated Knowledge</li>
+<li>Social Credit System — Technofeudalism · 4 gedeeld: Brussels Effect, Cybernetic Governance, Surveillance Capitalism, Surveillance Capitalism (Political Economy)</li>
+<li>Panopticon — Technofeudalism · 4 gedeeld: Brussels Effect, Cybernetic Governance, Surveillance Capitalism, Surveillance Capitalism (Political Economy)</li>
+<li>Founder Mode — Sovereignty as a Service · 4 gedeeld: Brussels Effect, Muskism, Situated Knowledge, Technofascism</li>
+<li>Fortress Futurism — Technofascism · 4 gedeeld: Broligarchy, Cyberfeminism, Endtime Fascism, Muskism</li>
+<li>Fortress Futurism — Surveillance Capitalism (Political Economy) · 4 gedeeld: Broligarchy, Cyberfeminism, Muskism, Technofeudalism</li>
+<li>Fortress Futurism — Sovereignty as a Service · 4 gedeeld: Muskism, Seasteading, Situated Knowledge, Technofeudalism</li>
+<li>Fortress Futurism — Founder Mode · 4 gedeeld: Broligarchy, Muskism, Objectivism (Rand), Situated Knowledge</li>
+<li>Financial Fabulism — Flood the Zone · 4 gedeeld: Broligarchy, Fact Checker, Grokipedia, Muskism</li>
+<li>Dual-Use Technology — Sovereignty as a Service · 4 gedeeld: Brussels Effect, Digital-Military-Industrial Complex, Reconstruction Economy, Revolving Door</li>
+<li>Digital-Military-Industrial Complex — Technofeudalism · 4 gedeeld: Brussels Effect, Sovereignty as a Service, Surveillance Capitalism, Surveillance Capitalism (Political Economy)</li>
+<li>Cybernetic Governance — Muskism · 4 gedeeld: Sovereignty as a Service, Surveillance Capitalism (Political Economy), Technofascism, Technofeudalism</li>
+<li>Broligarchy — Sovereignty as a Service · 4 gedeeld: Brussels Effect, Muskism, Revolving Door, Technofascism</li>
+<li>Techno King — Technofeudalism · 3 gedeeld: Brussels Effect, Financial Fabulism, Muskism</li>
+<li>Surveillance Capitalism (Political Economy) — Techno King · 3 gedeeld: Broligarchy, Brussels Effect, Muskism</li>
+<li>Hubris Syndrome — Sovereignty as a Service · 3 gedeeld: Muskism, Situated Knowledge, Technofascism</li>
+<li>Grokipedia — Technofascism · 3 gedeeld: Dehumanization, Flood the Zone, Muskism</li>
+<li>Founder Mode — Technofeudalism · 3 gedeeld: Brussels Effect, Muskism, Objectivism (Rand)</li>
+<li>Founder Mode — Surveillance Capitalism (Political Economy) · 3 gedeeld: Broligarchy, Brussels Effect, Muskism</li>
+<li>Fortress Futurism — Hubris Syndrome · 3 gedeeld: Broligarchy, Muskism, Situated Knowledge</li>
+<li>Flood the Zone — Hubris Syndrome · 3 gedeeld: Broligarchy, Muskism, Technofascism</li>
+<li>Flood the Zone — Founder Mode · 3 gedeeld: Broligarchy, Muskism, Technofascism</li>
+<li>Financial Fabulism — Surveillance Capitalism (Political Economy) · 3 gedeeld: Broligarchy, Muskism, Technofeudalism</li>
+<li>Financial Fabulism — Sovereignty as a Service · 3 gedeeld: Muskism, Reconstruction Economy, Technofeudalism</li>
+<li>Financial Fabulism — Hubris Syndrome · 3 gedeeld: Broligarchy, Muskism, Techno King</li>
+<li>Financial Fabulism — Founder Mode · 3 gedeeld: Broligarchy, Muskism, Techno King</li>
+<li>Financial Fabulism — Fortress Futurism · 3 gedeeld: Broligarchy, Muskism, Technofeudalism</li>
+<li>Digital-Military-Industrial Complex — Social Credit System · 3 gedeeld: Brussels Effect, Surveillance Capitalism, Surveillance Capitalism (Political Economy)</li>
+<li>Digital-Military-Industrial Complex — Panopticon · 3 gedeeld: Brussels Effect, Surveillance Capitalism, Surveillance Capitalism (Political Economy)</li>
+<li>Digital-Military-Industrial Complex — Muskism · 3 gedeeld: Brussels Effect, Sovereignty as a Service, Surveillance Capitalism (Political Economy)</li>
+<li>Cybernetic Governance — Flood the Zone · 3 gedeeld: &quot;Like Prime, but with human beings.&quot;, Surveillance Capitalism (Political Economy), Technofascism</li>
+<li>Cybernetic Governance — Digital-Military-Industrial Complex · 3 gedeeld: Sovereignty as a Service, Surveillance Capitalism, Surveillance Capitalism (Political Economy)</li>
+<li>Broligarchy — Reconstruction Economy · 3 gedeeld: Financial Fabulism, Grifters, Revolving Door</li>
+<li>Broligarchy — Grokipedia · 3 gedeeld: Financial Fabulism, Flood the Zone, Muskism</li>
+<li>Broligarchy — Digital-Military-Industrial Complex · 3 gedeeld: Brussels Effect, Revolving Door, Surveillance Capitalism (Political Economy)</li>
+</ul></details>
+<h2 id="statements-as-analytical-object">Statements as Analytical Object</h2>
+<p class="begin"><b>Begin bij</b> (fase 4, meeste zwakke relaties): <a href="relatiekaart--500 million people installed that app in 60 days.-.html">&quot;500 million people installed that app in 60 days.&quot;</a> (3 gedragen, 5 genoemd) · <a href="relatiekaart--Adding amplitude to war is obviously an issue.-.html">&quot;Adding amplitude to war is obviously an issue.&quot;</a> (2 gedragen, 5 genoemd) · <a href="relatiekaart--During a dynamic political environment.-.html">&quot;During a dynamic political environment.&quot;</a> (4 gedragen, 3 genoemd)</p>
+<div class="pair"><a href="clusters/statements-as-analytical-object.png"><img src="clusters/statements-as-analytical-object.png" alt="Statements as Analytical Object, binnen" loading="lazy"></a><a href="clusters/statements-as-analytical-object-buiten.png"><img src="clusters/statements-as-analytical-object-buiten.png" alt="Statements as Analytical Object, naar buiten" loading="lazy"></a></div>
+<h3>Entries: alle relaties, ook buiten het cluster</h3><table class="e"><tr><th>entry (relatiekaart)</th><th class="n">sterk</th><th class="n">gedragen</th><th class="n">genoemd</th><th class="n">kandidaten</th></tr>
+<tr><td><a href="relatiekaart--500 million people installed that app in 60 days.-.html">&quot;500 million people installed that app in 60 days.&quot;</a></td><td class="n">1</td><td class="n">3</td><td class="n">5</td><td class="n">0</td></tr>
+<tr><td><a href="relatiekaart--Adding amplitude to war is obviously an issue.-.html">&quot;Adding amplitude to war is obviously an issue.&quot;</a></td><td class="n">0</td><td class="n">2</td><td class="n">5</td><td class="n">0</td></tr>
+<tr><td><a href="relatiekaart--During a dynamic political environment.-.html">&quot;During a dynamic political environment.&quot;</a></td><td class="n">0</td><td class="n">4</td><td class="n">3</td><td class="n">0</td></tr>
+<tr><td><a href="relatiekaart--I could definitely see it.-.html">&quot;I could definitely see it.&quot;</a></td><td class="n">0</td><td class="n">2</td><td class="n">4</td><td class="n">0</td></tr>
+<tr><td><a href="relatiekaart--Like Prime, but with human beings.-.html">&quot;Like Prime, but with human beings.&quot;</a></td><td class="n">0</td><td class="n">3</td><td class="n">2</td><td class="n">1</td></tr>
+<tr><td><a href="relatiekaart--We have never and will never sell user data.-.html">&quot;We have never and will never sell user data.&quot;</a></td><td class="n">1</td><td class="n">2</td><td class="n">2</td><td class="n">0</td></tr>
+<tr><td><a href="relatiekaart-Adolescence (Netflix, 2025).html">Adolescence (Netflix, 2025)</a></td><td class="n">2</td><td class="n">2</td><td class="n">5</td><td class="n">0</td></tr>
+<tr><td><a href="relatiekaart-Tu Nube Seca Mi Río.html">Tu Nube Seca Mi Río</a></td><td class="n">0</td><td class="n">4</td><td class="n">2</td><td class="n">0</td></tr>
+</table>
+<h2 id="subcultural-vocabulary-and-platform-language">Subcultural Vocabulary and Platform Language</h2>
+<p class="begin"><b>Begin bij</b> (fase 4, meeste zwakke relaties): <a href="relatiekaart-Main Character Energy.html">Main Character Energy</a> (7 gedragen, 3 genoemd) · <a href="relatiekaart-Aurafarming.html">Aurafarming</a> (3 gedragen, 6 genoemd) · <a href="relatiekaart-Crash-out.html">Crash-out</a> (3 gedragen, 6 genoemd)</p>
+<div class="pair"><a href="clusters/subcultural-vocabulary-and-platform-language.png"><img src="clusters/subcultural-vocabulary-and-platform-language.png" alt="Subcultural Vocabulary and Platform Language, binnen" loading="lazy"></a><a href="clusters/subcultural-vocabulary-and-platform-language-buiten.png"><img src="clusters/subcultural-vocabulary-and-platform-language-buiten.png" alt="Subcultural Vocabulary and Platform Language, naar buiten" loading="lazy"></a></div>
+<h3>Entries: alle relaties, ook buiten het cluster</h3><table class="e"><tr><th>entry (relatiekaart)</th><th class="n">sterk</th><th class="n">gedragen</th><th class="n">genoemd</th><th class="n">kandidaten</th></tr>
+<tr><td><a href="relatiekaart-Algospeak.html">Algospeak</a></td><td class="n">1</td><td class="n">4</td><td class="n">4</td><td class="n">2</td></tr>
+<tr><td><a href="relatiekaart-Aurafarming.html">Aurafarming</a></td><td class="n">1</td><td class="n">3</td><td class="n">6</td><td class="n">2</td></tr>
+<tr><td><a href="relatiekaart-Chad.html">Chad</a></td><td class="n">0</td><td class="n">2</td><td class="n">4</td><td class="n">1</td></tr>
+<tr><td><a href="relatiekaart-Coded -Pilled.html">Coded -Pilled</a></td><td class="n">0</td><td class="n">3</td><td class="n">5</td><td class="n">1</td></tr>
+<tr><td><a href="relatiekaart-Cooked.html">Cooked</a></td><td class="n">1</td><td class="n">1</td><td class="n">4</td><td class="n">1</td></tr>
+<tr><td><a href="relatiekaart-Crash-out.html">Crash-out</a></td><td class="n">0</td><td class="n">3</td><td class="n">6</td><td class="n">1</td></tr>
+<tr><td><a href="relatiekaart-Gooner.html">Gooner</a></td><td class="n">0</td><td class="n">3</td><td class="n">5</td><td class="n">2</td></tr>
+<tr><td><a href="relatiekaart-Main Character Energy.html">Main Character Energy</a></td><td class="n">1</td><td class="n">7</td><td class="n">3</td><td class="n">3</td></tr>
+<tr><td><a href="relatiekaart-Ratio&#x27;d.html">Ratio&#x27;d</a></td><td class="n">1</td><td class="n">2</td><td class="n">6</td><td class="n">2</td></tr>
+<tr><td><a href="relatiekaart-Tierlists S-Tier.html">Tierlists S-Tier</a></td><td class="n">0</td><td class="n">4</td><td class="n">2</td><td class="n">1</td></tr>
+</table>
+<h3>Voorstellen (3)</h3><table class="v"><tr><th>paar</th><th>blok</th><th>voorstel</th><th>toelichting</th></tr>
+<tr class="bA"><td>Chad — Manosphere</td><td>A</td><td>link</td><td>Origin: manosphere</td></tr>
+<tr class="bA"><td>Coded -Pilled — The Matrix</td><td>A</td><td>link</td><td>Origin: The Matrix</td></tr>
+<tr class="bC"><td>Blackpill — Coded -Pilled</td><td>C</td><td>alleen Related terms</td><td>-pilled komt van de pil</td></tr>
+</table>
+<details><summary>Leeslijst dezelfde situatie (7): twee termen met drie of meer gemeenschappelijke buren, nog niet verbonden</summary><ul>
+<li>Main Character Energy — Tierlists S-Tier · 3 gedeeld: Aurafarming, Comparison Culture, Situated Knowledge</li>
+<li>Main Character Energy — Ratio&#x27;d · 3 gedeeld: Attention Economy, Comparison Culture, Crash-out</li>
+<li>Gooner — Main Character Energy · 3 gedeeld: Attention Economy, Crash-out, JOMO</li>
+<li>Aurafarming — Ratio&#x27;d · 3 gedeeld: Attention Economy, Comparison Culture, Crash-out</li>
+<li>Aurafarming — Gooner · 3 gedeeld: Attention Economy, Crash-out, JOMO</li>
+<li>Algospeak — Crash-out · 3 gedeeld: Deplatforming, Ragebaiting, Ratio&#x27;d</li>
+<li>Algospeak — Cooked · 3 gedeeld: Deplatforming, Ragebaiting, Ratio&#x27;d</li>
+</ul></details>
+</body></html>
