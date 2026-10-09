@@ -17,7 +17,7 @@ analysis_version: pending
 
 **The Appeal:** The need is real. People feel overwhelmed, distracted, unable to focus. A **digital detox** offers relief — structured, temporary, achievable. For many people, it works. Some evidence supports limits on certain types of screen use, particularly late at night.
 
-**The Friction:** The frame systematically excludes the more important question: not *how much* but *designed by whom*. [[Attention Harvesting]] — the systematic extraction of human focus for commercial purposes — is what makes the detox feel necessary. [[Predatory Design]] — interfaces built to maximise time-on-platform — is what the detox tries to escape. Neither is addressed by going offline for a weekend. The platform is unchanged when you return.
+**The Friction:** The frame systematically excludes the more important question: not *how much* but *designed by whom*. [[Attention Harvesting]] — the systematic extraction of human focus for commercial purposes — is what makes the detox feel necessary. [[Predatory Design]] — interfaces built to maximise time-on-platform — is what the detox tries to escape. The pull does not stop when the phone is away. Van Iperen (2026) describes a notification sound in a room breaking her concentration, although her own phone was always on silent. The reflex was trained by [[Dopamine Feedback Loops]], rewards that arrive at unpredictable moments and make checking hard to stop. Neither is addressed by going offline for a weekend. The platform is unchanged when you return.
 
 The detox is also distributed by the platforms it critiques. The retreat gets booked online. The experience gets posted. The resistance becomes content. Syvertsen and Enli name this as recuperation: the system absorbs its own criticism.
 
@@ -33,5 +33,6 @@ The Dutch school phone ban made the detox a rule, and showed whom it suits. Sinc
 - [Digital detox: Media resistance and the promise of authenticity](https://www.researchgate.net/publication/333171827_Digital_detox_Media_resistance_and_the_promise_of_authenticity) — Syvertsen, T. & Enli, G. (2019). *# Convergence The International Journal of Research into New Media Technologies*
 - [Media Resistance: Protest, Dislike, Abstention](https://www.researchgate.net/publication/315793095_Media_Resistance_Protest_Dislike_Abstention) — Syvertsen, T. (2017). *Springer Nature*
 - [Radboud: mobiel uit de klas heeft positieve effecten, maar ook nadelen](https://nos.nl/artikel/2521561-radboud-mobiel-uit-de-klas-heeft-positieve-effecten-maar-ook-nadelen) — NOS (2024, 23 May). *NOS*
+- [Big Tech maakt van burgers vee](https://www.vn.nl/op-afstand-gestuurde-mens) — Van Iperen, R. (2026). *Vrij Nederland*, 9 juli
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

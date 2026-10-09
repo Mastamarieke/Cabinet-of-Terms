@@ -17,7 +17,7 @@ analysis_version: pending
 
 **The Appeal:** **AI literacy** is framed as both civic necessity and professional advantage. In education, it offers a way to engage with AI tools critically rather than passively. For policymakers, it underpins informed regulation. The concept is widely supported because it is genuinely useful.
 
-**The Friction:** The term risks being emptied of content. "**AI literacy**" in many educational and corporate contexts means using AI tools confidently — which is proficiency, not literacy. [[AI Hallucination]] — fluently false output — and [[Sycophancy (AI)]] — structured agreement with user premises — are exactly the failure modes that literacy should address. But if literacy reduces to tool use, these remain invisible. [[AI Dependency]] — structural reliance without critical reflection — is what low-literacy AI adoption produces at scale.
+**The Friction:** The term risks being emptied of content. "**AI literacy**" in many educational and corporate contexts means using AI tools confidently — which is proficiency, not literacy. Companies have hired for that proficiency. In 2023, job postings for [[Prompt Engineer|prompt engineers]], people paid to write the instructions that get reliable output from a model, offered salaries of up to $335,000. That same year, [[Zhou-AINinja-2023|Zhou et al. (2023)]] had a model write its own instructions, and it matched or beat the human ones on 19 of 24 tasks. [[AI Hallucination]] — fluently false output — and [[Sycophancy (AI)]] — structured agreement with user premises — are exactly the failure modes that literacy should address. But if literacy reduces to tool use, these remain invisible. [[AI Dependency]] — structural reliance without critical reflection — is what low-literacy AI adoption produces at scale.
 
 **Why This Matters:** **AI literacy** is the term that most directly determines whether the other terms in this cluster are legible. Without it, hallucination is just an error, sycophancy is just a feature, and dependency is just efficiency.
 
@@ -28,4 +28,6 @@ analysis_version: pending
 **Read more:**
 - [Artificial Unintelligence](https://mitpress.mit.edu/9780262537018/artificial-unintelligence/) — Broussard, M. (2018). *MIT Press*
 - [What is AI Literacy? Competencies and Design Considerations](https://scholar.google.com/scholar?q=What+is+AI+Literacy+Competencies+and+Design+Considerations) — Long & Magerko (2020), ACM CHI
+- [[Zhou-AINinja-2023|Zhou et al. (2023)]] — [Large Language Models Are Human-Level Prompt Engineers](https://arxiv.org/abs/2211.01910). *ICLR 2023*
+
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>
