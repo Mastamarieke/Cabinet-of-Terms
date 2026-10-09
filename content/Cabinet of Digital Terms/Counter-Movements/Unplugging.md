@@ -11,7 +11,7 @@ analysis_version: pending
 
 **Literal meaning:** **Unplugging** describes the deliberate disconnection from digital devices and networks — turning off, logging out, and stepping away from screens. The term is metaphorical: it references the physical act of disconnecting a device from its power source, applied to the social and informational networks that sustain digital life.
 
-**Origin:** The term entered digital culture vocabulary in the early 2010s, as smartphone ubiquity made constant connectivity the default and disconnection became a conscious choice requiring a name. It sits within the broader vocabulary of digital resistance — alongside [[Digital Detox|digital detox]], [[Slow Media|slow media]], and tech-free challenges — and shares their structural paradox.
+**Origin:** The term entered digital culture vocabulary in the early 2010s, as smartphone ubiquity made constant connectivity the default and disconnection became a conscious choice requiring a name. It sits within the broader vocabulary of digital resistance — alongside [[Digital Detox|digital detox]], [[Slow Media|slow media]], and [[Tech-Free Challenge|tech-free challenges]] — and shares their structural paradox.
 
 > Deliberate disconnection from digital networks — a practice that often generates content about disconnection.
 

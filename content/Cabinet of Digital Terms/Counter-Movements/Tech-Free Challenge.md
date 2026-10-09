@@ -17,7 +17,7 @@ analysis_version: pending
 
 **The Appeal:** The challenge format works. It creates accountability, community, and a defined endpoint. For participants, even a short break from social media or smartphones produces documented reductions in stress and improvements in mood. The experience is real, the benefits are measurable, and the social dimension — doing it with others — enhances adherence.
 
-**The Friction:** The completion of the challenge is designed to be shared. The documentation is the product. [[Gamification Creep]] — game mechanics applied to non-game contexts — describes exactly what the challenge format does: it turns a behaviour into a scored, time-limited, socially visible game. [[Attention Economy]] profits from the challenge content as much as from any other content. [[Digital Detox]] is the longer-form version of the same logic; the **tech-free challenge** is its gamified, compressed, and more viral expression. The mechanism of recuperation is particularly visible here: the critique of platform use becomes a platform-optimised content format.
+**The Friction:** The completion of the challenge is designed to be shared. The documentation is the product. [[Gamification Creep]] — game mechanics applied to non-game contexts — describes exactly what the challenge format does: it turns a behaviour into a scored, time-limited, socially visible game. [[Attention Economy]] profits from the challenge content as much as from any other content. [[Digital Detox]] is the longer-form version of the same logic; the **tech-free challenge** is its gamified, compressed, and more viral expression. Abstinence without an end date looks different: the Luddite Club, a group of New York teenagers with flip phones, meets every Sunday in Prospect Park to read, make things and talk ([Kliger, 2024](https://www.cbsnews.com/newyork/news/nyc-students-no-technology-luddite-club/)). The mechanism of recuperation is particularly visible here: the critique of platform use becomes a platform-optimised content format.
 
 **Why This Matters:** The **tech-free challenge** makes visible how resistance to platforms is continuously reabsorbed as platform content. The format that spreads best is the format that works best for the platform — regardless of what the format is about.
 
@@ -28,6 +28,7 @@ analysis_version: pending
 **Read more:**
 - [Disconnect to Reconnect: Your Path to Physical and Mental Wellbeing](https://www.researchgate.net/publication/382547447_Disconnect_to_Reconnect_Your_Path_to_Physical_and_Mental_Wellbeing) — Bhatt, A. (2017). *Social Media + Society*
 - [Does putting down your smartphone make you happier? the effects of restricting digital media on well-being](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11472914/) — Wilmer, H.H. et al. (2024). *PLOS ONE*
-- [https://oudersenonderwijs.nl/en/mobile-phone-ban/]
-(https://oudersenonderwijs.nl/en/mobile-phone-ban/) *Ouders en Onderwijs*
+- [Mobile phone ban in class: what are the rules?](https://oudersenonderwijs.nl/en/mobile-phone-ban/) — Ouders & Onderwijs (n.d.)
+- [Here's why a group of NYC teens is rejecting cellphones and social media](https://www.cbsnews.com/newyork/news/nyc-students-no-technology-luddite-club/) — Kliger, H. (2024, 7 October). *CBS New York*
+
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>
