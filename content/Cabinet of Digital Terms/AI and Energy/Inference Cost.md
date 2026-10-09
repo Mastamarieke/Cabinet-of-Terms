@@ -9,7 +9,7 @@ analysis_version: pending
 
 ***Every question has a bill. Small per query. Enormous in aggregate.***
 
-**Literal meaning:** The energy consumed each time a trained AI model generates a response. Inference — applying a model to new input — is distinguished from training — building the model. The cost per query is small. Multiplied across hundreds of millions of daily queries, it is not.
+**Literal meaning:** The energy consumed each time a trained AI model generates a response. Inference — applying a model to new input — is distinguished from [[Training Run|training]] — building the model. The cost per query is small. Multiplied across hundreds of millions of daily queries, it is not.
 
 **Origin:** The term is native to machine learning engineering. Its emergence as a public accountability concept followed the rapid scaling of AI usage from 2022 onward. Researcher Alex de Vries published the first systematic estimates of cumulative inference energy demand in *Joule* in 2023, bringing the figure into public and policy debate.
 

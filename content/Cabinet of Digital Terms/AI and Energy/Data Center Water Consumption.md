@@ -20,7 +20,7 @@ The activist Aurora Gómez of this collective notes that even local mayors have 
 
 **The Friction:** The geography is what the term makes visible. [[Sacrifice Zones]] — areas bearing disproportionate environmental burdens of digital infrastructure — are often chosen precisely because land, water, and regulatory costs are low. [[Digital Colonialism]] describes what happens when global AI demand is routed through regions with limited political leverage to resist it. The water leaves the local watershed. The AI output goes elsewhere. It happens in wet countries too. Microsoft's data centre in Middenmeer, in the Dutch province of North Holland, used 84 million litres of drinking water for cooling in 2021, more than four times the 12 to 20 million litres that Microsoft and the municipality of Hollands Kroon had cited. The figure came out in August 2022, in a summer of drought.
 
-**Why This Matters:** Water consumption breaks the abstraction of the cloud more viscerally than electricity statistics. A river is a place. A drought is experienced by people. *Tu Nube Seca Mi Río* names it in four words.
+**Why This Matters:** Water consumption breaks the abstraction of the cloud more viscerally than [[AI Energy Consumption|electricity statistics]]. A river is a place. A drought is experienced by people. *Tu Nube Seca Mi Río* names it in four words.
 
 **Related terms:** [[AI Energy Consumption]] · [[Externalized Costs]] · [[Sacrifice Zones]] · [[Digital Colonialism]] · [[Greenwashing]] · [[Training Run]] · [[Tu Nube Seca Mi Río]] · [[Digital Hoarding]]
 

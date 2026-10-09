@@ -9,7 +9,7 @@ analysis_version: pending
 
 ***Every question you ask a model costs electricity. The bill goes somewhere. Not to you.***
 
-**Literal meaning:** The total electricity required to build and run AI systems — from training models to answering individual queries.
+**Literal meaning:** The total electricity required to build and run AI systems — from [[Training Run|training models]] to [[Inference Cost|answering individual queries]].
 
 **Origin:** The scale of AI's energy use became publicly legible in 2019, when researcher Emma Strubell and colleagues at the University of Massachusetts measured the carbon cost of training a single large language model — comparable to the lifetime emissions of five cars. Since then, models have grown dramatically larger, and energy has moved from a footnote to a central controversy.
 
