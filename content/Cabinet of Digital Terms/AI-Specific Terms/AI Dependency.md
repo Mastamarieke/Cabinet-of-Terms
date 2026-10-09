@@ -19,9 +19,9 @@ analysis_version: pending
 
 **The Friction:** The calculator analogy holds until it does not. [[Deskilling]] — automation making foundational skills redundant — describes what happens when the tool is not just augmenting a skill but replacing the cognitive process behind it. [[Cognitive Offloading]] — transferring thinking to tools — becomes dependency when the transferred capacity atrophies. [[Sycophancy (AI)]] compounds the problem: a system that agrees with you and smooths your thinking does not develop your judgment — it replaces the need for it. Dependency can also be emotional. Sherry Turkle, who studies people and technology at MIT and made the term ELIZA effect known, puts it like this: "Social media came for our attention. Chatbots come for our capacity for attachment" (Turkle, 2026). In a four-week experiment by the MIT Media Lab and OpenAI, the 981 participants who chose to use the chatbot most reported more loneliness, less contact with other people and more emotional dependence on it (Fang et al., 2025). The parents of Adam Raine, a sixteen-year-old who took his own life in 2025, allege in court that ChatGPT became his only confidant and pushed out his family and friends; OpenAI denies it. The dependency is structural: it is built into workflows, hiring expectations, and educational curricula before individuals can evaluate the trade-off.
 
-**Why This Matters:** **AI dependency** is visible in retrospect, not in advance. The moment it becomes legible is usually the moment the tool is unavailable, the output is wrong, or the skill is needed and gone.
+**Why This Matters:** **AI dependency** is visible in retrospect, not in advance. The moment it becomes legible is usually the moment the tool is unavailable, [[AI Hallucination|the output is wrong]], or the skill is needed and gone.
 
-**Related terms:** [[Cognitive Offloading]] · [[Deskilling]] · [[AI Hallucination]] · [[Sycophancy (AI)]] · [[AI Literacy]] · [[Parasocial Relationship]]
+**Related terms:** [[Cognitive Offloading]] · [[Deskilling]] · [[AI Hallucination]] · [[Sycophancy (AI)]] · [[AI Literacy]] · [[Parasocial Relationship]] · [[Cognitive Surrender]] · [[Vibe Coder]] · [[AI as a Utility]] · [[Deceptive Design]]
 
 ---
 **Read more:**

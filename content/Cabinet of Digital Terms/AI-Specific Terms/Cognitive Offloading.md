@@ -17,16 +17,17 @@ analysis_version: pending
 
 **The Appeal:** **Cognitive offloading** is not a failure — it is how humans have always extended capability. Writing is **cognitive offloading**. So is arithmetic. The calculator did not destroy mathematical thinking; it redirected it toward higher-order problems. AI tools can do the same.
 
-**The Friction:** The extended mind thesis cuts both ways. Clark and Chalmers argued that external tools become part of cognition when they are reliable, accessible, and trusted. AI tools meet all three conditions — which means dependency forms faster and runs deeper. [[Deskilling]] describes the outcome when offloaded tasks atrophy: the capacity does not return when the tool is removed. [[AI Hallucination]] introduces a specific risk: offloading to a system that produces fluently false outputs means the cognitive work of verification also disappears. [[AI Dependency]] is **cognitive offloading** at structural scale — where the tool is no longer an extension of thinking but a replacement for it.
+**The Friction:** The extended mind thesis cuts both ways. Clark and Chalmers argued that external tools become part of cognition when they are reliable, accessible, and trusted. AI tools meet all three conditions — which means dependency forms faster and runs deeper. [[Deskilling]] describes the outcome when offloaded tasks atrophy: the capacity does not return when the tool is removed. [[AI Hallucination]] introduces a specific risk: offloading to a system that produces fluently false outputs means the cognitive work of verification also disappears. A survey of 319 knowledge workers found that the more they trusted the AI, the less critical thinking they applied, and the more they trusted their own knowledge, the more they checked ([Lee et al., 2025](https://doi.org/10.1145/3706598.3713778)). Checking requires knowing how such systems are trained and where they fail, which is what [[AI Literacy]] means. [[AI Dependency]] is **cognitive offloading** at structural scale — where the tool is no longer an extension of thinking but a replacement for it.
 
 **Why This Matters:** **Cognitive offloading** is not new. What is new is the scope: AI tools can now take on reasoning, judgment, and synthesis — not just memory and calculation. The question is not whether to offload, but which capacities you can afford to let atrophy.
 
-**Related terms:** [[AI Dependency]] · [[Deskilling]] · [[AI Hallucination]] · [[Sycophancy (AI)]] · [[AI Literacy]]
+**Related terms:** [[AI Dependency]] · [[Deskilling]] · [[AI Hallucination]] · [[Sycophancy (AI)]] · [[AI Literacy]] · [[Cognitive Surrender]] · [[Digital Amnesia]] · [[AI as a Utility]]
 
 
 ---
 **Read more:**
 - [The Extended Mind](https://academic.oup.com/analysis/article-abstract/58/1/7/153111) — Clark & Chalmers (1998), Analysis
 - [Cognitive offloading](https://pubmed.ncbi.nlm.nih.gov/27542527/) — Risko & Gilbert (2016)
+- [The Impact of Generative AI on Critical Thinking](https://doi.org/10.1145/3706598.3713778) — Lee, H.-P., Sarkar, A., Tankelevitch, L., et al. (2025). *CHI '25*
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>
