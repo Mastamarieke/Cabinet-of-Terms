@@ -15,7 +15,7 @@ analysis_version: pending
 
 > A platform metric repurposed as a social verdict — where significantly more replies than likes signals public rejection.
 
-**The Appeal:** **Ratio'd** gives the crowd a legible verdict mechanism. In contexts where a public statement is genuinely wrong, harmful, or dishonest, the ratio functions as real-time public accountability: the community's rejection is visible and quantified. It can produce genuine consequences for public figures who would otherwise face no accountability for bad-faith statements.
+**The Appeal:** **Ratio'd** gives the crowd a legible verdict mechanism. In contexts where a public statement is genuinely wrong, harmful, or dishonest, the ratio functions as real-time public accountability: the community's rejection is visible and quantified. It can produce genuine consequences for public figures who would otherwise face no accountability for bad-faith statements. In December 2022 Andrew Tate tagged Greta Thunberg in a boast about his 33 cars; her one-line reply drew nearly 4 million likes, one of the most-liked tweets ever ([Mollman, 2022](https://www.fortune.com/2022/12/31/gen-z-climate-activist-greta-thunbergs-putdown-of-macho-troll-andrew-tate-has-quickly-become-one-of-the-most-liked-tweets-ever)).
 
 **The Friction:** Two analytically distinct mechanisms share the term. The *organic ratio* emerges when critical responses genuinely outpace positive ones — a real signal of community disagreement. The *active ratio* is a coordinated campaign: a mobilised group deliberately replies to a post to drive the ratio down — a weapon rather than a verdict. The distinction matters. [[Ragebaiting]] produces organic ratios as a side effect; active ratioing is a harassment technique. [[Deplatforming]] and coordinated dogpiling often deploy active ratioing as part of a suppression campaign. The metric is visible, but the mechanism producing it — genuine disapproval or coordinated attack — is not.
 
@@ -28,5 +28,6 @@ analysis_version: pending
 **Read more:**
 - [Morally Motivated Networked Harassment as Normative Reinforcement](https://journals.sagepub.com/doi/10.1177/20563051211021378) — Marwick, A. E. (2021), _Social Media + Society_.
 - [Ratioing the President: An Exploration of Public Engagement With Obama and Trump on Twitter](https://pmc.ncbi.nlm.nih.gov/articles/PMC8046224/) — Minot, J. R. et al. (2021), _PLOS ONE_.
+- [Greta Thunberg's putdown of macho troll Andrew Tate has quickly become one of the most-liked tweets ever](https://www.fortune.com/2022/12/31/gen-z-climate-activist-greta-thunbergs-putdown-of-macho-troll-andrew-tate-has-quickly-become-one-of-the-most-liked-tweets-ever) — Mollman, S. (2022, 31 December). *Fortune*
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

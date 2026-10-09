@@ -114,3 +114,23 @@ A study of Reddit's quarantine of r/TheRedPill and r/Braincels on 28 September 2
 ### Related entries
 
 - [[Red Pill]] — what removing a forum does and does not do
+
+---
+
+## 7. The Kamala Harris coconut tree meme, explained as best we can
+
+**Author:** Lexie Schapitl
+**Year:** 2024
+**Type:** Journalism
+**Publisher:** *NPR*, 21 July 2024
+**URL:** https://www.npr.org/2024/07/21/g-s1-12556/kamala-harris-coconut-tree-meme-context-unburdened
+
+### What this source contributes
+
+How a line from a May 2023 speech by Kamala Harris became a meme when she ran for president in 2024, remixed into songs and fan fiction; Democratic operatives described themselves as "coconut-pilled". Evidence that the suffix taken from the red pill has reached mainstream politics, used ironically and with approval. Also the source behind game card 234.
+
+### Related entries
+
+- [[Red Pill]] — the phrase as a suffix for any conversion
+- [[Coded -Pilled]] — the suffix in mainstream politics
+

@@ -28,7 +28,7 @@ The decline-porn case has a geopolitical actor behind it; **ragebaiting** does n
 
 **Why This Matters:** **Ragebaiting** makes visible that your anger is a product. The provocation was designed for a metric. Once you know that, the outrage is still real — but the question of who benefits from it is worth asking.
 
-**Related terms:** [[Clickbait]] · [[Biometric Surveillance]] · [[Recommender Systems]] · [[Flood the Zone]] · [[Dehumanization]] · [[Great Replacement]] · [[Attention Economy]] · [[Wellness-to-Alt-Right Pipeline]] · [[Bot Farms]] · [[Fact Checker]] · [[Empathy Exploit]]
+**Related terms:** [[Clickbait]] · [[Biometric Surveillance]] · [[Recommender Systems]] · [[Flood the Zone]] · [[Dehumanization]] · [[Great Replacement]] · [[Attention Economy]] · [[Wellness-to-Alt-Right Pipeline]] · [[Bot Farms]] · [[Fact Checker]] · [[Empathy Exploit]] · [[Ratio'd]]
 
 
 ---

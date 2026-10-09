@@ -23,7 +23,7 @@ attention_moments:
 
 ***A film about escaping a false reality, repurposed as a metaphor for discovering that women have too many rights.***
 
-**Literal meaning:** In [[Manosphere|manosphere]] communities, taking the **red pill** means accepting what they present as the truth about gender relations: that feminism has rigged the social and legal system against men, that women's behaviour is governed by [[Hypergamy]] and [[SMV (Sexual Market Value)]], and that mainstream society hides this. The metaphor brings its structure with it: one moment of waking, a before and an after, and a world split into those who see and those who sleep.
+**Literal meaning:** In [[Manosphere|manosphere]] communities, taking the **red pill** means accepting what they present as the truth about gender relations: that feminism has rigged the social and legal system against men, that women's behaviour is governed by [[Hypergamy]] and [[SMV (Sexual Market Value)]], and that mainstream society hides this. The metaphor brings its structure with it: one moment of waking, a before and an after, and a world split into those who see and those who sleep. The phrase has since become a suffix, [[Coded -Pilled|-pilled]], used for any conversion, down to the "coconut-pilled" Democrats of Kamala Harris's 2024 campaign ([[Secondary-RedPill|Schapitl, 2024]]).
 
 **Origin:** The metaphor comes from [[The Matrix]] (1999), where the red pill wakes you from a comfortable illusion. In 2020 Lilly Wachowski, one of its two creators, both trans women, said the film's "original intention" was a trans allegory: liberation from an imposed identity ([[Secondary-RedPill|Fitzsimons (2020)]]). The manosphere took the opposite meaning. Its best-known forum, r/TheRedPill, was created and run under a pseudonym by Robert Fisher, a Republican member of the New Hampshire House of Representatives, until the *Daily Beast* unmasked him in 2017 and he resigned.
 
@@ -35,7 +35,7 @@ attention_moments:
 
 **Why This Matters:** **Red pill** makes visible how a metaphor for seeing clearly becomes a framework for seeing women as adversaries and institutions as enemies.
 
-**Related terms:** [[The Matrix]] · [[Tradwife]] · [[High Value Man]] · [[SMV (Sexual Market Value)]] · [[Stay-at-home Girlfriend (SAHG)]] · [[Manosphere]] · [[Blackpill]] · [[Incel]] · [[Alpha Male]] · [[Hypergamy]] · [[Recommender Systems]] · [[Great Replacement]] · [[QAnon]] · [[Deplatforming]] · [[MGTOW]] · [[NPC]] · [[Adolescence (Netflix, 2025)]]
+**Related terms:** [[The Matrix]] · [[Tradwife]] · [[High Value Man]] · [[SMV (Sexual Market Value)]] · [[Stay-at-home Girlfriend (SAHG)]] · [[Manosphere]] · [[Blackpill]] · [[Incel]] · [[Alpha Male]] · [[Hypergamy]] · [[Recommender Systems]] · [[Great Replacement]] · [[QAnon]] · [[Deplatforming]] · [[MGTOW]] · [[NPC]] · [[Adolescence (Netflix, 2025)]] · [[Coded -Pilled]]
 
 ---
 **Read more:**
@@ -45,6 +45,6 @@ attention_moments:
 - [[VanVeeren-RedPill-2026|Van Veeren, Moerking & Dryer (2026)]] — [Taking the red pill: conspiracy theories, gender, and the "elusive epistemologies" of the "manosphere"](https://doi.org/10.1080/14616742.2026.2646522). *International Feminist Journal of Politics*
 
 *Secondary:*
-- [[Secondary-RedPill|Daily Beast (2017) · Boston Globe (2017) · Fitzsimons (2020) · Marwick & Lewis (2017) · Ging (2019) · Copland (2020)]] — journalism, a research report and theory
+- [[Secondary-RedPill|Daily Beast (2017) · Boston Globe (2017) · Fitzsimons (2020) · Marwick & Lewis (2017) · Ging (2019) · Copland (2020) · Schapitl (2024)]] — journalism, a research report and theory
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>
