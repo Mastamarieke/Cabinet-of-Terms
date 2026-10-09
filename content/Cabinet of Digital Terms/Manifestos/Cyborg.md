@@ -9,7 +9,7 @@ analysis_version: pending
 
 ***Haraway wrote it in 1985. She was not describing a machine. She was describing a politics.***
 
-**Literal meaning:** In **Donna Haraway**'s 1985 *Cyborg Manifesto*, a **cyborg** is a hybrid of organism and machine — a figure that refuses the boundary between human and animal, human and machine, physical and non-physical. For **Haraway**, the **cyborg** is a political metaphor: the boundary that defines "the human" is not natural but constructed, and its construction serves particular power interests.
+**Literal meaning:** In **Donna Haraway**'s 1985 *Cyborg Manifesto*, a **cyborg** is a hybrid of organism and machine — a figure that refuses the boundary between human and animal, human and machine, physical and non-physical. For **Haraway**, the **cyborg** is a political metaphor: the boundary that defines "the human" is not natural but constructed, and its construction serves particular power interests. Like Frankenstein's monster, the **cyborg** is a made creature that crosses the line between human and machine, but **Haraway** reads that crossing the other way. The monster wants his maker, Victor Frankenstein, to make him whole by giving him a mate; the **cyborg** "does not expect its father to save it" (Haraway, 1985). [[Digital Frankenstein]] tells the crossing as a danger; **Haraway** treats it as a chance to question the boundary.
 
 **Origin:** **Haraway**'s essay — originally published as "A Manifesto for Cyborgs: Science, Technology, and Socialist Feminism in the 1980s" in *Socialist Review* — is one of the most cited texts in feminist science and technology studies. She argued that the late 20th century had produced a blurring of three boundaries previously treated as fixed: human/animal, human/machine, physical/non-physical. The **cyborg** was her figure for this blurring — and a political opportunity: if the boundaries are constructed, they can be contested.
 
@@ -21,7 +21,7 @@ analysis_version: pending
 
 **Why This Matters:** **Cyborg** makes visible how a critical concept can be aesthetically absorbed while its politics are discarded. The boundary-crossing imagery survived. The challenge to power did not.
 
-**Related terms:** [[Cyborg Musk]] · [[Situated Knowledge]] · [[Informatics of Domination]] · [[Cyberfeminism]] · [[Transhumanism]] · [[Digital Libertarianism]]
+**Related terms:** [[Cyborg Musk]] · [[Situated Knowledge]] · [[Informatics of Domination]] · [[Cyberfeminism]] · [[Transhumanism]] · [[Digital Libertarianism]] · [[Digital Frankenstein]]
 
 
 ---

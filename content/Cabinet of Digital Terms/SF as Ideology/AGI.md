@@ -17,11 +17,11 @@ analysis_version: pending
 
 **The Appeal:** AGI provides a goal state that gives the work of AI development cosmological significance. If you are building AGI, you are not building a chatbot — you are working on the most consequential technology in history. The concept aligns the interests of researchers, investors, and policy makers around a shared vocabulary.
 
-**The Friction:** The threshold is definitionally unstable. Each time current AI capabilities are described as AGI, the definition shifts: AGI becomes what AI cannot yet do. This moving target serves commercial interests — the closer you claim to be to AGI, the more fundable your work is. [[The Singularity]] depends on AGI as a precursor. [[Mythos Moment]] is the specific threshold where a model is judged too capable or dangerous to release — a governance concept that presupposes an AGI-like capability threshold. [[Longtermism]] uses AGI as the event whose scale justifies present sacrifice. The contested definition means the concept simultaneously mobilises urgency and resists evaluation.
+**The Friction:** The threshold is definitionally unstable. Each time current AI capabilities are described as AGI, the definition shifts: AGI becomes what AI cannot yet do. This moving target serves commercial interests — the closer you claim to be to AGI, the more fundable your work is. In the contract between Microsoft and OpenAI the threshold has a price: OpenAI reaches AGI only when its systems can generate at least $100 billion in profits, according to a 2024 report by *The Information* ([TechCrunch, 2024](https://techcrunch.com/2024/12/26/microsoft-and-openai-have-a-financial-definition-of-agi-report/)). [[The Singularity]] depends on AGI as a precursor. [[Mythos Moment]] is the specific threshold where a model is judged too capable or dangerous to release — a governance concept that presupposes an AGI-like capability threshold. [[Longtermism]] uses AGI as the event whose scale justifies present sacrifice. The contested definition means the concept simultaneously mobilises urgency and resists evaluation.
 
 **Why This Matters:** AGI names a threshold that everyone agrees matters and nobody agrees how to measure. Once you see that ambiguity as functional — not accidental — the race toward AGI is legible as a race to claim a prize whose rules have not been written.
 
-**Related terms:** [[The Singularity]] · [[Digital Frankenstein]] · [[Mythos Moment]] · [[Longtermism]] · [[Doomerism]] · [[AI Literacy]] · [[AI as a Utility]] · [[Red Teamer]]
+**Related terms:** [[The Singularity]] · [[Digital Frankenstein]] · [[Mythos Moment]] · [[Longtermism]] · [[Doomerism]] · [[AI Literacy]] · [[AI as a Utility]] · [[Red Teamer]] · [[Skynet]]
 
 
 ---
@@ -34,5 +34,6 @@ analysis_version: pending
 - [Three Observations](https://blog.samaltman.com/three-observations) — Altman, S. (2025). _Sam Altman Blog_
 - [Position: Stop treating ‘AGI’ as the north-star goal of AI research](https://proceedings.mlr.press/v267/blili-hamelin25a.html) — Blili-Hamelin, B. et al. (2025). _Proceedings of Machine Learning Research (ICML 2025)_
 - [What is AI? We drew you a flowchart to work it out](https://www.technologyreview.com/2018/11/10/139137/is-this-ai-we-drew-you-a-flowchart-to-work-it-out/) — Karen Hao (2018). _MIT Technology Review_
+- [Microsoft and OpenAI have a financial definition of AGI: Report](https://techcrunch.com/2024/12/26/microsoft-and-openai-have-a-financial-definition-of-agi-report/) — TechCrunch (2024, 26 December)
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

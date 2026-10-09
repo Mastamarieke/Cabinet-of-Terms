@@ -11,7 +11,7 @@ analysis_version: pending
 
 **Literal meaning:** **The Singularity** describes a hypothetical future point at which artificial intelligence surpasses human intelligence, producing an explosion of recursive self-improvement that transforms civilisation in ways that are, by definition, unpredictable from the current vantage point — hence the borrowing from mathematical singularity, where normal rules break down.
 
-**Origin:** The concept was developed by mathematician and science fiction writer Vernor Vinge in his 1993 essay "The Coming Technological Singularity" and popularised by inventor and futurist Ray Kurzweil, particularly in *The Singularity Is Near* (2005). Kurzweil predicted **the Singularity** would occur around 2045. The concept moved from SF discourse into corporate strategy and policy discussion, particularly as AI capabilities accelerated from 2020 onward. It became a funding pitch: investment in AI companies as investment in the most consequential event in human history.
+**Origin:** The concept was developed by mathematician and science fiction writer Vernor Vinge in his 1993 essay "The Coming Technological Singularity" and popularised by inventor and futurist Ray Kurzweil, particularly in *The Singularity Is Near* (2005). Kurzweil predicted **the Singularity** would occur around 2045. In a follow-up, *The Singularity Is Nearer* (2024), he kept 2029 for human-level intelligence and said he takes about 80 pills a day to stay alive until then, with cryogenic freezing as the fallback ([Stanton, 2024](https://www.pcgamer.com/software/ai/googles-ai-visionary-says-well-expand-intelligence-a-millionfold-by-2045-thanks-to-nanobots-the-tech-will-resurrect-the-dead-and-were-all-going-to-live-forever/)). That plan is [[Transhumanism]]: using technology to overcome ageing and death. The concept moved from SF discourse into corporate strategy and policy discussion, particularly as AI capabilities accelerated from 2020 onward. It became a funding pitch: investment in AI companies as investment in the most consequential event in human history.
 
 > The forecast that AI will surpass human intelligence — whose specific date keeps moving, and whose appeal does not depend on its accuracy.
 
@@ -21,12 +21,13 @@ analysis_version: pending
 
 **Why This Matters:** **The Singularity** names the rhetorical move of making AI sound inevitable and transcendent — which forecloses questions about who is building it, who benefits, and who bears the costs. Once you see the move, "**the Singularity** is near" is not a prediction. It is a political position.
 
-**Related terms:** [[AGI]] · [[Transhumanism]] · [[Longtermism]] · [[Doomerism]] · [[AI Literacy]] · [[Situated Knowledge]]
+**Related terms:** [[AGI]] · [[Transhumanism]] · [[Longtermism]] · [[Doomerism]] · [[AI Literacy]] · [[Situated Knowledge]] · [[Doom Trolling]]
 
 
 ---
 **Read more:**
 - [The Singularity Is Near](https://www.goodreads.com/book/show/83518.The_Singularity_Is_Near) — Kurzweil, R. (2005). *Viking* — influential argument that accelerating technological progress will culminate in superhuman artificial intelligence and radical transformation of human civilisation
 - [The Coming Technological Singularity](https://ntrs.nasa.gov/citations/19940022856) — Vinge, V. (1993). *NASA Technical Reports*
+- [Google's AI visionary says we'll 'expand intelligence a millionfold by 2045'](https://www.pcgamer.com/software/ai/googles-ai-visionary-says-well-expand-intelligence-a-millionfold-by-2045-thanks-to-nanobots-the-tech-will-resurrect-the-dead-and-were-all-going-to-live-forever/) — Stanton, R. (2024, 8 July). *PC Gamer*. On *The Singularity Is Nearer*
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

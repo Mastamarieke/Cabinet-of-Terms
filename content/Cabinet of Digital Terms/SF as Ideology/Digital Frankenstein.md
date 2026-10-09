@@ -15,7 +15,7 @@ analysis_version: pending
 
 Shelley’s novel is widely regarded as one of the foundational texts of science fiction and an early exploration of technological responsibility, unintended consequences, and creator accountability. In contemporary terms, it prefigures concerns now associated with AI alignment, autonomous systems, and runaway technological escalation.
 
-The **Digital Frankenstein** narrative recurs throughout the history of computing and artificial intelligence — from HAL 9000 and _The Terminator_ to contemporary debates around generative AI, AGI, autonomous weapons, and algorithmic systems that may exceed human oversight or control.
+The **Digital Frankenstein** narrative recurs throughout the history of computing and artificial intelligence — from HAL 9000 and _The Terminator_ to contemporary debates around generative AI, [[AGI]], autonomous weapons, and algorithmic systems that may exceed human oversight or control.
 
 > The recurring narrative of technology that outgrows its creator and cannot be recalled — both a cultural warning and an alibi for the people who built it.
 
@@ -25,7 +25,7 @@ The **Digital Frankenstein** narrative recurs throughout the history of computin
 
 **Why This Matters:** **Digital Frankenstein** makes visible how science fiction frames shape the reception of real technical developments. Once you can identify the narrative being deployed, you can ask: who is using it, to what end, and what is it displacing from view?
 
-**Related terms:** [[Skynet]] · [[AGI]] · [[Doomerism]] · [[AI Literacy]] · [[Red Teamer]] · [[AI Dependency]]
+**Related terms:** [[Skynet]] · [[AGI]] · [[Doomerism]] · [[AI Literacy]] · [[Red Teamer]] · [[AI Dependency]] · [[Mythos Moment]] · [[Doom Trolling]] · [[Cyborg]]
 
 ---
 **Read more:**

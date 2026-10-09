@@ -13,7 +13,7 @@ analysis_version: pending
 
 **Literal meaning:** **Doomerism** describes the fatalistic belief that catastrophic outcomes — AI extinction risk, climate collapse, civilisational breakdown — are inevitable and that meaningful prevention is impossible. The doomer accepts the disaster as given and orients their life around that acceptance: either by preparing for survival, by nihilistic withdrawal, or by focusing on personal meaning in the time remaining.
 
-**Origin:** The term developed across several communities: climate **doomerism** emerged from environmental discourse around 2018–2020, as climate scientists began documenting the inadequacy of current policy responses. AI **doomerism** developed in the effective altruism and AI safety communities, particularly associated with researchers who believe current AI trajectories lead to existential catastrophe. The broader cultural form — doomer aesthetic, doomer memes — circulated in Gen Z internet culture from around 2019.
+**Origin:** The term developed across several communities: climate **doomerism** emerged from environmental discourse around 2018–2020, as climate scientists began documenting the inadequacy of current policy responses. AI **doomerism** developed in the effective altruism and AI safety communities, particularly associated with researchers who believe current AI trajectories lead to existential catastrophe. In March 2023 Eliezer Yudkowsky, who leads research at the Machine Intelligence Research Institute, wrote in *Time* that the most likely result of building "a superhumanly smart AI", a step past [[AGI]], "is that literally everyone on Earth will die" ([Yudkowsky, 2023](https://time.com/6266923/ai-eliezer-yudkowsky-open-letter-not-enough/)). The broader cultural form — doomer aesthetic, doomer memes — circulated in Gen Z internet culture from around 2019.
 
 >a worldview characterized by pessimism, fatalism, and expectations of systemic or existential collapse; in AI discourse, associated with narratives that advanced AI could escape human control or produce catastrophic societal consequences.
 
@@ -23,11 +23,12 @@ analysis_version: pending
 
 **Why This Matters:** **Doomerism** names a political position disguised as a prediction. Once you see the political consequences of widespread fatalism — the inaction it produces — the question shifts from "is the doom probable?" to "who benefits from everyone believing it is inevitable?" That question points directly to [[Doom Trolling]]: where doomerism is a sincere affective state, doom trolling is the deliberate strategy of spreading the same narratives for market gain. The line between them is kept intentionally unclear.
 
-**Related terms:** [[Longtermism]] · [[Skynet]] · [[Digital Frankenstein]] · [[AGI]] · [[AI Literacy]] · [[Doom Trolling]] · [[Situated Knowledge]]
+**Related terms:** [[Longtermism]] · [[Skynet]] · [[Digital Frankenstein]] · [[AGI]] · [[AI Literacy]] · [[Doom Trolling]] · [[Situated Knowledge]] · [[The Singularity]] · [[e-acc (Effective Accelerationism)]] · [[Prepperism]] · [[Mythos Moment]]
 
 
 ---
 **Read more:**
+- [Pausing AI Developments Isn't Enough. We Need to Shut it All Down](https://time.com/6266923/ai-eliezer-yudkowsky-open-letter-not-enough/) — Yudkowsky, E. (2023, 29 March). *Time*; republished by the [Machine Intelligence Research Institute](https://intelligence.org/2023/04/07/pausing-ai-developments-isnt-enough-we-need-to-shut-it-all-down/)
 - [Superintelligence: Paths, Dangers, Strategies](https://global.oup.com/academic/product/superintelligence-9780199678112) — Bostrom, N. (2014). _Oxford University Press_ 
 - [The Precipice: Existential Risk and the Future of Humanity](https://www.tobyord.com/book) — Ord, T. (2020). _Bloomsbury Publishing_
 - [AI doomerism is so passé. Or is it?](https://geneticliteracyproject.org/2026/01/05/ai-doomerism-is-so-passe-or-is-it/) — Lovely, G. (2026). _MIT Technology Review / 
