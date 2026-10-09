@@ -47,6 +47,34 @@ def main():
             if broken:
                 broken_all[rel_path] = broken
 
+    # A semantic landscape lives in the frontmatter and is rendered by GraphStory.tsx, which turns
+    # **bold** term names into links and leaves [[wikilinks]] as literal text on the page. Found 09-10:
+    # Virtual Influencer had shown "[[Kim-VirtualInfluencer-2023|Kim et al. (2023)]]" for weeks, and a
+    # link added that day to High Value Man landed in its landscape. Bold the term name instead.
+    in_landscape = {}
+    for root, dirs, files in os.walk(VAULT_DIR):
+        for fname in files:
+            if not fname.endswith(".md") or fname.startswith("._"):
+                continue
+            fpath = os.path.join(root, fname)
+            with open(fpath, encoding="utf-8", errors="ignore") as f:
+                text = f.read()
+            fm = re.match(r"^---\n(.*?)\n---", text, re.DOTALL)
+            if not fm:
+                continue
+            land = re.search(r"^semantic_landscape:\s*\|\s*\n((?:[ \t]+.*\n?|\n)+)", fm.group(1), re.MULTILINE)
+            if land and "[[" in land.group(1):
+                in_landscape[os.path.relpath(fpath, VAULT_DIR)] = re.findall(r"\[\[[^\]]*\]\]", land.group(1))
+    if in_landscape:
+        print(f"{len(in_landscape)} landscape(s) with [[wikilinks]] (shown as literal text; bold the term name instead):\n")
+        for fname, links in sorted(in_landscape.items()):
+            print(f"{fname}:")
+            for l in links:
+                print(f"  {l}")
+        print()
+        if not broken_all:
+            return 1
+
     if broken_all:
         print(f"{len(broken_all)} file(s) with broken wikilinks:\n")
         for fname, links in sorted(broken_all.items()):
