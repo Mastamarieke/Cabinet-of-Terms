@@ -9,7 +9,7 @@ analysis_version: pending
 
 ***The camera does not just see you. It measures you — your face, your pace, your pulse — and stores the result.***
 
-**Literal meaning:** **Biometric surveillance** is the collection, processing, and analysis of physical or behavioural characteristics — facial features, fingerprints, iris patterns, gait, voice, heartrate — to identify, track, or make inferences about individuals. In the platform context, it includes facial recognition in consumer devices, emotion detection in advertising systems, and the use of physiological signals as engagement and targeting data.
+**Literal meaning:** **Biometric surveillance** is the collection, processing, and analysis of physical or behavioural characteristics — facial features, fingerprints, iris patterns, gait, voice, heartrate — to identify, track, or make inferences about individuals. In the platform context, it includes facial recognition in consumer devices, emotion detection in advertising systems, and the use of physiological signals as engagement data and as input for [[Microtargeting]]: what the body is taken to reveal is added to location and behaviour in the profile that decides which message a person sees.
 
 **Origin:** Biometric measurement arrived in ordinary life as authentication. Apple's Touch ID (2013) and Face ID (2017) made the body a key and kept the measurement on the device, which made the practice familiar before it became public. What has changed since is the direction it points: the same measurement that confirms a phone's owner can, turned outward, establish who a stranger is. Shoshana Zuboff (2019) placed that turn in an economic frame, with the body as a source of data that exceeds what any service needs to function.
 
