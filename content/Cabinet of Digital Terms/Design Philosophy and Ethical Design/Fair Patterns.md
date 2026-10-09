@@ -15,13 +15,13 @@ analysis_version: pending
 
 > Interface design that uses the same structural tools as **dark patterns** — defaults, friction, visual hierarchy — in the user's interest rather than against it.
 
-**The Appeal:** **Fair patterns** provide designers with a concrete vocabulary for **ethical design** that is not merely aspirational. Rather than saying "design ethically," they specify: this is what a fair cookie consent looks like; this is how a fair unsubscription flow works; this is what equal visual weight between accept and decline means. The vocabulary makes the design choice visible and therefore auditable.
+**The Appeal:** **Fair patterns** provide designers with a concrete vocabulary for [[Ethical Design]] that is not merely aspirational. Rather than saying "design ethically," they specify: this is what a fair cookie consent looks like; this is how a fair unsubscription flow works; this is what equal visual weight between accept and decline means. The vocabulary makes the design choice visible and therefore auditable.
 
 **The Friction:** **Fair patterns** require institutional conditions that commercial platforms rarely provide. [[Dark Patterns]] persist not because designers do not know what **fair patterns** look like, but because the commercial incentives consistently favour the dark alternative. [[VSD (Value Sensitive Design)]] provides the methodological framework; **fair patterns** are its application at the level of specific interface choices. The challenge is not technical knowledge but structural authority: designers need the power to implement **fair patterns** against commercial pressure. [[Deceptive Design]] is the legal category that creates consequences for not implementing them — which is currently the most effective structural driver of fair pattern adoption.
 
 **Why This Matters:** **Fair patterns** make the design alternative concrete and specific. Once you know what a fair consent dialogue looks like, you can identify every interface that falls short of it. The standard becomes visible — and the gap between the standard and the practice becomes legible as a choice.
 
-**Related terms:** [[Dark Patterns]] · [[Deceptive Design]] · [[VSD (Value Sensitive Design)]] · [[Calm Technology]] · [[Unblackboxing]]
+**Related terms:** [[Dark Patterns]] · [[Deceptive Design]] · [[VSD (Value Sensitive Design)]] · [[Calm Technology]] · [[Unblackboxing]] · [[Ethical Design]]
 
 
 ---

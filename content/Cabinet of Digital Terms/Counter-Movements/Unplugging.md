@@ -17,17 +17,17 @@ analysis_version: pending
 
 **The Appeal:** **Unplugging** is often genuinely restorative. Research on digital sabbaths, smartphone-free holidays, and structured disconnection consistently finds benefits: reduced stress, improved sleep, more present social interaction, recovery of attention. The practice works when it is practised.
 
-**The Friction:** The concept travels poorly in the attention economy. **Unplugging** as identity — *I am someone who unplugs* — generates content: the announcement, the reflection, the return. [[Attention Economy]] profits from the **unplugging** content as much as from the content preceding and following it. [[Predatory Design]] — systems engineered to maximise engagement — makes **unplugging** structurally costly: notifications accumulate, conversations are missed, algorithms deprioritise inactive accounts. The person who unplugs pays a platform-imposed penalty for the absence. The architecture is designed so that logging off has a cost — and logging back on is always the easier choice.
+**The Friction:** The concept travels poorly in the attention economy. **Unplugging** as identity — *I am someone who unplugs* — generates content: the announcement, the reflection, the return. The Offline Club in Amsterdam, where guests hand in their phones for an evening of [[IRL (In Real Life)]] — offline, in real life — became known through Instagram: in February 2024 its founders posted a few reels of their first evening, and the videos drew millions of views. [[Attention Economy]] profits from the **unplugging** content as much as from the content preceding and following it. [[Predatory Design]] — systems engineered to maximise engagement — makes **unplugging** structurally costly: notifications accumulate, conversations are missed, algorithms deprioritise inactive accounts. The person who unplugs pays a platform-imposed penalty for the absence. The architecture is designed so that logging off has a cost — and logging back on is always the easier choice.
 
 **Why This Matters:** **Unplugging** makes visible the asymmetry between presence and absence on platforms. The platform penalises absence. The resistance to that penalty is itself captured as content. The loop closes before you have left the room.
 
-**Related terms:** [[Digital Detox]] · [[Slow Media]] · [[Tech-Free Challenge]] · [[JOMO]] · [[Attention Economy]] · [[Predatory Design]] · [[Cognitive Surrender]] · [[FOMO]] · [[Mindful Scrolling]]
+**Related terms:** [[Digital Detox]] · [[Slow Media]] · [[Tech-Free Challenge]] · [[JOMO]] · [[Attention Economy]] · [[Predatory Design]] · [[Cognitive Surrender]] · [[FOMO]] · [[Mindful Scrolling]] · [[IRL (In Real Life)]]
 
 
 ---
 **Read more:**
 - [Digital detox: Media resistance and the promise of authenticity](https://www.researchgate.net/publication/333171827_Digital_detox_Media_resistance_and_the_promise_of_authenticity) — Syvertsen, T. & Enli, G. (2019). *New Media & Society*
 - [Does putting down your smartphone make you happier? the effects of restricting digital media on well-being](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11472914/) — Wilmer, H.H. et al. (2024). *PLoS ONE*
-- 
+- [This club in the Netherlands offers a much-needed break from technology](https://theworld.org/stories/2024/06/13/this-club-in-the-netherlands-offers-a-much-needed-break-from-technology) — Barry, O. (2024, 13 June). *The World (PRX)*
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

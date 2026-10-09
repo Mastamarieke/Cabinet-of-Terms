@@ -17,11 +17,11 @@ analysis_version: pending
 
 **The Appeal:** **Phatic interaction** is socially real. The like that says "I see you." The "haha" that says "I'm still here." The story view that says "I noticed." These signals are not meaningless — they do the social work of maintaining the network of weak ties that research shows is genuinely valuable. Platform architects understood this before most users did.
 
-**The Friction:** At scale, **phatic interaction** displaces substantive communication. The platform optimises for engagement volume — and phatic signals are fast, low-effort, and high-frequency. [[Dopamine Feedback Loops]] — variable reward schedules — make receiving them compelling. [[Ghosting]] — ending contact without explanation — is partly the inverse: when even phatic maintenance stops, the relationship ends without acknowledgement. [[Orbiting]] is phatic maintenance without relational commitment: watching stories, liking posts, staying present without being present. The abundance of phatic contact can mask a poverty of substantive connection.
+**The Friction:** At scale, **phatic interaction** displaces substantive communication. The platform optimises for engagement volume — and phatic signals are fast, low-effort, and high-frequency. [[Dopamine Feedback Loops]] — variable reward schedules — make receiving them compelling. [[Ghosting]] — ending contact without explanation — is partly the inverse: when even phatic maintenance stops, the relationship ends without acknowledgement. [[Orbiting]] is phatic maintenance without relational commitment: watching stories, liking posts, staying present without being present. Most users send almost nothing. Among American adults on Twitter, the most active 10% wrote 80% of all tweets, and the median user tweeted twice a month ([Wojcik & Hughes, 2019](https://www.pewresearch.org/internet/2019/04/24/sizing-up-twitter-users/)). The [[Lurker]] — someone who reads and watches without posting — is counted anyway: the platform records every view and every second of watch time. The abundance of phatic contact can mask a poverty of substantive connection.
 
 **Why This Matters:** **Phatic interaction** makes visible the gap between being connected and being in contact. A feed full of responses is not the same as a conversation. Once you know the difference, you can count one without mistaking it for the other.
 
-**Related terms:** [[Ghosting]] · [[Orbiting]] · [[Dopamine Feedback Loops]] · [[Parasocial Relationship]] · [[JOMO]] · [[Attention Economy]] · [[Cognitive Surrender]]
+**Related terms:** [[Ghosting]] · [[Orbiting]] · [[Dopamine Feedback Loops]] · [[Parasocial Relationship]] · [[JOMO]] · [[Attention Economy]] · [[Cognitive Surrender]] · [[Lurker]]
 
 
 ---
@@ -31,5 +31,6 @@ analysis_version: pending
 - [The Meaning of Meaning](https://masterdesign.wdka.nl/ditching-the-message-on-future-design-of-phatic-interactions/) —  Ogden. C.K. . Richards  I. A (2016). *Social Media + Society.*
 -  [Closing Statement: Linguistics and Poetics](https://monoskop.org/images/8/84/Jakobson_Roman_1960_Closing_statement_Linguistics_and_Poetics.pdf) — Jacobson, Roman Jacobson (1960)
 - [Phatic, the: Communication and Communion](https://anthropology.ucsd.edu/people/faculty/faculty-profiles/The_Phatic_Communication_and_Communion.pdf), Zuckerman C. (2020) *In The International Encyclopedia of Linguistic Anthropology, J. Stanlaw*
-  
+- [Sizing Up Twitter Users](https://www.pewresearch.org/internet/2019/04/24/sizing-up-twitter-users/) — Wojcik, S. & Hughes, A. (2019). *Pew Research Center*
+
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

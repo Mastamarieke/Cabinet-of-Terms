@@ -11,7 +11,7 @@ analysis_version: pending
 
 **Literal meaning:** The water used to cool data centre servers — either evaporated directly (evaporative cooling) or used to cool a secondary system. Either way, it is consumed locally, by infrastructure serving a global user base.
 
-**Origin:** Water consumption became a subject of public scrutiny around 2020–2022, as AI companies disclosed — voluntarily or under pressure — their annual water use figures. Microsoft reported consuming millions of litres in the months before releasing GPT-4. Researcher Pengfei Li and colleagues published the first systematic estimates of AI water use in a 2023 arXiv paper. The Spanish activist collective *Tu Nube Seca Mi Río* — Your Cloud Dries My River — became one of the first organised counter-voices targeting AI water use in the Global South.
+**Origin:** Water consumption became a subject of public scrutiny around 2020–2022, as AI companies disclosed — voluntarily or under pressure — their annual water use figures. Microsoft reported consuming millions of litres in the months before releasing GPT-4. Researcher Pengfei Li and colleagues published the first systematic estimates of AI water use in a 2023 arXiv paper. The Spanish activist collective [[Tu Nube Seca Mi Río]] — Your Cloud Dries My River — became one of the first organised counter-voices targeting AI water use in the Global South.
 The activist Aurora Gómez of this collective notes that even local mayors have found out about new data center projects only after agreements were finalized at the regional level and announced in the press.
 
 > The large volumes of water required to cool AI infrastructure — drawn locally, consumed invisibly, with real consequences for nearby communities.
@@ -22,7 +22,7 @@ The activist Aurora Gómez of this collective notes that even local mayors have 
 
 **Why This Matters:** Water consumption breaks the abstraction of the cloud more viscerally than electricity statistics. A river is a place. A drought is experienced by people. *Tu Nube Seca Mi Río* names it in four words.
 
-**Related terms:** [[AI Energy Consumption]] · [[Externalized Costs]] · [[Sacrifice Zones]] · [[Digital Colonialism]] · [[Greenwashing]] · [[Training Run]]
+**Related terms:** [[AI Energy Consumption]] · [[Externalized Costs]] · [[Sacrifice Zones]] · [[Digital Colonialism]] · [[Greenwashing]] · [[Training Run]] · [[Tu Nube Seca Mi Río]]
 
 
 ---

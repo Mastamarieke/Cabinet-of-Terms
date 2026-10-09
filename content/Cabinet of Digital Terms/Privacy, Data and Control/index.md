@@ -35,3 +35,9 @@ Private companies managing public infrastructure with no exit option. The contra
 
 ### [[Algorithmic Violence]]
 Harm caused by automated systems without any individual making a decision. Nobody is responsible. Everyone is affected.
+
+### [[CLOUD Act]]
+Your data is stored in Ireland. The server is owned by an American company. US law applies.
+
+### [[Brussels Effect]]
+The EU passed a law. A company in California changed its global product.

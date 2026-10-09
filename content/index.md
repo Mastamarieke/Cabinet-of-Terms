@@ -287,13 +287,15 @@ Some political vocabulary does not describe disagreements — it terminates them
 </details>
 
 <details>
-<summary><strong>Privacy, Data and Control</strong> — 8 terms</summary>
+<summary><strong>Privacy, Data and Control</strong> — 10 terms</summary>
 
 The privacy policy is forty-seven pages long. You clicked agree. So did everyone else. This cluster maps the gap between privacy rhetoric and privacy practice, and the mechanisms through which surveillance and control are exercised, obscured, or resisted.
 
 → [About this cluster](Cabinet-of-Digital-Terms/Privacy,-Data-and-Control/)
 
 - [[Algorithmic Violence]]
+- [[Brussels Effect]]
+- [[CLOUD Act]]
 - [[Data Brokers]]
 - [[Dataism]]
 - [[Privacy Washing]]

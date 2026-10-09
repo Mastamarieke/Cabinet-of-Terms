@@ -11,7 +11,7 @@ analysis_version: pending
 
 **Literal meaning:** **Longtermism** is a philosophical position — associated primarily with effective altruism philosophers William MacAskill and Toby Ord — holding that the moral weight of the far future is vastly greater than the present, because there are potentially trillions of future people whose wellbeing depends on decisions made now. On this view, preventing extinction risks is among the most important moral priorities, because it preserves the possibility of all that future value.
 
-**Origin:** The philosophical foundations were developed by Nick Bostrom and Derek Parfit (population ethics), with MacAskill and Ord bringing them into the effective altruism movement. MacAskill's *What We Owe the Future* (2022) was the mainstream introduction. The framework gained influence in Silicon Valley through its overlap with AI safety concerns and through the effective altruism movement's success in attracting tech philanthropy.
+**Origin:** The philosophical foundations were developed by Nick Bostrom and Derek Parfit (population ethics), with MacAskill and Ord bringing them into the effective altruism movement. MacAskill's *What We Owe the Future* (2022) was the mainstream introduction. The framework gained influence in Silicon Valley through its overlap with AI safety concerns and through the effective altruism movement's success in attracting tech philanthropy. In 2022 and 2023 a counter-movement formed online against this caution: [[e-acc (Effective Accelerationism)]] — effective accelerationism — wants AI developed as fast as possible and treats safety research and regulation as obstacles.
 
 > A moral framework that makes the suffering of speculative future people more important than the suffering of present people — with significant consequences for what counts as justified today.
 
@@ -21,7 +21,7 @@ analysis_version: pending
 
 **Why This Matters:** **Longtermism** names a framework that can make almost anything in the present justifiable in terms of future benefit. Once you see the structure — infinite future value discounting present harm to zero — you can identify it wherever it appears, not just in explicit EA discourse.
 
-**Related terms:** [[Doomerism]] · [[The Singularity]] · [[Transhumanism]] · [[Fortress Futurism]] · [[Situated Knowledge]] · [[Mars Colonization]] · [[Objectivism (Rand)]]
+**Related terms:** [[Doomerism]] · [[The Singularity]] · [[Transhumanism]] · [[Fortress Futurism]] · [[Situated Knowledge]] · [[Mars Colonization]] · [[Objectivism (Rand)]] · [[e-acc (Effective Accelerationism)]]
 
 
 ---

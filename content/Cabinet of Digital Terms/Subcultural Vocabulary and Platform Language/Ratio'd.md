@@ -9,7 +9,7 @@ analysis_version: pending
 
 ***The post has 200 likes and 4,000 replies. That is not applause.***
 
-**Literal meaning:** To be "**ratio'd**" (from "ratioed") means that a post has received significantly more replies — typically critical or hostile — than likes or positive engagements, producing a visible metric disproportion that signals public disapproval. The ratio is both a fact (the numbers) and a verdict (the community has rejected this).
+**Literal meaning:** To be "**ratio'd**" (from "ratioed") means that a post has received significantly more replies — typically critical or hostile — than likes or positive engagements, producing a visible metric disproportion that signals public disapproval. The ratio is both a fact (the numbers) and a verdict (the community has rejected this). The verdict can come with its own word: [[Cooked]] — slang for a defeat that cannot be undone, as in "he's cooked after that ratio".
 
 **Origin:** The term emerged on Twitter/X around 2017–2018, where the ratio of replies to likes became a legible signal of community rejection. A post that is heavily **ratio'd** is understood to have failed publicly — the crowd's disapproval is quantified and displayed. The term entered wider use and was studied by researchers including Molly Jennings and colleagues as a form of platform-mediated social sanction.
 
@@ -21,7 +21,7 @@ analysis_version: pending
 
 **Why This Matters:** **Ratio'd** makes visible how platform metrics become social sanctions — and how the same number can represent two entirely different things. Once you know the organic/active distinction, a ratio is no longer just a verdict. It is a question: who replied, and why?
 
-**Related terms:** [[Ragebaiting]] · [[Algospeak]] · [[Deplatforming]] · [[Flood the Zone]] · [[Coded -Pilled]] · [[Attention Economy]] · [[Comparison Culture]]
+**Related terms:** [[Ragebaiting]] · [[Algospeak]] · [[Deplatforming]] · [[Flood the Zone]] · [[Coded -Pilled]] · [[Attention Economy]] · [[Comparison Culture]] · [[Cooked]]
 
 
 ---
