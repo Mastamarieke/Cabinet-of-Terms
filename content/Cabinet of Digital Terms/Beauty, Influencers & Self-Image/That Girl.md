@@ -17,7 +17,7 @@ analysis_version: pending
 
 **The Appeal:** The appeal is real. "**That Girl**" content promotes habits with genuine benefits: sleep, exercise, nutrition, reflection. For many viewers, it functions as motivation — a visible model for a more structured, healthier daily life. For creators, it builds community around shared goals.
 
-**The Friction:** The aesthetic is the product, not the practice. What circulates is the performance: the morning light, the journalling flat lay, the smoothie. The hours, the cost, the domestic labour, the body type, the privilege of flexible time — none of these appear in the frame. [[Comparison Culture]] — permanent ambient comparison as a platform feature — runs on exactly this gap: the visible standard versus the invisible conditions. [[Clean Girl Aesthetic]] is the appearance layer of the same ideology. [[Toxic Positivity]] is the emotional register: everything is progress, everything is growth, everything can be optimised if you just commit.
+**The Friction:** The aesthetic is the product, not the practice. What circulates is the performance: the morning light, the journalling flat lay, the smoothie. The American [[Fitfluencer|fitness influencer]] Ashton Hall showed the same routine in 2025, starting at 3:50 a.m. with mouth tape, a face bath in bottled spring water and a banana peel wiped across his face; some of the videos passed 100 million views and were parodied widely ([Wood, 2025](https://www.today.com/life/ashton-hall-morning-routine-rcna197851)). The hours, the cost, the domestic labour, the body type, the privilege of flexible time — none of these appear in the frame. [[Comparison Culture]] — permanent ambient comparison as a platform feature — runs on exactly this gap: the visible standard versus the invisible conditions. [[Clean Girl Aesthetic]] is the appearance layer of the same ideology. [[Toxic Positivity]] is the emotional register: everything is progress, everything is growth, everything can be optimised if you just commit.
 
 **Why This Matters:** "**That Girl**" makes visible how wellness becomes aspiration content — and how aspiration content distributes norms without distributing the conditions that make them achievable.
 
@@ -29,5 +29,6 @@ analysis_version: pending
 - [The Influencer Industry](https://www.amazon.nl/Influencer-Industry-Quest-Authenticity-Social/dp/0691231028) — Hund, E. (2023). *Studies in Communication Sciences*
 - [Wellness Culture](
 https://www.researchgate.net/publication/364754565_Wellness_Culture_How_the_Wellness_Movement_has_Been_Used_to_Empower_Profit_and_Misinform) — Lupton, D. (2022). *New Media & Society*
+- [Why is this influencer's morning routine with Saratoga water going viral?](https://www.today.com/life/ashton-hall-morning-routine-rcna197851) — Wood, B. (2025). *TODAY*
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

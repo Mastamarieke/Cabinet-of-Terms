@@ -9,7 +9,7 @@ analysis_version: pending
 
 ***The workout is real. The caption is content. The body is a platform.***
 
-**Literal meaning:** A **fitfluencer** is a social media creator whose content centres on fitness, physical training, nutrition, and body transformation. The body is simultaneously the subject, the medium, and the proof of concept.
+**Literal meaning:** A **fitfluencer**, from *fit* and [[Influencer|influencer]], is a social media creator whose content centres on fitness, physical training, nutrition, and body transformation. The body is simultaneously the subject, the medium, and the proof of concept.
 
 **Origin:** The term emerged as **Instagram** scaled in the early 2010s, when fitness content proved among the highest-performing categories on the platform. Before fitfluencers, fitness advice came from gyms, magazines, and certified trainers. The platform disintermediated all three — and created a new category of authority based on visible body transformation rather than professional qualification.
 
