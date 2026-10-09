@@ -29,6 +29,7 @@ import os
 import re
 import sys
 
+sys.dont_write_bytecode = True  # importing check_orphans would otherwise leave scripts/__pycache__/
 sys.path.insert(0, os.path.dirname(__file__))
 from check_orphans import collect_terms, resolver, links_of  # noqa: E402
 
