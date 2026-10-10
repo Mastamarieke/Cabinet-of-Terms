@@ -1,0 +1,107 @@
+// The Outward block (2026-10-10): looks and folds like Semantic field and Attention curve,
+// whose header styles (.graph-story, .graph-story-header) it shares.
+.outward {
+  .outward-body {
+    padding: 0.4rem 0.8rem 0.8rem;
+  }
+
+  .outward-sum,
+  .outward-key {
+    margin: 0.2rem 0 0.4rem;
+    font-size: 0.8rem;
+    color: var(--darkgray);
+  }
+
+  .outward-key {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 0.4em;
+    color: var(--gray);
+
+    em.line {
+      display: inline-block;
+      width: 20px;
+      height: 0;
+      border-top: 1.6px solid var(--darkgray);
+
+      &.named {
+        border-top: 1.2px dashed var(--gray);
+      }
+    }
+  }
+
+  .outward-svg {
+    width: 100%;
+    height: auto;
+    font-family: "Barlow Condensed", sans-serif;
+
+    a,
+    a.internal {
+      text-decoration: none;
+      background: none;
+      padding: 0;
+      border: none;
+    }
+
+    text {
+      text-decoration: none;
+    }
+  }
+
+  .outward-line {
+    fill: none;
+    stroke-width: 1.4;
+    opacity: 0.85;
+
+    &.named {
+      stroke: var(--gray);
+      stroke-width: 1;
+      stroke-dasharray: 4 3;
+      opacity: 0.7;
+    }
+
+    &.mine {
+      stroke-width: 2.6;
+      opacity: 1;
+    }
+  }
+
+  .outward-self {
+    stroke: #ff6b00;
+    stroke-width: 2;
+  }
+
+  .outward-head {
+    font-size: 11px;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    fill: var(--gray);
+  }
+
+  .outward-term {
+    paint-order: stroke;
+    stroke: var(--light);
+    stroke-width: 3px;
+    stroke-linejoin: round;
+  }
+
+  .outward-term,
+  .outward-cluster {
+    font-size: 12px;
+    fill: var(--dark);
+  }
+
+  .outward-term.mine {
+    font-weight: 700;
+  }
+
+  .outward-count {
+    fill: var(--gray);
+  }
+
+  a:hover .outward-term,
+  a:hover .outward-cluster {
+    fill: var(--secondary);
+  }
+}

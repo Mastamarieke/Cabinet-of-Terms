@@ -16,6 +16,7 @@ import Graph from "./Graph"
 import GraphStory from "./GraphStory"
 import VaultMap from "./VaultMap"
 import AttentionChart from "./AttentionChart"
+import Outward from "./Outward"
 import Voice from "./Voice"
 import EntryImage from "./EntryImage"
 import Backlinks from "./Backlinks"
@@ -47,6 +48,7 @@ export {
   GraphStory,
   VaultMap,
   AttentionChart,
+  Outward,
   Voice,
   EntryImage,
   Backlinks,
