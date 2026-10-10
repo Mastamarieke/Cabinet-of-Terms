@@ -14,4 +14,4 @@ category: sociale psychologie / politieke economie van technologie
 - *Big Other: Surveillance Capitalism and the Prospects of an Information Civilization* (2015) — introduceert surveillance capitalism en behavioural surplus academisch, in *Journal of Information Technology*
 - *The Age of Surveillance Capitalism* (2019) — volledige uitwerking, met Google en Facebook als empirische casussen
 
-**Gebruikt bij termen:** [[Surveillance Capitalism]] · [[Surveillance Capitalism (Political Economy)]] · [[Informatics of Domination]] · [[Technofeudalism]] · [[Attention Harvesting]] · [[BUMMER]]
+**Gebruikt bij termen:** [[Surveillance Capitalism]] · [[Informatics of Domination]] · [[Technofeudalism]] · [[Attention Harvesting]] · [[BUMMER]]

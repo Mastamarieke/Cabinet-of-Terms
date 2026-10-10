@@ -21,7 +21,7 @@ analysis_version: pending
 
 **Why This Matters:** **Digital libertarianism** names the founding ideology of the internet's governance vacuum. Once you know the text, you can read a great deal of contemporary platform politics as variations on the same theme: the state is the problem; the private sector is not.
 
-**Related terms:** [[Objectivism (Rand)]] · [[Muskism]] · [[Hacker Ethic]] · [[Technofeudalism]] · [[Brussels Effect]] · [[Cyberfeminism]]
+**Related terms:** [[Objectivism (Rand)]] · [[Muskism]] · [[Hacker Ethic]] · [[Technofeudalism]] · [[Brussels Effect]] (the answer to "beyond jurisdiction": one jurisdiction's rules reaching everywhere) · [[Cyberfeminism]]
 
 
 ---

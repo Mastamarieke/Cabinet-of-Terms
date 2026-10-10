@@ -21,7 +21,7 @@ analysis_version: pending
 
 **Why This Matters:** **Digital-military-industrial complex** names the structural relationship that makes "tech for good" and "tech for war" the same infrastructure. Once you see the entanglement, the question of whether a technology company is a civilian or military actor becomes structurally ambiguous rather than a matter of corporate choice.
 
-**Related terms:** [[Military-Industrial Complex]] · [[Dual-Use Technology]] · [[Revolving Door]] · [[Sovereignty as a Service]]  · [[Brussels Effect]] · [[Reconstruction Economy]] · [[Situated Knowledge]] · [[Surveillance Capitalism (Political Economy)]] · [[Surveillance Capitalism]]
+**Related terms:** [[Military-Industrial Complex]] · [[Dual-Use Technology]] · [[Revolving Door]] · [[Sovereignty as a Service]] · [[Reconstruction Economy]] · [[Situated Knowledge]] · [[Surveillance Capitalism]]
 
 
 ---

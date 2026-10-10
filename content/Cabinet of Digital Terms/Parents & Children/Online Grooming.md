@@ -21,7 +21,7 @@ analysis_version: pending
 
 **Why This Matters:** **Online grooming** makes visible that child safeguarding is a design problem as much as a policing problem. The features that enable grooming are not incidental — they are the platforms' social infrastructure. Building them with child safety as a default requirement, not an afterthought, is both possible and legally required in several jurisdictions.
 
-**Related terms:** [[Roblox]] · [[Catfishing]] · [[Kidfluencer]] · [[Sexting]] · [[Predatory Design]] · [[Brussels Effect]]
+**Related terms:** [[Roblox]] · [[Catfishing]] · [[Kidfluencer]] · [[Sexting]] · [[Predatory Design]] · [[Brussels Effect]] (a Dutch regulator now investigates Roblox for adults approaching minors, on behalf of all of Europe)
 
 
 ---

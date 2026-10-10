@@ -21,7 +21,7 @@ analysis_version: pending
 
 **Why This Matters:** **Predatory design** names the deliberate exploitation of developmental vulnerability as commercial strategy. Once you see it, "it's just a game" and "the child just needs more self-control" become inadequate responses to a designed condition.
 
-**Related terms:** [[Dark Patterns]] · [[Roblox]] · [[Loot Boxes]] · [[Gaming Disorder]] · [[Screen Time]] · [[Robux]] · [[Online Grooming]] · [[Brussels Effect]] · [[Dopamine Feedback Loops]] · [[VSD (Value Sensitive Design)]]
+**Related terms:** [[Dark Patterns]] · [[Roblox]] · [[Loot Boxes]] · [[Gaming Disorder]] · [[Screen Time]] · [[Robux]] · [[Online Grooming]] · [[Brussels Effect]] (the same Roblox investigation covers design that pushes children into buying) · [[Dopamine Feedback Loops]] · [[VSD (Value Sensitive Design)]]
 
 
 ---

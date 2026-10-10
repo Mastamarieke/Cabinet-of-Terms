@@ -21,11 +21,12 @@ analysis_version: pending
 
 **Why This Matters:** **Microtargeting** makes visible that the political message you saw was chosen for you specifically. The argument was calibrated to your profile. The anxiety it addressed was inferred from your behaviour. Once you know that, political communication looks different.
 
-**Related terms:** [[Surveillance Capitalism]] · [[Recommender Systems]] · [[Bot Farms]] · [[Filter Bubble]] · [[Data Brokers]] · [[Narrative Engineering]] · [[Brussels Effect]] · [[Biometric Surveillance]] · [[Great Replacement]]
+**Related terms:** [[Surveillance Capitalism]] · [[Recommender Systems]] · [[Bot Farms]] · [[Filter Bubble]] · [[Data Brokers]] · [[Narrative Engineering]] · [[Brussels Effect]] (rather than follow new EU rules on targeting political ads, Meta and Google stopped political ads in the EU in 2025) · [[Biometric Surveillance]] · [[Great Replacement]]
 
 
 ---
 **Read more:**
+- [Meta to end political ads in the EU ahead of new transparency rules](https://www.siliconrepublic.com/business/meta-eu-political-election-social-ads-google-transparency) — Srinivasaragavan, S. (2025, 28 July). *Silicon Republic*
 - [The Great Hack](https://www.netflix.com/title/80117542) — Noujaim, J. & Amer, K. (2019). _Netflix documentary_
 - [Mindf*ck: Cambridge Analytica and the Plot to Break America](https://www.penguinrandomhouse.com/books/604375/mindfck-by-christopher-wylie/) — Wylie, C. (2019). _Random House_
 - [Online Political Microtargeting: Promises and Threats for Democracy](https://arxiv.org/abs/2510.17712) — Zuiderveen Borgesius, F.J. et al. (2025). _arXiv_

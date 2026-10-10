@@ -17,11 +17,11 @@ analysis_version: pending
 
 **The Appeal:** The feudal analogy captures something that "monopoly capitalism" does not fully describe. The serf's relationship to the feudal lord is not merely economic — it is a dependency relationship in which the lord provides infrastructure (land, protection) in exchange for rent and labour. The relationship between a small business dependent on Amazon's marketplace, or an individual dependent on Google's search, is structurally similar.
 
-**The Friction:** [[Surveillance Capitalism (Political Economy)]] — **Zuboff**'s economic analysis — describes the mechanism of extraction; **technofeudalism** describes the political-economic structure it produces. [[Vendor Lock-in]] is the technical mechanism of feudal dependency: once you are built into the platform's infrastructure, exit is prohibitively costly. [[Muskism]] is what happens when the feudal lords also acquire political power: not merely rent extraction but political governance. [[Sovereignty as a Service]] is the endpoint: states themselves becoming dependent on private infrastructure they cannot control.
+**The Friction:** [[Surveillance Capitalism]] — **Zuboff**'s economic analysis — describes the mechanism of extraction; **technofeudalism** describes the political-economic structure it produces. [[Vendor Lock-in]] is the technical mechanism of feudal dependency: once you are built into the platform's infrastructure, exit is prohibitively costly. [[Muskism]] is what happens when the feudal lords also acquire political power: not merely rent extraction but political governance. [[Sovereignty as a Service]] is the endpoint: states themselves becoming dependent on private infrastructure they cannot control.
 
 **Why This Matters:** **Technofeudalism** names the political-economic structure that **surveillance capitalism** has built. Once you see the feudal analogy, the language of "free markets" and "competition" as descriptions of the digital economy becomes legible as ideology rather than description.
 
-**Related terms:** [[Surveillance Capitalism (Political Economy)]] · [[Muskism]] · [[Vendor Lock-in]] · [[Sovereignty as a Service]] · [[Brussels Effect]] · [[Cyberfeminism]] · [[Surveillance Capitalism]]
+**Related terms:** [[Surveillance Capitalism]] · [[Muskism]] · [[Vendor Lock-in]] · [[Sovereignty as a Service]] · [[Brussels Effect]] (the Digital Markets Act makes the largest platforms open their gates in the EU) · [[Cyberfeminism]]
 
 
 ---

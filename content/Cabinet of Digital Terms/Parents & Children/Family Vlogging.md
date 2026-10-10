@@ -17,7 +17,7 @@ analysis_version: pending
 
 **The Appeal:** **Family vlogging** content is genuinely popular because family life — the funny moments, the struggles, the milestones — is relatable and engaging. The best channels build real communities. For families, the income is real. The parasocial community around family channels can also be supportive and caring.
 
-**The Friction:** The child's consent is structurally absent. Unlike adult vloggers who choose public exposure, the children in family vlogs are enrolled in a content business before they can evaluate what that means. Several high-profile **family vlogging** controversies have centred on children who, as they aged, expressed distress at their documented childhoods being permanently public. Legal protections vary: France introduced protections for child vloggers in 2020; most jurisdictions have no framework. [[Parasocial Relationship]] — one-sided emotional bonds — is what **family vlogging** creates between viewers and the children they follow: the child is known by thousands of strangers who feel a connection the child cannot manage.
+**The Friction:** The child's consent is structurally absent. Unlike adult vloggers who choose public exposure, the children in family vlogs are enrolled in a content business before they can evaluate what that means. Several high-profile **family vlogging** controversies have centred on children who, as they aged, expressed distress at their documented childhoods being permanently public. Legal protections vary: France introduced protections for child vloggers in 2020, the Netherlands in 2025 after a BOOS broadcast (see [[Kidfluencer]]); most jurisdictions have no framework. [[Parasocial Relationship]] — one-sided emotional bonds — is what **family vlogging** creates between viewers and the children they follow: the child is known by thousands of strangers who feel a connection the child cannot manage.
 
 **Why This Matters:** **Family vlogging** makes visible the specific harm of using a child's childhood as content before the child can assess the trade. The audience feels like community. The content is also a permanent record the child did not choose to create.
 
@@ -26,6 +26,8 @@ analysis_version: pending
 
 ---
 **Read more:**
+- [Strengere regels vlogfamilies en kidfluencers, vrees voor 'moderne kinderarbeid'](https://nos.nl/artikel/2568180-strengere-regels-vlogfamilies-en-kidfluencers-vrees-voor-moderne-kinderarbeid) — NOS (2025, 21 May)
+- [Hogere boetes en strengere regels voor vlogfamilies met meer dan 50.000 volgers](https://www.rijksoverheid.nl/actueel/nieuws/2025/12/18/hogere-boetes-en-strengere-regels-voor-vlogfamilies-met-meer-dan-50.000-volgers) — Rijksoverheid (2025, 18 December)
 - [Children’s Data and Privacy Online: Growing Up in a Digital Age](https://www.lse.ac.uk/my-privacy-uk/Assets/Documents/Childrens-data-and-privacy-online-report-for-web.pdf) — Stoilova, M., Livingstone, S. & Nandagiri, R. (2019). _London School of Economics and Political Science_
 - [From Privacy to Power: Children’s Rights in a Digital Age](https://freedomreport.5rightsfoundation.com/from-privacy-to-power-childrens-rights-in-a-digital-age) — 5Rights Foundation. (2020). _5Rights Foundation_
 - [#familygoals: Family Influencers, Calibrated Amateurism, and Justifying Young Digital Labor](https://journals.sagepub.com/doi/10.1177/2056305117707191) — Abidin, C. (2017). _Social Media + Society_

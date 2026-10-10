@@ -26,7 +26,7 @@ The distinction between communication and engineering is the scale and systemati
 **Why This Matters**
 Once you see **Narrative Engineering** as infrastructure rather than persuasion, you see that the battle is not about individual facts — it is about which frames make facts legible, and who builds those frames.
 
-**Related terms:** [[Flood the Zone]] · [[Bot Farms]] · [[Synthetic Generation]] · [[Attention Economy]] · [[Cognitive Surrender]] · [[Surveillance Capitalism (Political Economy)]] · [[Unblackboxing]]
+**Related terms:** [[Flood the Zone]] · [[Bot Farms]] · [[Synthetic Generation]] · [[Attention Economy]] · [[Cognitive Surrender]] · [[Surveillance Capitalism]] · [[Unblackboxing]]
 
 
 ---

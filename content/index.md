@@ -199,7 +199,7 @@ Platforms are not neutral tools. This cluster maps the technical and economic ar
 </details>
 
 <details>
-<summary><strong>Society and Power</strong> — 24 terms</summary>
+<summary><strong>Society and Power</strong> — 23 terms</summary>
 
 A small number of people now control the infrastructure that everyone depends on. This cluster maps the structural concepts describing the political-economic architecture of the digital age — technofeudalism, surveillance capitalism, cybernetic governance, the revolving door between regulation and industry.
 
@@ -225,7 +225,6 @@ A small number of people now control the infrastructure that everyone depends on
 - [[Revolving Door]]
 - [[Social Credit System]]
 - [[Sovereignty as a Service]]
-- [[Surveillance Capitalism]]
 - [[Techno King]]
 - [[Technofascism]]
 - [[Technofeudalism]]

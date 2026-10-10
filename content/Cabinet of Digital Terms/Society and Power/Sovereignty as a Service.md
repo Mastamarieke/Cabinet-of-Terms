@@ -21,7 +21,7 @@ analysis_version: pending
 
 **Why This Matters:** **Sovereignty as a Service** names the political condition produced when efficiency arguments consistently win procurement decisions. Once you see the dependency accumulating, "the vendor has access to the data" is not a data security problem — it is a sovereignty problem.
 
-**Related terms:** [[Vendor Lock-in]] · [[CLOUD Act]] · [[Technofeudalism]] · [[Muskism]] · [[Brussels Effect]] · [[Cybernetic Governance]] · [[Situated Knowledge]]
+**Related terms:** [[Vendor Lock-in]] · [[CLOUD Act]] · [[Technofeudalism]] · [[Muskism]] · [[Brussels Effect]] (Europe's attempt to regain by law some control over the US vendors it depends on) · [[Cybernetic Governance]] · [[Situated Knowledge]]
 
 
 ---

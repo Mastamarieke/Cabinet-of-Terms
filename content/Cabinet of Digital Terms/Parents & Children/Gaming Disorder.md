@@ -21,7 +21,7 @@ analysis_version: pending
 
 **Why This Matters:** **Gaming disorder** makes the same structural point as [[Screen Time|screen time]]: a design problem gets classified as a patient condition. Once you see that, the treatment question — how do we help this child stop? — is incomplete without the design question — why was the product built to make stopping this hard?
 
-**Related terms:** [[Predatory Design]] · [[Loot Boxes]] · [[Dopamine Feedback Loops]] · [[Screen Time]] · [[Roblox]] · [[Brussels Effect]] · [[Deskilling]] · [[Technostress]] · [[VSD (Value Sensitive Design)]]
+**Related terms:** [[Predatory Design]] · [[Loot Boxes]] · [[Dopamine Feedback Loops]] · [[Screen Time]] · [[Roblox]] · [[Deskilling]] · [[Technostress]] · [[VSD (Value Sensitive Design)]]
 
 
 ---

@@ -77,8 +77,8 @@ A system that scores and rewards or punishes citizen behaviour. Discussed more i
 ### [[Sovereignty as a Service]]
 State sovereignty outsourced to private tech infrastructure. The government that depends on a vendor it cannot fire.
 
-### [[Surveillance Capitalism (Political Economy)]]
-Zuboff, 2019. Human behaviour as raw material for prediction products. You are not the customer. You are the commodity.
+### [[Surveillance Capitalism]]
+Zuboff, 2019. Human behaviour as raw material for prediction products, and, read politically, the economic base of a new order of power. *(entry in: Privacy, Data and Control)*
 
 ### [[Techno King]]
 Musk's self-chosen title at Tesla. Irony as power display. The joke that is also serious.

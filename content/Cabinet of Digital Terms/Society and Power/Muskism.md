@@ -23,10 +23,11 @@ analysis_version: pending
 
 **Why This Matters:** **Muskism** names a governance logic, not a personality. Once you see it as a model rather than an individual, you can identify it wherever the same accumulation of infrastructure dependency, political influence, and accountability evasion appears.
 
-**Related terms:** [[Technofeudalism]] · [[Broligarchy]] · [[Objectivism (Rand)]] · [[Technofascism]] · [[Flood the Zone]] · [[Brussels Effect]] · [[Cyberfeminism]]
+**Related terms:** [[Technofeudalism]] · [[Broligarchy]] · [[Objectivism (Rand)]] · [[Technofascism]] · [[Flood the Zone]] · [[Brussels Effect]] (X received the first fine under Europe's Digital Services Act: €120 million in 2025) · [[Cyberfeminism]]
 
 ---
 **Read more:**
+- [Elon Musk's X fined $140 million by European Commission over 'deceptive' blue checkmark and lack of transparency](https://www.cnbc.com/2025/12/05/elon-musks-x-fined-140-million-by-european-commission.html) — Nicol-Schwarz, K. & Kolodny, L. (2025, 5 December). *CNBC*
 - [Muskism by Quinn Slobodian and Ben Tarnoff review – how Elon Musk is reshaping the world](https://www.theguardian.com/books/2026/mar/26/muskism-by-quinn-slobodian-and-ben-tarnoff-review-how-elon-musk-is-reshaping-the-world) — _The Guardian_ (2026)
 - [Crack-Up Capitalism: Market Radicals and the Dream of a World Without Democracy](https://www.amazon.com/Crack-Up-Capitalism-Radicals-Without-Democracy-ebook/dp/B09Y45HDC9) — Slobodian, Q. (2023). _Metropolitan Books_
   [Muskism as Fordism](https://lpeproject.org/blog/muskism-as-fordism/) — Slobodian, Q., & Tarnoff, B. (2026). _Law and Political Economy Project_
