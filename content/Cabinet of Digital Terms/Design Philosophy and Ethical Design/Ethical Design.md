@@ -27,7 +27,7 @@ Monteiro's structural observation remains the sharpest: designers who work withi
 
 **Why This Matters:** **Ethical design** names a practice and a standard. Once you have both the positive definition (**accessibility**, adaptability, conviviality, transparency, user autonomy) and the negative one (the absence of **dark patterns**, deceptive flows, and manipulative architecture), you can evaluate any product on both axes. The question is not "does this company claim to practice **ethical design**?" but "does this product's design impose ethical constraints that cost the company something?"
 
-**Related terms:** [[VSD (Value Sensitive Design)]] · [[Fair Patterns]] · [[Dark Patterns]] · [[Deceptive Design]] · [[Privacy Washing]]
+**Related terms:** [[VSD (Value Sensitive Design)]] · [[Fair Patterns]] · [[Dark Patterns]] · [[Deceptive Design]] · [[Privacy Washing]] · [[Surveillance Capitalism]] (selling predictions made from behavioural data: the extraction that ethical design refuses to put above the people who use a product)
 
 
 ---
