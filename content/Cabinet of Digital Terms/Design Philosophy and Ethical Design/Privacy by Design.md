@@ -21,7 +21,7 @@ analysis_version: pending
 
 **Why This Matters:** **Privacy by design** shifts the question from "did the user consent?" to "did the system protect by default?" Once you ask that question, the gap between the rhetoric and the practice becomes measurable — not just felt.
 
-**Related terms:** [[Fair Patterns]] · [[VSD (Value Sensitive Design)]] · [[Deceptive Design]] · [[Surveillance Capitalism]] · [[Unblackboxing]] · [[Privacy Washing]] · [[Dark Patterns]] · [[Privacy as a Premium]] (not being tracked sold as a paid upgrade: the reverse of the private option as the default)
+**Related terms:** [[Fair Patterns]] · [[VSD (Value Sensitive Design)]] · [[Deceptive Design]] · [[Surveillance Capitalism]] · [[Unblackboxing]] · [[Privacy Washing]] · [[Dark Patterns]]
 
 
 ---

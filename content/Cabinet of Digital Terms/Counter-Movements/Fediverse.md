@@ -21,7 +21,7 @@ analysis_version: pending
 
 **Why This Matters:** The **fediverse** makes the architecture of platforms visible by contrast. Every design choice that feels natural on **Instagram** — algorithmic feeds, advertising, data extraction, no exit — is revealed as a choice, not a necessity, the moment you encounter a system built differently. Whether the **fediverse** survives commercial capture or quietly becomes another layer of the same infrastructure is the open question. The answer depends not on the protocol but on who governs it.
 
-**Related terms:** [[Surveillance Capitalism]] · [[Vendor Lock-in]] · [[Enshittification]] · [[Technofeudalism]] · [[Privacy by Design]] · [[Digital Detox]] · [[Sovereignty as a Service]] · [[Digital Exclusion]] · [[Privacy as a Premium]] (not being tracked sold as a paid upgrade: here no advertiser pays to reach you, but choosing a server takes know-how)
+**Related terms:** [[Surveillance Capitalism]] · [[Vendor Lock-in]] · [[Enshittification]] · [[Technofeudalism]] · [[Privacy by Design]] · [[Digital Detox]] · [[Sovereignty as a Service]] · [[Digital Exclusion]] · [[Privacy as a Premium]]
 
 ---
 **Read more:**

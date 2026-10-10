@@ -21,7 +21,7 @@ analysis_version: pending
 
 **Why This Matters:** **Enshittification** is the term that explains why a platform you loved became one you tolerate. Once you know the lifecycle, the current state of any platform tells you where it is in the sequence — and what comes next.
 
-**Related terms:** [[Vendor Lock-in]] · [[Dark Patterns]] · [[Recommender Systems]] · [[Brussels Effect]] · [[Surveillance Capitalism]] · [[Attention Economy]] · [[Cognitive Surrender]] · [[Deplatforming]] · [[Deskilling]] · [[Privacy as a Premium]] (not being tracked sold as a paid upgrade: a way out of a worse free version that paying does not guarantee)
+**Related terms:** [[Vendor Lock-in]] · [[Dark Patterns]] · [[Recommender Systems]] · [[Brussels Effect]] · [[Surveillance Capitalism]] · [[Attention Economy]] · [[Cognitive Surrender]] · [[Deplatforming]] · [[Deskilling]]
 
 
 ---
