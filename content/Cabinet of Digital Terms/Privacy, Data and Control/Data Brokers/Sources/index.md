@@ -10,6 +10,6 @@ Source material used in the analysis of [[Data Brokers]].
 - [[Venkatadri-DataBrokers-2019|Venkatadri et al. (2019)]] — how much brokers know, and how much of it is wrong
 
 **Secondary:**
-- [[Secondary-DataBrokers|FTC (2014) · Citron & Pasquale (2014) · Zuboff (2019) · US Courts (2020) · ICCL (2022) · Cox (2025) · Malwarebytes (2026)]] — reports, law, journalism
+- [[Secondary-DataBrokers|FTC (2014) · Citron & Pasquale (2014) · Zuboff (2019) · US Courts (2020) · ICCL (2022) · Cox (2025) · CBS New York (2022) · Malwarebytes (2026)]] — reports, law, journalism
 
 **Entries covered:** [[Data Brokers]] · [[Algorithmic Violence]] · [[Doxing]]

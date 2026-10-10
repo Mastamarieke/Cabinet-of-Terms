@@ -21,7 +21,7 @@ analysis_version: pending
 
 **Why This Matters:** **Algorithmic violence** names the specific accountability gap of automated harm. Once you see the structure — harm produced, no individual responsible — you can ask: who designed this system, what data trained it, whose interests does it serve, and who bears the cost of its errors?
 
-**Related terms:** [[Informatics of Domination]] · [[Dataism]] · [[Surveillance Capitalism]] · [[Digital Exclusion]] · [[VSD (Value Sensitive Design)]] · [[Brussels Effect]] · [[Dehumanization]] · [[Vendor Lock-in]] · [[Data Brokers]] (companies that assemble and sell personal profiles: at least 40% of the attributes they sell can be wrong, and automated decisions use them anyway)
+**Related terms:** [[Informatics of Domination]] · [[Dataism]] · [[Surveillance Capitalism]] · [[Digital Exclusion]] · [[VSD (Value Sensitive Design)]] · [[Brussels Effect]] · [[Dehumanization]] · [[Vendor Lock-in]] · [[Data Brokers]] (companies that assemble and sell personal profiles: scores built from such data decide on loans, jobs and housing, opaque and without oversight)
 
 
 ---

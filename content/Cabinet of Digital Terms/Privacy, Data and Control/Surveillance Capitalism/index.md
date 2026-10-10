@@ -22,7 +22,7 @@ attention_moments:
     source: "The Social Dilemma (Wikipedia)"
     url: "https://en.wikipedia.org/wiki/The_Social_Dilemma"
   - month: 2025-08
-    note: "Search interest on Google rose in the first weeks of August 2025 and stayed high until June 2026, highest in the week of 31 May; in July it fell back, and in September 2026 it rose again. Wikipedia views did not follow. Relative to their size, most searches came from China, Singapore and South Korea. The rhythm follows a school year, but no course or event has been found. A Live Science article on AI and surveillance capitalism (27 April 2026) falls in a quieter week."
+    note: "Search interest on Google jumped in August 2025 and stayed high until June 2026, highest in the week of 31 May; Wikipedia views did not follow. The same jump, in the same month, shows in several other low-volume terms in the Cabinet (Data Brokers, Virtual Influencer, SMV, Top 1% Man, Provider), so it most likely reflects a change in how Google Trends counts rather than more interest in the term. A Live Science article on AI and surveillance capitalism (27 April 2026) falls in a quieter week."
     source: "McKenna (2026), Live Science"
     url: "https://www.livescience.com/technology/artificial-intelligence/how-everything-you-do-is-being-monitored-in-an-ai-fuelled-surveillance-capitalism-system"
 ---

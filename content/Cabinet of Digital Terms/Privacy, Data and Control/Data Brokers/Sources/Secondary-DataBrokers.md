@@ -34,7 +34,7 @@ The US regulator's study of the industry's scale and opacity, the source of the 
 
 ### What this source contributes
 
-On scores built from personal data and the lack of any way to contest them.
+Big Data is mined to rank and rate individuals: whether they are good credit risks, desirable employees, reliable tenants. Loans, work, housing and insurance depend on it, yet automated scoring is opaque and lacks oversight; the authors argue for due process, including a way to challenge decisions based on scores that miscategorise people.
 
 ### Related entries
 
@@ -119,3 +119,21 @@ Since 1 August 2026 registered data brokers in California must process deletion 
 ### Related entries
 
 - [[Data Brokers]]
+
+## 8. Judge Esther Salas, whose son was murdered at their home, applauds federal law to protect judges and their families
+
+**Author:** CBS New York
+**Year:** 2022
+**Type:** Journalism
+**Publisher:** CBS News New York, December
+**URL:** https://www.cbsnews.com/newyork/news/judge-esther-salas-applauds-federal-law-to-help-protect-other-judges-and-their-families/
+
+### What this source contributes
+
+The federal law named after Judge Salas's son, Daniel Anderl, makes it a crime to publish addresses, phone numbers and other personal information of federal judges and their families online.
+
+### Related entries
+
+- [[Data Brokers]]
+- [[Doxing]] — what the law is meant to prevent
+
