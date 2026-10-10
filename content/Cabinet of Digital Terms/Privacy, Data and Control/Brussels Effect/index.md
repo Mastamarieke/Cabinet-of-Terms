@@ -5,6 +5,17 @@ analytical_layer: reaction
 status: publieksversie
 version: V2
 analysis_version: pending
+semantic_landscape: |
+  In 2018 the GDPR, Europe's privacy law, came into force. Researchers followed more than 110,000 websites and saw them remove trackers, the pieces of code that tell advertising companies who is visiting, also on websites outside Europe that the law did not cover. The smaller tracking companies lost the most; Google lost the least and won market share. The researchers suggest why: a website that shares data is now partly liable for it, so it keeps one large partner that can afford a legal fight, and since nearly everyone already uses Google's services, Google can ask consent once and have it cover everything it offers.
+
+  Follow one of those trackers. What it collects feeds **Surveillance Capitalism**, selling predictions made from people's behaviour, and from there **Data Brokers**, firms that trade personal data across borders, where European rules reach least. When Meta had to ask before tracking, it offered people a choice: pay, or be tracked. That is **Privacy as a Premium**, and in 2025 the European Commission fined Meta for it.
+
+  The same law reaches a children's game. Because the European office of **Roblox** is in the Netherlands, a Dutch regulator decides for all of Europe, and the **Brussels Effect** turns up in **Parents & Children**.
+
+  At the end are people: Anu Bradford, the law professor who named the effect in 2012, and the children on Roblox, whose purchases of **Robux** that regulator is now examining.
+attention_moments:
+  - month: 2020-01
+    note: "31 January 2020, the day the United Kingdom left the EU: 55,945 views in one day, against a few hundred on other days. That month 42,145 readers arrived without a referrer and 14,141 from other websites, almost none from search. A link shared somewhere; which one has not been found. Bradford's book came out the next month."
 ---
 
 ***The EU passed a law. A company in California changed its global product.***
