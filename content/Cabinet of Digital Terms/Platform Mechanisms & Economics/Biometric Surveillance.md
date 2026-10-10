@@ -25,7 +25,7 @@ Camera glasses are where the turn outward becomes ordinary equipment. Meta repor
 
 **In the text:** [[Microtargeting]] · [[Surveillance Capitalism]] · [[Deadnaming]] · [[Algorithmic Violence]] · [[Brussels Effect]] · [[Privacy as a Premium]] · [[Ragebaiting]]
 
-**Related terms:** [[Sharenting]] (a child's face posted for family, raw material for face recognition) · [[Deceptive Design]] (a recording light made to be easy to miss)
+**Related terms:** [[Sharenting]] (parents posting their children's photos: faces that biometric surveillance can later recognise)
 
 
 ---

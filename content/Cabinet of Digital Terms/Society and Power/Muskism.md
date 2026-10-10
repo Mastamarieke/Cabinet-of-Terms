@@ -23,7 +23,7 @@ analysis_version: pending
 
 **In the text:** [[Neuralink]] · [[Objectivism (Rand)]] · [[Technofeudalism]] · [[Broligarchy]] · [[Flood the Zone]] · [[Brussels Effect]] · [[Endtime Fascism]] · [[Technofascism]]
 
-**Related terms:** [[Cyborg Musk]] (the same man as the image of human and machine, borrowed from Haraway and turned the other way)
+**Related terms:** [[Cyborg Musk]] (Musk's use of Haraway's cyborg as a personal brand: the image that comes with Muskism)
 
 ---
 **Read more:**

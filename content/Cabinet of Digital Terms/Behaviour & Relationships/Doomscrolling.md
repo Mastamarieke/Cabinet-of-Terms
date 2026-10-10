@@ -23,7 +23,7 @@ analysis_version: pending
 
 **In the text:** [[Recommender Systems]] · [[Attention Economy]] · [[Ragebaiting]] · [[Ludic Loop]] · [[Dopamine Feedback Loops]] · [[FOMO]] · [[Cognitive Surrender]] · [[JOMO]]
 
-**Related terms:** [[Brain Rot]] (what the endless feed is said to do to your head, Oxford's word of 2024) · [[Digital Detox]] (stopping made into a rule: phones out of Dutch classrooms since 2024) · [[Technostress]] (the strain of always being reachable, which the scrolling feeds)
+**Related terms:** [[Brain Rot]] (the self-diagnosis of a flat mind after hours of scrolling: what doomscrolling is said to leave behind) · [[Digital Detox]] (a break from devices, sold as a personal fix for a structural problem: the usual advice against doomscrolling) · [[Technostress]] (stress from technology built to be hard to leave: the same design that keeps doomscrolling going)
 
 
 ---

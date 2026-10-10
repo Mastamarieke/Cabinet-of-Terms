@@ -27,7 +27,7 @@ That reach comes at the cost of speed, and a comparison makes the trade visible.
 
 **In the text:** [[CLOUD Act]] · [[Vendor Lock-in]] · [[Surveillance Capitalism]] · [[Roblox]] · [[Dark Patterns]] · [[Robux]]
 
-**Related terms:** [[Fair Patterns]] (what European consent rules ask a screen to look like) · [[Algorithmic Violence]] (the harm the AI Act's high-risk rules are meant to prevent)
+**Related terms:** [[Fair Patterns]] (screens where refusing is as easy as accepting: European rules require them, and the Brussels Effect spreads them) · [[Algorithmic Violence]] (harm done by automated systems no one answers for: the AI Act's high-risk rules, carried abroad by the Brussels Effect, are aimed at it)
 
 
 ---
