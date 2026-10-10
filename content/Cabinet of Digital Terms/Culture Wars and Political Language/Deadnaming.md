@@ -21,7 +21,7 @@ analysis_version: pending
 
 **Why This Matters:** **Deadnaming** makes visible the specific vulnerability of identity at the intersection of digital permanence and trans existence — and, more broadly, the way that data systems designed for commercial purposes produce identity harms as a structural side effect.
 
-**Related terms:** [[Algorithmic Violence]] · [[Surveillance Capitalism]] · [[Dehumanization]] · [[Social Contagion]] · [[Subhuman]] · [[Deplatforming]]
+**Related terms:** [[Algorithmic Violence]] · [[Surveillance Capitalism]] · [[Dehumanization]] · [[Social Contagion]] · [[Subhuman]] · [[Deplatforming]] · [[Data Brokers]] (companies that assemble and sell personal profiles: they keep old names and addresses people have legally changed)
 
 
 ---

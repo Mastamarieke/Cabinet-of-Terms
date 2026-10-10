@@ -21,7 +21,7 @@ analysis_version: pending
 
 **Why This Matters:** **Privacy washing** makes visible the gap between a privacy statement and a privacy practice. Once you know the move — reassuring language deployed as a substitute for substance — you can ask of any privacy claim: what specifically does this prevent, and how is it enforced?
 
-**Related terms:** [[Security Theater]] · [[Surveillance Capitalism]] · [[Dark Patterns]] · [[Brussels Effect]] · [["We have never and will never sell user data."]] · [[Algorithmic Violence]] · [[Deceptive Design]] · [[Vendor Lock-in]]
+**Related terms:** [[Security Theater]] · [[Surveillance Capitalism]] · [[Dark Patterns]] · [[Brussels Effect]] · [["We have never and will never sell user data."]] · [[Algorithmic Violence]] · [[Deceptive Design]] · [[Vendor Lock-in]] · [[Data Brokers]] (companies that assemble and sell personal profiles: where data goes after a company says it does not sell it)
 
 
 ---
