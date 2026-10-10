@@ -114,14 +114,14 @@
  "curator": [
   "OpenAlex: 406 peer-reviewed articles since 2019",
   "YouTube: not counted, no API key on this machine",
-  "Google Trends: fetched"
+  "Google Trends: Google did not answer today, line kept from 2026-10-10"
  ],
  "wikipedia": {
   "en": "\"Surveillance capitalism\"",
   "nl": "no Dutch article; the word appears only in the articles on Shoshana Zuboff and on Internetgiganten",
-  "de": "\"\u00dcberwachungskapitalismus\"",
-  "fr": "\"\u00c9conomie de la surveillance\"",
-  "es": "\"Capitalismo de vigilancia\""
+  "de": "\"\u00dcberwachungskapitalismus\" (the English article's language link)",
+  "fr": "\"\u00c9conomie de la surveillance\" (the English article's language link)",
+  "es": "\"Capitalismo de vigilancia\" (the English article's language link)"
  },
  "since": {
   "en": "2017-02",
@@ -129,11 +129,11 @@
   "fr": "2014-08",
   "es": "2020-05"
  },
- "note": "Attention to the term, not use of it. The sources cannot be compared in size, only in shape and timing: each is indexed to its own peak (= 100); the current year is partial.",
+ "note": "Attention to the term, not use of it. The sources cannot be compared in size, only in shape and timing: each is indexed to its own peak (= 100); the current year is partial. Wikipedia: the English article and the articles it links to in Dutch, German, French and Spanish, under whatever name they carry there; some are broader than the term.",
  "series": [
   {
    "label": "Wikipedia, page views (4 languages)",
-   "source": "Wikimedia REST API: the article \"Surveillance capitalism\" on one edition of Wikipedia; the German edition's \"\u00dcberwachungskapitalismus\"; the French edition's \"\u00c9conomie de la surveillance\"; the Spanish edition's \"Capitalismo de vigilancia\", monthly views by readers, added up; the French article is broader, the economics of surveillance, and dates from 2014, before Zuboff's term; it adds about 3 percent of the views",
+   "source": "Wikimedia REST API: the article \"Surveillance capitalism\" on one edition of Wikipedia; the German edition's \"\u00dcberwachungskapitalismus\" (the English article's language link); the French edition's \"\u00c9conomie de la surveillance\" (the English article's language link); the Spanish edition's \"Capitalismo de vigilancia\" (the English article's language link), monthly views by readers, added up",
    "period": "month",
    "values": {
     "2019-01": 10267,
@@ -258,7 +258,7 @@
   },
   {
    "label": "Google Trends, search interest",
-   "source": "Google Trends, worldwide, monthly interest 0\u2013100. Google publishes no interface for these figures: these are the ones the Trends site itself shows, fetched the way that site fetches them, which means the line goes when Google stops answering",
+   "source": "Google Trends, worldwide, monthly interest 0\u2013100. Google publishes no interface for these figures: these are the ones the Trends site itself shows, fetched the way that site fetches them, which means the line goes when Google stops answering, retrieved 2026-10-10",
    "period": "month",
    "values": {
     "2019-01": 31.0,
@@ -359,11 +359,7 @@
   }
  ],
  "pins": {
-  "de": "\u00dcberwachungskapitalismus",
-  "fr": "\u00c9conomie de la surveillance",
-  "es": "Capitalismo de vigilancia",
   "nl": "-",
-  "why_nl": "no Dutch article; the word appears only in the articles on Shoshana Zuboff and on Internetgiganten",
-  "about_wikipedia": "the French article is broader, the economics of surveillance, and dates from 2014, before Zuboff's term; it adds about 3 percent of the views"
+  "why_nl": "no Dutch article; the word appears only in the articles on Shoshana Zuboff and on Internetgiganten"
  }
 }

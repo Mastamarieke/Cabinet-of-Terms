@@ -79,6 +79,22 @@ def resolve(lang, title):
             return found
     return None
 
+def langlinks(title):
+    """The articles on the same subject in the other editions, as the English article's own
+    language links give them. Added 10-10-2026: the script looked a term up in each language
+    by its English name, so Surveillance Capitalism found "no article" in German, French and
+    Spanish while Überwachungskapitalismus, Économie de la surveillance and Capitalismo de
+    vigilancia exist. The links are kept by Wikipedia's editors, so they are the better guess;
+    the English name stays the fallback for an edition without one."""
+    if not title:
+        return {}
+    u = f"https://en.wikipedia.org/w/api.php?action=query&titles={urllib.parse.quote(title)}&prop=langlinks&lllimit=500&redirects=1&format=json"
+    d = get(u)
+    for pid, page in d.get("query", {}).get("pages", {}).items():
+        if pid != "-1":
+            return {l["lang"]: l["*"] for l in page.get("langlinks", [])}
+    return {}
+
 def views(lang, title):
     """Monthly views by readers (not bots), keyed "YYYY-MM".
 
@@ -206,6 +222,9 @@ def run(term, out_path, pins):
     since = {}   # per language, the month its article was first written
     wikipedia = {}  # per language: the article counted, or why not
     same, other, missing, left_out = [], [], [], []
+    en_pin = pins.get("en")
+    en_title = None if en_pin == "-" else resolve("en", en_pin or term)
+    linked = langlinks(en_title)
     for lang in LANGS:
         pinned = pins.get(lang)
         if pinned == "-":
@@ -215,9 +234,30 @@ def run(term, out_path, pins):
             wikipedia[lang] = why
             left_out.append((NAMES[lang], why))
             continue
-        title = resolve(lang, pinned) if pinned else resolve(lang, term)
+        via_link = False
+        if pinned:
+            title = resolve(lang, pinned)
+        elif lang != "en" and linked.get(lang):
+            title = resolve(lang, linked[lang])
+            via_link = bool(title)
+        elif lang != "en" and en_title:
+            # the English article exists and links to nothing here: no lookup by the English
+            # name, which found only the wrong thing (10-10-2026: Provider in German, a
+            # disambiguation page; Blackpill in Spanish, a suburb of Swansea; Alpha Male in
+            # French, a film). A pin can still name an article the links miss.
+            title = None
+        else:
+            title = resolve(lang, term)
         if not title:
-            wikipedia[lang] = "no article"
+            # say what was searched, so "no article" can be checked (10-10-2026, Marieke:
+            # "specificeer"): the language link from the English article, and the name
+            name = pinned or term
+            if lang == "en":
+                wikipedia[lang] = f"no article named \"{name}\""
+            elif en_title and not pinned:
+                wikipedia[lang] = f"no article: \"{en_title}\" links to none in this language"
+            else:
+                wikipedia[lang] = f"no article named \"{name}\""
             missing.append(NAMES[lang])
             continue
         v = views(lang, title)
@@ -225,7 +265,7 @@ def run(term, out_path, pins):
             wikipedia[lang] = f"article \"{title}\", no views recorded"
             missing.append(NAMES[lang])
             continue
-        how = "" if (pinned or title.lower() == term.lower()) else " (via a redirect)"
+        how = "" if (pinned or title.lower() == term.lower()) else (" (the English article's language link)" if via_link else " (via a redirect)")
         wikipedia[lang] = f"\"{title}\"{how}"
         (same if title.lower() == term.lower() else other).append((NAMES[lang], title, how))
         in_sum.append(f"{NAMES[lang]} \"{title}\"{how}")
@@ -244,7 +284,10 @@ def run(term, out_path, pins):
         else:
             gaps += [f"in {', '.join(n)}, {why}" for why, n in reasons.items()]
     if missing:
-        gaps.append("no article in " + ", ".join(missing))
+        if en_title and not any(pins.get(l) for l in LANGS if l != "en"):
+            gaps.append("no article in " + ", ".join(missing) + f": the English article \"{en_title}\" links to none")
+        else:
+            gaps.append("no article in " + ", ".join(missing))
     if not in_sum and not left_out:
         gaps = ["no article in any of the five languages"]
     if gaps:
@@ -413,7 +456,7 @@ def run(term, out_path, pins):
         "curator": curator,
         "wikipedia": wikipedia,
         "since": since,   # per language, the month its article was written: where a line may start
-        "note": ("Attention to the term" + (", and on 4chan its use" if any(x.get("kind") == "use" for x in series) else ", not use of it") + ". The sources cannot be compared in size, only in shape and timing: each is indexed to its own peak (= 100); the current year is partial."),
+        "note": ("Attention to the term" + (", and on 4chan its use" if any(x.get("kind") == "use" for x in series) else ", not use of it") + ". The sources cannot be compared in size, only in shape and timing: each is indexed to its own peak (= 100); the current year is partial." + (" Wikipedia: the English article and the articles it links to in Dutch, German, French and Spanish, under whatever name they carry there; some are broader than the term." if any("Wikipedia" in x.get("label", "") for x in series) else "")),
         "series": series,
     }
     data["pins"] = pins
