@@ -51,6 +51,15 @@ def main():
 
             rel_path = os.path.relpath(fpath, VAULT_DIR)
             names.setdefault(name, []).append(rel_path)
+            # The term: field too (added 2026-10-10): Surveillance Capitalism existed twice
+            # under two filenames ("... (Political Economy)"), both with term: Surveillance
+            # Capitalism, and a filename-only check could not see it.
+            with open(fpath, encoding="utf-8", errors="ignore") as f:
+                head = f.read(2000)
+            fm = re.match(r"^---\n(.*?)\n---", head, re.DOTALL)
+            t = re.search(r"^term:\s*\"?(.+?)\"?\s*$", fm.group(1), re.MULTILINE) if fm else None
+            if t and t.group(1).strip().lower() != name.lower():
+                names.setdefault(t.group(1).strip(), []).append(rel_path + "  (term: field)")
 
     duplicates = {name: paths for name, paths in names.items() if len(paths) > 1}
 

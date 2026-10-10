@@ -54,6 +54,9 @@ type LinkRenderData = GraphicsInfo & {
   restColor?: string
   // which kind of relation this line carries, for the legend
   relation?: string
+  // how well the relation is argued (2026-10-10): in both texts, in one, or only listed in
+  // Related terms. Drawn as a thick, a plain or a dashed line.
+  strength?: "strong" | "carried" | "named"
 }
 
 type NodeRenderData = GraphicsInfo & {
@@ -71,7 +74,7 @@ type NodeRenderData = GraphicsInfo & {
 }
 
 // Bump when the graph changes visibly; shown at the foot of the legend.
-const GRAPH_BUILD = "graph 2026-09-12 · 20:05"
+const GRAPH_BUILD = "graph 2026-10-10 · lines by argument"
 
 const localStorageKey = "graph-visited"
 function getVisited(): Set<SimpleSlug> {
@@ -118,6 +121,18 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
       v,
     ]),
   )
+  // What each page discusses in its running text: its links minus the ones that appear only
+  // in its Related terms line. Read by relationStrength below.
+  const inText = new Map<SimpleSlug, Set<SimpleSlug>>()
+  for (const [id, d] of data.entries()) {
+    const side = new Set(d.related ?? [])
+    inText.set(id, new Set((d.links ?? []).filter((l) => !side.has(l))))
+  }
+  function relationStrength(a: SimpleSlug, b: SimpleSlug): "strong" | "carried" | "named" {
+    const ab = inText.get(a)?.has(b) ?? false
+    const ba = inText.get(b)?.has(a) ?? false
+    return ab && ba ? "strong" : ab || ba ? "carried" : "named"
+  }
   const links: SimpleLinkData[] = []
   const tags: SimpleSlug[] = []
   // The vault's own front page links to every cluster and half the terms, so as a node it
@@ -983,11 +998,16 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
       linkLabelsContainer.addChild(label)
     }
 
+    const strength =
+      relation === "related term" || relation === "backlink" || relation === "between neighbours"
+        ? relationStrength((l.source as NodeData).id, (l.target as NodeData).id)
+        : undefined
     const linkRenderDatum: LinkRenderData = {
       simulationData: l,
       gfx,
       label,
       relation,
+      strength,
       color: restColor,
       restColor,
       alpha: 1,
@@ -1305,7 +1325,38 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     const stamp = document.createElement("small")
     stamp.className = "stamp"
     stamp.textContent = GRAPH_BUILD
-    legendEl.replaceChildren(...glyphRows, ...literatureRows, divider, ...clusterRows, stamp)
+    // How well each relation is argued: the same three kinds the relation report uses.
+    const strengthMeanings: [string, string, string][] = [
+      ["strong", "strong", "in both texts"],
+      ["carried", "carried", "in one text"],
+      ["named", "named", "related terms only"],
+    ]
+    const strengthsUsed = new Set(linkRenderData.map((l) => l.strength).filter(Boolean))
+    const strengthRows = strengthMeanings
+      .filter(([k]) => strengthsUsed.has(k as any))
+      .map(([, kind, meaning]) => {
+        const row = document.createElement("span")
+        row.className = "filter"
+        const line = document.createElement("em")
+        line.className = `line ${kind}`
+        row.append(line, document.createTextNode(meaning))
+        return row
+      })
+    // The lines and arrows get their own small key, bottom left; the clusters keep the
+    // column on the right. One column for both ran off the bottom of the screen (10-10).
+    let linesEl = legendEl.parentElement?.querySelector(".graph-legend-lines") as HTMLElement | null
+    if (!linesEl) {
+      linesEl = document.createElement("div")
+      linesEl.className = "graph-legend-lines"
+      legendEl.after(linesEl)
+    }
+    linesEl.replaceChildren(...glyphRows, ...strengthRows)
+    legendEl.replaceChildren(
+      ...literatureRows,
+      ...(literatureRows.length ? [divider] : []),
+      ...clusterRows,
+      stamp,
+    )
   }
 
   let labelsNeedPlacing = true
@@ -1357,6 +1408,49 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
       const tx = linkData.target.x! + width / 2
       const ty = linkData.target.y! + height / 2
 
+      // Thick when both texts argue the relation, plain when one does, dashed when it is only
+      // listed in Related terms. A dashed line is drawn as short pieces along the same path.
+      const lineWidth = l.strength === "strong" ? 2.6 : 1
+      const lineAlpha = l.active ? l.alpha : l.alpha * 0.3
+      if (l.strength === "named") {
+        const pts: [number, number][] = []
+        const curved = radialLayout && l.relation === "between neighbours"
+        const cx = ((sx + tx) / 2 - width / 2) * 0.45 + width / 2
+        const cy = ((sy + ty) / 2 - height / 2) * 0.45 + height / 2
+        for (let i = 0; i <= 40; i++) {
+          const t = i / 40
+          pts.push(
+            curved
+              ? [
+                  (1 - t) * (1 - t) * sx + 2 * (1 - t) * t * cx + t * t * tx,
+                  (1 - t) * (1 - t) * sy + 2 * (1 - t) * t * cy + t * t * ty,
+                ]
+              : [sx + (tx - sx) * t, sy + (ty - sy) * t],
+          )
+        }
+        let draw = true
+        let left = 4
+        for (let i = 1; i < pts.length; i++) {
+          let [x0, y0] = pts[i - 1]
+          const [x1, y1] = pts[i]
+          let seg = Math.hypot(x1 - x0, y1 - y0)
+          while (seg > 0) {
+            const step = Math.min(seg, left)
+            const nx = x0 + ((x1 - x0) * step) / seg
+            const ny = y0 + ((y1 - y0) * step) / seg
+            if (draw) l.gfx.moveTo(x0, y0).lineTo(nx, ny)
+            x0 = nx
+            y0 = ny
+            seg -= step
+            left -= step
+            if (left <= 0) {
+              draw = !draw
+              left = draw ? 4 : 3
+            }
+          }
+        }
+        l.gfx.stroke({ alpha: lineAlpha, width: 1, color: l.color })
+      } else {
       l.gfx.moveTo(sx, sy)
       if (radialLayout && l.relation === "between neighbours") {
         // A chord, not a straight line. Two neighbours linked to each other have nothing to
@@ -1367,11 +1461,10 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
         const cy = ((sy + ty) / 2 - height / 2) * 0.45 + height / 2
         l.gfx
           .quadraticCurveTo(cx, cy, tx, ty)
-          .stroke({ alpha: l.active ? l.alpha : l.alpha * 0.3, width: 1, color: l.color })
+          .stroke({ alpha: lineAlpha, width: lineWidth, color: l.color })
       } else {
-        l.gfx
-          .lineTo(tx, ty)
-          .stroke({ alpha: l.active ? l.alpha : l.alpha * 0.3, width: 1, color: l.color })
+        l.gfx.lineTo(tx, ty).stroke({ alpha: lineAlpha, width: lineWidth, color: l.color })
+      }
       }
 
       if (l.label) {
@@ -2114,6 +2207,7 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
 
   const resetButton = controlsEl?.querySelector(".graph-controls-reset") as HTMLButtonElement | null
 
+
   // A picture of the graph as it stands, for a slide or a note. The renderer is asked for
   // the pixels rather than the canvas element: with webgl the drawing buffer is not kept
   // around after a frame, so reading the element straight off gives an empty image.
@@ -2131,7 +2225,11 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
       // The legend lives in the page, not on the canvas, so extracting the drawing alone
       // produced an image whose colours nothing explained. It is redrawn here from the same
       // rows the panel is built from, in a margin beside the picture.
-      const rows = [...(legendEl?.querySelectorAll("span") ?? [])].map((row) => {
+      const linesKey = legendEl?.parentElement?.querySelector(".graph-legend-lines")
+      const rows = [
+        ...(linesKey?.querySelectorAll("span") ?? []),
+        ...(legendEl?.querySelectorAll("span") ?? []),
+      ].map((row) => {
         const swatch = row.querySelector("i")
         const mark = row.querySelector("b")
         const glyph = mark?.textContent ?? ""

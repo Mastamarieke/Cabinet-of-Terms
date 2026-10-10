@@ -42,6 +42,33 @@ export const CrawlLinks: QuartzTransformerPlugin<Partial<Options>> = (userOpts) 
           return (tree: Root, file) => {
             const curSlug = simplifySlug(file.data.slug!)
             const outgoing: Set<SimpleSlug> = new Set()
+            // Which links an entry argues and which it only lists (2026-10-10). A link inside
+            // the "Related terms:" paragraph is a side path; one inside "In the text:" repeats
+            // the running text and counts as neither; every other link is in the text. The
+            // graph uses this to draw a relation thick, plain or dashed.
+            const textOut: Set<SimpleSlug> = new Set()
+            const relatedOut: Set<SimpleSlug> = new Set()
+            const relatedAnchors = new WeakSet<object>()
+            const inTextAnchors = new WeakSet<object>()
+            const textOf = (n: any): string =>
+              n.type === "text" ? n.value : (n.children ?? []).map(textOf).join("")
+            visit(tree, "element", (p) => {
+              if (p.tagName !== "p") return
+              const first = p.children.find(
+                (c: any) => c.type === "element" || (c.type === "text" && c.value.trim() !== ""),
+              ) as any
+              if (!first || first.type !== "element" || first.tagName !== "strong") return
+              const label = textOf(first).trim()
+              const into = label.startsWith("Related terms")
+                ? relatedAnchors
+                : label.startsWith("In the text")
+                  ? inTextAnchors
+                  : null
+              if (!into) return
+              visit(p, "element", (a) => {
+                if (a.tagName === "a") into.add(a)
+              })
+            })
 
             const transformOptions: TransformOptions = {
               strategy: opts.markdownLinkResolution,
@@ -122,6 +149,8 @@ export const CrawlLinks: QuartzTransformerPlugin<Partial<Options>> = (userOpts) 
                   const full = decodeURIComponent(stripSlashes(destCanonical, true)) as FullSlug
                   const simple = simplifySlug(full)
                   outgoing.add(simple)
+                  if (relatedAnchors.has(node)) relatedOut.add(simple)
+                  else if (!inTextAnchors.has(node)) textOut.add(simple)
                   node.properties["data-slug"] = full
                 }
 
@@ -160,6 +189,7 @@ export const CrawlLinks: QuartzTransformerPlugin<Partial<Options>> = (userOpts) 
             })
 
             file.data.links = [...outgoing]
+            file.data.relatedLinks = [...relatedOut].filter((l) => !textOut.has(l))
           }
         },
       ]
@@ -170,5 +200,6 @@ export const CrawlLinks: QuartzTransformerPlugin<Partial<Options>> = (userOpts) 
 declare module "vfile" {
   interface DataMap {
     links: SimpleSlug[]
+    relatedLinks: SimpleSlug[]
   }
 }

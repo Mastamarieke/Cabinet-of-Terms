@@ -392,6 +392,55 @@
     }
   }
 
+  // Lines and arrows, bottom left (10-10): the cluster column on the right could not also
+  // hold them without running off the screen.
+  .graph-legend-lines {
+    position: fixed;
+    bottom: calc(10vh + 3rem);
+    left: calc(10vw + 2.2rem);
+    z-index: 10;
+    display: flex;
+    flex-direction: column;
+    gap: 0.28em;
+
+    &:empty {
+      display: none;
+    }
+
+    span {
+      display: flex;
+      align-items: center;
+      gap: 0.6em;
+      font-size: 0.54em;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: var(--gray);
+    }
+
+    b {
+      width: 18px;
+      text-align: center;
+      font-weight: 400;
+      color: var(--darkgray);
+    }
+
+    em.line {
+      display: inline-block;
+      width: 18px;
+      height: 0;
+      flex-shrink: 0;
+      border-top: 1px solid var(--darkgray);
+
+      &.strong {
+        border-top-width: 3px;
+      }
+
+      &.named {
+        border-top-style: dashed;
+      }
+    }
+  }
+
   .graph-overlay-actions {
     position: fixed;
     top: calc(10vh + 0.75rem);
@@ -467,6 +516,16 @@
         text-align: center;
         margin-top: 0.2em;
       }
+    }
+
+    .graph-legend-lines {
+      bottom: calc(6vh + 7em);
+      left: 3vw;
+      right: 3vw;
+      flex-direction: row;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 0.25em 0.9em;
     }
 
     .graph-overlay-actions {

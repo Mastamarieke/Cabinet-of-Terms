@@ -55,13 +55,25 @@ def main():
             related_targets = set(
                 l.split("|")[0].strip() for l in re.findall(r"\[\[([^\]]+)\]\]", related_line)
             )
-            body = content[: m.start()]
+            # Prototype (2026-10-10, Surveillance Capitalism): an "In the text" line lists the
+            # terms the running text discusses; Related terms then holds only the side paths,
+            # each with a short reason. The In the text line must match the body exactly.
+            it = re.search(r"\*\*In the text:\*\*(.*)", content)
+            body_end = it.start() if it and it.start() < m.start() else m.start()
+            body = content[:body_end]
             fm_end = re.match(r"^---.*?---\s*", body, flags=re.DOTALL)
             if fm_end:
                 body = body[fm_end.end() :]
             this_term = os.path.basename(dirpath) if fname == "index.md" else fname[:-3]
             body_targets = [l.split("|")[0].strip() for l in re.findall(r"\[\[([^\]]+)\]\]", body)]
             body_targets = [t for t in body_targets if t != this_term and t not in source_names]
+            if it and it.start() < m.start():
+                listed = set(l.split("|")[0].strip() for l in re.findall(r"\[\[([^\]]+)\]\]", it.group(1)))
+                missing = sorted(set(body_targets) - listed)
+                extra = sorted(listed - set(body_targets))
+                if missing or extra:
+                    violations[rel_path] = missing + [f"(not in the text: {e})" for e in extra]
+                continue
             missing = [t for t in body_targets if t not in related_targets]
             if missing:
                 violations[rel_path] = missing

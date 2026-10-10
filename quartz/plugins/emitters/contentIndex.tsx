@@ -14,6 +14,8 @@ export type ContentDetails = {
   filePath: FilePath
   title: string
   links: SimpleSlug[]
+  // links that appear only in the Related terms line (side paths), see links.ts
+  related?: SimpleSlug[]
   tags: string[]
   content: string
   richContent?: string
@@ -108,6 +110,7 @@ export const ContentIndex: QuartzEmitterPlugin<Partial<Options>> = (opts) => {
             filePath: file.data.relativePath!,
             title: file.data.frontmatter?.title!,
             links: file.data.links ?? [],
+            related: file.data.relatedLinks ?? [],
             tags: file.data.frontmatter?.tags ?? [],
             content: file.data.text ?? "",
             richContent: opts?.rssFullHtml
