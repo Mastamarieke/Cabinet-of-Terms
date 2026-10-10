@@ -347,3 +347,9 @@ article > p:first-of-type > em > strong {
   font-size: 1.25em;
   letter-spacing: 0.01em;
 }
+
+/* The reason after a related term, set smaller and lighter so the term names lead (10-10). */
+.rt-reason {
+  font-size: 0.82em;
+  color: var(--darkgray);
+}

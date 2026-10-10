@@ -68,6 +68,32 @@ export const CrawlLinks: QuartzTransformerPlugin<Partial<Options>> = (userOpts) 
               visit(p, "element", (a) => {
                 if (a.tagName === "a") into.add(a)
               })
+              // The reason after a related term, "(…)", in its own span so it can be set
+              // smaller than the term names (10-10).
+              if (into === relatedAnchors) {
+                const kids: any[] = []
+                for (const c of p.children as any[]) {
+                  if (c.type !== "text" || !c.value.includes("(")) {
+                    kids.push(c)
+                    continue
+                  }
+                  let rest: string = c.value
+                  let m: RegExpExecArray | null
+                  const re = /\(([^()]*)\)/
+                  while ((m = re.exec(rest))) {
+                    if (m.index > 0) kids.push({ type: "text", value: rest.slice(0, m.index) })
+                    kids.push({
+                      type: "element",
+                      tagName: "span",
+                      properties: { className: ["rt-reason"] },
+                      children: [{ type: "text", value: m[0] }],
+                    })
+                    rest = rest.slice(m.index + m[0].length)
+                  }
+                  if (rest) kids.push({ type: "text", value: rest })
+                }
+                p.children = kids
+              }
             })
 
             const transformOptions: TransformOptions = {
