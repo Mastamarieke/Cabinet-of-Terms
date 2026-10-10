@@ -55,10 +55,9 @@
     opacity: 0.85;
 
     &.named {
-      stroke: var(--gray);
       stroke-width: 1;
       stroke-dasharray: 4 3;
-      opacity: 0.7;
+      opacity: 0.55;
     }
 
     &.mine {
@@ -103,5 +102,50 @@
   a:hover .outward-term,
   a:hover .outward-cluster {
     fill: var(--secondary);
+  }
+
+  .outward-tip {
+    margin: 0.2rem 0;
+    min-height: 1.3em;
+    font-size: 0.8rem;
+    color: var(--darkgray);
+  }
+
+  .outward-node {
+    cursor: pointer;
+  }
+
+  .outward-go {
+    font-size: 11px;
+    fill: var(--gray);
+  }
+
+  .outward-link:hover .outward-go {
+    fill: var(--secondary);
+  }
+
+  .outward-line {
+    transition: opacity 0.15s ease;
+  }
+
+  // one cluster or term in focus: its lines stay, the rest fade
+  .outward-svg.focused {
+    .outward-line {
+      opacity: 0.08;
+    }
+
+    .outward-line.on {
+      opacity: 1;
+      stroke-width: 2.2;
+    }
+
+    .outward-line.named.on {
+      stroke-width: 1.4;
+      opacity: 0.9;
+    }
+
+    .outward-node.on text {
+      font-weight: 700;
+    }
   }
 }

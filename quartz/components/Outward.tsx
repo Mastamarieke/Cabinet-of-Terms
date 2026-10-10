@@ -1,6 +1,8 @@
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import { FullSlug, SimpleSlug, resolveRelative, simplifySlug } from "../util/path"
 import style from "./styles/outward.scss"
+// @ts-ignore
+import script from "./scripts/outward.inline"
 
 // A collapsible block on a cluster's About page (2026-10-10), folding like Semantic field
 // and Attention curve. Three columns: on the left the clusters whose terms point into this
@@ -165,41 +167,56 @@ export default (() => {
               const cut = k.indexOf("|")
               const c = k.slice(0, cut)
               const t = k.slice(cut + 1)
-              return <path d={curve(xIn + 5, inY.get(c)!, xMid - 5, termY.get(t)!)} class={`outward-line ${kind}`} stroke={kind === "argued" ? clusterColor(c) : undefined} />
+              return <path d={curve(xIn + 5, inY.get(c)!, xMid - 5, termY.get(t)!)} class={`outward-line ${kind}`} stroke={clusterColor(c)} data-c={`in:${c}`} data-t={t} />
             })}
             {[...outPair.entries()].map(([k, kind]) => {
               const cut = k.lastIndexOf("|")
               const t = k.slice(0, cut)
               const c = k.slice(cut + 1)
-              return <path d={curve(xMid + 5, termY.get(t)!, xOut - 5, outY.get(c)!)} class={`outward-line ${kind}`} stroke={kind === "argued" ? clusterColor(c) : undefined} />
+              return <path d={curve(xMid + 5, termY.get(t)!, xOut - 5, outY.get(c)!)} class={`outward-line ${kind}`} stroke={clusterColor(c)} data-c={`out:${c}`} data-t={t} />
             })}
             {ins.map(([c, v], i) => (
-              <a href={link(`Cabinet-of-Digital-Terms/${c}/`)} class="outward-link">
+              <g class="outward-node" data-key={`in:${c}`} data-tip={`${niceTitle(c)} → ${niceTitle(own)}: ${v.argued} argued in the text · ${v.named} only in Related terms`}>
                 <circle cx={xIn} cy={yC(ins.length, i).toFixed(1)} r={5} fill={clusterColor(c)} />
                 <text x={xIn - 10} y={(yC(ins.length, i) + 4).toFixed(1)} text-anchor="end" class="outward-cluster">
+                  <a href={link(`Cabinet-of-Digital-Terms/${c}/`)} class="outward-link">
+                    <tspan class="outward-go">↗ </tspan>
+                  </a>
                   <tspan class="outward-count">{`${v.argued} · ${v.named}  `}</tspan>
                   {niceTitle(c)}
                 </text>
-              </a>
+              </g>
             ))}
-            {terms.map((t, i) => (
-              <a href={link(t)} class="outward-link">
-                <circle cx={xMid} cy={yT(i).toFixed(1)} r={3.5} fill={ownColour} />
-                <text x={xMid} y={(yT(i) - 5).toFixed(1)} text-anchor="middle" class="outward-term">
-                  {info.get(t)!.title}
-                </text>
-              </a>
-            ))}
+            {terms.map((t, i) => {
+              const oi = [...outPair.entries()].filter(([k]) => k.startsWith(`${t}|`))
+              const ii = [...inPair.entries()].filter(([k]) => k.endsWith(`|${t}`))
+              const a = oi.filter(([, x]) => x === "argued").length + ii.filter(([, x]) => x === "argued").length
+              const n = oi.length + ii.length - a
+              return (
+                <g class="outward-node" data-key={`t:${t}`} data-tip={`${info.get(t)!.title}: ${a} cluster links argued · ${n} only listed`}>
+                  <circle cx={xMid} cy={yT(i).toFixed(1)} r={3.5} fill={ownColour} />
+                  <a href={link(t)} class="outward-link">
+                    <text x={xMid} y={(yT(i) - 5).toFixed(1)} text-anchor="middle" class="outward-term">
+                      {info.get(t)!.title}
+                    </text>
+                  </a>
+                </g>
+              )
+            })}
             {outs.map(([c, v], i) => (
-              <a href={link(`Cabinet-of-Digital-Terms/${c}/`)} class="outward-link">
+              <g class="outward-node" data-key={`out:${c}`} data-tip={`${niceTitle(own)} → ${niceTitle(c)}: ${v.argued} argued in the text · ${v.named} only in Related terms`}>
                 <circle cx={xOut} cy={yC(outs.length, i).toFixed(1)} r={5} fill={clusterColor(c)} />
                 <text x={xOut + 10} y={(yC(outs.length, i) + 4).toFixed(1)} class="outward-cluster">
                   {niceTitle(c)}
                   <tspan class="outward-count">{`  ${v.argued} · ${v.named}`}</tspan>
+                  <a href={link(`Cabinet-of-Digital-Terms/${c}/`)} class="outward-link">
+                    <tspan class="outward-go"> ↗</tspan>
+                  </a>
                 </text>
-              </a>
+              </g>
             ))}
           </svg>
+          <p class="outward-tip" aria-live="polite">Point at a cluster or a term to see its lines; click to keep them highlighted, ↗ opens the cluster.</p>
           <p class="outward-key">
             <em class="line argued" /> argued in the text that points <em class="line named" /> only in its Related terms · numbers: argued · only listed
           </p>
@@ -208,5 +225,6 @@ export default (() => {
     )
   }
   Outward.css = style
+  Outward.afterDOMLoaded = script
   return Outward
 }) satisfies QuartzComponentConstructor
