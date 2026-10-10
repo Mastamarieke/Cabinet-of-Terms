@@ -300,3 +300,19 @@ In 2018 people on China's social credit blacklists were stopped from buying plan
 
 - [[Surveillance Capitalism]] — the state that orders, set beside scoring without a central list
 - [[Social Credit System]] — the blacklists in practice
+
+## 19. Historicus en journalist Jill Lepore: ‘Als je geen datacenter voor je deur wilt, stop dan met alles aan AI te vragen’
+
+**Author:** P. van der Steen
+**Year:** 2026
+**Type:** Journalism (interview)
+**Publisher:** Trouw, 9 oktober
+**URL:** https://www.trouw.nl/verdieping/historicus-en-journalist-jill-lepore-als-je-geen-datacenter-voor-je-deur-wilt-stop-dan-met-alles-aan-ai-te-vragen~bade0198/
+
+### What this source contributes
+
+An interview with the Harvard historian Jill Lepore on her book *Opkomst en ondergang van de kunstmatige staat*. She describes surveillance pricing, which angers her students: the same dishwasher from the same seller can cost her hundreds of dollars more or less than her neighbours', because the seller knows their economic status, recent purchases, property tax, how often they buy such things and whether they look for bargains. She also traces data-driven prediction back to Simulmatics Corporation, which in 1960 predicted the American electorate's behaviour for the Democrats and then built a machine to predict race riots.
+
+### Related entries
+
+- [[Surveillance Capitalism]] — the prediction that sets the price
