@@ -7,6 +7,23 @@ analytical_layer: cause
 status: publieksversie
 version: V1
 analysis_version: pending
+semantic_landscape: |
+  Few terms in the Cabinet have as many neighbours as **Surveillance Capitalism**, from **Sharenting** in **Parents & Children** to **Doom Trolling** in **SF as Ideology**. Many of them meet here over something handed over: a photo, a location, a name that should have been forgotten (**Deadnaming**).
+
+  Follow one location. In 2016 a player of Pokémon GO walks to a park to catch a creature, and the game records where; in 2024 Niantic said that scans made by players were training a model of the physical world. A location from another app, Candy Crush or Tinder, reaches **Data Brokers** such as Gravy Analytics, who sell to companies and to governments. On the way it passes **Microtargeting**, where it decides which advert one person sees, and the **Panopticon**, where people act as if they are watched. A government that buys can also be entered from inside: in 2025 Elon Musk's DOGE team reached the Treasury's payment system (**Muskism**), and the acting director of ICE wanted deportation to run like Prime.
+
+  Other neighbours try to hand over less. **Obfuscation**, the **Fediverse** and **Privacy by Design** each offer a way, and the **Brussels Effect** makes companies elsewhere answer to European rules.
+
+  At the end are people: about 300,000 who filled in a personality quiz on Facebook, the friends whose data went with theirs, and workers in Kenya who watch video from other people's living rooms to train a pair of glasses.
+attention_moments:
+  - month: 2020-09
+    note: "The Social Dilemma came to Netflix on 9 September; Zuboff is one of the people interviewed. Views rose from the 13th and stayed high until the end of the month. That month 4,536 readers arrived from the film's own Wikipedia page, more than from any other article."
+    source: "The Social Dilemma (Wikipedia)"
+    url: "https://en.wikipedia.org/wiki/The_Social_Dilemma"
+  - month: 2025-08
+    note: "Search interest on Google rose in the first weeks of August 2025 and stayed high until June 2026, highest in the week of 31 May; in July it fell back, and in September 2026 it rose again. Wikipedia views did not follow. Relative to their size, most searches came from China, Singapore and South Korea. The rhythm follows a school year, but no course or event has been found. A Live Science article on AI and surveillance capitalism (27 April 2026) falls in a quieter week."
+    source: "McKenna (2026), Live Science"
+    url: "https://www.livescience.com/technology/artificial-intelligence/how-everything-you-do-is-being-monitored-in-an-ai-fuelled-surveillance-capitalism-system"
 ---
 
 ***Your behaviour is the raw material. Your prediction is the product.***
