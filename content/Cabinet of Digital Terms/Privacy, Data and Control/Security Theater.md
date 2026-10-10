@@ -21,7 +21,7 @@ analysis_version: pending
 
 **Why This Matters:** **Security theater** names the gap between the performance of security and its substance. Once you can identify the move — visible measure, low actual protection — you can ask of any security requirement: what does this actually prevent, and how was that evaluated?
 
-**Related terms:** [[Privacy Washing]] · [[Obfuscation]] · [[Brussels Effect]] · [[Dark Patterns]] · [[Algorithmic Violence]] · [[Surveillance Capitalism]] · [[Vendor Lock-in]]
+**Related terms:** [[Privacy Washing]] · [[Obfuscation]] · [[Brussels Effect]] · [[Dark Patterns]] · [[Algorithmic Violence]] · [[Surveillance Capitalism]] (selling predictions made from behavioural data: cookie banners are security theater for consent while the collection goes on) · [[Vendor Lock-in]]
 
 
 ---

@@ -26,7 +26,7 @@ The loop is designed to have no natural endpoint. [[Dopamine Feedback Loops]] ar
 **Why This Matters**
 Once you see the **ludic loop** in your phone's notification system, your social media feed, and your inbox, you see that the experience of compulsion is not a weakness — it is a specification.
 
-**Related terms:** [[Dopamine Feedback Loops]] · [[Gamification Creep]] · [[Predatory Design]] · [[Attention Harvesting]] · [[Gaming Disorder]] · [[Loot Boxes]] · [[Attention Economy]] · [[Calm Technology]] · [[Cognitive Surrender]] · [[Digital Overload]] · [[Frictionful Design]] · [[Surveillance Capitalism]]
+**Related terms:** [[Dopamine Feedback Loops]] · [[Gamification Creep]] · [[Predatory Design]] · [[Attention Harvesting]] · [[Gaming Disorder]] · [[Loot Boxes]] · [[Attention Economy]] · [[Calm Technology]] · [[Cognitive Surrender]] · [[Digital Overload]] · [[Frictionful Design]] · [[Surveillance Capitalism]] (selling predictions made from behavioural data: the longer a ludic loop keeps people playing, the more behaviour there is to sell)
 
 
 ---

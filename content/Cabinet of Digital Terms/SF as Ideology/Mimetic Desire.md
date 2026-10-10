@@ -23,7 +23,7 @@ analysis_version: pending
 
 **Mimetic desire** names the engine beneath much of what digital platforms are built on. [[Influencer]] culture is mimetic desire as infrastructure: you want what they have because they are your model. [[Recommender Systems]] surface what others watched, bought, endorsed — constantly refreshing your model. The Dutch *TikTokrij* (TikTok queue) shows the triangle on the street. Fabel Friet, a chip shop in Amsterdam's Nine Streets, was quiet for years after it opened in 2020; then videos of its fries with truffle mayonnaise brought queues that at times reached the bridge over the Keizersgracht. The people in the queue want the fries because they saw someone else holding them, and they film their own portion for the next viewer, who becomes the next person in line. [[Attention Economy]] is sustained by mimetic anxiety: the fear of desiring the wrong thing, being behind, missing out. [[FOMO]] is mimetic desire made anxious. And the scapegoat mechanism explains online pile-ons with uncomfortable precision: the sudden unanimity, the disproportionate intensity, the relief of being on the right side.
 
-**Related terms:** [[Comparison Culture]] · [[FOMO]] · [[Attention Economy]] · [[Recommender Systems]] · [[Influencer]] · [[Parasocial Relationship]] · [[Surveillance Capitalism]] · [[Deinfluencing]]
+**Related terms:** [[Comparison Culture]] · [[FOMO]] · [[Attention Economy]] · [[Recommender Systems]] · [[Influencer]] · [[Parasocial Relationship]] · [[Surveillance Capitalism]] (selling predictions made from behavioural data: mimetic desire makes people more open to dark patterns and to sharing what others share, and every click is behaviour and data to sell) · [[Deinfluencing]]
 
 
 ---
