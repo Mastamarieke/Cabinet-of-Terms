@@ -151,3 +151,21 @@ The Dutch regulator's investigation into Roblox, opened on 30 January 2026, deci
 ### Related entries
 
 - [[Brussels Effect]] — a national regulator deciding for Europe
+
+## 10. Binnen 0,0146 seconden wisten 835 bedrijven wie Julia was. Ze vatte het angstbeeld in een kunstwerk
+
+**Author:** M. de Ruiter
+**Year:** 2019
+**Type:** Journalism (report)
+**Publisher:** de Volkskrant, 24 oktober
+**URL:** https://www.volkskrant.nl/nieuws-achtergrond/binnen-0-0146-seconden-wisten-835-bedrijven-wie-julia-was-ze-vatte-het-angstbeeld-in-een-kunstwerk~bbb8e6ec/
+
+### What this source contributes
+
+The artist Julia Janssen found that one click on the Daily Mail's website had accepted the terms of 835 companies the site shares data with, many of them advertisers and data brokers. She bound them into a book of 826 pages, read aloud by passers-by at Dutch Design Week 2019. The privacy law professor Gerrit-Jan Zwenne explains that the GDPR requires terms to be accessible and complete, and that the result can be more information than anyone can handle.
+
+### Related entries
+
+- [[Brussels Effect]] — what a European rule makes companies write, and what reaches the reader
+- [[Data Brokers]] — among the 835 companies
+

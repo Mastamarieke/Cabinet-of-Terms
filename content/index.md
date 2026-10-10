@@ -288,7 +288,7 @@ Some political vocabulary does not describe disagreements — it terminates them
 <details>
 <summary><strong>Privacy, Data and Control</strong> — 10 terms</summary>
 
-The privacy policy is forty-seven pages long. You clicked agree. So did everyone else. This cluster maps the gap between privacy rhetoric and privacy practice, and the mechanisms through which surveillance and control are exercised, obscured, or resisted.
+One click on "agree" accepted the terms of 835 companies. Read aloud, they take hundreds of hours. This cluster maps the gap between privacy rhetoric and privacy practice, and the mechanisms through which surveillance and control are exercised, obscured, or resisted.
 
 → [About this cluster](Cabinet-of-Digital-Terms/Privacy,-Data-and-Control/)
 
