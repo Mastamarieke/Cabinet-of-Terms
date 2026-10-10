@@ -1,4 +1,5 @@
 ---
+title: "Brussels Effect"
 term: Brussels Effect
 cluster: Privacy, Data and Control
 analytical_layer: reaction

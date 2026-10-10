@@ -149,6 +149,22 @@ def main():
                 print(f"  {cluster}: says {stated}, folder has {actual}")
             print()
 
+    # a folder entry (Term/index.md) without title: in frontmatter is called "index" everywhere
+    # on the site: graph, Outward, search (10-10-2026: Surveillance Capitalism and Brussels
+    # Effect, moved into folders the same day, showed as two nodes named "index")
+    untitled = []
+    for n, (path, _, text) in sorted(terms.items()):
+        if os.path.basename(path) == "index.md":
+            fm = re.match(r"---\n(.*?)\n---", text, re.S)
+            if not fm or not re.search(r"^title:", fm.group(1), re.M):
+                untitled.append(n)
+    if untitled:
+        problems += 1
+        print(f"{len(untitled)} folder entr{'y' if len(untitled) == 1 else 'ies'} without title: in frontmatter (shown as \"index\" on the site):\n")
+        for n in untitled:
+            print(f"  [[{n}]]")
+        print()
+
     if problems:
         return 1
     print("No orphans; About pages and cluster counts match.")

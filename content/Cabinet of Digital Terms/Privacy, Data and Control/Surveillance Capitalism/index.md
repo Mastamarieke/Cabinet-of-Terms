@@ -1,4 +1,5 @@
 ---
+title: "Surveillance Capitalism"
 term: Surveillance Capitalism
 aliases:
   - "Cabinet of Digital Terms/Society and Power/Surveillance Capitalism (Political Economy)"
