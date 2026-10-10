@@ -1329,7 +1329,7 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     const strengthMeanings: [string, string, string][] = [
       ["strong", "strong", "in both texts"],
       ["carried", "carried", "in one text"],
-      ["named", "named", "related terms only"],
+      ["named", "named", "in related terms, with a reason"],
     ]
     const strengthsUsed = new Set(linkRenderData.map((l) => l.strength).filter(Boolean))
     const strengthRows = strengthMeanings
