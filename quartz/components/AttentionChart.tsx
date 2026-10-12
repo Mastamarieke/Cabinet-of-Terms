@@ -523,7 +523,6 @@ export default (() => {
               )
             })}
           </ul>
-          {countedAs(data)}
           {moments.length > 0 && (
             <ol class="attention-moments">
               {moments.map((m) => (
@@ -546,6 +545,10 @@ export default (() => {
             </ol>
           )}
           <script type="application/json" class="attention-data" dangerouslySetInnerHTML={{ __html: JSON.stringify(readout).replace(/</g, "\\u003c") }}></script>
+          {/* how it was counted folds away (11-10, Marieke: "anders wordt het teveel"); the moments stay open */}
+          <details class="attention-about">
+          <summary>How this curve was counted</summary>
+          {countedAs(data)}
           {data.search_only ? (
             <p class="attention-note">
               <strong>Search interest only.</strong> The word is looked up on Google, but reference works and
@@ -582,6 +585,7 @@ export default (() => {
             <span class="attention-retrieved">Retrieved {longDate(data.retrieved)}.</span>
           </p>
           )}
+          </details>
         </div>
         <div class="attention-overlay" aria-hidden="true">
           <div class="attention-overlay-card">

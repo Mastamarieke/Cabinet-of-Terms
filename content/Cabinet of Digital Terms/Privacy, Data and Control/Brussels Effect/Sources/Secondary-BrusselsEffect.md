@@ -169,3 +169,18 @@ The artist Julia Janssen found that one click on the Daily Mail's website had ac
 - [[Brussels Effect]] — what a European rule makes companies write, and what reaches the reader
 - [[Data Brokers]] — among the 835 companies
 
+## 11. The global reach of the EU's approach to digital transformation
+
+**Author:** Maria Niestadt (European Parliamentary Research Service)
+**Year:** 2024
+**Type:** Policy briefing
+**Publisher:** European Parliament, January
+**URL:** https://www.europarl.europa.eu/RegData/etudes/BRIE/2024/757632/EPRS_BRI(2024)757632_EN.pdf
+
+### What this source contributes
+
+Summarises Bradford's two ways in which EU rules are exported: the de facto Brussels effect, when companies voluntarily extend EU rules across their global businesses, and the de jure Brussels effect, when foreign governments adopt EU-style regulations, for example after lobbying by companies that have already extended the EU rules, or through the EU's political influence.
+
+### Related entries
+
+- [[Brussels Effect]] — governments following the companies, sometimes at their request

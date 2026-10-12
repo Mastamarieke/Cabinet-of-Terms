@@ -23,7 +23,7 @@ analysis_version: pending
 
 **Why This Matters:** **Informatics of domination** names the continuity between old hierarchies and new systems. Once you see it, "the algorithm is neutral" becomes a political statement rather than a technical description.
 
-**Related terms:** [[Situated Knowledge]] · [[Cyborg]] · [[Surveillance Capitalism]] · [[Algorithmic Violence]] · [[Black Box]] · [[Digital Colonialism]] · [[Cyberfeminism]] · [[Unblackboxing]]
+**Related terms:** [[Situated Knowledge]] · [[Cyborg]] · [[Surveillance Capitalism]] · [[Algorithmic Violence]] · [[Black Box]] · [[Digital Colonialism]] · [[Cyberfeminism]] · [[Unblackboxing]] · [[Dataism]] (the belief that data is neutral: what lets old hierarchies pass through information systems unnoticed)
 
 
 ---

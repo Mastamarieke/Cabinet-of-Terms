@@ -9,6 +9,7 @@ function saveLandscape(box: HTMLElement) {
   const text = (source.textContent ?? "")
     .replace(/\\u003c/g, "<")
     .replace(/\*\*([^*]+)\*\*/g, "$1")
+    .replace(/\[([^\]]+)\]\(#[^)]+\)/g, "$1")
     .trim()
   const today = new Date().toISOString().slice(0, 10)
   const body =

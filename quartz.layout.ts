@@ -36,6 +36,8 @@ export const defaultContentPageLayout: PageLayout = {
     Component.AttentionChart(),
     Component.Outward(),
     Component.Voice(),
+    Component.RelatedTerms(),
+    Component.Citations(),
     Component.VaultMap(),
   ],
   left: [
@@ -78,6 +80,8 @@ export const defaultListPageLayout: PageLayout = {
     Component.AttentionChart(),
     Component.Outward(),
     Component.Voice(),
+    Component.RelatedTerms(),
+    Component.Citations(),
     Component.VaultMap({ showPanel: true }),
   ],
   left: [

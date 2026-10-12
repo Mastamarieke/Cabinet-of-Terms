@@ -1,0 +1,31 @@
+// Related terms (10-10): reasons folded away, opened per term under the line.
+p.rt-line .rt-reason {
+  display: none;
+}
+
+.rt-term {
+  display: inline-block;
+  white-space: nowrap;
+}
+
+.rt-all {
+  font: inherit;
+  font-size: 0.78em;
+  cursor: pointer;
+  background: none;
+  border: 1px solid var(--lightgray);
+  border-radius: 999px;
+  color: var(--han-red);
+  padding: 0.05em 0.6em;
+  margin-left: 0.3em;
+
+  &:hover {
+    border-color: var(--han-red);
+  }
+}
+
+// the button after a term is the same ▾ as a note in the text (citations.scss: .note-mark.tri)
+
+.rt-panel p {
+  margin: 0.3em 0;
+}

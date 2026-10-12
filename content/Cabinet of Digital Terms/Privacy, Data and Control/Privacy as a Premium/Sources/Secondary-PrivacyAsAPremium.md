@@ -123,3 +123,55 @@ After the non-compliance decision of April 2025, Meta committed to give EU users
 ### Related entries
 
 - [[Privacy as a Premium]] — Why This Matters: the third option
+
+## 8. Privacy, Poverty, and Big Data: A Matrix of Vulnerabilities for Poor Americans
+
+**Author:** M. Madden, M. Gilman, K. Levy & A. Marwick
+**Year:** 2017
+**Type:** Academic article (law review)
+**Publisher:** Washington University Law Review
+**URL:** https://openscholarship.wustl.edu/law_lawreview/vol95/iss1/6/
+
+### What this source contributes
+
+A nationally representative US telephone survey with an oversample of low-income adults. 63% of smartphone users in households earning under $20,000 a year mostly go online by phone, against 21% of those earning $100,000 or more; 65% of low-income social media users have used privacy settings to limit who sees their posts, against 79% in wealthier households. Poorer Americans are less likely to use the more expensive, more strongly encrypted phones. The survey predates pay-or-consent. Moved from primary to secondary on 2026-10-11, when European figures (Eurostat) took its place in the text; it remains the source of the opening of the semantic landscape.
+
+### Related entries
+
+- [[Privacy as a Premium]] — the semantic landscape: the phone, and the poorest households
+
+## 9. Privacy and protection of personal data (2020 onwards), table isoc_cisci_prv20
+
+**Author:** Eurostat
+**Year:** 2025 (data; table updated April 2026)
+**Type:** Official statistics (EU survey on ICT usage in households and by individuals)
+**Publisher:** Eurostat
+**URL:** https://ec.europa.eu/eurostat/databrowser/view/isoc_cisci_prv20/default/table?lang=en
+
+### What this source contributes
+
+Indicator I_MAPS_RAAD: individuals who in the last three months refused allowing the use of personal data for advertising purposes. As a share of internet users in 2025: EU 47% with no or low formal education against 71% with high formal education; Netherlands 60% against 76%. By household income only for 2020: EU 49% in the lowest quartile against 63% in the highest; Netherlands 74% against 81%. Self-reported.
+
+### Related entries
+
+- [[Privacy as a Premium]] — The Friction: who refuses
+
+## 10. Meta Platforms, Inc., Annual Report (Form 10-K) for the year ended 31 December 2025
+
+**Author:** Meta Platforms, Inc.
+**Year:** 2026
+**Type:** Company filing (US Securities and Exchange Commission)
+**Publisher:** SEC EDGAR
+**URL:** https://www.sec.gov/Archives/edgar/data/1326801/000162828026025534/meta-12312025x10kars.htm
+
+### What this source contributes
+
+Meta's own account of where the model stands: a "subscription for no ads" in the EU, EEA and Switzerland; since November 2024 a free option with "less personalized ads (LPA), which are less relevant and effective than our premium ad offerings"; "significant modifications to LPA" since the Commission's final decision of April 2025; and an appeal against that decision.
+
+### Status
+
+The phenomenon in its maker's words, as a filing to investors.
+
+### Related entries
+
+- [[Privacy as a Premium]] — Why This Matters: the choices now, and the appeal

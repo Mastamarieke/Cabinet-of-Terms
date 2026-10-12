@@ -58,7 +58,7 @@ An interview with Zuboff, the source of the line *"Our ignorance is their bliss.
 
 ## 4. Big Tech maakt van burgers vee
 
-**Author:** R. van Iperen
+**Author:** Roxane van Iperen
 **Year:** 2026
 **Type:** Journalism (essay)
 **Publisher:** Vrij Nederland, 9 juli
@@ -316,3 +316,38 @@ An interview with the Harvard historian Jill Lepore on her book *Opkomst en onde
 ### Related entries
 
 - [[Surveillance Capitalism]] — the prediction that sets the price
+
+## 20. Sex, toabesök & våld: Så hamnar Metas data på skärm i Kenya
+
+**Author:** Svenska Dagbladet & Göteborgs-Posten
+**Year:** 2026
+**Type:** Journalism (investigation)
+**Publisher:** Göteborgs-Posten, 25 February
+**URL:** https://www.gp.se/nyheter/gp-granskar/sa-kan-dina-toalettbesok-hamna-pa-en-skarm-i-kenya.2ffe90dc-49d2-4629-8fb1-d57421d5e4d0
+
+### What this source contributes
+
+A joint investigation by two Swedish newspapers: 32 employees of Sama, Meta's subcontractor in Nairobi, were interviewed, nine of whom annotate video, images and speech for Meta's AI. They describe seeing private footage from the glasses, including people having sex and using the toilet.
+
+### Related entries
+
+- [[Surveillance Capitalism]] — where the footage from the glasses goes
+- [[Ghost Work]] — the people who label it
+
+## 21. Facebook and Instagram to Offer Subscription for No Ads in Europe
+
+**Author:** Meta
+**Year:** 2023
+**Type:** Company announcement (updated 12 November 2024)
+**Publisher:** Meta Newsroom, 30 October 2023
+**URL:** https://about.fb.com/news/2023/10/facebook-and-instagram-to-offer-subscription-for-no-ads-in-europe/
+
+### What this source contributes
+
+From November 2023, people in the EU, EEA and Switzerland can keep using Facebook and Instagram for free with ads, or subscribe to stop seeing ads, at €9.99 a month on the web or €12.99 on iOS and Android; "While people are subscribed, their information will not be used for ads." On 12 November 2024 Meta cut the price by 40 percent.
+
+### Related entries
+
+- [[Surveillance Capitalism]] — the trade put to people, with a price
+- [[Privacy as a Premium]] — not being tracked as the paid version
+

@@ -506,3 +506,29 @@
     }
   }
 }
+
+// how the curve was counted: folded under the moments (11-10), same ▾/▴ as the Sources block
+.graph-story.attention .attention-about {
+  margin: 0.5em 0 0;
+
+  > summary {
+    cursor: pointer;
+    list-style: none;
+    font-size: 0.8em;
+    color: var(--darkgray);
+    transition: color 0.15s;
+    &::-webkit-details-marker {
+      display: none;
+    }
+    &::after {
+      content: " ▾";
+      color: var(--han-red);
+    }
+    &:hover {
+      color: var(--han-red);
+    }
+  }
+  &[open] > summary::after {
+    content: " ▴";
+  }
+}

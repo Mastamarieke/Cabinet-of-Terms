@@ -96,6 +96,22 @@ async function mouseEnterHandler(
         const targetID = `popover-internal-${el.id}`
         el.id = targetID
       })
+      // an entry (11-10): only its path, title, first line and definition, as in the prototype
+      // (werk/prototype-linkjes.html); the path stays clickable. Other pages keep the full preview.
+      const article = html.querySelector("article")
+      const quote = article?.querySelector(":scope > blockquote")
+      if (article && quote) {
+        const card = document.createElement("div")
+        card.className = "term-preview"
+        const crumbs = html.querySelector("nav.breadcrumb-container")
+        const title = html.querySelector("h1.article-title")
+        const first = article.querySelector(":scope > p")
+        const hook = first && first.querySelector(":scope > em > strong") ? first : null
+        for (const el of [crumbs, title, hook, quote]) if (el) card.appendChild(el)
+        popoverInner.appendChild(card)
+        popoverInner.classList.add("term-preview-inner")
+        break
+      }
       const elts = [...html.getElementsByClassName("popover-hint")]
       if (elts.length === 0) return
 

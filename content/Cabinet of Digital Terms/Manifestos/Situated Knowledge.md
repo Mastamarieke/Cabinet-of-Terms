@@ -21,7 +21,7 @@ analysis_version: pending
 
 **Why This Matters:** **Situated knowledge** is the epistemological foundation for most of this vault's methodology. Every term analysis asks: who coined this term, from where, and whose interests does its current use serve? That is **situated knowledge** in practice.
 
-**Related terms:** [[Informatics of Domination]] · [[Cyborg]] · [[Black Box]] · [[Unblackboxing]] · [[Cyberfeminism]]
+**Related terms:** [[Informatics of Domination]] · [[Cyborg]] · [[Black Box]] · [[Unblackboxing]] · [[Cyberfeminism]] · [[Dataism]] (the belief that data is neutral: the claim to see from nowhere, made by a spreadsheet)
 
 
 ---

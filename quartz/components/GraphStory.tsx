@@ -1,4 +1,5 @@
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
+import { JSX } from "preact"
 import { resolveRelative, simplifySlug, FullSlug } from "../util/path"
 // @ts-ignore
 import script from "./scripts/graphStory.inline"
@@ -36,7 +37,21 @@ function buildLookup(allFiles: QuartzComponentProps["allFiles"]): Lookup {
 // *italic* in the running text (the shirts' slogans) becomes em; the source keeps its marks
 function parseItalic(text: string) {
   const parts = text.split(/\*([^*]+)\*/g)
-  return parts.map((part, i) => (i % 2 === 1 ? <em>{part}</em> : part))
+  return parts.map((part, i) => (i % 2 === 1 ? <em>{part}</em> : parseJump(part)))
+}
+
+// [text](#why-this-matters): a link to a part of the entry itself, so the landscape can point to a
+// story the entry already tells instead of telling it twice (11-10). No [[wikilinks]] here: a term
+// is written in bold and becomes a link that way (CLAUDE.md).
+function parseJump(text: string) {
+  const parts = text.split(/\[([^\]]+)\]\((#[a-z0-9-]+)\)/g)
+  if (parts.length === 1) return text
+  const out: (string | JSX.Element)[] = []
+  for (let i = 0; i < parts.length; i += 3) {
+    if (parts[i]) out.push(parts[i])
+    if (i + 2 < parts.length) out.push(<a href={parts[i + 2]} class="gs-jump">{parts[i + 1]}</a>)
+  }
+  return out
 }
 
 function parseBold(text: string, lookup: Lookup, from: FullSlug) {

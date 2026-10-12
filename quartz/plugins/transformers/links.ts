@@ -43,9 +43,9 @@ export const CrawlLinks: QuartzTransformerPlugin<Partial<Options>> = (userOpts) 
             const curSlug = simplifySlug(file.data.slug!)
             const outgoing: Set<SimpleSlug> = new Set()
             // Which links an entry argues and which it only lists (2026-10-10). A link inside
-            // the "Related terms:" paragraph is a side path; one inside "In the text:" repeats
-            // the running text and counts as neither; every other link is in the text. The
-            // graph uses this to draw a relation thick, plain or dashed.
+            // the "Related terms:" paragraph is a side path; every other link is argued: in the
+            // running text, or in "In the text:", which lists the text's links and those the
+            // landscape tells (11-10). The graph uses this to draw a relation thick, plain or dashed.
             const textOut: Set<SimpleSlug> = new Set()
             const relatedOut: Set<SimpleSlug> = new Set()
             const relatedAnchors = new WeakSet<object>()
@@ -59,6 +59,12 @@ export const CrawlLinks: QuartzTransformerPlugin<Partial<Options>> = (userOpts) 
               ) as any
               if (!first || first.type !== "element" || first.tagName !== "strong") return
               const label = textOf(first).trim()
+              // the parts of an entry get an anchor, #the-friction, #why-this-matters, so the
+              // landscape (and anyone) can point to them (11-10)
+              const part = label.replace(/:$/, "")
+              if (["Literal meaning", "Origin", "The Appeal", "The Friction", "Why This Matters"].includes(part)) {
+                p.properties = { ...(p.properties ?? {}), id: part.toLowerCase().replace(/\s+/g, "-") }
+              }
               const into = label.startsWith("Related terms")
                 ? relatedAnchors
                 : label.startsWith("In the text")
@@ -68,6 +74,11 @@ export const CrawlLinks: QuartzTransformerPlugin<Partial<Options>> = (userOpts) 
               visit(p, "element", (a) => {
                 if (a.tagName === "a") into.add(a)
               })
+              // In the text repeats the links of the running text: kept in the file for the checks,
+              // hidden on the site (11-10)
+              if (into === inTextAnchors) {
+                p.properties = { ...(p.properties ?? {}), className: ["in-text-line"] }
+              }
               // The reason after a related term, "(…)", in its own span so it can be set
               // smaller than the term names (10-10).
               if (into === relatedAnchors) {
@@ -93,6 +104,10 @@ export const CrawlLinks: QuartzTransformerPlugin<Partial<Options>> = (userOpts) 
                   if (rest) kids.push({ type: "text", value: rest })
                 }
                 p.children = kids
+                // marked, so the reasons can fold away and open one at a time (10-10, relatedTerms.inline.ts)
+                if (kids.some((k: any) => k.type === "element" && k.properties?.className?.includes?.("rt-reason"))) {
+                  p.properties = { ...(p.properties ?? {}), className: ["rt-line"] }
+                }
               }
             })
 
@@ -175,8 +190,11 @@ export const CrawlLinks: QuartzTransformerPlugin<Partial<Options>> = (userOpts) 
                   const full = decodeURIComponent(stripSlashes(destCanonical, true)) as FullSlug
                   const simple = simplifySlug(full)
                   outgoing.add(simple)
+                  // In the text is the overview of what the entry argues: the running text and,
+                  // since 11-10, the terms its semantic landscape tells (Marieke: a term in the
+                  // landscape is an argued relation, not a side path). It counts as argued.
                   if (relatedAnchors.has(node)) relatedOut.add(simple)
-                  else if (!inTextAnchors.has(node)) textOut.add(simple)
+                  else textOut.add(simple)
                   node.properties["data-slug"] = full
                 }
 

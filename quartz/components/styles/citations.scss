@@ -1,0 +1,242 @@
+// Notes beside the text (11-10, UX after De Correspondent): * source, ▾ note, ↘ link.
+
+// the phrase a mark belongs to: plain until pointed at, red while pointed at or open
+.sourced {
+  cursor: pointer;
+  transition: color 0.15s;
+  &:hover,
+  &.hot,
+  &.lit {
+    color: var(--han-red);
+  }
+}
+
+// the asterisk is small; its tap area is not
+.src-mark {
+  position: relative;
+  font: inherit;
+  font-size: 0.85em;
+  line-height: 1;
+  vertical-align: super;
+  background: none;
+  border: none;
+  padding: 0 0.1em;
+  color: var(--han-red);
+  cursor: pointer;
+
+  &::after {
+    content: "";
+    position: absolute;
+    inset: -0.6em -0.5em;
+  }
+
+  &[aria-expanded="true"] {
+    font-weight: 700;
+  }
+}
+
+// ▾ and ↘ in a small round
+.note-mark {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 1.3em;
+  height: 1.3em;
+  margin-left: 0.2em;
+  padding: 0;
+  font: inherit;
+  // the system font draws the arrows and triangles cleanly at this size
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, sans-serif;
+  font-size: 0.72em;
+  line-height: 1;
+  vertical-align: 0.12em;
+  color: var(--han-red);
+  background: none;
+  border: 1px solid var(--lightgray);
+  border-radius: 50%;
+  cursor: pointer;
+
+  &[aria-expanded="true"],
+  &.hot,
+  &:hover {
+    border-color: var(--han-red);
+  }
+
+  // the triangle and the arrow are small glyphs: set them larger inside the same round
+  &.tri {
+    font-size: 0.9em;
+    width: 1.05em;
+    height: 1.05em;
+  }
+}
+
+// both panels sit inside the paragraph, right after the sentence of their mark (11-10)
+.src-panel,
+.note-panel {
+  display: block;
+  // display: block overrode the hidden attribute, so a closed panel stayed in view (11-10)
+  &[hidden] {
+    display: none;
+  }
+}
+
+// grey, so that it reads as text beside the story, not part of it (11-10); a tap closes it
+.src-panel,
+.note-panel {
+  position: relative;
+  cursor: pointer;
+  border-radius: 12px;
+  padding-right: 2.4em !important;
+
+  // × in the top right corner closes it
+  .panel-close {
+    position: absolute;
+    top: 0.25em;
+    right: 0.45em;
+    width: 1.6em;
+    height: 1.6em;
+    padding: 0;
+    font: inherit;
+    font-style: normal;
+    font-size: 1.1rem;
+    line-height: 1;
+    color: var(--darkgray);
+    background: none;
+    border: none;
+    border-radius: 50%;
+    text-indent: 0;
+    cursor: pointer;
+    &:hover {
+      color: var(--han-red);
+    }
+  }
+  background: color-mix(in srgb, var(--lightgray) 55%, var(--light));
+}
+
+.src-panel {
+  margin: 0.4em 0 0.7em;
+  padding: 0.55em 1.1em 0.55em 2.7em;
+  text-indent: -1.6em;
+  font-size: 0.88em;
+  font-style: italic;
+  color: var(--darkgray);
+
+  .src-label {
+    font-style: normal;
+  }
+
+  // the " ↗" that custom.scss puts after every link out reads as a stray slash in italics
+  a.external::after {
+    content: none !important;
+  }
+}
+
+.note-panel {
+  margin: 0.5em 0 0.8em;
+  padding: 0.8em 1.1em;
+  font-size: 0.92em;
+
+  // the sources of a note: one red line each, under the explanation
+  .note-sources {
+    display: block;
+    margin-top: 0.4em;
+    > span {
+      display: block;
+    }
+    // quiet red, no underline (the house style for links in a sentence does not apply here)
+    a {
+      color: var(--han-red) !important;
+      text-decoration: none !important;
+      font-weight: 400 !important;
+      &:hover {
+        background: none !important;
+        text-decoration: underline !important;
+      }
+      &::after {
+        content: none !important;
+      }
+    }
+  }
+
+  p {
+    margin: 0;
+  }
+
+  .note-go {
+    color: var(--han-red);
+    text-decoration: none;
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}
+
+// Read more as "Sources — Term": one fold-out, with Primary and Secondary folding inside it (11-10).
+// Titles in black, red when pointed at; the triangle turns when open.
+.sources-block {
+  margin: 1.2em 0;
+
+  summary {
+    cursor: pointer;
+    list-style: none;
+    color: var(--dark);
+    transition: color 0.15s;
+    &::-webkit-details-marker {
+      display: none;
+    }
+    &::after {
+      content: " ▾";
+      color: var(--han-red);
+    }
+    &:hover {
+      color: var(--han-red);
+    }
+  }
+  &[open] > summary::after,
+  .sources-part[open] > summary::after {
+    content: " ▴";
+  }
+
+  > .sources-title {
+    font-size: 1.05rem;
+    font-weight: 700;
+  }
+
+  .sources-part {
+    margin: 0.3em 0 0.3em 1em;
+
+    > summary {
+      font-weight: 600;
+    }
+
+    ul {
+      margin: 0.3em 0 0.6em;
+    }
+  }
+
+  .sources-role {
+    margin: 0.1em 0 0;
+    font-size: 0.85em;
+    font-style: italic;
+    color: var(--gray);
+  }
+
+  // primaries lead: names in bold
+  .sources-part.primary li > a {
+    font-weight: 700;
+  }
+  .sources-part.secondary li {
+    font-size: 0.92em;
+  }
+
+  .sources-note {
+    margin: 0.3em 0 0;
+    font-size: 0.88em;
+    color: var(--darkgray);
+  }
+}
+
+// In the text: kept in the file for the checks, not shown to the reader (11-10)
+.in-text-line {
+  display: none;
+}

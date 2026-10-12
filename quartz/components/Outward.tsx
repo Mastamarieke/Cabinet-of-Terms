@@ -123,6 +123,8 @@ export default (() => {
     const niceTitle = (c: string) =>
       shortTitles[c] ?? (allFiles.find((f) => f.slug === `Cabinet-of-Digital-Terms/${c}/index`)?.frontmatter?.title as string) ?? c.replaceAll("--and--", " & ").replaceAll("-", " ")
 
+    // the cluster's full name for the title, as Semantic field shows it; niceTitle stays short for the labels
+    const fullTitle = (allFiles.find((f) => f.slug === `Cabinet-of-Digital-Terms/${own}/index`)?.frontmatter?.title as string) ?? niceTitle(own)
     const W = 760
     const top = 40
     const stepT = 18
@@ -149,10 +151,10 @@ export default (() => {
     return (
       <details class={`graph-story outward ${displayClass ?? ""}`}>
         <summary class="graph-story-header">
-          <span class="graph-title-name">Outward</span>
+          <span class="graph-title-name">Relations</span>
           <span class="graph-title-rest">
             {" "}
-            — <strong>{niceTitle(own)}</strong> and the other clusters: who points in, where it points out
+            — how the terms in <strong>{fullTitle}</strong> link to other clusters
           </span>
         </summary>
         <div class="outward-body">
@@ -176,13 +178,12 @@ export default (() => {
               return <path d={curve(xMid + 5, termY.get(t)!, xOut - 5, outY.get(c)!)} class={`outward-line ${kind}`} stroke={clusterColor(c)} data-c={`out:${c}`} data-t={t} />
             })}
             {ins.map(([c, v], i) => (
-              <g class="outward-node" data-key={`in:${c}`} data-tip={`${niceTitle(c)} → ${niceTitle(own)}: ${v.argued} in the text · ${v.named} in Related terms`}>
+              <g class="outward-node" data-key={`in:${c}`} data-tip={`${niceTitle(c)} → ${niceTitle(own)}: ${v.argued} discussed in the text, ${v.named} listed under Related terms`}>
                 <circle cx={xIn} cy={yC(ins.length, i).toFixed(1)} r={5} fill={clusterColor(c)} />
                 <text x={xIn - 10} y={(yC(ins.length, i) + 4).toFixed(1)} text-anchor="end" class="outward-cluster">
                   <a href={link(`Cabinet-of-Digital-Terms/${c}/`)} class="outward-link">
                     <tspan class="outward-go">↗ </tspan>
                   </a>
-                  <tspan class="outward-count">{`${v.argued} · ${v.named}  `}</tspan>
                   {niceTitle(c)}
                 </text>
               </g>
@@ -193,7 +194,7 @@ export default (() => {
               const a = oi.filter(([, x]) => x === "argued").length + ii.filter(([, x]) => x === "argued").length
               const n = oi.length + ii.length - a
               return (
-                <g class="outward-node" data-key={`t:${t}`} data-tip={`${info.get(t)!.title}: ${a} in the text · ${n} in Related terms`}>
+                <g class="outward-node" data-key={`t:${t}`} data-tip={`${info.get(t)!.title}: ${a} discussed in the text, ${n} listed under Related terms`}>
                   <circle cx={xMid} cy={yT(i).toFixed(1)} r={3.5} fill={ownColour} />
                   <a href={link(t)} class="outward-link">
                     <text x={xMid} y={(yT(i) - 5).toFixed(1)} text-anchor="middle" class="outward-term">
@@ -204,11 +205,10 @@ export default (() => {
               )
             })}
             {outs.map(([c, v], i) => (
-              <g class="outward-node" data-key={`out:${c}`} data-tip={`${niceTitle(own)} → ${niceTitle(c)}: ${v.argued} in the text · ${v.named} in Related terms`}>
+              <g class="outward-node" data-key={`out:${c}`} data-tip={`${niceTitle(own)} → ${niceTitle(c)}: ${v.argued} discussed in the text, ${v.named} listed under Related terms`}>
                 <circle cx={xOut} cy={yC(outs.length, i).toFixed(1)} r={5} fill={clusterColor(c)} />
                 <text x={xOut + 10} y={(yC(outs.length, i) + 4).toFixed(1)} class="outward-cluster">
                   {niceTitle(c)}
-                  <tspan class="outward-count">{`  ${v.argued} · ${v.named}`}</tspan>
                   <a href={link(`Cabinet-of-Digital-Terms/${c}/`)} class="outward-link">
                     <tspan class="outward-go"> ↗</tspan>
                   </a>
@@ -216,9 +216,9 @@ export default (() => {
               </g>
             ))}
           </svg>
-          <p class="outward-tip" aria-live="polite">Point at a cluster or a term to see its lines; click to keep them highlighted, ↗ opens the cluster.</p>
+          <p class="outward-tip" aria-live="polite">Point at a cluster or a term to see its lines and how many links of each kind; click to keep them highlighted, ↗ opens the cluster.</p>
           <p class="outward-key">
-            <em class="line argued" /> argued in the text that points <em class="line named" /> named in its Related terms, with a reason · numbers: in the text · in Related terms
+            <em class="line argued" /> solid line: a term in one cluster discusses a term in the other in its text · <em class="line named" /> dashed line: it lists that term under Related terms, with a reason
           </p>
         </div>
       </details>

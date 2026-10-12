@@ -18,6 +18,8 @@ import VaultMap from "./VaultMap"
 import AttentionChart from "./AttentionChart"
 import Outward from "./Outward"
 import Voice from "./Voice"
+import RelatedTerms from "./RelatedTerms"
+import Citations from "./Citations"
 import EntryImage from "./EntryImage"
 import Backlinks from "./Backlinks"
 import Search from "./Search"
@@ -50,6 +52,8 @@ export {
   AttentionChart,
   Outward,
   Voice,
+  RelatedTerms,
+  Citations,
   EntryImage,
   Backlinks,
   Search,
