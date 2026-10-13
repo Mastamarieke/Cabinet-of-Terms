@@ -21,7 +21,7 @@ analysis_version: pending
 
 **Why This Matters:** **AI dependency** is visible in retrospect, not in advance. The moment it becomes legible is usually the moment the tool is unavailable, [[AI Hallucination|the output is wrong]], or the skill is needed and gone.
 
-**Related terms:** [[Cognitive Offloading]] · [[Deskilling]] · [[AI Hallucination]] · [[Sycophancy (AI)]] · [[AI Literacy]] · [[Parasocial Relationship]] · [[Cognitive Surrender]] · [[Vibe Coder]] · [[AI as a Utility]] · [[Deceptive Design]]
+**Related terms:** [[Cognitive Offloading]] · [[Deskilling]] · [[AI Hallucination]] · [[Sycophancy (AI)]] · [[AI Literacy]] · [[Parasocial Relationship]] · [[Cognitive Surrender]] · [[Vibe Coder]] · [[AI as a Utility]] · [[Deceptive Design]] · [[Inference Cost]] (the energy each AI answer takes: what you hand to the model every day, a data centre answers every day)
 
 ---
 **Read more:**

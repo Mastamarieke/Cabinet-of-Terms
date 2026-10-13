@@ -21,7 +21,7 @@ analysis_version: pending
 
 **Why This Matters:** **Digital colonialism** asks where the infrastructure lives and who benefits. Once you know the term, "cloud" stops being a neutral metaphor. Clouds are in specific places, drawing on specific resources, chosen for reasons that have everything to do with power.
 
-**Related terms:** [[AI Energy Consumption]] · [[Sacrifice Zones]] · [[Externalized Costs]] · [[Data Center Water Consumption]] · [[Greenwashing]] · [[Training Run]]
+**Related terms:** [[AI Energy Consumption]] · [[Sacrifice Zones]] · [[Externalized Costs]] · [[Data Center Water Consumption]] · [[Greenwashing]] · [[Training Run]] · [[Ghost Work]] (hidden human work behind AI and platforms, often outsourced to lower-income countries: the labour side of the same extraction)
 
 
 ---

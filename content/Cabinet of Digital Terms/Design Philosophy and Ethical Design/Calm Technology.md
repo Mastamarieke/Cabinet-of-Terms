@@ -21,7 +21,7 @@ analysis_version: pending
 
 **Why This Matters:** **Calm technology** names the road not taken — the design philosophy that describes what technology could be rather than what the **attention economy** makes it. Once you know the concept, every unnecessary notification is a failure of design, not an inevitability.
 
-**Related terms:** [[VSD (Value Sensitive Design)]] · [[Fair Patterns]] · [[Attention Economy]] · [[Dopamine Feedback Loops]] · [[Digital Detox]] · [[Cognitive Surrender]] · [[Mindful Scrolling]]
+**Related terms:** [[VSD (Value Sensitive Design)]] · [[Fair Patterns]] · [[Attention Economy]] · [[Dopamine Feedback Loops]] · [[Digital Detox]] · [[Cognitive Surrender]] · [[Mindful Scrolling]] · [[Inference Cost]] (the energy each AI answer takes: a design that wants less of your attention also makes fewer calls on the servers)
 
 
 ---

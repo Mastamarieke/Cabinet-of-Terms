@@ -21,7 +21,7 @@ analysis_version: pending
 
 **Why This Matters:** Sacrifice zone is a term that refuses geographical abstraction. It insists that digital infrastructure has a physical address — and that address is in someone's neighbourhood. Once you know the term, "the cloud" becomes a location, not a metaphor.
 
-**Related terms:** [[AI Energy Consumption]] · [[Externalized Costs]] · [[Digital Colonialism]] · [[Data Center Water Consumption]] · [[Greenwashing]] · [[Nuclear Renaissance]]
+**Related terms:** [[AI Energy Consumption]] · [[Externalized Costs]] · [[Digital Colonialism]] · [[Data Center Water Consumption]] · [[Greenwashing]] · [[Nuclear Renaissance]] · [[Fortress Futurism]] (the elite's plan to escape the risks it helps create: those who can afford it build their own safety, others live next to the plant)
 
 
 ---

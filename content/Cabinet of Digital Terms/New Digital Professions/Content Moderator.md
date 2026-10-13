@@ -17,11 +17,11 @@ analysis_version: pending
 
 **The Appeal:** Content moderation is essential infrastructure. Without it, platforms become unusable — overwhelmed by spam, illegal content, harassment, and extremism. The moderators who perform this work are protecting users from content that would otherwise reach them at scale. The profession provides employment and, in principle, could be well-supported and fairly compensated.
 
-**The Friction:** The profession as practised is an externalisation of harm.  is the adjacent concept: content moderation is primarily performed by outsourced workers in the Global South, on short-term contracts, without the benefits or employment protections of platform employees. Sarah Roberts documented PTSD rates, inadequate mental health support, and non-disclosure agreements that prevented workers from discussing their conditions. The platforms that require the work do not absorb its cost. [[Algospeak]] is a direct consequence: the moderation system shapes the language users develop to evade it.
+**The Friction:** The profession as practised is an externalisation of harm. [[Ghost Work]] is the adjacent concept: content moderation is primarily performed by outsourced workers in the Global South, on short-term contracts, without the benefits or employment protections of platform employees. Sarah Roberts documented PTSD rates, inadequate mental health support, and non-disclosure agreements that prevented workers from discussing their conditions. The platforms that require the work do not absorb its cost. [[Algospeak]] is a direct consequence: the moderation system shapes the language users develop to evade it.
 
 **Why This Matters:** Content moderation makes visible the human infrastructure behind platform cleanliness. The feed that looks orderly was made orderly by people whose work the platform does not publicly acknowledge. Once you know that, "automated moderation" is a different kind of sentence.
 
-**Related terms:** [[Algospeak]] · [[Deplatforming]] · [[Recommender Systems]] · [[Fact Checker]] · [[Dark Patterns]] · [[Fair Patterns]] · [[Technostress]]
+**Related terms:** [[Algospeak]] · [[Deplatforming]] · [[Recommender Systems]] · [[Fact Checker]] · [[Dark Patterns]] · [[Fair Patterns]] · [[Technostress]] · [[Ghost Work]] (hidden human work behind platforms and AI: content moderation is one of its largest forms)
 
 
 ---

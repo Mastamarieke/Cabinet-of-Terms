@@ -21,7 +21,7 @@ analysis_version: pending
 
 **Why This Matters:** **Inference cost** introduces a new environmental reading: *how often* matters as much as *how large*. A daily habit becomes infrastructure. The daily conversation with an AI assistant is a recurring small claim on shared energy resources, invisible by design.
 
-**Related terms:** [[Training Run]] · [[AI Energy Consumption]] · [[Carbon Footprint of AI]] · [[Externalized Costs]] · [[Greenwashing]] · [[Sacrifice Zones]] · [[Attention Economy]]
+**Related terms:** [[Training Run]] · [[AI Energy Consumption]] · [[Carbon Footprint of AI]] · [[Externalized Costs]] · [[Greenwashing]] · [[Sacrifice Zones]] · [[Attention Economy]] · [[AI Dependency]] (relying on AI for thinking you used to do yourself: a habit of asking the model first is also a daily claim on electricity) · [[AI Slop]] (low-effort AI content made in bulk: cheap for the maker, every generated piece still has its energy cost) · [[Calm Technology]] (technology that informs without demanding attention: an interface that asks for less use also asks for fewer answers from the data centre)
 
 
 ---

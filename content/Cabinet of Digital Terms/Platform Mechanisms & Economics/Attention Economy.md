@@ -21,7 +21,7 @@ analysis_version: pending
 
 **Why This Matters:** The **attention economy** is the foundational cause of most of this cluster. Once you understand that platforms are paid for your attention rather than your satisfaction, every design choice becomes legible as a revenue decision rather than a user experience decision.
 
-**Related terms:** [[Attention Harvesting]] · [[Dopamine Feedback Loops]] · [[Recommender Systems]] · [[Ludic Loop]] · [[Surveillance Capitalism]] · [[Calm Technology]] · [[Ragebaiting]] · [[Cognitive Surrender]] · [[Digital Detox]] · [[Doomscrolling]] · [[Rizz]] · [[Manosphere]] · [[Sharenting]] · [[Privacy as a Premium]] (not being tracked sold as a paid upgrade: the free trade now has a price for leaving it, and what that price buys is not always privacy)
+**Related terms:** [[Attention Harvesting]] · [[Dopamine Feedback Loops]] · [[Recommender Systems]] · [[Ludic Loop]] · [[Surveillance Capitalism]] · [[Calm Technology]] · [[Ragebaiting]] · [[Cognitive Surrender]] · [[Digital Detox]] · [[Doomscrolling]] · [[Rizz]] · [[Manosphere]] · [[Sharenting]] · [[Privacy as a Premium]] (not being tracked sold as a paid upgrade: the free trade now has a price for leaving it, and what that price buys is not always privacy) · [[Inference Cost]] (the energy each AI answer takes: every extra interaction the platform wins is also an extra claim on power and water)
 
 
 ---

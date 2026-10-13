@@ -21,7 +21,7 @@ analysis_version: pending
 
 **Why This Matters:** **Fortress futurism** names the political logic of elite exit. Once you see it, the billionaire's bunker is not eccentric — it is a rational response to a world whose risks they have helped create and whose costs they are engineering not to pay.
 
-**Related terms:** [[Muskism]] · [[Longtermism]] · [[Mars Colonization]] · [[Broligarchy]] · [[Objectivism (Rand)]] · [[Cyberfeminism]] · [[Situated Knowledge]] · [[Technofeudalism]] · [[Transhumanism]]
+**Related terms:** [[Muskism]] · [[Longtermism]] · [[Mars Colonization]] · [[Broligarchy]] · [[Objectivism (Rand)]] · [[Cyberfeminism]] · [[Situated Knowledge]] · [[Technofeudalism]] · [[Transhumanism]] · [[Sacrifice Zones]] (places that carry the environmental burden of infrastructure used elsewhere: the other side of an exit only some can afford)
 
 
 ---
