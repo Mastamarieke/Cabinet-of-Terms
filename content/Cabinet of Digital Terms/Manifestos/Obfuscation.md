@@ -21,7 +21,7 @@ analysis_version: pending
 
 **Why This Matters:** **Obfuscation** makes visible that opacity is a choice with a direction — it protects someone from someone else. Once you ask who is being protected from whom by any given opacity, the politics of the system becomes legible.
 
-**Related terms:** [[Black Box]] · [[Dark Patterns]] · [[Privacy Washing]] · [[Surveillance Capitalism]] · [[Unblackboxing]] · [[Algorithmic Violence]] · [[Vendor Lock-in]]
+**Related terms:** [[Black Box]] · [[Dark Patterns]] · [[Privacy Washing]] · [[Surveillance Capitalism]] · [[Unblackboxing]] · [[Algorithmic Violence]] (harm done by automated systems: when the powerful make a system opaque, no one can be held to account)
 
 
 ---

@@ -31,7 +31,7 @@ Older children have begun to object. In 2017 a sixteen-year-old in Rome ([[Secon
 
 **Why This Matters:** **Sharenting** makes visible who owns a child's digital identity before they are old enough to have an opinion about it. Once you see the data infrastructure the images enter, the decision to post looks different.
 
-**Related terms:** [[Momfluencer]] · [[Family Vlogging]] · [[Kidfluencer]] · [[Personal Branding]] · [[Biometric Surveillance]] · [[Screen Time]] · [[Highlight Reel]] · [[Synthetic Generation]] · [[Surveillance Capitalism]] · [[Online Grooming]] · [[Attention Economy]] · [[Digital Detox]] · [[Privacy Washing]] · [[VSD (Value Sensitive Design)]]
+**Related terms:** [[Momfluencer]] · [[Family Vlogging]] · [[Kidfluencer]] · [[Personal Branding]] · [[Biometric Surveillance]] · [[Screen Time]] · [[Highlight Reel]] · [[Synthetic Generation]] · [[Surveillance Capitalism]] · [[Online Grooming]] · [[Attention Economy]] · [[Digital Detox]] · [[VSD (Value Sensitive Design)]]
 
 
 ---

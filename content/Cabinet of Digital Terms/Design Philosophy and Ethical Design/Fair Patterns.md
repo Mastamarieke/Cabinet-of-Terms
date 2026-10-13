@@ -21,7 +21,7 @@ analysis_version: pending
 
 **Why This Matters:** **Fair patterns** make the design alternative concrete and specific. Once you know what a fair consent dialogue looks like, you can identify every interface that falls short of it. The standard becomes visible — and the gap between the standard and the practice becomes legible as a choice.
 
-**Related terms:** [[Dark Patterns]] · [[Deceptive Design]] · [[VSD (Value Sensitive Design)]] · [[Calm Technology]] · [[Unblackboxing]] · [[Ethical Design]] · [[Privacy as a Premium]] (not being tracked sold as a paid upgrade: a choice in which refusing costs money)
+**Related terms:** [[Dark Patterns]] · [[Deceptive Design]] · [[VSD (Value Sensitive Design)]] · [[Calm Technology]] · [[Unblackboxing]] · [[Ethical Design]] · [[Privacy as a Premium]] (not being tracked sold as a paid upgrade: a choice in which refusing costs money) · [[Algorithmic Violence]] (harm done by automated systems: the letter or screen that delivers the decision could make objecting as easy as accepting) · [[Vendor Lock-in]] (dependence on one supplier so deep that leaving costs more than staying: leaving made as easy as joining) · [[Privacy Washing]] (talking about privacy instead of protecting it: where the washing promises, the fair pattern shows the setting)
 
 
 ---

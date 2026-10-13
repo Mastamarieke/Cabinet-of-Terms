@@ -23,7 +23,7 @@ One structural answer is to change who pays. De Correspondent, founded in Amster
 
 **Why This Matters:** **Slow media** makes visible a structural constraint on media criticism: you cannot opt out of platform distribution and still reach an audience. The movement that wants to slow down must use the same infrastructure as the movement it opposes. That constraint is worth naming.
 
-**Related terms:** [[Digital Detox]] · [[Mindful Scrolling]] · [[Unplugging]] · [[Attention Economy]] · [[Clickbait]] · [[Cognitive Surrender]] · [[Tech-Free Challenge]]
+**Related terms:** [[Digital Detox]] · [[Mindful Scrolling]] · [[Unplugging]] · [[Attention Economy]] · [[Clickbait]] · [[Cognitive Surrender]] · [[Tech-Free Challenge]] · [[Privacy as a Premium]] (not being tracked sold as a paid upgrade: in a publication funded by its members there are no adverts to pay your way out of)
 
 
 ---

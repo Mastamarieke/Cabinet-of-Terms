@@ -74,7 +74,7 @@ type NodeRenderData = GraphicsInfo & {
 }
 
 // Bump when the graph changes visibly; shown at the foot of the legend.
-const GRAPH_BUILD = "graph 2026-10-10 · lines by argument"
+const GRAPH_BUILD = "graph 2026-10-13 · direction and argument"
 
 const localStorageKey = "graph-visited"
 function getVisited(): Set<SimpleSlug> {
@@ -850,6 +850,16 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     "📖": "source",
   }
 
+  // What the legend says for each kind (13-10). The arrow used to be called "related term",
+  // from when a link out of an entry could only stand in its Related terms line; since links
+  // run through the text as well, an arrow can be a link from the Friction, and the legend
+  // used the word twice for two things (Marieke: "we hebben de related terms een andere
+  // betekenis gegeven"). The arrow now says only which way a link runs; the line says how
+  // well it is argued. The keys stay, because hovering a row matches on them.
+  const relationLabels: Record<string, string> = {
+    "related term": "links to it",
+    backlink: "links here",
+  }
   const relationMeanings: Record<string, string> = {
     "→": "related term",
     [BACKLINK_GLYPH]: "backlink",
@@ -1292,7 +1302,7 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
       const mark = document.createElement("b")
       mark.textContent = glyph
       const meaning = relationMeanings[glyph] ?? ""
-      row.append(mark, document.createTextNode(meaning))
+      row.append(mark, document.createTextNode(relationLabels[meaning] ?? meaning))
       const kind = meaning === "cluster page" ? "cluster" : meaning
       row.addEventListener("mouseenter", () => setHoveredRelation(kind))
       row.addEventListener("mouseleave", () => setHoveredRelation(null))
@@ -1327,9 +1337,9 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     stamp.textContent = GRAPH_BUILD
     // How well each relation is argued: the same three kinds the relation report uses.
     const strengthMeanings: [string, string, string][] = [
-      ["strong", "strong", "in both texts"],
-      ["carried", "carried", "in one text"],
-      ["named", "named", "in related terms, with a reason"],
+      ["strong", "strong", "discussed in both texts"],
+      ["carried", "carried", "discussed in one text"],
+      ["named", "named", "only in Related terms, with a reason"],
     ]
     const strengthsUsed = new Set(linkRenderData.map((l) => l.strength).filter(Boolean))
     const strengthRows = strengthMeanings
@@ -1981,8 +1991,18 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
   }
 
   const hasClusterNodes = nodeRenderData.some((n) => isClusterNode(n.simulationData))
-  if (!hasClusterNodes && clusterToggleEl) {
-    clusterToggleEl.style.display = "none"
+  // When every term of the cluster is already a neighbour, the toggle has nothing to add.
+  // It used to disappear, and on Surveillance Capitalism that read as "the cluster is
+  // missing" (Marieke, 13-10). It now stays, says so, and does nothing when clicked.
+  const clusterAllInView = !hasClusterNodes && !!clusterToggleEl && !!clusterIndexSlug
+  if (clusterToggleEl && !hasClusterNodes) {
+    if (clusterAllInView) {
+      clusterToggleEl.classList.add("all-in-view")
+      clusterToggleEl.title = "Every term of this cluster is already in the graph"
+      clusterToggleEl.querySelector("summary")?.addEventListener("click", (e) => e.preventDefault())
+    } else {
+      clusterToggleEl.style.display = "none"
+    }
   }
 
   // Cluster ring — only meaningful in the local graph, where cluster siblings are loaded
@@ -2059,7 +2079,12 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     }
     if (clusterToggleEl) {
       const s = clusterToggleEl.querySelector("summary")
-      if (s) s.textContent = clusterToggleEl.open ? "Hide Cluster" : "Show Cluster"
+      if (s)
+        s.textContent = clusterAllInView
+          ? "Cluster: all in view"
+          : clusterToggleEl.open
+            ? "Hide Cluster"
+            : "Show Cluster"
     }
     if (backlinksToggleEl) {
       const s = backlinksToggleEl.querySelector("summary")
@@ -2232,10 +2257,14 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
       ].map((row) => {
         const swatch = row.querySelector("i")
         const mark = row.querySelector("b")
+        const line = row.querySelector("em.line")
         const glyph = mark?.textContent ?? ""
         return {
           colour: swatch ? swatch.style.backgroundColor : "",
           glyph,
+          // the three kinds of line are drawn, not written: the key on screen shows a short
+          // line, and the first camera version left it out, so its rows explained nothing
+          line: line ? (["strong", "named", "carried"].find((k) => line.classList.contains(k)) ?? "carried") : "",
           label: (row.textContent ?? "").slice(glyph.length).trim(),
         }
       })
@@ -2243,19 +2272,29 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
       const fontPx = Math.max(11, Math.round(rendered.height / 48))
       const lineHeight = Math.round(fontPx * 2)
       const pad = Math.round(fontPx * 1.6)
-      const panel = rows.length ? Math.round(rendered.width * 0.2) + pad : 0
+      // A margin all round (13-10): the extract is cut tight to the drawing, so the name on
+      // the top rim ("Sources") lost its upper half. And the key is as wide as its longest
+      // row needs, where a fixed fifth of the width cut "in related terms, with a reason" off.
+      const margin = Math.round(fontPx * 2.5)
+      const measure = document.createElement("canvas").getContext("2d")
+      let longest = 0
+      if (measure) {
+        measure.font = `${fontPx}px ui-sans-serif, system-ui, -apple-system, sans-serif`
+        for (const row of rows) longest = Math.max(longest, measure.measureText(row.label.toUpperCase()).width * 1.08)
+      }
+      const panel = rows.length ? Math.round(fontPx * 2.6 + longest) + pad * 2 : 0
 
       const out = document.createElement("canvas")
-      out.width = rendered.width + panel
-      out.height = rendered.height
+      out.width = rendered.width + margin * 2 + panel
+      out.height = rendered.height + margin * 2
       const ctx = out.getContext("2d")
       if (!ctx) return
       ctx.fillStyle = computedStyleMap["--light"]
       ctx.fillRect(0, 0, out.width, out.height)
-      ctx.drawImage(rendered, 0, 0)
+      ctx.drawImage(rendered, margin, margin)
 
       if (rows.length) {
-        const left = rendered.width + pad
+        const left = rendered.width + margin * 2 + pad
         let y = Math.round((rendered.height - rows.length * lineHeight) / 2) + lineHeight
         ctx.textBaseline = "middle"
         ctx.font = `${fontPx}px ui-sans-serif, system-ui, -apple-system, sans-serif`
@@ -2279,12 +2318,21 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
             ctx.beginPath()
             ctx.arc(left + fontPx * 0.4, y, fontPx * 0.34, 0, 2 * Math.PI)
             ctx.fill()
+          } else if (row.line) {
+            ctx.strokeStyle = computedStyleMap["--darkgray"]
+            ctx.lineWidth = row.line === "strong" ? Math.max(2, fontPx / 4) : Math.max(1, fontPx / 12)
+            ctx.setLineDash(row.line === "named" ? [fontPx * 0.25, fontPx * 0.2] : [])
+            ctx.beginPath()
+            ctx.moveTo(left, y)
+            ctx.lineTo(left + fontPx * 1.6, y)
+            ctx.stroke()
+            ctx.setLineDash([])
           } else {
             ctx.fillStyle = computedStyleMap["--darkgray"]
             ctx.fillText(row.glyph, left, y)
           }
           ctx.fillStyle = computedStyleMap["--darkgray"]
-          ctx.fillText(row.label.toUpperCase(), left + fontPx * 1.3, y)
+          ctx.fillText(row.label.toUpperCase(), left + fontPx * 2.2, y)
           y += lineHeight
         }
       }

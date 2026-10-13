@@ -23,7 +23,7 @@ De Nederlandsche Bank estimated in January 2023 that 2.6 million Dutch adults ha
 
 **Why This Matters:** **Tech abandonment** makes visible the endpoint of a design process that excluded certain users from the start. The person who stopped using the system is not failing to adapt — they are responding rationally to a system that did not work for them. The design failure happened long before the abandonment decision.
 
-**Related terms:** [[Ageism (Digital)]] · [[Digital Ageing]] · [[Digital Exclusion]] · [[Technostress]] · [[Inclusive Design]] · [[Universal Design]]
+**Related terms:** [[Ageism (Digital)]] · [[Digital Ageing]] · [[Digital Exclusion]] · [[Technostress]] · [[Inclusive Design]] · [[Universal Design]] · [[Security Theater]] (measures meant to be seen more than to protect: a password rule that is hard to remember is one of the doors that closes)
 
 
 ---

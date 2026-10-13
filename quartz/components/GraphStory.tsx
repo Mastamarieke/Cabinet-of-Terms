@@ -60,8 +60,10 @@ function parseBold(text: string, lookup: Lookup, from: FullSlug) {
     if (i % 2 === 0) return parseItalic(part)
     const key = part.trim().toLowerCase()
     const slug = lookup.get(key) ?? lookup.get(key.replace(/ and /g, " & "))
-    // the entry's own name stays bold: a link to the page you are on leads nowhere
-    if (slug && slug !== from) {
+    // the entry's own name is a link too (13-10, Marieke: "termnaam wordt élke keer een link
+    // naar de eigen entry"): it leads to the page you are on, but its preview shows the
+    // definition again, which is what a reader halfway through the landscape wants back
+    if (slug) {
       return (
         <a href={resolveRelative(from, slug as FullSlug)} class="internal" data-slug={simplifySlug(slug as FullSlug)}>
           {part}

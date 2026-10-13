@@ -76,18 +76,46 @@ Two instruments guide the practice: `CLAUDE.md` maintains the vault — indexes,
 
 Some entries carry the method further than others. Four layers can be added to an entry, and they have grown at their own pace, so the groups do not coincide:
 
-| Entry | Sources folder | Semantic landscape | Attention curve | Narrative Typography |
-|---|---|---|---|---|
-| **Tradwife** | ✓ | ✓ | ✓ (4 sources) | ✓ |
-| **Looksmaxxing** | ✓ | ✓ | ✓ (4 sources) | ✓ |
-| **Sigma Male** | ✓ | ✓ | ✓ (2 sources) | ✓ |
-| **Virtual Influencer** | ✓ | ✓ | ✓ (3 sources) | |
-| **Gooner** | | ✓ | ✓ (2 sources) | |
-| **Parasocial Relationship** | | ✓ | ✓ (3 sources) | |
-| **Ragebaiting** | ✓ | | | |
-| **Recommender Systems** | ✓ | | | |
-| **Incel** | ✓ | | | |
-| **AI-Ninja** | ✓ | | | |
+<!-- layers:start -->
+| Cluster | Entry | Sources folder | Semantic landscape | Attention curve | Narrative Typography |
+|---|---|---|---|---|---|
+| AI-Specific Terms | **[[AI-Ninja]]** | ✓ |  |  |  |
+| Beauty, Influencers & Self-Image | **[[Virtual Influencer]]** | ✓ | ✓ | ✓ (3 sources) |  |
+| Behaviour & Relationships | **[[Parasocial Relationship]]** |  | ✓ | ✓ (4 sources) |  |
+| Gender & Identity | **[[Alpha Male]]** | ✓ | ✓ | ✓ (2 sources) |  |
+|  | **[[Blackpill]]** | ✓ | ✓ | ✓ (2 sources) |  |
+|  | **[[High Value Man]]** | ✓ | ✓ | ✓ (1 source) |  |
+|  | **[[Hypergamy]]** | ✓ | ✓ | ✓ (4 sources) |  |
+|  | **[[Incel]]** | ✓ | ✓ | ✓ (4 sources) |  |
+|  | **[[Looksmaxxing]]** | ✓ | ✓ | ✓ (4 sources) | ✓ |
+|  | **[[Manosphere]]** | ✓ | ✓ | ✓ (4 sources) |  |
+|  | **[[MGTOW]]** | ✓ | ✓ | ✓ (4 sources) |  |
+|  | **[[NPC]]** | ✓ | ✓ | ✓ (2 sources) |  |
+|  | **[[Podcast-bro]]** | ✓ | ✓ | ✓ (1 source) |  |
+|  | **[[Provider]]** | ✓ | ✓ | ✓ (3 sources) |  |
+|  | **[[Red Pill]]** | ✓ | ✓ | ✓ (4 sources) |  |
+|  | **[[Rizz]]** | ✓ | ✓ | ✓ (3 sources) |  |
+|  | **[[Sigma Male]]** | ✓ | ✓ | ✓ (2 sources) | ✓ |
+|  | **[[SMV (Sexual Market Value)]]** | ✓ | ✓ | ✓ (1 source) |  |
+|  | **[[Stay-at-home Girlfriend (SAHG)]]** | ✓ | ✓ | ✓ (1 source) |  |
+|  | **[[Top 1% Man]]** | ✓ | ✓ | ✓ (1 source) |  |
+|  | **[[Tradwife]]** | ✓ | ✓ | ✓ (4 sources) | ✓ |
+|  | **[[Womanosphere]]** | ✓ | ✓ | ✓ (2 sources) |  |
+| Parents & Children | **[[Sharenting]]** | ✓ | ✓ | ✓ (4 sources) |  |
+| Platform Mechanisms & Economics | **[[Ragebaiting]]** | ✓ |  |  |  |
+|  | **[[Recommender Systems]]** | ✓ |  |  |  |
+| Privacy, Data and Control | **[[Algorithmic Violence]]** | ✓ | ✓ | ✓ (2 sources) |  |
+|  | **[[Brussels Effect]]** | ✓ | ✓ | ✓ (3 sources) |  |
+|  | **[[CLOUD Act]]** | ✓ | ✓ | ✓ (4 sources) |  |
+|  | **[[Data Brokers]]** | ✓ | ✓ | ✓ (4 sources) |  |
+|  | **[[Dataism]]** | ✓ | ✓ | ✓ (3 sources) |  |
+|  | **[[Privacy as a Premium]]** | ✓ | ✓ | ✓ (1 source) |  |
+|  | **[[Privacy Washing]]** | ✓ | ✓ | ✓ (1 source) |  |
+|  | **[[Security Theater]]** | ✓ | ✓ | ✓ (2 sources) |  |
+|  | **[[Surveillance Capitalism]]** | ✓ | ✓ | ✓ (3 sources) |  |
+|  | **[[Vendor Lock-in]]** | ✓ | ✓ | ✓ (4 sources) |  |
+| Subcultural Vocabulary and Platform Language | **[[Gooner]]** |  | ✓ | ✓ (2 sources) |  |
+<!-- layers:end -->
 
 The **Sources folder** separates primary from secondary literature and gives every source its own page. The **semantic landscape** is the written account of where a term sits and why, in prose rather than in lines. The **attention curve** is the one layer that is counted rather than curated: page views and search interest by month, with peer-reviewed publications by year, which is why it is named an attention curve and not a semantic one. **Narrative Typography** is the term drawn as an image by a designer.
 

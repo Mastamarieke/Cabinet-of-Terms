@@ -21,7 +21,7 @@ analysis_version: pending
 
 **Why This Matters:** **Dehumanization** names the mechanism, not just the outcome. Once you know the sequence — dehumanising language, reduced inhibitions, escalated harm — the presence of dehumanising rhetoric in mainstream discourse is not merely offensive. It is a stage in a process.
 
-**Related terms:** [[Subhuman]] · [[Groomer]] · [[Social Contagion]] · [[Great Replacement]] · [[Ragebaiting]] · [[Deplatforming]] · [[Woke Mind Virus]] · [[Incel]] · [[NPC]] · [[Manosphere]] · [[Doxing]] · [[Blackpill]]
+**Related terms:** [[Subhuman]] · [[Groomer]] · [[Social Contagion]] · [[Great Replacement]] · [[Ragebaiting]] · [[Deplatforming]] · [[Woke Mind Virus]] · [[Incel]] · [[NPC]] · [[Manosphere]] · [[Doxing]] · [[Blackpill]] · [[Algorithmic Violence]] (harm done by automated systems: deportation that should run "like Prime, but with human beings" treats people as parcels)
 
 
 ---

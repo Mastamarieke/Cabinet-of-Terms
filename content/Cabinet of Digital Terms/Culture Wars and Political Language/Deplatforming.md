@@ -23,7 +23,7 @@ analysis_version: pending
 
 **In the text:** [[Manosphere]] · [[Flood the Zone]] · [[Deep State]] · [[Muskism]] · [[Shadow Banning]] · [[Brussels Effect]]
 
-**Related terms:** [[Subhuman]] (calling people less than human, a step towards violence: deplatforming is the main answer to it) · [[Great Replacement]] (a conspiracy theory cited by mass shooters: deplatforming is the main answer, yet it reached mainstream politics) · [[QAnon]] (a conspiracy movement: Facebook deplatformed all its pages and groups at once) · [[Alpha Male]] (the dominant man as ideal: Andrew Tate was deplatformed and still reached teenage boys) · [[Incel]] (men who blame forces beyond their control for having no partner: deplatformed, they moved to less moderated sites)
+**Related terms:** [[Subhuman]] (calling people less than human, a step towards violence: deplatforming is the main answer to it) · [[Great Replacement]] (a conspiracy theory cited by mass shooters: deplatforming is the main answer, yet it reached mainstream politics) · [[QAnon]] (a conspiracy movement: Facebook deplatformed all its pages and groups at once) · [[Alpha Male]] (the dominant man as ideal: Andrew Tate was deplatformed and still reached teenage boys) · [[Incel]] (men who blame forces beyond their control for having no partner: deplatformed, they moved to less moderated sites) · [[Surveillance Capitalism]] (behaviour turned into predictions and sold: Meta took down a video mocking its own camera glasses, deplatforming by the maker of the product being criticised)
 
 
 ---

@@ -23,7 +23,7 @@ The rename has not travelled beyond the institutions that made it. Research has 
 
 **Why This Matters:** **Dark patterns** name the gap between what an interface appears to offer and what it is designed to do. Once you know the vocabulary — roach motel, confirmshaming, false hierarchy — every interface becomes readable as a set of choices made by someone, for someone's benefit. Usually not yours.
 
-**Related terms:** [[Deceptive Design]] · [[Fair Patterns]] · [[Predatory Design]] · [[Nudging]] · [[VSD (Value Sensitive Design)]] · [[Enshittification]] · [[Gamification Creep]] · [[Attention Economy]] · [[Cognitive Surrender]] · [[Vendor Lock-in]] · [[AI Dependency]] · [[Privacy as a Premium]] (not being tracked sold as a paid upgrade: dark patterns push both ways, a hidden reject button towards tracking, a returning pop-up towards paying)
+**Related terms:** [[Deceptive Design]] · [[Fair Patterns]] · [[Predatory Design]] · [[Nudging]] · [[VSD (Value Sensitive Design)]] · [[Enshittification]] · [[Gamification Creep]] · [[Attention Economy]] · [[Cognitive Surrender]] · [[Vendor Lock-in]] · [[AI Dependency]] · [[Privacy as a Premium]] (not being tracked sold as a paid upgrade: dark patterns push both ways, a hidden reject button towards tracking, a returning pop-up towards paying) · [[Privacy Washing]] (talking about privacy instead of protecting it: the consent banner that looks like a choice and is designed for yes) · [[Brussels Effect]] (European rules that travel abroad: the Dutch consumer authority investigates Roblox for the whole EU over design that pushes children into buying)
 
 
 ---

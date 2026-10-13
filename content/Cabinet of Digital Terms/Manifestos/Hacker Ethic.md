@@ -21,7 +21,7 @@ analysis_version: pending
 
 **Why This Matters:** **Hacker ethic** names the original values of the digital age and their subsequent commercialisation. Once you know the ethic, you can ask of any tech company claiming its inheritance: which parts did you keep?
 
-**Related terms:** [[Digital Libertarianism]] · [[Obfuscation]] · [[Unblackboxing]] · [[Black Box]] · [[Cyberfeminism]] · [[Objectivism (Rand)]] · [[Situated Knowledge]]
+**Related terms:** [[Digital Libertarianism]] · [[Obfuscation]] · [[Unblackboxing]] · [[Black Box]] · [[Cyberfeminism]] · [[Objectivism (Rand)]] · [[Situated Knowledge]] · [[Security Theater]] (measures meant to be seen more than to protect: the ethical hacker is the one who tries the lock and says what opens it)
 
 
 ---

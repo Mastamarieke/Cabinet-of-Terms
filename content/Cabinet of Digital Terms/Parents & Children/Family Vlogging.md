@@ -21,7 +21,7 @@ analysis_version: pending
 
 **Why This Matters:** **Family vlogging** makes visible the specific harm of using a child's childhood as content before the child can assess the trade. The audience feels like community. The content is also a permanent record the child did not choose to create.
 
-**Related terms:** [[Momfluencer]] · [[Kidfluencer]] · [[Sharenting]] · [[Parasocial Relationship]] · [[Creator Economy]] · [[Deinfluencing]]
+**Related terms:** [[Momfluencer]] · [[Kidfluencer]] · [[Sharenting]] · [[Parasocial Relationship]] · [[Creator Economy]] · [[Deinfluencing]] · [[Surveillance Capitalism]] (behaviour turned into predictions and sold: a child's daily life as raw material)
 
 
 ---

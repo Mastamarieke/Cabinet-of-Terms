@@ -21,7 +21,7 @@ analysis_version: pending
 
 **Why This Matters:** **Design justice** makes the default visible. Every interface has a default user — and that default is rarely unmarked. Once you see it, the question shifts from "is this accessible?" to "who built this for whom, and who paid the cost of that choice?"
 
-**Related terms:** [[Participatory Design]] · [[VSD (Value Sensitive Design)]] · [[Fair Patterns]] · [[Adversarial Design]] · [[Inclusive Design]] · [[Dark Patterns]] · [[Deceptive Design]] · [[Unblackboxing]]
+**Related terms:** [[Participatory Design]] · [[VSD (Value Sensitive Design)]] · [[Fair Patterns]] · [[Adversarial Design]] · [[Inclusive Design]] · [[Dark Patterns]] · [[Deceptive Design]] · [[Unblackboxing]] · [[Algorithmic Violence]] (harm done by automated systems: it falls on the people design justice puts at the centre, those most likely to be harmed)
 
 
 ---

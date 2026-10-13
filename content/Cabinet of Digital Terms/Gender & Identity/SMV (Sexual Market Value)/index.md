@@ -26,7 +26,7 @@ semantic_landscape: |
 
 **Why This Matters:** **SMV** is the shared frame of the cluster: once you see it, the other terms read as positions, strategies or responses within one market.
 
-**Related terms:** [[Hypergamy]] · [[Blackpill]] · [[Incel]] · [[Manosphere]] · [[Alpha Male]] · [[Sigma Male]] · [[Looksmaxxing]] · [[Tradwife]] · [[Body Dysmorphic Disorder]] · [[Recommender Systems]] · [[Comparison Culture]] · [[Womanosphere]] · [[Rizz]]
+**Related terms:** [[Hypergamy]] · [[Blackpill]] · [[Incel]] · [[Manosphere]] · [[Alpha Male]] · [[Sigma Male]] · [[Looksmaxxing]] · [[Tradwife]] · [[Body Dysmorphic Disorder]] · [[Recommender Systems]] · [[Comparison Culture]] · [[Womanosphere]] · [[Rizz]] · [[Dataism]] (the belief that data knows best: the same trust in a number, applied to love)
 
 ---
 **Read more:**

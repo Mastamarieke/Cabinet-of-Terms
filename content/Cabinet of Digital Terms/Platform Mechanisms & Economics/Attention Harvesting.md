@@ -11,7 +11,7 @@ analysis_version: pending
 
 **Literal meaning:** **Attention harvesting** describes the systematic extraction of human attention by digital platforms — designing interfaces, notification systems, and content flows to maximise the time and focus users give to a platform, which is then converted into advertising revenue and behavioural data.
 
-**Origin:** The concept develops from Herbert Simon's 1971 observation that information abundance creates attention scarcity, and from Tim Wu's *The Attention Merchants* (2016), which traced the commercial history of attention capture from 19th-century newspapers through broadcast television to digital platforms. The harvesting metaphor — treating attention as a crop to be extracted — is implicit in **Shoshana Zuboff**'s **surveillance capitalism** framework and explicit in Tim Kendall's 2017 congressional testimony about Facebook's engagement-maximisation design.
+**Origin:** The concept develops from Herbert Simon's 1971 observation that information abundance creates attention scarcity, and from Tim Wu's *The Attention Merchants* (2016), which traced the commercial history of attention capture from 19th-century newspapers through broadcast television to digital platforms. The harvesting metaphor — treating attention as a crop to be extracted — is implicit in **Shoshana Zuboff**'s **[[Surveillance Capitalism|surveillance capitalism]]** framework and explicit in Tim Kendall's 2017 congressional testimony about Facebook's engagement-maximisation design.
 
 > The deliberate extraction of human attention through platform design — notifications, variable rewards, and autoplay that convert your focus into advertising revenue.
 
@@ -21,7 +21,7 @@ analysis_version: pending
 
 **Why This Matters:** **Attention harvesting** reframes the relationship between user and platform. The user is not the customer — they are the product. Once you know the transaction, "free" platform means something different.
 
-**Related terms:** [[Attention Economy]] · [[Dopamine Feedback Loops]] · [[Recommender Systems]] · [[Dark Patterns]] · [[Cognitive Surrender]] · [[Calm Technology]] · [[Digital Detox]] · [[Doomscrolling]]
+**Related terms:** [[Surveillance Capitalism]] (selling predictions made from behavioural data: the framework in which attention is harvested) · [[Attention Economy]] · [[Dopamine Feedback Loops]] · [[Recommender Systems]] · [[Dark Patterns]] · [[Cognitive Surrender]] · [[Calm Technology]] · [[Digital Detox]] · [[Doomscrolling]]
 
 
 ---

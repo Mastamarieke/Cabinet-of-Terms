@@ -21,7 +21,7 @@ analysis_version: pending
 
 **Why This Matters:** **Frictionful design** forces a question about smoothness: whose interests does frictionless design serve? Once you notice that platforms make harmful actions easy and protective actions hard, the political economy of friction becomes readable. Every streamlined interface is a policy decision.
 
-**Related terms:** [[Calm Technology]] · [[Fair Patterns]] · [[Dark Patterns]] · [[Nudging]] · [[Persuasive Technology]] · [[Cognitive Surrender]] · [[Doomscrolling]] · [[Dopamine Feedback Loops]]
+**Related terms:** [[Calm Technology]] · [[Fair Patterns]] · [[Dark Patterns]] · [[Nudging]] · [[Persuasive Technology]] · [[Cognitive Surrender]] · [[Doomscrolling]] · [[Dopamine Feedback Loops]] · [[Vendor Lock-in]] (dependence on one supplier so deep that leaving costs more than staying: the obstructing kind of friction is what keeps people from leaving)
 
 
 ---

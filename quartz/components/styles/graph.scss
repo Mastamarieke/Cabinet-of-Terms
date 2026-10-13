@@ -98,6 +98,13 @@
       .cluster-toggle {
         summary { color: var(--secondary); }
         &[open] summary::before { border-color: var(--secondary); }
+
+        // every cluster term is already a neighbour: shown, filled, not clickable (13-10)
+        &.all-in-view summary {
+          cursor: default;
+          opacity: 0.75;
+          &::before { border-color: var(--secondary); background: var(--secondary); }
+        }
       }
 
       .backlinks-toggle {

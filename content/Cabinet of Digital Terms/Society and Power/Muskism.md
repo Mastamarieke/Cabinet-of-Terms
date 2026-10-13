@@ -23,7 +23,7 @@ analysis_version: pending
 
 **In the text:** [[Neuralink]] · [[Objectivism (Rand)]] · [[Technofeudalism]] · [[Broligarchy]] · [[Flood the Zone]] · [[Brussels Effect]] · [[Endtime Fascism]] · [[Technofascism]]
 
-**Related terms:** [[Cyborg Musk]] (Musk's use of Haraway's cyborg as a personal brand: the image that comes with Muskism)
+**Related terms:** [[Cyborg Musk]] (Musk's use of Haraway's cyborg as a personal brand: the image that comes with Muskism) · [[Surveillance Capitalism]] (behaviour turned into predictions and sold: in 2025 Musk's DOGE team gained access to the US Treasury's payment system, private power reaching public data)
 
 ---
 **Read more:**

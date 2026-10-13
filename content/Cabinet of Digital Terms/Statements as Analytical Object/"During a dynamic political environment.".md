@@ -23,7 +23,7 @@ The controversy reflects broader concerns about ambient surveillance: wearable A
 
 **Why this sentence matters:** "Dynamic political environment" is a useful phrase to recognise across contexts. Whenever management language describes a political situation in terms of its implications for product strategy, the question to ask is: what does the neutral vocabulary conceal? The answer is usually the calculation that could not be stated plainly.
 
-**Related terms:** [[Obfuscation]] · [[Biometric Surveillance]] · [[Flood the Zone]] · [[Privacy Washing]] · [["We have never and will never sell user data."]] · [[Dual-Use Technology]] · [[Surveillance Capitalism]] (selling predictions made from behavioural data: the glasses' face recognition, timed by this memo, turns bystanders into data)
+**Related terms:** [[Obfuscation]] · [[Biometric Surveillance]] · [[Flood the Zone]] · [["We have never and will never sell user data."]] · [[Dual-Use Technology]] · [[Surveillance Capitalism]] (selling predictions made from behavioural data: the glasses' face recognition, timed by this memo, turns bystanders into data)
 
 
 ---

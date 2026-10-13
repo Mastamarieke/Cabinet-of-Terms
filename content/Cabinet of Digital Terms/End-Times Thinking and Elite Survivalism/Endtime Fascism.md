@@ -29,7 +29,7 @@ The Cabinet's own subject appears in the delivery. At the World Economic Forum i
 
 **Why This Matters:** **Endtime fascism** names the specific move of using apocalyptic urgency to suspend democratic constraint. Once you see the structure — situation too dire for ordinary limits — you can identify it across very different political contexts, and ask: what would it take for the emergency to be declared over, and who would make that declaration? Klein and Taylor end on the point that the cause is not the individuals who hold the power but the arrangements that allowed that much money, information technology and weaponry to collect in so few hands.
 
-**Related terms:** [[Millenarianism]] · [[Armageddon Complex]] · [[Disaster Nationalism]] · [[Technofascism]] · [[Dark MAGA]] · [[Dehumanization]] · [[Situated Knowledge]] · [[Tradwife]] · [[Biometric Surveillance]] · [[Doomsday Prep for the Super-Rich]] · [[Fortress Futurism]]
+**Related terms:** [[Millenarianism]] · [[Armageddon Complex]] · [[Disaster Nationalism]] · [[Technofascism]] · [[Dark MAGA]] · [[Dehumanization]] · [[Situated Knowledge]] · [[Tradwife]] · [[Biometric Surveillance]] · [[Doomsday Prep for the Super-Rich]] · [[Fortress Futurism]] · [[Algorithmic Violence]] (harm done by automated systems: Palantir builds ImmigrationOS for ICE, in the politics Klein and Taylor call end times fascism)
 
 
 ---

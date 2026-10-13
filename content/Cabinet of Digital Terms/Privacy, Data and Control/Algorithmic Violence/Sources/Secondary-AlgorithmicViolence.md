@@ -268,3 +268,35 @@ Peter Thiel, co-founder of Palantir, gave four off-the-record lectures on the An
 
 - [[Algorithmic Violence]] — the co-founder of the company that supplies police and ICE, on surveillance and the end of days
 
+
+## 17. Moral Crumple Zones: Cautionary Tales in Human-Robot Interaction
+
+**Author:** Madeleine Clare Elish
+**Year:** 2019
+**Type:** Academic (peer-reviewed article)
+**Publisher:** Engaging Science, Technology, and Society, 5
+**URL:** https://doi.org/10.17351/ests2019.260
+
+### What this source contributes
+
+Elish names the *moral crumple zone*: in a complex automated system, the human operator may become "simply a component — accidentally or intentionally — that bears the brunt of the moral and legal responsibilities when the overall system malfunctions." Like the crumple zone of a car, which absorbs the impact of a crash, the nearest person absorbs the blame and protects the integrity of the technological system, even with little control over what it did. She builds the term from high-profile accidents in automated systems.
+
+### Related entries
+
+- [[Algorithmic Violence]] — why the blame lands on the official who signs the letter, not on the people who wrote the rule
+
+## 18. All the Ways Palantir is Assisting Trump's Abusive Removal Campaign
+
+**Author:** Sophie Feng and Jay Stanley (ACLU Speech, Privacy, and Technology Project)
+**Year:** 2026
+**Type:** Advocacy (civil liberties organisation)
+**Publisher:** ACLU, 24 March
+**URL:** https://www.aclu.org/news/privacy-technology/palantir-deportation-roundup
+
+### What this source contributes
+
+An overview of Palantir's work for ICE, quoting ICE's contract documents. ImmigrationOS, added in April 2025 for $30 million to an existing sole-source contract that grew to over $145 million, is meant for "streamlining selection and apprehension operations", for following "self-deportations" and visa overstays with "near real-time visibility", and for logistics "from identification to removal". A prototype was due on 25 September 2025; the contract runs to September 2027.
+
+### Related entries
+
+- [[Algorithmic Violence]] — what the software Palantir builds for ICE is meant to do

@@ -22,7 +22,7 @@ The ideology that data always outweighs human judgement. And that more data is a
 Companies you have never heard of know where you live, what you earn, and what your health conditions are. They are selling that information right now.
 
 ### [[Privacy Washing]]
-Privacy rhetoric as marketing. The statement is reassuring. The practice is unchanged.
+The lock in the advert, the label in the app store: signs of safety that are easy to show and hard to check.
 
 ### [[Privacy as a Premium]]
 Privacy as a paid feature. If you cannot afford it, surveillance is the default.
@@ -31,10 +31,10 @@ Privacy as a paid feature. If you cannot afford it, surveillance is the default.
 Schneier: security measures that create the appearance of protection without providing it. The shoes come off at the airport.
 
 ### [[Vendor Lock-in]]
-Private companies managing public infrastructure with no exit option. The contract that cannot be cancelled.
+Dependence on one supplier so deep that leaving costs more than staying. Opting out is possible on paper and nearly impossible in practice.
 
 ### [[Algorithmic Violence]]
-Harm caused by automated systems without any individual making a decision. Nobody is responsible. Everyone is affected.
+Harm done by automated systems that carry old inequalities. The official at the desk takes the blame; the system and the people who built it stay out of sight.
 
 ### [[CLOUD Act]]
 Your data is stored in Ireland. The server is owned by an American company. US law applies.

@@ -23,7 +23,7 @@ analysis_version: pending
 
 **In the text:** [[Surveillance Capitalism]] · [[Panopticon]] · [[Algorithmic Violence]] · [[Brussels Effect]]
 
-**Related terms:** [[Cybernetic Governance]] (decisions on benefits and immigration made by algorithms: Western states scoring citizens with the logic of a social credit system)
+**Related terms:** [[Cybernetic Governance]] (decisions on benefits and immigration made by algorithms: Western states scoring citizens with the logic of a social credit system) · [[Dataism]] (the belief that data knows best: a score deciding for you, in its plainest form)
 
 
 ---
