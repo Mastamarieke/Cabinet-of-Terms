@@ -120,3 +120,19 @@ else:
 with open(INDEX, "w", encoding="utf-8") as f:
     f.write(text)
 print(f"table written: {len(full)} full method, {len(earlier)} earlier round, {rest_count} not yet")
+
+# The list of clusters on the All Clusters page (13-10): its text said "The twenty clusters are
+# listed below" while Quartz shows no folder listing on a page with its own text, so nothing
+# followed, from 12-09 on. Generated here, from the same counts, between the markers.
+ALL = os.path.join(VAULT, "index.md")
+CSTART, CEND = "<!-- clusters:start -->", "<!-- clusters:end -->"
+listing = "\n".join(f"- [[{c}]] · {n} terms" for c, n in sorted(all_entries.items()))
+with open(ALL, encoding="utf-8") as f:
+    page = f.read()
+if CSTART in page and CEND in page:
+    page = re.sub(re.escape(CSTART) + r".*?" + re.escape(CEND), CSTART + "\n" + listing + "\n" + CEND, page, flags=re.S)
+else:
+    page = page.rstrip("\n") + "\n\n" + CSTART + "\n" + listing + "\n" + CEND + "\n"
+with open(ALL, "w", encoding="utf-8") as f:
+    f.write(page)
+print(f"cluster list written: {len(all_entries)} clusters")

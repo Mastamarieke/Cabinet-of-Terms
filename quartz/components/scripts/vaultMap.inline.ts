@@ -577,15 +577,23 @@ async function renderVaultMap() {
   showValues()
 
   const enlarged = () => svg.parentElement === stage
+  // The mouse in map units. The drawing is square and its frame often is not (on All Clusters
+  // the panel is 729 x 420), so the browser centres it with empty bands at the sides. Reading
+  // the position as a fraction of the frame put the pointer 200 map units off and the circles
+  // stopped answering (13-10); the screen matrix accounts for the bands.
+  const toMap = (clientX: number, clientY: number) => {
+    const m = svg.getScreenCTM()
+    if (!m) return { x: view.x, y: view.y }
+    const pt = new DOMPoint(clientX, clientY).matrixTransform(m.inverse())
+    return { x: pt.x, y: pt.y }
+  }
 
   svg.addEventListener(
     "wheel",
     (e) => {
       if (!enlarged()) return
       e.preventDefault()
-      const box = svg.getBoundingClientRect()
-      const px = view.x + ((e.clientX - box.left) / box.width) * view.w
-      const py = view.y + ((e.clientY - box.top) / box.height) * view.h
+      const { x: px, y: py } = toMap(e.clientX, e.clientY)
       const factor = e.deltaY > 0 ? 1.12 : 1 / 1.12
       const w = Math.min(SIZE * 1.6, Math.max(SIZE * 0.12, view.w * factor))
       const scaled = w / view.w
@@ -634,9 +642,7 @@ async function renderVaultMap() {
   }
   svg.addEventListener("pointermove", (e) => {
     if (enlarged() || dragging) return
-    const box = svg.getBoundingClientRect()
-    const mx = view.x + ((e.clientX - box.left) / box.width) * view.w
-    const my = view.y + ((e.clientY - box.top) / box.height) * view.h
+    const { x: mx, y: my } = toMap(e.clientX, e.clientY)
     // stay with the current cluster while the pointer is on the circle or its names; the
     // band along the edge of the frame is where it lets go
     if (peeked) {
@@ -657,6 +663,19 @@ async function renderVaultMap() {
       }
     }
     if (!hit) {
+      // Zoomed in, the circle glides to the middle and leaves the pointer behind; that is not
+      // a reason to let go. Only the band along the edge of the frame lets go, as the comment
+      // above says (13-10: the map zoomed in and straight back out again).
+      if (peeked) {
+        const box = svg.getBoundingClientRect()
+        const band = 28
+        const inBand =
+          e.clientX - box.left < band ||
+          box.right - e.clientX < band ||
+          e.clientY - box.top < band ||
+          box.bottom - e.clientY < band
+        if (!inBand) return
+      }
       clearTimeout(dwell)
       dwellOn = null
       peekAt(null)
@@ -697,9 +716,10 @@ async function renderVaultMap() {
   })
   svg.addEventListener("pointermove", (e) => {
     if (!dragging) return
-    const box = svg.getBoundingClientRect()
-    view.x -= ((e.clientX - dragging.x) / box.width) * view.w
-    view.y -= ((e.clientY - dragging.y) / box.height) * view.h
+    const a = toMap(dragging.x, dragging.y)
+    const b = toMap(e.clientX, e.clientY)
+    view.x -= b.x - a.x
+    view.y -= b.y - a.y
     dragging = { x: e.clientX, y: e.clientY }
     applyView()
   })
