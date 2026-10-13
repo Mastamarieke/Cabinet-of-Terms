@@ -122,3 +122,41 @@ document.addEventListener("nav", () => {
     window.addCleanup(() => btn.removeEventListener("click", handler))
   }
 })
+
+// A link from the homepage ("Try it live") lands on a block by its id:
+// #semantic-field, #semantic-landscape, #attention-curve, #relations, #narrative-typography.
+// A folded block is opened.
+document.addEventListener("nav", () => {
+  const id = decodeURIComponent(location.hash.slice(1))
+  if (!["semantic-field", "semantic-landscape", "attention-curve", "relations", "narrative-typography"].includes(id)) return
+  // the Narrative Typography image is plain markdown (![](tradwife.jpg)), so it has no id:
+  // take the first image in the entry's text
+  const el =
+    document.getElementById(id) ??
+    (id === "narrative-typography" ? document.querySelector<HTMLElement>("article img") : null)
+  if (!el) return
+  if (el instanceof HTMLDetailsElement) el.open = true
+  setTimeout(() => el.scrollIntoView({ block: "start" }), 300)
+})
+
+// Homepage, "The graphs": a click (or Enter/Space) turns a flip card; a link on the back
+// still works as a link.
+document.addEventListener("nav", () => {
+  for (const card of document.querySelectorAll<HTMLElement>(".flipcard")) {
+    const turn = (e: Event) => {
+      if ((e.target as HTMLElement).closest("a")) return
+      if (e instanceof KeyboardEvent) {
+        if (e.key !== "Enter" && e.key !== " ") return
+        e.preventDefault()
+      }
+      const on = card.classList.toggle("flipped")
+      card.setAttribute("aria-pressed", String(on))
+    }
+    card.addEventListener("click", turn)
+    card.addEventListener("keydown", turn)
+    window.addCleanup(() => {
+      card.removeEventListener("click", turn)
+      card.removeEventListener("keydown", turn)
+    })
+  }
+})

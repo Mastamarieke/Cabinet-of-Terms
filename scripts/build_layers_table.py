@@ -62,17 +62,49 @@ for cluster_dir in sorted(glob.glob(os.path.join(VAULT, "*"))):
         if sources or landscape or n or image:
             rows.append((cluster, name, sources, landscape, n, image))
 
-tick = lambda b: "✓" if b else ""
+# Clusters that have been through the full method (the five steps in Doctor Alert, 13-10).
+# Add a cluster here when the curator declares it done.
+FULL_METHOD = ["Privacy, Data and Control"]
+
+# The table is kept short on purpose (curator, 13-10: "het moet niet te lang worden"):
+# three rows, the first two with the entries as links, the third with the clusters only.
+all_entries = {}
+for cluster_dir in sorted(glob.glob(os.path.join(VAULT, "*"))):
+    if not os.path.isdir(cluster_dir) or os.path.basename(cluster_dir) == "Sources":
+        continue
+    cluster = os.path.basename(cluster_dir)
+    if not os.path.exists(os.path.join(cluster_dir, "index.md")):
+        continue  # a concept cluster without a page (SF as Inspiration): nothing to link to
+    n = 0
+    for path in [p for p in glob.glob(os.path.join(cluster_dir, "*.md")) if os.path.basename(p) != "index.md"] + glob.glob(os.path.join(cluster_dir, "*", "index.md")):
+        with open(path, encoding="utf-8") as f:
+            if re.search(r"^draft:\s*true", frontmatter(f.read()), re.M):
+                continue
+        n += 1
+    if n:
+        all_entries[cluster] = n
+
+with_layers = {(c, name) for c, name, *_ in rows}
+full = sorted([r for r in rows if r[0] in FULL_METHOD], key=lambda r: r[1].lower())
+earlier = sorted([r for r in rows if r[0] not in FULL_METHOD], key=lambda r: (r[0], r[1].lower()))
+rest_clusters = sorted(c for c, n in all_entries.items() if n > sum(1 for r in rows if r[0] == c))
+rest_count = sum(all_entries.values()) - len(rows)
+
+def grouped(rs):
+    parts, by = [], {}
+    for r in rs:
+        by.setdefault(r[0], []).append(f"[[{r[1]}]]")
+    for c in sorted(by):
+        parts.append(f"[[{c}]]: " + " · ".join(by[c]))
+    return "<br>".join(parts)
+
 lines = [
-    "| Cluster | Entry | Sources folder | Semantic landscape | Attention curve | Narrative Typography |",
-    "|---|---|---|---|---|---|",
+    "| | entries | which |",
+    "|---|---|---|",
+    f"| **Full method**: sources, landscape, curve, relations argued in the text | {len(full)} | {grouped(full)} |",
+    f"| **Earlier round**: some of the layers, before the current method | {len(earlier)} | {grouped(earlier)} |",
+    f"| **Not yet** | {rest_count} | " + " · ".join(f"[[{c}]]" for c in rest_clusters) + " |",
 ]
-previous = None
-for cluster, name, sources, landscape, n, image in sorted(rows, key=lambda r: (r[0], r[1].lower())):
-    shown = cluster if cluster != previous else ""
-    previous = cluster
-    curve = f"✓ ({n} source{'s' if n != 1 else ''})" if n else ""
-    lines.append(f"| {shown} | **[[{name}]]** | {tick(sources)} | {tick(landscape)} | {curve} | {tick(image)} |")
 table = "\n".join(lines)
 
 with open(INDEX, encoding="utf-8") as f:
@@ -87,4 +119,4 @@ else:
     text = text[: m.start(2)] + START + "\n" + table + "\n" + END + "\n" + text[m.end(2):]
 with open(INDEX, "w", encoding="utf-8") as f:
     f.write(text)
-print(f"{len(rows)} entries with at least one layer written to content/index.md")
+print(f"table written: {len(full)} full method, {len(earlier)} earlier round, {rest_count} not yet")

@@ -27,6 +27,8 @@ You have heard these terms. You probably use some of them. But do you know where
 **The Cabinet of Digital Terms** is a knowledge bank developed by **Marieke de Vogel** within **The Project Digital Alertness** at the [[Communication & Multimedia Design program]](https://www.han.nl/opleidingen/hbo/communication-multimedia-design/voltijd/) of the [[HAN University of Applied Sciences]](https://www.hanuniversity.com/en/), in collaboration with the [[Lectorate Media Design]](https://www.han.nl/onderzoek/lectoraten/lectoraat-media-design/). It brings together **250+ terms** from digital media, platform culture, political discourse, and popular culture, organized across **20+ thematic cluster**s. Supported by **800+ verified external links** to primary sources, it does something a traditional glossary would never do: it maps them.
 Not to define, but to connect the dots.
 
+**A living lab.** The Cabinet is revised cluster by cluster, and you are reading it while that happens. *Privacy, Data and Control* is the first cluster to have been through the full method: sources read and split into primary and secondary, a semantic landscape, an attention curve, and relations argued in the text as well as listed. *Gender & Identity* was rewritten earlier on the research literature and will go through the same method next. In other clusters some entries, such as Tradwife and Sharenting, already carry several layers; most are at an earlier stage. [Where each entry stands](#where-each-entry-stands) shows which. Revised entries are being tested with readers, and what they tell us goes back into the method. If something is unclear or wrong, write to info@digitale-alertheid.nl.
+
 We reject the myth of neutral knowledge. As **Donna Haraway** argued, true objectivity requires acknowledging our position: "Feminist objectivity means quite simply situated knowledges." Instead of offering static definitions, the Cabinet invites you to trace the relationships between terms, revealing the forces that shape our digital reality. The Cabinet of Digital Terms is a knowledge bank of **20+ clusters**, **250+ terms**, **800+ source references** from digital media, platform culture, political discourse, and popular culture. Each term is examined for its origin, its use, its power structure, and - most importantly - what it conceals.
 
 This is not a glossary. A glossary defines. This collection does something different: it identifies terms worth examining - for genealogy, circulation, stakes, and the shifts in meaning that reveal who benefits from a term's existence.
@@ -74,52 +76,34 @@ This is not AI-generated content in the sense of automated output. It is a colla
 
 Two instruments guide the practice: `CLAUDE.md` maintains the vault — indexes, counts, link integrity, retroactive updates — while `Doctor Alert.md` positions each term: which cluster it belongs to, which existing terms it connects to, and why. Maintenance and positioning are deliberately kept separate, so consistency is checked apart from analytical judgment.
 
-Some entries carry the method further than others. Four layers can be added to an entry, and they have grown at their own pace, so the groups do not coincide:
+### Where each entry stands
+
+Some entries carry the method further than others.
+
+<details>
+<summary><strong>What the three groups mean</strong></summary>
+
+**Full method:** the entry has been through every step. Its sources were read before anything was written and split into primary and secondary; each part answers its own question; relations to other terms are argued in the text, not only listed; the term's own name links back to the entry; and it has a semantic landscape and an attention curve. A cluster moves into this group when all its entries are done.
+
+**Earlier round:** the entry has some of these layers, sources, a landscape or a curve, from a revision before the current method. It will go through the full method with its cluster.
+
+**Not yet:** the entry is in its first form, written with AI assistance and checked for links and sources, without the layers above.
+
+</details>
+
+
+<details>
+<summary><strong>The entries per group</strong></summary>
 
 <!-- layers:start -->
-| Cluster | Entry | Sources folder | Semantic landscape | Attention curve | Narrative Typography |
-|---|---|---|---|---|---|
-| AI-Specific Terms | **[[AI-Ninja]]** | ✓ |  |  |  |
-| Beauty, Influencers & Self-Image | **[[Virtual Influencer]]** | ✓ | ✓ | ✓ (3 sources) |  |
-| Behaviour & Relationships | **[[Parasocial Relationship]]** |  | ✓ | ✓ (4 sources) |  |
-| Gender & Identity | **[[Alpha Male]]** | ✓ | ✓ | ✓ (2 sources) |  |
-|  | **[[Blackpill]]** | ✓ | ✓ | ✓ (2 sources) |  |
-|  | **[[High Value Man]]** | ✓ | ✓ | ✓ (1 source) |  |
-|  | **[[Hypergamy]]** | ✓ | ✓ | ✓ (4 sources) |  |
-|  | **[[Incel]]** | ✓ | ✓ | ✓ (4 sources) |  |
-|  | **[[Looksmaxxing]]** | ✓ | ✓ | ✓ (4 sources) | ✓ |
-|  | **[[Manosphere]]** | ✓ | ✓ | ✓ (4 sources) |  |
-|  | **[[MGTOW]]** | ✓ | ✓ | ✓ (4 sources) |  |
-|  | **[[NPC]]** | ✓ | ✓ | ✓ (2 sources) |  |
-|  | **[[Podcast-bro]]** | ✓ | ✓ | ✓ (1 source) |  |
-|  | **[[Provider]]** | ✓ | ✓ | ✓ (3 sources) |  |
-|  | **[[Red Pill]]** | ✓ | ✓ | ✓ (4 sources) |  |
-|  | **[[Rizz]]** | ✓ | ✓ | ✓ (3 sources) |  |
-|  | **[[Sigma Male]]** | ✓ | ✓ | ✓ (2 sources) | ✓ |
-|  | **[[SMV (Sexual Market Value)]]** | ✓ | ✓ | ✓ (1 source) |  |
-|  | **[[Stay-at-home Girlfriend (SAHG)]]** | ✓ | ✓ | ✓ (1 source) |  |
-|  | **[[Top 1% Man]]** | ✓ | ✓ | ✓ (1 source) |  |
-|  | **[[Tradwife]]** | ✓ | ✓ | ✓ (4 sources) | ✓ |
-|  | **[[Womanosphere]]** | ✓ | ✓ | ✓ (2 sources) |  |
-| Parents & Children | **[[Sharenting]]** | ✓ | ✓ | ✓ (4 sources) |  |
-| Platform Mechanisms & Economics | **[[Ragebaiting]]** | ✓ |  |  |  |
-|  | **[[Recommender Systems]]** | ✓ |  |  |  |
-| Privacy, Data and Control | **[[Algorithmic Violence]]** | ✓ | ✓ | ✓ (2 sources) |  |
-|  | **[[Brussels Effect]]** | ✓ | ✓ | ✓ (3 sources) |  |
-|  | **[[CLOUD Act]]** | ✓ | ✓ | ✓ (4 sources) |  |
-|  | **[[Data Brokers]]** | ✓ | ✓ | ✓ (4 sources) |  |
-|  | **[[Dataism]]** | ✓ | ✓ | ✓ (3 sources) |  |
-|  | **[[Privacy as a Premium]]** | ✓ | ✓ | ✓ (1 source) |  |
-|  | **[[Privacy Washing]]** | ✓ | ✓ | ✓ (1 source) |  |
-|  | **[[Security Theater]]** | ✓ | ✓ | ✓ (2 sources) |  |
-|  | **[[Surveillance Capitalism]]** | ✓ | ✓ | ✓ (3 sources) |  |
-|  | **[[Vendor Lock-in]]** | ✓ | ✓ | ✓ (4 sources) |  |
-| Subcultural Vocabulary and Platform Language | **[[Gooner]]** |  | ✓ | ✓ (2 sources) |  |
+| | entries | which |
+|---|---|---|
+| **Full method**: sources, landscape, curve, relations argued in the text | 10 | [[Privacy, Data and Control]]: [[Algorithmic Violence]] · [[Brussels Effect]] · [[CLOUD Act]] · [[Data Brokers]] · [[Dataism]] · [[Privacy as a Premium]] · [[Privacy Washing]] · [[Security Theater]] · [[Surveillance Capitalism]] · [[Vendor Lock-in]] |
+| **Earlier round**: some of the layers, before the current method | 26 | [[AI-Specific Terms]]: [[AI-Ninja]]<br>[[Beauty, Influencers & Self-Image]]: [[Virtual Influencer]]<br>[[Behaviour & Relationships]]: [[Parasocial Relationship]]<br>[[Gender & Identity]]: [[Alpha Male]] · [[Blackpill]] · [[High Value Man]] · [[Hypergamy]] · [[Incel]] · [[Looksmaxxing]] · [[Manosphere]] · [[MGTOW]] · [[NPC]] · [[Podcast-bro]] · [[Provider]] · [[Red Pill]] · [[Rizz]] · [[Sigma Male]] · [[SMV (Sexual Market Value)]] · [[Stay-at-home Girlfriend (SAHG)]] · [[Top 1% Man]] · [[Tradwife]] · [[Womanosphere]]<br>[[Parents & Children]]: [[Sharenting]]<br>[[Platform Mechanisms & Economics]]: [[Ragebaiting]] · [[Recommender Systems]]<br>[[Subcultural Vocabulary and Platform Language]]: [[Gooner]] |
+| **Not yet** | 224 | [[AI and Energy]] · [[AI-Specific Terms]] · [[Beauty, Influencers & Self-Image]] · [[Behaviour & Relationships]] · [[Consequences of Digital Behaviour]] · [[Counter-Movements]] · [[Culture Wars and Political Language]] · [[Design Philosophy and Ethical Design]] · [[End-Times Thinking and Elite Survivalism]] · [[Inclusion, Accessibility and Ageing]] · [[Manifestos]] · [[New Digital Professions]] · [[Parents & Children]] · [[Platform Mechanisms & Economics]] · [[SF as Ideology]] · [[Society and Power]] · [[Statements as Analytical Object]] · [[Subcultural Vocabulary and Platform Language]] |
 <!-- layers:end -->
 
-The **Sources folder** separates primary from secondary literature and gives every source its own page. The **semantic landscape** is the written account of where a term sits and why, in prose rather than in lines. The **attention curve** is the one layer that is counted rather than curated: page views and search interest by month, with peer-reviewed publications by year, which is why it is named an attention curve and not a semantic one. **Narrative Typography** is the term drawn as an image by a designer.
-
-In the graph, a **Sources** toggle, a **Cluster** toggle, and a **Backlinks** toggle let you reveal or hide that evidentiary layer, a term's cluster-siblings, and its incoming links on demand — the map stays legible at whatever depth you want to read it.
+</details>
 
 The project began with long-form, eight-section analyses under the name **Media Cartografie**. Cartographic prompting is its operationalisation for the public vault: a way of using AI not to generate answers, but to make the hidden visible.
 
@@ -131,25 +115,200 @@ Read the full methodology: **[Cartographic Prompting](https://digitale-alertheid
 
 ## How an entry is structured
 
-Every entry in this vault follows the same structure. Understanding it helps you read the analyses — and use them as a template if you want to contribute.
+Every entry has the same basic structure, and some carry more, depending on how far they have been revised (see [Where each entry stands](#where-each-entry-stands)). This is part of ongoing research within Project Digitale Alertheid (HAN University of Applied Sciences, Lectorate Media Design): how to name what people half-know about digital culture, so that they recognise it, can talk about it and notice it next time. The structure is revised as reader tests show what works. Open a part to see what it does, with an example.
 
-**Hook** - a concrete, recognisable situation. Not a definition. The reader recognises the moment before they know what it is called.
+#### In every entry
 
-**Literal meaning** - what the term literally means, broken down etymologically where relevant.
+<details>
+<summary><strong>Hook</strong></summary>
 
-**Origin** - where the term came from, who introduced it, and how its meaning has shifted since.
+A situation you recognise, and one question in which the term's tension sits. In [[Security Theater]]: *You took off your shoes at the airport security check and felt safer. Were you?*
 
-**Definition** - one sentence, plain language. The term itself may appear; other jargon does not.
+</details>
 
-**The Appeal** - why the term circulates. What it promises. Why people use it without questioning it.
+<details>
+<summary><strong>Literal meaning</strong></summary>
 
-**The Friction** - what the term conceals. Who benefits from its existence. What it makes invisible.
+What the parts of the word say, and what appears when they come together that was in neither. In [[Security Theater]]: *security*, from Latin *securus*, without care, and a *theater*, a performance for an audience, where the audience is the people who are supposed to be protected.
 
-**Why This Matters** - the analytical conclusion. What changes once you see the term clearly.
+</details>
 
-**Related terms** - other terms discussed inline, elsewhere in the vault.
+<details>
+<summary><strong>Origin</strong></summary>
 
-**Read more** - verified external sources, in the format: `[Title](URL) — Author (year). *Publisher/Journal*`
+Where the term came from, who introduced it, and how its meaning has shifted.
+
+</details>
+
+<details>
+<summary><strong>Definition</strong></summary>
+
+One sentence in plain language, set apart in a box.
+
+</details>
+
+<details>
+<summary><strong>The Appeal</strong></summary>
+
+What is true about the term, and who benefits from it.
+
+</details>
+
+<details>
+<summary><strong>The Friction</strong></summary>
+
+The answer to the hook's question: what the term hides, and how it works. In [[Security Theater]] it begins: *Often not: you do what the measure asks, and the risk stays where it was.*
+
+</details>
+
+<details>
+<summary><strong>Why This Matters</strong></summary>
+
+Why it helps to know the term, where things are done differently, and how to recognise it the next time. [[Vendor Lock-in]] ends: *The next time you sign up, or your school or employer chooses a system, ask what it would cost to leave in five years and whether you can take your data with you.*
+
+</details>
+
+<details>
+<summary><strong>Related terms</strong></summary>
+
+Other terms in the Cabinet, each with the reason it belongs beside this one. Terms the text itself discusses are linked in the text.
+
+</details>
+
+Above every entry stands its **semantic field**, the graph of its neighbours (see the cards below).
+
+#### Since the earlier rounds
+
+<details>
+<summary><strong>Sources</strong></summary>
+
+The entries from the earlier rounds and the full method carry their sources on separate pages: at most two primary sources, peer-reviewed research that carries the analysis, and a bundle of secondary sources, from journalism to law. Every source in the text links to its page. See [[Privacy Washing]].
+
+</details>
+
+These entries also have a **semantic landscape** and an **attention curve** (see the cards below).
+
+#### Added in the full method
+
+<details>
+<summary><strong>Signs in the text</strong></summary>
+
+Only in the entries that went through the full method: an asterisk \* opens the source of a claim, ▾ explains a name or a word, and ↘ leads to an original document or another entry.
+
+</details>
+
+<details>
+<summary><strong>Relations argued in the text</strong></summary>
+
+A neighbouring term is discussed in the part of the entry that needs it, so the text says why the two belong together; what adds nothing to the text stays under Related terms, with a reason. In the semantic field this shows as a solid line instead of a dashed one.
+
+</details>
+
+#### Not part of a round
+
+Three entries carry the term drawn as an image by a designer: **Narrative Typography** (see the cards below).
+
+#### On every cluster page
+
+Each cluster page has a drawing of its **relations** with the other clusters (see the cards below).
+
+<details>
+<summary><strong>Drawings and images</strong></summary>
+
+The drawings and the image mentioned above. Click a card to turn it over.
+
+<div class="flipcards">
+
+<div class="flipcard" tabindex="0" role="button" aria-pressed="false" aria-label="Semantic field: turn the card">
+<div class="flip-face flip-front">
+<img class="shot" src="beeld/homepage-field.png" alt="The semantic field of Privacy Washing">
+<span class="flip-where">in every entry</span><span class="flip-name">Semantic field</span><span class="flip-turn">turn ↻</span>
+</div>
+<div class="flip-face flip-back">
+
+<span class="flip-name">Semantic field</span>
+
+The graph above every entry: the term in the middle, its neighbours on a ring grouped by cluster, its sources marked as books. An arrow shows which way a link runs; a line shows how well a relation is argued (thick: discussed in both texts, plain: in one text, dashed: only in Related terms, with a reason). Three switches show or hide the sources, the other terms in the cluster, and the entries that link here without being linked back.
+
+[[Privacy Washing#semantic-field|Try it live in Privacy Washing ↗]]
+
+<span class="flip-turn">turn back ↺</span>
+</div>
+</div>
+
+<div class="flipcard" tabindex="0" role="button" aria-pressed="false" aria-label="Semantic landscape: turn the card">
+<div class="flip-face flip-front">
+<img class="shot shot-light" src="beeld/homepage-landscape-light.png" alt="The semantic landscape of Vendor Lock-in"><img class="shot shot-dark" src="beeld/homepage-landscape-dark.png" alt="The semantic landscape of Vendor Lock-in">
+<span class="flip-where">since the earlier rounds</span><span class="flip-name">Semantic landscape</span><span class="flip-turn">turn ↻</span>
+</div>
+<div class="flip-face flip-back">
+
+<span class="flip-name">Semantic landscape</span>
+
+The graph told as a short story: one thing that surprises, one thread followed through the neighbours, people at the end. The names in it are links. Vendor Lock-in begins: *In a survey of people working with cloud services in British businesses, fewer than half knew what vendor lock-in meant.*
+
+[[Vendor Lock-in#semantic-landscape|Read it in Vendor Lock-in ↗]]
+
+<span class="flip-turn">turn back ↺</span>
+</div>
+</div>
+
+<div class="flipcard" tabindex="0" role="button" aria-pressed="false" aria-label="Attention curve: turn the card">
+<div class="flip-face flip-front">
+<img class="shot shot-light" src="beeld/homepage-curve-light-card.png" alt="The attention curve of Tradwife"><img class="shot shot-dark" src="beeld/homepage-curve-dark-card.png" alt="The attention curve of Tradwife">
+<span class="flip-where">since the earlier rounds</span><span class="flip-name">Attention curve</span><span class="flip-turn">turn ↻</span>
+</div>
+<div class="flip-face flip-back">
+
+<span class="flip-name">Attention curve</span>
+
+When the word drew attention: Wikipedia page views, search interest and research per year, each on its own scale. Numbered moments explain the peaks, or say plainly that no cause was found. In Tradwife the highest peak, April 2024, came three months before the newspaper profile usually credited with it; the likely cause was a radio podcast, and the note says it is not proven.
+
+[[Tradwife#attention-curve|Try it live in Tradwife ↗]]
+
+<span class="flip-turn">turn back ↺</span>
+</div>
+</div>
+
+<div class="flipcard" tabindex="0" role="button" aria-pressed="false" aria-label="Relations: turn the card">
+<div class="flip-face flip-front">
+<img class="shot" src="beeld/homepage-relations.png" alt="The relations of Privacy, Data and Control">
+<span class="flip-where">on every cluster page</span><span class="flip-name">Relations</span><span class="flip-turn">turn ↻</span>
+</div>
+<div class="flip-face flip-back">
+
+<span class="flip-name">Relations</span>
+
+On every cluster page: how its terms connect to the other clusters, in both directions. On the left the clusters whose terms point in, on the right the clusters its own terms point to. A solid line means a term discusses the other term in its text, a dashed line that it lists it under Related terms, with a reason. Point at a cluster or a term to see only its lines.
+
+[[Privacy, Data and Control#relations|Try it live in Privacy, Data and Control ↗]]
+
+<span class="flip-turn">turn back ↺</span>
+</div>
+</div>
+
+<div class="flipcard" tabindex="0" role="button" aria-pressed="false" aria-label="Narrative Typography: turn the card">
+<div class="flip-face flip-front">
+<img class="shot" src="beeld/homepage-tradwife.jpg" alt="Tradwife, drawn as Narrative Typography">
+<span class="flip-where">in three entries</span><span class="flip-name">Narrative Typography</span><span class="flip-caption">By Narrative Typographer Marieke de Vogel</span><span class="flip-turn">turn ↻</span>
+</div>
+<div class="flip-face flip-back">
+
+<span class="flip-name">Narrative Typography</span>
+
+The term drawn as an image by a designer, set above the definition, so the form of the word shows its meaning before you read it. So far in Tradwife (Marieke de Vogel), and in Sigma Male and Looksmaxxing (Anne-Marie Bruinsma); more will follow.
+
+[[Tradwife#narrative-typography|See it in Tradwife ↗]] · [About Narrative Typography](https://digitale-alertheid.nl/narrative-typography-the-metaphoric-visualisation-of-terms/)
+
+<span class="flip-turn">turn back ↺</span>
+</div>
+</div>
+
+</div>
+
+</details>
+
+Interested in the research, in using the Cabinet in teaching, or in contributing? Write to info@digitale-alertheid.nl.
 
 ---
 

@@ -353,3 +353,103 @@ article > p:first-of-type > em > strong {
   font-size: 0.82em;
   color: var(--darkgray);
 }
+
+// Homepage, "How an entry is structured" (13-10): each example screenshot exists in light
+// and dark; only the one matching the reader's theme is shown.
+img.shot {
+  display: block;
+  width: 100%;
+  border-radius: 6px;
+  margin: 0.4em 0 0.3em;
+}
+:root[saved-theme="dark"] img.shot-light,
+:root[saved-theme="light"] img.shot-dark {
+  display: none;
+}
+
+// Homepage, "The graphs" (13-10): flip cards. Front: a screenshot; back: what it shows and a
+// link to try it live. Both faces share one grid cell, so the card is as tall as the taller face.
+.flipcards {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1.2rem;
+  margin: 0.8em 0 0.4em;
+}
+.flipcard {
+  display: grid;
+  perspective: 1400px;
+  cursor: pointer;
+  border-radius: 8px;
+  &:focus-visible {
+    outline: 2px solid var(--secondary);
+    outline-offset: 3px;
+  }
+  .flip-face {
+    grid-area: 1 / 1;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5em;
+    padding: 0.7em;
+    border: 1px solid var(--lightgray);
+    border-radius: 8px;
+    background: var(--light);
+    backface-visibility: hidden;
+    -webkit-backface-visibility: hidden;
+    transition: transform 0.6s ease;
+    font-size: 0.92em;
+    line-height: 1.5;
+    & > p {
+      margin: 0;
+    }
+    img.shot {
+      margin: 0;
+    }
+  }
+  .flip-back {
+    transform: rotateY(180deg);
+    // markdown wraps "turn back" in a paragraph; put that paragraph in the corner
+    & > p:last-child {
+      margin-top: auto;
+      text-align: right;
+    }
+  }
+  &.flipped .flip-front {
+    transform: rotateY(-180deg);
+  }
+  &.flipped .flip-back {
+    transform: rotateY(0deg);
+  }
+  .flip-name {
+    font-weight: 700;
+    color: var(--secondary);
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    font-size: 0.85em;
+  }
+  .flip-caption {
+    font-style: italic;
+    color: var(--gray);
+    font-size: 0.85em;
+  }
+  .flip-turn {
+    margin-top: auto;
+    align-self: flex-end;
+    color: var(--gray);
+    font-size: 0.85em;
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .flip-face {
+      transition: none;
+    }
+  }
+}
+.flipcard .flip-where {
+  align-self: flex-start;
+  font-size: 0.75em;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--darkgray);
+  border: 1px solid var(--lightgray);
+  border-radius: 999px;
+  padding: 0.05em 0.6em;
+}

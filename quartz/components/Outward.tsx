@@ -149,7 +149,7 @@ export default (() => {
     const link = (target: string) => resolveRelative(slug, target as SimpleSlug)
 
     return (
-      <details class={`graph-story outward ${displayClass ?? ""}`}>
+      <details id="relations" class={`graph-story outward ${displayClass ?? ""}`}>
         <summary class="graph-story-header">
           <span class="graph-title-name">Relations</span>
           <span class="graph-title-rest">

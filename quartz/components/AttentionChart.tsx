@@ -354,7 +354,7 @@ export default (() => {
     }
 
     return (
-      <details class="graph-story attention">
+      <details id="attention-curve" class="graph-story attention">
         <summary class="graph-story-header">
           <span class="graph-title-name">Attention curve</span>
           <span class="graph-title-rest">
