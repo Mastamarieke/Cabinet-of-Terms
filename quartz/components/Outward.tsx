@@ -157,7 +157,20 @@ export default (() => {
             — how the terms in <strong>{fullTitle}</strong> link to other clusters
           </span>
         </summary>
-        <div class="outward-body">
+        <div class="outward-body" data-cluster={fullTitle}>
+          <button type="button" class="outward-loupe" aria-label="Enlarge this graph" title="Enlarge">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+              <circle cx="11" cy="11" r="6.5" />
+              <path d="M20 20l-4.2-4.2" />
+              <path d="M11 8.5v5M8.5 11h5" />
+            </svg>
+          </button>
+          <button type="button" class="outward-shot" aria-label="Save this graph as an image" title="Save as image">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M4 8h3l1.5-2h7L17 8h3v11H4z" />
+              <circle cx="12" cy="13" r="3.4" />
+            </svg>
+          </button>
           <p class="outward-sum">
             Direct neighbours in other clusters: its own terms point out {tout.argued + tout.named} times ({tout.argued} in the text, {tout.named} in Related terms); terms elsewhere point in {tin.argued + tin.named} times ({tin.argued} in the text, {tin.named} in Related terms).
           </p>
@@ -220,6 +233,18 @@ export default (() => {
           <p class="outward-key">
             <em class="line argued" /> solid line: a term in one cluster discusses a term in the other in its text · <em class="line named" /> dashed line: it lists that term under Related terms, with a reason
           </p>
+        </div>
+        <div class="outward-overlay" aria-hidden="true">
+          <div class="outward-overlay-card">
+            <div class="outward-overlay-head">
+              <span class="graph-title-name">Relations</span>
+              <span class="graph-title-rest">
+                {" "}
+                — how the terms in <strong>{fullTitle}</strong> link to other clusters
+              </span>
+              <button type="button" class="outward-overlay-close" aria-label="Close">×</button>
+            </div>
+          </div>
         </div>
       </details>
     )

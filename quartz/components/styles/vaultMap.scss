@@ -449,3 +449,42 @@
     }
   }
 }
+
+// Back to all twenty clusters (12-10): in the small panel, shown while a cluster is zoomed in
+.vault-map-overview {
+  position: absolute;
+  top: 0.5rem;
+  left: 0.6rem;
+  z-index: 2;
+  padding: 0.25rem 0.75rem;
+  font: inherit;
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: var(--dark);
+  background: var(--light);
+  border: 1px solid var(--lightgray);
+  border-radius: 999px;
+  cursor: pointer;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12);
+
+  &:hover,
+  &:focus-visible {
+    border-color: var(--han-red);
+    color: var(--han-red);
+  }
+}
+
+// in the enlarged map the reset carries its name as well
+.vault-map-overlay .vault-map-actions button.vault-map-reset-label {
+  width: auto;
+  gap: 0.35rem;
+  padding-inline: 0.6rem;
+  font: inherit;
+  font-size: 0.85rem;
+  font-weight: 600;
+
+  svg {
+    width: 20px;
+    height: 20px;
+  }
+}

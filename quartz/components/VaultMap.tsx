@@ -31,7 +31,11 @@ const VaultMap: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
           between them
         </span>
       </h3>
-      <div class="vault-map-inner"></div>
+      <div class="vault-map-inner">
+        <button type="button" class="vault-map-overview" hidden aria-label="Back to all twenty clusters">
+          ← Overview
+        </button>
+      </div>
       <p class="vault-map-foot">Point at a circle to see its reach · enlarge to read the names</p>
       <button class="vault-map-expand" aria-label="Enlarge this map">
         <svg
@@ -77,11 +81,12 @@ const VaultMap: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
               <circle cx="12" cy="13" r="3.4" />
             </svg>
           </button>
-          <button type="button" class="vault-map-reset" aria-label="Fit the map to the screen">
+          <button type="button" class="vault-map-reset vault-map-reset-label" aria-label="Back to all twenty clusters">
             <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"
               stroke-linecap="round" stroke-linejoin="round">
               <path d="M4 9V4h5M20 9V4h-5M4 15v5h5M20 15v5h-5" />
             </svg>
+            <span>Overview</span>
           </button>
           <button type="button" class="vault-map-close" aria-label="Close this map">
             <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"

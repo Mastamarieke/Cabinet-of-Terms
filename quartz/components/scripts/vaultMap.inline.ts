@@ -84,7 +84,8 @@ async function renderVaultMap() {
   const stage = container.querySelector(".vault-map-stage") as HTMLElement | null
   const overlay = container.querySelector(".vault-map-overlay") as HTMLElement | null
   if (!inner || !stage || !overlay) return
-  inner.innerHTML = ""
+  // only the old drawing goes: the Overview button lives in the panel too (12-10)
+  inner.querySelectorAll(":scope > svg").forEach((el) => el.remove())
   stage.innerHTML = ""
 
   const data = await fetchData
@@ -493,7 +494,8 @@ async function renderVaultMap() {
   // A short glide of the viewBox between two frames, for the peek below: a jump would
   // read as a different drawing, a glide as the same one coming closer.
   let gliding = 0
-  const glideTo = (to: { x: number; y: number; w: number; h: number }, ms = 520) => {
+  // slower since 12-10 (Marieke: "hij gaat te snel naar de clusters en je raakt het overzicht kwijt")
+  const glideTo = (to: { x: number; y: number; w: number; h: number }, ms = 1100) => {
     cancelAnimationFrame(gliding)
     const from = { ...view }
     const t0 = performance.now()
@@ -601,6 +603,13 @@ async function renderVaultMap() {
   // is the whole disc plus a margin, measured in map units, so moving from the ring onto a
   // term does not let go; the frame glides back once the pointer has left the neighbourhood.
   let peeked: string | null = null
+  const overviewBtn = container.querySelector(".vault-map-overview") as HTMLButtonElement | null
+  // the pointer has to rest on a circle for a moment before the map zooms in: passing over it
+  // on the way somewhere else no longer pulls the reader into a cluster (12-10)
+  let dwell = 0
+  let dwellOn: string | null = null
+  // after "Overview" the cluster under the pointer stays out until the pointer has left it
+  let held: string | null = null
   const peekAt = (cluster: string | null) => {
     if (cluster === peeked) return
     if (peeked) {
@@ -610,6 +619,7 @@ async function renderVaultMap() {
     peeked = cluster
     svg.classList.toggle("peek", !!cluster)
     for (const m of marks) m.name.classList.toggle("peeked", !!cluster && m.term.cluster === cluster)
+    overviewBtn?.toggleAttribute("hidden", !cluster)
     if (!cluster) {
       glideTo(home)
       return
@@ -618,7 +628,8 @@ async function renderVaultMap() {
     for (const path of clusterEdges.get(cluster) ?? []) path.classList.add("lit")
     const g = geometry.get(cluster)!
     // room around the circle, so that there is somewhere inside the frame to let go
-    const half = g.r + 150
+    // and the neighbouring circles stay at the edge, so the reader keeps the overview (12-10)
+    const half = g.r + 320
     glideTo({ x: g.x - half, y: g.y - half, w: 2 * half, h: 2 * half })
   }
   svg.addEventListener("pointermove", (e) => {
@@ -632,6 +643,11 @@ async function renderVaultMap() {
       const g = geometry.get(peeked)!
       if (Math.hypot(mx - g.x, my - g.y) <= g.r + 100) return
     }
+    if (held) {
+      const g = geometry.get(held)!
+      if (Math.hypot(mx - g.x, my - g.y) <= g.r + 100) return
+      held = null
+    }
     let hit: string | null = null
     for (const cluster of clusters) {
       const g = geometry.get(cluster)!
@@ -640,11 +656,34 @@ async function renderVaultMap() {
         break
       }
     }
-    peekAt(hit)
+    if (!hit) {
+      clearTimeout(dwell)
+      dwellOn = null
+      peekAt(null)
+      return
+    }
+    if (hit === peeked || hit === dwellOn) return
+    clearTimeout(dwell)
+    dwellOn = hit
+    dwell = window.setTimeout(() => {
+      dwellOn = null
+      peekAt(hit)
+    }, 450)
   })
   svg.addEventListener("pointerleave", () => {
+    clearTimeout(dwell)
+    dwellOn = null
+    held = null
     if (!enlarged()) peekAt(null)
   })
+  const toOverview = () => {
+    held = peeked
+    clearTimeout(dwell)
+    dwellOn = null
+    peekAt(null)
+  }
+  overviewBtn?.addEventListener("click", toOverview)
+  window.addCleanup(() => overviewBtn?.removeEventListener("click", toOverview))
 
   let dragging: { x: number; y: number } | null = null
   svg.addEventListener("pointerdown", (e) => {
@@ -673,6 +712,7 @@ async function renderVaultMap() {
 
   const open = () => {
     peekAt(null)
+    overviewBtn?.setAttribute("hidden", "")
     cancelAnimationFrame(gliding)
     stage.appendChild(svg)
     overlay.classList.add("active")
@@ -745,7 +785,11 @@ async function renderVaultMap() {
   wire(".vault-map-shot", shoot)
   wire(".vault-map-expand", open)
   wire(".vault-map-close", close)
-  wire(".vault-map-reset", toHome)
+  // the reset in the enlarged map glides back as well, instead of jumping (12-10)
+  wire(".vault-map-reset", () => {
+    reframe()
+    glideTo(home)
+  })
   registerEscapeHandler(overlay, close)
   // The sidebar's "whole vault" button hands over to the map instead of the force graph.
   document.addEventListener("open-vault-map", open)
