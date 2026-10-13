@@ -188,3 +188,83 @@ The phenomenon made visible as an object: an artwork, used in the semantic lands
 
 - [[Algorithmic Violence]] — what a system cannot see because no one counted it
 
+## 12. End Times Fascism by Naomi Klein and Astra Taylor review – the fightback starts here
+
+**Author:** Daniel Trilling
+**Year:** 2026
+**Type:** Journalism (book review)
+**Publisher:** The Guardian, 14 September
+**URL:** https://www.theguardian.com/books/2026/sep/14/end-times-fascism-by-naomi-klein-and-astra-taylor-review-the-fightback-starts-here
+
+### What this source contributes
+
+Summarises Klein and Taylor's three factions: religious fanatics, "the new tech barons, who preach that only the AI 'arms race', as Klein and Taylor put it, can save humanity", and "the political entrepreneurs who transform visions of disaster into votes by promising to turn their nations into bunkered garrison states. Migration draws most of the attention." As resistance it names, among others, how Minnesotans looked out for one another during ICE raids, part of a politics "rooted in an expansive, open-armed sense of neighbourliness". Read from a saved copy (werk/bronnen); the Guardian blocks automated access.
+
+### Related entries
+
+- [[Algorithmic Violence]]
+
+## 13. End Times Fascism: And the Fight for the Living World
+
+**Author:** Naomi Klein & Astra Taylor
+**Year:** 2026
+**Type:** Book
+**Publisher:** Farrar, Straus and Giroux, 15 September
+**URL:** https://bookshop.org/p/books/end-times-fascism-and-the-fight-for-the-living-world-astra-taylor/66802b8005ce0f8f
+
+### What this source contributes
+
+The book in which Klein and Taylor work out end times fascism. Cited in the entry through the Guardian review (item 12); the book itself has not been read for this entry.
+
+### Related entries
+
+- [[Algorithmic Violence]]
+
+## 14. Minister: Nederlandse politie maakt gebruik van software Palantir
+
+**Author:** Security.NL
+**Year:** 2025
+**Type:** Journalism
+**Publisher:** Security.NL, 22 August
+**URL:** https://www.security.nl/posting/901776/Minister:+Nederlandse+politie+maakt+gebruik+van+software+Palantir
+
+### What this source contributes
+
+The justice minister, David van Weel, answering parliamentary questions, confirmed that the Dutch police use Palantir software in an analysis environment for serious and organised crime and preventing attacks. The purchase was secret, and of the documents released under the freedom of information act more than 99 percent was blacked out.
+
+### Related entries
+
+- [[Algorithmic Violence]]
+
+## 15. Digital Omnibus on AI
+
+**Author:** European Parliament
+**Year:** 2026
+**Type:** Legislative tracker
+**Publisher:** European Parliament, Legislative Train Schedule
+**URL:** https://www.europarl.europa.eu/legislative-train/package-digital-package/file-digital-omnibus-on-ai
+
+### What this source contributes
+
+The Commission proposed the Digital Omnibus on AI on 19 November 2025. It moves the application of the AI Act's rules for stand-alone high-risk systems from 2 August 2026 to 2 December 2027, citing delays in standards and in designating supervisors, while maintaining competitiveness. Adopted in June 2026 and published on 24 July 2026.
+
+### Related entries
+
+- [[Algorithmic Violence]]
+
+## 16. Peter Thiel is delivering 4 private sold-out lectures at a club in San Francisco—about the Antichrist
+
+**Author:** Dave Smith
+**Year:** 2025
+**Type:** Journalism
+**Publisher:** Fortune, 2 September
+**URL:** https://fortune.com/2025/09/02/peter-thiel-antichrist-lectures-commonwealth-club-san-francisco-acts-17-collective-rene-girard
+
+### What this source contributes
+
+Peter Thiel, co-founder of Palantir, gave four off-the-record lectures on the Antichrist at the Commonwealth Club in San Francisco in September and October 2025. In his telling the Antichrist takes over by talking about Armageddon and existential risk "nonstop" and offers "peace and safety", using fear of catastrophic technology to justify "unprecedented surveillance and control measures". The article also lists Palantir's surveillance contracts, including its Gotham platform for law enforcement.
+
+### Related entries
+
+- [[Algorithmic Violence]] — the co-founder of the company that supplies police and ICE, on surveillance and the end of days
+
