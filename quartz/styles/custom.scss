@@ -569,3 +569,6 @@ a.orbit-open::after {
 a.orbit-open .external-icon {
   display: none;
 }
+.flip-front a.orbit-open {
+  align-self: flex-start;
+}

@@ -246,15 +246,14 @@ The term drawn as an image by a designer, set above the definition, so the form 
 <div class="flipcard" tabindex="0" role="button" aria-pressed="false" aria-label="You, in orbits of influence: turn the card">
 <div class="flip-face flip-front">
 <img class="shot" src="beeld/homepage-orbits.jpg" alt="The clusters of the Cabinet on five orbits around a person at the centre, joined by coloured lines">
-<span class="flip-where">sketch</span><span class="flip-name">You, in orbits of influence</span><span class="flip-turn">turn ↻</span>
+<span class="flip-where">sketch</span><span class="flip-name">You, in orbits of influence</span><a class="orbit-open" href="https://mastamarieke.github.io/Cabinet-of-Terms/static/orbits-of-influence.html" data-src="static/orbits-of-influence.html">Open the orbits ↗</a><span class="flip-turn">turn ↻</span>
 </div>
 <div class="flip-face flip-back">
 
 <span class="flip-name">You, in orbits of influence</span>
 
-The clusters of the Cabinet arranged around you, by how close they come to your daily life: from your phone and your feed, through the systems you use, to society and the future. Where a cluster sits is a choice, not a measurement. The lines are the links between terms, counted on 12 October 2026. Point at a cluster to see its links, and click to open it.
+The clusters of the Cabinet arranged around you, by how close they come to your daily life: from your phone and your feed, through the systems you use, to society and the future. Where a cluster sits is a choice, not a measurement. The lines are the links between terms, counted on 12 October 2026. Open the orbits on the front of the card, point at a cluster to see its links, and click to open it.
 
-<a class="orbit-open" href="https://mastamarieke.github.io/Cabinet-of-Terms/static/orbits-of-influence.html" data-src="static/orbits-of-influence.html">Open the orbits ↗</a>
 
 <span class="flip-turn">turn back ↺</span>
 </div>
