@@ -536,8 +536,9 @@ body[data-slug="changelog"] .graph {
 }
 .orbit-card {
   position: relative;
-  width: min(96vw, 1500px);
-  height: 92vh;
+  // the shape of the drawing (4560 x 2850), so no empty bands around it (14-10)
+  width: min(96vw, calc(92vh * 1.6));
+  aspect-ratio: 4560 / 2850;
   background: #faf8f8;
   border-radius: 10px;
   overflow: hidden;

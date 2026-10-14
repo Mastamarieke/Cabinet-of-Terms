@@ -252,7 +252,9 @@ The term drawn as an image by a designer, set above the definition, so the form 
 
 <span class="flip-name">You, in orbits of influence</span>
 
-The clusters of the Cabinet arranged around you, by how close they come to your daily life: from your phone and your feed, through the systems you use, to society and the future. Where a cluster sits is a choice, not a measurement. The lines are the links between terms, counted on 12 October 2026. Open the orbits on the front of the card, point at a cluster to see its links, and click to open it.
+The cluster map of the Cabinet, rearranged around you. Every cluster sits on the orbit of how close it comes to your daily life: your phone and your feed (1), the people around you (2), the systems you use without seeing them (3), society (4), and what changes across generations (5). Around it runs a band with the two clusters that do things differently, on every orbit. Every line is a link between two terms, counted on 12 October 2026.
+
+The orbits come from the developmental psychologist Urie Bronfenbrenner, and Jessica Navarro and Jonathan Tudge brought them into the digital age in 2022: on a screen, the far orbits reach you directly, past parents and teachers. Where a cluster sits is a choice, not a measurement. Open the orbits on the front of the card, point at a cluster to see its links, and click to open it.
 
 
 <span class="flip-turn">turn back ↺</span>
