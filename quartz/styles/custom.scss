@@ -453,3 +453,65 @@ img.shot {
   border-radius: 999px;
   padding: 0.05em 0.6em;
 }
+
+// Homepage (14-10): the headings of the fold-outs in red and a step lighter. They open
+// when clicked, so the red of something clickable fits; the black 600 read as too heavy.
+body[data-slug="index"] article details > summary strong {
+  color: var(--han-red);
+  font-weight: 500;
+}
+
+// Homepage hierarchy (14-10): H2 section, H3 group, then the fold-outs. The groups were
+// H4 and read as bold body text; the fold-outs sat tight and an opened one had no edge,
+// so its text seemed to be the next paragraph.
+body[data-slug="index"] article {
+  h3 {
+    font-size: 1.15em;
+    margin: 1.8em 0 0.5em;
+    color: var(--dark);
+  }
+  details {
+    margin: 0.3em 0;
+  }
+  details > summary {
+    cursor: pointer;
+  }
+  details > summary::marker {
+    color: var(--han-red);
+  }
+  details[open] > :not(summary) {
+    margin-left: 0.3em;
+    padding-left: 0.9em;
+    border-left: 2px solid rgba(229, 0, 86, 0.35);
+  }
+  details[open] {
+    margin-bottom: 0.9em;
+  }
+}
+
+// An email address is not a page elsewhere: no external icon, no arrow (14-10).
+a.external[href^="mailto:"] .external-icon {
+  display: none;
+}
+a.external[href^="mailto:"]::after {
+  content: none !important;
+}
+
+// Card images keep their proportions (14-10): in the column of a card face an image could
+// shrink in height while keeping its width, and the general max-height of 380 px on article
+// images pressed Tradwife's drawing and the relations drawing flat.
+.flipcard .flip-face img.shot {
+  flex-shrink: 0;
+  height: auto;
+  max-width: 100%;
+  // the general 380 px limit on article images squashed the two tallest ones (relations, Tradwife)
+  max-height: none;
+}
+
+// Pages about the Cabinet, not terms in it, link to no entry: their graph showed one lonely
+// dot above the text (14-10). Hidden here rather than in the layout.
+body[data-slug="Disclaimer-of-the-Cabinet-of-Digital-Terms"] .graph,
+body[data-slug="Reading-the-graph"] .graph,
+body[data-slug="changelog"] .graph {
+  display: none;
+}

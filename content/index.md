@@ -2,79 +2,25 @@
 title: Cabinet of Digital Terms
 ---
 
-<div class="site-update">
+## What is the Cabinet of Digital Terms?
 
-**12 September 2026: the graphs have been redrawn.**
+[[Surveillance Capitalism|Surveillance capitalism]]? [[Dopamine Feedback Loops|Dopamine loop]]? [[Dark Patterns|Dark pattern]]? [[Ghosting]]? [[Deinfluencing]]? [[Groomer]]? [[Red Pill|Red pill]]?
 
-Every entry's graph now puts the term in the middle, with its neighbours on a ring grouped by cluster, its sources marked as books, and a legend that filters the picture. A map of all twenty clusters and every link between them sits on [[Cabinet of Digital Terms|All Clusters]]. The point is the landscape: you can now see at a glance which cluster a term belongs to, which clusters it sits between, what it rests on, and what points at it.
+You have heard these terms, and you probably use some of them. But do you know where they came from, who introduced them and why, what they make visible and what they quietly leave out?
 
-</div>
+> *Capturing moving language. Every word here is a node in a power structure. Not a definition, a map.*
 
-## Welcome to the Cabinet of Digital Terms: a vibrant knowledge bank for the curious mind. 
+The **Cabinet of Digital Terms** gathers **260+ terms** from digital media, platform culture, politics and popular culture in **20+ clusters**, with **800+ external sources**. Every entry shows where a word comes from, who benefits from it, what it hides, and which other terms it belongs with. The Cabinet does not pretend to look from nowhere. As Donna Haraway put it: "Feminist objectivity means quite simply situated knowledges."
 
----
+**Three ways in:** start with a [cluster](#browse-by-cluster) that names something you already sense but cannot yet put into words; search for a word with the search bar; or rest the pointer on a circle in the map above to see how far a cluster reaches.
 
-> *Capturing moving language. Every word here is a node in a power structure. Not a definition — a map.*
-
----
-
-## What this is
-
-
-Surveillance capitalism. Dopamine loop. Dark pattern. Ghosting. Deinfluencing. Groomer. Red pill.
-You have heard these terms. You probably use some of them. But do you know where they came from? Who introduced them, and why? What they make visible — and what they quietly conceal?
-
-**The Cabinet of Digital Terms** is a knowledge bank developed by **Marieke de Vogel** within **The Project Digital Alertness** at the [[Communication & Multimedia Design program]](https://www.han.nl/opleidingen/hbo/communication-multimedia-design/voltijd/) of the [[HAN University of Applied Sciences]](https://www.hanuniversity.com/en/), in collaboration with the [[Lectorate Media Design]](https://www.han.nl/onderzoek/lectoraten/lectoraat-media-design/). It brings together **250+ terms** from digital media, platform culture, political discourse, and popular culture, organized across **20+ thematic cluster**s. Supported by **800+ verified external links** to primary sources, it does something a traditional glossary would never do: it maps them.
-Not to define, but to connect the dots.
-
-**A living lab.** The Cabinet is revised cluster by cluster, and you are reading it while that happens. *Privacy, Data and Control* is the first cluster to have been through the full method: sources read and split into primary and secondary, a semantic landscape, an attention curve, and relations argued in the text as well as listed. *Gender & Identity* was rewritten earlier on the research literature and will go through the same method next. In other clusters some entries, such as Tradwife and Sharenting, already carry several layers; most are at an earlier stage. [Where each entry stands](#where-each-entry-stands) shows which. Revised entries are being tested with readers, and what they tell us goes back into the method. If something is unclear or wrong, write to info@digitale-alertheid.nl.
-
-We reject the myth of neutral knowledge. As **Donna Haraway** argued, true objectivity requires acknowledging our position: "Feminist objectivity means quite simply situated knowledges." Instead of offering static definitions, the Cabinet invites you to trace the relationships between terms, revealing the forces that shape our digital reality. The Cabinet of Digital Terms is a knowledge bank of **20+ clusters**, **250+ terms**, **800+ source references** from digital media, platform culture, political discourse, and popular culture. Each term is examined for its origin, its use, its power structure, and - most importantly - what it conceals.
-
-This is not a glossary. A glossary defines. This collection does something different: it identifies terms worth examining - for genealogy, circulation, stakes, and the shifts in meaning that reveal who benefits from a term's existence.
+The Cabinet is made by Marieke de Vogel within Project Digitale Alertheid at the [Communication & Multimedia Design programme](https://www.han.nl/opleidingen/hbo/communication-multimedia-design/voltijd/) of [HAN University of Applied Sciences](https://www.hanuniversity.com/en/), with the [Lectorate Media Design](https://www.han.nl/onderzoek/lectoraten/lectoraat-media-design/).
 
 ---
 
-## Who is this cabinet for?
+## A living lab
 
-Here you may lose yourself in a network of **20+ clusters** and **250+ terms**, where every word opens a door to deeper insight. With **800+ references** as our foundation, we invite you to discover the forces beneath the screens of the digital world, follow hidden connections, and learn the language that shapes our reality.
-
-This is your place if you are not satisfied with superficial answers, but crave depth behind the algorithms, data, and power structures.
-
-This project is an inspiring resource for:
-
-**Researchers & Academics**: Who seek depth in the genealogy of terms and wish to use the **800+ verified sources** for sharp analysis.
-
-**Teachers & Educators**: Who want to inspire their students with the vocabulary,look for more terms, to think critically and remain resilient in a digital world.
-
-**Students**: From media, sociology, computer science, and design, who want to bridge theory with the fascinating, sometimes treacherous mechanisms of daily platform use.
-
-**Policymakers & Government Officials**: Who want to work with passion and insight on responsible digital policy, understanding how algorithms and data use shape our society.
-
-**Healthcare Professionals & Medical Staff**: Who want to explore the ethical and human side of digital healthcare tools, AI, and data to strengthen the quality of care.
-
-**Digital Citizens & Activists**: Who want to turn uncomfortable feelings about online interactions into clear insight and powerful resistance.
-
-**Designers & Developers**: Who want to improve their work with a critical eye and an ethical heart, understanding how design influences behavior and consciousness.
-
-Are you ready to lose yourself in the questions of why it works this way, who benefits, and which words hold the key to digital freedom? Then you are in the right place.
-
----
-## How it was made — Cartographic Prompting
-
-The Cabinet of Digital Terms is a knowledge bank of **250+ terms** across **20+ clusters**, with **800+ verified external sources**. It was produced using **cartographic prompting** - a research method developed within Project Digitale Alertheid at HAN University of Applied Sciences.
-
-The name is deliberate. Where conventional analysis dissects a concept — breaking it into components and defining each one — cartography positions it within a field of forces. A map does not explain a city. It shows where things are in relation to each other, where the borders run, and what lies at the edges.
-
-> **Cartographic prompting** (working definition): a prompting practice that takes cartography itself as input — a large language model is instructed with writing instructions, search directions, and content frameworks — so that the placement of digital terms in a relational network reveals which cluster a term belongs to and why.
-
-Applied to language, cartographic prompting treats each term as a node in a network of power, history, and meaning. Each analysis asks: where did this word come from? Who introduced it, and why? What does it make visible — and what does it conceal? Who benefits from its circulation? What happens to people who encounter it without knowing what it does?
-
-The method uses large language models — Claude (Anthropic), ChatGPT (OpenAI), and Lumo — as directed assistants. The structured prompt specifies the analytical layers: etymology, genealogy, power structures, ethical dimensions, labour implications, and societal impact. The model generates a draft. The researcher edits, challenges, redirects, and selects.
-
-This is not AI-generated content in the sense of automated output. It is a collaborative analytical practice in which the model provides generative capacity and the researcher provides judgment. The distinction matters — and it is part of what this vault is about.
-
-Two instruments guide the practice: `CLAUDE.md` maintains the vault — indexes, counts, link integrity, retroactive updates — while `Doctor Alert.md` positions each term: which cluster it belongs to, which existing terms it connects to, and why. Maintenance and positioning are deliberately kept separate, so consistency is checked apart from analytical judgment.
+The Cabinet is revised cluster by cluster, and you are reading it while that happens. *Privacy, Data and Control* is the first cluster to have been through the full method: sources read and split into primary and secondary, a semantic landscape, an attention curve, and relations argued in the text as well as listed. *Gender & Identity* was rewritten earlier on the research literature and will go through the same method next. In other clusters some entries, such as Tradwife and Sharenting, already carry several layers; most are at an earlier stage. Clusters get added and connections get corrected as the network shows what it is missing. Revised entries are being tested with readers, and what they tell us goes back into the method. If something is unclear or wrong, write to info@digitale-alertheid.nl.
 
 ### Where each entry stands
 
@@ -105,19 +51,13 @@ Some entries carry the method further than others.
 
 </details>
 
-The project began with long-form, eight-section analyses under the name **Media Cartografie**. Cartographic prompting is its operationalisation for the public vault: a way of using AI not to generate answers, but to make the hidden visible.
-
-The Cabinet is not a finished reference — it is a living, iterative practice. Clusters get added, entries get revised, connections get corrected as the network itself reveals what it's missing. What you see today is a snapshot of ongoing work, not a completed atlas.
-
-Read the full methodology: **[Cartographic Prompting](https://digitale-alertheid.nl/beyond-karpathys-llm-wiki-cartographic-prompting-as-curatorial-practice/)** — how placement in a relational network reveals connections in digital culture.
-
 ---
 
 ## How an entry is structured
 
-Every entry has the same basic structure, and some carry more, depending on how far they have been revised (see [Where each entry stands](#where-each-entry-stands)). This is part of ongoing research within Project Digitale Alertheid (HAN University of Applied Sciences, Lectorate Media Design): how to name what people half-know about digital culture, so that they recognise it, can talk about it and notice it next time. The structure is revised as reader tests show what works. Open a part to see what it does, with an example.
+Every entry has the same basic structure, and some carry more, depending on how far they have been revised (see [Where each entry stands](#where-each-entry-stands)). This is part of ongoing research within Project Digitale Alertheid (HAN University of Applied Sciences, Lectorate Media Design): how to name what people half-know about digital culture, so that they recognise it, can talk about it and notice it next time. Open a part to see what it does, with an example.
 
-#### In every entry
+### In every entry
 
 <details>
 <summary><strong>Hook</strong></summary>
@@ -175,9 +115,9 @@ Other terms in the Cabinet, each with the reason it belongs beside this one. Ter
 
 </details>
 
-Above every entry stands its **semantic field**, the graph of its neighbours (see the cards below).
+Above every entry stands its **semantic field**, the graph of its neighbours. The cards below show it, with the other drawings.
 
-#### Since the earlier rounds
+### Since the earlier rounds
 
 <details>
 <summary><strong>Sources</strong></summary>
@@ -186,9 +126,9 @@ The entries from the earlier rounds and the full method carry their sources on s
 
 </details>
 
-These entries also have a **semantic landscape** and an **attention curve** (see the cards below).
+These entries also have a **semantic landscape** and an **attention curve**.
 
-#### Added in the full method
+### Added in the full method
 
 <details>
 <summary><strong>Signs in the text</strong></summary>
@@ -204,16 +144,15 @@ A neighbouring term is discussed in the part of the entry that needs it, so the 
 
 </details>
 
-#### Not part of a round
+### Not part of a round
 
-Three entries carry the term drawn as an image by a designer: **Narrative Typography** (see the cards below).
+Three entries carry the term drawn as an image by a designer: **Narrative Typography**.
 
-#### On every cluster page
+### On every cluster page
 
-Each cluster page has a drawing of its **relations** with the other clusters (see the cards below).
+Each cluster page has a drawing of its **relations** with the other clusters.
 
-<details>
-<summary><strong>Drawings and images</strong></summary>
+### Drawings and images
 
 The drawings and the image mentioned above. Click a card to turn it over.
 
@@ -305,45 +244,6 @@ The term drawn as an image by a designer, set above the definition, so the form 
 </div>
 
 </div>
-
-</details>
-
-Interested in the research, in using the Cabinet in teaching, or in contributing? Write to info@digitale-alertheid.nl.
-
----
-
-
-## Project Digitale Alertheid — Conversation Pieces
-
-The Cabinet of Terms is part of a larger project. **Project Digitale Alertheid** strengthens digital awareness and resilience by turning digital manipulation into material experience. It does this through **conversation pieces** — designed artefacts that create friction, provoke dialogue, and make abstract platform mechanisms tangible.
-
-**[Soulmeter](https://digitale-alertheid.nl/the-soulmeter-how-much-of-your-soul-have-you-sold-to-the-internet/)** — how much of your soul have you sold to the internet?
-
-**[Wheel of Dark Patterns](https://digitale-alertheid.nl/the-wheel-of-dark-patterns-spin-match-recognise/)** — spin, match, recognise the manipulation
-
-**[Mindtrick Machine](https://digitale-alertheid.nl/mind-trick-machine-from-dark-patterns-to-dark-encounters/)** — nine metaphorical brains, from dark patterns to dark encounters
-
-**[Narrative Typography](https://digitale-alertheid.nl/narrative-typography-the-metaphoric-visualisation-of-terms/)** — the form of a word reveals its meaning before you read it
-
-**[Doctor Alert: The Digital Banner Coat](https://digitale-alertheid.nl/doctor-alert-the-digital-banner-coat/)** — the body as message
-
-**[Rad van Rollen](https://digitale-alertheid.nl/rad-van-rollen-playing-your-way-to-digital-awareness/)** — dark patterns translated into a language children can debate
-
-**[The Non Fluencer](https://digitale-alertheid.nl/the-non-fluencer-seeing-the-unseen-in-an-age-of-algorithms/)** — refusing the logic of the algorithm
-
-**[Term Seeker](https://digitale-alertheid.nl/the-term-seeker-reaching-for-language-in-a-digital-world/)** — reach for a term, receive a provocation
-
-**NO A-MEAZING** — the only way to win is to refuse to play *(coming soon)*
-
----
-
-## How to navigate
-
-**By cluster** - 20+ clusters, each mapping a distinct domain of digital life. Use the expandable menus below to browse by cluster. Start with the cluster that names something you already sense but cannot yet articulate.
-
-**By term** - use the search to find a specific word. Every entry connects to related terms across clusters.
-
-**By connection** - open the graph view to see which terms are most central, which clusters are most connected, and where the unexpected bridges are. The most connected terms in this vault — [[Surveillance Capitalism]], [[Recommender Systems]], [[Cognitive Surrender]], [[AI Literacy]] — describe the infrastructure everything else runs on.
 
 ---
 
@@ -812,6 +712,45 @@ Executives speak in public. Sometimes they reveal more than they intended. This 
 - [[Tu Nube Seca Mi Río]]
 
 </details>
+
+---
+
+## Who it is for
+
+- **Researchers:** the genealogy of terms, with the sources behind every entry.
+- **Teachers and students:** a vocabulary for thinking critically about the platforms you use every day, in media, sociology, computer science and design.
+- **Designers and developers:** how design steers behaviour, and where it is done differently.
+- **Policymakers:** how algorithms and data shape society, and the rules that answer them.
+- **Healthcare professionals:** the human side of digital health tools, AI and data.
+- **Digital citizens and activists:** a name for an uncomfortable feeling online, and words to push back with.
+
+---
+
+## How it was made
+
+The Cabinet is written with **cartographic prompting**, a method developed within Project Digitale Alertheid. A large language model (Claude, ChatGPT and Lumo while exploring, Claude in production) receives writing instructions, search directions and the existing network of terms, so that every new term is placed: which cluster it belongs to, which terms it connects to, and why. The model proposes at every step; the curator chooses the terms and the sources, makes the final call, and sometimes overrides it. The method grew out of longer analyses made under the name *Media Cartografie*.
+
+> **Cartographic prompting** (working definition): a prompting practice that takes cartography itself as input (a large language model is instructed with writing instructions, search directions, and content frameworks) so that the placement of digital terms in a relational network reveals which cluster a term belongs to and why.
+
+The full method is described in **[Cartographic Prompting: Curatorial Practice Alongside Karpathy’s LLM Wiki](https://digitale-alertheid.nl/beyond-karpathys-llm-wiki-cartographic-prompting-as-curatorial-practice/)** (31 July 2026).
+
+---
+
+## Part of Project Digitale Alertheid
+
+The Cabinet is one of the **Conversation Pieces** of Project Digitale Alertheid: artefacts that let people feel a form of digital manipulation before it is named, so that they recognise it in the moment and start talking about it. The pieces share one source. The Cabinet names the terms, Narrative Typography gives them a visual form, and the Term Seeker and the Doctor Alert coat bring them into physical space, as words to reach for and words worn on the body.
+
+- **[Soulmeter](https://digitale-alertheid.nl/the-soulmeter-how-much-of-your-soul-have-you-sold-to-the-internet/)**, an installation: a quiz board beside a life-size smartphone, where every wrong answer costs part of your soul (teenagers and adults). How much of your soul have you sold to the internet?
+- **[Wheel of Dark Patterns](https://digitale-alertheid.nl/the-wheel-of-dark-patterns-spin-match-recognise/)**, a physical and digital wheel with the dark patterns in three rings (general public). Spin, match, recognise the manipulation.
+- **[Narrative Typography](https://digitale-alertheid.nl/narrative-typography-the-metaphoric-visualisation-of-terms/)**, illustrated two-sided cards: the image first, the definition on the back (across the collection). The form of a word reveals its meaning before you read it.
+- **[Term Seeker](https://digitale-alertheid.nl/the-term-seeker-reaching-for-language-in-a-digital-world/)**, an interactive installation: digital terms drift past, and you reach out with your hand to catch one (general public). Reach for a term, receive a provocation.
+- **[Doctor Alert: The Digital Banner Coat](https://digitale-alertheid.nl/doctor-alert-the-digital-banner-coat/)**, a wearable: a lab coat printed with digital terms, with a pulsing light (general public). The body as message.
+- **[Rad van Rollen](https://digitale-alertheid.nl/rad-van-rollen-playing-your-way-to-digital-awareness/)**, a role-play game with a rotating wheel and 3D characters, in which children speak for big tech (children, Grade 7). Dark patterns translated into a language children can debate.
+- **[Mind Trick Machine](https://digitale-alertheid.nl/mind-trick-machine-from-dark-patterns-to-dark-encounters/)**, a workshop with brain cards and cards on current topics (adults). Nine metaphorical brains, from dark patterns to dark encounters.
+- **[The Non Fluencer](https://digitale-alertheid.nl/the-non-fluencer-seeing-the-unseen-in-an-age-of-algorithms/)**, large prints placed in non-places, where people pass through without stopping (general public). Refusing the logic of the algorithm.
+- **NO A-MEAZING** *(coming soon)*. The only way to win is to refuse to play.
+
+Interested in the research, in using the Cabinet in teaching, or in contributing? Write to info@digitale-alertheid.nl.
 
 ---
 
