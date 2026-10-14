@@ -562,3 +562,10 @@ body[data-slug="changelog"] .graph {
   line-height: 1;
   cursor: pointer;
 }
+// the button carries a full address as fallback, so the site marks it external; not here
+a.orbit-open::after {
+  content: none !important;
+}
+a.orbit-open .external-icon {
+  display: none;
+}

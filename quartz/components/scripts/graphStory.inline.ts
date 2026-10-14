@@ -168,9 +168,11 @@ document.addEventListener("nav", () => {
     const open = (e: Event) => {
       e.preventDefault()
       e.stopPropagation()
+      // Quartz strips ".html" from links, so the page address travels in data-src (14-10)
+      const src = link.dataset.src ? new URL(link.dataset.src, location.href).href : link.href
       const overlay = document.createElement("div")
       overlay.className = "orbit-overlay"
-      overlay.innerHTML = `<div class="orbit-card"><button class="orbit-close" aria-label="Close">×</button><iframe title="You, in orbits of influence" src="${link.href}"></iframe></div>`
+      overlay.innerHTML = `<div class="orbit-card"><button class="orbit-close" aria-label="Close">×</button><iframe title="You, in orbits of influence" src="${src}"></iframe></div>`
       const close = () => {
         overlay.remove()
         document.removeEventListener("keydown", onKey)

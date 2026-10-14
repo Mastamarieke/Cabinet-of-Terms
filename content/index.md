@@ -254,7 +254,7 @@ The term drawn as an image by a designer, set above the definition, so the form 
 
 The clusters of the Cabinet arranged around you, by how close they come to your daily life: from your phone and your feed, through the systems you use, to society and the future. Where a cluster sits is a choice, not a measurement. The lines are the links between terms, counted on 12 October 2026. Point at a cluster to see its links, and click to open it.
 
-<a class="orbit-open" href="beeld/orbits-of-influence.html">Open the orbits ↗</a>
+<a class="orbit-open" href="https://mastamarieke.github.io/Cabinet-of-Terms/static/orbits-of-influence.html" data-src="static/orbits-of-influence.html">Open the orbits ↗</a>
 
 <span class="flip-turn">turn back ↺</span>
 </div>
