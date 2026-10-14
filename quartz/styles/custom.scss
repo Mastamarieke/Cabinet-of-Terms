@@ -515,3 +515,50 @@ body[data-slug="Reading-the-graph"] .graph,
 body[data-slug="changelog"] .graph {
   display: none;
 }
+
+// The orbits sketch in a full-screen layer (14-10), same shape as the loupes.
+.orbit-open {
+  display: inline-block;
+  padding: 0.3em 0.9em;
+  border: 1px solid var(--han-red);
+  border-radius: 999px;
+  font-weight: 600;
+}
+.orbit-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 9999;
+  background: rgba(20, 16, 22, 0.55);
+  backdrop-filter: blur(4px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.orbit-card {
+  position: relative;
+  width: min(96vw, 1500px);
+  height: 92vh;
+  background: #faf8f8;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 8px 40px rgba(0, 0, 0, 0.35);
+  iframe {
+    width: 100%;
+    height: 100%;
+    border: 0;
+  }
+}
+.orbit-close {
+  position: absolute;
+  top: 0.5rem;
+  right: 0.6rem;
+  z-index: 1;
+  width: 38px;
+  height: 38px;
+  border-radius: 50%;
+  border: 1px solid var(--lightgray);
+  background: var(--light);
+  font-size: 1.4rem;
+  line-height: 1;
+  cursor: pointer;
+}

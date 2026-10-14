@@ -160,3 +160,31 @@ document.addEventListener("nav", () => {
     })
   }
 })
+
+// Homepage, the orbits card (14-10): "Open the orbits" shows the interactive sketch in a
+// full-screen layer, like the loupes; without script the link simply opens the page.
+document.addEventListener("nav", () => {
+  for (const link of document.querySelectorAll<HTMLAnchorElement>("a.orbit-open")) {
+    const open = (e: Event) => {
+      e.preventDefault()
+      e.stopPropagation()
+      const overlay = document.createElement("div")
+      overlay.className = "orbit-overlay"
+      overlay.innerHTML = `<div class="orbit-card"><button class="orbit-close" aria-label="Close">×</button><iframe title="You, in orbits of influence" src="${link.href}"></iframe></div>`
+      const close = () => {
+        overlay.remove()
+        document.removeEventListener("keydown", onKey)
+      }
+      const onKey = (k: KeyboardEvent) => {
+        if (k.key === "Escape") close()
+      }
+      overlay.addEventListener("click", (c) => {
+        if (c.target === overlay || (c.target as HTMLElement).closest(".orbit-close")) close()
+      })
+      document.addEventListener("keydown", onKey)
+      document.body.appendChild(overlay)
+    }
+    link.addEventListener("click", open)
+    window.addCleanup(() => link.removeEventListener("click", open))
+  }
+})

@@ -154,7 +154,7 @@ Each cluster page has a drawing of its **relations** with the other clusters.
 
 ### Drawings and images
 
-The drawings and the image mentioned above. Click a card to turn it over.
+The drawings and the image mentioned above, and one sketch. Click a card to turn it over.
 
 <div class="flipcards">
 
@@ -238,6 +238,23 @@ On every cluster page: how its terms connect to the other clusters, in both dire
 The term drawn as an image by a designer, set above the definition, so the form of the word shows its meaning before you read it. So far in Tradwife (Marieke de Vogel), and in Sigma Male and Looksmaxxing (Anne-Marie Bruinsma); more will follow.
 
 [[Tradwife#narrative-typography|See it in Tradwife ↗]] · [About Narrative Typography](https://digitale-alertheid.nl/narrative-typography-the-metaphoric-visualisation-of-terms/)
+
+<span class="flip-turn">turn back ↺</span>
+</div>
+</div>
+
+<div class="flipcard" tabindex="0" role="button" aria-pressed="false" aria-label="You, in orbits of influence: turn the card">
+<div class="flip-face flip-front">
+<img class="shot" src="beeld/homepage-orbits.jpg" alt="The clusters of the Cabinet on five orbits around a person at the centre, joined by coloured lines">
+<span class="flip-where">sketch</span><span class="flip-name">You, in orbits of influence</span><span class="flip-turn">turn ↻</span>
+</div>
+<div class="flip-face flip-back">
+
+<span class="flip-name">You, in orbits of influence</span>
+
+The clusters of the Cabinet arranged around you, by how close they come to your daily life: from your phone and your feed, through the systems you use, to society and the future. Where a cluster sits is a choice, not a measurement. The lines are the links between terms, counted on 12 October 2026. Point at a cluster to see its links, and click to open it.
+
+<a class="orbit-open" href="beeld/orbits-of-influence.html">Open the orbits ↗</a>
 
 <span class="flip-turn">turn back ↺</span>
 </div>
