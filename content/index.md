@@ -252,9 +252,17 @@ The term drawn as an image by a designer, set above the definition, so the form 
 
 <span class="flip-name">You, in orbits of influence</span>
 
-The cluster map of the Cabinet, rearranged around you. Every cluster sits on the orbit of how close it comes to your daily life: your phone and your feed (1), the people around you (2), the systems you use without seeing them (3), society (4), and what changes across generations (5). Around it runs a band with the two clusters that do things differently, on every orbit. Every line is a link between two terms, counted on 12 October 2026.
+The cluster map of the Cabinet, rearranged around you: every cluster sits on the orbit of how close it comes to your daily life. Around it runs a band with the two clusters that do things differently, on every orbit. Every line is a link between two terms, counted on 12 October 2026.
 
-The orbits come from the developmental psychologist Urie Bronfenbrenner, and Jessica Navarro and Jonathan Tudge brought them into the digital age in 2022: on a screen, the far orbits reach you directly, past parents and teachers. Where a cluster sits is a choice, not a measurement. Open the orbits on the front of the card, point at a cluster to see its links, and click to open it.
+The orbits follow the psychologist Urie Bronfenbrenner, who drew a child's world as circles around the child:
+
+- **microsystem** (1, You): where you are, at home, at school and on your screen;
+- **mesosystem** (2, You and others): where your places meet, the phone at the dinner table, the class chat at night;
+- **exosystem** (3, The systems you use): places you never enter that still shape your life, such as the offices where your apps are made;
+- **macrosystem** (4, Society): the beliefs, laws and words of a whole society;
+- **chronosystem** (5, The world and the future): what changes over time, across generations. In Bronfenbrenner this is time itself; here it is drawn as the outermost orbit.
+
+Jessica Navarro and Jonathan Tudge brought the model online in 2022, and found that on a screen the far circles no longer wait their turn: a decision taken in an office far away reaches your phone directly, with no parent or teacher in between. Where a cluster sits is a choice, not a measurement. Open the orbits on the front of the card, point at a cluster to see its links, and click to open it.
 
 
 <span class="flip-turn">turn back ↺</span>
@@ -757,6 +765,8 @@ The full method is described in **[Cartographic Prompting: Curatorial Practice A
 ## Part of Project Digitale Alertheid
 
 The Cabinet is one of the **Conversation Pieces** of Project Digitale Alertheid: artefacts that let people feel a form of digital manipulation before it is named, so that they recognise it in the moment and start talking about it. The pieces share one source. The Cabinet names the terms, Narrative Typography gives them a visual form, and the Term Seeker and the Doctor Alert coat bring them into physical space, as words to reach for and words worn on the body.
+
+Research names the manipulation, and regulation such as the Digital Services Act limits it; neither builds what the project calls **experiential resilience**, the ability to recognise manipulation when it happens. The Conversation Pieces add that as a third route, next to critique and regulation. Each piece is also a knowledge product: research shapes the artefact, and what people say when they meet it goes back into the research. As the project's paper puts it: *"By making the crossing from knowing to feeling playable, it brings research on dark patterns into everyday experience"* (de Vogel, Sluis-Thiescheffer and Jeurens, *Staging Digital Friction*, 2026).
 
 - **[Soulmeter](https://digitale-alertheid.nl/the-soulmeter-how-much-of-your-soul-have-you-sold-to-the-internet/)**, an installation: a quiz board beside a life-size smartphone, where every wrong answer costs part of your soul (teenagers and adults). How much of your soul have you sold to the internet?
 - **[Wheel of Dark Patterns](https://digitale-alertheid.nl/the-wheel-of-dark-patterns-spin-match-recognise/)**, a physical and digital wheel with the dark patterns in three rings (general public). Spin, match, recognise the manipulation.
