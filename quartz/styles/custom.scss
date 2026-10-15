@@ -32,7 +32,9 @@
 }
 
 body {
-  font-family: 'Roboto', sans-serif;
+  // was Roboto, which was never loaded: visitors without it got Arial (15-10-2026)
+  font-family: var(--bodyFont);
+  line-height: 1.75;
   color: var(--text-primary);
   background-color: var(--light);
 }
@@ -47,7 +49,7 @@ h1 {
 }
 
 h2 {
-  font-family: 'Poppins', sans-serif;
+  font-family: var(--headerFont);
   font-weight: 600;
   color: var(--han-red);
   border-bottom: 2px solid var(--han-red);
@@ -56,7 +58,7 @@ h2 {
 }
 
 h3 {
-  font-family: 'Poppins', sans-serif;
+  font-family: var(--headerFont);
   font-weight: 600;
   color: var(--text-primary);
 }
@@ -66,7 +68,7 @@ blockquote {
   background: var(--han-red-light);
   padding: 0.8em 1.2em;
   border-radius: 0 4px 4px 0;
-  font-family: 'Poppins', sans-serif;
+  font-family: var(--headerFont);
   font-weight: 600;
   color: var(--han-red);
 }
@@ -434,7 +436,9 @@ img.shot {
   .flip-turn {
     margin-top: auto;
     align-self: flex-end;
-    color: var(--gray);
+    // red, as something you can click (15-10-2026, Marieke)
+    color: var(--han-red);
+    font-weight: 600;
     font-size: 0.85em;
   }
   @media (prefers-reduced-motion: reduce) {
@@ -572,4 +576,15 @@ a.orbit-open .external-icon {
 }
 .flip-front a.orbit-open {
   align-self: flex-start;
+}
+
+// Reading text a little more open (15-10-2026, with Atkinson Hyperlegible Next, as on the
+// website): base.scss fixes p and li at 1.6rem, which also squeezed larger text.
+article p,
+article li {
+  line-height: 1.75;
+}
+// the site title in the sidebar keeps its own, tighter leading
+.page-title {
+  line-height: 1.2;
 }

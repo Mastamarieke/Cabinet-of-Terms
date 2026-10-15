@@ -23,8 +23,10 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
+        // one typeface for the whole project, as on digitale-alertheid.nl (15-10-2026):
+        // Atkinson Hyperlegible Next, made for legibility (I, l and 1 cannot be confused)
+        header: { name: "Atkinson Hyperlegible Next", weights: [600, 700] },
+        body: { name: "Atkinson Hyperlegible Next", weights: [400, 600, 700], includeItalic: true },
         code: "IBM Plex Mono",
       },
       colors: {

@@ -14,7 +14,7 @@ The **Cabinet of Digital Terms** gathers **260+ terms** from digital media, plat
 
 **Three ways in:** start with a [cluster](#browse-by-cluster) that names something you already sense but cannot yet put into words; search for a word with the search bar; or rest the pointer on a circle in the map above to see how far a cluster reaches.
 
-The Cabinet is made by Marieke de Vogel within Project Digitale Alertheid at the [Communication & Multimedia Design programme](https://www.han.nl/opleidingen/hbo/communication-multimedia-design/voltijd/) of [HAN University of Applied Sciences](https://www.hanuniversity.com/en/), with the [Lectorate Media Design](https://www.han.nl/onderzoek/lectoraten/lectoraat-media-design/).
+The Cabinet is made by Marieke de Vogel within Project Digitale Alertheid at the [Communication & Multimedia Design programme](https://www.han.nl/opleidingen/hbo/communication-multimedia-design/voltijd/) of [HAN University of Applied Sciences](https://www.hanuniversity.com/en/), with the [Media Design Research Group](https://www.han.nl/onderzoek/lectoraten/lectoraat-media-design/).
 
 ---
 
@@ -55,7 +55,7 @@ Some entries carry the method further than others.
 
 ## How an entry is structured
 
-Every entry has the same basic structure, and some carry more, depending on how far they have been revised (see [Where each entry stands](#where-each-entry-stands)). This is part of ongoing research within Project Digitale Alertheid (HAN University of Applied Sciences, Lectorate Media Design): how to name what people half-know about digital culture, so that they recognise it, can talk about it and notice it next time. Open a part to see what it does, with an example.
+Every entry has the same basic structure, and some carry more, depending on how far they have been revised (see [Where each entry stands](#where-each-entry-stands)). This is part of ongoing research within Project Digitale Alertheid (HAN University of Applied Sciences, [Media Design Research Group](https://www.han.nl/onderzoek/lectoraten/lectoraat-media-design/)): how to name what people half-know about digital culture, so that they recognise it, can talk about it and notice it next time. Open a part to see what it does, with an example.
 
 ### In every entry
 
@@ -787,5 +787,5 @@ Interested in the research, in using the Cabinet in teaching, or in contributing
 
 
 [^resilience]: A term from the project's paper. It builds on online resilience, which Vissenberg, d'Haenens and Livingstone describe as "the capacity to bounce back from adversity by, for instance, coping with online risks in an effective way". In the Conversation Pieces that resilience grows from an experience that is staged safely and then talked about. [European Psychologist: 'Digital Literacy and Online Resilience as Facilitators of Young People's Well-Being?'](https://doi.org/10.1027/1016-9040/a000478)
-[^paper]: A paper by Marieke de Vogel, Wouter Sluis-Thiescheffer and Jasper Jeurens (HAN University of Applied Sciences, Lectorate Media Design, 2026) on the Conversation Pieces, with a pilot of the Soulmeter among players aged 14 to 66.
+[^paper]: A paper by Marieke de Vogel, Wouter Sluis-Thiescheffer and Jasper Jeurens (HAN University of Applied Sciences, Media Design Research Group, 2026) on the Conversation Pieces, with a pilot of the Soulmeter among players aged 14 to 66.
 [^bronfenbrenner]: Developmental psychologist at Cornell University (1917–2005). In *The Ecology of Human Development* (1979) he described how a child grows up inside nested systems, from the family to the culture around it.
