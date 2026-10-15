@@ -144,7 +144,8 @@ document.addEventListener("nav", () => {
 document.addEventListener("nav", () => {
   for (const card of document.querySelectorAll<HTMLElement>(".flipcard")) {
     const turn = (e: Event) => {
-      if ((e.target as HTMLElement).closest("a")) return
+      // a link, or a mark (* ▾ ↘) and the panel it opens, is not a turn of the card (15-10)
+      if ((e.target as HTMLElement).closest("a, button, .src-panel, .note-panel")) return
       if (e instanceof KeyboardEvent) {
         if (e.key !== "Enter" && e.key !== " ") return
         e.preventDefault()
