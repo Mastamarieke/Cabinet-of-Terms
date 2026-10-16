@@ -588,3 +588,32 @@ article li {
 .page-title {
   line-height: 1.2;
 }
+
+
+// Homepage cards in the same style as on digitale-alertheid.nl (16-10-2026): red title on top,
+// grey with a touch of pink, two per row, each card as tall as its own content
+.flipcards {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  align-items: start;
+  @media (max-width: 700px) {
+    grid-template-columns: 1fr;
+  }
+}
+.flipcard .flip-face {
+  background: #f4f2f3;
+}
+.flipcard .flip-name {
+  color: var(--han-red);
+  text-transform: none;
+  letter-spacing: 0;
+  font-size: 1.05rem;
+  font-weight: 700;
+  line-height: 1.3;
+}
+.flipcard .flip-face img.shot {
+  max-height: 230px;
+  object-fit: contain;
+}
+:root[saved-theme="dark"] .flipcard .flip-face {
+  background: var(--light);
+}

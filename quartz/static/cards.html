@@ -1,54 +1,55 @@
 <!doctype html>
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
 <title>The drawings of the Cabinet</title>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@700&family=Open+Sans:wght@400;500;600&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible+Next:wght@400;600;700&display=swap">
 <style>
 /* Six flip cards for embedding on digitale-alertheid.nl (15-10-2026): the website's fonts and colours */
 :root{--red:#E50056;--red-dark:#B8003F;--blue:#102136;--text:#3a3a3a;--grey:#757575;--line:#E3E3E3;--soft:#F8F8F8}
 *{box-sizing:border-box}
-html,body{margin:0;background:transparent;font-family:"Open Sans",sans-serif;font-weight:500;font-size:16px;line-height:1.6;color:var(--text)}
-.grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:18px;padding:4px}
+html,body{margin:0;background:transparent;font-family:"Atkinson Hyperlegible Next",sans-serif;font-weight:500;font-size:16px;line-height:1.6;color:var(--text)}
+.grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:18px;padding:4px;align-items:start}
+/* adaptive (15-10-2026): each card as tall as its own content, not the tallest in its row */
 @media (max-width:900px){.grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media (max-width:600px){.grid{grid-template-columns:1fr}}
 .card{display:grid;perspective:1400px;cursor:pointer;border-radius:10px}
 .card:focus-visible{outline:2px solid var(--red);outline-offset:3px}
-.face{grid-area:1/1;display:flex;flex-direction:column;gap:.5em;padding:12px;border:1px solid var(--line);border-radius:10px;background:#fff;backface-visibility:hidden;-webkit-backface-visibility:hidden;transition:transform .6s ease;font-size:.9rem}
+.face{grid-area:1/1;display:flex;flex-direction:column;gap:.5em;padding:12px;border:1px solid var(--line);border-radius:10px;background:var(--card,#F4F2F3);backface-visibility:hidden;-webkit-backface-visibility:hidden;transition:transform .6s ease;font-size:.9rem}
 .face p{margin:0}
 .back{transform:rotateY(180deg)}
 .card.flipped .front{transform:rotateY(-180deg)}
 .card.flipped .back{transform:rotateY(0)}
-img{width:100%;height:auto;display:block;border-radius:6px;flex-shrink:0}
+img{width:100%;height:auto;max-height:230px;object-fit:contain;display:block;border-radius:6px;flex-shrink:0}
 .where{align-self:flex-start;font-size:.7rem;text-transform:uppercase;letter-spacing:.05em;color:var(--grey);border:1px solid var(--line);border-radius:999px;padding:.05em .6em}
-.name{font-family:"Nunito Sans",sans-serif;font-weight:700;color:var(--blue);font-size:1rem}
+.name{font-family:"Atkinson Hyperlegible Next","Nunito Sans",sans-serif;font-weight:700;color:var(--red);font-size:1.05rem;line-height:1.3}
 .turn{margin-top:auto;align-self:flex-end;color:var(--red);font-size:.8rem;font-weight:600}
 .links a{color:var(--red);text-decoration:underline;text-underline-offset:.15em;text-decoration-thickness:1px;margin-right:.6em;font-weight:600}
 .links a:hover{color:var(--red-dark)}
 @media (prefers-reduced-motion:reduce){.face{transition:none}}
 </style></head><body>
 <div class="grid">
-<div class="card" tabindex="0" role="button" aria-pressed="false" aria-label="Semantic field: turn the card">
- <div class="face front"><img src="https://mastamarieke.github.io/Cabinet-of-Terms/beeld/homepage-field.png" alt="The semantic field of Privacy Washing" loading="lazy"><span class="where">in every entry</span><span class="name">Semantic field</span><span class="turn">turn ↻</span></div>
- <div class="face back"><span class="name">Semantic field</span><p>The graph above every entry: the term in the middle, its neighbours on a ring grouped by cluster, its sources marked as books. An arrow shows which way a link runs; a line shows how well a relation is argued: thick when both texts discuss it, plain when one does, dashed when it is only listed under Related terms, with a reason.</p><p class="links"><a href="https://mastamarieke.github.io/Cabinet-of-Terms/Cabinet-of-Digital-Terms/Privacy,-Data-and-Control/Privacy-Washing/#semantic-field" target="_top">Try it live in Privacy Washing ↗</a></p><span class="turn">turn back ↺</span></div>
+<div class="card" tabindex="0" role="button" aria-pressed="false" aria-label="Semantic Field: turn the card">
+ <div class="face front"><span class="name">Semantic Field</span><span class="where">in every entry</span><img src="https://mastamarieke.github.io/Cabinet-of-Terms/beeld/homepage-field.png" alt="The semantic field of Privacy Washing" loading="lazy"><span class="turn">turn ↻</span></div>
+ <div class="face back"><span class="name">Semantic Field</span><p>The graph above every entry: the term in the middle, its neighbours on a ring grouped by cluster, its sources marked as books. An arrow shows which way a link runs; a line shows how well a relation is argued: thick when both texts discuss it, plain when one does, dashed when it is only listed under Related terms, with a reason.</p><p class="links"><a href="https://mastamarieke.github.io/Cabinet-of-Terms/Cabinet-of-Digital-Terms/Privacy,-Data-and-Control/Privacy-Washing/#semantic-field" target="_top">Try it live in Privacy Washing ↗</a></p><span class="turn">turn back ↺</span></div>
 </div>
-<div class="card" tabindex="0" role="button" aria-pressed="false" aria-label="Semantic landscape: turn the card">
- <div class="face front"><img src="https://mastamarieke.github.io/Cabinet-of-Terms/beeld/homepage-landscape-light.png" alt="The semantic landscape of Vendor Lock-in" loading="lazy"><span class="where">since the earlier rounds</span><span class="name">Semantic landscape</span><span class="turn">turn ↻</span></div>
- <div class="face back"><span class="name">Semantic landscape</span><p>The graph told as a short story: one thing that surprises, one thread followed through the neighbours, people at the end. The names in it are links. Vendor Lock-in begins: <em>In a survey of people working with cloud services in British businesses, fewer than half knew what vendor lock-in meant.</em></p><p class="links"><a href="https://mastamarieke.github.io/Cabinet-of-Terms/Cabinet-of-Digital-Terms/Privacy,-Data-and-Control/Vendor-Lock-in/#semantic-landscape" target="_top">Read it in Vendor Lock-in ↗</a></p><span class="turn">turn back ↺</span></div>
+<div class="card" tabindex="0" role="button" aria-pressed="false" aria-label="Semantic Landscape: turn the card">
+ <div class="face front"><span class="name">Semantic Landscape</span><span class="where">since the earlier rounds</span><img src="https://mastamarieke.github.io/Cabinet-of-Terms/beeld/homepage-landscape-light.png" alt="The semantic landscape of Vendor Lock-in" loading="lazy"><span class="turn">turn ↻</span></div>
+ <div class="face back"><span class="name">Semantic Landscape</span><p>The graph told as a short story: one thing that surprises, one thread followed through the neighbours, people at the end. The names in it are links. Vendor Lock-in begins: <em>In a survey of people working with cloud services in British businesses, fewer than half knew what vendor lock-in meant.</em></p><p class="links"><a href="https://mastamarieke.github.io/Cabinet-of-Terms/Cabinet-of-Digital-Terms/Privacy,-Data-and-Control/Vendor-Lock-in/#semantic-landscape" target="_top">Read it in Vendor Lock-in ↗</a></p><span class="turn">turn back ↺</span></div>
 </div>
-<div class="card" tabindex="0" role="button" aria-pressed="false" aria-label="Attention curve: turn the card">
- <div class="face front"><img src="https://mastamarieke.github.io/Cabinet-of-Terms/beeld/homepage-curve-light-card.png" alt="The attention curve of Tradwife" loading="lazy"><span class="where">since the earlier rounds</span><span class="name">Attention curve</span><span class="turn">turn ↻</span></div>
- <div class="face back"><span class="name">Attention curve</span><p>When the word drew attention: Wikipedia page views, search interest and research per year, each on its own scale. Numbered moments explain the peaks, or say plainly that no cause was found. In Tradwife the highest peak, April 2024, came three months before the newspaper profile usually credited with it.</p><p class="links"><a href="https://mastamarieke.github.io/Cabinet-of-Terms/Cabinet-of-Digital-Terms/Gender--and--Identity/Tradwife/#attention-curve" target="_top">Try it live in Tradwife ↗</a></p><span class="turn">turn back ↺</span></div>
+<div class="card" tabindex="0" role="button" aria-pressed="false" aria-label="Attention Curve: turn the card">
+ <div class="face front"><span class="name">Attention Curve</span><span class="where">since the earlier rounds</span><img src="https://mastamarieke.github.io/Cabinet-of-Terms/beeld/homepage-curve-light-card.png" alt="The attention curve of Tradwife" loading="lazy"><span class="turn">turn ↻</span></div>
+ <div class="face back"><span class="name">Attention Curve</span><p>When the word drew attention: Wikipedia page views, search interest and research per year, each on its own scale. Numbered moments explain the peaks, or say plainly that no cause was found. In Tradwife the highest peak, April 2024, came three months before the newspaper profile usually credited with it.</p><p class="links"><a href="https://mastamarieke.github.io/Cabinet-of-Terms/Cabinet-of-Digital-Terms/Gender--and--Identity/Tradwife/#attention-curve" target="_top">Try it live in Tradwife ↗</a></p><span class="turn">turn back ↺</span></div>
 </div>
 <div class="card" tabindex="0" role="button" aria-pressed="false" aria-label="Relations: turn the card">
- <div class="face front"><img src="https://mastamarieke.github.io/Cabinet-of-Terms/beeld/homepage-relations.png" alt="The relations of Privacy, Data and Control" loading="lazy"><span class="where">on every cluster page</span><span class="name">Relations</span><span class="turn">turn ↻</span></div>
+ <div class="face front"><span class="name">Relations</span><span class="where">on every cluster page</span><img src="https://mastamarieke.github.io/Cabinet-of-Terms/beeld/homepage-relations.png" alt="The relations of Privacy, Data and Control" loading="lazy"><span class="turn">turn ↻</span></div>
  <div class="face back"><span class="name">Relations</span><p>On every cluster page: how its terms connect to the other clusters, in both directions. On the left the clusters whose terms point in, on the right the clusters its own terms point to. A solid line means a term discusses the other in its text, a dashed line that it lists it under Related terms, with a reason.</p><p class="links"><a href="https://mastamarieke.github.io/Cabinet-of-Terms/Cabinet-of-Digital-Terms/Privacy,-Data-and-Control/#relations" target="_top">Try it live in Privacy, Data and Control ↗</a></p><span class="turn">turn back ↺</span></div>
 </div>
 <div class="card" tabindex="0" role="button" aria-pressed="false" aria-label="Narrative Typography: turn the card">
- <div class="face front"><img src="https://mastamarieke.github.io/Cabinet-of-Terms/beeld/homepage-tradwife.jpg" alt="Tradwife, drawn as Narrative Typography" loading="lazy"><span class="where">in three entries</span><span class="name">Narrative Typography</span><span class="turn">turn ↻</span></div>
+ <div class="face front"><span class="name">Narrative Typography</span><span class="where">in three entries</span><img src="https://mastamarieke.github.io/Cabinet-of-Terms/beeld/homepage-tradwife.jpg" alt="Tradwife, drawn as Narrative Typography" loading="lazy"><span class="turn">turn ↻</span></div>
  <div class="face back"><span class="name">Narrative Typography</span><p>The term drawn as an image by a designer, set above the definition, so the form of the word shows its meaning before you read it. So far in Tradwife (Marieke de Vogel), and in Sigma Male and Looksmaxxing (Anne-Marie Bruinsma); more will follow.</p><p class="links"><a href="https://mastamarieke.github.io/Cabinet-of-Terms/Cabinet-of-Digital-Terms/Gender--and--Identity/Tradwife/#narrative-typography" target="_top">See it in Tradwife ↗</a> <a href="https://digitale-alertheid.nl/narrative-typography-the-metaphoric-visualisation-of-terms/" target="_top">About Narrative Typography ↗</a></p><span class="turn">turn back ↺</span></div>
 </div>
-<div class="card" tabindex="0" role="button" aria-pressed="false" aria-label="You, in orbits of influence: turn the card">
- <div class="face front"><img src="https://mastamarieke.github.io/Cabinet-of-Terms/beeld/homepage-orbits.jpg" alt="The clusters of the Cabinet on five orbits around a person at the centre" loading="lazy"><span class="where">sketch</span><span class="name">You, in orbits of influence</span><span class="turn">turn ↻</span></div>
- <div class="face back"><span class="name">You, in orbits of influence</span><p>The clusters of the Cabinet arranged around you, by how close they come to your daily life. The orbits follow the psychologist Urie Bronfenbrenner: where you are (microsystem), where your places meet (meso), places you never enter that still shape your life, such as the offices where your apps are made (exo), society (macro), and change over time (chrono). On a screen the far orbits reach you directly, past parents and teachers (Navarro and Tudge, 2022). Where a cluster sits is a choice, not a measurement; the lines are the links counted on 12 October 2026.</p><p class="links"><a href="https://mastamarieke.github.io/Cabinet-of-Terms/static/orbits-of-influence.html" target="_top">Open the orbits ↗</a></p><span class="turn">turn back ↺</span></div>
+<div class="card" tabindex="0" role="button" aria-pressed="false" aria-label="You, in Orbits of Influence: turn the card">
+ <div class="face front"><span class="name">You, in Orbits of Influence</span><span class="where">sketch</span><img src="https://mastamarieke.github.io/Cabinet-of-Terms/beeld/homepage-orbits.jpg" alt="The clusters of the Cabinet on five orbits around a person at the centre" loading="lazy"><span class="turn">turn ↻</span></div>
+ <div class="face back"><span class="name">You, in Orbits of Influence</span><p>The clusters of the Cabinet arranged around you, by how close they come to your daily life. The orbits follow the psychologist Urie Bronfenbrenner: where you are (microsystem), where your places meet (meso), places you never enter that still shape your life, such as the offices where your apps are made (exo), society (macro), and change over time (chrono). On a screen the far orbits reach you directly, past parents and teachers (Navarro and Tudge, 2022). Where a cluster sits is a choice, not a measurement; the lines are the links counted on 12 October 2026.</p><p class="links"><a href="https://mastamarieke.github.io/Cabinet-of-Terms/static/orbits-of-influence.html" target="_top">Open the orbits ↗</a></p><span class="turn">turn back ↺</span></div>
 </div>
 </div>
 <script>
@@ -59,7 +60,11 @@ for(const c of document.querySelectorAll(".card")){
   c.addEventListener("click",turn); c.addEventListener("keydown",turn);
 }
 // tell the page around it how tall the cards are, so an iframe can follow (optional)
-const tell=()=>parent.postMessage({cabinetCards:document.documentElement.scrollHeight},"*");
+// report the height of the cards themselves, not of the window: the window grows with the frame,
+// so it would never shrink again (15-10-2026)
+const tell=()=>parent.postMessage({cabinetCards:Math.ceil(document.querySelector(".grid").getBoundingClientRect().height)+8},"*");
 addEventListener("load",tell); addEventListener("resize",tell);
+for(const im of document.images) im.addEventListener("load",tell);
+for(const c of document.querySelectorAll(".card")) c.addEventListener("transitionend",tell);
 </script>
 </body></html>
