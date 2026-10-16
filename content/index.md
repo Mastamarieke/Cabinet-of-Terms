@@ -258,17 +258,7 @@ The term drawn as an image by a designer, set above the definition, so the form 
 
 <span class="flip-name">You, in Orbits of Influence</span>
 
-The cluster map of the Cabinet, rearranged around you: every cluster sits on the orbit of how close it comes to your daily life. Around it runs a band with the two clusters that do things differently, on every orbit. Every line is a link between two terms, counted on 12 October 2026.
-
-The orbits follow the psychologist ==Urie Bronfenbrenner==[^bronfenbrenner], who drew a child's world as circles around the child:
-
-- **microsystem** (1, You): where you are, at home, at school and on your screen;
-- **mesosystem** (2, You and others): where your places meet, the phone at the dinner table, the class chat at night;
-- **exosystem** (3, The systems you use): places you never enter that still shape your life, such as the offices where your apps are made;
-- **macrosystem** (4, Society): the beliefs, laws and words of a whole society;
-- **chronosystem** (5, The world and the future): what changes over time, across generations. In Bronfenbrenner this is time itself; here it is drawn as the outermost orbit.
-
-Jessica Navarro and Jonathan Tudge brought the model online in 2022, and found that on a screen the far circles no longer wait their turn: ==a decision taken in an office far away reaches your phone directly, with no parent or teacher in between== ([Navarro and Tudge, 2022](https://doi.org/10.1007/s12144-022-02738-3): Technologizing Bronfenbrenner, on forces from the outer systems that often circumvent parents and educators). Where a cluster sits is a choice, not a measurement. Open the orbits on the front of the card, point at a cluster to see its links, and click to open it.
+The cluster map of the Cabinet, rearranged around you: every cluster sits on the orbit of how close it comes to your daily life, from your screen and the people around you to society and change over time. The orbits follow the five systems of the psychologist ==Urie Bronfenbrenner==[^bronfenbrenner], explained in the legend of the map. ==On a screen the far orbits reach you directly, with no parent or teacher in between== ([Navarro and Tudge, 2022](https://doi.org/10.1007/s12144-022-02738-3): Technologizing Bronfenbrenner, on forces from the outer systems that often circumvent parents and educators). Where a cluster sits is a choice, not a measurement; the lines are the links counted on 12 October 2026.
 
 
 <span class="flip-turn">turn back ↺</span>
