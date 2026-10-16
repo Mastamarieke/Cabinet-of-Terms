@@ -160,13 +160,12 @@ The drawings and the image mentioned above, and one sketch. Click a card to turn
 
 <div class="flipcard" tabindex="0" role="button" aria-pressed="false" aria-label="Semantic field: turn the card">
 <div class="flip-face flip-front">
-<span class="flip-name">Semantic Field</span><span class="flip-where">in every entry</span>
 <img class="shot" src="beeld/homepage-field.png" alt="The semantic field of Privacy Washing">
-<span class="flip-turn">turn ↻</span>
+<span class="flip-where">in every entry</span><span class="flip-name">Semantic field</span><span class="flip-turn">turn ↻</span>
 </div>
 <div class="flip-face flip-back">
 
-<span class="flip-name">Semantic Field</span>
+<span class="flip-name">Semantic field</span>
 
 The graph above every entry: the term in the middle, its neighbours on a ring grouped by cluster, its sources marked as books. An arrow shows which way a link runs; a line shows how well a relation is argued (thick: discussed in both texts, plain: in one text, dashed: only in Related terms, with a reason). Three switches show or hide the sources, the other terms in the cluster, and the entries that link here without being linked back.
 
@@ -178,13 +177,12 @@ The graph above every entry: the term in the middle, its neighbours on a ring gr
 
 <div class="flipcard" tabindex="0" role="button" aria-pressed="false" aria-label="Semantic landscape: turn the card">
 <div class="flip-face flip-front">
-<span class="flip-name">Semantic Landscape</span><span class="flip-where">since the earlier rounds</span>
 <img class="shot shot-light" src="beeld/homepage-landscape-light.png" alt="The semantic landscape of Vendor Lock-in"><img class="shot shot-dark" src="beeld/homepage-landscape-dark.png" alt="The semantic landscape of Vendor Lock-in">
-<span class="flip-turn">turn ↻</span>
+<span class="flip-where">since the earlier rounds</span><span class="flip-name">Semantic landscape</span><span class="flip-turn">turn ↻</span>
 </div>
 <div class="flip-face flip-back">
 
-<span class="flip-name">Semantic Landscape</span>
+<span class="flip-name">Semantic landscape</span>
 
 The graph told as a short story: one thing that surprises, one thread followed through the neighbours, people at the end. The names in it are links. Vendor Lock-in begins: *In a survey of people working with cloud services in British businesses, fewer than half knew what vendor lock-in meant.*
 
@@ -196,13 +194,12 @@ The graph told as a short story: one thing that surprises, one thread followed t
 
 <div class="flipcard" tabindex="0" role="button" aria-pressed="false" aria-label="Attention curve: turn the card">
 <div class="flip-face flip-front">
-<span class="flip-name">Attention Curve</span><span class="flip-where">since the earlier rounds</span>
 <img class="shot shot-light" src="beeld/homepage-curve-light-card.png" alt="The attention curve of Tradwife"><img class="shot shot-dark" src="beeld/homepage-curve-dark-card.png" alt="The attention curve of Tradwife">
-<span class="flip-turn">turn ↻</span>
+<span class="flip-where">since the earlier rounds</span><span class="flip-name">Attention curve</span><span class="flip-turn">turn ↻</span>
 </div>
 <div class="flip-face flip-back">
 
-<span class="flip-name">Attention Curve</span>
+<span class="flip-name">Attention curve</span>
 
 When the word drew attention: Wikipedia page views, search interest and research per year, each on its own scale. Numbered moments explain the peaks, or say plainly that no cause was found. In Tradwife the highest peak, April 2024, came three months before the newspaper profile usually credited with it; the likely cause was a radio podcast, and the note says it is not proven.
 
@@ -214,9 +211,8 @@ When the word drew attention: Wikipedia page views, search interest and research
 
 <div class="flipcard" tabindex="0" role="button" aria-pressed="false" aria-label="Relations: turn the card">
 <div class="flip-face flip-front">
-<span class="flip-name">Relations</span><span class="flip-where">on every cluster page</span>
 <img class="shot" src="beeld/homepage-relations.png" alt="The relations of Privacy, Data and Control">
-<span class="flip-turn">turn ↻</span>
+<span class="flip-where">on every cluster page</span><span class="flip-name">Relations</span><span class="flip-turn">turn ↻</span>
 </div>
 <div class="flip-face flip-back">
 
@@ -232,9 +228,8 @@ On every cluster page: how its terms connect to the other clusters, in both dire
 
 <div class="flipcard" tabindex="0" role="button" aria-pressed="false" aria-label="Narrative Typography: turn the card">
 <div class="flip-face flip-front">
-<span class="flip-name">Narrative Typography</span><span class="flip-where">in three entries</span>
 <img class="shot" src="beeld/homepage-tradwife.jpg" alt="Tradwife, drawn as Narrative Typography">
-<span class="flip-caption">By Narrative Typographer Marieke de Vogel</span><span class="flip-turn">turn ↻</span>
+<span class="flip-where">in three entries</span><span class="flip-name">Narrative Typography</span><span class="flip-caption">By Narrative Typographer Marieke de Vogel</span><span class="flip-turn">turn ↻</span>
 </div>
 <div class="flip-face flip-back">
 
@@ -250,15 +245,24 @@ The term drawn as an image by a designer, set above the definition, so the form 
 
 <div class="flipcard" tabindex="0" role="button" aria-pressed="false" aria-label="You, in orbits of influence: turn the card">
 <div class="flip-face flip-front">
-<span class="flip-name">You, in Orbits of Influence</span><span class="flip-where">sketch</span>
 <img class="shot" src="beeld/homepage-orbits.jpg" alt="The clusters of the Cabinet on five orbits around a person at the centre, joined by coloured lines">
-<a class="orbit-open" href="https://mastamarieke.github.io/Cabinet-of-Terms/static/orbits-of-influence.html" data-src="static/orbits-of-influence.html">Open the orbits ↗</a><span class="flip-turn">turn ↻</span>
+<span class="flip-where">sketch</span><span class="flip-name">You, in orbits of influence</span><a class="orbit-open" href="https://mastamarieke.github.io/Cabinet-of-Terms/static/orbits-of-influence.html" data-src="static/orbits-of-influence.html">Open the orbits ↗</a><span class="flip-turn">turn ↻</span>
 </div>
 <div class="flip-face flip-back">
 
-<span class="flip-name">You, in Orbits of Influence</span>
+<span class="flip-name">You, in orbits of influence</span>
 
-The cluster map of the Cabinet, rearranged around you: every cluster sits on the orbit of how close it comes to your daily life, from your screen and the people around you to society and change over time. The orbits follow the five systems of the psychologist ==Urie Bronfenbrenner==[^bronfenbrenner], explained in the legend of the map. ==On a screen the far orbits reach you directly, with no parent or teacher in between== ([Navarro and Tudge, 2022](https://doi.org/10.1007/s12144-022-02738-3): Technologizing Bronfenbrenner, on forces from the outer systems that often circumvent parents and educators). Where a cluster sits is a choice, not a measurement; the lines are the links counted on 12 October 2026.
+The cluster map of the Cabinet, rearranged around you: every cluster sits on the orbit of how close it comes to your daily life. Around it runs a band with the two clusters that do things differently, on every orbit. Every line is a link between two terms, counted on 12 October 2026.
+
+The orbits follow the psychologist ==Urie Bronfenbrenner==[^bronfenbrenner], who drew a child's world as circles around the child:
+
+- **microsystem** (1, You): where you are, at home, at school and on your screen;
+- **mesosystem** (2, You and others): where your places meet, the phone at the dinner table, the class chat at night;
+- **exosystem** (3, The systems you use): places you never enter that still shape your life, such as the offices where your apps are made;
+- **macrosystem** (4, Society): the beliefs, laws and words of a whole society;
+- **chronosystem** (5, The world and the future): what changes over time, across generations. In Bronfenbrenner this is time itself; here it is drawn as the outermost orbit.
+
+Jessica Navarro and Jonathan Tudge brought the model online in 2022, and found that on a screen the far circles no longer wait their turn: ==a decision taken in an office far away reaches your phone directly, with no parent or teacher in between== ([Navarro and Tudge, 2022](https://doi.org/10.1007/s12144-022-02738-3): Technologizing Bronfenbrenner, on forces from the outer systems that often circumvent parents and educators). Where a cluster sits is a choice, not a measurement. Open the orbits on the front of the card, point at a cluster to see its links, and click to open it.
 
 
 <span class="flip-turn">turn back ↺</span>
