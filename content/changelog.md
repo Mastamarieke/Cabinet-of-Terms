@@ -5,6 +5,10 @@ draft: true
 
 *One line per change, newest first. The front page shows the top of this list; this page keeps all of it. Rubrics: TERM (an entry), CLUSTER (a cluster's page or its members), SOURCE (literature), GRAPH (the drawings), SITE (everything else).*
 
+## 25 October 2026
+
+- **TERM** · [[Cleanfluencer]]: new, housework filmed as calm, and who earns from it
+
 ## 14 September 2026
 
 - **GRAPH** · the map on the front page zooms to a cluster when you rest on it
