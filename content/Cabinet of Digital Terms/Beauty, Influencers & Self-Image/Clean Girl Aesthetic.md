@@ -21,7 +21,7 @@ analysis_version: pending
 
 **Why This Matters:** **Clean Girl Aesthetic** makes visible how "natural" is always constructed — and who gets to define what natural looks like.
 
-**Related terms:** [[That Girl]] · [[Beauty Filter]] · [[Comparison Culture]] · [[Highlight Reel]] · [[Body Dysmorphic Disorder]] · [[Deinfluencing]] · [[Looksmaxxing]]
+**Related terms:** [[That Girl]] · [[Beauty Filter]] · [[Comparison Culture]] · [[Highlight Reel]] · [[Body Dysmorphic Disorder]] · [[Deinfluencing]] · [[Looksmaxxing]] · [[Cleanfluencer]] (clean on the house instead of the body: seven of a hundred #CleanGirl videos also carry #cleantok)
 
 
 ---

@@ -11,7 +11,7 @@ The twenty clusters are listed below.
 <!-- clusters:start -->
 - [[AI and Energy]] · 10 terms
 - [[AI-Specific Terms]] · 7 terms
-- [[Beauty, Influencers & Self-Image]] · 13 terms
+- [[Beauty, Influencers & Self-Image]] · 14 terms
 - [[Behaviour & Relationships]] · 16 terms
 - [[Consequences of Digital Behaviour]] · 12 terms
 - [[Counter-Movements]] · 8 terms

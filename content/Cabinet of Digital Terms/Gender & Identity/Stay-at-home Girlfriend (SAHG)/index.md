@@ -20,13 +20,13 @@ semantic_landscape: |
 
 > Financial dependence without marriage — a relationship model that performs liberation from professional identity while reproducing economic dependency.
 
-**The Appeal:** The trend answers real exhaustion: a generation that watched its mothers carry a job and a household, and was told to become a "girlboss" to survive. The videos present housework as calm, aesthetic self-care. "I don't dream of labor," one caption reads. "I dream of living a soft, feminine life."
+**The Appeal:** The trend answers real exhaustion: a generation that watched its mothers carry a job and a household, and was told to become a "girlboss" to survive. The videos present housework as calm, aesthetic self-care, the same calm a [[Cleanfluencer]] sells, with a link under every container. "I don't dream of labor," one caption reads. "I dream of living a soft, feminine life."
 
 **The Friction:** The aesthetic hides the economics. Marriage usually gives a dependent partner some legal protection; living together without it often gives little, so the girlfriend carries the risk of the [[Tradwife]] without her contract. [[Provider]] is the other half of the deal, and [[SMV (Sexual Market Value)]] its logic: her domestic work is her offer in exchange for his money. Sykes adds that the videos borrow the language of empowerment and "girlboss" culture they say they leave behind. Some women walk out: [[Hopner-SAHG-2026|Hopner and Sykes (2026)]] describe women leaving traditional arrangements after domestic violence, infidelity and unequal power. [[Womanosphere]] content spreads the model, usually without the legal risks.
 
 **Why This Matters:** **SAHG** makes visible the gap between lifestyle content and the economics underneath: the videos show freedom, the arrangement is dependency.
 
-**Related terms:** [[Tradwife]] · [[SMV (Sexual Market Value)]] · [[Womanosphere]] · [[Highlight Reel]] · [[Provider]] · [[Comparison Culture]] · [[Hypergamy]]
+**Related terms:** [[Tradwife]] · [[SMV (Sexual Market Value)]] · [[Womanosphere]] · [[Highlight Reel]] · [[Provider]] · [[Comparison Culture]] · [[Hypergamy]] · [[Cleanfluencer]]
 
 ---
 **Read more:**

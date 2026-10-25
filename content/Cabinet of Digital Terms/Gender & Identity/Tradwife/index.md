@@ -38,7 +38,7 @@ semantic_landscape: |
 
   **Provider** is the structural counterpart that the graph positions as a co-mechanism: Tradwife and Provider are a paired set, two roles in the same transaction. Remove one, and the other loses its definition. The connection to **Highlight Reel** is equally structural: the tradwife's domestic scenes are produced content. The kitchen is a set. The submission is a format.
 
-  What the graph cannot yet show — but the shirts can: the tradwife aesthetic is now a consumer product. *"Feed The Patriarchy"*, *"Feminine Not Feminist"*, *"I Love To Serve My Husband"* — sold on a regular e-commerce platform, marketed as *Cool & Funny*. The rejection of modern consumer culture is itself for sale. The node that is missing in the current graph is **Lifestyle Brand** — the point at which an ideological position becomes purchasable identity. Its absence is worth naming. Once an ideology can be worn, it no longer needs to be argued.
+  What the graph cannot yet show — but the shirts can: the tradwife aesthetic is now a consumer product. *"Feed The Patriarchy"*, *"Feminine Not Feminist"*, *"I Love To Serve My Husband"* — sold on a regular e-commerce platform, marketed as *Cool & Funny*. The rejection of modern consumer culture is itself for sale. The node that is missing in the current graph is **Lifestyle Brand** — the point at which an ideological position becomes purchasable identity. Its absence is worth naming. Part of that step shows in **Cleanfluencer**: under the videos of one cleaning channel, *"Jesus, Mom, Wife, Cook, Clean, Organize"* is followed by *"Amazon links"*. Once an ideology can be worn, it no longer needs to be argued.
 ---
 
 ***She bakes bread, raises children, defers to her husband — and films all of it for an audience of millions.***
@@ -60,7 +60,7 @@ The term reached general use through a single article. In July 2024 the *Sunday 
 
 **Why This Matters:** **Tradwife** makes visible the contradiction between form and content — a rejection of modern values distributed through the most modern available infrastructure. The influencer who monetises submission is also the entrepreneur who built a brand. Once you see the platform economy behind the aesthetic, the "return to tradition" is legible as a content category.
 
-**Related terms:** [[Provider]] · [[SMV (Sexual Market Value)]] · [[Womanosphere]] · [[Manosphere]] · [[Highlight Reel]] · [[Stay-at-home Girlfriend (SAHG)]] · [[Purity Culture]] · [[Looksmaxxing]] · [[Wellness-to-Alt-Right Pipeline]] · [[Sigma Male]] · [[Body Dysmorphic Disorder]] · [[Hypergamy]] · [[Influencer]] · [[Creator Economy]] · [[Alpha Male]] · [[Great Replacement]] · [[Pro-natalism]] · [[Red Pill]]
+**Related terms:** [[Provider]] · [[SMV (Sexual Market Value)]] · [[Womanosphere]] · [[Manosphere]] · [[Highlight Reel]] · [[Stay-at-home Girlfriend (SAHG)]] · [[Purity Culture]] · [[Looksmaxxing]] · [[Wellness-to-Alt-Right Pipeline]] · [[Sigma Male]] · [[Body Dysmorphic Disorder]] · [[Hypergamy]] · [[Influencer]] · [[Creator Economy]] · [[Alpha Male]] · [[Great Replacement]] · [[Pro-natalism]] · [[Red Pill]] · [[Cleanfluencer]] (housework filmed as calm and sold through links: faith and a shop in one line)
 
 ---
 

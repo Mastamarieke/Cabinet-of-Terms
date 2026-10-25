@@ -21,7 +21,7 @@ analysis_version: pending
 
 **Why This Matters:** **Deinfluencing** makes visible the recuperation mechanism: the platform absorbs critique by making the critique into content. Once you see that move, you see it everywhere.
 
-**Related terms:** [[Influencer]] · [[Comparison Culture]] · [[Highlight Reel]] · [[Counter-Movements]] · [[Digital Detox]] · [[Looksmaxxing]] · [[Tradwife]] · [[Curated Life]]
+**Related terms:** [[Influencer]] · [[Comparison Culture]] · [[Highlight Reel]] · [[Counter-Movements]] · [[Digital Detox]] · [[Looksmaxxing]] · [[Tradwife]] · [[Curated Life]] · [[Cleanfluencer]] (the genre deinfluencing would have to undo: a Yahoo News reporter doubts it can, because not selling runs against the job)
 
 
 ---

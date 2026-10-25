@@ -21,6 +21,9 @@ Up at 5am. Green smoothie. Journalling. A lifestyle aesthetic that performs well
 ### [[Clean Girl Aesthetic]]
 Minimalist beauty as norm. No-makeup makeup that takes forty minutes. Effortlessness as effort.
 
+### [[Cleanfluencer]]
+The pantry refilled on camera, every container linked. Housework as a calming show, paid for by those who watch.
+
 ### [[Beauty Filter]]
 Realtime facial adjustment. A version of yourself that only exists on screen — and that you are now measured against.
 

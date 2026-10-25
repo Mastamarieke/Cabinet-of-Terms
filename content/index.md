@@ -45,7 +45,7 @@ Some entries carry the method further than others.
 | | entries | which |
 |---|---|---|
 | **Full method**: sources, landscape, curve, relations argued in the text | 10 | [[Privacy, Data and Control]]: [[Algorithmic Violence]] · [[Brussels Effect]] · [[CLOUD Act]] · [[Data Brokers]] · [[Dataism]] · [[Privacy as a Premium]] · [[Privacy Washing]] · [[Security Theater]] · [[Surveillance Capitalism]] · [[Vendor Lock-in]] |
-| **Earlier round**: some of the layers, before the current method | 26 | [[AI-Specific Terms]]: [[AI-Ninja]]<br>[[Beauty, Influencers & Self-Image]]: [[Virtual Influencer]]<br>[[Behaviour & Relationships]]: [[Parasocial Relationship]]<br>[[Gender & Identity]]: [[Alpha Male]] · [[Blackpill]] · [[High Value Man]] · [[Hypergamy]] · [[Incel]] · [[Looksmaxxing]] · [[Manosphere]] · [[MGTOW]] · [[NPC]] · [[Podcast-bro]] · [[Provider]] · [[Red Pill]] · [[Rizz]] · [[Sigma Male]] · [[SMV (Sexual Market Value)]] · [[Stay-at-home Girlfriend (SAHG)]] · [[Top 1% Man]] · [[Tradwife]] · [[Womanosphere]]<br>[[Parents & Children]]: [[Sharenting]]<br>[[Platform Mechanisms & Economics]]: [[Ragebaiting]] · [[Recommender Systems]]<br>[[Subcultural Vocabulary and Platform Language]]: [[Gooner]] |
+| **Earlier round**: some of the layers, before the current method | 27 | [[AI-Specific Terms]]: [[AI-Ninja]]<br>[[Beauty, Influencers & Self-Image]]: [[Cleanfluencer]] · [[Virtual Influencer]]<br>[[Behaviour & Relationships]]: [[Parasocial Relationship]]<br>[[Gender & Identity]]: [[Alpha Male]] · [[Blackpill]] · [[High Value Man]] · [[Hypergamy]] · [[Incel]] · [[Looksmaxxing]] · [[Manosphere]] · [[MGTOW]] · [[NPC]] · [[Podcast-bro]] · [[Provider]] · [[Red Pill]] · [[Rizz]] · [[Sigma Male]] · [[SMV (Sexual Market Value)]] · [[Stay-at-home Girlfriend (SAHG)]] · [[Top 1% Man]] · [[Tradwife]] · [[Womanosphere]]<br>[[Parents & Children]]: [[Sharenting]]<br>[[Platform Mechanisms & Economics]]: [[Ragebaiting]] · [[Recommender Systems]]<br>[[Subcultural Vocabulary and Platform Language]]: [[Gooner]] |
 | **Not yet** | 224 | [[AI and Energy]] · [[AI-Specific Terms]] · [[Beauty, Influencers & Self-Image]] · [[Behaviour & Relationships]] · [[Consequences of Digital Behaviour]] · [[Counter-Movements]] · [[Culture Wars and Political Language]] · [[Design Philosophy and Ethical Design]] · [[End-Times Thinking and Elite Survivalism]] · [[Inclusion, Accessibility and Ageing]] · [[Manifestos]] · [[New Digital Professions]] · [[Parents & Children]] · [[Platform Mechanisms & Economics]] · [[SF as Ideology]] · [[Society and Power]] · [[Statements as Analytical Object]] · [[Subcultural Vocabulary and Platform Language]] |
 <!-- layers:end -->
 
@@ -484,7 +484,7 @@ Tech neck, digital hoarding, cyberchondria, deskilling — these are not extreme
 </details>
 
 <details>
-<summary><strong>Beauty, Influencers & Self-Image</strong> — 13 terms</summary>
+<summary><strong>Beauty, Influencers & Self-Image</strong> — 14 terms</summary>
 
 The platform economy of appearance distributes body norms as aspiration content, makes comparison ambient, and produces clinical consequences at scale. This cluster maps how platforms shape how people see themselves and each other.
 
@@ -493,6 +493,7 @@ The platform economy of appearance distributes body norms as aspiration content,
 - [[Beauty Filter]]
 - [[Body Dysmorphic Disorder]]
 - [[Clean Girl Aesthetic]]
+- [[Cleanfluencer]]
 - [[Comparison Culture]]
 - [[Curated Life]]
 - [[Deinfluencing]]
