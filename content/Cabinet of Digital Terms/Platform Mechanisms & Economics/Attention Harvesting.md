@@ -21,7 +21,7 @@ analysis_version: pending
 
 **Why This Matters:** **Attention harvesting** reframes the relationship between user and platform. The user is not the customer — they are the product. Once you know the transaction, "free" platform means something different.
 
-**Related terms:** [[Surveillance Capitalism]] (selling predictions made from behavioural data: the framework in which attention is harvested) · [[Attention Economy]] · [[Dopamine Feedback Loops]] · [[Recommender Systems]] · [[Dark Patterns]] · [[Cognitive Surrender]] · [[Calm Technology]] · [[Digital Detox]] · [[Doomscrolling]]
+**Related terms:** [[Surveillance Capitalism]] (selling predictions made from behavioural data: the framework in which attention is harvested) · [[Attention Economy]] · [[Dopamine Feedback Loops]] · [[Recommender Systems]] · [[Dark Patterns]] · [[Cognitive Surrender]] · [[Calm Technology]] · [[Digital Detox]] · [[Doomscrolling]] · [[Predatory Design]] (the difference: here your time, there your money at your weakest moment)
 
 
 ---

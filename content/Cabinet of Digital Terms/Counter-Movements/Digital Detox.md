@@ -17,7 +17,7 @@ analysis_version: pending
 
 **The Appeal:** The need is real. People feel overwhelmed, distracted, unable to focus. A **digital detox** offers relief — structured, temporary, achievable. For many people, it works. Some evidence supports limits on certain types of screen use, particularly late at night.
 
-**The Friction:** The frame systematically excludes the more important question: not *how much* but *designed by whom*. [[Attention Harvesting]] — the systematic extraction of human focus for commercial purposes — is what makes the detox feel necessary. [[Predatory Design]] — interfaces built to maximise time-on-platform — is what the detox tries to escape. The pull does not stop when the phone is away. Van Iperen (2026) describes a notification sound in a room breaking her concentration, although her own phone was always on silent. The reflex was trained by [[Dopamine Feedback Loops]], rewards that arrive at unpredictable moments and make checking hard to stop. Neither is addressed by going offline for a weekend. The platform is unchanged when you return.
+**The Friction:** The frame systematically excludes the more important question: not *how much* but *designed by whom*. [[Attention Harvesting]] — the systematic extraction of human focus for commercial purposes — is what makes the detox feel necessary. [[Attention Harvesting]], interfaces built to maximise time on the platform, is what the detox tries to escape. The pull does not stop when the phone is away. Van Iperen (2026) describes a notification sound in a room breaking her concentration, although her own phone was always on silent. The reflex was trained by [[Dopamine Feedback Loops]], rewards that arrive at unpredictable moments and make checking hard to stop. Neither is addressed by going offline for a weekend. The platform is unchanged when you return.
 
 The detox is also distributed by the platforms it critiques. The retreat gets booked online. The experience gets posted. The resistance becomes content. Syvertsen and Enli name this as recuperation: the system absorbs its own criticism.
 
@@ -25,7 +25,7 @@ The Dutch school phone ban made the detox a rule, and showed whom it suits. Sinc
 
 **Why This Matters:** **Digital detox** makes individual behaviour the solution to a structural problem. Once you see that move, you see it everywhere — in [[Screen Time|screen time]] advice, in mindfulness apps, in every wellness product that turns platform damage into a personal growth opportunity.
 
-**Related terms:** [[Slow Media]] · [[Unplugging]] · [[Tech-Free Challenge]] · [[Attention Harvesting]] · [[Predatory Design]] · [[Cognitive Surrender]] · [[Dopamine Feedback Loops]] · [[Screen Time]]
+**Related terms:** [[Slow Media]] · [[Unplugging]] · [[Tech-Free Challenge]] · [[Attention Harvesting]] · [[Cognitive Surrender]] · [[Dopamine Feedback Loops]] · [[Screen Time]]
 
 
 ---

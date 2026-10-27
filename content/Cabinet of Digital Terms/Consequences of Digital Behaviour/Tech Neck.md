@@ -17,11 +17,11 @@ analysis_version: pending
 
 **The Appeal:** The posture is ergonomically inevitable given how screens are used. Holding a phone below eye level — as most users do — requires neck flexion. The injury develops gradually and is initially painless. By the time it is symptomatic, the habit is established and the device use that caused it is structurally necessary for work, communication, and daily life.
 
-**The Friction:** **Tech neck** is the inverse of a design affordance: platforms are designed for continuous use; continuous use requires a posture; the posture damages the body. [[Predatory Design]] — design choices that maximise engagement — creates the hours of use that produce the injury. [[Smombie]] — walking while staring at a screen — extends the posture into public space. [[Dopamine Feedback Loops]] are what make the phone hard to put down even when the neck hurts. The body is paying for an architecture it did not design and cannot easily exit.
+**The Friction:** **Tech neck** is the inverse of a design affordance: platforms are designed for continuous use; continuous use requires a posture; the posture damages the body. [[Attention Harvesting]], design that turns attention into advertising revenue, creates the hours of use that produce the injury. [[Smombie]] — walking while staring at a screen — extends the posture into public space. [[Dopamine Feedback Loops]] are what make the phone hard to put down even when the neck hurts. The body is paying for an architecture it did not design and cannot easily exit.
 
 **Why This Matters:** **Tech neck** names a structural consequence of platform design that is invisible until it is painful — and by then, the posture and the dependency are both established. The cervical spine is not neutral territory. It is part of the infrastructure.
 
-**Related terms:** [[Text Claw]] · [[Smombie]] · [[Predatory Design]] · [[Dopamine Feedback Loops]] · [[Technostress]] · [[Digital Detox]]
+**Related terms:** [[Text Claw]] · [[Smombie]] · [[Dopamine Feedback Loops]] · [[Technostress]] · [[Digital Detox]] · [[Attention Harvesting]] (design that turns attention into revenue)
 
 
 ---

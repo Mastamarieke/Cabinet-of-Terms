@@ -17,11 +17,11 @@ analysis_version: pending
 
 **The Appeal:** The **de-installer** provides a real and valuable service. Bloatware slows devices. Pre-installed tracking apps compromise privacy. Difficult-to-uninstall applications exploit users who do not know how to remove them. Someone who can navigate these systems on behalf of people who cannot is providing genuine help.
 
-**The Friction:** The role exists because [[Predatory Design]] and [[Enshittification]] make devices deliberately complex to clean. Manufacturers are paid to pre-install applications; removing them is designed to be difficult. [[Tech Abandonment]] — giving up on technology because it became unmanageable — is what the **de-installer** prevents. [[Digital Coach]] is the broader role; **de-installer** is the specific, often invisible, task within it. The labour is typically unpaid and falls disproportionately on younger family members, particularly women, who absorb the technical support burden without recognition.
+**The Friction:** The role exists because [[Enshittification]] makes devices deliberately complex to clean. Manufacturers are paid to pre-install applications; removing them is designed to be difficult. [[Tech Abandonment]] — giving up on technology because it became unmanageable — is what the **de-installer** prevents. [[Digital Coach]] is the broader role; **de-installer** is the specific, often invisible, task within it. The labour is typically unpaid and falls disproportionately on younger family members, particularly women, who absorb the technical support burden without recognition.
 
 **Why This Matters:** The **de-installer** names a profession whose existence is evidence of a design failure. Every device that requires a **de-installer** is a device that was designed against its user. Once you see that, the question is not "who can help me remove this?" but "why was it installed without my consent?"
 
-**Related terms:** [[Digital Coach]] · [[Predatory Design]] · [[Enshittification]] · [[Tech Abandonment]] · [[Fair Patterns]] · [[Digital Exclusion]]
+**Related terms:** [[Digital Coach]] · [[Enshittification]] · [[Tech Abandonment]] · [[Fair Patterns]] · [[Digital Exclusion]]
 
 
 ---

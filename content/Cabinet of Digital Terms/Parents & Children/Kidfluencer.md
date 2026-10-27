@@ -21,7 +21,7 @@ analysis_version: pending
 
 **Why This Matters:** **Kidfluencer** names the commercial endpoint of the [[Sharenting|sharenting]] logic. Once you see the industry — in most countries no labour law, no consent framework, no minimum age — the child with a brand is also a child without protections that adults take for granted.
 
-**Related terms:** [[Momfluencer]] · [[Family Vlogging]] · [[Sharenting]] · [[Online Grooming]] · [[Parasocial Relationship]] · [[Creator Economy]] · [[VSD (Value Sensitive Design)]]
+**Related terms:** [[Momfluencer]] · [[Family Vlogging]] · [[Sharenting]] · [[Online Grooming]] · [[Parasocial Relationship]] · [[Creator Economy]] · [[VSD (Value Sensitive Design)]] · [[Predatory Design]] (children selling to children inside the same games)
 
 
 ---

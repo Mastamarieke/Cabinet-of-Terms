@@ -17,11 +17,11 @@ analysis_version: pending
 
 **The Appeal:** Smartphones require fine motor movements that the hand was not designed to perform for hours daily. The injuries are real, treatable, and widely experienced. Physiotherapists and hand surgeons have developed clear intervention protocols. The condition is manageable with reduced use and targeted exercise.
 
-**The Friction:** The word "sustained" is doing the work. **Text claw** is not caused by occasional phone use — it is caused by the hours of daily use that [[Predatory Design]] — design choices that maximise engagement and spending — systematically produces. [[Dopamine Feedback Loops]] — variable reward schedules that maintain engagement — are what keep the thumb moving long after the hand starts hurting. The injury is physical; the cause is architectural. [[Tech Neck]] shares the same logic in the cervical spine: the body pays for the platform's success.
+**The Friction:** The word "sustained" is doing the work. **Text claw** is not caused by occasional phone use — it is caused by the hours of daily use that [[Attention Harvesting]], design that turns attention into revenue, systematically produces. [[Dopamine Feedback Loops]] — variable reward schedules that maintain engagement — are what keep the thumb moving long after the hand starts hurting. The injury is physical; the cause is architectural. [[Tech Neck]] shares the same logic in the cervical spine: the body pays for the platform's success.
 
 **Why This Matters:** **Text claw** is the most literal evidence that platform design has physical consequences. The pain in your thumb is a design outcome. Not a side effect — a predictable result of systems engineered to maximise the time you spend using them.
 
-**Related terms:** [[Tech Neck]] · [[Nomophobia]] · [[Predatory Design]] · [[Dopamine Feedback Loops]] · [[Technostress]] · [[Digital Detox]]
+**Related terms:** [[Tech Neck]] · [[Nomophobia]] · [[Dopamine Feedback Loops]] · [[Technostress]] · [[Digital Detox]] · [[Attention Harvesting]] (design that turns attention into revenue)
 
 
 ---

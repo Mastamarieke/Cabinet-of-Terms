@@ -17,13 +17,13 @@ analysis_version: pending
 
 **The Appeal:** **Screen time** offers a measurable, actionable variable. Parents can track it. Devices can report it. Doctors can advise on it. The concept translates a complex set of concerns about technology and child development into a single number, making the conversation concrete.
 
-**The Friction:** The framing locates responsibility in the child and parent while excluding the platform. [[Predatory Design]] — interface design that exploits children's developmental vulnerabilities — is what makes **screen time** difficult to limit: the systems are engineered to resist disengagement. [[Dopamine Feedback Loops]] — variable reward schedules — are the psychological mechanism. The **screen time** framework asks "how do we limit the child's use?" rather than "why was the product designed to be this difficult to stop using?" Research by Andrew Przybylski and colleagues at the Oxford Internet Institute has consistently found that the relationship between **screen time** and wellbeing is more nuanced than the hours-based guidelines suggest — and that content and context matter more than duration.
+**The Friction:** The framing locates responsibility in the child and parent while excluding the platform. [[Attention Harvesting]], design that turns attention into revenue, is what makes **screen time** difficult to limit: the systems are engineered to resist disengagement. In games, [[Predatory Design]] puts a price on stopping: the streak you lose, the offer that disappears when the countdown ends. [[Dopamine Feedback Loops]] — variable reward schedules — are the psychological mechanism. The **screen time** framework asks "how do we limit the child's use?" rather than "why was the product designed to be this difficult to stop using?" Research by Andrew Przybylski and colleagues at the Oxford Internet Institute has consistently found that the relationship between **screen time** and wellbeing is more nuanced than the hours-based guidelines suggest — and that content and context matter more than duration.
 
 The Dutch government adopted the age version of the same framework in June 2025, as a guideline rather than a law: no social media under fifteen, and no smartphone of one's own before the last year of primary school. More than 1,400 doctors, scientists and other experts had asked for fourteen and sixteen. Because it is advice, the limits are for parents to enforce.
 
 **Why This Matters:** **Screen time** makes visible how a design problem gets reframed as a parenting problem. Once you see that move, the question shifts: whose responsibility is the irresistibility of the product?
 
-**Related terms:** [[Predatory Design]] · [[Dopamine Feedback Loops]] · [[Gaming Disorder]] · [[Brain Rot]] · [[Digital Detox]] · [[Calm Technology]] · [[Sharenting]]
+**Related terms:** [[Predatory Design]] · [[Dopamine Feedback Loops]] · [[Gaming Disorder]] · [[Brain Rot]] · [[Digital Detox]] · [[Calm Technology]] · [[Sharenting]] · [[Attention Harvesting]] (design that turns attention into revenue)
 
 
 ---

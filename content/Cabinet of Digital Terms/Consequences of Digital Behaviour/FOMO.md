@@ -23,7 +23,7 @@ analysis_version: pending
 
 **Why This Matters:** **FOMO** names the anxiety that notification systems are designed to produce and maintain. [[Mimetic Desire]] is the engine underneath: when desire is imitative, the fear of missing out is the fear of falling behind your model — of desiring the wrong things, too late. Once you see it as a designed mechanism rather than a personal weakness, "I keep checking my phone" becomes a different kind of observation.
 
-**Related terms:** [[Dopamine Feedback Loops]] · [[Comparison Culture]] · [[Doomscrolling]] · [[JOMO]] · [[Screen Time]] · [[Mimetic Desire]] · [[Recommender Systems]] · [[Digital Detox]]
+**Related terms:** [[Dopamine Feedback Loops]] · [[Comparison Culture]] · [[Doomscrolling]] · [[JOMO]] · [[Screen Time]] · [[Mimetic Desire]] · [[Recommender Systems]] · [[Digital Detox]] · [[Predatory Design]] (countdowns in game shops sell on the fear of missing out)
 
 
 ---

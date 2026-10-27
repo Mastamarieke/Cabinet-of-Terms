@@ -17,11 +17,11 @@ analysis_version: pending
 
 **The Appeal:** The phone demands attention in ways that are hard to ignore. [[Dopamine Feedback Loops]] — variable reward schedules built into notification systems — create a pull that operates below the threshold of deliberate choice. The message might be urgent. The notification might matter. The habit of checking is faster than the decision not to.
 
-**The Friction:** The cost lands on the person being phubbed. Roberts et al. documented that partner **phubbing** predicted lower relationship satisfaction even when controlling for general phone use — meaning it is the social context, not just phone volume, that matters. [[Predatory Design]] — design choices that maximise engagement — is the upstream cause: platforms are engineered to interrupt, and the interruption is designed to feel necessary. [[Smombie]] — walking while staring at a screen — is **phubbing** externalised to public space. [[Cognitive Surrender]] is the longer-term pattern: the capacity for sustained in-person attention atrophies with sustained device use.
+**The Friction:** The cost lands on the person being phubbed. Roberts et al. documented that partner **phubbing** predicted lower relationship satisfaction even when controlling for general phone use — meaning it is the social context, not just phone volume, that matters. [[Attention Harvesting]], design that turns attention into advertising revenue, is the upstream cause: platforms are engineered to interrupt, and the interruption is designed to feel necessary. [[Smombie]] — walking while staring at a screen — is **phubbing** externalised to public space. [[Cognitive Surrender]] is the longer-term pattern: the capacity for sustained in-person attention atrophies with sustained device use.
 
 **Why This Matters:** **Phubbing** makes visible what is lost when the phone is present. The person across from you registered the check. The relationship recorded it, even when neither person mentioned it.
 
-**Related terms:** [[Smombie]] · [[Dopamine Feedback Loops]] · [[Cognitive Surrender]] · [[Predatory Design]] · [[JOMO]] · [[Digital Detox]] · [[Phatic Interaction]] · [[Technostress]]
+**Related terms:** [[Smombie]] · [[Dopamine Feedback Loops]] · [[Cognitive Surrender]] · [[JOMO]] · [[Digital Detox]] · [[Phatic Interaction]] · [[Technostress]] · [[Attention Harvesting]] (design that turns attention into revenue)
 
 
 ---

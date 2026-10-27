@@ -17,11 +17,11 @@ analysis_version: pending
 
 **The Appeal:** From the catfisher's perspective, the false identity often represents an idealised self — more attractive, more interesting, more desirable than the person believes themselves to be. The relationship is real in the sense that real feelings are involved; only the identity is fabricated. From the target's perspective, the emotional connection is entirely genuine.
 
-**The Friction:** [[Predatory Design]] creates the conditions: platforms with minimal identity verification, asynchronous communication, and algorithmic amplification of emotional engagement. [[Parasocial Relationship]] — one-sided emotional bonds — is what **catfishing** systematically exploits and manufactures: the target develops a real attachment to a constructed character. [[Online Grooming]] shares structural features with **catfishing** when the deception involves minors. The harm is not only that the relationship was false — it is that the emotional labour was real, and the person who invested it receives no acknowledgement.
+**The Friction:** Platforms create the conditions: minimal identity verification, asynchronous communication, and algorithmic amplification of emotional engagement. [[Parasocial Relationship]] — one-sided emotional bonds — is what **catfishing** systematically exploits and manufactures: the target develops a real attachment to a constructed character. [[Online Grooming]] shares structural features with **catfishing** when the deception involves minors. The harm is not only that the relationship was false — it is that the emotional labour was real, and the person who invested it receives no acknowledgement.
 
 **Why This Matters:** **Catfishing** makes visible the gap between identity and persona on digital platforms — and the emotional cost of closing that gap badly.
 
-**Related terms:** [[Ghosting]] · [[Online Grooming]] · [[Parasocial Relationship]] · [[Predatory Design]] · [[AI Literacy]] · [[Phatic Interaction]]
+**Related terms:** [[Ghosting]] · [[Online Grooming]] · [[Parasocial Relationship]] · [[AI Literacy]] · [[Phatic Interaction]]
 
 
 ---
