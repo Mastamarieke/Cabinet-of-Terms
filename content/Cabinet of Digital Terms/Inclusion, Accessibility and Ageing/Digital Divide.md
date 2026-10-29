@@ -21,7 +21,7 @@ analysis_version: pending
 
 **Why This Matters:** **Digital divide** makes visible that access is necessary but not sufficient. Once you see the multiple layers — access, skills, meaningful use, benefit — the political aspiration of "getting everyone online" looks like the beginning of a much larger project.
 
-**Related terms:** [[Digital Exclusion]] · [[Ageism (Digital)]] · [[Digital Colonialism]] · [[Accessibility]] · [[Tech Abandonment]] · [[Privacy as a Premium]] · [[Inclusive Design]] · [[Universal Design]]
+**Related terms:** [[Digital Exclusion]] · [[Ageism (Digital)]] · [[Digital Colonialism]] · [[Accessibility]] · [[Tech Abandonment]] · [[Privacy as a Premium]] · [[Inclusive Design]] · [[Universal Design]] · [[Predatory Design]] (all online, but not all paying the same: those who earn less spend a larger share of their income on loot boxes)
 
 
 ---
