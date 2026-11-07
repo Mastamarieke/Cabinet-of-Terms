@@ -25,6 +25,7 @@ Run from the repo root: python3 scripts/check_orphans.py
 Exit code 0 = clean. Exit code 1 = something to look at.
 """
 import os
+import html
 import re
 import sys
 
@@ -138,7 +139,16 @@ def main():
         for _, cluster, _ in terms.values():
             per_cluster[cluster] = per_cluster.get(cluster, 0) + 1
         wrong = []
-        for cluster, stated in re.findall(r"<summary><strong>(.+?)</strong>\s*—\s*(\d+) terms</summary>", home):
+        # since 07-11-2026 the counts stand on the cluster cards (Browse by cluster): the name in
+        # <span class="nm">, the count in <span class="n">N terms</span> on the back of the card;
+        # the older form, a folded list per cluster, is still read
+        stated_counts = re.findall(r"<summary><strong>(.+?)</strong>\s*—\s*(\d+) terms</summary>", home)
+        for card in re.findall(r'<div class="face back">(.*?)</div>', home):
+            m_n = re.search(r'<span class="nm">(.+?)</span>', card)
+            m_c = re.search(r'<span class="n">(\d+) terms</span>', card)
+            if m_n and m_c:
+                stated_counts.append((html.unescape(m_n.group(1)), m_c.group(1)))
+        for cluster, stated in stated_counts:
             actual = per_cluster.get(cluster)
             if actual is not None and actual != int(stated):
                 wrong.append((cluster, stated, actual))

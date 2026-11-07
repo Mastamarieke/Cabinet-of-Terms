@@ -13,3 +13,51 @@ footer {
     margin-top: -1rem;
   }
 }
+
+// the logo is black and pink; the dark theme gets its own file with light letters
+footer .footer-project {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.2rem;
+  margin-bottom: 1.2rem;
+  color: var(--darkgray);
+  font-size: 0.9rem;
+  img {
+    display: block;
+    height: 32px;
+    width: auto;
+    margin: 0;
+  }
+}
+.project-logo img {
+  display: block;
+  height: 40px;
+  width: auto;
+  margin: 0.4rem 0 1rem;
+}
+// a link around a picture: no icon for a link out, no underline under it
+a.project-logo {
+  display: inline-block;
+  background: none !important;
+  border: 0 !important;
+  text-decoration: none !important;
+  .external-icon {
+    display: none !important;
+  }
+}
+// the general rule gives every link out a " ↗" (custom.scss); not this one
+article a.project-logo.external::after,
+a.project-logo.external::after {
+  content: none !important;
+}
+.logo-dark {
+  display: none !important;
+}
+:root[saved-theme="dark"] {
+  .logo-light {
+    display: none !important;
+  }
+  .logo-dark {
+    display: block !important;
+  }
+}

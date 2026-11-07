@@ -6,7 +6,8 @@ import { isWholeVaultPage } from "./quartz/components/VaultMap"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [],
+  // the red band with the name of the Cabinet and the title row (07-11-2026)
+  afterBody: [Component.Masthead()],
   footer: Component.Footer({
     links: {
       GitHub: "https://github.com/jackyzha0/quartz",
@@ -24,9 +25,9 @@ export const defaultContentPageLayout: PageLayout = {
     }),
     Component.ArticleTitle(),
     Component.ContentMeta(),
-    // Component.Ticker(),  // news line: still undecided (Marieke, 14-09 "niet meteen doen"). The
-    // component lives locally in quartz/components/Ticker.tsx and is deliberately not committed;
-    // switch it on by restoring this line, the import in components/index.ts, and the three files.
+    // the news band on the front page (14-09, switched on again 08-10 to be discussed); it
+    // renders only on the front page, but its script also opens #news- links on every entry
+    Component.Ticker(),
     Component.TagList(),
     Component.ConditionalRender({
       component: Component.Graph({ localGraph: { showTags: false }, globalGraph: { removeTags: ["source"] } }),
@@ -83,6 +84,7 @@ export const defaultListPageLayout: PageLayout = {
     Component.RelatedTerms(),
     Component.Citations(),
     Component.VaultMap({ showPanel: true }),
+    Component.Ticker(),
   ],
   left: [
     Component.PageTitle(),

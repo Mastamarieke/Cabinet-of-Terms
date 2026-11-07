@@ -17,7 +17,9 @@ import GraphStory from "./GraphStory"
 import VaultMap from "./VaultMap"
 import AttentionChart from "./AttentionChart"
 import Outward from "./Outward"
+import Ticker from "./Ticker"
 import Voice from "./Voice"
+import Masthead from "./Masthead"
 import RelatedTerms from "./RelatedTerms"
 import Citations from "./Citations"
 import EntryImage from "./EntryImage"
@@ -51,7 +53,9 @@ export {
   VaultMap,
   AttentionChart,
   Outward,
+  Ticker,
   Voice,
+  Masthead,
   RelatedTerms,
   Citations,
   EntryImage,

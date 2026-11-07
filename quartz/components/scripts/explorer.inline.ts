@@ -266,10 +266,15 @@ async function setupExplorer(currentSlug: FullSlug) {
     if (scrollTop) {
       explorerUl.scrollTop = parseInt(scrollTop)
     } else {
-      // try to scroll to the active element if it exists
+      // scroll only the explorer list to the active element, a third from the top.
+      // scrollIntoView also scrolled the whole page, so a reader arriving from a link
+      // started halfway down the entry instead of at its title
       const activeElement = explorerUl.querySelector(".active")
       if (activeElement) {
-        activeElement.scrollIntoView({ behavior: "smooth" })
+        explorerUl.scrollTop +=
+          activeElement.getBoundingClientRect().top -
+          explorerUl.getBoundingClientRect().top -
+          explorerUl.clientHeight / 3
       }
     }
 

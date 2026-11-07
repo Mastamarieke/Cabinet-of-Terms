@@ -12,3 +12,21 @@
     }
   }
 }
+
+.content-meta .stage {
+  color: var(--secondary);
+  font-weight: 600;
+  text-decoration: none;
+  &:hover {
+    text-decoration: underline;
+  }
+}
+// the reading time ends with a full stop, so no comma before the stage, a middle dot instead
+.content-meta[show-comma="true"] > *:has(+ .stage)::after {
+  content: "";
+}
+.content-meta .stage::before {
+  content: "· ";
+  color: var(--darkgray);
+  font-weight: 400;
+}

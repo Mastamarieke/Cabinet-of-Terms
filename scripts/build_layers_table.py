@@ -101,9 +101,9 @@ def grouped(rs):
 lines = [
     "| | entries | which |",
     "|---|---|---|",
-    f"| **Full method**: sources, landscape, curve, relations argued in the text | {len(full)} | {grouped(full)} |",
-    f"| **Earlier round**: some of the layers, before the current method | {len(earlier)} | {grouped(earlier)} |",
-    f"| **Not yet** | {rest_count} | " + " · ".join(f"[[{c}]]" for c in rest_clusters) + " |",
+    f"| **Third version**: argued and sourced | {len(full)} | {grouped(full)} |",
+    f"| **Second version**: mapped | {len(earlier)} | {grouped(earlier)} |",
+    f"| **First version**: written and placed | {rest_count} | " + " · ".join(f"[[{c}]]" for c in rest_clusters) + " |",
 ]
 table = "\n".join(lines)
 
@@ -119,7 +119,9 @@ else:
     text = text[: m.start(2)] + START + "\n" + table + "\n" + END + "\n" + text[m.end(2):]
 with open(INDEX, "w", encoding="utf-8") as f:
     f.write(text)
-print(f"table written: {len(full)} full method, {len(earlier)} earlier round, {rest_count} not yet")
+print(f"table written: {len(full)} third version, {len(earlier)} second version, {rest_count} first version")
+# group names renamed 07-11-2026 (Marieke): the stages of an entry are versions; same names as
+# the label above every entry (ContentMeta.tsx)
 
 # The list of clusters on the All Clusters page (13-10): its text said "The twenty clusters are
 # listed below" while Quartz shows no folder listing on a page with its own text, so nothing

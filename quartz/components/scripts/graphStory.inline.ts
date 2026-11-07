@@ -150,6 +150,10 @@ document.addEventListener("nav", () => {
         if (e.key !== "Enter" && e.key !== " ") return
         e.preventDefault()
       }
+      if (card.closest(".flipcards-detail")) {
+        openDetail(card)
+        return
+      }
       const on = card.classList.toggle("flipped")
       card.setAttribute("aria-pressed", String(on))
     }
@@ -159,6 +163,108 @@ document.addEventListener("nav", () => {
       card.removeEventListener("click", turn)
       card.removeEventListener("keydown", turn)
     })
+  }
+})
+
+
+// Homepage, "Drawings and images" (07-11-2026, option 1 of Marieke): the cards no longer turn,
+// because a long text on the back made every card in the row as tall as that text (tried and
+// reverted before). A click shows the picture large with its text beside it. The back of the
+// card itself is moved into the view and put back on closing, so its marks (▾) and links (the
+// orbit map) keep working.
+function openDetail(card: HTMLElement) {
+  const back = card.querySelector<HTMLElement>(".flip-back")
+  if (!back) return
+  const dark = document.documentElement.getAttribute("saved-theme") === "dark"
+  const shots = Array.from(card.querySelectorAll<HTMLImageElement>(".flip-front img.shot"))
+  const shot =
+    shots.find((i) => (dark ? i.classList.contains("shot-dark") : !i.classList.contains("shot-dark"))) ?? shots[0]
+  const layer = document.createElement("div")
+  layer.className = "img-zoom detail"
+  layer.setAttribute("role", "dialog")
+  layer.setAttribute("aria-label", card.querySelector(".flip-name")?.textContent ?? "Detail")
+  const box = document.createElement("div")
+  box.className = "detail-box"
+  if (shot) {
+    const img = document.createElement("img")
+    img.src = shot.currentSrc || shot.src
+    img.alt = shot.alt
+    box.appendChild(img)
+  }
+  const panel = document.createElement("div")
+  panel.className = "detail-text"
+  const spot = document.createComment("back")
+  back.replaceWith(spot)
+  panel.appendChild(back)
+  box.appendChild(panel)
+  const close = document.createElement("button")
+  close.type = "button"
+  close.className = "img-zoom-close"
+  close.setAttribute("aria-label", "Close")
+  close.textContent = "×"
+  layer.append(box, close)
+  const shut = () => {
+    spot.replaceWith(back)
+    layer.remove()
+    document.removeEventListener("keydown", onKey)
+    card.focus()
+  }
+  const onKey = (k: KeyboardEvent) => {
+    if (k.key === "Escape") shut()
+  }
+  layer.addEventListener("click", (c) => {
+    const t = c.target as HTMLElement
+    if (t === layer || t === close) shut()
+  })
+  document.addEventListener("keydown", onKey)
+  document.body.appendChild(layer)
+  close.focus()
+}
+
+// Homepage, the two early drawings (07-11-2026, Marieke: "dat je ze dan groter kan bekijken"):
+// "enlarge" shows the drawing as large as the window allows; close with ×, Escape or a click
+// beside it. The button sits on the front of the flip card; a button does not turn the card.
+document.addEventListener("nav", () => {
+  for (const btn of document.querySelectorAll<HTMLButtonElement>(".flip-zoom")) {
+    const open = (e: Event) => {
+      e.stopPropagation()
+      const owner = btn.closest<HTMLElement>(".flipcards-detail .flipcard")
+      if (owner) {
+        openDetail(owner)
+        return
+      }
+      const layer = document.createElement("div")
+      layer.className = "img-zoom"
+      layer.setAttribute("role", "dialog")
+      layer.setAttribute("aria-label", btn.dataset.alt ?? "Drawing")
+      const img = document.createElement("img")
+      // a screenshot with a light and a dark version shows the one of the current theme
+      const dark = document.documentElement.getAttribute("saved-theme") === "dark"
+      img.src = (dark && btn.dataset.imgDark) || btn.dataset.img || ""
+      img.alt = btn.dataset.alt ?? ""
+      const close = document.createElement("button")
+      close.type = "button"
+      close.className = "img-zoom-close"
+      close.setAttribute("aria-label", "Close")
+      close.textContent = "×"
+      layer.append(img, close)
+      const shut = () => {
+        layer.remove()
+        document.removeEventListener("keydown", onKey)
+        btn.focus()
+      }
+      const onKey = (k: KeyboardEvent) => {
+        if (k.key === "Escape") shut()
+      }
+      layer.addEventListener("click", (c) => {
+        if (c.target !== img) shut()
+      })
+      document.addEventListener("keydown", onKey)
+      document.body.appendChild(layer)
+      close.focus()
+    }
+    btn.addEventListener("click", open)
+    window.addCleanup(() => btn.removeEventListener("click", open))
   }
 })
 

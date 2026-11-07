@@ -5,7 +5,9 @@ import { classNames } from "../util/lang"
 import { i18n } from "../i18n"
 import { JSX } from "preact"
 import style from "./styles/contentMeta.scss"
-import { simplifySlug } from "../util/path"
+import { simplifySlug, resolveRelative, FullSlug } from "../util/path"
+import fs from "fs"
+import path from "path"
 
 // Crossroads (2026-10-10): an entry with many neighbours says so beside its reading time, so
 // a long text explains itself. Counted at build time from the same links as the graph (the
@@ -17,6 +19,38 @@ const isTermSlug = (id: string) =>
   id.split("/").filter(Boolean).length >= 3 &&
   !id.includes("/Sources/") &&
   !id.endsWith("/Sources")
+
+// Stage (2026-10-17, curator: "kunnen we niet bij elke term zeggen welke versie hij is?"): a
+// reader who lands on an entry from a search never sees the front page, so the entry says
+// itself how far it has been revised. Same rules as scripts/build_layers_table.py, which
+// builds the table "Where each entry stands" on the front page, so the two cannot drift:
+// a cluster in FULL_METHOD -> Third version; any layer (Sources folder, semantic landscape,
+// attention curve, Narrative Typography image) -> Second version; otherwise First version
+// (renamed 07-11-2026 from Full method / Earlier round / First form, the same names as the
+// table on the front page). Keep FULL_METHOD equal in both files.
+const FULL_METHOD = ["Privacy, Data and Control"]
+function stageOf(fileData: QuartzComponentProps["fileData"]): string | null {
+  const fp = fileData.filePath as string | undefined
+  if (!fp || !fileData.slug) return null
+  const parts = fp.split(/[\\/]/)
+  const v = parts.indexOf("Cabinet of Digital Terms")
+  if (v < 0 || parts.includes("Sources")) return null
+  const rest = parts.slice(v + 1)
+  const isFolder = rest[rest.length - 1] === "index.md"
+  if (rest.length < 2 || (isFolder && rest.length < 3)) return null // the vault page or a cluster's About page
+  if ((fileData.frontmatter?.tags as string[] | undefined)?.includes("source")) return null
+  if (FULL_METHOD.includes(rest[0])) return "Third version"
+  const fm = fileData.frontmatter ?? {}
+  const dir = path.dirname(fp)
+  const name = isFolder ? path.basename(dir) : path.basename(fp, ".md")
+  const curve = isFolder ? path.join(dir, "attention.json") : path.join(dir, `attention-${name}.json`)
+  const layered =
+    "semantic_landscape" in fm ||
+    "entry_image" in fm ||
+    (isFolder && fs.existsSync(path.join(dir, "Sources"))) ||
+    fs.existsSync(curve)
+  return layered ? "Second version" : "First version"
+}
 
 interface ContentMetaOptions {
   /**
@@ -80,6 +114,16 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
 
       const cross = crossroads(fileData, allFiles)
       if (cross) segments.push(cross)
+
+      const stage = stageOf(fileData)
+      if (stage) {
+        const href = resolveRelative(fileData.slug!, "index" as FullSlug) + "#where-each-entry-stands"
+        segments.push(
+          <a class="stage" href={href} title="How far this entry has been revised: see The versions on the front page">
+            {stage}
+          </a>,
+        )
+      }
 
       return (
         <p show-comma={options.showComma} class={classNames(displayClass, "content-meta")}>

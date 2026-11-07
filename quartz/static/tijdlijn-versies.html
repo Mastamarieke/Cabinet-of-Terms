@@ -1,0 +1,187 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Lab notes timeline</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible+Next:ital,wght@0,400;0,600;0,700;1,400&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#faf8f8; --ink:#2b2b2b; --soft:#4e4e4e; --line:#e5e5e5; --muted:#b8b8b8; --panel:#faf8f8; --card:#ffffff;
+  --red:#E50056; --v0:#b8b8b8;
+  /* HAN red in three steps: the first version lightest */
+  --v1:#F4A3C2; --v2:#EC5590; --v3:#E50056;
+  --t1:#FDECF2; --t2:#FAD3E2; --t3:#F7B8D0;   /* cell fills */
+  --o1:#2b2b2b; --o2:#2b2b2b; --o3:#2b2b2b;   /* text on the fills */
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --bg:#161618; --ink:#ebebec; --soft:#c9c9cc; --line:#393639; --muted:#646464; --panel:#161618; --card:#1f1f22;
+    --red:#ff4d8b; --v0:#646464; --v1:#8a3a5a; --v2:#c2416f; --v3:#ff4d8b;
+    --t1:#2a1820; --t2:#3d1a2a; --t3:#561c36; --o1:#ebebec; --o2:#ebebec; --o3:#ffffff;
+  }
+}
+:root[data-theme="dark"]{
+  --bg:#161618; --ink:#ebebec; --soft:#c9c9cc; --line:#393639; --muted:#646464; --panel:#161618; --card:#1f1f22;
+  --red:#ff4d8b; --v0:#646464; --v1:#8a3a5a; --v2:#c2416f; --v3:#ff4d8b;
+  --t1:#2a1820; --t2:#3d1a2a; --t3:#561c36; --o1:#ebebec; --o2:#ebebec; --o3:#ffffff;
+}
+*{box-sizing:border-box}
+body{margin:0;background:transparent;color:var(--ink);font-family:"Atkinson Hyperlegible Next",system-ui,sans-serif;line-height:1.6}
+main{max-width:none;margin:0;padding:0}
+h1{font-size:2rem;margin:0 0 4px}
+.lead{color:var(--soft);margin:0 0 22px}
+
+/* the panel, like the semantic landscape bar */
+.panel{border:1px solid var(--line);border-radius:8px;overflow:hidden;background:var(--panel)}
+.tabs{display:grid;grid-template-columns:repeat(3,1fr);border-bottom:1px solid var(--line)}
+.tabs button{font:inherit;cursor:pointer;border:0;background:var(--card);color:var(--soft);padding:10px 6px 8px;text-align:center;line-height:1.25;border-bottom:3px solid transparent;transition:color .2s,border-color .2s,background .2s}
+.tabs button + button{border-left:1px solid var(--line)}
+.tabs button b{display:block;font-weight:700}
+.tabs button small{font-size:.78rem}
+.tabs button{background:var(--t);color:var(--o)}
+.tabs button:hover,.tabs button:focus-visible{outline:none;filter:brightness(.96)}
+.tabs button[aria-current="true"]{border-bottom-color:var(--c);box-shadow:inset 0 0 0 2px var(--c)}
+.tabs .t1{--c:var(--v1);--t:var(--t1);--o:var(--o1)} .tabs .t2{--c:var(--v2);--t:var(--t2);--o:var(--o2)} .tabs .t3{--c:var(--v3);--t:var(--t3);--o:var(--o3)}
+.tl li.v1 .part{background:var(--t1)} .tl li.v2 .part{background:var(--t2)} .tl li.v3 .part{background:var(--t3)}
+
+.scroll{max-height:440px;overflow-y:auto;padding:14px 16px 18px;scroll-behavior:smooth;position:relative}
+@media (prefers-reduced-motion:reduce){.scroll{scroll-behavior:auto}*{transition:none!important}}
+
+/* timeline inside the panel */
+.tl{list-style:none;margin:0;padding:0 0 0 22px;position:relative}
+.tl::before{content:"";position:absolute;left:6px;top:4px;bottom:4px;width:2px;background:var(--line)}
+.tl li{position:relative;margin:0 0 8px}
+.tl li::before{content:"";position:absolute;left:-21px;top:.55em;width:10px;height:10px;border-radius:50%;background:var(--panel);border:2px solid var(--c,var(--muted))}
+.v0{--c:var(--v0)} .v1{--c:var(--v1)} .v2{--c:var(--v2)} .v3{--c:var(--v3)}
+
+/* a version heading */
+.tl li.version{margin:18px 0 8px;scroll-margin-top:70px}
+.tl li.version::before{width:16px;height:16px;left:-24px;top:.35em;background:var(--c);border-color:var(--c)}
+.version h2{font-size:1.15rem;margin:0;color:var(--ink)}
+.version h2 span{color:var(--c);font-size:.78rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase;margin-right:8px}
+.version .when{font-size:.88rem;color:var(--soft)}
+
+/* a part that came with the version */
+.part{background:var(--card);border:1px solid var(--line);border-left:3px solid var(--c);border-radius:6px;padding:4px 10px}
+.part b{font-weight:700}
+.part .d{color:var(--soft)}
+
+/* a moment in time */
+.moment .date{font-size:.8rem;font-weight:700;color:var(--soft);display:block}
+.moment details summary{cursor:pointer;list-style:none;font-weight:600}
+.moment details summary::-webkit-details-marker{display:none}
+.moment details summary::after{content:" ▾";color:var(--c)}
+.moment details[open] summary::after{content:" ▴"}
+.moment details p{margin:2px 0 6px;color:var(--soft)}
+.pics{display:flex;gap:8px;flex-wrap:wrap;margin:4px 0 8px}
+.pics img{flex:1 1 200px;min-width:0;max-width:100%;height:auto;max-height:260px;object-fit:contain;background:#fff;border:1px solid var(--line);border-radius:6px}
+
+.shot{display:inline-block;margin:8px 0 2px;text-decoration:none;color:var(--soft);font-size:.82rem;width:240px;max-width:100%}
+.shot img{display:block;width:100%;height:170px;object-fit:cover;object-position:top;border:1px solid var(--line);border-radius:6px}
+.shot span{display:inline-block;margin-top:3px}
+.shot:hover span,.tl a:hover{color:var(--red)}
+.tl a{color:inherit}
+.planned::before{border-style:dashed!important}
+.planned .date{font-style:italic}
+.note{margin-top:16px;font-size:.85rem;color:var(--soft)}
+@media (max-width:480px){ .tabs button small{display:none} .scroll{max-height:70vh} }
+</style>
+</head>
+<body>
+<main>
+
+
+<div class="panel">
+  <div class="tabs" role="tablist" aria-label="Jump to a version">
+    <button class="t1" data-go="v1" aria-current="false"><b>First version</b><small>written and placed · 223</small></button>
+    <button class="t2" data-go="v2" aria-current="false"><b>Second version</b><small>mapped · 28</small></button>
+    <button class="t3" data-go="v3" aria-current="false"><b>Third version</b><small>argued and sourced · 10</small></button>
+  </div>
+
+  <div class="scroll" id="scroll" tabindex="0" aria-label="Timeline of the versions">
+  <ol class="tl">
+
+    <li class="moment v0"><span class="date">2017–2018</span>
+      <details><summary>Word clouds by hand</summary>
+      <p>Handwritten word clouds of terms: Rabbit Holes, and Self Esteem with Nomophobia, Quantified Self, Snapchat Dysmorphia, Hikikomori and Tinderella Syndrome around it.</p>
+      <div class="pics"><img src="https://digitale-alertheid.nl/wp/wp-content/uploads/2026/07/Screenshot-2026-07-26-at-17.27.07-922x1024.png" alt="Rabbit Holes, a handwritten word cloud" loading="lazy"><img src="https://digitale-alertheid.nl/wp/wp-content/uploads/2026/05/Self-Esteem-2-1024x724.jpg" alt="A handwritten word cloud around Self Esteem" loading="lazy"></div></details></li>
+
+    <li class="moment v0"><span class="date">2023</span>
+      <details><summary>Objects of Interest</summary>
+      <p>The first visual concept: the clusters as storage jars, fourteen in two rows. A cabinet keeps what would otherwise be lost.</p>
+      <div class="pics"><img src="https://digitale-alertheid.nl/wp/wp-content/uploads/2026/05/Screenshot-2026-05-30-at-17.36.41-1024x682.png" alt="Objects of Interest: fourteen drawn storage jars" loading="lazy"></div></details></li>
+
+    <li class="moment v0"><span class="date">27 Apr 2026</span>
+      <details><summary>Notes in Obsidian</summary><p>The first terms are written as notes in Obsidian, under a Dutch name: <i>Kabinet van Digitale Termen</i>. Obsidian is a notes app that works with Markdown files: plain text files on your own computer, linked to each other.</p></details></li>
+
+    <li class="moment v0"><span class="date">29 Apr 2026</span>
+      <details><summary>Online with Quartz</summary><p>The notes go into a GitHub repository and appear as a website. Quartz is the tool that turns the Markdown files into web pages.</p></details></li>
+
+    <!-- FIRST VERSION -->
+    <li class="version v1" id="v1"><h2><span>First version</span>Written and placed</h2><div class="when">Published 26 May 2026 · now 223 entries</div></li>
+    <li class="v1"><div class="part"><b>The term</b> <span class="d">proposed by the curator</span></div></li>
+    <li class="v1"><div class="part"><b>Opening line and definition</b> <span class="d">a situation you recognise, and one sentence that says what it is</span></div></li>
+    <li class="v1"><div class="part"><b>Five parts</b> <span class="d">Literal meaning, Origin, The Appeal, The Friction, Why This Matters</span></div></li>
+    <li class="v1"><div class="part"><b>A place in a cluster</b> <span class="d">and links to neighbouring terms</span></div></li>
+    <li class="v1"><div class="part"><b>A graph</b> <span class="d">the network of links, drawn as in Obsidian: a cloud of dots that find their own place</span><div class="pics"><img src="tijdlijn-beeld/graph-oud-phubbing.png" alt="Phubbing in the first version: its graph, coloured dots joined by thin lines, without names" loading="lazy" style="max-height:260px"></div></div></li>
+    <li class="v1"><div class="part"><b>Sources</b> <span class="d">listed under the entry; links and DOIs checked, but not all sources read</span></div></li>
+
+    <!-- SECOND VERSION -->
+    <li class="version v2" id="v2"><h2><span>Second version</span>Mapped</h2><div class="when">From 5–6 July 2026 · now 28 entries</div></li>
+        <li class="v2"><div class="part"><b>Sources in the graph</b> <span class="d">with switches to show or hide the sources, the cluster and the backlinks</span></div></li>
+    <li class="v2"><div class="part"><b>Semantic landscape</b> <span class="d">the graph told as a story, in a bar under the graph</span></div></li>
+    <li class="v2"><div class="part"><b>Sources pages</b> <span class="d">in some entries: primary and secondary</span></div></li>
+    <li class="v2"><div class="part"><b>Narrative Typography</b> <span class="d">in four entries, the term drawn as an image by a designer, as in Tradwife</span></div></li>
+    <li class="moment v2"><span class="date">31 Jul 2026</span><details><summary>The method in writing</summary><p>The essay <a href="https://digitale-alertheid.nl/beyond-karpathys-llm-wiki-cartographic-prompting-as-curatorial-practice/" target="_blank" rel="noopener">Cartographic Prompting: Curatorial Practice Alongside Karpathy’s LLM Wiki ↗</a> is published on digitale-alertheid.nl.</p></details></li>
+    <li class="moment v2"><span class="date">10 Sep 2026</span><details><summary>The graph turns radial</summary><p>For every entry, in every version: the semantic field. The term in the centre, its neighbours on a ring, grouped by cluster, instead of the cloud of dots from Obsidian. Example: <a href="https://mastamarieke.github.io/Cabinet-of-Terms/Cabinet-of-Digital-Terms/Gender--and--Identity/Tradwife/" target="_blank" rel="noopener">Tradwife ↗</a>, with the cluster switched on.</p><div class="pics"><img src="tijdlijn-beeld/graph-radial-tradwife.png" alt="The radial graph of Tradwife" loading="lazy"></div></details></li>
+    <li class="moment v2"><span class="date">15 Sep 2026</span><details><summary>The attention curve</summary><p>When did a word draw attention? A panel under the landscape, first on <a href="https://mastamarieke.github.io/Cabinet-of-Terms/Cabinet-of-Digital-Terms/Gender--and--Identity/Tradwife/" target="_blank" rel="noopener">Tradwife ↗</a>, with each peak traced to its cause.</p><div class="pics"><img src="tijdlijn-beeld/curve-tradwife.png" alt="The attention curve of Tradwife, enlarged" loading="lazy"></div></details></li>
+    <li class="moment v2"><span class="date">7 Oct 2026</span><details><summary>Gender &amp; Identity rewritten</summary><p>Every term in <a href="https://mastamarieke.github.io/Cabinet-of-Terms/Cabinet-of-Digital-Terms/Gender--and--Identity/" target="_blank" rel="noopener">Gender &amp; Identity ↗</a> rewritten on the research literature, with sources and a semantic landscape.</p></details></li>
+
+    <!-- THIRD VERSION -->
+    <li class="version v3" id="v3"><h2><span>Third version</span>Argued and sourced</h2><div class="when">From 10–13 October 2026, starting with <a href="https://mastamarieke.github.io/Cabinet-of-Terms/Cabinet-of-Digital-Terms/Privacy,-Data-and-Control/" target="_blank" rel="noopener">Privacy, Data and Control</a> · now 10 entries</div></li>
+    <li class="v3"><div class="part"><b>The question behind the play</b> <span class="d">the opening line ends in a question; The Friction answers it</span></div></li>
+    <li class="v3"><div class="part"><b>You on stage</b> <span class="d">the opening line makes you an imagined actor in the situation</span></div></li>
+    <li class="v3"><div class="part"><b>Every part its own question</b> <span class="d">where you feel it, what the word says, what drives it, where it chafes, what you take with you</span></div></li>
+    <li class="v3"><div class="part"><b>Relations argued</b> <span class="d">neighbouring terms in the text, and a reason for every related term</span></div></li>
+    <li class="v3"><div class="part"><b>Sources read first</b> <span class="d">primary research and secondary background, each on its own page</span></div></li>
+    <li class="v3"><div class="part"><b>Marks in the text</b> <span class="d">* opens a source, ▾ explains a name, ↘ leads to an original</span></div></li>
+    <li class="v3"><div class="part"><b>Attention curve</b> <span class="d">when the word drew attention, and why</span></div></li>
+    <li class="v3"><div class="part"><b>The orbit map</b> <span class="d">every revision checks where the term reaches you and where it is decided</span></div></li>
+    <li class="v3"><div class="part"><b>Cases from the game</b> <span class="d">cards and entries feed each other</span></div></li>
+    <li class="v3"><div class="part"><b>Breaking the fourth wall</b> <span class="d">Why This Matters turns to you: what it does, what you can do, and what you take with you</span></div></li>
+  </ol>
+  </div>
+</div>
+
+
+</main>
+<script>
+(function(){
+  var box=document.getElementById('scroll');
+  var tabs=[].slice.call(document.querySelectorAll('.tabs button'));
+  var heads=['v1','v2','v3'].map(function(id){return document.getElementById(id);});
+  function posOf(h){return h.getBoundingClientRect().top-box.getBoundingClientRect().top+box.scrollTop;}
+  function mark(id){tabs.forEach(function(t){t.setAttribute('aria-current',String(t.dataset.go===id));});}
+  tabs.forEach(function(t){
+    t.addEventListener('click',function(){
+      var h=document.getElementById(t.dataset.go);
+      // two lines of the version before stay in view above the heading
+      var top=posOf(h)-Math.round(box.clientHeight*0.18);
+      box.scrollTo({top:Math.max(0,top)});
+      mark(t.dataset.go);
+    });
+  });
+  // while scrolling, the tab of the version in view lights up
+  function onScroll(){
+    var y=box.scrollTop+box.clientHeight*0.35, cur=null;
+    heads.forEach(function(h){ if(posOf(h)<=y) cur=h.id; });
+    mark(cur);
+  }
+  box.addEventListener('scroll',onScroll,{passive:true});
+  onScroll();
+})();
+</script>
+</body>
+</html>

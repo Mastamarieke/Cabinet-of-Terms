@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Project Digitale Alertheid</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible+Next:ital,wght@0,400;0,600;0,700;1,400&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#faf8f8;--card:#fff;--ink:#2b2b2b;--soft:#4e4e4e;--line:#e5e5e5;--red:#E50056;--tint:#FDECF2}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#161618;--card:#1f1f22;--ink:#ebebec;--soft:#c9c9cc;--line:#393639;--red:#ff4d8b;--tint:#2a1820}}
+:root[data-theme="dark"]{--bg:#161618;--card:#1f1f22;--ink:#ebebec;--soft:#c9c9cc;--line:#393639;--red:#ff4d8b;--tint:#2a1820}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:"Atkinson Hyperlegible Next",system-ui,sans-serif;line-height:1.55}
+main{max-width:1000px;margin:0 auto;padding:36px 16px 56px}
+.logo img{height:40px;width:auto}
+.logo .dark{display:none}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]) .logo .light{display:none}:root:not([data-theme="light"]) .logo .dark{display:inline}}
+h1{font-size:1.9rem;margin:14px 0 6px;color:var(--red)}
+.intro{max-width:760px;color:var(--soft);margin:0}
+h2{font-size:.82rem;letter-spacing:.08em;text-transform:uppercase;color:var(--red);margin:34px 0 12px;border-bottom:1px solid var(--line);padding-bottom:6px}
+p{max-width:760px}
+a{color:var(--red)}
+.flow{display:grid;grid-template-columns:repeat(auto-fit,minmax(170px,1fr));gap:10px;margin:6px 0}
+.flow div{background:var(--card);border:1px solid var(--line);border-top:4px solid var(--red);border-radius:10px;padding:10px 12px}
+.flow b{display:block}
+.flow span{font-size:.88rem;color:var(--soft)}
+.routes{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:10px}
+.routes div{background:var(--tint);border-radius:10px;padding:10px 12px}
+.routes div.new{background:var(--red);color:#fff}
+.routes b{display:block}
+.routes span{font-size:.9rem}
+blockquote{margin:16px 0;padding:4px 0 4px 16px;border-left:4px solid var(--red);font-style:italic;max-width:760px}
+blockquote cite{display:block;font-style:normal;font-size:.85rem;color:var(--soft);margin-top:4px}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:12px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:12px 14px;display:flex;flex-direction:column;gap:4px}
+.card.here{border-color:var(--red);box-shadow:inset 4px 0 0 var(--red)}
+.card a{font-weight:700;text-decoration:none}
+.card a:hover{text-decoration:underline}
+.card .what{font-size:.82rem;color:var(--soft)}
+.card .line{margin:0;font-size:.92rem}
+details{max-width:760px;margin-top:8px;font-size:.9rem;color:var(--soft)}
+summary{cursor:pointer;color:var(--red);font-weight:600}
+.contact{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:14px 16px;max-width:760px}
+.eco-note{font-size:.9rem;color:var(--soft);margin:10px 0 0}
+a.tile{text-decoration:none;color:var(--ink);padding:0;overflow:hidden;gap:0}
+a.tile img{display:block;width:100%;aspect-ratio:4/3;object-fit:cover;background:var(--tint)}
+a.tile .nm{font-weight:700;color:var(--red);padding:10px 14px 0}
+a.tile .what{padding:2px 14px 0}
+a.tile .line{font-size:.92rem;padding:4px 14px 14px}
+a.tile:hover .nm{text-decoration:underline}
+a.tile.here{box-shadow:0 0 0 2px var(--red)}
+</style></head>
+<body><main>
+
+<a class="logo" href="https://digitale-alertheid.nl/" target="_blank" rel="noopener"><img class="light" src="d-alert-logo.svg" alt="D.Alert, Project Digitale Alertheid"><img class="dark" src="d-alert-logo-dark.svg" alt=""></a>
+<p class="intro" style="margin-top:6px">D.Alert is Dr. Alert, the project's alter ego, who investigates how technology influences our attention and choices.</p>
+<h1>Project Digitale Alertheid</h1>
+<p class="intro">The Cabinet is one of the project's <b>Conversation Pieces</b>: artefacts that let people feel a form of digital manipulation before it is named, so that they recognise it in the moment and start talking about it.</p>
+
+<h2>The ecosystem of the Cabinet</h2>
+<div class="flow">
+<div><b>Cabinet of Digital Terms</b><span>names the terms</span></div>
+<div><b>Narrative Typography</b><span>gives them a visual form</span></div>
+<div><b>Term Seeker</b><span>words to reach for, in physical space</span></div>
+<div><b>Doctor Alert coat</b><span>words worn on the body</span></div>
+</div>
+<p class="eco-note">Narrative Typography's illustrations also appear in the Cabinet and on the rings of the Wheel of Dark Patterns.</p>
+
+<h2>Why the Conversation Pieces</h2>
+<blockquote>"Knowing that platforms manipulate is one thing. Feeling it in the moment is another, and acting deliberately requires both."<cite>Staging Digital Friction</cite></blockquote>
+<p>Each piece is also a knowledge product: research shapes the artefact, and what people say when they meet it goes back into the research.</p>
+<blockquote>"By making the crossing from knowing to feeling playable, it brings research on dark patterns into everyday experience."<cite>Staging Digital Friction, a paper by Marieke de Vogel, Wouter Sluis-Thiescheffer and Jasper Jeurens (HAN University of Applied Sciences, Media Design Research Group, 2026) on the Conversation Pieces, with a pilot of the Soulmeter among players aged 14 to 66.</cite></blockquote>
+
+<h2>The Conversation Pieces</h2>
+<div class="grid">
+<a class="card tile" href="https://digitale-alertheid.nl/the-soulmeter-how-much-of-your-soul-have-you-sold-to-the-internet/" target="_blank" rel="noopener"><img src="project/IMG_3847-768x1024.jpeg" alt="" loading="lazy"><span class="nm">Soulmeter</span><span class="what">Installation · teenagers and adults</span><span class="line">A quiz board beside a life-size smartphone, where every wrong answer costs part of your soul. How much of your soul have you sold to the internet?</span></a>
+<a class="card tile" href="https://digitale-alertheid.nl/the-wheel-of-dark-patterns-spin-match-recognise/" target="_blank" rel="noopener"><img src="project/Screenshot-2026-06-03-at-13.04.51-768x410.png" alt="" loading="lazy"><span class="nm">Wheel of Dark Patterns</span><span class="what">Physical and digital wheel · general public</span><span class="line">The dark patterns in three rings. Spin, match, recognise the manipulation.</span></a>
+<a class="card here tile" href="https://digitale-alertheid.nl/cabinet-of-digital-terms-a-map-of-the-digital-world-in-267-terms/" target="_blank" rel="noopener"><img src="project/cabinet-tile.png" alt="" loading="lazy"><span class="nm">Cabinet of Digital Terms</span><span class="what">Web-based knowledge bank · adults</span><span class="line">A network of terms to click, search and follow. You are here.</span></a>
+<a class="card tile" href="https://digitale-alertheid.nl/narrative-typography-the-metaphoric-visualisation-of-terms/" target="_blank" rel="noopener"><img src="project/Narrative-Typography-9-juni-2024-19.19-768x544.png" alt="" loading="lazy"><span class="nm">Narrative Typography</span><span class="what">Illustrated two-sided cards · across the collection</span><span class="line">The image first, the definition on the back. The form of a word reveals its meaning before you read it.</span></a>
+<a class="card tile" href="https://digitale-alertheid.nl/the-term-seeker-reaching-for-language-in-a-digital-world/" target="_blank" rel="noopener"><img src="project/term-seeker-slide-termen-schoon-web-e1781332891447-768x398.webp" alt="" loading="lazy"><span class="nm">Term Seeker</span><span class="what">Interactive installation · general public</span><span class="line">Digital terms drift past, and you reach out with your hand to catch one. Reach for a term, receive a provocation.</span></a>
+<a class="card tile" href="https://digitale-alertheid.nl/doctor-alert-the-digital-banner-coat/" target="_blank" rel="noopener"><img src="project/Screenshot-2026-05-19-at-10.31.15-768x546.png" alt="" loading="lazy"><span class="nm">Doctor Alert: The Digital Banner Coat</span><span class="what">Wearable · general public</span><span class="line">A lab coat printed with digital terms, with a pulsing light. The body as message.</span></a>
+<a class="card tile" href="https://digitale-alertheid.nl/rad-van-rollen-playing-your-way-to-digital-awareness/" target="_blank" rel="noopener"><img src="project/PRJCT_S4_Render_Rad-van-de-Rollen-Large-768x576.jpeg" alt="" loading="lazy"><span class="nm">Rad van Rollen</span><span class="what">Role-play game · children, Grade 7</span><span class="line">A rotating wheel and 3D characters, in which children speak for big tech. Dark patterns translated into a language children can debate.</span></a>
+<a class="card tile" href="https://digitale-alertheid.nl/mind-trick-machine-from-dark-patterns-to-dark-encounters/" target="_blank" rel="noopener"><img src="project/Screenshot-2026-06-03-at-09.46.29-768x675.png" alt="" loading="lazy"><span class="nm">Mind Trick Machine</span><span class="what">Workshop · adults</span><span class="line">Brain cards and cards on current topics. Nine metaphorical brains, from dark patterns to dark encounters.</span></a>
+<a class="card tile" href="https://digitale-alertheid.nl/the-non-fluencer-seeing-the-unseen-in-an-age-of-algorithms/" target="_blank" rel="noopener"><img src="project/IMG_20191229_112133540-768x1024.webp" alt="" loading="lazy"><span class="nm">The Non Fluencer</span><span class="what">Large prints · general public</span><span class="line">Placed in non-places, where people pass through without stopping. Refusing the logic of the algorithm.</span></a></div>
+
+<h2>Get in touch</h2>
+<p class="contact">Interested in the research, in using the Cabinet in teaching, or in contributing? Write to <a href="mailto:info@digitale-alertheid.nl">info@digitale-alertheid.nl</a>, or visit <a href="https://digitale-alertheid.nl/" target="_blank" rel="noopener">digitale-alertheid.nl</a>.</p>
+
+</main></body></html>

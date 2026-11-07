@@ -8,7 +8,12 @@ const PageTitle: QuartzComponent = ({ fileData, cfg, displayClass }: QuartzCompo
   const baseDir = pathToRoot(fileData.slug!)
   return (
     <h2 class={classNames(displayClass, "page-title")}>
-      <a href={baseDir}>{title}</a>
+      {/* desktop: the column heading "Navigation"; the name of the Cabinet is in the masthead
+          (07-11-2026). The phone keeps the name here, in its top bar */}
+      <a class="pt-site" href={baseDir}>
+        {title}
+      </a>
+      <span class="pt-nav">Navigation</span>
     </h2>
   )
 }

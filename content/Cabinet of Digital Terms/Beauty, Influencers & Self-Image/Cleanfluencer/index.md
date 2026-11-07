@@ -20,7 +20,7 @@ semantic_landscape: |
   At the end there are people: the women who film their cupboards and earn from them, the viewers who learned from them how to clean, and the man who, in the words of two sociologists, very rarely appears with a mop in his hand.
 ---
 
-***You know her pantry better than your own, and watching her refill it made you calm. What did that calm cost you, and who gained from it?***
+***You watched her clean and felt calm. She was paid for it. How much were you paid?***
 
 **Literal meaning:** *Cleanfluencer* is a blend of *clean*, free of dirt and in order, and *influencer* ([Wiktionary](https://en.wiktionary.org/wiki/cleanfluencer "Read the Wiktionary entry for cleanfluencer.")). An [[Influencer|influencer]] is someone whose followers buy what she uses. Put together, a **[[Cleanfluencer|cleanfluencer]]** cleans, tidies and refills her home on camera, and persuades her audience to buy the products in view. What emerges sits in neither word: housework, the work that was always done out of sight and without pay, becomes something to watch and something to earn from.
 

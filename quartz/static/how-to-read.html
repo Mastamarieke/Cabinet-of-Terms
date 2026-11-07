@@ -1,0 +1,156 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>How to read an entry</title>
+<link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible+Next:ital,wght@0,400;0,600;0,700;1,400&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#faf8f8;--ink:#2b2b2b;--soft:#6a6a6a;--line:#e7e3e4;--card:#fff;--red:#E50056}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#161618;--ink:#ebebec;--soft:#a9a9ad;--line:#333034;--card:#1f1f22;--red:#ff4d8b}}
+:root[data-theme="dark"]{--bg:#161618;--ink:#ebebec;--soft:#a9a9ad;--line:#333034;--card:#1f1f22;--red:#ff4d8b}
+*{box-sizing:border-box}
+html,body{height:100%}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:"Atkinson Hyperlegible Next",system-ui,sans-serif;line-height:1.45;display:flex;flex-direction:column}
+header{display:flex;flex-wrap:wrap;align-items:baseline;gap:4px 20px;padding:14px 24px 12px;border-bottom:1px solid var(--line)}
+h1{color:var(--red);font-size:1.25rem;margin:0;letter-spacing:-.01em}
+.lead{margin:0;color:var(--soft);font-size:.88rem;flex:1 1 360px}
+.key{display:flex;gap:14px;font-size:.72rem;font-weight:700;letter-spacing:.04em;color:var(--soft)}
+.key span::before{content:"";display:inline-block;width:9px;height:9px;border-radius:50%;background:var(--c);margin-right:5px;vertical-align:0}
+.wrap{flex:1;display:grid;grid-template-columns:minmax(0,1fr) 260px;min-height:0}
+iframe{width:100%;height:100%;border:0;background:var(--bg)}
+aside{overflow:auto;border-left:1px solid var(--line);padding:12px 0 20px}
+aside h2{font-size:.66rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--soft);margin:14px 18px 4px}
+aside h2:first-child{margin-top:2px}
+ol{list-style:none;margin:0;padding:0}
+ol button{all:unset;box-sizing:border-box;cursor:pointer;display:flex;gap:10px;align-items:center;width:100%;padding:5px 18px;font-size:.86rem;border-left:3px solid transparent}
+ol button:hover{background:color-mix(in srgb,var(--c) 10%,transparent)}
+ol li.on button{border-left-color:var(--c);background:color-mix(in srgb,var(--c) 14%,transparent)}
+.num{flex:none;width:18px;height:18px;border-radius:50%;background:var(--c);color:var(--f);display:inline-flex;align-items:center;justify-content:center;font-weight:700;font-size:.62rem}
+.nm{flex:1}
+.ver{font-size:.6rem;font-weight:700;letter-spacing:.05em;color:var(--soft)}
+@media (max-width:760px){.wrap{grid-template-columns:1fr;grid-template-rows:1fr auto}aside{border-left:0;border-top:1px solid var(--line);max-height:34vh}}
+</style>
+</head>
+<body>
+<header>
+  <h1>How to read an entry</h1>
+  <p class="lead">Security Theater, in its third version. Point at a numbered label to see what that part does; the fold-outs are already open.</p>
+  <div class="key"><span style="--c:#F4A3C2">V1 first version</span><span style="--c:#EC5590">V2 second version</span><span style="--c:#E50056">V3 third version</span></div>
+</header>
+<div class="wrap">
+  <iframe id="entry" aria-label="The entry Security Theater, with labels" src="../Cabinet-of-Digital-Terms/Privacy,-Data-and-Control/Security-Theater/"></iframe>
+  <aside id="list"></aside>
+</div>
+<script>
+(function(){
+  var V={1:['V1','#F4A3C2','#2b2b2b'],2:['V2','#EC5590','#ffffff'],3:['V3','#E50056','#ffffff']};
+  // each part: name, version, what it does, and how to find it in the entry
+  var P=[
+    ['Path',1,'Where you are: the Cabinet, the cluster, the term. Each step is a link.',function(d){return d.querySelector('.breadcrumb-container')}],
+    ['Title and version',3,'Under the title: the date, the reading time and the version of the entry.',function(d){return d.querySelector('.content-meta')||d.querySelector('h1')}],
+    ['Semantic field',1,'The graph of the term: its neighbours on a ring, grouped by cluster. In every entry; radial since September 2026.',function(d){return d.querySelector('.graph')}],
+    ['Three switches',2,'Show or hide the sources, the other terms in the cluster, and the entries that link here without being linked back.',function(d){return d.querySelector('.graph-toggles')}],
+    ['Enlarge, with the legend',3,'The magnifier opens the graph large, with its legend: an arrow shows which way a link runs; a thick line means both texts discuss the relation, a plain line one text, a dashed line only Related terms.',function(d){return d.querySelector('.expand-graph-icon')}],
+    ['Semantic landscape',2,'The graph told as a story. Every term named in it links to its entry.',function(d){return d.querySelector('details.graph-story')}],
+    ['Attention curve',3,'When the word drew attention: Wikipedia, Google searches and research, with the cause of each peak.',function(d){return d.querySelector('details.attention')}],
+    ['Opening line',3,'A situation you recognise, ending in a question about the term. You become an imagined actor in it.',function(d){return [].find.call(d.querySelectorAll('article p'),function(p){return p.querySelector('em strong, strong em')})}],
+    ['Literal meaning',1,'What the parts of the word say, and what appears when they come together.',startsWith('Literal meaning')],
+    ['Origin',1,'Who gave it this name, who uses it now, and from which other field the image comes.',startsWith('Origin')],
+    ['Definition',1,'One plain sentence that says what the term is.',function(d){return d.querySelector('article blockquote')}],
+    ['Read aloud',2,'The loudspeaker reads the definition aloud, with the voice of your own device.',function(d){return d.querySelector('.voice-def')}],
+    ['The Appeal',1,'What drives it, for the people who make it, use it or fall for it.',startsWith('The Appeal')],
+    ['The Friction',3,'Where it chafes. Its first sentence answers the question of the opening line.',startsWith('The Friction')],
+    ['* Source of a claim',3,'Tap the asterisk: the source opens, with why it is there.',function(d){return d.querySelector('article .src-mark')}],
+    ['▾ A name explained',3,'Names you may not know get a short explanation that folds open.',function(d){return d.querySelector('article .note-mark')}],
+    ['Why This Matters',3,'The fourth wall breaks: what it does to you, what you can do, and what you take with you.',startsWith('Why This Matters')],
+    ['Related terms',3,'Other terms, each with the reason it belongs here.',function(d){return [].find.call(d.querySelectorAll('article p, article div'),function(p){return /^Related terms/.test(p.textContent.trim())})}],
+    ['Sources',3,'Primary research that carries the analysis, and secondary background. Each source has its own page.',function(d){return d.querySelector('details.sources-block')}],
+    ['Backlinks',1,'Entries that link to this one.',function(d){return d.querySelector('.backlinks')}],
+    ['Explorer',1,'All clusters and their terms. Open a cluster to see what is in it.',function(d){return d.querySelector('.explorer')}],
+    ['Search',1,'Find a term by any word in it.',function(d){return d.querySelector('.search')}],
+    ['Light or dark',1,'Switch between a light and a dark page.',function(d){return d.querySelector('.darkmode')}]
+  ];
+  function startsWith(s){return function(d){return [].find.call(d.querySelectorAll('article p'),function(p){return p.textContent.trim().indexOf(s)===0})}}
+
+  var frame=document.getElementById('entry'), list=document.getElementById('list');
+  var groups=[['At the top',0,7],['The text',7,17],['Under the text',17,20],['Around the page',20,23]], ol;
+  P.forEach(function(p,i){
+    groups.forEach(function(g){ if(g[1]===i){ var h=document.createElement('h2'); h.textContent=g[0]; list.appendChild(h); ol=document.createElement('ol'); list.appendChild(ol);} });
+    var v=V[p[1]], li=document.createElement('li');
+    li.innerHTML='<button style="--c:'+v[1]+';--f:'+v[2]+'"><span class="num">'+(i+1)+'</span><span class="nm"></span><span class="ver">'+v[0]+'</span></button>';
+    li.querySelector('.nm').textContent=p[0];
+    li.dataset.n=i+1; ol.appendChild(li);
+  });
+
+  function setup(){
+    var d=frame.contentDocument; if(!d||!d.querySelector('article')) return false;
+    // open the fold-outs
+    d.querySelectorAll('details.graph-story, details.attention').forEach(function(x){x.open=true});
+    d.querySelectorAll('details.sources-block, details.sources-part').forEach(function(x){x.open=true});
+    var firstStar=d.querySelector('article .src-mark'); if(firstStar) firstStar.click();
+    var firstNote=d.querySelector('article .note-mark'); if(firstNote) firstNote.click();
+    var all=[].find.call(d.querySelectorAll('article button, article a, article span'),function(e){return /all reasons/i.test(e.textContent)}); if(all) all.click();
+    // the labels
+    var st=d.createElement('style');
+    st.textContent='.htr-on{outline:1.5px solid var(--htr);outline-offset:5px;border-radius:6px;background:color-mix(in srgb,var(--htr) 6%,transparent)}'
+      +'.htr-badge{position:absolute;z-index:50;width:20px;height:20px;border-radius:50%;font:700 10px/1 "Atkinson Hyperlegible Next",sans-serif;display:flex;align-items:center;justify-content:center;box-shadow:0 0 0 2px #fff,0 1px 3px rgba(0,0,0,.25);cursor:help}'
+      +'.htr-tip{position:absolute;z-index:60;width:280px;background:#fff;color:#2b2b2b;border:1px solid #e7e3e4;border-radius:8px;padding:10px 30px 10px 12px;font:13.5px/1.45 "Atkinson Hyperlegible Next",sans-serif;box-shadow:0 6px 20px rgba(0,0,0,.12);display:none}'
+      +'.htr-x{position:absolute;top:6px;right:8px;border:0;background:none;font:18px/1 sans-serif;color:#8a8a8a;cursor:pointer;padding:0}.htr-x:hover{color:#E50056}'
+      +'.htr-tip b{display:block;font-size:14px;margin-bottom:2px}.htr-tip i{display:inline-block;margin-top:6px;font-size:10px;font-style:normal;font-weight:700;letter-spacing:.05em;padding:1px 6px;border-radius:999px;background:var(--htr);color:var(--htf)}';
+    d.head.appendChild(st);
+    var tip=d.createElement('div'); tip.className='htr-tip'; d.body.appendChild(tip);
+    function hide(){ tip.style.display='none'; d.querySelectorAll('.htr-on').forEach(function(x){x.classList.remove('htr-on')}); list.querySelectorAll('li').forEach(function(x){x.classList.remove('on')}); }
+    tip.addEventListener('click',function(e){ if(e.target.closest('.htr-x')){ e.preventDefault(); hide(); } });
+    d.addEventListener('keydown',function(e){ if(e.key==='Escape') hide(); });
+    document.addEventListener('keydown',function(e){ if(e.key==='Escape') hide(); });
+    var placed=[];
+    function place(){ var w=d.defaultView, art=d.querySelector('article'), ar=art?art.getBoundingClientRect():null;
+      placed.forEach(function(x){ var r=x[1].getBoundingClientRect(), small=r.width<40, side=x[1].closest('.right');
+        var left= small? r.right+w.scrollX+3 : side? r.left+w.scrollX-26 : (ar? ar.left+w.scrollX-30 : r.left+w.scrollX-30);
+        x[0].style.left=left+'px';
+        x[0].style.top=(small? r.top+w.scrollY-8 : r.top+w.scrollY+2)+'px'; }); }
+    P.forEach(function(p,i){
+      var el=p[3](d); if(!el) return;
+      var v=V[p[1]], b=d.createElement('div');
+      b.className='htr-badge'; b.textContent=i+1; b.style.background=v[1]; b.style.color=v[2];
+      var w=d.defaultView;
+      var fixedSide=el.closest('.left.sidebar, .sidebar.left, .left, .right.sidebar, .sidebar');
+      var inSide=fixedSide && !el.closest('.backlinks') && (el.matches('.explorer, .search, .darkmode'));
+      if(inSide){
+        var host=el.matches('.explorer')? (el.querySelector('.desktop-explorer, .title-button')||el) : el;
+        if(el.matches('.darkmode')) host=el.parentElement;
+        if(getComputedStyle(host).position==='static') host.style.position='relative';
+        b.style.position='absolute';
+        if(el.matches('.search')){ b.style.right='8px'; b.style.top='50%'; b.style.transform='translateY(-50%)'; }
+        else if(el.matches('.darkmode')){ b.style.right='-24px'; b.style.top='50%'; b.style.transform='translateY(-50%)'; }
+        else { b.style.right='-26px'; b.style.top='50%'; b.style.transform='translateY(-50%)'; }
+        b.addEventListener('click',function(e){e.preventDefault();e.stopPropagation();});
+        host.appendChild(b);      } else { d.body.appendChild(b); placed.push([b,el]); }
+      function show(){
+        d.querySelectorAll('.htr-on').forEach(function(x){x.classList.remove('htr-on')});
+        el.style.setProperty('--htr',v[1]); el.classList.add('htr-on');
+        tip.style.setProperty('--htr',v[1]); tip.style.setProperty('--htf',v[2]);
+        tip.innerHTML='<button class="htr-x" aria-label="Close">×</button><b></b><span></span><br><i>'+v[0]+'</i>';
+        tip.querySelector('b').textContent=(i+1)+'. '+p[0]; tip.querySelector('span').textContent=p[2];
+        var br=b.getBoundingClientRect();
+        tip.style.left=Math.min(br.left+w.scrollX+30, w.scrollX+w.innerWidth-320)+'px';
+        tip.style.top=(br.top+w.scrollY)+'px'; tip.style.display='block';
+        list.querySelectorAll('li').forEach(function(x){x.classList.toggle('on',x.dataset.n==String(i+1))});
+      }
+      b.addEventListener('mouseenter',show); b.addEventListener('click',show);
+      list.querySelector('li[data-n="'+(i+1)+'"] button').addEventListener('click',function(){
+        el.scrollIntoView({block:'center'}); setTimeout(show,250);
+      });
+    });
+    place(); [400,1200,2500,4500].forEach(function(t){setTimeout(place,t)});
+    d.defaultView.addEventListener('resize',place);
+    return true;
+  }
+  frame.addEventListener('load',function(){
+    var tries=0;(function wait(){ if(!setup() && tries++<20) setTimeout(wait,300); })();
+  });
+})();
+</script>
+</body>
+</html>
