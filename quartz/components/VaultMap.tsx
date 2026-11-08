@@ -24,7 +24,7 @@ const VaultMap: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
   return (
     <div class={open ? "vault-map-outer" : "vault-map-outer folded"} id="vault-map">
       <h3 class="vault-map-title">
-        <span class="vault-map-title-name">Semantic field</span>
+        <span class="vault-map-title-name">Overview of clusters and terms</span>
         <span class="vault-map-title-rest">
           {" "}
           — the map of the <strong>Cabinet of Digital Terms</strong>: 20 clusters, every link
@@ -34,8 +34,8 @@ const VaultMap: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
       {/* the way in, above the drawing and readable (08-11-2026, a reader's note: the small line
           under the map was missed); a phone has no pointer, so it gets its own words */}
       <p class="vault-map-lead">
-        <span class="for-pointer">Point at a circle to see a cluster's reach. Click a term to open it.</span>
-        <span class="for-touch">Tap a circle to see a cluster's reach. Tap a term to open it.</span>
+        <span class="for-pointer">Point at a cluster to see its connections. Click a dot or a cluster's name to open it; enlarge the map to read every term.</span>
+        <span class="for-touch">Tap a cluster to see its connections, tap it again to open it; enlarge the map to read every term.</span>
       </p>
       <div class="vault-map-inner">
         <button type="button" class="vault-map-overview" hidden aria-label="Back to all 20 clusters">

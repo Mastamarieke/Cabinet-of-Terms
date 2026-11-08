@@ -265,10 +265,13 @@ async function renderVaultMap() {
 
   const curved: { cluster: string; label: SVGElement; arcEl: SVGElement; radius: number }[] = []
   const rings: { cluster: string; ring: SVGElement; count: SVGElement }[] = []
+  // each cluster's own group, so a second tap on a phone can open it (08-11-2026)
+  const clusterGroup = new Map<string, SVGElement>()
   for (const cluster of clusters) {
     const g = geometry.get(cluster)!
     const colour = clusterColour(cluster)
     const group = svgEl("g", { class: "vm-cluster", tabindex: 0, role: "link" })
+    clusterGroup.set(cluster, group)
     const ring = svgEl("circle", { class: "vm-ring", cx: g.x, cy: g.y, r: g.r, stroke: colour })
     group.appendChild(ring)
     const arc = arcOf(cluster)
@@ -606,18 +609,13 @@ async function renderVaultMap() {
     { passive: false },
   )
 
-  // In the small panel, resting the pointer on a cluster brings that circle close enough to
-  // read its names, and the names appear because the view counts as zoomed. The hover area
-  // is the whole disc plus a margin, measured in map units, so moving from the ring onto a
-  // term does not let go; the frame glides back once the pointer has left the neighbourhood.
+  // In the small panel, pointing at a cluster lights up its connections at once, and they
+  // change as the pointer moves from circle to circle. Since 08-11-2026 the view no longer zooms
+  // in (Marieke: "het is mooi dat als ze erover heen gaan de verbindingen veranderen", and the
+  // zoom did not really work: reading the names is what the loupe is for). The hover area is the
+  // disc plus a small margin, in map units.
   let peeked: string | null = null
   const overviewBtn = container.querySelector(".vault-map-overview") as HTMLButtonElement | null
-  // the pointer has to rest on a circle for a moment before the map zooms in: passing over it
-  // on the way somewhere else no longer pulls the reader into a cluster (12-10)
-  let dwell = 0
-  let dwellOn: string | null = null
-  // after "Overview" the cluster under the pointer stays out until the pointer has left it
-  let held: string | null = null
   const peekAt = (cluster: string | null) => {
     if (cluster === peeked) return
     if (peeked) {
@@ -625,35 +623,14 @@ async function renderVaultMap() {
       for (const path of clusterEdges.get(peeked) ?? []) path.classList.remove("lit")
     }
     peeked = cluster
-    svg.classList.toggle("peek", !!cluster)
-    for (const m of marks) m.name.classList.toggle("peeked", !!cluster && m.term.cluster === cluster)
-    overviewBtn?.toggleAttribute("hidden", !cluster)
-    if (!cluster) {
-      glideTo(home)
-      return
-    }
+    overviewBtn?.setAttribute("hidden", "")
+    if (!cluster) return
     svg.classList.add("focused")
     for (const path of clusterEdges.get(cluster) ?? []) path.classList.add("lit")
-    const g = geometry.get(cluster)!
-    // room around the circle, so that there is somewhere inside the frame to let go
-    // and the neighbouring circles stay at the edge, so the reader keeps the overview (12-10)
-    const half = g.r + 320
-    glideTo({ x: g.x - half, y: g.y - half, w: 2 * half, h: 2 * half })
   }
   svg.addEventListener("pointermove", (e) => {
     if (enlarged() || dragging) return
     const { x: mx, y: my } = toMap(e.clientX, e.clientY)
-    // stay with the current cluster while the pointer is on the circle or its names; the
-    // band along the edge of the frame is where it lets go
-    if (peeked) {
-      const g = geometry.get(peeked)!
-      if (Math.hypot(mx - g.x, my - g.y) <= g.r + 100) return
-    }
-    if (held) {
-      const g = geometry.get(held)!
-      if (Math.hypot(mx - g.x, my - g.y) <= g.r + 100) return
-      held = null
-    }
     let hit: string | null = null
     for (const cluster of clusters) {
       const g = geometry.get(cluster)!
@@ -662,46 +639,17 @@ async function renderVaultMap() {
         break
       }
     }
-    if (!hit) {
-      // Zoomed in, the circle glides to the middle and leaves the pointer behind; that is not
-      // a reason to let go. Only the band along the edge of the frame lets go, as the comment
-      // above says (13-10: the map zoomed in and straight back out again).
-      if (peeked) {
-        const box = svg.getBoundingClientRect()
-        const band = 28
-        const inBand =
-          e.clientX - box.left < band ||
-          box.right - e.clientX < band ||
-          e.clientY - box.top < band ||
-          box.bottom - e.clientY < band
-        if (!inBand) return
-      }
-      clearTimeout(dwell)
-      dwellOn = null
-      peekAt(null)
-      return
-    }
-    if (hit === peeked || hit === dwellOn) return
-    clearTimeout(dwell)
-    dwellOn = hit
-    dwell = window.setTimeout(() => {
-      dwellOn = null
-      peekAt(hit)
-    }, 450)
+    peekAt(hit)
   })
   svg.addEventListener("pointerleave", (e) => {
     // a finger "leaves" right after every tap; that is not the reader moving away
     if (e.pointerType === "touch") return
-    clearTimeout(dwell)
-    dwellOn = null
-    held = null
     if (!enlarged()) peekAt(null)
   })
 
   // A phone has no pointer to rest on a circle (08-11-2026, a reader's note). In the small
-  // panel the first tap on a cluster zooms in to it instead of opening its page; then a tap on
-  // a term of that cluster opens the term, a tap on its ring or name opens the cluster page,
-  // and a tap outside every circle goes back to the overview.
+  // panel the first tap on a cluster lights up its connections instead of opening its page; a
+  // second tap on that cluster opens it (or the term tapped), a tap outside every circle clears.
   let tapByTouch = false
   svg.addEventListener("pointerdown", (e) => {
     tapByTouch = e.pointerType === "touch" || e.pointerType === "pen"
@@ -719,11 +667,18 @@ async function renderVaultMap() {
           break
         }
       }
-      if (hit && hit === peeked) return
+      if (hit && hit === peeked) {
+        // the second tap: a term opens itself; anywhere else in the circle opens the cluster
+        if ((e.target as Element).classList.contains("vm-hit")) return
+        if ((e.target as Element).closest(".vm-cluster")) return
+        e.preventDefault()
+        e.stopPropagation()
+        tapByTouch = false
+        clusterGroup.get(hit)?.dispatchEvent(new MouseEvent("click"))
+        return
+      }
       e.preventDefault()
       e.stopPropagation()
-      clearTimeout(dwell)
-      dwellOn = null
       peekAt(hit)
     },
     { capture: true },
@@ -751,9 +706,6 @@ async function renderVaultMap() {
     window.addCleanup(() => seen.disconnect())
   }
   const toOverview = () => {
-    held = peeked
-    clearTimeout(dwell)
-    dwellOn = null
     peekAt(null)
   }
   overviewBtn?.addEventListener("click", toOverview)

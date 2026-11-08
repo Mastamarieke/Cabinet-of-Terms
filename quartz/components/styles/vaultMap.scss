@@ -296,18 +296,28 @@
     }
   }
 
+  // the way to move around, at the top between the sliders and the buttons and as large as the
+  // line above the small map (08-11-2026, Marieke: show that you can navigate); on smaller
+  // screens it stays at the bottom, where nothing else sits
   .vault-map-hint {
     position: fixed;
-    bottom: calc(10vh + 0.7rem);
-    left: 0;
-    right: 0;
+    top: calc(10vh + 0.7rem);
+    left: calc(10vw + 190px);
+    right: calc(10vw + 150px);
+    z-index: 2;
     margin: 0;
     text-align: center;
-    font-size: 0.6rem;
-    letter-spacing: 0.08em;
-    text-transform: uppercase;
-    color: var(--gray);
+    font-size: 0.9rem;
+    line-height: 1.4;
+    color: var(--dark);
     pointer-events: none;
+
+    @media all and not ($desktop) {
+      top: auto;
+      bottom: calc(10vh + 0.7rem);
+      left: 6vw;
+      right: 6vw;
+    }
   }
 }
 
