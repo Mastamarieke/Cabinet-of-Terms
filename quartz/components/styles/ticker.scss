@@ -198,51 +198,14 @@
   }
 }
 
-// One thin line at the top of the front page (08-11-2026, a reader's note: "not a big black
-// block, one line"): the same light board, but the pink station becomes a small label at the
-// start of the line, the stars stand still and the letters are smaller. Standing still
-// (reduced motion) it shows only the newest line and the way to all changes.
+// At the top of the front page (08-11-2026): the pink station and the black board as before,
+// against the red band of the masthead, readable letters. Standing still (reduced motion) it
+// shows only the newest line and the way to all changes, so the top of the page stays light.
 .ticker {
-  flex-direction: row;
-  align-items: stretch;
-  margin: 0.15rem 0 0.7rem;
-  border-radius: 2px;
-
-  .ticker-cap {
-    height: auto;
-    padding: 0 8px;
-    gap: 0;
-    .ticker-cap-name {
-      margin: 0;
-    }
-    svg {
-      height: 11px;
-    }
-  }
-  .ticker-star {
-    display: none;
-  }
-  .ticker-track {
-    flex: 1 1 auto;
-    height: 30px;
-  }
-  svg {
-    height: 13px;
-  }
-  .ticker-sep svg {
-    height: 10px;
-  }
-  .ticker-item {
-    gap: 7px;
-    padding-right: 20px;
-  }
-  .ticker-sep {
-    padding-right: 20px;
-  }
-
+  margin-top: 0;
   &.still {
     .ticker-track {
-      height: 30px;
+      height: 46px;
     }
     .ticker-reel {
       flex-direction: row;
@@ -259,10 +222,7 @@
     }
   }
 }
-
-// on a phone the label would take half the line
-@media (max-width: 560px) {
-  .ticker .ticker-cap {
-    display: none;
-  }
+// no gap between the red band and the station on the front page
+body[data-slug="index"] .center {
+  padding-top: 0 !important;
 }

@@ -92,10 +92,10 @@ function draw(ticker: HTMLElement) {
     item.appendChild(text)
   }
   ticker.classList.add("drawn")
-  // about one word-width a second, whatever the length of the news; slower since 08-11-2026,
-  // when the band moved to the top of the page, where movement draws more attention
+  // about one word-width a second, whatever the length of the news; slower since 08-11-2026
+  // (25 px a second, was 55), at the top of the page, where movement draws more attention
   const run = ticker.querySelector<HTMLElement>(".ticker-run")
-  if (run) ticker.style.setProperty("--ticker-duration", `${Math.max(40, Math.round(run.scrollWidth / 35))}s`)
+  if (run) ticker.style.setProperty("--ticker-duration", `${Math.max(60, Math.round(run.scrollWidth / 25))}s`)
 }
 
 // On a touch screen there is no hover to stop the band (08-11-2026, Marieke): the first tap
