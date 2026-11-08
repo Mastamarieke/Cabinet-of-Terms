@@ -781,3 +781,16 @@ html {
 body {
   overflow-x: clip;
 }
+
+// The red band and the title row never reach past the window (08-11-2026, Marieke in Safari:
+// "het komt omdat de header zo breed is"). The name stays on one line and may run into the
+// padding the script sets; anything wider is cut at the edge instead of widening the page.
+html.has-head #mast,
+html.has-head #page-head.on {
+  box-sizing: border-box;
+  max-width: 100%;
+  overflow: clip;
+}
+#mast a {
+  white-space: nowrap;
+}

@@ -88,13 +88,16 @@ function geo() {
   const cc = getComputedStyle(center)
   const L = c.left + (parseFloat(cc.paddingLeft) || 0)
   const R = c.right - (parseFloat(cc.paddingRight) || 0)
+  // the width without the scrollbar: window.innerWidth counts it, and where scrollbars are
+  // always shown the band and the title were a scrollbar wider than the page (08-11-2026)
+  const W = document.documentElement.clientWidth
   head.style.paddingLeft = L + "px"
-  head.style.paddingRight = window.innerWidth - R + "px"
+  head.style.paddingRight = W - R + "px"
   // the name in the red band centred over the same column as the title, so the two line up
   // (08-11-2026, Marieke: "de titel is niet uitgelijnd")
   if (mast) {
     mast.style.paddingLeft = L + "px"
-    mast.style.paddingRight = window.innerWidth - R + "px"
+    mast.style.paddingRight = W - R + "px"
   }
   let rule = head.querySelector(".rule") as HTMLElement | null
   if (!rule) {
