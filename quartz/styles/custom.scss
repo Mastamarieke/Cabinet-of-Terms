@@ -794,3 +794,12 @@ html.has-head #page-head.on {
 #mast a {
   white-space: nowrap;
 }
+
+// Second step (08-11-2026, Marieke: "er is nog steeds een scroll", Security Theater, Safari).
+// On html, clip is passed to the window and treated as hidden, and Safari's trackpad still
+// scrolls a hidden window. On an element inside the page clip really closes: whatever is too
+// wide in the page (the graph's canvas in a window made narrower after loading, for one) can no
+// longer widen it. The fixed band and title row sit outside this box and are clipped themselves.
+#quartz-root {
+  overflow-x: clip;
+}
