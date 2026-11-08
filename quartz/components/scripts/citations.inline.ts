@@ -79,6 +79,16 @@ function makePanel(p: HTMLElement) {
 
 // the end of the sentence a mark stands in: the first ". ", "? " or "! " in the text after it
 function placeAfterSentence(panel: HTMLElement, mark: Node, p: HTMLElement) {
+  // a mark inside an italic or bold run (the quote on the front page, 08-11-2026): the panel
+  // goes right after that run; inserting it inside the run failed, so the note never opened
+  if (mark.parentNode !== p) {
+    let top: Node = mark
+    while (top.parentNode && top.parentNode !== p) top = top.parentNode
+    if (top.parentNode === p) {
+      p.insertBefore(panel, top.nextSibling)
+      return
+    }
+  }
   for (let n = mark.nextSibling; n; n = n.nextSibling) {
     if (n === panel || n.nodeType !== Node.TEXT_NODE) continue
     const m = /[.!?…]["”’)\]]*(?=\s|$)/.exec(n.textContent ?? "")

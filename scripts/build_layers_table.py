@@ -21,7 +21,8 @@ import re
 
 ROOT = os.path.join(os.path.dirname(__file__), "..")
 VAULT = os.path.join(ROOT, "content", "Cabinet of Digital Terms")
-INDEX = os.path.join(ROOT, "content", "index.md")
+# since 07-11-2026 the table stands on the page How an entry grows, split off the front page
+INDEX = os.path.join(ROOT, "content", "how-an-entry-grows.md")
 START, END = "<!-- layers:start -->", "<!-- layers:end -->"
 
 

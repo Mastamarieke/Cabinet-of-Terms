@@ -13,20 +13,39 @@
   }
 }
 
+// the version (08-11-2026): a small dot in the colour of its version, then the words in the grey
+// of the line; a pill was too loud next to the backlinks (Marieke: "onrustig"). Light pink,
+// pink, red, the same colours as the numbers on How an entry grows
 .content-meta .stage {
-  color: var(--secondary);
-  font-weight: 600;
+  --v: #f4a3c2;
+  color: var(--darkgray) !important;
+  font-weight: 400;
   text-decoration: none;
+  white-space: nowrap;
+  &::before {
+    content: "";
+    display: inline-block;
+    width: 0.62em;
+    height: 0.62em;
+    margin-right: 0.35em;
+    border-radius: 50%;
+    background: var(--v);
+    vertical-align: 0.02em;
+  }
+  &[data-version="2"] {
+    --v: #ec5590;
+  }
+  &[data-version="3"] {
+    --v: #e50056;
+  }
   &:hover {
+    color: var(--han-red) !important;
     text-decoration: underline;
   }
 }
-// the reading time ends with a full stop, so no comma before the stage, a middle dot instead
-.content-meta[show-comma="true"] > *:has(+ .stage)::after {
-  content: "";
-}
-.content-meta .stage::before {
-  content: "· ";
-  color: var(--darkgray);
-  font-weight: 400;
+// the parts of the line are set apart by a middle dot instead of a comma (08-11-2026)
+.content-meta[show-comma="true"] > *:not(:last-child)::after {
+  content: "·";
+  margin-left: 0.5em;
+  color: var(--gray);
 }

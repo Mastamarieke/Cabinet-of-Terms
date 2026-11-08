@@ -96,8 +96,26 @@ function draw(ticker: HTMLElement) {
   if (run) ticker.style.setProperty("--ticker-duration", `${Math.max(30, Math.round(run.scrollWidth / 55))}s`)
 }
 
+// On a touch screen there is no hover to stop the band (08-11-2026, Marieke): the first tap
+// stops it, so a line can be read; a tap on a line while it stands still follows the line, and
+// a tap beside the lines sets the band running again.
+function tapToPause(ticker: HTMLElement) {
+  if (ticker.dataset.tap || !window.matchMedia("(hover: none)").matches) return
+  ticker.dataset.tap = "1"
+  ticker.querySelector(".ticker-track")?.addEventListener("click", (e) => {
+    const item = (e.target as HTMLElement).closest("a.ticker-item")
+    if (!ticker.classList.contains("paused")) {
+      e.preventDefault()
+      ticker.classList.add("paused")
+    } else if (!item) {
+      ticker.classList.remove("paused")
+    }
+  })
+}
+
 document.addEventListener("nav", () => {
   const ticker = document.querySelector<HTMLElement>(".ticker")
+  if (ticker) tapToPause(ticker)
   if (!ticker || ticker.classList.contains("drawn")) return
   if (window.matchMedia("(prefers-reduced-motion: reduce)").matches) {
     // the plain lines, standing still: no face to load, nothing to draw

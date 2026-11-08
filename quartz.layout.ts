@@ -16,6 +16,10 @@ export const sharedPageComponents: SharedLayout = {
   }),
 }
 
+// the three pages about the Cabinet (07-11-2026: the front page split in three); they link to
+// no terms of their own, so a local graph there showed one lonely dot
+const ABOUT_PAGES = ["index", "how-it-is-made", "how-an-entry-grows"]
+
 // components for pages that display a single page (e.g. a single note)
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
@@ -31,7 +35,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.TagList(),
     Component.ConditionalRender({
       component: Component.Graph({ localGraph: { showTags: false }, globalGraph: { removeTags: ["source"] } }),
-      condition: (page) => page.fileData.slug !== "index",
+      condition: (page) => !ABOUT_PAGES.includes(page.fileData.slug ?? ""),
     }),
     Component.GraphStory(),
     Component.AttentionChart(),
@@ -55,7 +59,14 @@ export const defaultContentPageLayout: PageLayout = {
     }),
     Component.Explorer({
       useSavedState: false,
+      // the pages about the Cabinet stand under their own heading below (AboutPages, 08-11-2026)
+      filterFn: (node) =>
+        node.slugSegment !== "tags" &&
+        !["how-it-is-made", "how-an-entry-grows", "Reading-the-graph", "Disclaimer-of-the-Cabinet-of-Digital-Terms"].includes(
+          node.slugSegment,
+        ),
     }),
+    Component.DesktopOnly(Component.AboutPages()),
   ],
   right: [
     Component.DesktopOnly(Component.TableOfContents()),
@@ -100,7 +111,14 @@ export const defaultListPageLayout: PageLayout = {
     }),
     Component.Explorer({
       useSavedState: false,
+      // the pages about the Cabinet stand under their own heading below (AboutPages, 08-11-2026)
+      filterFn: (node) =>
+        node.slugSegment !== "tags" &&
+        !["how-it-is-made", "how-an-entry-grows", "Reading-the-graph", "Disclaimer-of-the-Cabinet-of-Digital-Terms"].includes(
+          node.slugSegment,
+        ),
     }),
+    Component.DesktopOnly(Component.AboutPages()),
   ],
   right: [
     Component.Backlinks(),

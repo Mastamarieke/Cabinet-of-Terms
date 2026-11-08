@@ -59,7 +59,8 @@
     will-change: transform;
   }
   &:hover .ticker-reel,
-  &:focus-within .ticker-reel {
+  &:focus-within .ticker-reel,
+  &.paused .ticker-reel {
     animation-play-state: paused;
   }
 
@@ -86,10 +87,20 @@
     }
   }
 
+  // between the lines the same star as round the name, in red (08-11-2026)
   .ticker-sep {
+    display: inline-flex;
+    align-items: center;
     padding-right: 26px;
     color: var(--han-red);
     font-family: "Silkscreen", monospace;
+    svg {
+      height: 14px;
+    }
+    &:empty::before {
+      content: "✻";
+      font-family: var(--bodyFont);
+    }
   }
 
   svg {

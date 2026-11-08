@@ -20,6 +20,7 @@ import Outward from "./Outward"
 import Ticker from "./Ticker"
 import Voice from "./Voice"
 import Masthead from "./Masthead"
+import AboutPages from "./AboutPages"
 import RelatedTerms from "./RelatedTerms"
 import Citations from "./Citations"
 import EntryImage from "./EntryImage"
@@ -56,6 +57,7 @@ export {
   Ticker,
   Voice,
   Masthead,
+  AboutPages,
   RelatedTerms,
   Citations,
   EntryImage,

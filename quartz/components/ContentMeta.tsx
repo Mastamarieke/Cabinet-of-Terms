@@ -117,9 +117,11 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
 
       const stage = stageOf(fileData)
       if (stage) {
-        const href = resolveRelative(fileData.slug!, "index" as FullSlug) + "#where-each-entry-stands"
-        segments.push(
-          <a class="stage" href={href} title="How far this entry has been revised: see The versions on the front page">
+        const href = resolveRelative(fileData.slug!, "how-an-entry-grows" as FullSlug) + "#where-each-entry-stands"
+        // first on the line (08-11-2026, Marieke): the version says how far the entry is, the date
+        // and the reading time are secondary
+        segments.unshift(
+          <a class="stage" data-version={stage.startsWith("Third") ? "3" : stage.startsWith("Second") ? "2" : "1"} href={href} title="How far this entry has been revised: see How an entry grows">
             {stage}
           </a>,
         )

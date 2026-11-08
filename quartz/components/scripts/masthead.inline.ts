@@ -54,7 +54,12 @@ function build() {
     const crumbs = Array.from(document.querySelectorAll(".breadcrumb-element a"))
       .slice(1, -1)
       .filter((a) => a.textContent?.trim() !== "All Clusters")
-    if (crumbs.length) {
+    // the three pages about the Cabinet say which part they are (08-11-2026)
+    const PARTS: Record<string, string> = { "how-it-is-made": "Part 2 of 3", "how-an-entry-grows": "Part 3 of 3" }
+    const part = PARTS[document.body.dataset.slug ?? ""]
+    if (part) {
+      head.appendChild(el("div", part, "path"))
+    } else if (crumbs.length) {
       const path = el("div", "", "path")
       crumbs.forEach((a, i) => {
         if (i) path.appendChild(el("span", " › ", "sep"))
@@ -85,6 +90,12 @@ function geo() {
   const R = c.right - (parseFloat(cc.paddingRight) || 0)
   head.style.paddingLeft = L + "px"
   head.style.paddingRight = window.innerWidth - R + "px"
+  // the name in the red band centred over the same column as the title, so the two line up
+  // (08-11-2026, Marieke: "de titel is niet uitgelijnd")
+  if (mast) {
+    mast.style.paddingLeft = L + "px"
+    mast.style.paddingRight = window.innerWidth - R + "px"
+  }
   let rule = head.querySelector(".rule") as HTMLElement | null
   if (!rule) {
     rule = el("div", "", "rule")

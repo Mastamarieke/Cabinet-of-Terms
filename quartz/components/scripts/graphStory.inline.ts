@@ -197,6 +197,19 @@ function openDetail(card: HTMLElement) {
   back.replaceWith(spot)
   panel.appendChild(back)
   box.appendChild(panel)
+  // a button on the front of the card ("Open the orbits") comes along into the view: a click
+  // closes this view and opens the orbit map, as on the card itself
+  for (const btn of card.querySelectorAll<HTMLAnchorElement>(".flip-front a.orbit-open")) {
+    const copy = btn.cloneNode(true) as HTMLAnchorElement
+    copy.classList.add("detail-open")
+    copy.addEventListener("click", (e) => {
+      e.preventDefault()
+      e.stopPropagation()
+      shut()
+      btn.click()
+    })
+    panel.appendChild(copy)
+  }
   const close = document.createElement("button")
   close.type = "button"
   close.className = "img-zoom-close"

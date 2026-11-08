@@ -63,6 +63,15 @@ def check(path):
                 problems.append((n, f"highlight without a source or note after it: =={m.group(1)[:60]}=="))
         for m in SEMI.finditer(line):
             problems.append((n, f"semicolon in a gloss stops the asterisk: …{line[m.start():m.end() + 30][:90]}…"))
+    # a ▾ whose note is missing shows on the site as a yellow highlight with a literal [^name]
+    # behind it (08-11-2026: [^cp] on How it is made, lost when the front page was split in three)
+    defined = set(re.findall(r"^\[\^([^\]]+)\]:", text, flags=re.M))
+    for n, line in body_lines(text):
+        if line.startswith("[^"):
+            continue
+        for m in re.finditer(r"\[\^([^\]]+)\]", line):
+            if m.group(1) not in defined:
+                problems.append((n, f"note [^{m.group(1)}] is used but never written out: it shows as plain text"))
     return problems
 
 

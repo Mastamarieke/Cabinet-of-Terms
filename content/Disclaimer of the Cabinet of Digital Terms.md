@@ -7,7 +7,7 @@
 
 ## How this vault was made
 
-The Cabinet is written with **cartographic prompting**, a method developed within Project Digitale Alertheid. What the language model does and what the curator does is described on the homepage under [How it was made](./#how-it-was-made), and in full in **[Cartographic Prompting: Curatorial Practice Alongside Karpathy’s LLM Wiki](https://digitale-alertheid.nl/beyond-karpathys-llm-wiki-cartographic-prompting-as-curatorial-practice/)** (31 July 2026).
+The Cabinet is written with **cartographic prompting**, a method developed within Project Digitale Alertheid. What the language model does and what the curator does is described under [How it was made](./how-it-is-made#how-it-was-made), and in full in **[Cartographic Prompting: Curatorial Practice Alongside Karpathy’s LLM Wiki](https://digitale-alertheid.nl/beyond-karpathys-llm-wiki-cartographic-prompting-as-curatorial-practice/)** (31 July 2026).
 
 ---
 
@@ -25,7 +25,7 @@ No rights can be derived from the content of this vault. HAN CMD and the researc
 
 ## A living lab
 
-The Cabinet is revised cluster by cluster. The date at the top of this page is when this page was last revised. Which entries have been revised, and how far, is shown on the homepage under [A living lab](./#a-living-lab).
+The Cabinet is revised cluster by cluster. The date at the top of this page is when this page was last revised. Which entries have been revised, and how far, is shown under [A living lab](./how-it-is-made#a-living-lab).
 
 ---
 
