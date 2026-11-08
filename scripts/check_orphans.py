@@ -17,6 +17,11 @@ Three checks, all mechanical:
    CLOUD Act and Brussels Effect were missing from Privacy, Data and Control.
 3. Counts: the "— N terms" line per cluster on content/index.md must match the
    number of term files in that cluster's folder.
+4. Totals (08-11-2026): every "N+ terms" on a top-level page in content/ and on
+   quartz/static/cluster-map.html must be the real total rounded down to ten, a total
+   without plus the exact number; the cluster list on the vault page and the version
+   table on How an entry grows must add up to the real total. Dated counts
+   ("Counted … on <date>") are measurements and are skipped.
 
 Drafts (draft: true), Concept.md, cluster About pages and anything under Sources/
 or with type: source are not terms.
@@ -158,6 +163,47 @@ def main():
             for cluster, stated, actual in wrong:
                 print(f"  {cluster}: says {stated}, folder has {actual}")
             print()
+
+    # totals (08-11-2026: a reader saw 261 in the tables and a different total elsewhere).
+    # Rounded totals ("260+ terms") must be the real total rounded down to ten; the list on the
+    # vault page and the version table on How an entry grows must add up to the real total.
+    # A dated count ("Counted … on 17 October 2026: … 260 terms") is a measurement and is left alone.
+    total = len(terms)
+    rounded = total // 10 * 10
+    per_cluster = {}
+    for _, cluster, _ in terms.values():
+        per_cluster[cluster] = per_cluster.get(cluster, 0) + 1
+    off = []
+    pages = [os.path.join(CONTENT_DIR, f) for f in os.listdir(CONTENT_DIR) if f.endswith(".md")]
+    pages.append(os.path.join(CONTENT_DIR, "..", "quartz", "static", "cluster-map.html"))
+    for page in pages:
+        if not os.path.exists(page) or page.endswith("changelog.md"):
+            continue
+        name = os.path.relpath(page, os.path.join(CONTENT_DIR, ".."))
+        for m in re.finditer(r"(\d{3})\+? terms", read(page)):
+            before = read(page)[max(0, m.start() - 120):m.start()]
+            if "Counted" in before:
+                continue
+            # with a plus: rounded down to ten; without: the exact number
+            want = rounded if "+" in m.group(0) else total
+            if int(m.group(1)) != want:
+                off.append(f"{name}: '{m.group(0)}', should be {rounded}+ or {total} ({total} terms)")
+    vault_index = os.path.join(VAULT_DIR, "index.md")
+    if os.path.exists(vault_index):
+        for cl, n in re.findall(r"^- \[\[(.+?)\]\] · (\d+) terms", read(vault_index), re.M):
+            if per_cluster.get(cl) is not None and per_cluster[cl] != int(n):
+                off.append(f"Cabinet of Digital Terms/index.md: {cl} says {n}, folder has {per_cluster[cl]}")
+    grows = os.path.join(CONTENT_DIR, "how-an-entry-grows.md")
+    if os.path.exists(grows):
+        rows = re.findall(r"^\| \*\*\w+ version\*\*[^|]*\| (\d+) \|", read(grows), re.M)
+        if rows and sum(map(int, rows)) != total:
+            off.append(f"how-an-entry-grows.md: versions add up to {sum(map(int, rows))}, there are {total} terms")
+    if off:
+        problems += 1
+        print("Totals that do not match the vault:\n")
+        for line in off:
+            print(f"  {line}")
+        print()
 
     # a folder entry (Term/index.md) without title: in frontmatter is called "index" everywhere
     # on the site: graph, Outward, search (10-10-2026: Surveillance Capitalism and Brussels
