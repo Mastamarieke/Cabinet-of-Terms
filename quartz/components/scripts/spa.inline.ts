@@ -110,7 +110,9 @@ async function _navigate(url: URL, isBack: boolean = false) {
       const el = document.getElementById(decodeURIComponent(url.hash.substring(1)))
       el?.scrollIntoView()
     } else {
-      window.scrollTo({ top: 0 })
+      // instant, not the page's smooth scrolling: gliding up from the foot of a long page was
+      // interrupted by images and the masthead settling, and the next page opened halfway (08-11-2026)
+      window.scrollTo({ top: 0, behavior: "instant" })
     }
   }
 
