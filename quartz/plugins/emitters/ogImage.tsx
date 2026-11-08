@@ -158,7 +158,9 @@ export const CustomOgImages: QuartzEmitterPlugin<Partial<SocialImageOptions>> = 
               : undefined
             const defaultOgImagePath = `https://${baseUrl}/static/og-image.png`
             const ogImagePath = userDefinedOgImagePath ?? generatedOgImagePath ?? defaultOgImagePath
-            const ogImageMimeType = `image/${getFileExtension(ogImagePath) ?? "png"}`
+            // getFileExtension keeps the dot (".webp"); the type is image/webp, not image/.webp, or link
+            // previews such as LinkedIn and Slack skip the picture (08-11-2026, a reader's note)
+            const ogImageMimeType = `image/${(getFileExtension(ogImagePath) ?? "png").replace(/^\./, "")}`
             return (
               <>
                 {!userDefinedOgImagePath && (
