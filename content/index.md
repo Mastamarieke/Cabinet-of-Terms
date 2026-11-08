@@ -40,11 +40,13 @@ Or start with a question:
 
 ## Who it is for
 
+Each cluster and each term is an opening, for a conversation or for research.
+
 - **Researchers:** the genealogy of terms, with the sources behind every entry.
 - **Teachers and students:** a vocabulary for thinking critically about the platforms you use every day, in media, sociology, computer science and design.
 - **Designers and developers:** how design steers behaviour, and where it is done differently.
 - **Policymakers:** how algorithms and data shape society, and the rules that answer them.
-- **Healthcare professionals:** the human side of digital health tools, AI and data.
+- **Healthcare professionals:** what screens and feeds do to body and mind, gathered in [[Consequences of Digital Behaviour]], and elsewhere in entries such as [[Gaming Disorder]].
 - **Digital citizens and activists:** a name for an uncomfortable feeling online, and words to push back with.
 
 ---

@@ -13,8 +13,6 @@ The Cabinet asks what you lose when the machine thinks for you, and it is itself
 
 A map does not explain a city; it shows where things are in relation to each other, where the borders run and what lies at the edges. The Cabinet does the same with words.
 
-<span style="display:block;font-size:.86em;color:var(--darkgray)">Claude is used in production; Claude, ChatGPT and Lumo were used while exploring. The full method: [Cartographic Prompting: Curatorial Practice Alongside Karpathy’s LLM Wiki](https://digitale-alertheid.nl/beyond-karpathys-llm-wiki-cartographic-prompting-as-curatorial-practice/).</span>
-
 <details>
 <summary><strong>How it is made, technically</strong></summary>
 
@@ -28,7 +26,11 @@ Tools and terms: ==Obsidian==[^obsidian] · ==Quartz==[^quartz] · ==GitHub==[^g
 
 ## Cabinet and visualisations
 
-The sketches the Cabinet grew from, the parts of an entry described in [A living lab](./how-an-entry-grows), and the orbit map. Click a card to see it large, with what it shows.
+The Cabinet began as drawings, and it still works with them. Click a card to see it large, with what it shows.
+
+### Iterations
+
+Before the Cabinet was a website, Marieke de Vogel drew it. In *Word clouds by hand* (2017–2018) she gathered terms around a theme, such as Self Esteem. In *Objects of Interest* (2023) the themes became storage jars on a shelf, before the clusters had names.
 
 <div class="flipcards flipcards-pair flipcards-detail">
 <div class="flipcard" tabindex="0" role="button" aria-pressed="false" aria-label="Word clouds by hand: turn the card">
@@ -63,6 +65,16 @@ An early iteration of the Cabinet, before the clusters had their names: the them
 
 </div>
 
+### Visualisations
+
+Five ways of seeing a term or a cluster:
+
+- *Semantic field*, above every entry: the term in the middle, its neighbours on a ring grouped by cluster, its sources as books.
+- *Attention curve*, in revised entries: when the word drew attention, in page views, search interest and research.
+- *Relations*, on every cluster page: how the terms of a cluster connect to the other clusters, in both directions.
+- *Narrative Typography*, in four entries: the term drawn as an image, so that its form shows its meaning.
+- *You, in orbits of influence*, the map used in every revision: the clusters arranged around you, by how close they come to your daily life.
+
 <div class="flipcards flipcards-grid flipcards-detail">
 <div class="flipcard" tabindex="0" role="button" aria-pressed="false" aria-label="Semantic field: turn the card">
 <div class="flip-face flip-front">
@@ -73,26 +85,9 @@ An early iteration of the Cabinet, before the clusters had their names: the them
 
 <span class="flip-name">Semantic field</span>
 
-The graph above every entry: the term in the middle, its neighbours on a ring grouped by cluster, its sources marked as books. An arrow shows which way a link runs; a line shows how well a relation is argued (thick: discussed in both texts, plain: in one text, dashed: only in Related terms, with a reason). Three switches show or hide the sources, the other terms in the cluster, and the entries that link here without being linked back.
+The graph above every entry: the term in the middle, its neighbours on a ring grouped by cluster, its sources marked as books. An arrow shows which way a link runs; a line shows how well a relation is argued (thick: discussed in both texts, plain: in one text, dashed: only in Related terms, with a reason). Three switches show or hide the sources, the other terms in the cluster, and the entries that link here without being linked back. Entries in the second version also tell the field as a short story, the semantic landscape: [[Vendor Lock-in#semantic-landscape|read it in Vendor Lock-in ↗]].
 
 [[Privacy Washing#semantic-field|Try it live in Privacy Washing ↗]]
-
-<span class="flip-turn">turn back ↺</span>
-</div>
-</div>
-
-<div class="flipcard" tabindex="0" role="button" aria-pressed="false" aria-label="Semantic landscape: turn the card">
-<div class="flip-face flip-front">
-<img class="shot shot-light" src="beeld/homepage-landscape-light.png" alt="The semantic landscape of Vendor Lock-in"><img class="shot shot-dark" src="beeld/homepage-landscape-dark.png" alt="The semantic landscape of Vendor Lock-in">
-<span class="flip-where">since the second version</span><span class="flip-name">Semantic landscape</span><span class="flip-tools"><button type="button" class="flip-zoom" data-img="beeld/homepage-landscape-light.png" data-img-dark="beeld/homepage-landscape-dark.png" data-alt="The semantic landscape of Vendor Lock-in" aria-label="Enlarge Semantic landscape">enlarge ⤢</button><span class="flip-turn">turn ↻</span></span>
-</div>
-<div class="flip-face flip-back">
-
-<span class="flip-name">Semantic landscape</span>
-
-The graph told as a short story: one thing that surprises, one thread followed through the neighbours, people at the end. The names in it are links. Vendor Lock-in begins: *In a survey of people working with cloud services in British businesses, fewer than half knew what vendor lock-in meant.*
-
-[[Vendor Lock-in#semantic-landscape|Read it in Vendor Lock-in ↗]]
 
 <span class="flip-turn">turn back ↺</span>
 </div>
