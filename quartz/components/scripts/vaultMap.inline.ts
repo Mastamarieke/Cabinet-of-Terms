@@ -689,12 +689,67 @@ async function renderVaultMap() {
       peekAt(hit)
     }, 450)
   })
-  svg.addEventListener("pointerleave", () => {
+  svg.addEventListener("pointerleave", (e) => {
+    // a finger "leaves" right after every tap; that is not the reader moving away
+    if (e.pointerType === "touch") return
     clearTimeout(dwell)
     dwellOn = null
     held = null
     if (!enlarged()) peekAt(null)
   })
+
+  // A phone has no pointer to rest on a circle (08-11-2026, a reader's note). In the small
+  // panel the first tap on a cluster zooms in to it instead of opening its page; then a tap on
+  // a term of that cluster opens the term, a tap on its ring or name opens the cluster page,
+  // and a tap outside every circle goes back to the overview.
+  let tapByTouch = false
+  svg.addEventListener("pointerdown", (e) => {
+    tapByTouch = e.pointerType === "touch" || e.pointerType === "pen"
+  })
+  svg.addEventListener(
+    "click",
+    (e) => {
+      if (!tapByTouch || enlarged()) return
+      const { x: mx, y: my } = toMap(e.clientX, e.clientY)
+      let hit: string | null = null
+      for (const cluster of clusters) {
+        const g = geometry.get(cluster)!
+        if (Math.hypot(mx - g.x, my - g.y) <= g.r + 40) {
+          hit = cluster
+          break
+        }
+      }
+      if (hit && hit === peeked) return
+      e.preventDefault()
+      e.stopPropagation()
+      clearTimeout(dwell)
+      dwellOn = null
+      peekAt(hit)
+    },
+    { capture: true },
+  )
+
+  // Once, when the map first comes into view, one cluster lights up for a moment, so the reader
+  // sees that something happens on the map (08-11-2026, a reader's note). Only the lines light
+  // up; the view does not move.
+  const shown = clusters.includes("Privacy, Data and Control") ? "Privacy, Data and Control" : clusters[0]
+  if (shown && "IntersectionObserver" in window) {
+    const seen = new IntersectionObserver((entries) => {
+      if (!entries.some((en) => en.isIntersecting)) return
+      seen.disconnect()
+      if (peeked || enlarged()) return
+      const edges = clusterEdges.get(shown) ?? []
+      svg.classList.add("focused")
+      for (const path of edges) path.classList.add("lit")
+      window.setTimeout(() => {
+        if (peeked || enlarged()) return
+        svg.classList.remove("focused")
+        for (const path of edges) path.classList.remove("lit")
+      }, 1800)
+    }, { threshold: 0.6 })
+    seen.observe(svg)
+    window.addCleanup(() => seen.disconnect())
+  }
   const toOverview = () => {
     held = peeked
     clearTimeout(dwell)

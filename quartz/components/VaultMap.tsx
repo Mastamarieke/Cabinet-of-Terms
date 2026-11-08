@@ -31,12 +31,17 @@ const VaultMap: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
           between them
         </span>
       </h3>
+      {/* the way in, above the drawing and readable (08-11-2026, a reader's note: the small line
+          under the map was missed); a phone has no pointer, so it gets its own words */}
+      <p class="vault-map-lead">
+        <span class="for-pointer">Point at a circle to see a cluster's reach. Click a term to open it.</span>
+        <span class="for-touch">Tap a circle to see a cluster's reach. Tap a term to open it.</span>
+      </p>
       <div class="vault-map-inner">
         <button type="button" class="vault-map-overview" hidden aria-label="Back to all 20 clusters">
           ← Overview
         </button>
       </div>
-      <p class="vault-map-foot">Point at a circle to see its reach · enlarge to read the names</p>
       <button class="vault-map-expand" aria-label="Enlarge this map">
         <svg
           xmlns="http://www.w3.org/2000/svg"

@@ -28,10 +28,12 @@ export const defaultContentPageLayout: PageLayout = {
       condition: (page) => page.fileData.slug !== "index",
     }),
     Component.ArticleTitle(),
-    Component.ContentMeta(),
     // the news band on the front page (14-09, switched on again 08-10 to be discussed); it
-    // renders only on the front page, but its script also opens #news- links on every entry
+    // renders only on the front page, but its script also opens #news- links on every entry.
+    // Since 08-11-2026 one thin line right under the pink head, before the date line: returning
+    // readers see the news at once, new readers read past it to the introduction
     Component.Ticker(),
+    Component.ContentMeta(),
     Component.TagList(),
     Component.ConditionalRender({
       component: Component.Graph({ localGraph: { showTags: false }, globalGraph: { removeTags: ["source"] } }),

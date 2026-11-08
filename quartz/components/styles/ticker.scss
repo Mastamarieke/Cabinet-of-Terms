@@ -197,3 +197,72 @@
     box-shadow: 0 0 0 3px transparent;
   }
 }
+
+// One thin line at the top of the front page (08-11-2026, a reader's note: "not a big black
+// block, one line"): the same light board, but the pink station becomes a small label at the
+// start of the line, the stars stand still and the letters are smaller. Standing still
+// (reduced motion) it shows only the newest line and the way to all changes.
+.ticker {
+  flex-direction: row;
+  align-items: stretch;
+  margin: 0.15rem 0 0.7rem;
+  border-radius: 2px;
+
+  .ticker-cap {
+    height: auto;
+    padding: 0 8px;
+    gap: 0;
+    .ticker-cap-name {
+      margin: 0;
+    }
+    svg {
+      height: 11px;
+    }
+  }
+  .ticker-star {
+    display: none;
+  }
+  .ticker-track {
+    flex: 1 1 auto;
+    height: 30px;
+  }
+  svg {
+    height: 13px;
+  }
+  .ticker-sep svg {
+    height: 10px;
+  }
+  .ticker-item {
+    gap: 7px;
+    padding-right: 20px;
+  }
+  .ticker-sep {
+    padding-right: 20px;
+  }
+
+  &.still {
+    .ticker-track {
+      height: 30px;
+    }
+    .ticker-reel {
+      flex-direction: row;
+      white-space: nowrap;
+      padding: 0 0.8em;
+    }
+    .ticker-run {
+      flex-direction: row;
+      align-items: center;
+      gap: 1.2em;
+    }
+    .ticker-run .ticker-item:not(:first-child):not(.ticker-all) {
+      display: none;
+    }
+  }
+}
+
+// on a phone the label would take half the line
+@media (max-width: 560px) {
+  .ticker .ticker-cap {
+    display: none;
+  }
+}

@@ -13,7 +13,7 @@
     & > h3,
     & > h3.vault-map-title,
     & > .vault-map-inner,
-    & > .vault-map-foot,
+    & > .vault-map-lead,
     & > .vault-map-expand {
       display: none !important;
     }
@@ -62,15 +62,24 @@
     padding: 0 0.6em;
   }
 
-  & > .vault-map-foot {
+  & > .vault-map-lead {
     margin: 0;
-    padding: 0.3em 1em 0.4em;
-    border-top: 1px solid var(--lightgray);
-    background: var(--light);
-    font-size: 0.6rem;
-    letter-spacing: 0.08em;
-    text-transform: uppercase;
-    color: var(--gray);
+    padding: 0.55em 1em;
+    border-bottom: 1px solid var(--lightgray);
+    font-size: 0.9rem;
+    line-height: 1.4;
+    color: var(--dark);
+    .for-touch {
+      display: none;
+    }
+    @media (hover: none) {
+      .for-pointer {
+        display: none;
+      }
+      .for-touch {
+        display: inline;
+      }
+    }
   }
 }
 
