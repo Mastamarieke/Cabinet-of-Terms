@@ -53,6 +53,9 @@ export default (() => {
         <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@400;600;700&display=swap" />
         <link rel="preconnect" href="https://cdnjs.cloudflare.com" crossOrigin="anonymous" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        {/* Browser bar in page colour, not the red head bar (Safari tints to it otherwise) */}
+        <meta name="theme-color" media="(prefers-color-scheme: light)" content={cfg.theme.colors.lightMode.light} />
+        <meta name="theme-color" media="(prefers-color-scheme: dark)" content={cfg.theme.colors.darkMode.light} />
 
         <meta name="og:site_name" content={cfg.pageTitle}></meta>
         <meta property="og:title" content={title} />

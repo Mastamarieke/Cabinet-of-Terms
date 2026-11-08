@@ -25,3 +25,5 @@ memo-*.md
 .youtube-api-key
 .mediacloud-key
 new-terms/
+# Rondleiding als film (32 MB): alleen lokaal, opnieuw te maken met de scripts ernaast
+docs/film/*.mp4
