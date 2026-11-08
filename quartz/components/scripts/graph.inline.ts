@@ -2366,8 +2366,28 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     resetButton?.addEventListener("click", onControlReset)
   }
 
+  // The canvas is drawn at the pixel density of the moment it opens. Zooming the browser
+  // after that (Opera keeps a zoom per site) blew the drawing up and blurred it (29-10,
+  // Cleanfluencer); now the density follows, and the next frame is drawn sharp again.
+  // Zooming also resizes the window, so both signals are watched; only a real change redraws.
+  let densityQuery: MediaQueryList | null = null
+  const onDensity = () => {
+    if (app.renderer.resolution === window.devicePixelRatio) return
+    app.renderer.resize(app.screen.width, app.screen.height, window.devicePixelRatio)
+    watchDensity()
+  }
+  window.addEventListener("resize", onDensity)
+  function watchDensity() {
+    densityQuery?.removeEventListener("change", onDensity)
+    densityQuery = window.matchMedia(`(resolution: ${window.devicePixelRatio}dppx)`)
+    densityQuery.addEventListener("change", onDensity)
+  }
+  watchDensity()
+
   return () => {
     stopAnimation = true
+    densityQuery?.removeEventListener("change", onDensity)
+    window.removeEventListener("resize", onDensity)
     sourceToggleEl?.removeEventListener("toggle", applyToggles)
     clusterToggleEl?.removeEventListener("toggle", applyToggles)
     backlinksToggleEl?.removeEventListener("toggle", applyToggles)

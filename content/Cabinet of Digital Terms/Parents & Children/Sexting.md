@@ -19,7 +19,7 @@ Recent developments in generative AI have further complicated these debates. Res
 
 **The Appeal:** Peer **sexting** between adolescents of similar ages is a documented feature of contemporary adolescent development — the digital equivalent of relationship behaviours that predate smartphones. Criminalising it as CSAM production does not align with its developmental context.
 
-**The Friction:** The legal framework designed to protect children from adult exploitation can, when applied mechanically, criminalise the children it was designed to protect. Research by Livingstone and colleagues at the LSE (EU Kids Online project) has documented the prevalence of peer **sexting** among European adolescents and the contexts in which it occurs. [[Online Grooming]] is the serious risk vector: coerced **sexting** — adults manipulating children into producing images — is a distinct practice that requires the full force of child protection law. The conflation of these two practices in legal frameworks and public discourse produces harmful outcomes for adolescents prosecuted under frameworks designed for a different harm.
+**The Friction:** The legal framework designed to protect children from adult exploitation can, when applied mechanically, criminalise the children it was designed to protect. Research by Livingstone and colleagues at the LSE (EU Kids Online project) has documented the prevalence of peer **sexting** among European adolescents and the contexts in which it occurs. A 13-year-old described a video of a girl kissing a boy that went round the school's Snapchat groups: the next day the girl was pelted with food, while for the boy it was "aura", status (Sahadat & Uijtewaal, *de Volkskrant*, 2026). [[Online Grooming]] is the serious risk vector: coerced **sexting** — adults manipulating children into producing images — is a distinct practice that requires the full force of child protection law. The conflation of these two practices in legal frameworks and public discourse produces harmful outcomes for adolescents prosecuted under frameworks designed for a different harm.
 
 **Why This Matters:** **Sexting** makes visible the gap between legal frameworks designed for adult contexts and the digital realities of adolescent life. Once you distinguish peer **sexting** from coerced production, the policy question becomes more precise — and the harm to adolescents criminalised for the former becomes more visible.
 
@@ -35,6 +35,8 @@ Recent developments in generative AI have further complicated these debates. Res
 - [Actions Speak Louder Than Chats: Investigating AI Chatbot Age Gating](https://arxiv.org/abs/2602.10251) — Lin, J., et al. (2026). _arXiv_
 - [Understanding Teen Overreliance on AI Companion Chatbots Through Self-Reported Reddit Narratives](https://arxiv.org/abs/2507.15783) — Sharma, R., et al. (2025). _arXiv_
   
+- [Niet appen maar snappen](https://www.volkskrant.nl/kijkverder/v/2026/snapchat-social-media-jongeren-gen-z~v3288131/) — Sahadat, I. & Uijtewaal, Y. (18 oktober 2026). *De Volkskrant*
+  A video shared in school groups and the double standard that followed.
 **Specific about Grok, AI-**sexting** en deepfakes:
 
 - [Teens are sexting with AI. Here's what parents should know.](https://www.washingtonpost.com/technology/2025/05/21/teens-sexting-ai-chatbots-parents/) — Harwell, D. (2025). _The Washington Post_

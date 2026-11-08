@@ -23,9 +23,11 @@ attention_moments:
 
 ***Your data is worth money. Who do you think profits from it?***
 
-**Literal meaning:** **[[Dataism]]** puts *-ism*, the ending of religions and schools of thought, after *data*, Latin for "things given", and so turns what is given into a creed. It names the belief that decisions based on data are better than human judgement, that more data is always better, and that collecting it is progress in itself.
+**Literal meaning:** **[[Dataism]]** puts *-ism*, the ending of religions and schools of thought, after *data*, Latin for "things given", and so turns what is given into a creed.
 
 **Origin:** ==Yuval Noah Harari made it the name of an emerging belief system== ([[Secondary-Dataism#1. Homo Deus: A Brief History of Tomorrow|Harari, 2016]]: Homo Deus, in which the flow of information becomes the highest value). ==José van Dijck called it a widespread secular belief, one that works because people trust their personal information to the platforms they use== ([[VanDijck-Dataism-2014|Van Dijck, 2014]]: data as the currency people pay with for their services, and the trust that keeps the trade going). In the Netherlands Miriam Rasch, a researcher at the Institute of Network Cultures, took up the word and described ==the belief that everything can be translated into data, and that data pins the world down and makes it manageable== ([[Secondary-Dataism#2. Frictie: Ethiek in tijden van dataïsme|Rasch, 2020]]: Frictie, her essay on ethics in times of dataism, which asks for whom and to what end).
+
+> The belief, which grew with big data, that all knowledge consists of data and that more data means better decisions.
 
 **The Appeal:** **[[Dataism]]** rests on real insights. Decisions based on data can correct human bias, large data sets show patterns that no one would notice by looking, and in many situations more information is better than less. In 2006 ==Clive Humby==[^humby] put the promise in five words, *data is the new oil*: worth little raw, and a fortune once refined.
 

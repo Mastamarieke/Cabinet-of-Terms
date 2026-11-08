@@ -26,7 +26,7 @@ attention_moments:
 
 **Origin:** The term borrows the logic of [[Greenwashing|greenwashing]], environmental claims that go further than environmental practice. It gained ground as corporate privacy promises were followed, one after another, by documented breaches. Facebook gave assurances about user data before ==the Cambridge Analytica revelations in 2018== ([[Secondary-PrivacyWashing#5. Revealed: 50 million Facebook profiles harvested for Cambridge Analytica in major data breach|Cadwalladr & Graham-Harrison, 2018]]: The Guardian, about 50 million profiles). Google offered settings that kept recording where people went after they had switched them off. ==The word itself turned up in law documents in California and Canada before researchers took it up== ([[Cirucci-PrivacyWashing-2024|Cirucci, 2024]]: a study of phone adverts by Apple and Google and their privacy policies).
 
-> Talking about privacy instead of protecting it, with reassurance in place of the practice it describes.
+> Companies that advertise how well they protect your data, while what they actually do with it falls short of the promise.
 
 **The Appeal:** Privacy sells. People prefer products that seem to protect them, regulators want to see compliance, and a reassuring sentence costs far less than changing how data is collected. The statements are rarely false in a narrow sense. Their promises are often true, just not in the way you hear them, as when Mark Zuckerberg told the US Senate in 2018 that Facebook ==does not sell data to advertisers==[^zuck].
 

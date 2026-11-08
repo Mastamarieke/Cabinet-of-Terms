@@ -29,7 +29,7 @@ attention_moments:
 
 **Origin:** Bruce Schneier, a security technologist, coined the term in *Beyond Fear* (2003) for aviation security after 9/11. Passengers took off their shoes, took out their laptops and walked through body scanners. In his view these steps were highly visible and of little use against a determined attacker. Their main work was to make passengers feel protected and to let politicians be seen doing something.
 
-> Security measures that are meant to be seen more than to protect, so that safety is performed without being provided.
+> Security measures that make people feel safe and show that something is being done, without making them much safer.
 
 **The Appeal:** After a failure, people want to see a response, and a visible measure gives them one whether or not it works. For an organisation, a measure it can point to protects it from blame and fines when something goes wrong.
 

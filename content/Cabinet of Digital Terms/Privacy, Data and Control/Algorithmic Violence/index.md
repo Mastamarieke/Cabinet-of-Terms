@@ -27,7 +27,7 @@ attention_moments:
 
 [^onuoha]: A Nigerian American artist and academic in New York whose work examines what data collection and technology do to society. [Wikipedia: 'Mimi Onuoha'](https://en.wikipedia.org/wiki/Mimi_Onuoha) [Mimi Onuoha: website](https://www.mimionuoha.com)
 
-> Harm done by automated systems that carry existing inequalities, where the blame lands on the people nearest the system, not on those who designed it.
+> The harm an algorithm or automated decision-making system inflicts by excluding people from what they are entitled to.
 
 **The Appeal:** Automated systems promise the same rules for everyone, without a tired official, favourites or a bad day, so a government can check millions of applications quickly and in the same way. Behind that promise lies the belief that a computer cannot discriminate ([[Dataism]]). It also attracts those who want to move people at scale: in April 2025 the acting director of ==ICE==[^ice] said deportation should run [["Like Prime, but with human beings."|"like Prime, but with human beings"]] ([[Secondary-AlgorithmicViolence#10. ICE Head Wants Deportations to Run Like Amazon Prime: 'We Need to Treat This Like a Business'|Latin Times, 2025]]: Todd Lyons at the Border Security Expo in Phoenix), which treats people as parcels, a bureaucratic form of [[Dehumanization]].
 

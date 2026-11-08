@@ -17,7 +17,7 @@ analysis_version: pending
 
 **The Appeal:** There is no appeal to describe here. **Online grooming** is child abuse facilitation. Its analytical importance is in how it operates and what enables it.
 
-**The Friction:** **Online grooming** exploits the same platform features that provide genuine value. [[Roblox]] — chat, friend requests, direct messaging — is one documented venue: the features that enable children to play with friends also enable adults to present as friends. [[Catfishing]] — false identity construction — is the mechanism: the **groomer** presents as a peer, a mentor, or a friend. The process is gradual: each step is designed to feel unremarkable, and the child's gradual boundary normalisation is the method. [[Kidfluencer]] profiles — large public presences with photographs and personal information — increase exposure risk. The UK Children's Code (2021) requires platforms to consider child safety by default; implementation is uneven.
+**The Friction:** **Online grooming** exploits the same platform features that provide genuine value. [[Roblox]] — chat, friend requests, direct messaging — is one documented venue: the features that enable children to play with friends also enable adults to present as friends. [[Catfishing]] — false identity construction — is the mechanism: the **groomer** presents as a peer, a mentor, or a friend. On Snapchat, used by nine in ten Dutch 13- to 24-year-olds, the age check is passed by changing a birth date. A 13-year-old who collected strangers as friends received explicit photos, and she and her friends talk about it as noise that comes with the app (Sahadat & Uijtewaal, *de Volkskrant*, 2026). The process is gradual: each step is designed to feel unremarkable, and the child's gradual boundary normalisation is the method. [[Kidfluencer]] profiles — large public presences with photographs and personal information — increase exposure risk. The UK Children's Code (2021) requires platforms to consider child safety by default; implementation is uneven.
 
 **Why This Matters:** **Online grooming** makes visible that child safeguarding is a design problem as much as a policing problem. The features that enable grooming are not incidental — they are the platforms' social infrastructure. Building them with child safety as a default requirement, not an afterthought, is both possible and legally required in several jurisdictions.
 
@@ -28,5 +28,7 @@ analysis_version: pending
 **Read more:**
 - [Child Sexual Exploitation and Online Grooming](https://www.nspcc.org.uk/what-is-child-abuse/types-of-abuse/child-sexual-exploitation/) — NSPCC (updated annually)
 - [Age Appropriate Design Code](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/childrens-information/childrens-code-guidance-and-resources/) — ICO (2021)
+- [Niet appen maar snappen](https://www.volkskrant.nl/kijkverder/v/2026/snapchat-social-media-jongeren-gen-z~v3288131/) — Sahadat, I. & Uijtewaal, Y. (18 oktober 2026). *De Volkskrant*
+  Interviews with five young Snapchat users: the age check, strangers as friends, explicit photos treated as noise.
 
 <div class="ai-attribution">Created with AI assistance (Claude, ChatGPT, Lumo) using cartographic prompting — a research method developed within Project Digitale Alertheid, HAN CMD, 2026.</div>

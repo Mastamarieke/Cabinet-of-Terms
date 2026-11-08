@@ -11,9 +11,9 @@ analysis_version: pending
 
 ***Everyone was there. You were not. You saw the photos the next morning.***
 
-**Literal meaning:** **FOMO** — Fear of Missing Out — describes the anxiety produced by the awareness that others may be having rewarding experiences from which you are absent. In digital contexts, it is the persistent, low-level anxiety that something important is happening online while you are not looking.
+**Literal meaning:** **FOMO** is an acronym, spoken as a word, of *Fear of Missing Out*. It describes the anxiety produced by the awareness that others may be having rewarding experiences from which you are absent. In digital contexts, it is the persistent, low-level anxiety that something important is happening online while you are not looking.
 
-**Origin:** The term was coined by **Patrick McGinnis** a 2004 *Harbus* (Harvard Business School) article. It entered mainstream usage by 2013, when researchers including Andrew Przybylski and colleagues published the first systematic academic study of **FOMO** in *Motivation and Emotion*, finding it associated with lower wellbeing, lower life satisfaction, and increased social media engagement.
+**Origin:** The term was coined by **Patrick McGinnis** in a 2004 *Harbus* (Harvard Business School) article. It entered mainstream usage by 2013, when researchers including Andrew Przybylski and colleagues published the first systematic academic study of **FOMO** in *Motivation and Emotion*, finding it associated with lower wellbeing, lower life satisfaction, and increased social media engagement.
 
 > The anxiety of potential absence — built into notification systems and social media feeds as an engagement driver, experienced as a personal feeling.
 
