@@ -203,6 +203,17 @@
 // shows only the newest line and the way to all changes, so the top of the page stays light.
 .ticker {
   margin-top: 0;
+  // a dotted hairline between the red band and the pink station (08-11-2026, Marieke: "veel
+  // subtieler, stippellijn", 4 px): light dots on a 1 px strip of red, so no black shows between
+  &::before {
+    content: "";
+    display: block;
+    flex: 0 0 1px;
+    height: 1px;
+    background:
+      linear-gradient(90deg, rgba(250, 248, 248, 0.75) 1px, transparent 1px) 0 0 / 4px 1px repeat-x,
+      var(--han-red);
+  }
   &.still {
     .ticker-track {
       height: 46px;
