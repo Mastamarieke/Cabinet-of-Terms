@@ -68,7 +68,8 @@ for cluster_dir in sorted(glob.glob(os.path.join(VAULT, "*"))):
 FULL_METHOD = ["Privacy, Data and Control"]
 
 # The table is kept short on purpose (curator, 13-10: "het moet niet te lang worden"):
-# three rows, the first two with the entries as links, the third with the clusters only.
+# three rows, the first two with the entries as links, the third with the clusters only, said as
+# such so the column 'which' reads the same in every row (08-11-2026, a reader's note).
 all_entries = {}
 for cluster_dir in sorted(glob.glob(os.path.join(VAULT, "*"))):
     if not os.path.isdir(cluster_dir) or os.path.basename(cluster_dir) == "Sources":
@@ -104,7 +105,7 @@ lines = [
     "|---|---|---|",
     f"| **Third version**: argued and sourced | {len(full)} | {grouped(full)} |",
     f"| **Second version**: mapped | {len(earlier)} | {grouped(earlier)} |",
-    f"| **First version**: written and placed | {rest_count} | " + " · ".join(f"[[{c}]]" for c in rest_clusters) + " |",
+    f"| **First version**: written and placed | {rest_count} | all other entries, in these clusters: " + " · ".join(f"[[{c}]]" for c in rest_clusters) + " |",
 ]
 table = "\n".join(lines)
 

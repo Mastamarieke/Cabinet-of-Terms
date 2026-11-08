@@ -167,7 +167,7 @@ From the first word clouds to the third version. Choose a version to jump to it,
 |---|---|---|
 | **Third version**: argued and sourced | 10 | [[Privacy, Data and Control]]: [[Algorithmic Violence]] · [[Brussels Effect]] · [[CLOUD Act]] · [[Data Brokers]] · [[Dataism]] · [[Privacy as a Premium]] · [[Privacy Washing]] · [[Security Theater]] · [[Surveillance Capitalism]] · [[Vendor Lock-in]] |
 | **Second version**: mapped | 28 | [[AI-Specific Terms]]: [[AI-Ninja]]<br>[[Beauty, Influencers & Self-Image]]: [[Cleanfluencer]] · [[Virtual Influencer]]<br>[[Behaviour & Relationships]]: [[Parasocial Relationship]]<br>[[Gender & Identity]]: [[Alpha Male]] · [[Blackpill]] · [[High Value Man]] · [[Hypergamy]] · [[Incel]] · [[Looksmaxxing]] · [[Manosphere]] · [[MGTOW]] · [[NPC]] · [[Podcast-bro]] · [[Provider]] · [[Red Pill]] · [[Rizz]] · [[Sigma Male]] · [[SMV (Sexual Market Value)]] · [[Stay-at-home Girlfriend (SAHG)]] · [[Top 1% Man]] · [[Tradwife]] · [[Womanosphere]]<br>[[Parents & Children]]: [[Predatory Design]] · [[Sharenting]]<br>[[Platform Mechanisms & Economics]]: [[Ragebaiting]] · [[Recommender Systems]]<br>[[Subcultural Vocabulary and Platform Language]]: [[Gooner]] |
-| **First version**: written and placed | 223 | [[AI and Energy]] · [[AI-Specific Terms]] · [[Beauty, Influencers & Self-Image]] · [[Behaviour & Relationships]] · [[Consequences of Digital Behaviour]] · [[Counter-Movements]] · [[Culture Wars and Political Language]] · [[Design Philosophy and Ethical Design]] · [[End-Times Thinking and Elite Survivalism]] · [[Inclusion, Accessibility and Ageing]] · [[Manifestos]] · [[New Digital Professions]] · [[Parents & Children]] · [[Platform Mechanisms & Economics]] · [[SF as Ideology]] · [[Society and Power]] · [[Statements as Analytical Object]] · [[Subcultural Vocabulary and Platform Language]] |
+| **First version**: written and placed | 223 | all other entries, in these clusters: [[AI and Energy]] · [[AI-Specific Terms]] · [[Beauty, Influencers & Self-Image]] · [[Behaviour & Relationships]] · [[Consequences of Digital Behaviour]] · [[Counter-Movements]] · [[Culture Wars and Political Language]] · [[Design Philosophy and Ethical Design]] · [[End-Times Thinking and Elite Survivalism]] · [[Inclusion, Accessibility and Ageing]] · [[Manifestos]] · [[New Digital Professions]] · [[Parents & Children]] · [[Platform Mechanisms & Economics]] · [[SF as Ideology]] · [[Society and Power]] · [[Statements as Analytical Object]] · [[Subcultural Vocabulary and Platform Language]] |
 <!-- layers:end -->
 
 </details>
@@ -175,6 +175,12 @@ From the first word clouds to the third version. Choose a version to jump to it,
 ## On every cluster page
 
 Each cluster page has a drawing of its **relations** with the other clusters. For example [[Privacy, Data and Control]]: the panel *Relations*, under the graph at the top of the page, shows how its terms link to other clusters.
+
+## Where to start
+
+Three entries, one in each version, so you can see what grows: [[Security Theater]] (third version), feeling safe without being safer; [[Tradwife]] (second version), housewife life as content; and [[Phubbing]] (first version), your phone, mid-conversation.
+
+Entries are tested with readers, and what they say goes back into the method. Tell us what you recognised, what you missed or where you got lost: [info@digitale-alertheid.nl](mailto:info@digitale-alertheid.nl).
 
 ---
 

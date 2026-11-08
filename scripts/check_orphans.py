@@ -188,6 +188,19 @@ def main():
             want = rounded if "+" in m.group(0) else total
             if int(m.group(1)) != want:
                 off.append(f"{name}: '{m.group(0)}', should be {rounded}+ or {total} ({total} terms)")
+    # the number of clusters is written as a number, exactly (08-11-2026: "20+ clusters" on the
+    # homepage and "twenty clusters" on the map); a cluster counts when it has a published term
+    clusters = len(per_cluster)
+    for page in pages + [os.path.join(CONTENT_DIR, "..", "quartz", "components", "VaultMap.tsx")]:
+        if not os.path.exists(page) or page.endswith("changelog.md"):
+            continue
+        name = os.path.relpath(page, os.path.join(CONTENT_DIR, ".."))
+        for m in re.finditer(r"\b(\d+\+?|[a-z]+-?[a-z]*) clusters\b", read(page)):
+            word = m.group(1)
+            if word.isdigit() and int(word) == clusters:
+                continue
+            if word.rstrip("+").isdigit() or word in ("twenty", "nineteen", "twenty-one", "twenty-two"):
+                off.append(f"{name}: '{m.group(0)}', should be '{clusters} clusters'")
     vault_index = os.path.join(VAULT_DIR, "index.md")
     if os.path.exists(vault_index):
         for cl, n in re.findall(r"^- \[\[(.+?)\]\] · (\d+) terms", read(vault_index), re.M):

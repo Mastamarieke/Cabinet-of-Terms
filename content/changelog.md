@@ -1,11 +1,10 @@
 ---
 title: "What changed"
-draft: true
 ---
 
-*One line per change, newest first. The front page shows the top of this list; this page keeps all of it. Rubrics: TERM (an entry), CLUSTER (a cluster's page or its members), SOURCE (literature), CURVE (the attention curves), GRAPH (the drawings), SITE (everything else).*
+*One line per change, newest first. The front page shows the top of this list; this page keeps all of it. Rubrics: NEW TERM (a term added), TERM (an entry), CLUSTER (a cluster's page or its members), SOURCE (literature), CURVE (the attention curves), GRAPH (the drawings), SITE (everything else), START (how the Cabinet began). WORD and QUESTION are not changes: they run in the news band to explain a term or ask what it asks.*
 
-## 8 November 2026
+## November 2026
 
 - **WORD** · [[Phubbing]]: your phone, mid-conversation
 - **WORD** · [[Sharenting]]: a child online before it can say no

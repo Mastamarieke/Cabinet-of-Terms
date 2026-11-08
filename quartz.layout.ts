@@ -10,8 +10,8 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [Component.Masthead()],
   footer: Component.Footer({
     links: {
+      // the Quartz credit stays; Quartz's own Discord is not a place for this project (08-11-2026)
       GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
     },
   }),
 }

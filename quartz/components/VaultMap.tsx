@@ -27,12 +27,12 @@ const VaultMap: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
         <span class="vault-map-title-name">Semantic field</span>
         <span class="vault-map-title-rest">
           {" "}
-          — the map of the <strong>Cabinet of Digital Terms</strong>: twenty clusters, every link
+          — the map of the <strong>Cabinet of Digital Terms</strong>: 20 clusters, every link
           between them
         </span>
       </h3>
       <div class="vault-map-inner">
-        <button type="button" class="vault-map-overview" hidden aria-label="Back to all twenty clusters">
+        <button type="button" class="vault-map-overview" hidden aria-label="Back to all 20 clusters">
           ← Overview
         </button>
       </div>
@@ -81,7 +81,7 @@ const VaultMap: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
               <circle cx="12" cy="13" r="3.4" />
             </svg>
           </button>
-          <button type="button" class="vault-map-reset vault-map-reset-label" aria-label="Back to all twenty clusters">
+          <button type="button" class="vault-map-reset vault-map-reset-label" aria-label="Back to all 20 clusters">
             <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"
               stroke-linecap="round" stroke-linejoin="round">
               <path d="M4 9V4h5M20 9V4h-5M4 15v5h5M20 15v5h-5" />

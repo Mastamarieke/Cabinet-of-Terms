@@ -22,7 +22,7 @@ export default ((opts?: Options) => {
             <img
               class="logo-light"
               src={joinSegments(pathToRoot(fileData.slug!), "static/d-alert-logo.svg")}
-              alt="D.Alert, Project Digitale Alertheid"
+              alt="D.Alert, Project Digital Alertness"
               width="148"
               height="32"
             />
@@ -33,7 +33,7 @@ export default ((opts?: Options) => {
               width="148"
               height="32"
             />
-            <span>Part of Project Digitale Alertheid</span>
+            <span>Part of Project Digital Alertness</span>
           </a>
           <span class="footer-sep">·</span>
           {/* one fixed place for contact on every page (07-11-2026) */}

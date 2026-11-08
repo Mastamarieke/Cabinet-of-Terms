@@ -12,7 +12,7 @@ import style from "./styles/ticker.scss"
 // `[[Term#curve]]` leads to that part of the entry (08-10, Marieke: "naar het betreffende
 // onderdeel"): the link carries #news-curve, and only a #news- fragment opens a panel, so a
 // link shared from the page itself still starts at the top of the text (the 16-09 revert).
-type Line = { rubric: string; text: string; target?: string; part?: string; date?: string; day?: number }
+type Line = { rubric: string; text: string; target?: string; part?: string; date?: string; day?: number; heading?: string }
 
 // Since 08-11-2026 (Marieke: "news and notes"): a rubric may be more than one word (NEW TERM,
 // START), every line carries the date of its heading, and the band mixes the newest news with
@@ -34,12 +34,15 @@ function readAll(): Line[] {
   const lines: Line[] = []
   let date: string | undefined
   let day: number | undefined
+  let heading: string | undefined
   for (const row of raw.split("\n")) {
     const h = HEAD.exec(row.trim())
     if (h) {
       const month = MONTHS.indexOf(h[2])
       date = month >= 0 ? `${Number(h[1])} ${MONTHS[month].slice(0, 3)}` : undefined
       day = month >= 0 ? Date.UTC(Number(h[3]), month, Number(h[1])) / 86400000 : undefined
+      // the anchor Quartz gives the heading on the changelog page: "7 November 2026" -> 7-november-2026
+      heading = `${Number(h[1])}-${h[2].toLowerCase()}-${h[3]}`
       continue
     }
     const m = LINE.exec(row.trim())
@@ -55,7 +58,7 @@ function readAll(): Line[] {
       return shown ?? name
     })
     // a QUESTION or a WORD (08-11-2026) shows no date: a question or a meaning does not grow old
-    lines.push({ rubric: m[1], text: text.replace(/\*/g, ""), target, part, date: m[1] === "QUESTION" || m[1] === "WORD" ? undefined : date, day })
+    lines.push({ rubric: m[1], text: text.replace(/\*/g, ""), target, part, date: m[1] === "QUESTION" || m[1] === "WORD" ? undefined : date, day, heading })
   }
   return lines
 }
@@ -119,13 +122,15 @@ export default ((opts?: { limit?: number }) => {
       const title = f.frontmatter?.title
       if (typeof title === "string") slugOf.set(title.toLowerCase(), slug)
     }
+    const allChanges = resolveRelative(fileData.slug!, "changelog" as FullSlug)
+    // a line without a wikilink, or with one that finds no page, leads to its own date on the
+    // changelog (08-11-2026, a reader's note: five lines led to the general cluster index)
     const hrefFor = (line: Line) => {
       const key = line.target?.toLowerCase()
       const slug = key ? slugOf.get(key) ?? slugOf.get(key.replace(/-/g, " ")) : undefined
-      const to = (slug ?? "Cabinet-of-Digital-Terms/index") as FullSlug
-      return resolveRelative(fileData.slug!, to) + (slug && line.part ? `#news-${line.part}` : "")
+      if (!slug) return allChanges + (line.heading ? `#${line.heading}` : "")
+      return resolveRelative(fileData.slug!, slug as FullSlug) + (line.part ? `#news-${line.part}` : "")
     }
-    const allChanges = resolveRelative(fileData.slug!, "changelog" as FullSlug)
 
     return (
       <div class="ticker" aria-label="News and notes: what changed, newest first, and a few older notes">
@@ -142,6 +147,8 @@ export default ((opts?: { limit?: number }) => {
         </div>
         <div class="ticker-track">
           <div class="ticker-reel">
+            {/* the second run only makes the loop seamless: hidden from screen readers and out of the
+                tab order (08-11-2026, a reader's note: its links could still be reached with Tab) */}
             {[0, 1].map((copy) => (
               <span class="ticker-run" aria-hidden={copy === 1 ? "true" : undefined}>
                 {lines.map((line) => (
@@ -149,6 +156,7 @@ export default ((opts?: { limit?: number }) => {
                     <a
                       class="ticker-item"
                       href={hrefFor(line)}
+                      tabIndex={copy === 1 ? -1 : undefined}
                       data-rubric={line.rubric}
                       data-text={line.date ? `${line.text} (${line.date})` : line.text}
                       aria-label={`${line.rubric}: ${line.text}${line.date ? `, ${line.date}` : ""}`}
@@ -161,7 +169,7 @@ export default ((opts?: { limit?: number }) => {
                     <span class="ticker-sep" aria-hidden="true" data-blocks="*" data-ink="red"></span>
                   </>
                 ))}
-                <a class="ticker-item ticker-all" href={allChanges} data-rubric="ALL" data-text="CHANGES →" aria-label="All changes">
+                <a class="ticker-item ticker-all" href={allChanges} tabIndex={copy === 1 ? -1 : undefined} data-rubric="ALL" data-text="CHANGES →" aria-label="All changes">
                   <span class="ticker-fallback">
                     <b>ALL</b> CHANGES →
                   </span>

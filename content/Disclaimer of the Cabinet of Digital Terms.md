@@ -1,13 +1,13 @@
 ---
 ---
 
-*Cabinet of Digital Terms · Project Digitale Alertheid, HAN CMD · last revised 14 October 2026*
+*Cabinet of Digital Terms · Project Digital Alertness, HAN CMD · last revised 14 October 2026*
 
 ---
 
 ## How this vault was made
 
-The Cabinet is written with **cartographic prompting**, a method developed within Project Digitale Alertheid. What the language model does and what the curator does is described under [How it was made](./how-it-is-made#how-it-was-made), and in full in **[Cartographic Prompting: Curatorial Practice Alongside Karpathy’s LLM Wiki](https://digitale-alertheid.nl/beyond-karpathys-llm-wiki-cartographic-prompting-as-curatorial-practice/)** (31 July 2026).
+The Cabinet is written with **cartographic prompting**, a method developed within Project Digital Alertness. What the language model does and what the curator does is described under [How it is made](./how-it-is-made#how-it-is-made), and in full in **[Cartographic Prompting: Curatorial Practice Alongside Karpathy’s LLM Wiki](https://digitale-alertheid.nl/beyond-karpathys-llm-wiki-cartographic-prompting-as-curatorial-practice/)** (31 July 2026).
 
 ---
 
@@ -29,4 +29,4 @@ The Cabinet is revised cluster by cluster. The date at the top of this page is w
 
 ---
 
-**Marieke de Vogel**, HAN CMD · *Project Digitale Alertheid, 2023–*
+**Marieke de Vogel**, HAN CMD · *Project Digital Alertness, 2023–*
