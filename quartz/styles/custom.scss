@@ -760,3 +760,10 @@ nav.pager .pg-step.now .pg-part { color: var(--han-red); }
 // grey ground, so the text that unfolds reads as one block (08-11-2026)
 body[data-slug="how-an-entry-grows"] article details details[open] { background: color-mix(in srgb, var(--lightgray) 55%, transparent); border-radius: 8px; padding: 0.3rem 0.9rem 0.6rem; margin: 0.4rem 0; }
 body[data-slug="how-an-entry-grows"] article details details[open] > summary { margin-left: -0.2rem; }
+
+// front page in reading order (08-11-2026, variant B): until the script has moved the news band
+// and the map into their slots they stay hidden, so nothing shows at the top and then jumps
+body:has(.home-slot[data-slot="ticker"]) .ticker,
+body:has(.home-slot[data-slot="map"]) #vault-map {
+  display: none;
+}

@@ -1,3 +1,4 @@
+import { placeHomeSlots } from "./util"
 // The band under the front-page title. The letters are the pixel face Silkscreen, drawn
 // once off screen and read back cell by cell, so that every lit cell becomes a plain block:
 // the look of a light board, not of a font. Until the face has loaded, the plain text in
@@ -114,6 +115,7 @@ function tapToPause(ticker: HTMLElement) {
 }
 
 document.addEventListener("nav", () => {
+  placeHomeSlots()
   const ticker = document.querySelector<HTMLElement>(".ticker")
   if (ticker) tapToPause(ticker)
   if (!ticker || ticker.classList.contains("drawn")) return

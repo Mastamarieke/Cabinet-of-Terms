@@ -1,6 +1,6 @@
 import type { ContentDetails } from "../../plugins/emitters/contentIndex"
 import { FullSlug, resolveRelative, getFullSlug } from "../../util/path"
-import { registerEscapeHandler } from "./util"
+import { registerEscapeHandler, placeHomeSlots } from "./util"
 
 // One circle per cluster, the terms of that cluster as points on its rim, and every link in
 // the vault drawn between those points. A single ring of 256 names cannot be read; twenty
@@ -821,5 +821,6 @@ async function renderVaultMap() {
 }
 
 document.addEventListener("nav", async () => {
+  placeHomeSlots()
   await renderVaultMap()
 })

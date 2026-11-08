@@ -44,3 +44,16 @@ export async function fetchCanonical(url: URL): Promise<Response> {
   const [_, redirect] = text.match(canonicalRegex) ?? []
   return redirect ? fetch(`${new URL(redirect, url)}`) : res
 }
+
+// The front page in reading order (08-11-2026, Marieke chose variant B): what the Cabinet is,
+// then the news, then the cluster cards, then the map. Ticker and map are rendered above the
+// article like on every page; the front page has empty slots, <div class="home-slot"
+// data-slot="ticker|map">, and they move there before they measure themselves. Called from the
+// nav handlers of both scripts, whichever runs first; the second call finds no slots left.
+export function placeHomeSlots() {
+  const parts: Record<string, string> = { ticker: ".ticker", map: "#vault-map" }
+  for (const slot of document.querySelectorAll<HTMLElement>(".home-slot[data-slot]")) {
+    const el = document.querySelector<HTMLElement>(parts[slot.dataset.slot ?? ""] ?? ":not(*)")
+    if (el) slot.replaceWith(el)
+  }
+}
