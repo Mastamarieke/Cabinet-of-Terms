@@ -28,6 +28,10 @@ Tools and terms: ==Obsidian==[^obsidian] · ==Quartz==[^quartz] · ==GitHub==[^g
 
 </details>
 
+### Made with a language model
+
+The Cabinet asks what you lose when the machine thinks for you, and it is itself written with a language model. The model drafts; the curator chooses the terms and the sources, reads, corrects, and decides where a term belongs, as described in [Cartographic Prompting](https://digitale-alertheid.nl/beyond-karpathys-llm-wiki-cartographic-prompting-as-curatorial-practice/). The model has made mistakes that look right, such as sources that do not exist and links that lead nowhere; each one that was found became a check that now runs for every entry. Sources listed under an entry that its text does not discuss are leads for anyone who wants to research the term further. The Termophile in the quote on the front page is critical of AI and uses it. More about the Cabinet itself: [Cabinet of Digital Terms: A Map of the Digital World](https://digitale-alertheid.nl/cabinet-of-digital-terms-a-map-of-the-digital-world-in-267-terms/).
+
 ---
 
 ## Drawings and images
