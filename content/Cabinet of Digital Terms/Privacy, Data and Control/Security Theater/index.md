@@ -1,7 +1,5 @@
 ---
 title: "Security Theater"
-aliases:
-  - "Cabinet of Digital Terms/Privacy, Data and Control/Security Theater"
 term: Security Theater
 cluster: Privacy, Data and Control
 analytical_layer: mechanism

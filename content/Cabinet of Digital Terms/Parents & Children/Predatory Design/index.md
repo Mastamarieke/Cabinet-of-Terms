@@ -2,7 +2,6 @@
 title: "Predatory Design"
 aliases:
   - Predatory Design
-  - "Cabinet of Digital Terms/Parents & Children/Predatory Design"
 term: Predatory Design
 cluster: Parents & Children
 analytical_layer: cause

@@ -1,7 +1,5 @@
 ---
 title: "CLOUD Act"
-aliases:
-  - "Cabinet of Digital Terms/Privacy, Data and Control/CLOUD Act"
 term: CLOUD Act
 cluster: Privacy, Data and Control
 analytical_layer: mechanism

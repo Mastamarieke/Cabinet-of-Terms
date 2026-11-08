@@ -227,6 +227,25 @@ def main():
             fm = re.match(r"---\n(.*?)\n---", text, re.S)
             if not fm or not re.search(r"^title:", fm.group(1), re.M):
                 untitled.append(n)
+    # an alias equal to the entry's own folder path (08-11-2026): Quartz writes a redirect page
+    # Term.html beside the folder Term/, and GitHub Pages serves that empty, noindex page for the
+    # address without a slash. Browsers follow it; reading tools and link previews do not (a
+    # reader's tool could not read Security Theater). Without the alias GitHub itself answers
+    # with a 301 to Term/, which every client follows, so a move into a folder needs no alias.
+    self_alias = []
+    for n, (path, _, text) in sorted(terms.items()):
+        if os.path.basename(path) == "index.md":
+            own = os.path.relpath(os.path.dirname(path), CONTENT_DIR).replace(os.sep, "/")
+            fm = re.match(r"---\n(.*?)\n---", text, re.S)
+            if fm and re.search(r'^\s+-\s+"?' + re.escape(own) + r'"?\s*$', fm.group(1), re.M):
+                self_alias.append(n)
+    if self_alias:
+        problems += 1
+        print(f"{len(self_alias)} folder entr{'y' if len(self_alias) == 1 else 'ies'} with an alias equal to its own path (an empty redirect page at the address without slash):\n")
+        for n in self_alias:
+            print(f"  [[{n}]]")
+        print()
+
     if untitled:
         problems += 1
         print(f"{len(untitled)} folder entr{'y' if len(untitled) == 1 else 'ies'} without title: in frontmatter (shown as \"index\" on the site):\n")

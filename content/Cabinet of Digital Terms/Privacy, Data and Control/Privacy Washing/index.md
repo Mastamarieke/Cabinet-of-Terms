@@ -1,7 +1,5 @@
 ---
 title: "Privacy Washing"
-aliases:
-  - "Cabinet of Digital Terms/Privacy, Data and Control/Privacy Washing"
 term: Privacy Washing
 cluster: Privacy, Data and Control
 analytical_layer: mechanism

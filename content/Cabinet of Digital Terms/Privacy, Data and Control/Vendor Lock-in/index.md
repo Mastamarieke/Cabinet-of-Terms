@@ -1,7 +1,5 @@
 ---
 title: "Vendor Lock-in"
-aliases:
-  - "Cabinet of Digital Terms/Privacy, Data and Control/Vendor Lock-in"
 term: Vendor Lock-in
 cluster: Privacy, Data and Control
 analytical_layer: mechanism
