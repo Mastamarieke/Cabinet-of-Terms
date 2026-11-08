@@ -1,11 +1,11 @@
 ---
-title: How an entry grows
+title: A living lab
 description: "How an entry of the Cabinet of Digital Terms grows from a first to a third version, part by part, and where each entry stands now."
 ---
 
 <a id="where-each-entry-stands"></a>
 
-Every entry has the same basic structure, and some carry more, depending on how far they have been revised. Each entry names something you already half-knew, so that you recognise it, can talk about it, and notice it the next time it happens.
+The Cabinet is a living lab, a place to experiment: that is a liberty we take. There are now three versions, shown below.
 
 ## Versions
 
@@ -184,4 +184,4 @@ Entries are tested with readers, and what they say goes back into the method. Te
 
 ---
 
-<nav class="pager" aria-label="Pages about the Cabinet, page 3 of 3"><a class="pg-arrow prev" href="./how-it-is-made" aria-label="Previous page: How it is made"><span class="pg-circ">←</span><span class="pg-t">How it is made</span></a><ol class="pg-steps"><li class="pg-step done"><a href="./"><span class="pg-dot">1</span><span class="pg-part">Part 1</span><span class="pg-lbl">Start</span></a></li><li class="pg-step done"><a href="./how-it-is-made"><span class="pg-dot">2</span><span class="pg-part">Part 2</span><span class="pg-lbl">How it is made</span></a></li><li class="pg-step now"><a href="./how-an-entry-grows" aria-current="page"><span class="pg-dot">3</span><span class="pg-part">Part 3</span><span class="pg-lbl">How an entry grows</span></a></li></ol><span class="pg-arrow next empty"></span></nav>
+<nav class="pager" aria-label="Pages about the Cabinet, page 3 of 3"><a class="pg-arrow prev" href="./how-it-is-made" aria-label="Previous page: How it is made"><span class="pg-circ">←</span><span class="pg-t">How it is made</span></a><ol class="pg-steps"><li class="pg-step done"><a href="./"><span class="pg-dot">1</span><span class="pg-part">Part 1</span><span class="pg-lbl">Start</span></a></li><li class="pg-step done"><a href="./how-it-is-made"><span class="pg-dot">2</span><span class="pg-part">Part 2</span><span class="pg-lbl">How it is made</span></a></li><li class="pg-step now"><a href="./how-an-entry-grows" aria-current="page"><span class="pg-dot">3</span><span class="pg-part">Part 3</span><span class="pg-lbl">A living lab</span></a></li></ol><span class="pg-arrow next empty"></span></nav>

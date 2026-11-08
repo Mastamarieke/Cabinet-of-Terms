@@ -1,17 +1,13 @@
 ---
 title: How it is made
-description: "How the Cabinet of Digital Terms is made: a living lab, cartographic prompting in five steps, and the drawings and images it grew from."
+description: "How the Cabinet of Digital Terms is made: cartographic prompting in five steps, and the drawings and images it grew from."
 ---
 
-## A living lab
+## Cartographic Prompting
 
-The Cabinet is revised cluster by cluster, and you are reading it while that happens. *Privacy, Data and Control* is the first cluster in the third version: sources read and split into primary and secondary, a semantic landscape, an attention curve, and relations argued in the text as well as listed. *Gender & Identity* was rewritten earlier on the research literature and will go through the same method next. In other clusters some entries, such as Tradwife and Sharenting, already carry several layers; most are in the first version. Clusters get added and connections get corrected as the network shows what it is missing. Revised entries are being tested with readers, and what they tell us goes back into the method.
+The Cabinet asks what you lose when the machine thinks for you, and it is itself written with a language model. The model drafts; the curator chooses the terms and the sources, reads, corrects, and decides where a term belongs, as described in [Cartographic Prompting](https://digitale-alertheid.nl/beyond-karpathys-llm-wiki-cartographic-prompting-as-curatorial-practice/). The model has made mistakes that look right, such as sources that do not exist and links that lead nowhere; each one that was found became a check that now runs for every entry. Sources listed under an entry that its text does not discuss are leads for anyone who wants to research the term further. The Termophile in the quote on the front page is critical of AI and uses it. More about the Cabinet itself: [Cabinet of Digital Terms: A Map of the Digital World](https://digitale-alertheid.nl/cabinet-of-digital-terms-a-map-of-the-digital-world-in-267-terms/).
 
----
-
-## How it is made
-
-The Cabinet is a lab, and its method is called ==Cartographic Prompting==[^cp]: a language model does not start from a blank page, it first gets a map.
+==Cartographic Prompting==[^cp] is a term the curator coined, because the Cabinet is put together by prompting, curating and directing: a language model does not start from a blank page, it first gets a map.
 
 <div role="list" aria-label="How an entry is made, in five steps" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(118px,1fr));gap:8px;margin:1em 0 1.2em"><div style="background:#FDECF2;color:#2b2b2b;border-radius:10px;padding:10px 12px;font-size:.86em;line-height:1.4"><div style="font-weight:700;font-size:1.05em;margin-bottom:3px"><span style="opacity:.6;margin-right:.35em">1</span>A term<span aria-hidden="true" style="float:right;color:#E50056">→</span></div>The curator proposes it and chooses the sources.</div><div style="background:#FAD3E2;color:#2b2b2b;border-radius:10px;padding:10px 12px;font-size:.86em;line-height:1.4"><div style="font-weight:700;font-size:1.05em;margin-bottom:3px"><span style="opacity:.6;margin-right:.35em">2</span>The map<span aria-hidden="true" style="float:right;color:#E50056">→</span></div>The clusters, the terms already there, the writing instructions, where to look.</div><div style="background:#F7B8D0;color:#2b2b2b;border-radius:10px;padding:10px 12px;font-size:.86em;line-height:1.4"><div style="font-weight:700;font-size:1.05em;margin-bottom:3px"><span style="opacity:.6;margin-right:.35em">3</span>Placement<span aria-hidden="true" style="float:right;color:#E50056">→</span></div>The model works out the cluster, the neighbours, and how the term differs from them.</div><div style="background:#F7B8D0;color:#2b2b2b;border-radius:10px;padding:10px 12px;font-size:.86em;line-height:1.4"><div style="font-weight:700;font-size:1.05em;margin-bottom:3px"><span style="opacity:.6;margin-right:.35em">4</span>The curator decides<span aria-hidden="true" style="float:right;color:#E50056">→</span></div>Accepts, corrects, or goes against the model.</div><div style="background:#E50056;color:#ffffff;border-radius:10px;padding:10px 12px;font-size:.86em;line-height:1.4"><div style="font-weight:700;font-size:1.05em;margin-bottom:3px"><span style="opacity:.6;margin-right:.35em">5</span>The entry</div>Written, then revised in up to three versions, cluster by cluster.</div></div>
 
@@ -28,15 +24,11 @@ Tools and terms: ==Obsidian==[^obsidian] · ==Quartz==[^quartz] · ==GitHub==[^g
 
 </details>
 
-### Made with a language model
-
-The Cabinet asks what you lose when the machine thinks for you, and it is itself written with a language model. The model drafts; the curator chooses the terms and the sources, reads, corrects, and decides where a term belongs, as described in [Cartographic Prompting](https://digitale-alertheid.nl/beyond-karpathys-llm-wiki-cartographic-prompting-as-curatorial-practice/). The model has made mistakes that look right, such as sources that do not exist and links that lead nowhere; each one that was found became a check that now runs for every entry. Sources listed under an entry that its text does not discuss are leads for anyone who wants to research the term further. The Termophile in the quote on the front page is critical of AI and uses it. More about the Cabinet itself: [Cabinet of Digital Terms: A Map of the Digital World](https://digitale-alertheid.nl/cabinet-of-digital-terms-a-map-of-the-digital-world-in-267-terms/).
-
 ---
 
-## Drawings and images
+## Cabinet and visualisations
 
-The sketches the Cabinet grew from, the parts of an entry described in [How an entry grows](./how-an-entry-grows), and the orbit map. Click a card to see it large, with what it shows.
+The sketches the Cabinet grew from, the parts of an entry described in [A living lab](./how-an-entry-grows), and the orbit map. Click a card to see it large, with what it shows.
 
 <div class="flipcards flipcards-pair flipcards-detail">
 <div class="flipcard" tabindex="0" role="button" aria-pressed="false" aria-label="Word clouds by hand: turn the card">
@@ -187,7 +179,7 @@ Jessica Navarro and Jonathan Tudge brought the model online in 2022, and found t
 
 ---
 
-<nav class="pager" aria-label="Pages about the Cabinet, page 2 of 3"><a class="pg-arrow prev" href="./" aria-label="Previous page: Start"><span class="pg-circ">←</span><span class="pg-t">Start</span></a><ol class="pg-steps"><li class="pg-step done"><a href="./"><span class="pg-dot">1</span><span class="pg-part">Part 1</span><span class="pg-lbl">Start</span></a></li><li class="pg-step now"><a href="./how-it-is-made" aria-current="page"><span class="pg-dot">2</span><span class="pg-part">Part 2</span><span class="pg-lbl">How it is made</span></a></li><li class="pg-step next"><a href="./how-an-entry-grows"><span class="pg-dot">3</span><span class="pg-part">Part 3</span><span class="pg-lbl">How an entry grows</span></a></li></ol><a class="pg-arrow next" href="./how-an-entry-grows" aria-label="Next page: How an entry grows"><span class="pg-t">How an entry grows</span><span class="pg-circ">→</span></a></nav>
+<nav class="pager" aria-label="Pages about the Cabinet, page 2 of 3"><a class="pg-arrow prev" href="./" aria-label="Previous page: Start"><span class="pg-circ">←</span><span class="pg-t">Start</span></a><ol class="pg-steps"><li class="pg-step done"><a href="./"><span class="pg-dot">1</span><span class="pg-part">Part 1</span><span class="pg-lbl">Start</span></a></li><li class="pg-step now"><a href="./how-it-is-made" aria-current="page"><span class="pg-dot">2</span><span class="pg-part">Part 2</span><span class="pg-lbl">How it is made</span></a></li><li class="pg-step next"><a href="./how-an-entry-grows"><span class="pg-dot">3</span><span class="pg-part">Part 3</span><span class="pg-lbl">A living lab</span></a></li></ol><a class="pg-arrow next" href="./how-an-entry-grows" aria-label="Next page: A living lab"><span class="pg-t">A living lab</span><span class="pg-circ">→</span></a></nav>
 
 
 [^bronfenbrenner]: Developmental psychologist at Cornell University (1917–2005). In *The Ecology of Human Development* (1979) he described how a child grows up inside nested systems, from the family to the culture around it.

@@ -6,7 +6,7 @@ import { resolveRelative, FullSlug } from "../util/path"
 // accident; the Explorer now leaves them out (filterFn in quartz.layout.ts) and lists them here.
 const PAGES: [string, string][] = [
   ["how-it-is-made", "How it is made"],
-  ["how-an-entry-grows", "How an entry grows"],
+  ["how-an-entry-grows", "A living lab"],
   ["Reading-the-graph", "Reading the graph"],
   ["Disclaimer-of-the-Cabinet-of-Digital-Terms", "Disclaimer"],
 ]

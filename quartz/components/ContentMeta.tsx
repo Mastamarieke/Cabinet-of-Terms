@@ -121,7 +121,7 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
         // first on the line (08-11-2026, Marieke): the version says how far the entry is, the date
         // and the reading time are secondary
         segments.unshift(
-          <a class="stage" data-version={stage.startsWith("Third") ? "3" : stage.startsWith("Second") ? "2" : "1"} href={href} title="How far this entry has been revised: see How an entry grows">
+          <a class="stage" data-version={stage.startsWith("Third") ? "3" : stage.startsWith("Second") ? "2" : "1"} href={href} title="How far this entry has been revised: see A living lab">
             {stage}
           </a>,
         )
