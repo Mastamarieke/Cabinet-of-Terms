@@ -120,7 +120,7 @@ In some entries a designer draws the term as an image: **Narrative Typography**.
 
 *Since October 2026, starting with [[Privacy, Data and Control]].*
 
-*Staged: the opening line makes you an imagined actor in the situation. The entry shows what the term puts on stage, what stays in the wings, who works behind the scenes and how it plays in the public eye. Then the text breaks the fourth wall: it turns to you, and you can answer as yourself. That is agency: the power to act and to see what your action does.*
+*Staged: the opening line makes you an imagined actor in the situation. The entry shows what the term puts on stage, what stays in the wings, who works behind the scenes and how it plays in the public eye. Then the text breaks the fourth wall: it turns to you, and you can answer as yourself. Recognising the situation is where agency begins: the power to act, and to see what your action can do.*
 - **The opening line** ends in a question about the term; **The Friction** answers it.
 - **Every part** has its own question to answer: where do you already feel this, what does the term itself say, what drives it, where does it chafe, and what do you take with you.
 - **Relations argued**: neighbouring terms go into the text where they help answer one of those questions. Relations no longer follow a fixed causal chain: each one is placed by the role it plays in the same situation, and every term listed under **Related terms** says why it is there.

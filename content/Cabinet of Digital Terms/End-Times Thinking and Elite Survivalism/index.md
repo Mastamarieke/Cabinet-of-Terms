@@ -6,7 +6,7 @@ title: "End-Times Thinking and Elite Survivalism"
 
 This cluster maps ideologies that take civilisational collapse as given and build a power or identity project on top of it. The apocalypse as premise. The bunker as conclusion.
 
-The question this cluster asks: who benefits from the end of the world being inevitable?
+The question this cluster asks: who benefits when the end of the world is treated as a given?
 
 ---
 

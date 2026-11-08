@@ -6,7 +6,7 @@ title: "SF as Ideology"
 
 This cluster maps science fiction terms deployed as serious policy or identity rhetoric. When the impossible becomes the inevitable, ideological choices hide behind visionary language.
 
-The question this cluster asks: who benefits from making the future sound inevitable?
+The question this cluster asks: who benefits when a warning from science fiction is sold as a plan?
 
 ---
 
