@@ -11,6 +11,11 @@ const isSource = (a: HTMLAnchorElement) =>
 
 type Control = { button: HTMLButtonElement; phrase: HTMLElement | null; fill: (panel: HTMLElement) => void; kind: "star" | "note" | "link"; href?: string }
 
+// every listener carries the signal of the current page and is removed on the next navigation.
+// Quartz morphs the old page into the new one, so the ==phrase== element survives a visit away
+// and back; without this it kept its old listener and opened one more panel per visit (08-11-2026)
+let signal: AbortSignal
+
 function makePanel(p: HTMLElement) {
   let panel: HTMLDivElement | null = null
   let open: Control | null = null
@@ -47,7 +52,7 @@ function makePanel(p: HTMLElement) {
         // a link inside the panel still works
         panel.addEventListener("click", (e) => {
           if (!(e.target as HTMLElement).closest("a")) close()
-        })
+        }, { signal })
       }
       placeAfterSentence(panel, c.button, p)
       panel.className = c.kind === "star" ? "src-panel" : "note-panel"
@@ -65,14 +70,14 @@ function makePanel(p: HTMLElement) {
       if (c.kind === "note") c.button.textContent = "▴"
       if (c.kind === "link") c.button.textContent = "↗"
       c.phrase?.classList.add("lit")
-    })
+    }, { signal })
     if (c.phrase) {
       c.phrase.classList.add("sourced")
-      c.phrase.addEventListener("click", () => c.button.click())
-      c.phrase.addEventListener("mouseenter", () => c.button.classList.add("hot"))
-      c.phrase.addEventListener("mouseleave", () => c.button.classList.remove("hot"))
-      c.button.addEventListener("mouseenter", () => c.phrase!.classList.add("hot"))
-      c.button.addEventListener("mouseleave", () => c.phrase!.classList.remove("hot"))
+      c.phrase.addEventListener("click", () => c.button.click(), { signal })
+      c.phrase.addEventListener("mouseenter", () => c.button.classList.add("hot"), { signal })
+      c.phrase.addEventListener("mouseleave", () => c.button.classList.remove("hot"), { signal })
+      c.button.addEventListener("mouseenter", () => c.phrase!.classList.add("hot"), { signal })
+      c.button.addEventListener("mouseleave", () => c.phrase!.classList.remove("hot"), { signal })
     }
   }
 }
@@ -384,6 +389,9 @@ function sourcesBlock(article: HTMLElement) {
 }
 
 document.addEventListener("nav", () => {
+  const ctl = new AbortController()
+  signal = ctl.signal
+  window.addCleanup(() => ctl.abort())
   const article = document.querySelector("article")
   if (!article) return
   sourcesBlock(article as HTMLElement)
