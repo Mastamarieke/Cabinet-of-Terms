@@ -767,3 +767,17 @@ body:has(.home-slot[data-slot="ticker"]) .ticker,
 body:has(.home-slot[data-slot="map"]) #vault-map {
   display: none;
 }
+
+// No sideways scrolling (08-11-2026, Marieke in Safari: "ik kan de pagina van links naar rechts
+// scrollen", and the red band and the title row moved apart from the page). Quartz sets html to
+// width: 100vw, and 100vw includes the scrollbar: where scrollbars are always shown (a Mac with
+// a mouse, most Windows machines) the page is a scrollbar wider than the window. overflow-x:
+// hidden does not stop Safari's trackpad; clip does, and it creates no scroll box, so sticky
+// columns keep working. The fixed band and title stay put while the page slid under them.
+html {
+  width: auto;
+  overflow-x: clip;
+}
+body {
+  overflow-x: clip;
+}
