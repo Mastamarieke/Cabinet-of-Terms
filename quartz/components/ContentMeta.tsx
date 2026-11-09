@@ -39,8 +39,10 @@ function stageOf(fileData: QuartzComponentProps["fileData"]): string | null {
   const isFolder = rest[rest.length - 1] === "index.md"
   if (rest.length < 2 || (isFolder && rest.length < 3)) return null // the vault page or a cluster's About page
   if ((fileData.frontmatter?.tags as string[] | undefined)?.includes("source")) return null
-  if (FULL_METHOD.includes(rest[0])) return "Third version"
   const fm = fileData.frontmatter ?? {}
+  // one entry outside a FULL_METHOD cluster can be in the third version too (09-11-2026,
+  // Cleanfluencer): 'stage: 3' in its frontmatter; build_layers_table.py reads the same field
+  if (FULL_METHOD.includes(rest[0]) || String(fm.stage ?? "") === "3") return "Third version"
   const dir = path.dirname(fp)
   const name = isFolder ? path.basename(dir) : path.basename(fp, ".md")
   const curve = isFolder ? path.join(dir, "attention.json") : path.join(dir, `attention-${name}.json`)

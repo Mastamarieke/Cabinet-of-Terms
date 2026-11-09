@@ -60,8 +60,11 @@ for cluster_dir in sorted(glob.glob(os.path.join(VAULT, "*"))):
         image = re.search(r"^entry_image:", fm, re.M) is not None
         curve_file = os.path.join(here, "attention.json") if folder else os.path.join(here, f"attention-{name}.json")
         n = curve_sources(curve_file) if os.path.exists(curve_file) else 0
-        if sources or landscape or n or image:
-            rows.append((cluster, name, sources, landscape, n, image))
+        # one entry can be in the third version outside a FULL_METHOD cluster (09-11-2026,
+        # Cleanfluencer): 'stage: 3' in its frontmatter; ContentMeta.tsx reads the same field
+        stage3 = re.search(r"^stage:\s*3\s*$", fm, re.M) is not None
+        if sources or landscape or n or image or stage3:
+            rows.append((cluster, name, sources, landscape, n, image, stage3))
 
 # Clusters that have been through the full method (the five steps in Doctor Alert, 13-10).
 # Add a cluster here when the curator declares it done.
@@ -87,8 +90,8 @@ for cluster_dir in sorted(glob.glob(os.path.join(VAULT, "*"))):
         all_entries[cluster] = n
 
 with_layers = {(c, name) for c, name, *_ in rows}
-full = sorted([r for r in rows if r[0] in FULL_METHOD], key=lambda r: r[1].lower())
-earlier = sorted([r for r in rows if r[0] not in FULL_METHOD], key=lambda r: (r[0], r[1].lower()))
+full = sorted([r for r in rows if r[0] in FULL_METHOD or r[6]], key=lambda r: (r[0], r[1].lower()))
+earlier = sorted([r for r in rows if r[0] not in FULL_METHOD and not r[6]], key=lambda r: (r[0], r[1].lower()))
 rest_clusters = sorted(c for c, n in all_entries.items() if n > sum(1 for r in rows if r[0] == c))
 rest_count = sum(all_entries.values()) - len(rows)
 

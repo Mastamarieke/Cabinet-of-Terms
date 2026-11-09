@@ -8,6 +8,7 @@ cluster: Beauty, Influencers & Self-Image
 analytical_layer: mechanism
 status: publieksversie
 version: V1
+stage: 3
 analysis_version: pending
 attention_moments:
   - month: 2025-11
