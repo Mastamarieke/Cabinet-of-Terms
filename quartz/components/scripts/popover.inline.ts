@@ -129,7 +129,9 @@ async function mouseEnterHandler(
         break
       }
       // a cluster's About page (10-11-2026, Marieke: in the menu "de prangende vragen en wat het
-      // cluster is"): title, opening line, what the cluster is, and the question it asks
+      // cluster is"). Same build as a term card (Marieke, 10-11: "vormgeving consistenter, de
+      // vraag als eerste bovenaan"): path, title, the question where a term has its opening
+      // question, and what the cluster is in the box where a term has its definition
       const question = article
         ? [...article.querySelectorAll(":scope > p")].find((el) =>
             (el.textContent ?? "").trim().startsWith("The question this cluster asks"),
@@ -138,11 +140,21 @@ async function mouseEnterHandler(
       if (article && question) {
         const card = document.createElement("div")
         card.className = "term-preview cluster-preview"
+        const crumbs = html.querySelector("nav.breadcrumb-container")
         const title = html.querySelector("h1.article-title")
         const paras = [...article.querySelectorAll(":scope > p")]
-        const hook = paras.find((el) => el.querySelector(":scope > em > strong")) ?? null
-        const what = paras.find((el) => el !== hook && el !== question) ?? null
-        for (const el of [title, hook, what, question]) if (el) card.appendChild(el)
+        const opening = paras.find((el) => el.querySelector(":scope > em > strong")) ?? null
+        const what = paras.find((el) => el !== opening && el !== question) ?? null
+        const q = (question.textContent ?? "").replace(/^\s*The question this cluster asks:\s*/, "").trim()
+        const ask = document.createElement("p")
+        ask.innerHTML = `<em><strong></strong></em>`
+        ask.querySelector("strong")!.textContent = q.charAt(0).toUpperCase() + q.slice(1)
+        let box: HTMLElement | null = null
+        if (what) {
+          box = document.createElement("blockquote")
+          box.appendChild(what)
+        }
+        for (const el of [crumbs, title, ask, box]) if (el) card.appendChild(el)
         popoverInner.appendChild(card)
         popoverInner.classList.add("term-preview-inner")
         break
