@@ -114,4 +114,14 @@
     font-size: 0.92rem;
     line-height: 1.45;
   }
+  // the Narrative Typography drawing across the top, whole and on paper white (10-11-2026)
+  .preview-drawing {
+    display: block;
+    width: 100%;
+    height: 110px;
+    object-fit: contain;
+    background: #fff;
+    border-radius: 4px;
+    margin: 0 0 0.6rem;
+  }
 }

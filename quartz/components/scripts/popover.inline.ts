@@ -121,9 +121,28 @@ async function mouseEnterHandler(
         card.className = "term-preview"
         const crumbs = html.querySelector("nav.breadcrumb-container")
         const title = html.querySelector("h1.article-title")
-        const first = article.querySelector(":scope > p")
-        const hook = first && first.querySelector(":scope > em > strong") ? first : null
-        for (const el of [crumbs, title, hook, quote]) if (el) card.appendChild(el)
+        // the opening question is the first paragraph in bold italics (an entry with a drawing
+        // has the drawing and its credit in the paragraphs before it)
+        const hook =
+          [...article.querySelectorAll(":scope > p")].find((el) =>
+            el.querySelector(":scope > em > strong"),
+          ) ?? null
+        // the Narrative Typography drawing across the top (10-11-2026, Marieke chose B in
+        // werk/prototype-tekening-in-voorproefje.html): a small cut-out from static/drawings-small,
+        // named after the drawing; if there is none yet, the drawing itself
+        let banner: HTMLImageElement | null = null
+        const drawing = article.querySelector<HTMLImageElement>(":scope > p > img, :scope > img")
+        if (drawing && drawing.compareDocumentPosition(quote) & Node.DOCUMENT_POSITION_FOLLOWING) {
+          const full = drawing.src
+          const name = full.split("/").pop()!.replace(/\.[a-z]+$/i, "")
+          const root = full.split("/Cabinet-of-Digital-Terms/")[0]
+          banner = document.createElement("img")
+          banner.className = "preview-drawing"
+          banner.alt = ""
+          banner.src = `${root}/static/drawings-small/${name}.png`
+          banner.addEventListener("error", () => (banner!.src = full), { once: true })
+        }
+        for (const el of [banner, crumbs, title, hook, quote]) if (el) card.appendChild(el)
         popoverInner.appendChild(card)
         popoverInner.classList.add("term-preview-inner")
         break
