@@ -1,4 +1,4 @@
-import { computePosition, flip, inline, shift } from "@floating-ui/dom"
+import { computePosition, flip, inline, offset, shift } from "@floating-ui/dom"
 import { normalizeRelativeURLs } from "../../util/path"
 import { fetchCanonical } from "./util"
 
@@ -15,9 +15,25 @@ async function mouseEnterHandler(
   }
 
   async function setPosition(popoverElement: HTMLElement) {
-    const { x, y } = await computePosition(link, popoverElement, {
+    // in the menu the card opens to the right of the whole menu, level with the link, so the
+    // menu itself stays visible (a short name would otherwise put the card over longer ones)
+    const menu = link.closest(".explorer") as HTMLElement | null
+    const inMenu = !!menu
+    const reference = menu
+      ? {
+          getBoundingClientRect: () => {
+            const l = link.getBoundingClientRect()
+            const right = menu.getBoundingClientRect().right
+            return { x: right, y: l.top, left: right, right, top: l.top, bottom: l.bottom, width: 0, height: l.height }
+          },
+        }
+      : link
+    const { x, y } = await computePosition(reference, popoverElement, {
       strategy: "fixed",
-      middleware: [inline({ x: clientX, y: clientY }), shift(), flip()],
+      placement: inMenu ? "right-start" : "bottom",
+      middleware: inMenu
+        ? [offset(12), flip(), shift({ padding: 8 })]
+        : [inline({ x: clientX, y: clientY }), shift(), flip()],
     })
     Object.assign(popoverElement.style, {
       transform: `translate(${x.toFixed()}px, ${y.toFixed()}px)`,
@@ -112,6 +128,27 @@ async function mouseEnterHandler(
         popoverInner.classList.add("term-preview-inner")
         break
       }
+      // a cluster's About page (10-11-2026, Marieke: in the menu "de prangende vragen en wat het
+      // cluster is"): title, opening line, what the cluster is, and the question it asks
+      const question = article
+        ? [...article.querySelectorAll(":scope > p")].find((el) =>
+            (el.textContent ?? "").trim().startsWith("The question this cluster asks"),
+          )
+        : undefined
+      if (article && question) {
+        const card = document.createElement("div")
+        card.className = "term-preview cluster-preview"
+        const title = html.querySelector("h1.article-title")
+        const paras = [...article.querySelectorAll(":scope > p")]
+        const hook = paras.find((el) => el.querySelector(":scope > em > strong")) ?? null
+        const what = paras.find((el) => el !== hook && el !== question) ?? null
+        for (const el of [title, hook, what, question]) if (el) card.appendChild(el)
+        popoverInner.appendChild(card)
+        popoverInner.classList.add("term-preview-inner")
+        break
+      }
+      // in the menu only terms and clusters get a preview; other pages would be a long block
+      if (link.closest(".explorer")) return
       const elts = [...html.getElementsByClassName("popover-hint")]
       if (elts.length === 0) return
 
@@ -144,6 +181,31 @@ document.addEventListener("nav", () => {
     window.addCleanup(() => {
       link.removeEventListener("mouseenter", mouseEnterHandler)
       link.removeEventListener("mouseleave", clearActivePopover)
+    })
+  }
+
+  // the menu on the left (10-11-2026): its links are built by the explorer script after this
+  // runs, so they are reached through the explorer itself, one link at a time
+  for (const explorer of document.querySelectorAll<HTMLElement>(".explorer")) {
+    let current: HTMLAnchorElement | null = null
+    const over = (e: MouseEvent) => {
+      const a = (e.target as HTMLElement).closest?.("a[href]") as HTMLAnchorElement | null
+      if (!a || a === current || !explorer.contains(a)) return
+      current = a
+      mouseEnterHandler.call(a, e)
+    }
+    const out = (e: MouseEvent) => {
+      if (!current) return
+      const to = e.relatedTarget as Node | null
+      if (to && current.contains(to)) return
+      current = null
+      clearActivePopover()
+    }
+    explorer.addEventListener("mouseover", over)
+    explorer.addEventListener("mouseout", out)
+    window.addCleanup(() => {
+      explorer.removeEventListener("mouseover", over)
+      explorer.removeEventListener("mouseout", out)
     })
   }
 })
