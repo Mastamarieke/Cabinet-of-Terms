@@ -45,6 +45,9 @@ function readAll(): Line[] {
       heading = `${Number(h[1])}-${h[2].toLowerCase()}-${h[3]}`
       continue
     }
+    // a line can stay on the changelog page but leave the band (10-11-2026, Marieke: the new
+    // front page "mag weg uit de newsticker"): end it with <!-- no ticker -->, invisible on the page
+    if (row.includes("<!-- no ticker -->")) continue
     const m = LINE.exec(row.trim())
     if (!m) continue
     let target: string | undefined

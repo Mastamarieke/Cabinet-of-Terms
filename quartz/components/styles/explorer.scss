@@ -285,5 +285,12 @@ li:has(> .folder-outer:not(.open)) > .folder-container > svg {
     .explorer-content > .explorer-ul {
       overscroll-behavior: contain;
     }
+    // while the menu is open on a phone the page under it is hidden: the graph's switches
+    // ("Cluster: all in view", "Hide backlinks") sat in a layer above the menu and showed
+    // through it (10-11-2026, Marieke's phone)
+    .center,
+    footer {
+      visibility: hidden;
+    }
   }
 }

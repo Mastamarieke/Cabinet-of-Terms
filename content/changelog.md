@@ -24,7 +24,7 @@ title: "What changed"
 
 ## 7 November 2026
 
-- **SITE** · a new front page, in three pages
+- **SITE** · a new front page, in three pages <!-- no ticker -->
 - **SITE** · every entry says which version it is in
 - **SITE** · the name of the Cabinet stays in view
 - **TERM** · [[Cleanfluencer]]: a new opening question
