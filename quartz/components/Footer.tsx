@@ -23,15 +23,15 @@ export default ((opts?: Options) => {
               class="logo-light"
               src={joinSegments(pathToRoot(fileData.slug!), "static/dr-alert-logo.svg")}
               alt="Dr. Alert, Project Digital Alertness"
-              width="166"
-              height="32"
+              width="109"
+              height="21"
             />
             <img
               class="logo-dark"
               src={joinSegments(pathToRoot(fileData.slug!), "static/dr-alert-logo-dark.svg")}
               alt=""
-              width="166"
-              height="32"
+              width="109"
+              height="21"
             />
             <span>Part of Project Digital Alertness</span>
           </a>
