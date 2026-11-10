@@ -3,6 +3,17 @@ import { normalizeRelativeURLs } from "../../util/path"
 import { fetchCanonical } from "./util"
 
 const p = new DOMParser()
+
+// the path in a preview says where a page lives, not its name again: the name follows as the
+// title (10-11-2026, Marieke: "dubbele titels?" when a long name wrapped onto its own line)
+function pathOnly(nav: Element | null): Element | null {
+  if (!nav) return null
+  const els = nav.querySelectorAll(":scope > .breadcrumb-element")
+  els[els.length - 1]?.remove()
+  els[els.length - 2]?.querySelector(":scope > p")?.remove()
+  return nav
+}
+
 let activeAnchor: HTMLAnchorElement | null = null
 
 async function mouseEnterHandler(
@@ -119,7 +130,7 @@ async function mouseEnterHandler(
       if (article && quote) {
         const card = document.createElement("div")
         card.className = "term-preview"
-        const crumbs = html.querySelector("nav.breadcrumb-container")
+        const crumbs = pathOnly(html.querySelector("nav.breadcrumb-container"))
         const title = html.querySelector("h1.article-title")
         // the opening question is the first paragraph in bold italics (an entry with a drawing
         // has the drawing and its credit in the paragraphs before it)
@@ -159,7 +170,7 @@ async function mouseEnterHandler(
       if (article && question) {
         const card = document.createElement("div")
         card.className = "term-preview cluster-preview"
-        const crumbs = html.querySelector("nav.breadcrumb-container")
+        const crumbs = pathOnly(html.querySelector("nav.breadcrumb-container"))
         const title = html.querySelector("h1.article-title")
         const paras = [...article.querySelectorAll(":scope > p")]
         const opening = paras.find((el) => el.querySelector(":scope > em > strong")) ?? null
