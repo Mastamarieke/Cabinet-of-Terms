@@ -21,16 +21,16 @@ export default ((opts?: Options) => {
           <a class="footer-project" href="https://digitale-alertheid.nl/">
             <img
               class="logo-light"
-              src={joinSegments(pathToRoot(fileData.slug!), "static/d-alert-logo.svg")}
-              alt="D.Alert, Project Digital Alertness"
-              width="148"
+              src={joinSegments(pathToRoot(fileData.slug!), "static/dr-alert-logo.svg")}
+              alt="Dr. Alert, Project Digital Alertness"
+              width="166"
               height="32"
             />
             <img
               class="logo-dark"
-              src={joinSegments(pathToRoot(fileData.slug!), "static/d-alert-logo-dark.svg")}
+              src={joinSegments(pathToRoot(fileData.slug!), "static/dr-alert-logo-dark.svg")}
               alt=""
-              width="148"
+              width="166"
               height="32"
             />
             <span>Part of Project Digital Alertness</span>
