@@ -55,7 +55,7 @@ Each cluster and each term is an opening, for a conversation or for research.
 
 The Cabinet is one of the project's **Conversation Pieces**: works to play with that let you feel or discover a form of digital manipulation.
 
-<a class="orbit-open" href="https://mastamarieke.github.io/Cabinet-of-Terms/static/project.html" data-src="static/project.html">More about the project</a>
+<span class="peek-wrap"><a class="orbit-open" href="https://mastamarieke.github.io/Cabinet-of-Terms/static/project.html" data-src="static/project.html">More about the project</a><span class="project-peek" aria-hidden="true"><span class="pk-logo"><img class="lg-light" src="static/dr-alert-logo.png" alt=""><img class="lg-dark" src="static/dr-alert-logo-dark.png" alt=""></span><span class="pk-title">Project Digital Alertness</span><span class="pk-text">Conversation Pieces: works to play with that let you feel a form of digital manipulation before it has a name.</span><span class="pk-row"><span class="pk-tile"><img src="static/project/IMG_3847-768x1024.jpeg" alt=""><span>Soulmeter</span></span><span class="pk-tile"><img src="static/project/Screenshot-2026-06-03-at-13.04.51-768x410.png" alt=""><span>Wheel of Dark Patterns</span></span><span class="pk-tile"><img src="static/project/Screenshot-2026-05-19-at-10.31.15-768x546.png" alt=""><span>Banner coat</span></span><span class="pk-tile"><img src="static/project/PRJCT_S4_Render_Rad-van-de-Rollen-Large-768x576.jpeg" alt=""><span>Rad van Rollen</span></span></span><span class="pk-more">Click for all pieces, the research and contact</span></span></span>
 
 ---
 

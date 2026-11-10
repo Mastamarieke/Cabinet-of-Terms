@@ -803,3 +803,88 @@ html.has-head #page-head.on {
 #quartz-root {
   overflow-x: clip;
 }
+
+// "More about the project" (10-11-2026, Marieke: a hover like the term links, with a row of
+// photos as triggers): a preview card on pointer devices only; a tap on a phone opens the popup
+.peek-wrap {
+  position: relative;
+  display: inline-block;
+}
+.peek-wrap .project-peek {
+  display: none;
+}
+@media (hover: hover) {
+  .peek-wrap a.orbit-open:hover + .project-peek,
+  .peek-wrap a.orbit-open:focus-visible + .project-peek {
+    display: block;
+  }
+}
+.project-peek {
+  position: absolute;
+  left: 0;
+  top: calc(100% + 8px);
+  z-index: 50;
+  width: min(26rem, 86vw);
+  padding: 12px 14px;
+  border: 1px solid var(--lightgray);
+  background-color: var(--light);
+  border-radius: 5px;
+  box-shadow: 6px 6px 36px 0 rgba(0, 0, 0, 0.25);
+  pointer-events: none;
+  font-size: 0.86rem;
+  line-height: 1.45;
+  color: var(--darkgray);
+  white-space: normal;
+  .pk-logo img {
+    height: 26px;
+    width: auto;
+    margin: 0;
+  }
+  .pk-logo .lg-dark {
+    display: none;
+  }
+  .pk-title {
+    display: block;
+    margin-top: 6px;
+    font-weight: 700;
+    color: var(--dark);
+  }
+  .pk-text {
+    display: block;
+    margin-top: 2px;
+  }
+  .pk-row {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 6px;
+    margin-top: 10px;
+  }
+  .pk-tile img {
+    display: block;
+    width: 100%;
+    aspect-ratio: 1;
+    object-fit: cover;
+    border-radius: 4px;
+    margin: 0;
+  }
+  .pk-tile span {
+    display: block;
+    margin-top: 3px;
+    font-size: 0.72rem;
+    line-height: 1.25;
+  }
+  .pk-more {
+    display: block;
+    margin-top: 8px;
+    font-size: 0.78rem;
+    color: var(--secondary);
+  }
+}
+:root[saved-theme="dark"] .project-peek {
+  .pk-logo .lg-light {
+    display: none;
+  }
+  .pk-logo .lg-dark {
+    display: inline;
+  }
+}

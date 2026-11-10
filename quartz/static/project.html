@@ -2,7 +2,7 @@
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Project Digital Alertness</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible+Next:ital,wght@0,400;0,600;0,700;1,400&display=swap" rel="stylesheet">
+<link crossorigin="anonymous" href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible+Next:ital,wght@0,400;0,600;0,700;1,400&display=swap" rel="stylesheet">
 <style>
 :root{--bg:#faf8f8;--card:#fff;--ink:#2b2b2b;--soft:#4e4e4e;--line:#e5e5e5;--red:#E50056;--tint:#FDECF2}
 @media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#161618;--card:#1f1f22;--ink:#ebebec;--soft:#c9c9cc;--line:#393639;--red:#ff4d8b;--tint:#2a1820}}
@@ -47,12 +47,14 @@ a.tile .what{padding:2px 14px 0}
 a.tile .line{font-size:.92rem;padding:4px 14px 14px}
 a.tile:hover .nm{text-decoration:underline}
 a.tile.here{box-shadow:0 0 0 2px var(--red)}
+main{position:relative}.shot{position:absolute;top:0;right:0;width:34px;height:34px;padding:6px;border:1px solid var(--line);border-radius:8px;background:var(--card);color:var(--soft);cursor:pointer}.shot:hover{color:var(--red);border-color:var(--red)}.shot svg{width:100%;height:100%}.shot.busy{opacity:.4;cursor:wait}
 </style><script>/* follow the site's light/dark switch, not only the computer (08-11-2026) */try{var t=localStorage.getItem("theme");if(t==="light"||t==="dark")document.documentElement.dataset.theme=t}catch(e){}</script>
 </head>
 <body><main>
+<button type="button" class="shot" aria-label="Save this page as an image" title="Save as image"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M4 8h3l1.5-2h7L17 8h3v11H4z"/><circle cx="12" cy="13" r="3.4"/></svg></button>
 
 <a class="logo" href="https://digitale-alertheid.nl/" target="_blank" rel="noopener"><img class="light" src="dr-alert-logo.png" alt="Dr. Alert, Project Digital Alertness"><img class="dark" src="dr-alert-logo-dark.png" alt=""></a>
-<p class="intro" style="margin-top:6px">D.Alert is Dr. Alert, the project's alter ego, who investigates how technology influences our attention and choices.</p>
+<p class="intro" style="margin-top:6px">Dr. Alert is the project's alter ego, who investigates how technology influences our attention and choices.</p>
 <h1>Project Digital Alertness</h1>
 <p class="intro">The Cabinet is one of the project's <b>Conversation Pieces</b>: artefacts that let people feel a form of digital manipulation before it is named, so that they recognise it in the moment and start talking about it.</p>
 
@@ -85,4 +87,17 @@ a.tile.here{box-shadow:0 0 0 2px var(--red)}
 <h2>Get in touch</h2>
 <p class="contact">Interested in the research, in using the Cabinet in teaching, or in contributing? Write to <a href="mailto:info@digitale-alertheid.nl">info@digitale-alertheid.nl</a>, or visit <a href="https://digitale-alertheid.nl/" target="_blank" rel="noopener">digitale-alertheid.nl</a>.</p>
 
-</main></body></html>
+</main><script>
+/* camera (10-11-2026, Marieke): the whole page as one PNG; the library is loaded only on a click */
+(function(){var b=document.querySelector(".shot");if(!b)return;
+function lib(){return window.htmlToImage?Promise.resolve(window.htmlToImage):new Promise(function(ok,no){var s=document.createElement("script");s.src="https://cdnjs.cloudflare.com/ajax/libs/html-to-image/1.11.11/html-to-image.min.js";s.onload=function(){ok(window.htmlToImage)};s.onerror=no;document.head.appendChild(s)})}
+b.addEventListener("click",function(){if(b.classList.contains("busy"))return;b.classList.add("busy");
+var imgs=[].slice.call(document.images);imgs.forEach(function(i){i.loading="eager"});
+Promise.all(imgs.map(function(i){return i.complete?0:new Promise(function(r){i.onload=i.onerror=r})}))
+.then(lib).then(function(h){var bg=getComputedStyle(document.body).backgroundColor;
+return h.toPng(document.body,{pixelRatio:2,backgroundColor:bg,height:document.body.scrollHeight,filter:function(n){return !(n.classList&&n.classList.contains("shot"))}})})
+.then(function(url){var a=document.createElement("a");a.href=url;a.download="project-digital-alertness.png";document.body.appendChild(a);a.click();a.remove()})
+.catch(function(e){console.error(e);alert("The image could not be made.")})
+.finally(function(){b.classList.remove("busy")})})})();
+</script>
+</body></html>
