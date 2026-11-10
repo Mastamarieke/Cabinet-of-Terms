@@ -64,7 +64,7 @@ export const defaultContentPageLayout: PageLayout = {
       // the pages about the Cabinet stand under their own heading below (AboutPages, 08-11-2026)
       filterFn: (node) =>
         node.slugSegment !== "tags" &&
-        !["how-it-is-made", "how-an-entry-grows", "Reading-the-graph", "Disclaimer-of-the-Cabinet-of-Digital-Terms"].includes(
+        !["how-it-is-made", "how-an-entry-grows", "Reading-the-graph", "Disclaimer-of-the-Cabinet-of-Digital-Terms", "changelog"].includes(
           node.slugSegment,
         ),
     }),
@@ -116,7 +116,7 @@ export const defaultListPageLayout: PageLayout = {
       // the pages about the Cabinet stand under their own heading below (AboutPages, 08-11-2026)
       filterFn: (node) =>
         node.slugSegment !== "tags" &&
-        !["how-it-is-made", "how-an-entry-grows", "Reading-the-graph", "Disclaimer-of-the-Cabinet-of-Digital-Terms"].includes(
+        !["how-it-is-made", "how-an-entry-grows", "Reading-the-graph", "Disclaimer-of-the-Cabinet-of-Digital-Terms", "changelog"].includes(
           node.slugSegment,
         ),
     }),
