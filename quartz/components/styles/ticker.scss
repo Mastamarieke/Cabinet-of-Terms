@@ -238,10 +238,4 @@ body[data-slug="index"] .center {
   padding-top: 0 !important;
 }
 
-// not on a phone (10-11-2026, Marieke: "werkt niet op de smartphone, beter om weg te halen"):
-// the band is a reading line for a wide screen; on a phone the news stays on the changelog page
-@media (max-width: 800px) {
-  .ticker {
-    display: none !important;
-  }
-}
+// on a phone too: hidden on 10-11-2026, back on 13-11 (Marieke: "deze deed het heel goed juist")
