@@ -888,3 +888,13 @@ html.has-head #page-head.on {
     display: inline;
   }
 }
+
+// The search window over everything, the red band and the title row included (13-11-2026,
+// Marieke: "het zoekvenster is niet goed geplaatst"). It lives in the left column, and that
+// column is a layer of its own (z-index 1, base.scss) below the fixed band (960) and title row
+// (950), so the window opened behind them. While search is open the column is lifted above.
+// search.inline.ts sets the column to z-index 1 inline when it opens the window; an inline
+// style beats every rule without !important, so this one has it
+#quartz-body .sidebar.left:has(.search-container.active) {
+  z-index: 1000 !important;
+}
