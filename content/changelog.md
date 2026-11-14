@@ -6,6 +6,8 @@ title: "What changed"
 
 ## November 2026
 
+- **TERM** · [[Enshittification]]: third version, told through Facebook
+- **CURVE** · [[Enshittification]]: four moments, from Did you know to the book
 - **WORD** · [[Phubbing]]: your phone, mid-conversation
 - **WORD** · [[Sharenting]]: a child online before it can say no
 - **WORD** · [[Ghosting]]: ending a relationship by going silent
