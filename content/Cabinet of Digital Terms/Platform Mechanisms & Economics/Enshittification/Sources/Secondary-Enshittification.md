@@ -185,3 +185,35 @@ What happens when you move your Mastodon account to another server: followers ar
 
 - [[Enshittification]] — a way to leave that takes your followers along (Why This Matters)
 - [[Fediverse]] — moving between servers
+
+## 12. American Dialect Society Selects “enshittification” as 2023 Word of the Year
+
+**Author:** American Dialect Society
+**Year:** 2024
+**Type:** Press release
+**Publisher:** American Dialect Society, 5 January
+**URL:** https://americandialect.org/2023-word-of-the-year-press-release
+
+### What this source contributes
+
+In its 34th annual words-of-the-year vote, with more than three hundred attendees, the society chose *enshittification* as the Word of the Year for 2023, defined as *"worsening of a digital platform through reduction in quality of service"*. It won the Digital Word of the Year category (111 votes) and the overall vote after a runoff (68, 92, 158). Ben Zimmer, chair of the New Words Committee: *"Enshittification is a sadly apt term for how our online lives have become gradually degraded."* Verso's blog (15 January 2024) mentions only the digital category; this press release gives both.
+
+### Related entries
+
+- [[Enshittification]] — the word of the year for 2023 (Origin)
+
+## 13. Australia’s Macquarie Dictionary picks ‘enshittification’ as word of 2024
+
+**Author:** Al Jazeera
+**Year:** 2024
+**Type:** Journalism
+**Publisher:** Al Jazeera, 26 November
+**URL:** https://www.aljazeera.com/news/2024/11/26/what-many-of-us-feel-enshittification-named-word-of-the-year
+
+### What this source contributes
+
+Australia's oldest dictionary of Australian English chose *enshittification* as its word of 2024. The day of the announcement is also the third moment on the attention curve.
+
+### Related entries
+
+- [[Enshittification]] — the word of the year for 2024 (Origin, attention curve)
