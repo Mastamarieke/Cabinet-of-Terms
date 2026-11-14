@@ -21,9 +21,6 @@ Weiser and Brown, 1995. Technology that informs without demanding. The backgroun
 ### [[Fair Patterns]]
 The direct counterpart to dark patterns. Same structural logic, opposite intent. Design that works for the user.
 
-### 
-Design that makes manipulation visible. The interface that shows you what it is doing.
-
 ### [[De-bugging]]
 Removing errors — as a metaphor for critical thinking about technology. Finding the flaw in the system.
 

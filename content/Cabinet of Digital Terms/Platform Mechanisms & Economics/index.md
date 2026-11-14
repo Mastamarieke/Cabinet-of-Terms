@@ -57,7 +57,7 @@ You see what confirms what you already think. The algorithm is not lying — it 
 Empathy as a design strategy — emotional connection engineered to bind or manipulate users.
 
 ### [[Enshittification]]
-Doctorow: platforms structurally deteriorate for users over time. First they attract users, then advertisers, then they extract from both.
+Doctorow's word for how platforms decay: good to users, then to advertisers and sellers at the users' expense, then squeezing those too, while no one can leave.
 
 ### [[Gamification Creep]]
 Game logic entering non-game contexts. Points, streaks, and leaderboards in places that were never games.
