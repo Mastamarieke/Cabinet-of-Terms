@@ -6,6 +6,7 @@ title: "What changed"
 
 ## November 2026
 
+- **SITE** · the cluster icons of the D.Alert game on the cluster cards, and the cluster's colour and icon in the preview when you point at a term
 - **TERM** · Narrative Typography drawings in thirty more entries, by Maik Hagens, Marco Pieck, Anne-Marie Bruinsma and Marieke de Vogel, also in the preview when you point at a term
 - **TERM** · [[Enshittification]]: third version, told through Facebook
 - **CURVE** · [[Enshittification]]: four moments, from Did you know to the book

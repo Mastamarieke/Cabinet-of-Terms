@@ -33,7 +33,7 @@ function clusterColor(id: string): string {
   if (id.includes("Statements-as")) return "#455A64"
   if (id.includes("End-Times")) return "#C62828"
   if (id.includes("New-Digital-Professions")) return "#1976D2"
-  if (id.includes("Subcultural")) return "#8D6E63"
+  if (id.includes("Subcultural")) return "#B83280"
   if (id.includes("Consequences")) return "#00897B"
   return "#888888"
 }

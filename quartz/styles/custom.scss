@@ -654,7 +654,9 @@ a.external.orbit-open .external-icon { display: none; }
 .clustercards .back{transform:rotateY(180deg);padding:12px 14px;gap:6px}
 .clustercards .fc.flipped .front{transform:rotateY(-180deg)}
 .clustercards .fc.flipped .back{transform:rotateY(0)}
-.clustercards .art{flex:1;min-height:120px;display:flex;align-items:flex-end;padding:14px;background:var(--c)}
+.clustercards .art{flex:1;min-height:120px;display:flex;flex-direction:column;justify-content:flex-start;gap:4px;padding:14px;background:var(--c)}
+.clustercards .ico{display:block;align-self:flex-end;width:64px;height:64px;background-color:rgba(255,255,255,.45);-webkit-mask:center/contain no-repeat;mask:center/contain no-repeat}
+.clustercards .back .ico{display:inline-block;width:.95em;height:.95em;margin-right:.3em;vertical-align:-.08em;background-color:var(--c)}
 .clustercards .lab,.clustercards .q2{display:none}
 .clustercards .bigq{font-family:"Barlow Condensed",var(--headerFont),sans-serif;font-weight:700;font-size:1.35rem;line-height:1.15;color:#fff}
 .clustercards .fname{display:flex;justify-content:space-between;align-items:baseline;gap:8px;padding:10px 14px 12px}
@@ -665,7 +667,7 @@ a.external.orbit-open .external-icon { display: none; }
 .clustercards .row{margin-top:auto;display:flex;justify-content:space-between;align-items:baseline;gap:8px;padding-top:8px;border-top:1px solid var(--lightgray)}
 .clustercards a.go{font-size:.88rem;font-weight:700;color:var(--c)!important;background:none!important;text-decoration:none}
 .clustercards a.go:hover{text-decoration:underline}
-@media (max-width:480px){.clustercards{grid-template-columns:1fr 1fr;gap:10px}.clustercards .bigq{font-size:1.15rem}.clustercards .art{min-height:110px;padding:10px}.clustercards .fname{flex-direction:column;gap:2px;padding:8px 10px 10px}.clustercards .back{padding:10px}.clustercards .d{font-size:.85rem}.clustercards .row{flex-direction:column;gap:2px}}
+@media (max-width:480px){.clustercards{grid-template-columns:1fr 1fr;gap:10px}.clustercards .bigq{font-size:1.15rem}.clustercards .art{min-height:110px;padding:10px}.clustercards .ico{width:48px;height:48px}.clustercards .fname{flex-direction:column;gap:2px;padding:8px 10px 10px}.clustercards .back{padding:10px}.clustercards .d{font-size:.85rem}.clustercards .row{flex-direction:column;gap:2px}}
 @media (prefers-reduced-motion:reduce){.clustercards .face{transition:none}}
 // the two early drawings side by side, each one can be enlarged (07-11-2026)
 .flipcards.flipcards-pair { grid-template-columns: 1fr 1fr; }
@@ -897,4 +899,27 @@ html.has-head #page-head.on {
 // style beats every rule without !important, so this one has it
 #quartz-body .sidebar.left:has(.search-container.active) {
   z-index: 1000 !important;
+}
+
+// the cluster icons from the D.Alert game (15-11-2026): a CSS mask, so one file in
+// static/cluster-icons takes the colour of the text around it (menu, preview); see util/clusters.ts
+.cluster-icon {
+  display: inline-block;
+  flex: none;
+  width: 1.05em;
+  height: 1.05em;
+  margin-right: 0.35em;
+  vertical-align: -0.15em;
+  background-color: currentColor;
+  -webkit-mask: center / contain no-repeat;
+  mask: center / contain no-repeat;
+}
+.popover > .popover-inner.has-cluster {
+  border-top: 4px solid var(--cluster-color);
+  .cluster-icon {
+    color: var(--cluster-color);
+  }
+  .breadcrumb-container {
+    align-items: center;
+  }
 }

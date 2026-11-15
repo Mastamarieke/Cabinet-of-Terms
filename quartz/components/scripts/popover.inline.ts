@@ -1,6 +1,7 @@
 import { computePosition, flip, inline, offset, shift } from "@floating-ui/dom"
 import { normalizeRelativeURLs } from "../../util/path"
 import { fetchCanonical } from "./util"
+import { clusterIcon, clusterOf } from "../../util/clusters"
 
 const p = new DOMParser()
 
@@ -12,6 +13,17 @@ function pathOnly(nav: Element | null): Element | null {
   els[els.length - 1]?.remove()
   els[els.length - 2]?.querySelector(":scope > p")?.remove()
   return nav
+}
+
+// the cluster's colour as a band across the top of the preview, and its icon from the D.Alert
+// game (15-11-2026, Marieke: "de kleur van het cluster in de hoover"); the title stays HAN red
+function markCluster(inner: HTMLElement, iconBefore: Element | null, url: URL) {
+  const cluster = clusterOf(url.pathname)
+  if (!cluster) return
+  inner.style.setProperty("--cluster-color", cluster.color)
+  inner.classList.add("has-cluster")
+  const root = url.href.split("/Cabinet-of-Digital-Terms/")[0]
+  iconBefore?.prepend(clusterIcon(`${root}/${cluster.icon}`))
 }
 
 let activeAnchor: HTMLAnchorElement | null = null
@@ -156,6 +168,7 @@ async function mouseEnterHandler(
         for (const el of [banner, crumbs, title, hook, quote]) if (el) card.appendChild(el)
         popoverInner.appendChild(card)
         popoverInner.classList.add("term-preview-inner")
+        markCluster(popoverInner, crumbs, targetUrl)
         break
       }
       // a cluster's About page (10-11-2026, Marieke: in the menu "de prangende vragen en wat het
@@ -187,6 +200,7 @@ async function mouseEnterHandler(
         for (const el of [crumbs, title, ask, box]) if (el) card.appendChild(el)
         popoverInner.appendChild(card)
         popoverInner.classList.add("term-preview-inner")
+        markCluster(popoverInner, title, targetUrl)
         break
       }
       // in the menu only terms and clusters get a preview; other pages would be a long block
