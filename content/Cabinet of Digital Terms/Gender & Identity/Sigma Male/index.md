@@ -32,7 +32,7 @@ semantic_landscape: |
 ![](sigma-male.jpg)
 <small>*By Narrative Typographer Anne-Marie Bruinsma*</small>
 
-> A masculinity archetype that claims to transcend social hierarchy while remaining entirely defined by it — the loner who is above the game he is still playing.
+> The man who swims alone: he says he does not conform to social norms and stands outside the usual hierarchies, while still measuring himself by status.
 
 **The Appeal:** The sigma offers status to men who do not or cannot compete in the usual hierarchies: not a beta who lost, but a sigma who chose not to play. For introverted, isolated or anxious men it turns exclusion into chosen superiority. Sigma content on TikTok works as a "ready-to-think" framework, a ready-made answer to a perceived crisis of masculinity ([[Tanner-SigmaMale-2025|Tanner & Gillardin, 2025]]), and on X, [[Diallo-SigmaMale-2025|Diallo et al. (2025)]] describe a global counterculture of personal development for men that offers "complete acceptance and understanding of male-only struggles".
 

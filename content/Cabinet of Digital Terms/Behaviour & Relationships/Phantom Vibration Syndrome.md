@@ -13,7 +13,7 @@ analysis_version: pending
 
 **Origin:** The phenomenon was first documented formally by researcher Robert Rosenberger in a 2013 paper, though anecdotal accounts appeared in tech journalism from the mid-2000s. The experience is extremely common: studies have found it in 68–90% of smartphone users. Rosenberger described it using philosopher Don Ihde's framework of technological embodiment — the phone becomes incorporated into the body schema, like a tool used so habitually it is felt as an extension of the self. A more recent study (Hamdan, Mohd Zulkefli & Ahmad Fauzi, 2025) found a lower prevalence — 49.3% of 381 undergraduates reported the sensation within the previous two weeks — and identified specific predictors: carrying the device in a front trouser pocket or sling bag, habitual reliance on vibration-mode notifications, and smartphone addiction scores.
 
-> The sensation of phone vibration when the phone is not vibrating — a physical symptom of habitual smartphone dependency.
+> The sensation of your phone vibrating when it is not, a physical symptom of habitual smartphone dependency.
 
 **The Appeal:** **Phantom vibration syndrome** is not harmful in itself. It is a byproduct of a device people use heavily and value — a misfiring of the same attentional system that makes the phone useful. Most people who experience it find it mildly amusing rather than distressing.
 

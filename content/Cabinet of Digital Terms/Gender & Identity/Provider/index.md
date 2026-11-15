@@ -18,7 +18,7 @@ semantic_landscape: |
 
 **Origin:** The breadwinner role is old; what is new is its framing as a market position within [[SMV (Sexual Market Value)]]. In red-pill vocabulary the provider is set against the [[Alpha Male|alpha]], who gets relationships without paying for them, which casts providers as the ones being used. The norm underneath is measurable: [[Bertrand-Provider-2015|Bertrand, Kamenica and Pan (2015)]] found that in US marriages the share of income earned by the wife drops sharply just past the point where she would out-earn her husband, and that this aversion affects marriage, women's work, satisfaction, divorce and the division of housework.
 
-> The male financial role in relationships, reframed from care to transaction — where economic provision becomes the measure of masculine value.
+> The man who pays: in manosphere talk, he brings money and security, she brings care and the home, and love becomes a deal.
 
 **The Appeal:** The frame offers a clear explanation for dissatisfaction and a clear prescription: men who provide without return are being used. It removes ambiguity from a domain that is ambiguous, and gives a man a role he can measure.
 

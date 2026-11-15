@@ -23,7 +23,7 @@ attention_moments:
 
 **Origin:** The image comes from studies of captive wolves, unrelated animals put together in enclosures, and reached a wide audience through L. David Mech's book *The Wolf* (1970). Mech's own years of watching wolves in the wild changed his mind: a wild pack is a family, and the wolves that lead it are its parents ([[Mech-AlphaMale-1999|Mech, 1999]]). He has spent decades correcting the term, and the book went out of print in 2022. By then the alpha had moved into pickup-artist and [[Manosphere]] vocabulary.
 
-> A dominance hierarchy borrowed from wolf research — later corrected by the researcher who popularised it, but kept as identity vocabulary.
+> The man at the top of the pack, dominant and in charge: an image from wolf research that its own researcher took back, now sold to men as a goal.
 
 **The Appeal:** The alpha framework offers a clear map: there are winners and losers, the difference can be learned, and someone will teach it. The teaching is paid for: courses are sold, and the channels that carry the message earn from every view, as creators do in the [[Creator Economy]]. It names something many men do feel, competition and status anxiety, and gives it a vocabulary and a route upward.
 

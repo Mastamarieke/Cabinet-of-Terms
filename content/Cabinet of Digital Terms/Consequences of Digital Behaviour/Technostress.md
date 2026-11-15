@@ -20,7 +20,7 @@ Craig Brod coined **technostress** in **1984** to describe the difficulty worker
 ![Drawing: the word Technostress drawn as an electrical circuit with resistors and connection points](technostress.jpg)
 <small>*By [Narrative Typographer](https://digitale-alertheid.nl/narrative-typography-the-metaphoric-visualisation-of-terms/ "Read about Narrative Typography.") Marco Pieck*</small>
 
-> Stress that digital technology can cause, at any age — and sometimes by design, when a system is built to be hard to leave.
+> Stress produced by the use of digital technology, or by the inability to use it effectively, and experienced across all age groups.
 
 **The Appeal**
 Technology genuinely increases capability and access. **Technostress** is partly the cost of using powerful tools.

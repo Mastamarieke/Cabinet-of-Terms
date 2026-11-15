@@ -25,7 +25,7 @@ attention_moments:
 
 **Origin:** Cenat, a Black Twitch streamer from the Bronx with more than eight million followers, says it started with him and his friends from back home; from his streams it spread across TikTok, and once it went viral there he stopped using it himself, saying TikTok had "butchered" the word. Use peaked in June 2023, when the actor Tom Holland said in an interview that he had "no rizz whatsoever". Oxford chose it over finalists including *Swiftie*, *situationship* and *parasocial*.
 
-> Charm named as a skill — practised on stream and sold in courses, while the word still sounds like something you simply have.
+> Winning someone over with charm: it sounds like a gift, but online it is practised on stream and sold in courses.
 
 **The Appeal:** **Rizz** names something real and widely wanted: the ease with which some people connect. For young people it is a word for what they see in others and want for themselves, and it is light: admitting, like Holland, that you have none is part of the joke.
 
