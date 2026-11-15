@@ -1,7 +1,8 @@
 // The colour and the icon of each cluster, in one list (15-11-2026). The icons are those on the
 // front of the D.Alert game cards (Dr-Alert-Game-iconen, the filled version), in
 // quartz/static/cluster-icons; the game took its colours from this palette. Used by the menu on
-// the left (explorer.inline.ts) and the preview (popover.inline.ts). The graph and the Outward
+// the left (explorer.inline.ts, colour only: icons there were too much, Marieke 15-11) and the
+// preview (popover.inline.ts, colour and icon). The graph and the Outward
 // block still keep their own copy of the colours; keep them in step.
 
 const VAULT = "Cabinet-of-Digital-Terms"
