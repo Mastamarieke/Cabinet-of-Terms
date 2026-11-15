@@ -13,7 +13,7 @@ analysis_version: pending
 
 **Origin:** Herbert Simon identified the attention scarcity problem in 1971: information abundance creates attention scarcity. Michael Goldhaber developed the concept as an economic framework in 1997. Tim Wu's *The Attention Merchants* (2016) traced the commercial history from 19th-century newspapers through television to digital platforms. The contemporary digital **attention economy** is driven by advertising revenue models that pay platforms based on how long and how frequently users engage.
 
-> The economic system in which human attention is the scarce resource being captured, held, and sold — shaping every design decision on advertising-funded platforms.
+> Attention as the scarce thing everyone competes for: platforms and creators earn from how long you are hooked.
 
 **The Appeal:** Advertising-funded platforms provide free services in exchange for attention. The trade is real: users get search, social connection, maps, and communication tools without monetary cost. The **attention economy** enabled the scaling of digital infrastructure at a pace that subscription models could not have achieved.
 
@@ -21,7 +21,7 @@ analysis_version: pending
 
 **Why This Matters:** The **attention economy** is the foundational cause of most of this cluster. Once you understand that platforms are paid for your attention rather than your satisfaction, every design choice becomes legible as a revenue decision rather than a user experience decision.
 
-**Related terms:** [[Attention Harvesting]] · [[Dopamine Feedback Loops]] · [[Recommender Systems]] · [[Ludic Loop]] · [[Surveillance Capitalism]] · [[Calm Technology]] · [[Ragebaiting]] · [[Cognitive Surrender]] · [[Digital Detox]] · [[Doomscrolling]] · [[Rizz]] · [[Manosphere]] · [[Sharenting]] · [[Privacy as a Premium]] (not being tracked sold as a paid upgrade: the free trade now has a price for leaving it, and what that price buys is not always privacy) · [[Inference Cost]] (the energy each AI answer takes: every extra interaction the platform wins is also an extra claim on power and water)
+**Related terms:** [[Attention Harvesting]] · [[Dopamine Feedback Loops]] · [[Recommender Systems]] · [[Ludic Loop]] · [[Surveillance Capitalism]] · [[Calm Technology]] · [[Ragebaiting]] · [[Cognitive Surrender]] · [[Digital Detox]] · [[Doomscrolling]] · [[Rizz]] · [[Manosphere]] · [[Sharenting]] · [[Privacy as a Premium]] (not being tracked sold as a paid upgrade: the free trade now has a price for leaving it, and what that price buys is not always privacy) · [[Inference Cost]] (the energy each AI answer takes: every extra interaction the platform wins is also an extra claim on power and water) · [[Enshittification]] (what happens to the feed once the attention is sold: the friend's post gives way to an ad) · [[Cleanfluencer]] (calm as the hook: housework filmed so you keep watching and come back, with a shop under every video)
 
 
 ---

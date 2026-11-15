@@ -18,7 +18,7 @@ The question this cluster asks: where did this word come from, and what did it m
 Words modified to survive content moderation. "Unalive" instead of "die." Language adapting to the algorithm in real time.
 
 ### [[Aurafarming]]
-Quantifying social status as a game. Accumulating presence and perceived value — without saying anything directly.
+A game word for trying to look cool, used mostly to say the trying shows. The one word in this cluster that went back from the screen to the street.
 
 ### [[Coded -Pilled]]
 Productive suffixes that mark identity and signal ideological conversion simultaneously. The efficiency of the vocabulary is inseparable from its resistance to interrogation.
