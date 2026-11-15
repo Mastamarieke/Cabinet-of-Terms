@@ -5,6 +5,8 @@ analytical_layer: mechanism
 status: publieksversie
 version: V1
 analysis_version: pending
+entry_image: ghost-work.jpg
+entry_image_caption: "By Narrative Typographer Marco Pieck"
 ---
 
 ***The platform runs on human labour. The interface shows none of it.***
@@ -14,6 +16,9 @@ analysis_version: pending
 
 **Origin**
 Mary Gray and Siddharth Suri coined the term in *Ghost Work* (2019), documenting the global ecosystem of on-demand workers who perform the tasks that automation cannot — content moderation, data labelling, quality control — through platforms including Amazon MTurk, CrowdFlower, and Appen. Casilli (2024) extends the analysis to AI training pipelines, arguing that **ghost work** is structurally embedded in the production of all contemporary AI.
+
+![Drawing: the words Ghost Work on a row of gears, with a small running figure inside one of them](ghost-work.jpg)
+<small>*By [Narrative Typographer](https://digitale-alertheid.nl/narrative-typography-the-metaphoric-visualisation-of-terms/ "Read about Narrative Typography.") Marco Pieck*</small>
 
 > Invisible on-demand human labour that makes digital platforms and AI systems function — essential to the operation, erased from the product narrative.
 

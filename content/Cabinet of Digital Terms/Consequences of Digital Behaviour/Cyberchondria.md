@@ -5,6 +5,8 @@ analytical_layer: consequence
 status: publieksversie
 version: V2
 analysis_version: pending
+entry_image: cyberchondria.jpg
+entry_image_caption: "By Narrative Typographer Marieke de Vogel"
 ---
 
 ***You searched the symptom. An hour later you had three diagnoses, all serious.***
@@ -14,6 +16,9 @@ analysis_version: pending
 
 **Origin**
 Starcevic and Berle established **cyberchondria** as a clinical concept in 2013, distinguishing it from hypochondria by its specific mechanism: the internet search loop. Unlike hypochondria, which is driven by internal anxiety, **cyberchondria** is driven by the architecture of search engines and health information platforms that surface alarming results and invite further searching.
+
+![Drawing: a worried person with glasses reading a tablet, a hand at the mouth, thinking the word cyberchondria](cyberchondria.jpg)
+<small>*By [Narrative Typographer](https://digitale-alertheid.nl/narrative-typography-the-metaphoric-visualisation-of-terms/ "Read about Narrative Typography.") Marieke de Vogel*</small>
 
 > Health anxiety that escalates through repeated online symptom searching — driven by algorithms that surface alarming results because they generate engagement.
 

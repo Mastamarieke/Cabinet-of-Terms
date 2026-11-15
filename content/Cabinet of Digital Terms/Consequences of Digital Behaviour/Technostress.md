@@ -5,6 +5,8 @@ analytical_layer: consequence
 status: publieksversie
 version: V2
 analysis_version: pending
+entry_image: technostress.jpg
+entry_image_caption: "By Narrative Typographer Marco Pieck"
 ---
 
 ***The update changed everything. You do not know where anything is.***
@@ -14,6 +16,9 @@ analysis_version: pending
 
 **Origin**
 Craig Brod coined **technostress** in **1984** to describe the difficulty workers experienced adapting to computer technology. Tarafdar et al. (2007) established the modern framework, identifying five techno-stressors: techno-overload, techno-invasion, techno-complexity, techno-insecurity, and techno-uncertainty. The concept has since expanded to cover all age groups and contexts.
+
+![Drawing: the word Technostress drawn as an electrical circuit with resistors and connection points](technostress.jpg)
+<small>*By [Narrative Typographer](https://digitale-alertheid.nl/narrative-typography-the-metaphoric-visualisation-of-terms/ "Read about Narrative Typography.") Marco Pieck*</small>
 
 > Stress that digital technology can cause, at any age — and sometimes by design, when a system is built to be hard to leave.
 

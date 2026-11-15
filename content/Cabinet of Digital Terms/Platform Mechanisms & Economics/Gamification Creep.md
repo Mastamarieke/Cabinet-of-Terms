@@ -5,6 +5,8 @@ analytical_layer: mechanism
 status: publieksversie
 version: V2
 analysis_version: pending
+entry_image: gamification-creep.jpg
+entry_image_caption: "By Narrative Typographer Marco Pieck"
 ---
 
 ***Your fitness app gives you a streak. Your bank gives you points. Your workplace tracks your score. None of these are games.***
@@ -12,6 +14,9 @@ analysis_version: pending
 **Literal meaning:** **Gamification creep** describes the gradual spread of game design elements — points, levels, streaks, badges, leaderboards, rewards — into non-game contexts, driven by their effectiveness at sustaining engagement and modifying behaviour.
 
 **Origin:** Gamification as a concept was defined by Sebastian Deterding and colleagues in their foundational 2011 paper at ACM MindTrek: "the use of game design elements in non-game contexts." The "creep" qualifier names the expansion: gamification began in marketing and education, then moved into fitness, financial services, workplace productivity, healthcare, and social media. By the mid-2010s, the streak mechanic — maintaining a daily activity to avoid losing progress — was embedded in language learning (Duolingo), fitness (Strava), and social media engagement.
+
+![Drawing: the words Gamification Creep in dotted letters, the C of Creep a round figure with a biting mouth](gamification-creep.jpg)
+<small>*By [Narrative Typographer](https://digitale-alertheid.nl/narrative-typography-the-metaphoric-visualisation-of-terms/ "Read about Narrative Typography.") Marco Pieck*</small>
 
 > The spread of game mechanics — points, streaks, leaderboards — into contexts that were never games, using the same psychological hooks to drive behaviour.
 

@@ -5,6 +5,8 @@ analytical_layer: reaction
 status: publieksversie
 version: V2
 analysis_version: pending
+entry_image: digital-detox.jpg
+entry_image_caption: "By Narrative Typographer Marieke de Vogel"
 ---
 
 ***She booked the offline retreat online. She posted about it when she got back.***
@@ -12,6 +14,9 @@ analysis_version: pending
 **Literal meaning:** A deliberate break from digital devices — phones, screens, social media — to reduce stress and reconnect with offline life. The term borrows from medical detoxification: cleansing the body of toxic substances.
 
 **Origin:** The term entered common use around 2012–2013, when Camp Grounded in California launched the first commercial **digital detox** retreat. Oxford Dictionaries added it in 2013. By the mid-2010s it had become an industry: retreats, apps, self-help books, corporate wellness programmes. Media scholars Trine Syvertsen and Gunn Enli, in a 2019 *New Media & Society* paper, argued that **digital detox** texts reveal a self-regulation society — one that places responsibility for systemic problems on individual behaviour.
+
+![Drawing: a jar of pills with the label digital detox challenge](digital-detox.jpg)
+<small>*By [Narrative Typographer](https://digitale-alertheid.nl/narrative-typography-the-metaphoric-visualisation-of-terms/ "Read about Narrative Typography.") Marieke de Vogel*</small>
 
 > A voluntary break from digital devices — sold as a personal solution to a structural problem, and often distributed through the platforms it claims to resist.
 

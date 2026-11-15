@@ -5,6 +5,8 @@ analytical_layer: consequence
 status: publieksversie
 version: V1
 analysis_version: pending
+entry_image: wexting.jpg
+entry_image_caption: "By Narrative Typographer Marieke de Vogel"
 ---
 
 ***The traffic light is now on the ground. The street adapted to the phone.***
@@ -14,6 +16,9 @@ analysis_version: pending
 
 **Origin**
 **Wexting** entered public discourse around 2014 as pedestrian injury data linked to smartphone use began to accumulate. Licence et al. documented the biomechanical consequences in 2014 and 2015, establishing that texting while walking measurably alters gait, reduces spatial awareness, and increases collision risk. Cities in the Netherlands, Germany, and elsewhere subsequently modified pavement infrastructure in response. In September 2014 a 50-metre stretch of pavement in Chongqing was split in two, with one half marked for phone users. The marketing official who set it up took the idea from a National Geographic television experiment in Washington, D.C.; according to ABC News, most of the people it was meant for had not noticed the markings. In February 2017 Bodegraven laid a strip of LED light, the +Lichtlijn by HIG Traffic Systems, into the pavement at a crossing near schools, where people looking down at a phone would see it. "This shouldn't be necessary," the manufacturer said, "but you cannot close your eyes to the actuality of what's happening."
+
+![Drawing: two people walking while looking at their phones, under a speech bubble that says Wexting](wexting.jpg)
+<small>*By [Narrative Typographer](https://digitale-alertheid.nl/narrative-typography-the-metaphoric-visualisation-of-terms/ "Read about Narrative Typography.") Marieke de Vogel*</small>
 
 > Walking while texting — a behaviour that transfers platform distraction into physical public space, prompting infrastructure to adapt to the phone rather than the reverse.
 

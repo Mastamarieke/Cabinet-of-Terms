@@ -5,6 +5,8 @@ analytical_layer: consequence
 status: publieksversie
 version: V2
 analysis_version: pending
+entry_image: doomscrolling.jpg
+entry_image_caption: "By Narrative Typographer Maik Hagens"
 ---
 
 ***You know the news is bad. You keep scrolling.***
@@ -12,6 +14,9 @@ analysis_version: pending
 **Literal meaning:** **Doomscrolling** is a compound of *doom* and *scrolling*: literally, scrolling towards doom. It describes the compulsive consumption of negative, distressing, or anxiety-inducing news and content through continuous scrolling, particularly on social media and news platforms. The user typically knows the content is harmful to their mental state and continues anyway.
 
 **Origin:** The term circulated in tech and media discourse from around 2018 — Twitter user Ashik Siddique's post on 8 October 2018 ("thank u for breaking the spell of my doom-scrolling down my feed") is among the earliest documented public uses — and gained widespread use during the COVID-19 pandemic in 2020, when a convergence of crisis news, lockdown conditions, and increased smartphone use produced documented increases in compulsive news consumption. Karen Ho, a finance reporter at *Quartz*, posted about it every day during the pandemic, often with a gentle nudge to stop ([Garcia-Navarro, 2020](https://www.npr.org/2020/07/19/892728595/your-doomscrolling-breeds-anxiety-here-s-how-to-stop-the-cycle)). Merriam-Webster added it to the dictionary in 2020. The behaviour predates the term — but the term named something people immediately recognised. Journalist Alex Wright traces the same pattern back to the nineteenth-century press: Dickens denounced the American papers of 1842 as a "monster of depravity," and Thoreau, by 1854, already found the news "indispensable." Each surge in publishing technology — the steam press, cheap paper, urbanisation — produced a glut of information that outran readers' capacity to process it, and each glut was eventually absorbed by new gatekeepers (Pulitzer and Hearst then, recommender algorithms and AI now). Doomscrolling, in this reading, is not a new pathology but the current phase of a recurring cycle.
+
+![Drawing: a hand holding a phone, the word Doomscrolling running down the screen with a skull and a bomb in it](doomscrolling.jpg)
+<small>*By [Narrative Typographer](https://digitale-alertheid.nl/narrative-typography-the-metaphoric-visualisation-of-terms/ "Read about Narrative Typography.") Maik Hagens*</small>
 
 > Compulsive consumption of negative news despite awareness of its psychological cost — a behaviour that platform design makes easier than stopping.
 

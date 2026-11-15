@@ -5,6 +5,8 @@ analytical_layer: mechanism
 status: publieksversie
 version: V2
 analysis_version: pending
+entry_image: ai-as-a-utility.jpg
+entry_image_caption: "By Narrative Typographer Anne-Marie Bruinsma"
 ---
 
 ***You use it every day. You have no idea where it runs, who owns it, or what it costs.***
@@ -12,6 +14,9 @@ analysis_version: pending
 **Literal meaning:** **AI as a utility** describes the framing of artificial intelligence as infrastructure — like electricity, water, or internet connectivity — that is always available, consumed on demand, and whose production costs are not visible at the point of use. Those costs are growing: data centres used about 1.5% of the world's electricity in 2024, and the International Energy Agency expects that to double by 2030, to roughly what Japan uses now, with AI as the main driver ([Chen, 2025](https://www.scientificamerican.com/article/ai-will-drive-doubling-of-data-center-energy-demand-by-2030/)). That is [[AI Energy Consumption]] — the electricity needed to train and run the models.
 
 **Origin:** The utility framing emerged from cloud computing discourse and was actively promoted by major AI providers from 2022 onward, as large language models became accessible via API. Amazon, Microsoft, and Google explicitly positioned their AI services as utility infrastructure. The framing draws on economic theory: utility goods are necessities whose provision benefits from scale and standardisation.
+
+![Drawing: an IV bag labelled AI, whose tube writes the words as utility and ends in a needle](ai-as-a-utility.jpg)
+<small>*By [Narrative Typographer](https://digitale-alertheid.nl/narrative-typography-the-metaphoric-visualisation-of-terms/ "Read about Narrative Typography.") Anne-Marie Bruinsma*</small>
 
 > AI delivered as infrastructure — always available, apparently free, with the real costs and dependencies hidden from the people who use it.
 

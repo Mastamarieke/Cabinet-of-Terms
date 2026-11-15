@@ -5,6 +5,8 @@ analytical_layer: reaction
 status: publieksversie
 version: V2
 analysis_version: pending
+entry_image: jomo.jpg
+entry_image_caption: "By Narrative Typographer Marieke de Vogel"
 ---
 
 ***She turned off notifications on a Tuesday and did not miss anything.***
@@ -12,6 +14,9 @@ analysis_version: pending
 **Literal meaning:** **JOMO** — Joy of Missing Out — describes a deliberate embrace of absence: choosing not to attend, not to follow, not to participate, and finding satisfaction in that choice rather than anxiety. It positions itself as the conscious counter to **FOMO** (Fear of Missing Out).
 
 **Origin:** The term was coined by Anil Dash in a 2012 blog post as a personal response to **digital overload**. It circulated in tech and media culture before entering broader lifestyle discourse. By the mid-2010s, **JOMO** had become a wellness concept, appearing in books, articles, and retreats alongside [[Digital Detox]] and slow living movements.
+
+![Drawing: the word JOMO in round black letters filled with flowers and hearts](jomo.jpg)
+<small>*By [Narrative Typographer](https://digitale-alertheid.nl/narrative-typography-the-metaphoric-visualisation-of-terms/ "Read about Narrative Typography.") Marieke de Vogel*</small>
 
 > The Joy of Missing Out — the reframing of disconnection as a positive choice, marketed via the platforms it claims to resist.
 

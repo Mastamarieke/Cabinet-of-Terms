@@ -5,6 +5,8 @@ analytical_layer: mechanism
 status: publieksversie
 version: V1
 analysis_version: pending
+entry_image: digital-frankenstein.jpg
+entry_image_caption: "By Narrative Typographer Anne-Marie Bruinsma"
 ---
 
 ***The technology outgrew its creator. The creator is still talking about potential.***
@@ -16,6 +18,9 @@ analysis_version: pending
 Shelley’s novel is widely regarded as one of the foundational texts of science fiction and an early exploration of technological responsibility, unintended consequences, and creator accountability. In contemporary terms, it prefigures concerns now associated with AI alignment, autonomous systems, and runaway technological escalation.
 
 The **Digital Frankenstein** narrative recurs throughout the history of computing and artificial intelligence — from HAL 9000 and _The Terminator_ to contemporary debates around generative AI, [[AGI]], autonomous weapons, and algorithmic systems that may exceed human oversight or control.
+
+![Drawing: the words Digital Frankenstein in letters stitched together with seams](digital-frankenstein.jpg)
+<small>*By [Narrative Typographer](https://digitale-alertheid.nl/narrative-typography-the-metaphoric-visualisation-of-terms/ "Read about Narrative Typography.") Anne-Marie Bruinsma*</small>
 
 > The recurring narrative of technology that outgrows its creator and cannot be recalled — both a cultural warning and an alibi for the people who built it.
 

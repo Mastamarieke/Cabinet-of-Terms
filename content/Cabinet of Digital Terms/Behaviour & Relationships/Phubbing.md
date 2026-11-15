@@ -5,6 +5,8 @@ analytical_layer: mechanism
 status: publieksversie
 version: V2
 analysis_version: pending
+entry_image: phubbing.jpg
+entry_image_caption: "By Narrative Typographer Marieke de Vogel"
 ---
 
 ***Someone is talking to you. You are looking at your phone.***
@@ -12,6 +14,9 @@ analysis_version: pending
 **Literal meaning:** **Phubbing** — a portmanteau of *phone* and *snubbing* — describes the practice of ignoring someone in a face-to-face social situation by attending to your phone instead. The word was coined in 2012 as part of a campaign by Macquarie Dictionary in Australia, but the behaviour it names became a subject of academic research from around 2015.
 
 **Origin:** Researcher James Roberts and colleagues at Baylor University published the first systematic academic study of **phubbing** in 2016, developing scales to measure partner **phubbing** and its relationship to relationship satisfaction. The research found consistent negative associations: being phubbed by a partner was associated with lower relationship satisfaction, higher conflict, and lower life satisfaction, mediated by lower need fulfilment.
+
+![Drawing: three people bent over their phones, behind the word Phubbing](phubbing.jpg)
+<small>*By [Narrative Typographer](https://digitale-alertheid.nl/narrative-typography-the-metaphoric-visualisation-of-terms/ "Read about Narrative Typography.") Marieke de Vogel*</small>
 
 > Attending to a phone during face-to-face interaction — a behaviour that degrades relational presence while remaining socially normalised.
 

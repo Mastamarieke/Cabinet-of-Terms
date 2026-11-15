@@ -5,6 +5,8 @@ analytical_layer: mechanism
 status: publieksversie
 version: V1
 analysis_version: pending
+entry_image: dual-use-technology.jpg
+entry_image_caption: "By Narrative Typographer Marco Pieck"
 ---
 
 ***The GPS in your phone was developed by the military. The AI writing your emails is training drone targeting.***
@@ -12,6 +14,9 @@ analysis_version: pending
 **Literal meaning:** **Dual-use technology** describes technology that has both legitimate civilian applications and potential military or weapons-related applications — where the same capability serves different purposes depending on who deploys it and to what end. The concept is central to export control law, arms control policy, and technology governance.
 
 **Origin:** The concept is established in international law — the EU Dual-Use Regulation (2021) and US Export Administration Regulations govern the export of technologies with military applications. It applies historically to nuclear materials, precision manufacturing, and chemical precursors. In the digital age, the concept extends to AI systems, geospatial data, facial recognition, encryption, and communications infrastructure — where the civilian and military applications are often indistinguishable at the product level.
+
+![Drawing: the words Dual Use Tech with a drone above them and a bomb and a heart shaped into the letters](dual-use-technology.jpg)
+<small>*By [Narrative Typographer](https://digitale-alertheid.nl/narrative-typography-the-metaphoric-visualisation-of-terms/ "Read about Narrative Typography.") Marco Pieck*</small>
 
 > Technologies developed for civilian purposes that have direct military applications — where the boundary between them is structurally porous, not incidentally crossed.
 

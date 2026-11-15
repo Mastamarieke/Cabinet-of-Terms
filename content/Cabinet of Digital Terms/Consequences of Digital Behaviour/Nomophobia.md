@@ -5,6 +5,8 @@ analytical_layer: consequence
 status: publieksversie
 version: V1
 analysis_version: pending
+entry_image: nomophobia.jpg
+entry_image_caption: "By Narrative Typographer Marieke de Vogel"
 ---
 
 ***You left the phone at home. You turned back after three minutes.***
@@ -12,6 +14,9 @@ analysis_version: pending
 **Literal meaning:** **Nomophobia** — from *no mobile phone phobia* — describes the anxiety, distress, or fear produced by being without a smartphone or losing mobile connectivity. It manifests as discomfort when the battery is low, anxiety when the phone is forgotten, compulsive checking for signal, and difficulty engaging with situations where the phone must be absent or silenced.
 
 **Origin:** The term was coined by UK Post Office researchers in a 2008 survey that found 53% of mobile phone users experienced anxiety when separated from their phone. A 2019 scale for measuring **nomophobia** — the NMP-Q — was developed by researchers Caglar Yildirim and Ana-Paula Correia, providing a standardised instrument for academic study. Prevalence studies have found **nomophobia** symptoms in 50–80% of smartphone users across multiple countries.
+
+![Drawing: a hand holding a phone with No Mo on the screen, the wrist chained to the phone by a cuff that says Phobia](nomophobia.jpg)
+<small>*By [Narrative Typographer](https://digitale-alertheid.nl/narrative-typography-the-metaphoric-visualisation-of-terms/ "Read about Narrative Typography.") Marieke de Vogel*</small>
 
 > The anxiety of being without your phone — a dependency state that platform design produces and sustains.
 

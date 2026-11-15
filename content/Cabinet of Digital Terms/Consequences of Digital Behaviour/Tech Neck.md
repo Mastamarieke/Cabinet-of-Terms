@@ -5,6 +5,8 @@ analytical_layer: consequence
 status: publieksversie
 version: V1
 analysis_version: pending
+entry_image: tech-neck.jpg
+entry_image_caption: "By Narrative Typographer Marieke de Vogel"
 ---
 
 ***Your neck hurts. You know why. You are still looking down.***
@@ -12,6 +14,9 @@ analysis_version: pending
 **Literal meaning:** **Tech neck** — also called text neck — describes pain, stiffness, and structural strain in the cervical spine caused by the sustained forward head flexion of looking down at a smartphone, tablet, or laptop. At 60 degrees of forward tilt, the effective weight on the cervical spine increases from the head's natural 5 kg to approximately 27 kg. Most smartphone users hold their heads at between 33 and 45 degrees of flexion during use.
 
 **Origin:** The term was popularised by US chiropractor Dean Fishman, who registered "text neck" as a trademark in 2008. Academic research followed: a 2014 paper by Kenneth Hansraj in *Surgical Technology International* quantified the biomechanical forces at different angles of head flexion and was widely cited in media coverage. A 2025 pilot study published in *Children* documented **tech neck** symptoms across age groups, noting its prevalence in students as young as school age.
+
+![Drawing: a thin figure with the head bent down over a phone, under a sign with an arrow pointing at the neck](tech-neck.jpg)
+<small>*By [Narrative Typographer](https://digitale-alertheid.nl/narrative-typography-the-metaphoric-visualisation-of-terms/ "Read about Narrative Typography.") Marieke de Vogel*</small>
 
 > Cervical spine strain from sustained forward head posture during screen use — a physical consequence of a design environment that demands constant downward attention.
 

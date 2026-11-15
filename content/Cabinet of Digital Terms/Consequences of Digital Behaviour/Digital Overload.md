@@ -5,6 +5,8 @@ analytical_layer: consequence
 status: publieksversie
 version: V1
 analysis_version: pending
+entry_image: digital-overload.jpg
+entry_image_caption: "By Narrative Typographer Marieke de Vogel"
 ---
 
 ***You have read everything and retained nothing.***
@@ -14,6 +16,9 @@ analysis_version: pending
 
 **Origin**
 Information overload as a concept precedes digital technology — Alvin Toffler described it in *Future Shock* (1970). Bawden and Robinson (2020) established the academic framework for digital information overload, documenting its causes in platform design, notification architecture, and always-on connectivity.
+
+![Drawing: a funnel filled to the brim with balls, each carrying one letter of Digital Overload](digital-overload.jpg)
+<small>*By [Narrative Typographer](https://digitale-alertheid.nl/narrative-typography-the-metaphoric-visualisation-of-terms/ "Read about Narrative Typography.") Marieke de Vogel*</small>
 
 > The impairment of cognitive function caused by more digital information arriving than can be processed — a structural condition, not a personal one.
 

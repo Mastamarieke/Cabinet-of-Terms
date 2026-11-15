@@ -5,6 +5,8 @@ analytical_layer: mechanism
 status: publieksversie
 version: V2
 analysis_version: pending
+entry_image: attention-harvesting.jpg
+entry_image_caption: "By Narrative Typographer Anne-Marie Bruinsma"
 ---
 
 ***The notification arrives. You pick up the phone. You did not decide to do that.***
@@ -12,6 +14,9 @@ analysis_version: pending
 **Literal meaning:** **Attention harvesting** describes the systematic extraction of human attention by digital platforms — designing interfaces, notification systems, and content flows to maximise the time and focus users give to a platform, which is then converted into advertising revenue and behavioural data.
 
 **Origin:** The concept develops from Herbert Simon's 1971 observation that information abundance creates attention scarcity, and from Tim Wu's *The Attention Merchants* (2016), which traced the commercial history of attention capture from 19th-century newspapers through broadcast television to digital platforms. The harvesting metaphor — treating attention as a crop to be extracted — is implicit in **Shoshana Zuboff**'s **[[Surveillance Capitalism|surveillance capitalism]]** framework and explicit in Tim Kendall's 2017 congressional testimony about Facebook's engagement-maximisation design.
+
+![Drawing: a person seen from behind with a mask over the face and a hose running to a machine on wheels labelled Attention Harvesting](attention-harvesting.jpg)
+<small>*By [Narrative Typographer](https://digitale-alertheid.nl/narrative-typography-the-metaphoric-visualisation-of-terms/ "Read about Narrative Typography.") Anne-Marie Bruinsma*</small>
 
 > The deliberate extraction of human attention through platform design — notifications, variable rewards, and autoplay that convert your focus into advertising revenue.
 

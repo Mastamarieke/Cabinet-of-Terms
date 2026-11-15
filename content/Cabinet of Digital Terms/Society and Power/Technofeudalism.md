@@ -5,6 +5,8 @@ analytical_layer: consequence
 status: publieksversie
 version: V2
 analysis_version: pending
+entry_image: technofeudalism.jpg
+entry_image_caption: "By Narrative Typographer Marco Pieck"
 ---
 
 ***You work on their platform. They set the terms. You have nowhere else to go.***
@@ -12,6 +14,9 @@ analysis_version: pending
 **Literal meaning:** **Technofeudalism** is **Yanis Varoufakis**' argument that digital platform capitalism has moved beyond capitalism into a new economic form — one that more closely resembles feudalism than the competitive markets that capitalism requires. Platform owners extract "cloud rent" from users and businesses who depend on their infrastructure, much as feudal lords extracted rent from serfs who worked their land.
 
 **Origin:** **Varoufakis** developed the argument in *Technofeudalism: What Killed Capitalism* (2023). He argues that capitalism required competitive markets, price mechanisms, and profit from production. Platform economies operate differently: Amazon does not compete with sellers on its platform — it extracts rent from them while controlling the rules. This is not capitalism; it is cloud feudalism.
+
+![Drawing: a castle with the word techno, joined by a network of lines to hanging labels that spell feudalism](technofeudalism.jpg)
+<small>*By [Narrative Typographer](https://digitale-alertheid.nl/narrative-typography-the-metaphoric-visualisation-of-terms/ "Read about Narrative Typography.") Marco Pieck*</small>
 
 > A political-economic structure in which platform owners extract rent from users and businesses who have no viable alternative — **Varoufakis**'s term, 2023.
 

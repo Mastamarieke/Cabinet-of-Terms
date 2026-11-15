@@ -5,6 +5,8 @@ analytical_layer: mechanism
 status: publieksversie
 version: V2
 analysis_version: pending
+entry_image: nudging.jpg
+entry_image_caption: "By Narrative Typographer Anne-Marie Bruinsma"
 ---
 
 ***The healthy option is at eye level. The unhealthy one is on the bottom shelf. Nobody forced you.***
@@ -12,6 +14,9 @@ analysis_version: pending
 **Literal meaning:** A nudge is a change to the choice environment — the default setting, the order of options, the visual prominence of alternatives — that predictably steers behaviour in a particular direction without forbidding any choice or changing financial incentives. The term comes from behavioural economics.
 
 **Origin:** Richard Thaler and Cass Sunstein introduced the concept in *Nudge* (2008), proposing "libertarian paternalism" — using choice architecture to steer people toward better outcomes while preserving freedom. Governments adopted nudge units: the UK's Behavioural Insights Team (2010) became the most prominent. Digital platforms adopted the same principles, applying them not to promote health or savings but to maximise engagement and data disclosure.
+
+![Drawing: a signpost of arrows that together spell Nudging](nudging.jpg)
+<small>*By [Narrative Typographer](https://digitale-alertheid.nl/narrative-typography-the-metaphoric-visualisation-of-terms/ "Read about Narrative Typography.") Anne-Marie Bruinsma*</small>
 
 > The arrangement of a choice environment to make one option easier than others — a legitimate public health tool that platforms deploy to maximise their own metrics.
 

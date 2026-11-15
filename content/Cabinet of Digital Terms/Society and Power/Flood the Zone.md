@@ -5,6 +5,8 @@ analytical_layer: mechanism
 status: publieksversie
 version: V2
 analysis_version: pending
+entry_image: flood-the-zone.jpg
+entry_image_caption: "By Narrative Typographer Anne-Marie Bruinsma"
 ---
 
 ***There is no single lie to disprove. There is only noise.***
@@ -12,6 +14,9 @@ analysis_version: pending
 **Literal meaning:** **Flood the Zone** is a political communication strategy associated with Steve Bannon, former chief strategist to Donald Trump, who described it explicitly: "**flood the zone** with shit." The strategy involves producing such a volume of claims, stories, and narratives — regardless of their accuracy — that the media and public cannot focus, fact-check, or sustain attention on any single issue.
 
 **Origin:** Bannon articulated the strategy in a 2018 interview. It draws on information warfare theory — specifically the concept of "firehose of falsehood" documented by RAND researchers Christopher Paul and Miriam Matthews in their analysis of Russian information operations. The strategy differs from traditional disinformation: it does not require any single claim to be believed, only that the aggregate volume produces epistemic paralysis.
+
+![Drawing: a dump truck tipping out a pool of muck with the words Flood the zone with shit](flood-the-zone.jpg)
+<small>*By [Narrative Typographer](https://digitale-alertheid.nl/narrative-typography-the-metaphoric-visualisation-of-terms/ "Read about Narrative Typography.") Anne-Marie Bruinsma*</small>
 
 > A political strategy that uses information volume as a weapon — overwhelming the capacity to verify anything, producing confusion as governance.
 

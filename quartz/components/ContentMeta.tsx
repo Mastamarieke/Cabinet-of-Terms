@@ -46,9 +46,9 @@ function stageOf(fileData: QuartzComponentProps["fileData"]): string | null {
   const dir = path.dirname(fp)
   const name = isFolder ? path.basename(dir) : path.basename(fp, ".md")
   const curve = isFolder ? path.join(dir, "attention.json") : path.join(dir, `attention-${name}.json`)
+  // a drawing alone does not make a new version (15-11-2026); build_layers_table.py the same
   const layered =
     "semantic_landscape" in fm ||
-    "entry_image" in fm ||
     (isFolder && fs.existsSync(path.join(dir, "Sources"))) ||
     fs.existsSync(curve)
   return layered ? "Second version" : "First version"

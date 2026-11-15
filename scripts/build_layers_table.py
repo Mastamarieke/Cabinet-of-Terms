@@ -63,7 +63,9 @@ for cluster_dir in sorted(glob.glob(os.path.join(VAULT, "*"))):
         # one entry can be in the third version outside a FULL_METHOD cluster (09-11-2026,
         # Cleanfluencer): 'stage: 3' in its frontmatter; ContentMeta.tsx reads the same field
         stage3 = re.search(r"^stage:\s*3\s*$", fm, re.M) is not None
-        if sources or landscape or n or image or stage3:
+        # a drawing alone does not make a new version (15-11-2026, Marieke: "een tekening alleen
+        # telt niet als nieuwe versie"), when 30 drawings came in at once; ContentMeta.tsx the same
+        if sources or landscape or n or stage3:
             rows.append((cluster, name, sources, landscape, n, image, stage3))
 
 # Clusters that have been through the full method (the five steps in Doctor Alert, 13-10).

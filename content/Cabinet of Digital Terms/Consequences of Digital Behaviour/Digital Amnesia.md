@@ -5,6 +5,8 @@ analytical_layer: consequence
 status: publieksversie
 version: V1
 analysis_version: pending
+entry_image: digital-amnesia.jpg
+entry_image_caption: "By Narrative Typographer Marco Pieck"
 ---
 
 ***You knew the phone number by heart. You have not needed to remember it for four years.***
@@ -12,6 +14,9 @@ analysis_version: pending
 **Literal meaning:** **Digital amnesia** describes the diminished capacity to retain information that a person knows is accessible via a digital device — phone numbers, addresses, dates, facts — because the availability of the digital resource removes the cognitive pressure to commit it to memory.
 
 **Origin:** The term was coined by cybersecurity company Kaspersky Lab in a 2015 consumer study that found large proportions of smartphone users could not recall their children's phone numbers, their partners' numbers, or basic personal information they had previously memorised. The study drew on the concept of the Google Effect — documented by psychologists Sparrow, Liu, and Wegner in a landmark 2011 *Science* paper — which found that people who know information is searchable are less likely to retain it and more likely to remember where to find it than what it contains.
+
+![Drawing: the words Digital Amnesia, with some letters of Amnesia blacked out as if forgotten](digital-amnesia.jpg)
+<small>*By [Narrative Typographer](https://digitale-alertheid.nl/narrative-typography-the-metaphoric-visualisation-of-terms/ "Read about Narrative Typography.") Marco Pieck*</small>
 
 > The reduction in memory retention produced by habitual delegation of recall to digital devices — you remember less because you expect the device to remember for you.
 

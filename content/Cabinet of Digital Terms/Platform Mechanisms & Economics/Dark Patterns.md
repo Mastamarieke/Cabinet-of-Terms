@@ -5,6 +5,8 @@ analytical_layer: cause
 status: publieksversie
 version: V1
 analysis_version: pending
+entry_image: dark-patterns.jpg
+entry_image_caption: "By Narrative Typographer Marieke de Vogel"
 ---
 
 ***The unsubscribe button is grey and tiny. The stay-subscribed button is large and green. Someone made that choice.***
@@ -12,6 +14,9 @@ analysis_version: pending
 **Literal meaning:** **Dark patterns** are interface design choices that work against users' interests — manipulating, misleading, or coercing users into actions they would not take if the interface were honest. The term was coined by UX designer **Harry Brignull** in 2010, who began documenting specific patterns on darkpatterns.org. His own definition now covers "apps, websites and AI systems that stop you doing what you want, or steer you into harmful decisions you would not have made deliberately" — the extension to conversational systems matters, because there the obstruction is not a small grey button but an answer that does not offer the option.
 
 **Origin:** **Brignull** introduced the concept after noticing systematic design choices across commercial websites that exploited users' cognitive tendencies and assumptions. He catalogued them by type: roach motel, sneak into basket, hidden costs, confirmshaming, trick questions, and others. The concept gained rapid traction in UX practice, academia, and — from 2021 onward — in law. In 2024, **Colin Gray**, Nataliia Bielova, Cristiana Santos, and Thomas Mildner published a comprehensive three-level ontology at ACM CHI, harmonising 10 regulatory and academic taxonomies into 65 standardised dark pattern types. The same year, Gray and colleagues documented $245 million in FTC sanctions against Epic Games for **dark patterns** in Fortnite. Brignull has since renamed his own site to deceptive.design and calls the practices **deceptive patterns**, keeping "dark patterns" as the former name. The shift toward [[Deceptive Design]] therefore came from the coiner as well as from the regulators.
+
+![Drawing: a black devil's head with horns and a grin made of the words Dark Patterns](dark-patterns.jpg)
+<small>*By [Narrative Typographer](https://digitale-alertheid.nl/narrative-typography-the-metaphoric-visualisation-of-terms/ "Read about Narrative Typography.") Marieke de Vogel*</small>
 
 > Interface design choices that work against the user — making it easy to do what the platform wants and hard to do what you want.
 

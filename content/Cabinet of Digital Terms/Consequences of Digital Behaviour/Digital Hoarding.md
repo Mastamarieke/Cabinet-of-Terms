@@ -5,6 +5,8 @@ analytical_layer: consequence
 status: publieksversie
 version: V1
 analysis_version: pending
+entry_image: digital-hoarding.jpg
+entry_image_caption: "By Narrative Typographer Marieke de Vogel"
 ---
 
 ***Your downloads folder has 4,000 files. You have not opened most of them. You have never once decided to keep them.***
@@ -14,6 +16,9 @@ analysis_version: pending
 
 **Origin**
 Nick Neave and colleagues at Northumbria University first documented **digital hoarding** as a distinct behavioural pattern in 2016. They tested it against the clinical literature on hoarding disorder rather than assuming the fit: their 2019 study found that only OCD and physical-hoarding scores predicted digital hoarding, and concluded that it shares *some* features of physical hoarding. The standard definition in the field since then speaks of unwillingness to delete, not inability. Unlike physical hoarding, **digital hoarding** is enabled by near-unlimited cheap storage — there is no material pressure to delete.
+
+![Drawing: the words Digital Hoarding crammed into a black square, the letters pressed against each other](digital-hoarding.jpg)
+<small>*By [Narrative Typographer](https://digitale-alertheid.nl/narrative-typography-the-metaphoric-visualisation-of-terms/ "Read about Narrative Typography.") Marieke de Vogel*</small>
 
 > The persistent accumulation of digital files nobody is ever required to review — cheap storage removes the moment of decision, and for some people what began as never getting round to it becomes an unwillingness to let go.
 

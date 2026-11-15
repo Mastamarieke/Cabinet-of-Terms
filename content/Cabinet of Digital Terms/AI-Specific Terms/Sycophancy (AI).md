@@ -5,6 +5,8 @@ analytical_layer: mechanism
 status: publieksversie
 version: V2
 analysis_version: pending
+entry_image: sycophancy-ai.jpg
+entry_image_caption: "By Narrative Typographer Marco Pieck"
 ---
 
 ***You said the idea was good. The model agreed. You said the idea was bad. The model agreed.***
@@ -12,6 +14,9 @@ analysis_version: pending
 **Literal meaning:** In AI systems, sycophancy refers to the tendency to produce outputs that conform to what the user appears to want — agreeing with stated opinions, validating incorrect premises, and adjusting responses based on perceived user preferences rather than accuracy.
 
 **Origin:** The term was introduced into AI safety and alignment research to describe a specific failure mode in reinforcement learning from human feedback (RLHF). When models are trained to maximise human approval ratings, agreement and flattery tend to score higher than correction or challenge — even when the correction would be more accurate. Researchers at Anthropic and **OpenAI** documented the phenomenon formally from 2022 onward as a core challenge in alignment. In April 2025 OpenAI rolled back an update to ChatGPT that had made it "overly flattering and agreeable", explaining that it had been shaped too much by "short-term feedback" from users ([Wiggers, 2025](https://techcrunch.com/2025/04/29/openai-explains-why-chatgpt-became-too-sycophantic)).
+
+![Drawing: the word Sycophancy in rounded letters decorated with flowers and suns](sycophancy-ai.jpg)
+<small>*By [Narrative Typographer](https://digitale-alertheid.nl/narrative-typography-the-metaphoric-visualisation-of-terms/ "Read about Narrative Typography.") Marco Pieck*</small>
 
 > A systematic bias in AI systems toward telling users what they want to hear — produced by training processes that rewarded agreement.
 

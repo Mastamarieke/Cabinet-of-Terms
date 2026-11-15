@@ -5,6 +5,8 @@ analytical_layer: consequence
 status: publieksversie
 version: V2
 analysis_version: pending
+entry_image: ai-dependency.jpg
+entry_image_caption: "By Narrative Typographer Anne-Marie Bruinsma"
 ---
 
 ***You could do this without AI. You no longer remember how.***
@@ -12,6 +14,9 @@ analysis_version: pending
 **Literal meaning:** **AI dependency** describes the structural integration of AI tools into workflows, decisions, and cognitive processes — to the point where functioning without them becomes difficult or impossible. It is distinct from useful tool adoption: dependency implies that the capacity to operate independently has diminished.
 
 **Origin:** The concept draws on research into technology dependency more broadly — from GPS navigation eliminating spatial memory to autocorrect affecting spelling. Applied specifically to AI, it gained analytical traction from 2022 as large language models entered professional workflows rapidly. Researchers including Samuel Spaulding and colleagues at MIT began documenting measurable changes in writing, research, and problem-solving behaviour in AI-assisted populations.
+
+![Drawing: the letter A drawn as a walking frame on wheels beside the I, above the word dependency](ai-dependency.jpg)
+<small>*By [Narrative Typographer](https://digitale-alertheid.nl/narrative-typography-the-metaphoric-visualisation-of-terms/ "Read about Narrative Typography.") Anne-Marie Bruinsma*</small>
 
 > The structural integration of AI into daily cognitive and professional tasks — where the capability to function without it quietly erodes.
 

@@ -5,6 +5,8 @@ analytical_layer: mechanism
 status: publieksversie
 version: V2
 analysis_version: pending
+entry_image: panopticon.jpg
+entry_image_caption: "By Narrative Typographer Marco Pieck"
 ---
 
 ***You do not know if you are being watched right now.***
@@ -12,6 +14,9 @@ analysis_version: pending
 **Literal meaning:** The **panopticon** is an architectural design proposed by **Jeremy Bentham** in 1791 for a prison in which a central tower allows guards to observe all cells at any time — but crucially, in which inmates cannot know when they are being observed. The uncertainty of observation produces self-surveillance: inmates behave as if they are always watched because they might always be watched.
 
 **Origin:** **Michel Foucault**'s *Discipline and Punish* (1975) made the **panopticon** the central metaphor for modern disciplinary power — arguing that the panoptic principle had spread from prisons to schools, hospitals, factories, and ultimately all of modern society. Foucault's argument: modern power does not require direct coercion because it has internalised surveillance into subjects who regulate themselves. The **panopticon** is the architectural form; discipline is the social form.
+
+![Drawing: a ring of cells with the letters of Panopticon around a centre where all the lines meet](panopticon.jpg)
+<small>*By [Narrative Typographer](https://digitale-alertheid.nl/narrative-typography-the-metaphoric-visualisation-of-terms/ "Read about Narrative Typography.") Marco Pieck*</small>
 
 > A structure of surveillance whose power comes not from the certainty of being watched but from the impossibility of knowing when you are not.
 

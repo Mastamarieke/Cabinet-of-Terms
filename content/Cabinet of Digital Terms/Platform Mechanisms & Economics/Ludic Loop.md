@@ -5,6 +5,8 @@ analytical_layer: mechanism
 status: publieksversie
 version: V1
 analysis_version: pending
+entry_image: ludic-loop.jpg
+entry_image_caption: "By Narrative Typographer Marieke de Vogel"
 ---
 
 ***You opened the app to check one thing. Forty minutes later you are still there.***
@@ -14,6 +16,9 @@ analysis_version: pending
 
 **Origin**
 Natasha Dow Schüll coined the concept in *Addiction by Design* (2012), documenting how electronic slot machines are engineered to produce a trance-like state she calls "the machine zone" — where players seek not to win but to maintain the loop. The concept was rapidly applied to mobile games, social media feeds, and notification systems, which share the same structural logic.
+
+![Drawing: an infinity sign with the words Ludic Loop running around it without end](ludic-loop.jpg)
+<small>*By [Narrative Typographer](https://digitale-alertheid.nl/narrative-typography-the-metaphoric-visualisation-of-terms/ "Read about Narrative Typography.") Marieke de Vogel*</small>
 
 > A designed cycle of anticipation, action, and reward with no natural endpoint — keeping you engaged not through satisfaction but through the promise of it.
 

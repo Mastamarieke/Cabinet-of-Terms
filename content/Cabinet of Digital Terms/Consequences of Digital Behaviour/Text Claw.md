@@ -5,6 +5,8 @@ analytical_layer: consequence
 status: publieksversie
 version: V1
 analysis_version: pending
+entry_image: text-claw.jpg
+entry_image_caption: "By Narrative Typographer Marieke de Vogel"
 ---
 
 ***Your fingers cramp after an hour of scrolling. Your physiotherapist has started seeing a pattern.***
@@ -12,6 +14,9 @@ analysis_version: pending
 **Literal meaning:** **Text claw** describes pain, cramping, and stiffness in the fingers, thumb, and wrist caused by the repetitive micro-movements of texting, scrolling, and swiping on a smartphone. The term covers a cluster of related conditions: cubital tunnel syndrome from prolonged elbow flexion, trigger thumb from tendon inflammation, and the general cramping that hand surgeons increasingly see in smartphone users.
 
 **Origin:** The condition has existed since the typewriter era — repetitive strain of the fingers is not new. What is new is the scale and duration. A 2024 *Scientific American* report cited hand surgeon Brandon Donnelly documenting growing volumes of smartphone-related hand injuries. A survey by mobile **provider** O2 found that 43% of smartphone users had experienced thumb pain. The term "**text claw**" circulated in physiotherapy and sports medicine before reaching mainstream media.
+
+![Drawing: a hand cramped into a claw, with the words Text Claw on it](text-claw.jpg)
+<small>*By [Narrative Typographer](https://digitale-alertheid.nl/narrative-typography-the-metaphoric-visualisation-of-terms/ "Read about Narrative Typography.") Marieke de Vogel*</small>
 
 > Repetitive strain injury of the hands and fingers produced by sustained smartphone use — a physical symptom of platform design.
 
