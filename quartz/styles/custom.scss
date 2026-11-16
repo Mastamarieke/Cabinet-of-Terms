@@ -919,7 +919,14 @@ html.has-head #page-head.on {
   -webkit-mask: center / contain no-repeat;
   mask: center / contain no-repeat;
 }
-.popover > .popover-inner.has-cluster {
+/* in search the card is narrower than the preview pane: it keeps the width of the card at a link */
+.search .preview-inner > .term-preview-inner { max-width: 32rem; padding: 0.4rem 0 1rem; }
+.search .preview-inner > .term-preview-inner .article-title { font-size: 1.7rem; }
+.search .preview-inner > .term-preview-inner p,
+.search .preview-inner > .term-preview-inner blockquote { font-size: 1rem; line-height: 1.5; }
+.search .preview-inner > .term-preview-inner .preview-drawing { height: 160px; }
+.popover > .popover-inner.has-cluster,
+.search .preview-inner > .has-cluster {
   border-top: 4px solid var(--cluster-color);
   .cluster-icon {
     color: var(--cluster-color);

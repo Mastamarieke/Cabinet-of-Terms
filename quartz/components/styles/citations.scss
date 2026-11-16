@@ -11,6 +11,18 @@
   }
 }
 
+// ▾ and ↘ phrases: a light dotted line, always visible, red when pointed at or open (16-11-2026)
+.sourced.opens {
+  text-decoration: underline dotted color-mix(in srgb, var(--han-red) 45%, transparent);
+  text-decoration-thickness: 1.5px;
+  text-underline-offset: 4px;
+  &:hover,
+  &.hot,
+  &.lit {
+    text-decoration-color: var(--han-red);
+  }
+}
+
 // the asterisk is small; its tap area is not
 .src-mark {
   position: relative;
@@ -52,14 +64,21 @@
   vertical-align: 0.12em;
   color: var(--han-red);
   background: none;
-  border: 1px solid var(--lightgray);
+  // a pink edge you can see, filled red when open (16-11-2026; was a light grey edge that vanished)
+  border: 1.5px solid color-mix(in srgb, var(--han-red) 45%, transparent);
   border-radius: 50%;
   cursor: pointer;
+  transition: background 0.15s, color 0.15s, border-color 0.15s;
 
-  &[aria-expanded="true"],
   &.hot,
   &:hover {
     border-color: var(--han-red);
+  }
+
+  &[aria-expanded="true"] {
+    background: var(--han-red);
+    border-color: var(--han-red);
+    color: #fff;
   }
 
   // the triangle and the arrow are small glyphs: set them larger inside the same round

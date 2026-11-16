@@ -88,9 +88,12 @@
   animation-delay: 0.2s;
 }
 
-// the preview of an entry (11-10): path, title, first line, definition
+// the preview of an entry (11-10): path, title, first line, definition; also in search (16-11-2026)
 .popover > .popover-inner.term-preview-inner {
   width: 24rem;
+}
+.popover > .popover-inner.term-preview-inner,
+.search .preview-inner > .term-preview-inner {
   max-height: none;
   padding: 0.8rem 1.1rem 1rem;
   user-select: text;

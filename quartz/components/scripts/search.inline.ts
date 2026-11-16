@@ -2,6 +2,7 @@ import FlexSearch, { DefaultDocumentSearchResults } from "flexsearch"
 import { ContentDetails } from "../../plugins/emitters/contentIndex"
 import { registerEscapeHandler, removeAllChildren } from "./util"
 import { FullSlug, normalizeRelativeURLs, resolveRelative } from "../../util/path"
+import { previewCard } from "./previewCard"
 
 interface Item {
   id: number
@@ -410,6 +411,15 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
         }
         const html = p.parseFromString(contents ?? "", "text/html")
         normalizeRelativeURLs(html, targetUrl)
+        // an entry or a cluster: the same short card as the preview at a link (16-11-2026,
+        // Marieke: the whole page showed an empty graph, yellow marks and sources in brackets).
+        // The card sits in a wrapper because the preview takes the children of what comes back.
+        const card = document.createElement("div")
+        if (previewCard(html, new URL(targetUrl), card)) {
+          const wrap = document.createElement("div")
+          wrap.appendChild(card)
+          return [wrap]
+        }
         return [...html.getElementsByClassName("popover-hint")]
       })
 

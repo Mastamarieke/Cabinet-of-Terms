@@ -73,6 +73,10 @@ function makePanel(p: HTMLElement) {
     }, { signal })
     if (c.phrase) {
       c.phrase.classList.add("sourced")
+      // a phrase that opens a note or leads somewhere is marked before you point at it, so a
+      // phone shows where to tap (16-11-2026, variant D of werk/prototype-kaartje-volkskrant.html);
+      // a source phrase stays plain, its red asterisk is enough
+      if (c.kind !== "star") c.phrase.classList.add("opens")
       c.phrase.addEventListener("click", () => c.button.click(), { signal })
       c.phrase.addEventListener("mouseenter", () => c.button.classList.add("hot"), { signal })
       c.phrase.addEventListener("mouseleave", () => c.button.classList.remove("hot"), { signal })

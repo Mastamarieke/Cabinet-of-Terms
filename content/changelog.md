@@ -6,6 +6,8 @@ title: "What changed"
 
 ## November 2026
 
+- **SITE** · a phrase that opens a note or leads to a video is marked in the text, so you see where to tap; search shows the same short card as the preview at a link
+- **TERM** · [[Aurafarming]]: the race that went viral, as a video
 - **TERM** · [[Aurafarming]]: from a boat in Riau to the street
 - **TERM** · [[Attention Economy]]: a new definition
 - **SITE** · the cluster icons of the D.Alert game on the cluster cards, and the cluster's colour and icon in the preview when you point at a term
