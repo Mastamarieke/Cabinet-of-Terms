@@ -104,6 +104,10 @@ function geo() {
   const W = document.documentElement.clientWidth
   head.style.paddingLeft = L + "px"
   head.style.paddingRight = W - R + "px"
+  // the text column, for the search window (custom.scss, 16-11-2026, Marieke: "vastzetten op
+  // de middelste kolom")
+  document.documentElement.style.setProperty("--text-col-left", L + "px")
+  document.documentElement.style.setProperty("--text-col-width", R - L + "px")
   // the name in the red band centred over the same column as the title, so the two line up
   // (08-11-2026, Marieke: "de titel is niet uitgelijnd")
   if (mast) {

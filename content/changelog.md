@@ -6,7 +6,7 @@ title: "What changed"
 
 ## November 2026
 
-- **SITE** · a phrase that opens a note or leads to a video is marked in the text, so you see where to tap; search shows the same short card as the preview at a link
+- **SITE** · see where to tap, and a short card in search
 - **TERM** · [[Aurafarming]]: the race that went viral, as a video
 - **TERM** · [[Aurafarming]]: from a boat in Riau to the street
 - **TERM** · [[Attention Economy]]: a new definition

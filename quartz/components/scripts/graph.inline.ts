@@ -2416,6 +2416,22 @@ function cleanupGlobalGraphs() {
   globalGraphCleanups = []
 }
 
+// the semantic field in the search preview (search.inline.ts, 16-11-2026): one at a time; a new
+// result clears the old drawing first, and closing search (detail null) clears it too
+let searchGraphCleanup: (() => void) | null = null
+let searchGraphTurn = 0
+document.addEventListener("search-graph", async (e) => {
+  const turn = ++searchGraphTurn
+  searchGraphCleanup?.()
+  searchGraphCleanup = null
+  const d = (e as CustomEvent<{ container: HTMLElement; slug: FullSlug } | null>).detail
+  if (!d || !d.container.isConnected) return
+  const cleanup = await renderGraph(d.container, d.slug)
+  // a newer result came in while this one was drawing: drop this one
+  if (turn !== searchGraphTurn) cleanup()
+  else searchGraphCleanup = cleanup
+})
+
 let expandedGraphCleanups: (() => void)[] = []
 
 function cleanupExpandedGraphs() {

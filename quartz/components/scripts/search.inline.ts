@@ -86,6 +86,7 @@ let index = new FlexSearch.Document<Item>({
 
 const p = new DOMParser()
 const fetchContentCache: Map<FullSlug, Element[]> = new Map()
+let fieldTimer = 0
 const contextWindowWords = 30
 const numSearchResults = 8
 const numTagResults = 5
@@ -229,6 +230,8 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
     if (preview) {
       removeAllChildren(preview)
     }
+    clearTimeout(fieldTimer)
+    document.dispatchEvent(new CustomEvent("search-graph", { detail: null }))
     searchLayout.classList.remove("display-results")
     searchType = "basic" // reset search type after closing
     searchButton.focus()
@@ -416,6 +419,15 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
         // The card sits in a wrapper because the preview takes the children of what comes back.
         const card = document.createElement("div")
         if (previewCard(html, new URL(targetUrl), card)) {
+          // under the definition the entry's semantic field, drawn by graph.inline.ts once the
+          // preview is shown (16-11-2026, Marieke: the drawing on top, the graph under it). Only
+          // the panel and its toggles: the loupe and the full map belong to the page.
+          const field = html.querySelector(".graph.graph-card")?.cloneNode(true) as HTMLElement | undefined
+          if (field) {
+            field.querySelectorAll(".global-graph-outer, .expanded-graph-outer, .graph-overlay-actions, .expand-graph-icon, .global-graph-icon").forEach((x) => x.remove())
+            field.classList.add("search-field")
+            card.querySelector(".term-preview")?.appendChild(field)
+          }
           const wrap = document.createElement("div")
           wrap.appendChild(card)
           return [wrap]
@@ -447,6 +459,16 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
     // away, the search field out of view at the top and the list half off to the left (16-11-2026).
     // So every box above the preview is put back where it was. A card needs no scrolling.
     const first = highlights[0] as HTMLElement | undefined
+    // the semantic field: ask the graph script to draw it, after a short pause so that running
+    // down the list with the arrow keys does not start a drawing for every result
+    clearTimeout(fieldTimer)
+    const field = previewInner.querySelector<HTMLElement>(".search-field .graph-container")
+    if (field) {
+      fieldTimer = window.setTimeout(() => {
+        if (field.isConnected)
+          document.dispatchEvent(new CustomEvent("search-graph", { detail: { container: field, slug } }))
+      }, 250)
+    }
     if (!first || previewInner.querySelector(".term-preview")) {
       preview.scrollTop = 0
     } else {

@@ -915,6 +915,18 @@ html.has-head #page-head.on {
   height: auto !important;
   overflow-x: hidden;
 }
+// on a computer the search field and the results sit over the text column, edge to edge with
+// the text (16-11-2026); the column's edges come from masthead.inline.ts. Phone: as before.
+@media (min-width: 801px) {
+  .search > .search-container > .search-space {
+    width: var(--text-col-width, 65%) !important;
+    margin-left: var(--text-col-left, auto) !important;
+    margin-right: 0 !important;
+  }
+  .search > .search-container > .search-space > .search-layout[data-preview] > .results-container {
+    flex: 0 0 36% !important;
+  }
+}
 
 // the cluster icons from the D.Alert game (15-11-2026): a CSS mask, so one file in
 // static/cluster-icons takes the colour of the text around it (menu, preview); see util/clusters.ts
@@ -935,6 +947,7 @@ html.has-head #page-head.on {
 .search .preview-inner > .term-preview-inner p,
 .search .preview-inner > .term-preview-inner blockquote { font-size: 1rem; line-height: 1.5; }
 .search .preview-inner > .term-preview-inner .preview-drawing { height: 160px; }
+.search .preview-inner > .term-preview-inner .search-field { margin: 1rem 0 0; }
 .popover > .popover-inner.has-cluster,
 .search .preview-inner > .has-cluster {
   border-top: 4px solid var(--cluster-color);
