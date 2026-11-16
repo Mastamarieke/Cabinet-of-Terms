@@ -14,6 +14,21 @@ export default ((opts?: Options) => {
     const links = opts?.links ?? []
     return (
       <footer class={`${displayClass ?? ""}`}>
+        {/* who made the Cabinet, on every page in the same place (16-11-2026, Marieke; until then
+            only at the bottom of the front page) */}
+        <p class="footer-row footer-credit">
+          The Cabinet of Digital Terms is initiated and curated by Marieke de Vogel. It is developed
+          within Project Digital Alertness, with support from the{" "}
+          <a href="https://www.han.nl/opleidingen/hbo/communication-multimedia-design/voltijd/">
+            Communication &amp; Multimedia Design programme
+          </a>{" "}
+          of <a href="https://www.hanuniversity.com/en/">HAN University of Applied Sciences</a> and
+          in dialogue with the{" "}
+          <a href="https://www.han.nl/onderzoek/lectoraten/lectoraat-media-design/">
+            Media Design Research Group
+          </a>
+          .
+        </p>
         {/* two centred lines (08-11-2026, Marieke: "in een zin en gecentreerd"): the project and
             contact, then Quartz and its links */}
         <p class="footer-row footer-row-project">

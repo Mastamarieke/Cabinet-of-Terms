@@ -77,3 +77,12 @@ a.project-logo.external::after {
     display: block !important;
   }
 }
+
+// who made the Cabinet (16-11-2026): running text, not a row of items, so no flex
+footer .footer-row.footer-credit {
+  display: block;
+  max-width: 44rem;
+  margin: 0 auto 0.8rem;
+  font-size: 0.85rem;
+  line-height: 1.5;
+}

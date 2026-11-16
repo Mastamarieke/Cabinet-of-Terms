@@ -948,6 +948,7 @@ html.has-head #page-head.on {
 .search .preview-inner > .term-preview-inner blockquote { font-size: 1rem; line-height: 1.5; }
 .search .preview-inner > .term-preview-inner .preview-drawing { height: 160px; }
 .search .preview-inner > .term-preview-inner .search-field { margin: 1rem 0 0; }
+.search .preview-inner > .term-preview-inner .search-field .graph-toggles * { font-size: 0.68rem !important; white-space: nowrap; }
 .popover > .popover-inner.has-cluster,
 .search .preview-inner > .has-cluster {
   border-top: 4px solid var(--cluster-color);
