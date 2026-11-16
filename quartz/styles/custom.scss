@@ -905,6 +905,16 @@ html.has-head #page-head.on {
 #quartz-body .sidebar.left:has(.search-container.active) {
   z-index: 1000 !important;
 }
+// as wide as the window, not 100vw: in Safari, where the scrollbar is always shown, 100vw is a
+// scrollbar wider than the window, so the search window could slide sideways and the list was
+// cut off on the left (16-11-2026, Marieke: "hij is gewoon te breed"; see CLAUDE.md, 100vw)
+.search > .search-container {
+  right: 0;
+  bottom: 0;
+  width: auto !important;
+  height: auto !important;
+  overflow-x: hidden;
+}
 
 // the cluster icons from the D.Alert game (15-11-2026): a CSS mask, so one file in
 // static/cluster-icons takes the colour of the text around it (menu, preview); see util/clusters.ts

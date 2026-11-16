@@ -442,7 +442,24 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
     const highlights = [...preview.getElementsByClassName("highlight")].sort(
       (a, b) => b.innerHTML.length - a.innerHTML.length,
     )
-    highlights[0]?.scrollIntoView({ block: "start" })
+    // scroll only the preview itself: scrollIntoView also scrolls every box around it, and in
+    // Safari (which treats overflow: clip on #quartz-root as a scroll box) the whole window slid
+    // away, the search field out of view at the top and the list half off to the left (16-11-2026).
+    // So every box above the preview is put back where it was. A card needs no scrolling.
+    const first = highlights[0] as HTMLElement | undefined
+    if (!first || previewInner.querySelector(".term-preview")) {
+      preview.scrollTop = 0
+    } else {
+      const around: [Element, number, number][] = []
+      for (let e = preview.parentElement; e; e = e.parentElement) around.push([e, e.scrollTop, e.scrollLeft])
+      const se = document.scrollingElement
+      if (se) around.push([se, se.scrollTop, se.scrollLeft])
+      first.scrollIntoView({ block: "start" })
+      for (const [e, top, left] of around) {
+        e.scrollTop = top
+        e.scrollLeft = left
+      }
+    }
   }
 
   async function onType(e: HTMLElementEventMap["input"]) {
