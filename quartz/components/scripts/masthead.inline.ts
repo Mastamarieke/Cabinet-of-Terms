@@ -8,6 +8,8 @@
 // Nothing in the page flow changes while scrolling: an earlier version moved the side columns
 // with the title and the page jumped back and forth.
 
+import { clusterOf } from "../../util/clusters"
+
 const SITE = "Cabinet of Digital Terms"
 
 let mast: HTMLElement | null = null
@@ -63,7 +65,16 @@ function build() {
       const path = el("div", "", "path")
       crumbs.forEach((a, i) => {
         if (i) path.appendChild(el("span", " › ", "sep"))
-        path.appendChild(el("a", a.textContent!.trim(), undefined, a.getAttribute("href") ?? ""))
+        const link = el("a", a.textContent!.trim(), undefined, a.getAttribute("href") ?? "")
+        // the cluster in words and in its own colour, a link to its page (16-11-2026, Marieke:
+        // "niet echt helder welk cluster het is"; no icon, "dat wordt te druk")
+        const cl = i === 0 ? clusterOf((link as HTMLAnchorElement).pathname) : null
+        if (cl) {
+          link.className = "cl"
+          link.style.setProperty("--cl", cl.color)
+          link.prepend(el("span", "Cluster ", "cl-label"))
+        }
+        path.appendChild(link)
       })
       head.appendChild(path)
     }

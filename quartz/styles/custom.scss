@@ -609,6 +609,11 @@ html.has-head #page-head.on { display: block; position: fixed; left: 0; right: 0
 #page-head .path { font-size: 0.8rem; line-height: 1.3; color: var(--gray); font-weight: 600; max-height: 2em; overflow: hidden; transition: max-height 0.2s ease, opacity 0.2s ease; }
 #page-head .path a { color: var(--gray) !important; text-decoration: none; background: none !important; }
 #page-head .path a:hover { color: var(--secondary) !important; }
+/* the cluster in its own colour, a little larger (16-11-2026) */
+#page-head .path { max-height: 2.4em; }
+#page-head .path a.cl { color: var(--cl) !important; font-size: 0.95rem; }
+#page-head .path a.cl .cl-label { font-weight: 400; }
+#page-head .path a.cl:hover { text-decoration: underline; }
 #page-head .ttl { margin: 0; line-height: 1.05; transition: font-size 0.2s ease; }
 #page-head.compact { padding-top: 0.35rem; padding-bottom: 0.4rem; }
 #page-head.compact .path { max-height: 0; opacity: 0; }
