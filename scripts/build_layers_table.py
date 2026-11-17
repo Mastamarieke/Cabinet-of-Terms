@@ -108,9 +108,9 @@ def grouped(rs):
 lines = [
     "| | entries | which |",
     "|---|---|---|",
-    f"| **Third version**: argued and sourced | {len(full)} | {grouped(full)} |",
-    f"| **Second version**: mapped | {len(earlier)} | {grouped(earlier)} |",
-    f"| **First version**: written and placed | {rest_count} | all other entries, in these clusters: " + " · ".join(f"[[{c}]]" for c in rest_clusters) + " |",
+    f"| **Third version**: grounded and curated | {len(full)} | {grouped(full)} |",
+    f"| **Second version**: mapped and told | {len(earlier)} | {grouped(earlier)} |",
+    f"| **First version**: generated and placed | {rest_count} | all other entries, in these clusters: " + " · ".join(f"[[{c}]]" for c in rest_clusters) + " |",
 ]
 table = "\n".join(lines)
 

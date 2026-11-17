@@ -6,6 +6,7 @@ title: "What changed"
 
 ## November 2026
 
+- **SITE** · [[how-an-entry-grows|the three versions]] get new names
 - **SITE** · see where to tap, and a short card in search
 - **TERM** · [[Aurafarming]]: the race that went viral, as a video
 - **TERM** · [[Aurafarming]]: from a boat in Riau to the street

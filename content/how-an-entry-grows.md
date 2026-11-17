@@ -12,9 +12,9 @@ The Cabinet is a living lab, a place to experiment: that is a liberty we take. T
 Each version adds to the one before. Open a version to see what it brings, with an example of each part.
 
 <details>
-<summary><span aria-hidden="true" style="display:inline-flex;align-items:center;justify-content:center;width:1.5em;height:1.5em;border-radius:50%;background:#F4A3C2;color:#2b2b2b;font-size:.8em;font-weight:700;margin-right:.45em">1</span><strong>First version · written and placed</strong><span style="display:block;margin:.1em 0 0 2.15em;font-size:.84em;font-weight:400;color:var(--darkgray)">In every entry: the term gets a name, a first analysis in five parts, and a graph of its links.</span></summary>
+<summary><span aria-hidden="true" style="display:inline-flex;align-items:center;justify-content:center;width:1.5em;height:1.5em;border-radius:50%;background:#F4A3C2;color:#2b2b2b;font-size:.8em;font-weight:700;margin-right:.45em">1</span><strong>First version · generated and placed</strong><span style="display:block;margin:.1em 0 0 2.15em;font-size:.84em;font-weight:400;color:var(--darkgray)">In every entry: the term gets a name, a first analysis in five parts, and a graph of its links.</span></summary>
 
-*Online since May 2026.*
+*Notes in Obsidian since April 2026, online since May 2026.*
 
 - **The term**: the curator proposes it and provides its background.
 - **The text**: a language model generates it from the cartographic prompt: an **opening line**, a **definition** and **five parts** (Literal meaning, Origin, The Appeal, The Friction, Why This Matters).
@@ -84,7 +84,7 @@ Above every entry stands its **semantic field**, the graph of its neighbours. Th
 </details>
 
 <details>
-<summary><span aria-hidden="true" style="display:inline-flex;align-items:center;justify-content:center;width:1.5em;height:1.5em;border-radius:50%;background:#EC5590;color:#ffffff;font-size:.8em;font-weight:700;margin-right:.45em">2</span><strong>Second version · mapped</strong><span style="display:block;margin:.1em 0 0 2.15em;font-size:.84em;font-weight:400;color:var(--darkgray)">You discover the connections: the sources in the graph, a landscape that tells it as a story, sometimes a curve or a drawing.</span></summary>
+<summary><span aria-hidden="true" style="display:inline-flex;align-items:center;justify-content:center;width:1.5em;height:1.5em;border-radius:50%;background:#EC5590;color:#ffffff;font-size:.8em;font-weight:700;margin-right:.45em">2</span><strong>Second version · mapped and told</strong><span style="display:block;margin:.1em 0 0 2.15em;font-size:.84em;font-weight:400;color:var(--darkgray)">You discover the connections: the sources in the graph, a landscape that tells it as a story, sometimes a curve or a drawing.</span></summary>
 
 *Since July 2026.*
 
@@ -116,7 +116,7 @@ In some entries a designer draws the term as an image: **Narrative Typography**.
 </details>
 
 <details>
-<summary><span aria-hidden="true" style="display:inline-flex;align-items:center;justify-content:center;width:1.5em;height:1.5em;border-radius:50%;background:#E50056;color:#ffffff;font-size:.8em;font-weight:700;margin-right:.45em">3</span><strong>Third version · argued and sourced</strong><span style="display:block;margin:.1em 0 0 2.15em;font-size:.84em;font-weight:400;color:var(--darkgray)">You can check it: every claim has a source you can open, every relation a reason, a curve shows when the term drew attention, and the entry ends with a question for you.</span></summary>
+<summary><span aria-hidden="true" style="display:inline-flex;align-items:center;justify-content:center;width:1.5em;height:1.5em;border-radius:50%;background:#E50056;color:#ffffff;font-size:.8em;font-weight:700;margin-right:.45em">3</span><strong>Third version · grounded and curated</strong><span style="display:block;margin:.1em 0 0 2.15em;font-size:.84em;font-weight:400;color:var(--darkgray)">You can check it: every claim has a source you can open, every relation a reason, a curve shows when the term drew attention, and the entry ends with a question for you.</span></summary>
 
 *Since October 2026, starting with [[Privacy, Data and Control]].*
 
@@ -165,9 +165,9 @@ From the first word clouds to the third version. Choose a version to jump to it,
 <!-- layers:start -->
 | | entries | which |
 |---|---|---|
-| **Third version**: argued and sourced | 12 | [[Beauty, Influencers & Self-Image]]: [[Cleanfluencer]]<br>[[Platform Mechanisms & Economics]]: [[Enshittification]]<br>[[Privacy, Data and Control]]: [[Algorithmic Violence]] · [[Brussels Effect]] · [[CLOUD Act]] · [[Data Brokers]] · [[Dataism]] · [[Privacy as a Premium]] · [[Privacy Washing]] · [[Security Theater]] · [[Surveillance Capitalism]] · [[Vendor Lock-in]] |
-| **Second version**: mapped | 28 | [[AI-Specific Terms]]: [[AI-Ninja]]<br>[[Beauty, Influencers & Self-Image]]: [[Virtual Influencer]]<br>[[Behaviour & Relationships]]: [[Parasocial Relationship]]<br>[[Gender & Identity]]: [[Alpha Male]] · [[Blackpill]] · [[High Value Man]] · [[Hypergamy]] · [[Incel]] · [[Looksmaxxing]] · [[Manosphere]] · [[MGTOW]] · [[NPC]] · [[Podcast-bro]] · [[Provider]] · [[Red Pill]] · [[Rizz]] · [[Sigma Male]] · [[SMV (Sexual Market Value)]] · [[Stay-at-home Girlfriend (SAHG)]] · [[Top 1% Man]] · [[Tradwife]] · [[Womanosphere]]<br>[[Parents & Children]]: [[Predatory Design]] · [[Sharenting]]<br>[[Platform Mechanisms & Economics]]: [[Ragebaiting]] · [[Recommender Systems]]<br>[[Subcultural Vocabulary and Platform Language]]: [[Aurafarming]] · [[Gooner]] |
-| **First version**: written and placed | 221 | all other entries, in these clusters: [[AI and Energy]] · [[AI-Specific Terms]] · [[Beauty, Influencers & Self-Image]] · [[Behaviour & Relationships]] · [[Consequences of Digital Behaviour]] · [[Counter-Movements]] · [[Culture Wars and Political Language]] · [[Design Philosophy and Ethical Design]] · [[End-Times Thinking and Elite Survivalism]] · [[Inclusion, Accessibility and Ageing]] · [[Manifestos]] · [[New Digital Professions]] · [[Parents & Children]] · [[Platform Mechanisms & Economics]] · [[SF as Ideology]] · [[Society and Power]] · [[Statements as Analytical Object]] · [[Subcultural Vocabulary and Platform Language]] |
+| **Third version**: grounded and curated | 12 | [[Beauty, Influencers & Self-Image]]: [[Cleanfluencer]]<br>[[Platform Mechanisms & Economics]]: [[Enshittification]]<br>[[Privacy, Data and Control]]: [[Algorithmic Violence]] · [[Brussels Effect]] · [[CLOUD Act]] · [[Data Brokers]] · [[Dataism]] · [[Privacy as a Premium]] · [[Privacy Washing]] · [[Security Theater]] · [[Surveillance Capitalism]] · [[Vendor Lock-in]] |
+| **Second version**: mapped and told | 28 | [[AI-Specific Terms]]: [[AI-Ninja]]<br>[[Beauty, Influencers & Self-Image]]: [[Virtual Influencer]]<br>[[Behaviour & Relationships]]: [[Parasocial Relationship]]<br>[[Gender & Identity]]: [[Alpha Male]] · [[Blackpill]] · [[High Value Man]] · [[Hypergamy]] · [[Incel]] · [[Looksmaxxing]] · [[Manosphere]] · [[MGTOW]] · [[NPC]] · [[Podcast-bro]] · [[Provider]] · [[Red Pill]] · [[Rizz]] · [[Sigma Male]] · [[SMV (Sexual Market Value)]] · [[Stay-at-home Girlfriend (SAHG)]] · [[Top 1% Man]] · [[Tradwife]] · [[Womanosphere]]<br>[[Parents & Children]]: [[Predatory Design]] · [[Sharenting]]<br>[[Platform Mechanisms & Economics]]: [[Ragebaiting]] · [[Recommender Systems]]<br>[[Subcultural Vocabulary and Platform Language]]: [[Aurafarming]] · [[Gooner]] |
+| **First version**: generated and placed | 221 | all other entries, in these clusters: [[AI and Energy]] · [[AI-Specific Terms]] · [[Beauty, Influencers & Self-Image]] · [[Behaviour & Relationships]] · [[Consequences of Digital Behaviour]] · [[Counter-Movements]] · [[Culture Wars and Political Language]] · [[Design Philosophy and Ethical Design]] · [[End-Times Thinking and Elite Survivalism]] · [[Inclusion, Accessibility and Ageing]] · [[Manifestos]] · [[New Digital Professions]] · [[Parents & Children]] · [[Platform Mechanisms & Economics]] · [[SF as Ideology]] · [[Society and Power]] · [[Statements as Analytical Object]] · [[Subcultural Vocabulary and Platform Language]] |
 <!-- layers:end -->
 
 </details>
