@@ -21,6 +21,15 @@ const Voice: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
       </button>
       <span class="voice-label">Reading</span>
       <span class="voice-now"></span>
+      {/* man or woman (17-11-2026, Marieke): picks the best voice of that kind on this machine */}
+      <span class="voice-who" role="group" aria-label="Woman or man">
+        <button type="button" data-who="f" aria-pressed="false">
+          Woman
+        </button>
+        <button type="button" data-who="m" aria-pressed="false">
+          Man
+        </button>
+      </span>
       <label class="voice-choice">
         <span>Voice</span>
         <select class="voice-pick" aria-label="Choose a voice"></select>

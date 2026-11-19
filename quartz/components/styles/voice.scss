@@ -131,3 +131,68 @@ blockquote.is-spoken {
   text-decoration-color: var(--han-red) !important;
   box-shadow: 0 0 0 2px var(--han-red-light);
 }
+
+// Woman · Man in the reading bar (17-11-2026)
+.voice-bar .voice-who {
+  flex: 0 0 auto;
+  display: inline-flex;
+  border: 1px solid var(--lightgray);
+  border-radius: 999px;
+  overflow: hidden;
+  button {
+    border: 0;
+    background: transparent;
+    color: var(--darkgray);
+    font: inherit;
+    font-weight: 600;
+    padding: 0.25em 0.75em;
+    cursor: pointer;
+    & + button {
+      border-left: 1px solid var(--lightgray);
+    }
+    &:hover:not(:disabled) {
+      color: var(--han-red);
+    }
+    &[aria-pressed="true"] {
+      background: var(--han-red);
+      color: #fff;
+    }
+    &:disabled {
+      opacity: 0.35;
+      cursor: default;
+    }
+  }
+}
+@media (max-width: 560px) {
+  .voice-bar {
+    flex-wrap: wrap;
+  }
+}
+
+// A− / A+ at the end of the line above the entry; only the entry's own text grows
+.content-meta .text-size {
+  display: inline-flex;
+  gap: 0.25em;
+  vertical-align: middle;
+  button {
+    min-width: 2.1em;
+    height: 1.7em;
+    padding: 0 0.4em;
+    border: 1.5px solid color-mix(in srgb, var(--han-red) 45%, transparent);
+    border-radius: 999px;
+    background: transparent;
+    color: var(--han-red);
+    font: 700 0.85rem/1 var(--bodyFont);
+    cursor: pointer;
+    &:hover:not(:disabled) {
+      border-color: var(--han-red);
+    }
+    &:disabled {
+      opacity: 0.35;
+      cursor: default;
+    }
+  }
+}
+html[data-text-size] .center > .popover-hint > article {
+  font-size: calc(1em * var(--entry-text, 1));
+}

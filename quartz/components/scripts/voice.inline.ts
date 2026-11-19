@@ -202,7 +202,98 @@ window.cabinetVoice = {
   release,
 }
 
-async function fillPicker(select: HTMLSelectElement) {
+// Man or woman (17-11-2026, Marieke: "en kiezen tussen man vrouw?"). The browser does not say,
+// so it goes by the name of the voice; a voice that is in neither list counts as neither, and a
+// button with no voice of its kind on this machine is greyed out.
+const WOMEN =
+  /^(Serena|Kate|Stephanie|Moira|Karen|Tessa|Samantha|Fiona|Martha|Catherine|Veena|Tara)\b|Google UK English Female|Google US English|Microsoft (Sonia|Libby|Hazel|Susan|Zira|Aria|Jenny|Maisie)/i
+const MEN =
+  /^(Daniel|Oliver|Jamie|Arthur|Rishi|Aman|Lee|Gordon)\b|Google UK English Male|Microsoft (Ryan|Thomas|George|David|Mark|Guy)/i
+function whoOf(v: SpeechSynthesisVoice | undefined): string {
+  if (!v) return ""
+  return WOMEN.test(v.name) ? "f" : MEN.test(v.name) ? "m" : ""
+}
+// the best voice of a kind: the preferred names first, then the order of the list
+function bestOf(voices: SpeechSynthesisVoice[], who: string): SpeechSynthesisVoice | undefined {
+  const kind = voices.filter((v) => whoOf(v) === who)
+  for (const re of PREFERRED) {
+    const hit = kind.find((v) => re.test(v.name))
+    if (hit) return hit
+  }
+  return kind[0]
+}
+function markWho(b: HTMLElement, voices: SpeechSynthesisVoice[]) {
+  for (const btn of b.querySelectorAll<HTMLButtonElement>(".voice-who button")) {
+    const who = btn.dataset.who ?? ""
+    btn.disabled = !voices.some((v) => whoOf(v) === who)
+    btn.setAttribute("aria-pressed", String(whoOf(chosen) === who))
+  }
+}
+
+// Text size (17-11-2026, Marieke: "een loep om de tekst beter te lezen"): A− and A+ at the end of
+// the line above the entry, six steps, kept in localStorage. Only the text of the entry grows,
+// not the columns beside it.
+const SIZE_STORE = "cabinet-text-size"
+const SIZES = [0.9, 1, 1.12, 1.25, 1.4, 1.6]
+// read once; kept in memory too, so the buttons work where storage is blocked
+let textSize = (() => {
+  let s = 1
+  try {
+    s = Number(localStorage.getItem(SIZE_STORE) ?? "1")
+  } catch {}
+  return SIZES.includes(s) ? s : 1
+})()
+function applySize(s: number) {
+  const root = document.documentElement
+  if (s === 1) {
+    root.removeAttribute("data-text-size")
+    root.style.removeProperty("--entry-text")
+  } else {
+    root.setAttribute("data-text-size", "")
+    root.style.setProperty("--entry-text", String(s))
+  }
+}
+function wireTextSize() {
+  const meta = [...document.querySelectorAll<HTMLElement>(".content-meta")].find((m) => m.offsetParent !== null)
+  if (!meta || meta.querySelector(".text-size")) return
+  const box = document.createElement("span")
+  box.className = "text-size"
+  box.setAttribute("role", "group")
+  box.setAttribute("aria-label", "Text size")
+  box.innerHTML =
+    '<button type="button" class="ts-down" aria-label="Smaller text" title="Smaller text">A−</button>' +
+    '<button type="button" class="ts-up" aria-label="Larger text" title="Larger text">A+</button>'
+  const down = box.querySelector<HTMLButtonElement>(".ts-down")!
+  const up = box.querySelector<HTMLButtonElement>(".ts-up")!
+  const set = (s: number) => {
+    textSize = s
+    applySize(s)
+    down.disabled = s === SIZES[0]
+    up.disabled = s === SIZES[SIZES.length - 1]
+    try {
+      localStorage.setItem(SIZE_STORE, String(s))
+    } catch {}
+  }
+  const step = (d: number) => () => {
+    const i = SIZES.indexOf(textSize)
+    set(SIZES[Math.min(SIZES.length - 1, Math.max(0, i + d))])
+  }
+  const onDown = step(-1)
+  const onUp = step(1)
+  down.addEventListener("click", onDown)
+  up.addEventListener("click", onUp)
+  set(textSize)
+  meta.appendChild(box)
+  window.addCleanup(() => {
+    down.removeEventListener("click", onDown)
+    up.removeEventListener("click", onUp)
+    box.remove()
+  })
+}
+
+applySize(textSize) // before the first paint of the page, so the text does not jump
+
+async function fillPicker(select: HTMLSelectElement): Promise<SpeechSynthesisVoice[]> {
   const voices = englishVoices(await voicesReady())
   select.replaceChildren()
   if (voices.length === 0) {
@@ -210,7 +301,7 @@ async function fillPicker(select: HTMLSelectElement) {
     o.textContent = "no English voice on this machine"
     select.appendChild(o)
     select.disabled = true
-    return
+    return voices
   }
   chosen = chooseDefault(voices)
   for (const v of voices) {
@@ -221,6 +312,7 @@ async function fillPicker(select: HTMLSelectElement) {
     select.appendChild(o)
   }
   select.disabled = false
+  return voices
 }
 
 // The definition is the first quote of the entry. A small speaker beside it reads it, with
@@ -259,28 +351,56 @@ function wireDefinition(term: string) {
 
 document.addEventListener("nav", () => {
   const b = bar()
-  if (!b) return
+  // only an entry has the bar; elsewhere the text keeps its own size
+  if (!b) {
+    applySize(1)
+    return
+  }
   b.hidden = true
   const term = b.dataset.term ?? ""
   const select = b.querySelector<HTMLSelectElement>(".voice-pick")
   const stopBtn = b.querySelector<HTMLButtonElement>(".voice-stop")
   if (select) {
-    void fillPicker(select)
-    const onPick = () => {
-      chosen = voicesNow().find((v) => v.voiceURI === select.value) ?? chosen
+    let voices: SpeechSynthesisVoice[] = []
+    void fillPicker(select).then((vs) => {
+      voices = vs
+      markWho(b, voices)
+    })
+    const remember = () => {
       try {
         if (chosen) localStorage.setItem(STORE, chosen.voiceURI)
       } catch {}
+      markWho(b, voices)
       // a new voice mid-sentence: stop, the listener presses play again
       if (window.cabinetVoice.speaking()) stop()
     }
+    const onPick = () => {
+      chosen = voicesNow().find((v) => v.voiceURI === select.value) ?? chosen
+      remember()
+    }
+    const onWho = (e: Event) => {
+      const who = (e.currentTarget as HTMLElement).dataset.who ?? ""
+      const best = bestOf(voices, who)
+      if (!best) return
+      chosen = best
+      select.value = best.voiceURI
+      remember()
+    }
+    const whoBtns = [...b.querySelectorAll<HTMLButtonElement>(".voice-who button")]
     select.addEventListener("change", onPick)
-    window.addCleanup(() => select.removeEventListener("change", onPick))
+    whoBtns.forEach((w) => w.addEventListener("click", onWho))
+    window.addCleanup(() => {
+      select.removeEventListener("change", onPick)
+      whoBtns.forEach((w) => w.removeEventListener("click", onWho))
+    })
   }
   if (stopBtn) {
     stopBtn.addEventListener("click", stop)
     window.addCleanup(() => stopBtn.removeEventListener("click", stop))
   }
-  if (term) wireDefinition(term)
+  if (term) {
+    wireDefinition(term)
+    wireTextSize()
+  }
   window.addCleanup(() => stop())
 })
