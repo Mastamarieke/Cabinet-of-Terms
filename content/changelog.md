@@ -6,6 +6,9 @@ title: "What changed"
 
 ## November 2026
 
+- **TERM** · [[Tradwife]]: who earns from it, who watches it
+- **SITE** · drawn terms on the front page
+- **SITE** · read larger with A− A+, and choose a voice
 - **SITE** · [[how-an-entry-grows|the three versions]] get new names
 - **SITE** · see where to tap, and a short card in search
 - **TERM** · [[Aurafarming]]: the race that went viral, as a video

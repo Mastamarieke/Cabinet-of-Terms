@@ -72,7 +72,7 @@ Five ways of seeing a term or a cluster:
 - *Semantic field*, above every entry: the term in the middle, its neighbours on a ring grouped by cluster, its sources as books.
 - *Attention curve*, in revised entries: when the word drew attention, in page views, search interest and research.
 - *Relations*, on every cluster page: how the terms of a cluster connect to the other clusters, in both directions.
-- *Narrative Typography*, in four entries: the term drawn as an image, so that its form shows its meaning.
+- *Narrative Typography*, in 30+ entries: the term drawn as an image, so that its form shows its meaning.
 - *You, in orbits of influence*, the map used in every revision: the clusters arranged around you, by how close they come to your daily life.
 
 <div class="flipcards flipcards-grid flipcards-detail">
@@ -130,7 +130,7 @@ On every cluster page: how its terms connect to the other clusters, in both dire
 <div class="flipcard" tabindex="0" role="button" aria-pressed="false" aria-label="Narrative Typography: turn the card">
 <div class="flip-face flip-front">
 <img class="shot" src="beeld/homepage-tradwife.jpg" alt="Tradwife, drawn as Narrative Typography">
-<span class="flip-where">since the second version, in four entries</span><span class="flip-name">Narrative Typography</span><span class="flip-caption">By Narrative Typographer Marieke de Vogel</span><span class="flip-tools"><button type="button" class="flip-zoom" data-img="beeld/homepage-tradwife.jpg" data-alt="Tradwife, drawn as Narrative Typography" aria-label="Enlarge Narrative Typography">enlarge ⤢</button><span class="flip-turn">turn ↻</span></span>
+<span class="flip-where">in 30+ entries</span><span class="flip-name">Narrative Typography</span><span class="flip-caption">By Narrative Typographer Marieke de Vogel</span><span class="flip-tools"><button type="button" class="flip-zoom" data-img="beeld/homepage-tradwife.jpg" data-alt="Tradwife, drawn as Narrative Typography" aria-label="Enlarge Narrative Typography">enlarge ⤢</button><span class="flip-turn">turn ↻</span></span>
 </div>
 <div class="flip-face flip-back">
 

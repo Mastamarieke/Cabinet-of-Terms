@@ -107,7 +107,7 @@ Some entries in the second version, and every entry in the third, carry their so
 <details>
 <summary><strong>Narrative Typography</strong></summary>
 
-In some entries a designer draws the term as an image: **Narrative Typography**. Four entries have one so far: [[Tradwife]], [[Looksmaxxing]], [[Sigma Male]] and [[Predatory Design]]. In [[Tradwife]], by Narrative Typographer Marieke de Vogel:
+In some entries a designer draws the term as an image: **Narrative Typography**. 30+ entries have one so far, among them [[Tradwife]], [[Predatory Design]], [[Tech Neck]] and [[Doomscrolling]], by four designers. In [[Tradwife]], by Narrative Typographer Marieke de Vogel:
 
 ![Tradwife, drawn as Narrative Typography](beeld/homepage-tradwife.jpg)
 
