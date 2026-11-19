@@ -280,3 +280,89 @@ Artefact: her own work, not a source about her. For what happened to her and to 
 ### Related entries
 
 - [[Tradwife]] — the first public face of the word, in Origin
+
+---
+
+## 14. Not the Solution We Proposed: Feminist Psychological Insights into the Tradwife Phenomenon
+
+**Author:** Diana E. Betz, Miriam Liss, Laura R. Ramsey
+**Year:** 2026
+**Type:** Academic article, peer-reviewed; the editors' introduction to a special issue
+**Publisher:** Psychology of Women Quarterly, 50(2), 123–131
+**URL:** https://doi.org/10.1177/03616843261442440
+**Access:** open access (CC BY-NC 4.0)
+
+### What this source contributes
+
+The introduction to a special issue of seven studies on tradwives. The editors name the conditions that prepared the ground: a feminist revolution that stalled at home, where men still do less than half of the housework and much less of the planning; the pandemic, when people baked bread and planted gardens and feeds of cottagecore carried many women on to tradwife content; and a far-right politics that, like the tradwives, trades on nostalgia. They point to the contradiction of monetising the message that wives should not earn, note that the life is "an oppression only available to women with privilege", and summarise the issue's other studies, among them Hopner & Sykes (2026) on women who "de-tradded", rejecting the label while keeping the life, or leaving the life itself. They also set out the feminist alternative: valuing care in a feminist way means men take it on too, and care work matters for everyone.
+
+### Status
+
+Read in full, 19 November 2026. Held as secondary, not primary, because it is an introduction: most of what it reports comes from the other articles in the issue. Until 19 November 2026 this was a primary source of the entry, with a wrong title ("…Feminist Perspectives on the Tradwife Trend"), two wrong first names, invented affiliations and the access given as paywalled; all corrected here against Crossref and the article.
+
+### Related entries
+
+- [[Tradwife]] — the conditions in The Appeal, the feminist answer in Why This Matters
+- [[Stay-at-home Girlfriend (SAHG)]] — Hopner & Sykes (2026), summarised here, is a primary source there
+
+---
+
+## 15. Unpacking (Alt-Right) Postfeminist Sensibilities: Theorizing the Tradwife Influencer Movement Through Case Study Analysis
+
+**Author:** Sanjana Basker, Panteá Farvid, Juliana Riccardi, Claire McGinley, Rebekah Nathan, Ivol Frasier
+**Year:** 2026
+**Type:** Academic article, peer-reviewed
+**Publisher:** Psychology of Women Quarterly, 50(2), 132–148
+**URL:** https://doi.org/10.1177/03616843261442447
+
+### What this source contributes
+
+Defines tradwives, "a portmanteau from the words 'traditional' and 'wife'", as a trend among social media influencers who advocate a return to restrictive gender norms, and reads the trend as postfeminist: individual lifestyle solutions offered for social problems. Its case study is the British tradwife Alena Kate Pettitt.
+
+### Status
+
+Assessed from the abstract only; the full text is closed.
+
+### Related entries
+
+- [[Tradwife]] — the definition of the word, and Pettitt as the first public face
+
+---
+
+## 16. Tradwife — Cambridge Dictionary
+
+**Author:** Cambridge University Press
+**Year:** 2025
+**Type:** Dictionary entry
+**Publisher:** Cambridge Dictionary
+**URL:** https://dictionary.cambridge.org/dictionary/english/tradwife
+
+### What this source contributes
+
+The word was added in August 2025. The definition: "a married woman, especially one who posts on social media, who stays at home doing cooking, cleaning, etc. and has children that she takes care of. Tradwife is short for traditional wife." Cambridge University Press called it "a growing, controversial Instagram and TikTok trend that embraces traditional gender roles" (AFP, via Dawn, 18 August 2025: https://www.dawn.com/news/1931643/skibidi-tradwife-delulu-social-media-words-added-to-cambridge-dictionary).
+
+### Status
+
+The definition was copied from the dictionary's website by the curator on 19 November 2026; the site does not admit automated reading.
+
+### Related entries
+
+- [[Tradwife]] — the dictionary definition in Literal meaning
+
+---
+
+## 17. Emancipatiemonitor 2026
+
+**Author:** CBS (Statistics Netherlands)
+**Year:** 2026
+**Type:** Official statistics
+**Publisher:** CBS, 13 November 2026
+**URL:** https://www.cbs.nl/nl-nl/nieuws/2026/46/vrouwen-gaan-steeds-minder-terug-in-inkomen-bij-geboorte-eerste-kind
+
+### What this source contributes
+
+The Dutch government's two-yearly monitor of women and men. Women who worked before their first child and gave birth in 2016–2018 earned 32.8 percent less from work six years later; for fathers the drop was 3.1 percent. For mothers who gave birth in 1996–2001 the drop was 57.4 percent. "Ruim 9 op de 10 mannelijke werknemers met een kind jonger dan 1 jaar nemen geboorteverlof op. Van hen gebruikt de helft de volledige zes weken." The summary also records that in one-parent families mothers are twice as often poor as fathers, and that in most couples the woman does more of the housework and care. Summary: https://longreads.cbs.nl/emancipatiemonitor-2026/
+
+### Related entries
+
+- [[Tradwife]] — the change in the Netherlands in Why This Matters
