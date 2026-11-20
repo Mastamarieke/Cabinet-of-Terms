@@ -339,7 +339,7 @@ Assessed from the abstract only; the full text is closed.
 
 ### What this source contributes
 
-The word was added in August 2025. The definition: "a married woman, especially one who posts on social media, who stays at home doing cooking, cleaning, etc. and has children that she takes care of. Tradwife is short for traditional wife." Cambridge University Press called it "a growing, controversial Instagram and TikTok trend that embraces traditional gender roles" (AFP, via Dawn, 18 August 2025: https://www.dawn.com/news/1931643/skibidi-tradwife-delulu-social-media-words-added-to-cambridge-dictionary).
+The word was added in August 2025. The definition: "a married woman, especially one who posts on social media, who stays at home doing cooking, cleaning, etc. and has children that she takes care of. Tradwife is short for traditional wife." Cambridge University Press called it "a growing, controversial Instagram and TikTok trend that embraces traditional gender roles" (AFP, via Dawn, 18 August 2025: https://www.dawn.com/news/1931643/skibidi-tradwife-delulu-social-media-words-added-to-cambridge-dictionary). It was one of 6,212 words added that year, together with "skibidi" and "delulu" (CBS News, 18 August 2025: https://www.cbsnews.com/news/cambridge-dictionary-new-words-skibidi-delulu-tradwife). Not a word of the year.
 
 ### Status
 
