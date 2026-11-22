@@ -461,3 +461,21 @@ A profile of Nara Smith, whose from-scratch cooking videos were widely read as t
 ### Related entries
 
 - [[Tradwife]] — Origin: the rejection of the label began in 2024, not in 2026
+
+---
+
+## 23. Behind the Bread: What Tradwives Are Actually Selling
+
+**Author:** Claremont Graduate University (news article on the research of Caroline Kline, research assistant professor in the School of Arts & Humanities, who teaches courses on gender and Mormonism)
+**Year:** 2026
+**Type:** Journalism (university news, with an expert's quotes)
+**Publisher:** Claremont Graduate University, 2 June 2026
+**URL:** https://www.cgu.edu/news/2026/06/behind-the-bread-what-tradwives-are-actually-selling/
+
+### What this source contributes
+
+Why Latter-day Saint women are among the most visible tradwives. The article states that "Mormon women were among the earliest adopters of mommy blogging when the format emerged in the early 2000s", and that members of the Church of Jesus Christ of Latter-day Saints "are encouraged to keep journals and record their lives". These lines are the article's own narration, not quotes from Kline. Kline contrasts early mommy blogging, "writing about the messiness of motherhood", with tradwife content organised "around aspiration and visual polish", and names Hannah Neeleman and Nara Smith as Latter-day Saint tradwife influencers. On the paradox: "these are very smart businesswomen who are monetizing this content … They're not confining themselves to a domestic role in which only their husbands make the money." Read in full in a PDF of the page supplied by the curator, 22 November 2026.
+
+### Related entries
+
+- [[Tradwife]] — Origin: the form is older than the word, from the Mormon mommy blogs of the early 2000s
