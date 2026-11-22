@@ -401,7 +401,7 @@ The announcement of Nara Smith's episode of Call Her Daddy, titled "Stop Calling
 
 ### Related entries
 
-- [[Tradwife]] — Origin: the second best-known face of the word turns it down
+- [[Tradwife]] — Origin: two years after her first rejection of the label, Smith turns it down again
 
 ---
 
@@ -443,3 +443,21 @@ A report by a nonprofit newsroom that describes its mission as "to build power f
 
 - [[Tradwife]] — background to the girlboss turn in The Appeal, and the women who cannot afford the life
 - [[Stay-at-home Girlfriend (SAHG)]] — the soft life and the girlboss backlash
+
+---
+
+## 22. The Un-Trad Rise of Nara Aziza Smith
+
+**Author:** Bianca Betancourt
+**Year:** 2024
+**Type:** Journalism (profile)
+**Publisher:** Harper's Bazaar, August 2024 (read in the copy on Harper's Bazaar India, 10 September 2024, which states that the article first appeared on harpersbazaar.com in August 2024)
+**URL:** https://harpersbazaar.in/fashion/story/the-un-trad-rise-of-nara-aziza-smith-1089680-2024-09-10
+
+### What this source contributes
+
+A profile of Nara Smith, whose from-scratch cooking videos were widely read as tradwife content. Smith rejects the label two years before her Call Her Daddy episode: "That's one of the narratives that I have a really hard time wrapping my head around: the trad wife, whatever it is," and "Being put into a certain box, just because people think that I'm slaving away, is so weird to me." She calls herself "a working mom who gets to go about her day in a very different way than [someone with] a normal nine-to-five job would", and says: "I post videos of me cooking for my kids and my husband. It's really not that deep."
+
+### Related entries
+
+- [[Tradwife]] — Origin: the rejection of the label began in 2024, not in 2026
