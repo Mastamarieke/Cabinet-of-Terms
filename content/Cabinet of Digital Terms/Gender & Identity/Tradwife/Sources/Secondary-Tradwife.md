@@ -479,3 +479,21 @@ Why Latter-day Saint women are among the most visible tradwives. The article sta
 ### Related entries
 
 - [[Tradwife]] — Origin: the form is older than the word, from the Mormon mommy blogs of the early 2000s
+
+---
+
+## 24. Tradwife: Between Myths and Realities
+
+**Author:** Constance Beaufils, Heejung Chung, Shiyu Yuan (Global Institute for Women's Leadership, King's College London), foreword by Julia Gillard
+**Year:** 2025
+**Type:** Research report (survey and secondary data analysis, not peer-reviewed)
+**Publisher:** King's Global Institute for Women's Leadership, King's Business School, October 2025
+**URL:** https://www.kcl.ac.uk/giwl/assets/giwl-tradwife-report.pdf
+
+### What this source contributes
+
+A survey of 1,000 women aged 18 to 34 in the UK (930 after quality checks, September 2025), read next to the British Social Attitudes Survey (1984–2022), the Gender and Generations Survey and labour force and time use data. Young women are mostly negative about tradwife content: 59 per cent think it has a negative impact on society, fewer than 8 per cent would definitely adopt the lifestyle. What appeals is "a relaxed, calm, low-stress lifestyle" (79 per cent), not men as decision makers (7 per cent) or women as main carers (16 per cent). The report contrasts the videos with sociological research on mothers outside paid work, who experience "a heavy load of unpaid labour, a demanding daily pace, and social devaluation", economic insecurity, poor health and "lowest levels of income in later life"; women without an income of their own "tend to have reduced bargaining power" (p. 10). It also notes, as estimates, the income of Hannah Neeleman and Nara Smith from social media (p. 12), and that both come from Mormon communities (note 10). Read in full in a PDF supplied by the curator, 22 November 2026.
+
+### Related entries
+
+- [[Tradwife]] — Why This Matters: what the life costs the women who live it without an audience
