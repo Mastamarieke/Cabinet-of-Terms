@@ -366,3 +366,80 @@ The Dutch government's two-yearly monitor of women and men. Women who worked bef
 ### Related entries
 
 - [[Tradwife]] — the change in the Netherlands in Why This Matters
+
+---
+
+## 18. Ballerina Farm Talks About Yesteryear, Tradwife Discourse
+
+**Author:** Stephanie McNeal
+**Year:** 2026
+**Type:** Journalism (interview)
+**Publisher:** Vulture (New York Magazine), 16 June 2026
+**URL:** https://www.vulture.com/article/ballerina-farm-interview-yesteryear-tradwife.html
+
+### What this source contributes
+
+An interview with Hannah Neeleman. The introduction states that she "doesn't consider herself to be a tradwife, but she knows many people do". Asked what she thinks of tradwife discourse, she answers: "Before tradwives, it was the mommy-blogger phase, right? People have always been fascinated with mothers making money being at home with their children," and adds that when the term tradwife comes up, "I don't lean into them." She also describes editing a reel and answering emails until half past three at night. The occasion is the novel *Yesteryear*, whose main character readers connected with her.
+
+### Related entries
+
+- [[Tradwife]] — Origin: in 2026 the woman most associated with the word turns it down and calls it making money
+
+---
+
+## 19. Nara Smith: Stop Calling Me a Tradwife
+
+**Author:** SiriusXM (about the podcast Call Her Daddy, hosted by Alex Cooper)
+**Year:** 2026
+**Type:** Journalism (podcast announcement)
+**Publisher:** SiriusXM, 29 July 2026
+**URL:** https://www.siriusxm.com/blog/nara-smith-trad-wife-call-her-daddy
+
+### What this source contributes
+
+The announcement of Nara Smith's episode of Call Her Daddy, titled "Stop Calling Me a Tradwife". Smith pushes back on the label: she and her husband Lucky Blue Smith split parenting and the household, he does the cleaning and the dishes, she cooks because she enjoys it, and she calls herself "a working mom who runs her content business herself". The episode itself was not heard; this item rests on the announcement.
+
+### Related entries
+
+- [[Tradwife]] — Origin: the second best-known face of the word turns it down
+
+---
+
+## 20. Trad Wife Answers TOUGH Questions
+
+**Author:** Michael Knowles, with Estee Williams
+**Year:** 2023
+**Type:** Video (interview on a conservative commentator's show)
+**Publisher:** YouTube, 3 July 2023
+**URL:** https://www.youtube.com/watch?v=SzKGwaUdC8w
+
+### What this source contributes
+
+A friendly interview with Estee Williams, then 25 and viral on TikTok as a tradwife. She says the word came from the internet ("the online world gave it the term Trad wife for short"), that her generation grew up in "the boss babe era", and that a woman who wants this life must "learn to depend on your husband and buy a house within means of his income". Knowles himself names the contradiction: "the irony of that is you've got to be a public girl boss kind of to do that, to tell people … on Instagram to live a normal life", and she agrees. Read from a transcript supplied by the curator; date and channel checked on the YouTube page.
+
+### Status
+
+The source is the phenomenon itself: a tradwife and a supportive host presenting the life, not an analysis of it.
+
+### Related entries
+
+- [[Tradwife]] — the girlboss note in The Appeal: the tradwife's own account of the turn, and the host naming the contradiction
+
+---
+
+## 21. We Found The REAL Reason Gen Z Wants To Be Tradwives
+
+**Author:** Madeline Peltz (reporter), More Perfect Union
+**Year:** 2026
+**Type:** Video journalism
+**Publisher:** More Perfect Union (YouTube), 18 March 2026
+**URL:** https://www.youtube.com/watch?v=dZ-Hsh1B2TA
+
+### What this source contributes
+
+A report by a nonprofit newsroom that describes its mission as "to build power for working people". Peltz traces the turn from the girlboss of the 2010s to the soft life and the tradwife, visits a Turning Point USA conference, and meets two women who live traditionally without an audience: Esther, 24, a Catholic adjunct lecturer in Ohio whose family relied on SNAP and Medicaid during her pregnancy, and Jesse, a homesteader in New Hampshire who works a corporate job. Her conclusion: "The girlboss and tradwife are two sides of the same capitalist coin." The figures in the video (pay gap, Medicaid births, youth vote) are not checked here. Read from a transcript supplied by the curator; date and makers checked on the YouTube page.
+
+### Related entries
+
+- [[Tradwife]] — background to the girlboss turn in The Appeal, and the women who cannot afford the life
+- [[Stay-at-home Girlfriend (SAHG)]] — the soft life and the girlboss backlash
