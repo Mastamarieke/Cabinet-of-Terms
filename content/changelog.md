@@ -6,6 +6,7 @@ title: "What changed"
 
 ## November 2026
 
+- **TERM** · Gender & Identity: each Literal meaning now explains the word before the definition, from [[Manosphere]] to [[Tradwife]]
 - **TERM** · [[Tradwife]]: who earns from it, who watches it
 - **SITE** · drawn terms on the front page
 - **SITE** · read larger with A− A+, and choose a voice
