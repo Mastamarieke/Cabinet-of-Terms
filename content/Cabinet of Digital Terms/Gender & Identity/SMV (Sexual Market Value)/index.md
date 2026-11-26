@@ -14,7 +14,7 @@ semantic_landscape: |
 
 ***Attractiveness, status, and income reduced to a single number. The number determines your worth.***
 
-**Literal meaning:** **SMV**, sexual market value, is the manosphere's name for a person's worth as a partner, reduced to a score, usually from 1 to 10, that adds up looks, money, status and personality. The phrase joins the most private word, *sexual*, to the language of prices, *market value*: joined, they make a partner something you can rate, compare and trade up from.
+**Literal meaning:** *SMV* stands for *sexual market value*, a phrase from pickup-artist and incel forums. The phrase joins the most private word, *sexual*, to the language of prices, *market value*. Together they make a partner something you can rate, compare and trade up from. **[[SMV (Sexual Market Value)|SMV]]** is the manosphere's name for a person's worth as a partner, reduced to a score, usually from 1 to 10, that adds up looks, money, status and personality.
 
 **Origin:** The market image is older than the manosphere. The social psychologists [[Baumeister-SMV-2004|Baumeister and Vohs (2004)]] described heterosexual courtship as a marketplace in which men offer resources in exchange for sex, at a "price" set by supply and demand. Pickup-artist, red-pill and incel forums turned the image into a score anyone could hand out, and it became the shared frame behind [[Looksmaxxing]], [[Hypergamy]] and the alpha/beta hierarchy.
 

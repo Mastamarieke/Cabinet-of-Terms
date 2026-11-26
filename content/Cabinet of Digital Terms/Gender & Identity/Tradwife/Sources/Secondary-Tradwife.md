@@ -497,3 +497,26 @@ A survey of 1,000 women aged 18 to 34 in the UK (930 after quality checks, Septe
 ### Related entries
 
 - [[Tradwife]] — Why This Matters: what the life costs the women who live it without an audience
+
+---
+
+## 25. Life of a Tradwife: Our purpose is to be homemakers
+
+**Author:** Newsner, with Estee Williams
+**Year:** 2023
+**Type:** Video (short portrait by a video agency)
+**Publisher:** YouTube (Newsnercom), 29 April 2023
+**URL:** https://www.youtube.com/watch?v=VG9BAxvfUwM
+
+### What this source contributes
+
+A three-minute portrait of Estee Williams in her own words. She says tradwives "believe our purpose is to be homemakers", that this does not mean "we are trying to take away what women fought for", and that they are "here as women for a different role, equally as important". Her husband, an electrician, is "the breadwinner" and "does not have to lift a finger when he is at home". She calls it "not really a movement, nobody's pushing it", and says she shares her life "to show an example for women: this is what you can have with the right man". Read from a transcript supplied by the curator; date and channel checked on the YouTube page.
+
+### Status
+
+The source is the phenomenon itself: a tradwife presenting the life, not an analysis of it.
+
+### Related entries
+
+- [[Tradwife]] — Literal meaning: the first sense of the word, in the words of a woman who claims it
+

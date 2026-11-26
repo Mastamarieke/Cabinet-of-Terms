@@ -14,7 +14,7 @@ semantic_landscape: |
 
 ***Three hours, unedited, enormously influential. Nobody fact-checked it.***
 
-**Literal meaning:** **Podcast-bro** names a figure and a format: a male host, usually young to middle-aged, who mixes self-improvement, masculinity, politics and culture in long, loosely edited conversations, reaching large audiences outside traditional media. *Bro* is what you call a friend, not an expert, and that is the format's promise.
+**Literal meaning:** *Podcast* is a blend of *iPod* and *broadcast*. *Bro*, short for *brother*, is a friendly way to address a man, and, usually in compounds and meant as a put-down, someone who aggressively evangelizes a person, idea or technology. Together the words carry both: a friend you listen to for hours, and a man who wants you convinced. **[[Podcast-bro]]** names a figure and a format: a male host, usually young to middle-aged, who mixes self-improvement, masculinity, politics and culture in long, loosely edited conversations, reaching large audiences outside traditional media.
 
 **Origin:** The type took shape in the late 2010s as long-form podcasting grew, with Joe Rogan as its model; [[Secondary-Podcastbro|Bozzi (2024)]] reads his show as a platform of its own, shaped by its deals with Spotify and YouTube. The format's voices are mostly male: of the hosts of the 100 most popular US podcasts of 2024, 64% were men and 77% white ([[Secondary-Podcastbro|Annenberg Inclusion Initiative, 2025]]), and 40% of European listeners say women are underrepresented as hosts ([[Secondary-Podcastbro|Davies & Aveillan, 2026]]).
 

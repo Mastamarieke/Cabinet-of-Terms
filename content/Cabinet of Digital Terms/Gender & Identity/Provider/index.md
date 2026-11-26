@@ -14,7 +14,7 @@ semantic_landscape: |
 
 ***He pays. She stays. The arrangement is framed as nature, not negotiation.***
 
-**Literal meaning:** In **manosphere** discourse a **provider** is a man who offers money and security to a partner, framed not as care but as exchange: he provides resources, she provides domestic work and access. The word is warmer than its use: to *provide*, from the Latin *providere*, is to see ahead for someone. The manosphere keeps the money and leaves out the care.
+**Literal meaning:** *Provider* is *provide* with the agent ending *-er*, in use since the fifteenth century, and *provide* comes from the Latin *providere*, to foresee, to act with foresight. One of its plainest senses is to make a living, to earn money for necessities. In the [[Manosphere|manosphere]] the word keeps the money and leaves out the foresight. A **[[Provider|provider]]** there is a man who offers money and security to a partner, framed not as care but as exchange: he provides resources, she provides domestic work and access.
 
 **Origin:** The breadwinner role is old; what is new is its framing as a market position within [[SMV (Sexual Market Value)]]. In red-pill vocabulary the provider is set against the [[Alpha Male|alpha]], who gets relationships without paying for them, which casts providers as the ones being used. The norm underneath is measurable: [[Bertrand-Provider-2015|Bertrand, Kamenica and Pan (2015)]] found that in US marriages the share of income earned by the wife drops sharply just past the point where she would out-earn her husband, and that this aversion affects marriage, women's work, satisfaction, divorce and the division of housework.
 

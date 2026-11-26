@@ -19,7 +19,7 @@ attention_moments:
 
 ***A man on your feed explains that there are two kinds of men, and that you can learn to become the other kind. The course costs money.***
 
-**Literal meaning:** **Alpha male** names the dominant, high-status man at the top of a hierarchy in which men compete, with the *beta* as the one who loses. Alpha and beta are the first letters of the Greek alphabet, so the words themselves make a ranking, a scale on which every man has a place; the manosphere later added more letters ([[Sigma Male]]). The metaphor brings the wolf pack with it: a group held together by fights over rank.
+**Literal meaning:** *Alpha male* puts *alpha*, the first letter of the Greek alphabet, before *male*. In zoology it is the dominant male in a group of animals, and from the 1990s it was used for men too. The letter brings a ranking with it, a scale on which every man has a place: the *beta* below the alpha, and later more letters ([[Sigma Male]]). An **[[Alpha Male|alpha male]]** is the dominant, high-status man at the top of a hierarchy in which men compete. The animal image brings the wolf pack along: a group held together by fights over rank.
 
 **Origin:** The image comes from studies of captive wolves, unrelated animals put together in enclosures, and reached a wide audience through L. David Mech's book *The Wolf* (1970). Mech's own years of watching wolves in the wild changed his mind: a wild pack is a family, and the wolves that lead it are its parents ([[Mech-AlphaMale-1999|Mech, 1999]]). He has spent decades correcting the term, and the book went out of print in 2022. By then the alpha had moved into pickup-artist and [[Manosphere]] vocabulary.
 

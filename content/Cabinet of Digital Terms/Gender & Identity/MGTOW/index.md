@@ -17,7 +17,7 @@ attention_moments:
 
 ***He withdrew from relationships with women entirely. He posts about it every day.***
 
-**Literal meaning:** **MGTOW** — Men Going Their Own Way — names men who withdraw from romantic and sexual relationships with women, and present that withdrawal as a rational answer to a legal, social and sexual order they see as rigged against men. *Going their own way* sounds like a man on his own road, needing nobody.
+**Literal meaning:** *MGTOW* stands for *Men Going Their Own Way*, a male separatist, anti-feminist [[Manosphere|manosphere]] movement. *Going their own way* sounds like a man on his own road, needing nobody. **[[MGTOW]]** names men who withdraw from romantic and sexual relationships with women, and present that withdrawal as a rational answer to a legal, social and sexual order they see as rigged against men.
 
 **Origin:** The movement took shape online in the mid-2000s, out of men's rights activism but separatist: instead of changing laws or norms, it advises leaving. Its range runs from men who simply prefer to live alone to open hatred of women. Reddit put r/MGTOW behind a warning screen in January 2020, after reports that a Coast Guard officer, later sentenced for weapons and drug offences, had visited it tens of thousands of times, and banned it in August 2021 for promoting hate ([[Secondary-MGTOW|Pedroja (2021)]]).
 

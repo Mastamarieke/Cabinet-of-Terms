@@ -16,7 +16,7 @@ entry_image_caption: "By Narrative Typographer Anne-Marie Bruinsma"
 
 ***The target is always moving. Whatever you have achieved, the standard is slightly higher.***
 
-**Literal meaning:** **Top 1% man** is the manosphere's name for the man at the top of every scale at once: looks, money, status, fitness, sexual success. The figure is a percentile, borrowed from wealth statistics and fitness charts. Taken across all of them together, the top 1% is almost nobody.
+**Literal meaning:** *Top 1% man* borrows its figure from the *one-percenter*, a member of the top one percent of a population by wealth or ability, especially where wealth is unequal. Put before *man*, the percentile moves from wealth statistics to the dating market. A **[[Top 1% Man|top 1% man]]** is the manosphere's name for the man at the top of every scale at once: looks, money, status, fitness, sexual success. Taken across all of them together, the top 1% is almost nobody.
 
 **Origin:** The idea circulates in [[Podcast-bro|podcasts]], YouTube self-improvement content and TikTok, and in forum theory: Italian [[Red Pill|red-pill]] and [[Incel|incel]] communities explain attraction through "LMS", looks, money and status ([[Cannito-Top1-2022|Cannito and Ferrero Camoletto, 2022]]). In April 2024 the figure got a jingle: Megan Boni's twenty-second TikTok, "I'm looking for a man in finance, trust fund, 6'5", blue eyes", passed 38 million views; she said she meant it to mock women with impossible lists ([[Secondary-Top1|Dickler, 2024]]).
 

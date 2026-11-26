@@ -17,7 +17,7 @@ attention_moments:
 
 ***The hierarchy is fixed. Your position in it is determined at birth. Nothing you do will change it.***
 
-**Literal meaning:** The **blackpill** is the belief, in **incel** and **manosphere** communities, that romantic and social outcomes are fixed by biology — bone structure, height, genes — and that no effort can change your place in the sexual hierarchy. It adds a colour to the scale: if the red pill is a harsh truth, the black one is a truth that cannot be changed.
+**Literal meaning:** *Blackpill* takes the [[Red Pill|red pill]] and changes its colour. Older black pills were an opium pill and a poison pill. If the red pill is a harsh truth, the black one is a truth that cannot be changed. The **[[Blackpill|blackpill]]** is the belief, first in incel and [[Manosphere|manosphere]] slang, that appearance, genes and other traits you cannot change decide your success in dating, and that effort is futile. In a wider sense it now stands for a nihilistic outlook, usually but not always far-right.
 
 **Origin:** The term grew out of red-pill vocabulary on incel forums in the 2010s and comes with its own pseudo-science of faces: "lookism", "canthal tilt" and other measures that give determinism the look of data. Its first large home, r/Incels, with about 41,000 members, was banned by Reddit in November 2017 under its rules against violent content ([[Secondary-Blackpill|Vanian, 2017]]).
 
